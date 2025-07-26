@@ -1,6 +1,6 @@
-# 📖 Traduções da Bíblia
+# 📖 Tradução da Bíblia: Tradução do Novo Mundo das Escrituras Sagradas com Referências (Rbi8, pt-BR, 1986)
 
-Este repositório pode ser acessado online no endereço: https://www.raciocinios.com.br/
+Este repositório pode ser acessado online no endereço: https://rbi8-pt-br.bible.raciocinios.com.br/
 
 ---
 
