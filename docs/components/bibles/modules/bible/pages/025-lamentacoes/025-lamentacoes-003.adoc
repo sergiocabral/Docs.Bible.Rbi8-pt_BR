@@ -1,0 +1,378 @@
+include::./index.adoc[]
+
+[[v25-3-0]]
+=== Lamentações, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_א [Álefe]^&#42;1^_
+
+[[v25-3-1]]
+
+^<<v25-3-1,1>>^ Eu sou o varão vigoroso que viu tribulação por causa da vara da sua fúria.
+
+[[v25-3-2]]
+
+^<<v25-3-2,2>>^ É a mim que ele conduziu e faz andar na escuridão e não na luz.
+
+[[v25-3-3]]
+
+^<<v25-3-3,3>>^ Deveras, é contra mim que repetidamente volta a sua mão o dia inteiro.
+
+_ב [Bete]_
+
+[[v25-3-4]]
+
+^<<v25-3-4,4>>^ Fez que se desgastassem minha carne e minha pele. Quebrou-me os ossos.
+
+[[v25-3-5]]
+
+^<<v25-3-5,5>>^ Construiu contra mim, para rodear-me de planta venenosa e de dificuldade.
+
+[[v25-3-6]]
+
+^<<v25-3-6,6>>^ Fez-me sentar em lugares escuros quais homens mortos há muito tempo.
+
+_ג [Guímel]_
+
+[[v25-3-7]]
+
+^<<v25-3-7,7>>^ Bloqueou-me como que com um muro de pedras, para que eu não saísse. Fez pesados os meus grilhões de cobre.
+
+[[v25-3-8]]
+
+^<<v25-3-8,8>>^ Também, quando clamo por socorro e clamo por ajuda, ele realmente dificulta a minha oração,
+
+[[v25-3-9]]
+
+^<<v25-3-9,9>>^ Bloqueou os meus caminhos com pedras lavradas. Entortou as minhas sendas.
+
+_ד [Dálete]_
+
+[[v25-3-10]]
+
+^<<v25-3-10,10>>^ Ele é para mim como um urso atocaiado, como um leão em esconderijos.
+
+[[v25-3-11]]
+
+^<<v25-3-11,11>>^ Desarranjou os meus caminhos e alqueiva-me.^&#42;1^ Fez de mim um desolado.
+
+[NOTE]
+====
+. Ou “dilacera-me”.
+====
+
+[[v25-3-12]]
+
+^<<v25-3-12,12>>^ Entesou o seu arco e põe-me por alvo para a sua flecha.
+
+_ה [Hê]_
+
+[[v25-3-13]]
+
+^<<v25-3-13,13>>^ Fez penetrar nos meus rins os filhos de sua aljava.
+
+[[v25-3-14]]
+
+^<<v25-3-14,14>>^ Tornei-me objeto de riso para todo o povo contra mim,^&#42;1^ o assunto de sua canção, o dia inteiro.
+
+[NOTE]
+====
+. “Todo o meu povo”, MLXXVg; Sy: “todos os povos”; T: “todos os espalhadores do meu povo”.
+====
+
+[[v25-3-15]]
+
+^<<v25-3-15,15>>^ Deu-me fartura de coisas amargas. Saturou-me de absinto.
+
+_ו [Vau]_
+
+[[v25-3-16]]
+
+^<<v25-3-16,16>>^ E com cascalho ele faz que se quebrem os meus dentes. Fez-me acocorar-me nas cinzas.
+
+[[v25-3-17]]
+
+^<<v25-3-17,17>>^ Também [me] deitas fora, de modo que não há paz para a minha alma. Perdi a lembrança do que é bom.
+
+[[v25-3-18]]
+
+^<<v25-3-18,18>>^ E estou dizendo: “Pereceu a minha excelência e o que eu podia esperar da parte de Jeová.”
+
+_ז [Zaine]_
+
+[[v25-3-19]]
+
+^<<v25-3-19,19>>^ Lembra-te da minha tribulação e de que estou sem lar, do absinto e da planta venenosa.
+
+[[v25-3-20]]
+
+^<<v25-3-20,20>>^ Sem falta, a tua^&#42;1^ alma se lembrará e se curvará sobre mim.
+
+[NOTE]
+====
+. “Tua”, emendado pelos soferins para rezar “minha” no M; esta é uma das Dezoito Emendas. Veja Ap. 2B.
+====
+
+[[v25-3-21]]
+
+^<<v25-3-21,21>>^ Isto é o que retornarei ao meu coração. Por isso é que me mostrarei em atitude de espera.
+
+_ח [Hete]_
+
+[[v25-3-22]]
+
+^<<v25-3-22,22>>^ É pelos atos de benevolência^&#42;1^ de Jeová que não se deu cabo de nós, porque as suas misericórdias certamente não acabarão.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v25-3-23]]
+
+^<<v25-3-23,23>>^ São novas cada manhã. Tua fidelidade é abundante.
+
+[[v25-3-24]]
+
+^<<v25-3-24,24>>^ “Jeová é o meu quinhão”, disse a minha alma, “por isso é que me mostrarei em atitude de espera por ele”.
+
+_ט [Tete]_
+
+[[v25-3-25]]
+
+^<<v25-3-25,25>>^ Jeová é bom para com o que espera nele, para com a alma que continua a buscá-lo.
+
+[[v25-3-26]]
+
+^<<v25-3-26,26>>^ É bom que se espere, mesmo silencioso, a salvação da parte de Jeová.
+
+[[v25-3-27]]
+
+^<<v25-3-27,27>>^ É bom que o varão vigoroso carregue o jugo durante a sua mocidade.
+
+_י [Iode]_
+
+[[v25-3-28]]
+
+^<<v25-3-28,28>>^ Fique sentado sozinho e fique quieto, porque pôs [algo] sobre ele.
+
+[[v25-3-29]]
+
+^<<v25-3-29,29>>^ Ponha ele a sua boca no próprio pó. Talvez haja esperança.
+
+[[v25-3-30]]
+
+^<<v25-3-30,30>>^ Ofereça a face àquele que o golpeia. Tenha fartura de vitupério.
+
+_כ [Cafe]_
+
+[[v25-3-31]]
+
+^<<v25-3-31,31>>^ Porque Jeová^&#42;1^ não continuará a deitar fora por tempo indefinido.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v25-3-32]]
+
+^<<v25-3-32,32>>^ Pois, ainda que tenha causado pesar, certamente também terá misericórdia segundo a abundância da sua benevolência.
+
+[[v25-3-33]]
+
+^<<v25-3-33,33>>^ Pois não é do seu próprio coração que ele tem atribulado ou está causando pesar aos filhos dos homens.^&#42;1^
+
+[NOTE]
+====
+. “Homens.” Hebr.: ’ish, sing., mas em sentido coletivo.
+====
+
+_ל [Lâmede]_
+
+[[v25-3-34]]
+
+^<<v25-3-34,34>>^ Para com o esmagamento debaixo dos pés, de todos os prisioneiros da terra,
+
+[[v25-3-35]]
+
+^<<v25-3-35,35>>^ Para com o desvirtuamento do julgamento do varão vigoroso diante da face do Altíssimo,
+
+[[v25-3-36]]
+
+^<<v25-3-36,36>>^ Para com a perversão do homem^&#42;1^ na sua causa jurídica, o próprio Jeová^&#42;2^ não teve contemplação.
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+. Veja v. 31 n.
+====
+
+_מ [Meme]_
+
+[[v25-3-37]]
+
+^<<v25-3-37,37>>^ Quem foi que disse que devia acontecer algo, [sendo que] o próprio Jeová^&#42;1^ não [o] ordenou?
+
+[NOTE]
+====
+. Veja v. 31 n.
+====
+
+[[v25-3-38]]
+
+^<<v25-3-38,38>>^ Da boca do Altíssimo não saem coisas más e aquilo que é bom.
+
+[[v25-3-39]]
+
+^<<v25-3-39,39>>^ Como é que o homem vivente^&#42;1^ pode entregar-se a queixas, o varão vigoroso, por causa do seu pecado?
+
+[NOTE]
+====
+. Ou “o homem terreno vivente”. Hebr.: ’a·dhám hhai.
+====
+
+_נ [Nune]_
+
+[[v25-3-40]]
+
+^<<v25-3-40,40>>^ Pesquisemos deveras os nossos caminhos e exploremo-los, e retornemos deveras diretamente a Jeová.
+
+[[v25-3-41]]
+
+^<<v25-3-41,41>>^ Elevemos nosso coração junto com as palmas das [nossas] mãos ao Deus^&#42;1^ nos céus:
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El; Vg: “Jeová”.
+====
+
+[[v25-3-42]]
+
+^<<v25-3-42,42>>^ “Nós é que transgredimos e nos comportamos rebeldemente. Tu mesmo não perdoaste.
+
+_ם [Sâmeque]_
+
+[[v25-3-43]]
+
+^<<v25-3-43,43>>^ Com ira impediste a aproximação e continuas a perseguir-nos. Mataste; não tiveste compaixão.
+
+[[v25-3-44]]
+
+^<<v25-3-44,44>>^ Com uma massa de nuvem impediste a aproximação a ti, para que não passasse nenhuma oração.
+
+[[v25-3-45]]
+
+^<<v25-3-45,45>>^ Fazes de nós um mero rebotalho e refugo no meio dos povos.”
+
+_פ [Pê]^&#42;1^_
+
+[[v25-3-46]]
+
+^<<v25-3-46,46>>^ Todos os nossos inimigos abriram a sua boca contra nós.
+
+[[v25-3-47]]
+
+^<<v25-3-47,47>>^ O próprio pavor e o barranco vieram a ser nossos, desolação e desmoronamento.
+
+[[v25-3-48]]
+
+^<<v25-3-48,48>>^ Correntes de água estão descendo do meu olho por causa do desmoronamento da filha do meu povo.
+
+_ע [Aine]_
+
+[[v25-3-49]]
+
+^<<v25-3-49,49>>^ Meu próprio olho se derramou e não ficará quieto, de modo que não há pausas,
+
+[[v25-3-50]]
+
+^<<v25-3-50,50>>^ Até que Jeová olhe para baixo e veja desde o céu.
+
+[[v25-3-51]]
+
+^<<v25-3-51,51>>^ Meu próprio olho tratou severamente a minha alma por causa de todas as filhas^&#42;1^ da minha cidade.
+
+[NOTE]
+====
+. Ou “aldeias dependentes”.
+====
+
+_צ [Tsadê]_
+
+[[v25-3-52]]
+
+^<<v25-3-52,52>>^ Meus inimigos foram positivamente caçar-me como a um pássaro, por nenhuma razão.
+
+[[v25-3-53]]
+
+^<<v25-3-53,53>>^ Silenciaram a minha vida no próprio poço e estavam atirando pedras contra mim.
+
+[[v25-3-54]]
+
+^<<v25-3-54,54>>^ Águas correram sobre a minha cabeça. Eu disse: “Certamente serei cerceado!”
+
+_ק [Cofe]_
+
+[[v25-3-55]]
+
+^<<v25-3-55,55>>^ Chamei o teu nome, ó Jeová, de um poço de maior fundura.
+
+[[v25-3-56]]
+
+^<<v25-3-56,56>>^ Tens de ouvir a minha voz. Não ocultes teu ouvido do alívio para mim, do meu grito por ajuda.
+
+[[v25-3-57]]
+
+^<<v25-3-57,57>>^ Chegaste-te no dia em que eu te estava chamando. Disseste: “Não tenhas medo.”
+
+_ר [Rexe]_
+
+[[v25-3-58]]
+
+^<<v25-3-58,58>>^ Avocaste a ti as disputas da minha alma, ó Jeová.^&#42;1^ Resgataste a minha vida.
+
+[NOTE]
+====
+. Veja v. 31 n.
+====
+
+[[v25-3-59]]
+
+^<<v25-3-59,59>>^ Viste o mal que me foi feito, ó Jeová. Faze deveras o julgamento para mim.
+
+[[v25-3-60]]
+
+^<<v25-3-60,60>>^ Viste toda a sua vingança, todos os seus pensamentos contra mim.
+
+_ש [Sim] ou [Chim]_
+
+[[v25-3-61]]
+
+^<<v25-3-61,61>>^ Ouviste seu vitupério, ó Jeová, todos os seus pensamentos contra mim,
+
+[[v25-3-62]]
+
+^<<v25-3-62,62>>^ Os lábios dos que se levantam contra mim e seus sussurros contra mim o dia inteiro.
+
+[[v25-3-63]]
+
+^<<v25-3-63,63>>^ Olha deveras para como se assentam e como se levantam. Eu sou o assunto de sua canção.
+
+_צ [Tau]_
+
+[[v25-3-64]]
+
+^<<v25-3-64,64>>^ Tu, ó Jeová, lhes retornarás um tratamento segundo o trabalho das suas mãos.
+
+[[v25-3-65]]
+
+^<<v25-3-65,65>>^ Tu lhes darás insolência de coração, tua maldição sobre eles.
+
+[[v25-3-66]]
+
+^<<v25-3-66,66>>^ Perseguirás em ira e os aniquilarás de debaixo dos céus de Jeová.
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-002.adoc#v25-2-0[&#60; Capítulo Anterior] | <<v25-3-0,Topo>> | xref:025-lamentacoes/025-lamentacoes-004.adoc#v25-4-0[Próximo Capítulo &#62;]

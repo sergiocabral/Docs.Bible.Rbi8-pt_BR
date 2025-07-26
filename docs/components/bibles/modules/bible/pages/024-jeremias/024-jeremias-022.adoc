@@ -1,0 +1,180 @@
+include::./index.adoc[]
+
+[[v24-22-0]]
+=== Jeremias, 22
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-22-1]]
+
+^<<v24-22-1,1>>^ Assim disse Jeová: “Desce à casa do rei de Judá, e tens de falar ali esta palavra.
+
+[[v24-22-2]]
+
+^<<v24-22-2,2>>^ E tens de dizer: ‘Ouve a palavra de Jeová, ó rei de Judá, que estás sentado no trono de Davi, tu com os teus servos e com o teu povo, os que entram por estes portões.
+
+[[v24-22-3]]
+
+^<<v24-22-3,3>>^ Assim disse Jeová: “Executai o juízo e a justiça, e livrai da mão do defraudador aquele que está sendo roubado; e não maltrateis nenhum residente forasteiro,^&#42;1^ nem menino órfão de pai, nem viúva. Não [lhes] façais violência. E não derrameis sangue inocente neste lugar.
+
+[NOTE]
+====
+. Ou “residente temporário”.
+====
+
+[[v24-22-4]]
+
+^<<v24-22-4,4>>^ Porque, se de todos os modos cumprirdes esta palavra, então certamente entrarão pelos portões desta casa os reis que se assentam por Davi no seu trono, andando em carros e montando cavalos, ele com seus servos e com o seu povo.”’
+
+[[v24-22-5]]
+
+^<<v24-22-5,5>>^ “‘Mas, se não obedecerdes a estas palavras, juro por mim mesmo’, é a pronunciação de Jeová, ‘que esta casa se tornará meramente um lugar devastado’.
+
+[[v24-22-6]]
+
+^<<v24-22-6,6>>^ “Pois assim disse Jeová referente à casa do rei de Judá: ‘Tu és para mim como Gileade, cabeça^&#42;1^ do Líbano. Seguramente farei de ti um ermo; quanto às cidades, nenhuma será habitada.
+
+[NOTE]
+====
+. Ou “cume; topo”.
+====
+
+[[v24-22-7]]
+
+^<<v24-22-7,7>>^ E eu vou santificar contra ti os que arruínam, a cada um^&#42;1^ e as suas armas; e eles terão de decepar os teus cedros mais seletos e fazê-los cair no fogo.
+
+[NOTE]
+====
+. “Cada um.” Hebr.: ’ish.
+====
+
+[[v24-22-8]]
+
+^<<v24-22-8,8>>^ E muitas nações passarão realmente por esta cidade e um dirá ao outro: “Por que razão fez Jeová assim a esta grande cidade?”
+
+[[v24-22-9]]
+
+^<<v24-22-9,9>>^ E terão de dizer: “Pelo fato de terem abandonado o pacto de Jeová, seu Deus, e terem passado a curvar-se diante de outros deuses^&#42;1^ e a servi-los.”’
+
+[NOTE]
+====
+. Veja 19:4 n.
+====
+
+[[v24-22-10]]
+
+^<<v24-22-10,10>>^ “Não choreis pelo morto e não vos compadeçais dele. Chorai profusamente pelo que vai embora, pois não mais retornará e realmente não verá a terra de sua parentela.
+
+[[v24-22-11]]
+
+^<<v24-22-11,11>>^ Pois assim disse Jeová concernente a Salum,^&#42;1^ filho de Josias, rei de Judá, que reina em lugar de Josias, seu pai, que saiu deste lugar: ‘Não mais retornará para ali.
+
+[NOTE]
+====
+. “Salum”, MTLXXSyVg; LXXL: “Joacaz”.
+====
+
+[[v24-22-12]]
+
+^<<v24-22-12,12>>^ Porque morrerá no lugar para onde o exilaram, e não mais verá esta terra.’
+
+[[v24-22-13]]
+
+^<<v24-22-13,13>>^ “Ai daquele que constrói a sua casa, mas não em justiça, e seus quartos superiores, mas não com juízo, usando seu próximo que serve em troca de nada e cujo salário ele não lhe dá;
+
+[[v24-22-14]]
+
+^<<v24-22-14,14>>^ aquele que diz: ‘Vou construir para mim uma casa espaçosa e amplos quartos superiores; e minhas janelas terão de ser-lhe alargadas, e o forro será de cedro e besuntado de vermelhão.’
+
+[[v24-22-15]]
+
+^<<v24-22-15,15>>^ Continuarás a reinar porque estás competindo com o uso de cedro? Quanto a teu pai, acaso ele não comeu e bebeu, e executou o juízo e a justiça? Neste caso ia-lhe bem.
+
+[[v24-22-16]]
+
+^<<v24-22-16,16>>^ Ele pleiteou a demanda judicial do atribulado e do pobre. Neste caso ia bem. ‘Não era este o caso de conhecer-me?’ é a pronunciação de Jeová.
+
+[[v24-22-17]]
+
+^<<v24-22-17,17>>^ ‘Seguramente, teus olhos e teu coração só estão no teu lucro injusto e no sangue do inocente, para derramá-lo, e na defraudação e na extorsão, para [as] praticar.’
+
+[[v24-22-18]]
+
+^<<v24-22-18,18>>^ “Portanto, assim disse Jeová a respeito de Jeoiaquim, filho de Josias, rei de Judá: ‘Não o lamentarão: “Ai! meu irmão! E ai! [minha] irmã!” Não o lamentarão: “Ai! ó amo! E ai! sua dignidade!”
+
+[[v24-22-19]]
+
+^<<v24-22-19,19>>^ Seu enterro será como se enterra um jumento, sendo arrastado e lançado fora, além dos portões de Jerusalém.’
+
+[[v24-22-20]]
+
+^<<v24-22-20,20>>^ “Sobe ao Líbano e clama, e em Basã dá vazão à tua^&#42;1^ voz. E grita desde Abarim,^&#42;2^ porque foram destroçados todos os que te amavam intensamente.
+
+[NOTE]
+====
+. “Tua”, hebr. fem. sing., referindo-se à cidade.
+. Ou “desde a terra fronteiriça”. Hebr.: me·‛Ava·rím.
+====
+
+[[v24-22-21]]
+
+^<<v24-22-21,21>>^ Falei-te durante a tua despreocupação. Disseste: ‘Não obedecerei.’ Este tem sido o teu caminho desde a tua mocidade, pois não obedeceste à minha voz.
+
+[[v24-22-22]]
+
+^<<v24-22-22,22>>^ Um vento pastoreará todos os teus próprios pastores; e quanto aos que te amam intensamente, irão eles ao próprio cativeiro. Pois naquele tempo ficarás envergonhada e certamente te sentirás humilhada por causa de toda a tua calamidade.
+
+[[v24-22-23]]
+
+^<<v24-22-23,23>>^ Ó tu que estás morando no Líbano, aninhada nos cedros, como hás de suspirar quando te vierem as dores agudas do parto, as dores de parto como as da mulher que dá à luz!”
+
+[[v24-22-24]]
+
+^<<v24-22-24,24>>^ “‘Assim como vivo’, é a pronunciação de Jeová, ‘mesmo se Conias,^&#42;1^ filho de Jeoiaquim, rei de Judá, viesse a ser o anel de chancela na minha mão direita, dali te arrancaria!
+
+[NOTE]
+====
+. “Conias”, M(hebr.: Kon·yá·hu)T; LXXSyVg: “Jeconias”; em 2Rs 24:6-15: “Joaquim”. Neto de Josias.
+====
+
+[[v24-22-25]]
+
+^<<v24-22-25,25>>^ E vou entregar-te^&#42;1^ na mão dos que procuram a tua alma, e na mão dos de quem estás amedrontado, e na mão de Nabucodorosor, rei de Babilônia, e na mão dos caldeus.
+
+[NOTE]
+====
+. “Te”, hebr. masc. sing.
+====
+
+[[v24-22-26]]
+
+^<<v24-22-26,26>>^ E vou arremessar a ti e a tua mãe que te deu à luz numa outra terra na qual não nascestes, e ali é que morrereis.
+
+[[v24-22-27]]
+
+^<<v24-22-27,27>>^ E não retornarão à terra à qual sua alma^&#42;1^ se eleva para retornar.
+
+[NOTE]
+====
+. “Sua alma (desejo de alma; almejo).” Hebr.: naf·shám; gr.: psy·khaís au·tón; lat.: á·ni·mam sú·am.
+====
+
+[[v24-22-28]]
+
+^<<v24-22-28,28>>^ É este homem^&#42;1^ Conias meramente uma figura desprezada, espatifada, ou um vaso em que não há agrado? Por que é que ele mesmo e sua descendência têm de ser arremessados para baixo e lançados numa terra que não conheceram?’
+
+[NOTE]
+====
+. “Este homem.” Hebr.: ha·’ísh haz·zéh.
+====
+
+[[v24-22-29]]
+
+^<<v24-22-29,29>>^ “Ó terra, terra, terra, ouve a palavra de Jeová!
+
+[[v24-22-30]]
+
+^<<v24-22-30,30>>^ Assim disse Jeová: ‘Inscrevei este homem como sem filhos, como varão vigoroso que não terá bom êxito nos seus dias; pois, dentre a sua descendência, nem um único será bem sucedido, sentado no trono de Davi e governando ainda em Judá.’”
+
+'''
+
+xref:024-jeremias/024-jeremias-021.adoc#v24-21-0[&#60; Capítulo Anterior] | <<v24-22-0,Topo>> | xref:024-jeremias/024-jeremias-023.adoc#v24-23-0[Próximo Capítulo &#62;]

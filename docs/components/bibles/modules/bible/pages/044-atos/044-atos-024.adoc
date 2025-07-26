@@ -1,0 +1,150 @@
+include::./index.adoc[]
+
+[[v44-24-0]]
+=== Atos, 24
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v44-24-1]]
+
+^<<v44-24-1,1>>^ Cinco dias depois desceu o sumo sacerdote Ananias, com alguns dos anciãos e um orador público, certo Tértulo, e deram ao governador informação contra Paulo.
+
+[[v44-24-2]]
+
+^<<v44-24-2,2>>^ Ao ser chamado, Tértulo começou a acusá-lo, dizendo:
+“Visto que por intermédio de ti gozamos de grande paz e que se realizam nesta nação reformas por intermédio de tua previdência,
+
+[[v44-24-3]]
+
+^<<v44-24-3,3>>^ Excelência, Félix, recebemos isso em todas as ocasiões e também em todos os lugares com grande gratidão.
+
+[[v44-24-4]]
+
+^<<v44-24-4,4>>^ Mas, a fim de não te obstar mais, imploro-te que nos ouças brevemente na tua indulgência.
+
+[[v44-24-5]]
+
+^<<v44-24-5,5>>^ Pois nós achamos que este homem é uma peste e atiça sedições entre todos os judeus, por toda a terra habitada, e que é ponta-de-lança^&#42;1^ da seita^&#42;2^ dos nazarenos,
+
+[NOTE]
+====
+. Ou “chefe principal”.
+. “Seita.” Gr.: hai·ré·se·os; lat.: séc·tae.
+====
+
+[[v44-24-6]]
+
+^<<v44-24-6,6>>^ um que tentou também profanar o templo e de quem nos apoderamos.
+
+[[v44-24-7]]
+
+^<<v44-24-7,7>>^ ^&#42;1^ ——
+
+[NOTE]
+====
+. P74אABVg omitem o seguinte dos vv. 6-8 , que rezam, segundo VgcSyh,pArm: “e queríamos julgar segundo a nossa Lei. (7) Mas Lísias, o comandante militar, subiu e tirou-o com muita força das nossas mãos, (8) ordenando que seus acusadores se apresentassem a ti.”
+====
+
+[[v44-24-8]]
+
+^<<v44-24-8,8>>^ Tu mesmo podes descobrir dele, por exame, todas estas coisas de que o acusamos.”
+
+[[v44-24-9]]
+
+^<<v44-24-9,9>>^ Com isso, os judeus juntaram-se ao ataque, asseverando que todas estas coisas eram assim.
+
+[[v44-24-10]]
+
+^<<v44-24-10,10>>^ E Paulo, quando o governador lhe acenou para falar, respondeu:
+“Bem sabendo que esta nação te tem tido como juiz por muitos anos, falo prontamente em minha defesa as coisas a meu respeito,
+
+[[v44-24-11]]
+
+^<<v44-24-11,11>>^ visto que estás em condições de descobrir que, quanto a mim, não faz mais de doze dias desde que subi para adorar em Jerusalém;
+
+[[v44-24-12]]
+
+^<<v44-24-12,12>>^ e eles não me acharam no templo argumentando com alguém, nem causando que se formasse uma turba, tampouco nas sinagogas ou em toda a cidade.
+
+[[v44-24-13]]
+
+^<<v44-24-13,13>>^ Nem podem provar-te as coisas de que me estão agora acusando.
+
+[[v44-24-14]]
+
+^<<v44-24-14,14>>^ Mas, eu admito o seguinte a ti, que, segundo o caminho que eles chamam de ‘seita’, desta maneira eu presto serviço sagrado^&#42;1^ ao Deus dos meus antepassados, crendo em todas as coisas expostas na Lei e escritas nos Profetas;
+
+[NOTE]
+====
+. “Eu presto serviço sagrado.” Gr.: la·treú·o; J17,18(hebr.): ’aní ‛o·védh, “eu sirvo (adoro)”. Veja Êx 3:12 n.
+====
+
+[[v44-24-15]]
+
+^<<v44-24-15,15>>^ e eu tenho esperança para com Deus, esperança que estes mesmos [homens] também alimentam, de que há de haver uma ressurreição^&#42;1^ tanto de justos como de injustos.
+
+[NOTE]
+====
+. “Ressurreição.” Gr.: a·ná·sta·sin, “levantar-se; erguer-se” (de a·ná, “para cima”, e stá·sis, “estar de pé”); lat.: re·sur·rec·ti·ó·nem.
+====
+
+[[v44-24-16]]
+
+^<<v44-24-16,16>>^ Neste respeito, deveras, exercito-me continuamente para ter a consciência de não ter cometido ofensa contra Deus e homens.
+
+[[v44-24-17]]
+
+^<<v44-24-17,17>>^ Assim, depois de certo número de anos, cheguei para trazer dádivas de misericórdia à minha nação, e ofertas.
+
+[[v44-24-18]]
+
+^<<v44-24-18,18>>^ Enquanto eu cuidava destes assuntos, acharam-me cerimonialmente limpo no templo, mas não com uma multidão ou com tumulto. Mas, havia certos judeus [do distrito] da Ásia,
+
+[[v44-24-19]]
+
+^<<v44-24-19,19>>^ que deviam estar presentes perante ti e acusar-me, se tiverem algo contra mim.
+
+[[v44-24-20]]
+
+^<<v44-24-20,20>>^ Ou, que os [homens] aqui digam de si mesmos o que acharam de errado, quando eu estava perante o Sinédrio,
+
+[[v44-24-21]]
+
+^<<v44-24-21,21>>^ exceto com respeito a esta única pronunciação que clamei enquanto estava diante deles: ‘É por causa da ressurreição dos mortos que hoje estou sendo julgado diante de vós!’”
+
+[[v44-24-22]]
+
+^<<v44-24-22,22>>^ No entanto, sabendo Félix com bastante exatidão os assuntos referentes a este Caminho, começou a livrar-se dos [homens] com evasivas e disse: “Quando Lísias, o comandante militar,^&#42;1^ descer, decidirei estes assuntos que vos envolvem.”
+
+[NOTE]
+====
+. Lit.: “o quiliarca”, comandante de 1.000 soldados.
+====
+
+[[v44-24-23]]
+
+^<<v44-24-23,23>>^ E ele ordenou ao oficial do exército^&#42;1^ que o homem fosse guardado e que houvesse algum abrandamento [da detenção], e que não proibisse a nenhum do seu povo que o servisse.
+
+[NOTE]
+====
+. Lit.: “ao centurião”, comandante de 100 soldados.
+====
+
+[[v44-24-24]]
+
+^<<v44-24-24,24>>^ Alguns dias depois, Félix chegou com Drusila, sua esposa, que era judia, e mandou buscar Paulo e o escutou sobre a crença em Cristo Jesus.
+
+[[v44-24-25]]
+
+^<<v44-24-25,25>>^ Mas, quando ele falava sobre a justiça e o autodomínio, e o julgamento por vir, Félix ficou amedrontado e respondeu: “Por ora vai-te embora, mas, quando eu tiver um tempo oportuno, mandarei buscar-te novamente.”
+
+[[v44-24-26]]
+
+^<<v44-24-26,26>>^ Ao mesmo tempo, porém, esperava que Paulo lhe desse dinheiro. Por esta razão mandava buscá-lo com mais freqüência ainda e conversava com ele.
+
+[[v44-24-27]]
+
+^<<v44-24-27,27>>^ Mas, decorridos dois anos, Félix foi sucedido por Pórcio Festo; e, visto que Félix desejava ganhar o favor dos judeus, deixou Paulo preso.
+
+'''
+
+xref:044-atos/044-atos-023.adoc#v44-23-0[&#60; Capítulo Anterior] | <<v44-24-0,Topo>> | xref:044-atos/044-atos-025.adoc#v44-25-0[Próximo Capítulo &#62;]

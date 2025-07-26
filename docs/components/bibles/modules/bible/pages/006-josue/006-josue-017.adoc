@@ -1,0 +1,96 @@
+include::./index.adoc[]
+
+[[v6-17-0]]
+=== Josué, 17
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-17-1]]
+
+^<<v6-17-1,1>>^ E a sorte veio a ser para a tribo de Manassés, porque era o primogênito de José, para Maquir, primogênito de Manassés, pai de Gileade, porque era um que se mostrou homem de guerra; e vieram a pertencer-lhe Gileade e Basã.
+
+[[v6-17-2]]
+
+^<<v6-17-2,2>>^ E [uma sorte]^&#42;1^ veio a ser para os filhos de Manassés que estavam sobrando, segundo as suas famílias, para os filhos de Abiezer e para os filhos de Heleque, e para os filhos de Asriel, e para os filhos de Siquém, e para os filhos de Hefer, e para os filhos de Semida. Estes eram os filhos de Manassés, filho de José, os machos segundo as suas famílias.
+
+[NOTE]
+====
+. “Uma sorte”, inserido para dar sentido. Lit.: “ela”, referindo-se à “sorte” no v. 1.
+====
+
+[[v6-17-3]]
+
+^<<v6-17-3,3>>^ Quanto a Zelofeade, filho de Hefer, filho de Gileade, filho de Maquir, filho de Manassés, mostrou-se ter ele, não filhos, mas filhas, e os nomes das suas filhas eram estes: Maala e Noa, Hogla, Milca e Tirza.
+
+[[v6-17-4]]
+
+^<<v6-17-4,4>>^ Por isso se apresentaram perante Eleazar, o sacerdote, e Josué, filho de Num, e os maiorais, dizendo: “Foi Jeová quem ordenou a Moisés que nos desse uma herança no meio dos nossos irmãos.” Por conseguinte, deu-lhes por ordem de Jeová uma herança no meio dos irmãos de seu pai.
+
+[[v6-17-5]]
+
+^<<v6-17-5,5>>^ E couberam dez lotes a Manassés, à parte da terra de Gileade e de Basã, que se achavam do outro lado do Jordão;
+
+[[v6-17-6]]
+
+^<<v6-17-6,6>>^ pois as filhas de Manassés entraram numa herança no meio dos filhos dele; e a terra de Gileade tornou-se propriedade dos filhos de Manassés que estavam sobrando.
+
+[[v6-17-7]]
+
+^<<v6-17-7,7>>^ E o termo de Manassés veio a ser desde Aser até Micmetate, que está defronte de Siquém, e o termo avançava para a direita, para os habitantes de En-Tapua.
+
+[[v6-17-8]]
+
+^<<v6-17-8,8>>^ A terra de Tapua tornou-se de Manassés, mas Tapua, no termo de Manassés, pertencia aos filhos de Efraim.
+
+[[v6-17-9]]
+
+^<<v6-17-9,9>>^ E o termo descia ao vale da torrente de Cana, para o sul, até o vale da torrente destas cidades de Efraim no meio das cidades de Manassés, e o termo de Manassés se achava ao norte do vale da torrente, e seu ponto final veio a ser o mar.
+
+[[v6-17-10]]
+
+^<<v6-17-10,10>>^ Ao sul era de Efraim e ao norte, de Manassés, e o mar veio a ser seu^&#42;1^ termo; e ao norte atingem Aser e ao leste, Issacar.
+
+[NOTE]
+====
+. “Seu (dele)”, M; LXXSy: “seu (deles)”.
+====
+
+[[v6-17-11]]
+
+^<<v6-17-11,11>>^ E a Manassés vieram a pertencer em Issacar e em Aser: Bete-Seã e suas aldeias dependentes, e Ibleão e suas aldeias dependentes, e os habitantes de Dor e suas aldeias dependentes, e os habitantes de En-Dor e suas aldeias dependentes, e os habitantes de Taanaque e suas aldeias dependentes, e os habitantes de Megido e suas aldeias dependentes, três dos outeiros.
+
+[[v6-17-12]]
+
+^<<v6-17-12,12>>^ E os filhos de Manassés não se mostraram capazes de tomar posse destas cidades, mas os cananeus estavam resolvidos a morar nesta terra.
+
+[[v6-17-13]]
+
+^<<v6-17-13,13>>^ E resultou que, quando os filhos de Israel haviam ficado fortes, passaram a sujeitar os cananeus ao trabalho forçado, e não os desapossaram completamente.
+
+[[v6-17-14]]
+
+^<<v6-17-14,14>>^ E os filhos de José passaram a falar com Josué, dizendo: “Por que é que me deste por herança uma só parcela e um só lote, sendo eu um povo numeroso, visto que Jeová me abençoou até agora?”
+
+[[v6-17-15]]
+
+^<<v6-17-15,15>>^ Em vista disso, Josué lhes disse: “Se és um povo numeroso, sobe, vai até a floresta, e tens de cortá-la para ti lá na terra dos perizeus e dos refains, visto que a região montanhosa de Efraim ficou apertada demais para ti.”
+
+[[v6-17-16]]
+
+^<<v6-17-16,16>>^ Os filhos de José disseram então: “A região montanhosa não basta para nós, e há carros de guerra com foices de ferro entre todos os cananeus que moram na terra da baixada, tanto os que estão em Bete-Seã e nas suas aldeias dependentes como os que estão na baixada de Jezreel.”
+
+[[v6-17-17]]
+
+^<<v6-17-17,17>>^ Portanto, Josué disse o seguinte à casa de José, a Efraim e a Manassés: “És um povo numeroso, e grande é o teu poder. Não deves receber só uma parcela,
+
+[[v6-17-18]]
+
+^<<v6-17-18,18>>^ porém, a região montanhosa deve tornar-se tua. Sendo ela floresta, tens de cortá-la, e tem de tornar-se para ti o ponto final. Pois deves desalojar os cananeus, embora tenham carros de guerra com foices de ferro^&#42;1^ e sejam fortes.”
+
+[NOTE]
+====
+. Lit.: “carros de guerra, de ferro”.
+====
+
+'''
+
+xref:006-josue/006-josue-016.adoc#v6-16-0[&#60; Capítulo Anterior] | <<v6-17-0,Topo>> | xref:006-josue/006-josue-018.adoc#v6-18-0[Próximo Capítulo &#62;]

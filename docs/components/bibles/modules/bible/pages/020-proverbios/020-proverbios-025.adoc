@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v20-25-0]]
+=== Provérbios, 25
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-25-1]]
+
+^<<v20-25-1,1>>^ Também estes são provérbios de Salomão transcritos pelos homens de Ezequias, rei de Judá:
+
+[[v20-25-2]]
+
+^<<v20-25-2,2>>^ A glória de Deus é manter um assunto em segredo, e a glória dos reis é esquadrinhar um assunto.
+
+[[v20-25-3]]
+
+^<<v20-25-3,3>>^ Os céus quanto à altura e a terra quanto à profundidade, e o coração dos reis, isto é inescrutável.
+
+[[v20-25-4]]
+
+^<<v20-25-4,4>>^ Remova-se^&#42;1^ da prata a escória, e toda ela sairá refinada.^&#42;2^
+
+[NOTE]
+====
+. “Remova-se.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+. “Toda ela sairá refinada”, mediante ligeiras mudanças do M e em harmonia com LXX; M: “um vaso sairá para o refinador”.
+====
+
+[[v20-25-5]]
+
+^<<v20-25-5,5>>^ Remova-se o iníquo de diante do rei, e seu trono será firmemente estabelecido pela própria justiça.
+
+[[v20-25-6]]
+
+^<<v20-25-6,6>>^ Não te honres a ti mesmo diante do rei e não te postes no lugar dos grandes.
+
+[[v20-25-7]]
+
+^<<v20-25-7,7>>^ Pois é melhor que [ele] te diga: “Sobe para cá”, do que seres por ele rebaixado diante de um nobre a quem teus olhos viram.
+
+[[v20-25-8]]
+
+^<<v20-25-8,8>>^ Não saias para pleitear apressadamente uma causa jurídica, para que não surja a questão sobre o que farás na culminação dela, quando teu próximo te humilhar.
+
+[[v20-25-9]]
+
+^<<v20-25-9,9>>^ Pleiteia a tua própria causa com o teu próximo e não reveles a palestra confidencial de outrem;
+
+[[v20-25-10]]
+
+^<<v20-25-10,10>>^ para que não te envergonhe aquele que escuta e não se possa revogar o relato mau da tua parte.
+
+[[v20-25-11]]
+
+^<<v20-25-11,11>>^ Como maçãs de ouro em esculturas de prata é a palavra falada no tempo certo para ela.
+
+[[v20-25-12]]
+
+^<<v20-25-12,12>>^ Arrecada de ouro e ornamento de ouro especial^&#42;1^ é o sábio repreendedor sobre o ouvido atento.
+
+[NOTE]
+====
+. “Ouro especial.” Hebr.: khá·them, estrangeirismo egípcio.
+====
+
+[[v20-25-13]]
+
+^<<v20-25-13,13>>^ Como o frescor da neve no dia da colheita é o fiel enviado para os que o enviam,^&#42;1^ pois restaura a própria alma^&#42;2^ dos seus amos.^&#42;3^
+
+[NOTE]
+====
+. Ou “o que o envia”, pl. no M, para denotar excelência.
+. Ou “pois . . . a própria vida”. Hebr.: wené·fesh.
+. Ou “seu amo”. Hebr.: ’adho·náv, pl., possivelmente para denotar excelência.
+====
+
+[[v20-25-14]]
+
+^<<v20-25-14,14>>^ Como nuvens vaporosas e vento sem aguaceiro é o homem^&#42;1^ que se jacta falsamente de uma dádiva.
+
+[NOTE]
+====
+. “O homem.” Hebr.: ’ish.
+====
+
+[[v20-25-15]]
+
+^<<v20-25-15,15>>^ Pela paciência^&#42;1^ se induz ao comandante, e a própria língua suave pode quebrar um osso.
+
+[NOTE]
+====
+. Lit.: “Na delonga (vagarosidade) de narinas (ira).”
+====
+
+[[v20-25-16]]
+
+^<<v20-25-16,16>>^ Achaste mel? Come o que for suficiente para ti, a fim de que não tomes demais e tenhas de vomitá-lo.
+
+[[v20-25-17]]
+
+^<<v20-25-17,17>>^ Faze raro o teu pé na casa do teu próximo, para que não se farte de ti e certamente te odeie.
+
+[[v20-25-18]]
+
+^<<v20-25-18,18>>^ Como clava de guerra, e espada, e flecha afiada é o homem que testifica como testemunha falsa contra o seu próximo.
+
+[[v20-25-19]]
+
+^<<v20-25-19,19>>^ Como dente quebrado e pé vacilante é a confiança naquele que se mostra traiçoeiro no dia da aflição.
+
+[[v20-25-20]]
+
+^<<v20-25-20,20>>^ Quem tira a roupa num dia de frio é como vinagre sobre álcali e como o cantor com canções para o coração sombrio.
+
+[[v20-25-21]]
+
+^<<v20-25-21,21>>^ Se aquele que te odeia tiver fome, dá-lhe pão para comer; e se ele tiver sede, dá-lhe água para beber.
+
+[[v20-25-22]]
+
+^<<v20-25-22,22>>^ Porque juntarás brasas sobre a sua cabeça, e o próprio Jeová te recompensará.
+
+[[v20-25-23]]
+
+^<<v20-25-23,23>>^ O vento do norte produz um aguaceiro como que com dores de parto; e a língua [revelando] um segredo, uma face verberada.
+
+[[v20-25-24]]
+
+^<<v20-25-24,24>>^ Melhor é morar num canto do terraço, do que com uma esposa contenciosa, embora numa casa em comum.
+
+[[v20-25-25]]
+
+^<<v20-25-25,25>>^ Como água fresca para a alma cansada é a notícia boa duma terra longínqua.
+
+[[v20-25-26]]
+
+^<<v20-25-26,26>>^ Manancial turvo e fonte arruinada é o justo quando cambaleia diante do iníquo.
+
+[[v20-25-27]]
+
+^<<v20-25-27,27>>^ Comer mel demais não é bom; e ir-se em busca da sua própria glória acaso é glória?
+
+[[v20-25-28]]
+
+^<<v20-25-28,28>>^ Como uma cidade arrombada, sem muralha, é o homem que não domina seu espírito.
+
+'''
+
+xref:020-proverbios/020-proverbios-024.adoc#v20-24-0[&#60; Capítulo Anterior] | <<v20-25-0,Topo>> | xref:020-proverbios/020-proverbios-026.adoc#v20-26-0[Próximo Capítulo &#62;]

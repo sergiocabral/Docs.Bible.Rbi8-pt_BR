@@ -1,0 +1,78 @@
+include::./index.adoc[]
+
+[[v23-64-0]]
+=== Isaías, 64
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-64-1]]
+
+^<<v23-64-1,1>>^ Oh! se tão-somente tivesses rasgado os céus, se tivesses descido, se por tua causa tivessem tremido os próprios montes,^&#42;1^
+
+[NOTE]
+====
+. MLXX terminam aqui o capítulo 63, sendo este v. parte do v. 19.
+====
+
+[[v23-64-2]]
+
+^<<v23-64-2,2>>^ como quando o fogo incendeia gravetos secos [e] o fogo faz a própria água ferver, para que desses a conhecer teu nome aos teus adversários, para que as nações ficassem agitadas por tua causa!
+
+[[v23-64-3]]
+
+^<<v23-64-3,3>>^ Quando fizeste coisas atemorizantes, que não podíamos esperar, tu desceste. Por tua causa tremeram os próprios montes.
+
+[[v23-64-4]]
+
+^<<v23-64-4,4>>^ E desde há muito tempo, ninguém ouviu, nem deu alguém ouvidos, nem viu o próprio olho a um Deus,^&#42;1^ exceto a ti, que age por aquele que está à sua espera.
+
+[NOTE]
+====
+. “Um Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v23-64-5]]
+
+^<<v23-64-5,5>>^ Encontraste aquele que exulta e que faz a justiça, os que se lembram de ti nos teus próprios caminhos.
+Eis que tu mesmo ficaste indignado, enquanto estávamos pecando — neles por muito tempo, e devíamos nós ser salvos?
+
+[[v23-64-6]]
+
+^<<v23-64-6,6>>^ E tornamo-nos como alguém impuro, todos nós, e todos os nossos atos de justiça são como uma veste para os períodos de menstruação; e desvaneceremos como a folhagem, todos nós, e os nossos próprios erros^&#42;1^ nos levarão embora como o vento.
+
+[NOTE]
+====
+. “Próprios erros”, 1QIsaTLXXSyVg e 13 mss. hebr.; AlCa, Leningrad B 19A e muitos mss. hebr.: “próprio erro”.
+====
+
+[[v23-64-7]]
+
+^<<v23-64-7,7>>^ E ninguém invoca o teu nome, ninguém desperta para agarrar-te; pois escondeste de nós a tua face e fazes que nos derretamos por força de nosso erro.
+
+[[v23-64-8]]
+
+^<<v23-64-8,8>>^ E agora, ó Jeová, tu és nosso Pai. Somos o barro e tu és o nosso Oleiro;^&#42;1^ e todos nós somos trabalho da tua mão.
+
+[NOTE]
+====
+. Ou “Formador (Moldador)”.
+====
+
+[[v23-64-9]]
+
+^<<v23-64-9,9>>^ Não fiques indignado ao extremo, ó Jeová, e não te lembres para todo o sempre de [nosso] erro. Olha agora, por favor: somos todos teu povo.
+
+[[v23-64-10]]
+
+^<<v23-64-10,10>>^ Tuas próprias cidades santas tornaram-se um ermo. A própria Sião tornou-se um mero ermo, Jerusalém, um baldio desolado.
+
+[[v23-64-11]]
+
+^<<v23-64-11,11>>^ Nossa casa de santidade e beleza, em que nossos antepassados te louvaram, tornou-se ela mesma algo a ser queimado no fogo; e cada uma das nossas coisas desejáveis se tornou uma devastação.
+
+[[v23-64-12]]
+
+^<<v23-64-12,12>>^ Em face destas coisas, continuarás a refrear-te, ó Jeová? Ficarás quieto e deixarás que sejamos afligidos ao extremo?
+
+'''
+
+xref:023-isaias/023-isaias-063.adoc#v23-63-0[&#60; Capítulo Anterior] | <<v23-64-0,Topo>> | xref:023-isaias/023-isaias-065.adoc#v23-65-0[Próximo Capítulo &#62;]

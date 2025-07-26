@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v9-12-0]]
+=== 1 Samuel, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-12-1]]
+
+^<<v9-12-1,1>>^ Finalmente, Samuel disse a todo o Israel: “Eis que escutei a vossa voz no que se refere a tudo o que me dissestes, que eu fizesse um rei reinar sobre vós.
+
+[[v9-12-2]]
+
+^<<v9-12-2,2>>^ E agora, eis o rei andando na vossa frente! Quanto a mim, fiquei velho e grisalho, e meus filhos, aqui estão convosco; e eu é que tenho andado diante de vós desde a minha mocidade até o dia de hoje.
+
+[[v9-12-3]]
+
+^<<v9-12-3,3>>^ Eis-me aqui. Respondei contra mim diante de Jeová e diante de seu ungido:^&#42;1^ O touro de quem tomei, ou o jumento de quem tomei, ou a quem defraudei, ou^&#42;2^ a quem esmaguei, ou da mão de quem aceitei peita^&#42;3^ para ocultar com ela meus olhos?^&#42;4^ E eu vos farei restituição.”
+
+[NOTE]
+====
+. “Seu ungido.” Hebr.: meshi·hhóh; gr.: khri·stoú; sir.: meshi·hheh; lat.: chrí·sto. Veja 11:15 n.
+. “Ou”, TLXXSy e muitos mss. hebr.
+. Ou “resgate”. Hebr.: khó·fer; gr.: e·xí·la·sma.
+. “Aceitei peita para ocultar com ela meus olhos?” M; LXX: “aceitei expiação, mesmo uma sandália? Replicai-me.”
+====
+
+[[v9-12-4]]
+
+^<<v9-12-4,4>>^ A isso disseram: “Não nos defraudaste, nem nos esmagaste, nem aceitaste coisa alguma da mão de sequer um.”
+
+[[v9-12-5]]
+
+^<<v9-12-5,5>>^ Portanto, ele lhes disse: “Jeová é testemunha contra vós e seu ungido é testemunha no dia de hoje de que não achastes absolutamente nada na minha mão.” A isso disseram:^&#42;1^ “Ele é testemunha.”^&#42;2^
+
+[NOTE]
+====
+. “Disseram”, TLXXSyItVg e 18 mss. hebr.; M: “disse”.
+. Lit.: “Disseram (disse): ‘Uma testemunha’”, MLXXSyVg.
+====
+
+[[v9-12-6]]
+
+^<<v9-12-6,6>>^ E Samuel prosseguiu, dizendo ao povo: “Jeová [é testemunha],^&#42;1^ aquele que usou Moisés e Arão, e que fez os vossos antepassados subir da terra do Egito.
+
+[NOTE]
+====
+. “Jeová é testemunha”, LXX; Sy: “Só Jeová é Deus”; MVg: “Jeová”.
+====
+
+[[v9-12-7]]
+
+^<<v9-12-7,7>>^ E agora tomai a vossa posição, e eu vos julgarei perante Jeová [e vos relatarei]^&#42;1^ todos os atos justos de Jeová, que ele fez convosco e com os vossos antepassados.
+
+[NOTE]
+====
+. “E vos relatarei”, LXX; M omite isso.
+====
+
+[[v9-12-8]]
+
+^<<v9-12-8,8>>^ “Assim que Jacó^&#42;1^ entrou no Egito^&#42;2^ e os vossos antepassados começaram a clamar a Jeová por socorro, Jeová passou a enviar Moisés e Arão, para que fizessem os vossos antepassados sair do Egito e os fizessem^&#42;3^ morar neste lugar.
+
+[NOTE]
+====
+. “Jacó”, MSyVg; LXX: “Jacó e seus filhos”.
+. LXX acrescenta: “e o Egito os humilhou”.
+. “Do Egito e os fizessem”, M; LXXVg: “do Egito e os fez”.
+====
+
+[[v9-12-9]]
+
+^<<v9-12-9,9>>^ E eles foram esquecer a Jeová, seu Deus, de modo que os vendeu à mão de Sísera, chefe^&#42;1^ do exército de Hazor, e à mão dos filisteus, e à mão do rei de Moabe, e estes lutavam contra eles.
+
+[NOTE]
+====
+. Ou “príncipe”. Hebr.: sar.
+====
+
+[[v9-12-10]]
+
+^<<v9-12-10,10>>^ E começaram a clamar a Jeová por socorro e a dizer: ‘Pecamos, pois deixamos a Jeová para servir aos Baalins e às imagens de Astorete; e agora, livra-nos da mão dos nossos inimigos para que te sirvamos.’
+
+[[v9-12-11]]
+
+^<<v9-12-11,11>>^ E Jeová passou a enviar Jerubaal, e Bedã,^&#42;1^ e Jefté, e Samuel,^&#42;2^ e a livrar-vos da mão dos vossos inimigos em todo o redor, para que morásseis em segurança.
+
+[NOTE]
+====
+. “Bedã”, MVg; LXXSy: “Baraque”.
+. “Samuel”, MLXXVg; LXXLSy: “Sansão”.
+====
+
+[[v9-12-12]]
+
+^<<v9-12-12,12>>^ Quando vistes que Naás, rei dos filhos de Amom, veio contra vós, persististes em dizer-me: ‘Não, mas é um rei que deve reinar sobre nós!’ enquanto Jeová, vosso Deus, era vosso Rei.
+
+[[v9-12-13]]
+
+^<<v9-12-13,13>>^ E agora, eis o rei que escolhestes, que pedistes; e eis que Jeová pôs sobre vós um rei.
+
+[[v9-12-14]]
+
+^<<v9-12-14,14>>^ Se temerdes a Jeová e realmente o servirdes, e obedecerdes à sua voz, e não vos rebelardes contra a ordem de Jeová, tanto vós como o rei que terá de reinar sobre vós haveis de mostrar-vos seguidores de Jeová, vosso Deus.
+
+[[v9-12-15]]
+
+^<<v9-12-15,15>>^ Mas, se não obedecerdes à voz de Jeová e se realmente vos rebelardes contra a ordem de Jeová, a mão de Jeová há de mostrar-se contra vós e contra os vossos pais.^&#42;1^
+
+[NOTE]
+====
+. “E . . . os vossos pais”, MVg; Sy: “assim como foi contra os vossos antepassados”; LXX: “e contra o vosso rei”.
+====
+
+[[v9-12-16]]
+
+^<<v9-12-16,16>>^ Agora, também, tomai a vossa posição e vede esta grande coisa que Jeová está fazendo diante dos vossos olhos.
+
+[[v9-12-17]]
+
+^<<v9-12-17,17>>^ Não é hoje a sega do trigo? Clamarei a Jeová para que dê trovões^&#42;1^ e chuva; então sabei e vede que é abundante o vosso mal que fizestes aos olhos de Jeová, pedindo para vós um rei.”
+
+[NOTE]
+====
+. Ou “vozes; sons”.
+====
+
+[[v9-12-18]]
+
+^<<v9-12-18,18>>^ A seguir, Samuel clamou a Jeová e Jeová passou a dar trovões e chuva naquele dia, de modo que todo o povo ficou com muito temor de Jeová e de Samuel.
+
+[[v9-12-19]]
+
+^<<v9-12-19,19>>^ E todo o povo começou a dizer a Samuel: “Ora pelos teus servos a Jeová, teu Deus, pois não queremos morrer; porque acrescentamos a todos os nossos pecados o mal de pedirmos um rei para nós.”
+
+[[v9-12-20]]
+
+^<<v9-12-20,20>>^ Portanto, Samuel disse ao povo: “Não tenhais medo. Vós é que fizestes todo este mal. Somente não vos desvieis de seguir a Jeová, e tendes de servir a Jeová de todo o vosso coração.
+
+[[v9-12-21]]
+
+^<<v9-12-21,21>>^ E não vos deveis desviar para seguir as irrealidades que não são de proveito e que não livram, porque são irrealidades.
+
+[[v9-12-22]]
+
+^<<v9-12-22,22>>^ Pois, Jeová não abandonará seu povo, por causa do seu grande nome, porque Jeová tem resolvido fazer de vós seu povo.
+
+[[v9-12-23]]
+
+^<<v9-12-23,23>>^ Também, quanto a mim, é inconcebível da minha parte pecar contra Jeová por deixar de orar por vós; e tenho de instruir-vos no caminho bom e direito.
+
+[[v9-12-24]]
+
+^<<v9-12-24,24>>^ Somente temei a Jeová, e tendes de servi-lo em verdade, de todo o vosso coração; pois, vede que grandes coisas ele fez por vós.
+
+[[v9-12-25]]
+
+^<<v9-12-25,25>>^ Mas, se fizerdes flagrantemente o que é mau, sereis arrasados, tanto vós como o vosso rei.”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-011.adoc#v9-11-0[&#60; Capítulo Anterior] | <<v9-12-0,Topo>> | xref:009-1-samuel/009-1-samuel-013.adoc#v9-13-0[Próximo Capítulo &#62;]

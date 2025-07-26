@@ -1,0 +1,177 @@
+include::./index.adoc[]
+
+[[v23-7-0]]
+=== Isaías, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-7-1]]
+
+^<<v23-7-1,1>>^ Ora, aconteceu nos dias de Acaz, filho de Jotão, filho de Uzias, rei de Judá, que Rezim, rei da Síria — e Peca, filho de Remalias,^&#42;1^ rei de Israel — subiu a Jerusalém para a guerra contra ela, e ele^&#42;2^ se mostrou incapaz de guerrear contra ela.
+
+[NOTE]
+====
+. Veja 2Rs 15:25 n.: “Remalias”.
+. “Ele”, MT; 1QIsaLXXSyVg e 2Rs 16:5: “eles”.
+====
+
+[[v23-7-2]]
+
+^<<v23-7-2,2>>^ E informou-se à casa de Davi, dizendo-se: “A Síria apoiou-se^&#42;1^ em Efraim.”
+E seu coração e o coração de seu povo começaram a estremecer, como o estremecimento das árvores da floresta por causa do vento.^&#42;2^
+
+[NOTE]
+====
+. “Acomodou-se; descansou”, mediante outra derivação do verbo hebr.
+. Ou “sopro”. Hebr.: rú·ahh. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v23-7-3]]
+
+^<<v23-7-3,3>>^ E Jeová passou a dizer a Isaías: “Por favor, sai, indo ao encontro de Acaz, tu e Sear-Jasube,^&#42;1^ teu filho, à extremidade do aqueduto do reservatório superior, junto à estrada principal do campo do lavadeiro.
+
+[NOTE]
+====
+. Significando “Um Mero Restante (os Remanescentes) Retornará”.
+====
+
+[[v23-7-4]]
+
+^<<v23-7-4,4>>^ E tens de dizer-lhe: ‘Guarda-te e fica sossegado. Não tenhas medo e não se intimide o teu coração por causa das duas pontas finais destes tições fumegantes, por causa da ira acesa de Rezim, e da Síria, e do filho de Remalias,
+
+[[v23-7-5]]
+
+^<<v23-7-5,5>>^ visto que a Síria, [com] Efraim, e o filho de Remalias, aconselhou o mal contra ti, dizendo:
+
+[[v23-7-6]]
+
+^<<v23-7-6,6>>^ “Subamos contra Judá e rompamo-lo em pedaços, e tomemo-lo para nós por meio de brechas; e façamos outro rei reinar nele, o filho de Tabeel.”
+
+[[v23-7-7]]
+
+^<<v23-7-7,7>>^ “‘Assim disse o Soberano Senhor Jeová: “Isto não se efetuará, nem sucederá.
+
+[[v23-7-8]]
+
+^<<v23-7-8,8>>^ Porque a cabeça da Síria é Damasco, e o cabeça de Damasco é Rezim; e em apenas sessenta e cinco anos Efraim será desbaratado para não ser povo.
+
+[[v23-7-9]]
+
+^<<v23-7-9,9>>^ E a cabeça de Efraim é Samaria, e o cabeça de Samaria é o filho de Remalias. A menos que tenhais fé, então não sereis de longa duração.”’”
+
+[[v23-7-10]]
+
+^<<v23-7-10,10>>^ E Jeová prosseguiu falando mais a Acaz, dizendo:
+
+[[v23-7-11]]
+
+^<<v23-7-11,11>>^ “Pede para ti um sinal da parte de Jeová, teu Deus, fazendo-o tão profundo como o Seol^&#42;1^ ou fazendo-o tão alto como as regiões superiores.”
+
+[NOTE]
+====
+. “Como o Seol” (hebr.: she’ó·lah, “em direção ao Seol”), mediante uma ligeira mudança dos sinais vocálicos, conforme sugerido nas notas de BHK e BHS, e em harmonia com AqSymThVg; M(hebr.): she’á·lah, “pede deveras”. Veja Ap. 4B.
+====
+
+[[v23-7-12]]
+
+^<<v23-7-12,12>>^ Mas Acaz disse: “Não [o] pedirei, nem porei Jeová à prova.”
+
+[[v23-7-13]]
+
+^<<v23-7-13,13>>^ E ele passou a dizer: “Escutai-me, por favor, ó casa de Davi. É para vós algo de somenos importância fatigardes os homens, que deveis também fatigar o meu Deus?
+
+[[v23-7-14]]
+
+^<<v23-7-14,14>>^ Portanto, o próprio Jeová^&#42;1^ vos dará um sinal: Eis que a própria donzela^&#42;2^ ficará realmente grávida e dará à luz um filho, e ela há de chamá-lo pelo nome de Emanuel.^&#42;3^
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+. “A . . . donzela (moça).” Hebr.: ha·‛al·máh; LXX(gr.: par·thé·nos)Sy(sir.: bethul·tha’), “a virgem”; AqSymTh(gr.): ne·á·nis, “donzela; mocinha”; lat.: vír·go, “virgem”. Veja Gên 24:16 n.
+. “Emanuel.” Hebr.: ‛Im·má·nu ’El, significando “Conosco Está Deus”; gr.: Em·ma·nou·él; Vgc(lat.): Em·má·nu·el. Veja Mt 1:23.
+====
+
+[[v23-7-15]]
+
+^<<v23-7-15,15>>^ Ele comerá manteiga e mel pelo tempo em que souber rejeitar o mau e escolher o bom.
+
+[[v23-7-16]]
+
+^<<v23-7-16,16>>^ Pois antes que o rapaz saiba rejeitar o mau e escolher o bom, o solo dos dois reis de que tens um pavor mórbido ficará completamente abandonado.
+
+[[v23-7-17]]
+
+^<<v23-7-17,17>>^ Jeová fará vir contra ti, e contra teu povo, e contra a casa de teu pai, dias tais como nunca vieram desde o dia em que Efraim se afastou de junto de Judá, a saber, o rei da Assíria.^&#42;1^
+
+[NOTE]
+====
+. “Assíria.” Hebr.: ’Ash·shúr; LXX: “os assírios”.
+====
+
+[[v23-7-18]]
+
+^<<v23-7-18,18>>^ “E naquele dia terá de acontecer que Jeová assobiará às moscas^&#42;1^ que há na extremidade dos canais do Nilo do Egito, e às abelhas^&#42;2^ que há na terra da Assíria,
+
+[NOTE]
+====
+. “Às moscas.” Hebr.: laz·zevúv, hebr. sing., mas em sentido coletivo.
+. “E às abelhas.” Hebr.: welad·devoh·ráh, hebr. sing., mas em sentido coletivo.
+====
+
+[[v23-7-19]]
+
+^<<v23-7-19,19>>^ e elas certamente entrarão e pousarão, todas elas, nos escarpados vales de torrente, e nas fendas dos rochedos, e em todas as moitas de espinhos, e em todos os bebedouros.^&#42;1^
+
+[NOTE]
+====
+. Ou “pastos”.
+====
+
+[[v23-7-20]]
+
+^<<v23-7-20,20>>^ “Naquele dia, por meio duma navalha contratada na região do Rio, sim, por meio do rei da Assíria, Jeová^&#42;1^ rapará a cabeça e o pêlo dos pés,^&#42;2^ e ela^&#42;3^ arrasará até mesmo a barba.
+
+[NOTE]
+====
+. Veja v. 14 n.: “Jeová”.
+. Isto é, o cabelo da genitália, segundo BDB, p. 920.
+. “Ela”, hebr. fem., isto é, a navalha.
+====
+
+[[v23-7-21]]
+
+^<<v23-7-21,21>>^ “E naquele dia terá de acontecer que alguém^&#42;1^ preservará viva uma novilha da manada e duas ovelhas.
+
+[NOTE]
+====
+. Ou “um homem”. Hebr.: ’ish.
+====
+
+[[v23-7-22]]
+
+^<<v23-7-22,22>>^ E terá de acontecer que, devido à abundância da produção de leite, ele comerá manteiga; pois manteiga e mel é o que comerá cada um que se deixou sobrar no meio do país.^&#42;1^
+
+[NOTE]
+====
+. Ou “terra”.
+====
+
+[[v23-7-23]]
+
+^<<v23-7-23,23>>^ “E naquele dia terá de acontecer que todo lugar onde costumava haver mil videiras, valendo mil moedas de prata, virá a ser — virá a ser para os espinheiros e para as ervas daninhas.
+
+[[v23-7-24]]
+
+^<<v23-7-24,24>>^ Com flechas e com arco chegará^&#42;1^ aí, porque todo o país se tornará meramente espinheiros e ervas daninhas.
+
+[NOTE]
+====
+. Ou “alguém chegará”.
+====
+
+[[v23-7-25]]
+
+^<<v23-7-25,25>>^ E todos os montes que costumavam ser capinados com a enxada — não chegarás aí de medo dos espinheiros e das ervas daninhas; e certamente se tornará um lugar para se soltar o touro e um lugar pisado por ovídeos.”
+
+'''
+
+xref:023-isaias/023-isaias-006.adoc#v23-6-0[&#60; Capítulo Anterior] | <<v23-7-0,Topo>> | xref:023-isaias/023-isaias-008.adoc#v23-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v19-140-0]]
+=== Salmos, 140
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Para o regente. Uma melodia de Davi._
+
+[[v19-140-1]]
+
+^<<v19-140-1,1>>^ Socorre-me dos homens^&#42;1^ maus, ó Jeová;
+Que tu me resguardes mesmo do homem de atos de violência,
+
+[NOTE]
+====
+. Lit.: “do homem terreno”. Hebr.: me·’a·dhám.
+====
+
+[[v19-140-2]]
+
+^<<v19-140-2,2>>^ Os que maquinaram coisas más no coração,
+Que atacam o dia inteiro como nas guerras.
+
+[[v19-140-3]]
+
+^<<v19-140-3,3>>^ Afiaram a sua língua como a duma serpente;
+A peçonha de víbora cornuda está sob os seus lábios. Selá.
+
+[[v19-140-4]]
+
+^<<v19-140-4,4>>^ Guarda-me, ó Jeová, das mãos do iníquo;
+Que tu me resguardes mesmo do homem^&#42;1^ de atos de violência,
+Os que maquinaram empurrar meus passos.
+
+[NOTE]
+====
+. “Do homem de.” Hebr.: me·’ish.
+====
+
+[[v19-140-5]]
+
+^<<v19-140-5,5>>^ Os que se enaltecem encobriram uma armadilha contra mim;
+E estenderam cordas como rede à beira do trilho.
+Armaram-me laços. Selá.
+
+[[v19-140-6]]
+
+^<<v19-140-6,6>>^ Eu disse a Jeová:^&#42;1^ “Tu és meu Deus.^&#42;2^
+Ó Jeová, dá deveras ouvidos à voz dos meus rogos.”
+
+[NOTE]
+====
+. “A Jeová.” Hebr.: la·Yhwáh.
+. “Meu Deus.” Hebr.: ’É·li.
+====
+
+[[v19-140-7]]
+
+^<<v19-140-7,7>>^ Ó Jeová, Soberano Senhor, força da minha salvação,
+Abrigaste a minha cabeça no dia da força armada.
+
+[[v19-140-8]]
+
+^<<v19-140-8,8>>^ Ó Jeová, não concedas os almejos do iníquo.
+Não promovas a sua trama, para que não se enalteçam. Selá.
+
+[[v19-140-9]]
+
+^<<v19-140-9,9>>^ Quanto às cabeças dos que me cercam,
+Cubra-os a desgraça dos seus próprios lábios.
+
+[[v19-140-10]]
+
+^<<v19-140-10,10>>^ Deixem-se cair sobre eles brasas.
+Faça-se que caiam no fogo, em poços de água, para que não se levantem.
+
+[[v19-140-11]]
+
+^<<v19-140-11,11>>^ O grande falador^&#42;1^ — não fique firmemente estabelecido na terra.
+O homem de violência — cace-o o próprio mal com repetidos assaltos.
+
+[NOTE]
+====
+. Ou: “O caluniador.” Lit.: “O homem de língua.”
+====
+
+[[v19-140-12]]
+
+^<<v19-140-12,12>>^ Bem sei que Jeová executará
+A demanda judicial do atribulado, o julgamento dos pobres.
+
+[[v19-140-13]]
+
+^<<v19-140-13,13>>^ Seguramente, os próprios justos darão graças ao teu nome;
+Os retos morarão diante da tua face.
+
+'''
+
+xref:019-salmo/019-salmo-139.adoc#v19-139-0[&#60; Capítulo Anterior] | <<v19-140-0,Topo>> | xref:019-salmo/019-salmo-141.adoc#v19-141-0[Próximo Capítulo &#62;]

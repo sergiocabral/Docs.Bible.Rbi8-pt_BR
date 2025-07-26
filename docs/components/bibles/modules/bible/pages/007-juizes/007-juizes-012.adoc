@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v7-12-0]]
+=== Juízes, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v7-12-1]]
+
+^<<v7-12-1,1>>^ Então foram convocados os homens de Efraim, e eles atravessaram em direção ao norte e disseram a Jefté: “Por que é que passaste para lutar contra os filhos de Amom, e a nós não nos chamaste para irmos contigo? Queimaremos a tua própria casa por cima de ti com fogo.”
+
+[[v7-12-2]]
+
+^<<v7-12-2,2>>^ Jefté, porém, lhes disse: “Tornei-me contendedor especial,^&#42;1^ eu e meu povo, com os filhos de Amom. E passei a clamar a vós por socorro, mas vós não me salvastes da sua mão.
+
+[NOTE]
+====
+. Lit.: “especialmente homem de contenda”.
+====
+
+[[v7-12-3]]
+
+^<<v7-12-3,3>>^ Quando cheguei a ver que tu não eras salvador, então decidi pôr a minha alma^&#42;1^ na palma da minha própria mão e ir contra os filhos de Amom. Nisso Jeová mos deu na mão. Portanto, por que viestes neste dia contra mim para lutar contra mim?”
+
+[NOTE]
+====
+. Ou “minha vida”. Hebr.: naf·shí; gr.: psy·khén; lat.: á·ni·mam.
+====
+
+[[v7-12-4]]
+
+^<<v7-12-4,4>>^ Jefté reuniu imediatamente todos os homens de Gileade e lutou contra Efraim; e os homens de Gileade golpeavam a Efraim, porque haviam dito: “Fugitivos de Efraim é o que sois, ó Gileade, dentro de Efraim, dentro de Manassés.”
+
+[[v7-12-5]]
+
+^<<v7-12-5,5>>^ E Gileade chegou a capturar os vaus do Jordão adiante de Efraim; e sucedeu que, quando os homens fugitivos de Efraim diziam: “Deixai-me passar”, então os homens de Gileade diziam a cada um: “És tu efraimita?” Quando dizia: “Não!”
+
+[[v7-12-6]]
+
+^<<v7-12-6,6>>^ então lhe diziam: “Por favor, dize Xibolete.”^&#42;1^ E ele dizia: “Sibolete”,^&#42;2^ pois era incapaz^&#42;3^ de pronunciar a palavra corretamente. Então o seguravam e o matavam junto aos vaus do Jordão. De modo que caíram naquele tempo quarenta e dois mil de Efraim.
+
+[NOTE]
+====
+. “Por favor, dize Xibolete.” Hebr.: ’emor·ná’ shib·bó·leth. “Xibolete” significa “Espiga”; ou: “Curso de Água”. Veja Gên 41:5.
+. “E ele dizia: ‘Sibolete.’” Hebr.: wai·yó’·mer sib·bó·leth. “Sibolete” é a pronúncia efraimita de “Xibolete”.
+. “Era incapaz”, em harmonia com 12 mss. hebr. que rezam literalmente: “não sabia como”; M: “não perseverava”.
+====
+
+[[v7-12-7]]
+
+^<<v7-12-7,7>>^ E Jefté continuou a julgar Israel por seis anos, e depois morreu Jefté, o gileadita, e foi enterrado na sua cidade, em Gileade.^&#42;1^
+
+[NOTE]
+====
+. “Na sua cidade, em Gileade”, LXXB; M: “em [uma das] cidades de Gileade”; Sy: “numa cidade de Gileade”.
+====
+
+[[v7-12-8]]
+
+^<<v7-12-8,8>>^ E Ibsã, de Belém, começou a julgar Israel depois dele.
+
+[[v7-12-9]]
+
+^<<v7-12-9,9>>^ E ele veio a ter trinta filhos e trinta filhas. Mandou trazer de fora^&#42;1^ trinta filhas para os seus filhos. E continuou a julgar Israel por sete anos.
+
+[NOTE]
+====
+. “Fora”, isto é, de outras famílias ou clãs.
+====
+
+[[v7-12-10]]
+
+^<<v7-12-10,10>>^ Morreu então Ibsã e foi enterrado em Belém.
+
+[[v7-12-11]]
+
+^<<v7-12-11,11>>^ E após ele, Elom, o zebulonita, começou a julgar Israel. E continuou a julgar Israel por dez anos.
+
+[[v7-12-12]]
+
+^<<v7-12-12,12>>^ Morreu então Elom, o zebulonita, e foi enterrado em Aijalom, na terra de Zebulão.
+
+[[v7-12-13]]
+
+^<<v7-12-13,13>>^ E após ele, Abdom, filho de Hilel, o piratonita, começou a julgar Israel.
+
+[[v7-12-14]]
+
+^<<v7-12-14,14>>^ E ele veio a ter quarenta filhos e trinta netos que montavam em setenta jumentos adultos. E continuou a julgar Israel por oito anos.
+
+[[v7-12-15]]
+
+^<<v7-12-15,15>>^ Morreu então Abdom, filho de Hilel, o piratonita, e foi enterrado em Piratom, na terra de Efraim, no monte do amalequita.^&#42;1^
+
+[NOTE]
+====
+. “No monte Lanaque”, LXXA.
+====
+
+'''
+
+xref:007-juizes/007-juizes-011.adoc#v7-11-0[&#60; Capítulo Anterior] | <<v7-12-0,Topo>> | xref:007-juizes/007-juizes-013.adoc#v7-13-0[Próximo Capítulo &#62;]

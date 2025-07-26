@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v2-16-0]]
+=== Êxodo, 16
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-16-1]]
+
+^<<v2-16-1,1>>^ Posteriormente partiram de Elim, e toda a assembléia dos filhos de Israel chegou finalmente ao ermo de Sim, que está entre Elim e Sinai, no dia quinze do segundo mês depois da sua saída da terra do Egito.
+
+[[v2-16-2]]
+
+^<<v2-16-2,2>>^ E toda a assembléia dos filhos de Israel começou a resmungar contra Moisés e Arão no ermo.
+
+[[v2-16-3]]
+
+^<<v2-16-3,3>>^ E os filhos de Israel diziam-lhes: “Se somente tivéssemos morrido pela mão de Jeová na terra do Egito, enquanto estávamos sentados junto às panelas de carne, enquanto comíamos pão a fartar, porque nos fizestes sair a este ermo, para fazer toda esta congregação morrer de fome.”
+
+[[v2-16-4]]
+
+^<<v2-16-4,4>>^ Jeová disse então a Moisés: “Eis que faço chover pão para vós desde os céus; e o povo tem de sair e cada um tem de apanhar a sua porção, dia a dia, a fim de que eu os ponha à prova quanto a se andarão na minha lei ou não.
+
+[[v2-16-5]]
+
+^<<v2-16-5,5>>^ E tem de dar-se, no sexto dia, que eles têm de preparar o que colherem, e isso tem de mostrar ser o dobro do que apanham dia a dia.”
+
+[[v2-16-6]]
+
+^<<v2-16-6,6>>^ Portanto, Moisés e Arão disseram a todos os filhos de Israel: “À noitinha sabereis certamente que é Jeová quem vos fez sair da terra do Egito.
+
+[[v2-16-7]]
+
+^<<v2-16-7,7>>^ E de manhã haveis de ver a glória de Jeová, porque ouviu os vossos resmungos contra Jeová. E que somos nós para que resmungueis contra nós?”
+
+[[v2-16-8]]
+
+^<<v2-16-8,8>>^ E Moisés continuou: “Será quando Jeová vos der à noitinha carne para comer e de manhã pão a fartar, porque Jeová ouviu os vossos resmungos que fazeis contra ele. E que somos nós? Vossos resmungos não são contra nós, mas contra Jeová.”
+
+[[v2-16-9]]
+
+^<<v2-16-9,9>>^ E Moisés prosseguiu, dizendo a Arão: “Dize à assembléia inteira dos filhos de Israel: ‘Chegai-vos perante Jeová, porque ele ouviu os vossos resmungos.’”
+
+[[v2-16-10]]
+
+^<<v2-16-10,10>>^ Sucedeu, então, assim que Arão tinha falado à assembléia inteira dos filhos de Israel, que eles se viraram e encararam o ermo, e eis que a glória de Jeová apareceu na nuvem.
+
+[[v2-16-11]]
+
+^<<v2-16-11,11>>^ E Jeová falou mais a Moisés, dizendo:
+
+[[v2-16-12]]
+
+^<<v2-16-12,12>>^ “Tenho ouvido os resmungos dos filhos de Israel. Fala-lhes, dizendo: ‘Entre as duas noitinhas^&#42;1^ comereis carne e de manhã vos fartareis de pão; e sabereis certamente que eu sou Jeová, vosso Deus.’”
+
+[NOTE]
+====
+. Ou “À noitinha”. Veja 12:6 n.
+====
+
+[[v2-16-13]]
+
+^<<v2-16-13,13>>^ Concordemente, deu-se à noitinha que começaram a vir codornizes e passaram a cobrir o acampamento, e de manhã se havia formado uma camada de orvalho em volta do acampamento.
+
+[[v2-16-14]]
+
+^<<v2-16-14,14>>^ Com o tempo, a camada de orvalho se evaporava^&#42;1^ e eis que havia na superfície do ermo uma coisa miúda, flocosa,^&#42;2^ miúda como a geada sobre a terra.
+
+[NOTE]
+====
+. Lit.: “se elevava”.
+. Ou “crepitante”.
+====
+
+[[v2-16-15]]
+
+^<<v2-16-15,15>>^ Quando os filhos de Israel chegaram a vê-la, começaram a dizer uns aos outros: “Que é isto?”^&#42;1^ Pois não sabiam o que era. Moisés disse-lhes, portanto: “É o pão que Jeová vos deu por alimento.
+
+[NOTE]
+====
+. “Que é (isto)?” Hebr.: man hú? Sir.: ma·nav?
+====
+
+[[v2-16-16]]
+
+^<<v2-16-16,16>>^ Esta é a palavra que Jeová ordenou: ‘Colhei disso, cada um proporcionalmente ao que come. Deveis tomar a medida de um gômor^&#42;1^ para cada um,^&#42;2^ segundo o número de almas que cada um de vós tem na sua tenda.’”
+
+[NOTE]
+====
+. Cerca de 2,2 l.
+. Lit.: “crânio”.
+====
+
+[[v2-16-17]]
+
+^<<v2-16-17,17>>^ E os filhos de Israel começaram a fazer isso; e foram apanhá-lo, alguns recolhendo muito e outros recolhendo pouco.
+
+[[v2-16-18]]
+
+^<<v2-16-18,18>>^ Quando o mediam pelo gômor, quem tinha recolhido muito não tinha sobra e quem tinha recolhido pouco não tinha falta. Apanharam-no cada um proporcionalmente ao que comia.
+
+[[v2-16-19]]
+
+^<<v2-16-19,19>>^ Moisés disse-lhes então: “Ninguém deixe sobrar nada até à manhã.”
+
+[[v2-16-20]]
+
+^<<v2-16-20,20>>^ Mas não escutaram a Moisés. Quando alguns homens deixavam sobrar parte dele até à manhã, criava bichos e cheirava mal; de modo que Moisés ficou indignado com eles.
+
+[[v2-16-21]]
+
+^<<v2-16-21,21>>^ E apanhavam-no manhã após manhã, cada um proporcionalmente ao que comia. Quando o sol esquentava, derretia-se.
+
+[[v2-16-22]]
+
+^<<v2-16-22,22>>^ E sucedeu no sexto dia que apanharam duas vezes tanto pão, dois gômores para uma só pessoa. Vieram assim todos os maiorais^&#42;1^ da assembléia e o comunicaram a Moisés.
+
+[NOTE]
+====
+. Ou “nases”. Veja Gên 17:20 n.
+====
+
+[[v2-16-23]]
+
+^<<v2-16-23,23>>^ Portanto, ele lhes disse: “É o que Jeová falou. Amanhã haverá a observância sabática^&#42;1^ dum santo sábado para Jeová. O que puderdes cozer [ao forno], cozei, e o que puderdes cozinhar [em água], cozinhai, e tudo o que sobrar guardai para vós como algo a ser guardado até à manhã.”
+
+[NOTE]
+====
+. Ou “festa sabática”.
+====
+
+[[v2-16-24]]
+
+^<<v2-16-24,24>>^ Concordemente, guardaram-no até à manhã, como Moisés mandara; e não cheirou mal, nem se criaram nele gusanos.
+
+[[v2-16-25]]
+
+^<<v2-16-25,25>>^ Moisés disse então: “Comei-o hoje, porque hoje é um sábado para Jeová. Hoje não o encontrareis no campo.
+
+[[v2-16-26]]
+
+^<<v2-16-26,26>>^ Seis dias haveis de apanhá-lo, mas o sétimo dia é um sábado. Não se formará nele.”
+
+[[v2-16-27]]
+
+^<<v2-16-27,27>>^ No entanto, sucedeu no sétimo dia que alguns do povo saíram para apanhá-lo, mas não acharam nada.
+
+[[v2-16-28]]
+
+^<<v2-16-28,28>>^ Por conseguinte, Jeová disse a Moisés: “Até quando haveis de negar-vos a guardar os meus mandamentos e as minhas leis?
+
+[[v2-16-29]]
+
+^<<v2-16-29,29>>^ Notai o fato de que Jeová vos deu o sábado. É por isso que ele vos dá no sexto dia o pão para dois dias. Ficai sentados, cada um no seu próprio lugar. Ninguém saia do seu lugar no sétimo dia.”
+
+[[v2-16-30]]
+
+^<<v2-16-30,30>>^ E o povo passou a observar o sábado^&#42;1^ no sétimo dia.
+
+[NOTE]
+====
+. Ou “passou a repousar”.
+====
+
+[[v2-16-31]]
+
+^<<v2-16-31,31>>^ E a casa de Israel começou a chamá-lo pelo nome de “maná”.^&#42;1^ E era branco como a semente de coentro e seu sabor era como o de bolachas de mel.
+
+[NOTE]
+====
+. “Maná.” Sir.: man·na’; MSamLXXVg: man.
+====
+
+[[v2-16-32]]
+
+^<<v2-16-32,32>>^ Moisés disse então: “Esta é a palavra que Jeová mandou: ‘Enche dele um gômor como algo a ser guardado nas vossas gerações, a fim de que vejam o pão que eu vos fiz comer no ermo quando vos fiz sair da terra do Egito.’”
+
+[[v2-16-33]]
+
+^<<v2-16-33,33>>^ De modo que Moisés disse a Arão: “Toma um jarro e põe nele um gômor de maná, e deposita-o diante de Jeová como algo a ser guardado nas vossas gerações.”
+
+[[v2-16-34]]
+
+^<<v2-16-34,34>>^ Assim como Jeová mandara a Moisés, Arão passou a depositá-lo diante do Testemunho^&#42;1^ como algo a ser guardado.
+
+[NOTE]
+====
+. Ou “Recordador”, isto é, a arca do testemunho (o arquivo para a guarda de importantes documentos). Veja Êx 30:6.
+====
+
+[[v2-16-35]]
+
+^<<v2-16-35,35>>^ E os filhos de Israel comeram o maná por quarenta anos, até a sua chegada a uma terra habitada. Era maná o que comiam até a sua chegada aos limites da terra de Canaã.
+
+[[v2-16-36]]
+
+^<<v2-16-36,36>>^ Ora, um gômor é a décima parte de um efa.^&#42;1^
+
+[NOTE]
+====
+. Um efa equivalia a 22 l.
+====
+
+'''
+
+xref:002-exodo/002-exodo-015.adoc#v2-15-0[&#60; Capítulo Anterior] | <<v2-16-0,Topo>> | xref:002-exodo/002-exodo-017.adoc#v2-17-0[Próximo Capítulo &#62;]

@@ -1,0 +1,114 @@
+include::./index.adoc[]
+
+[[v5-30-0]]
+=== Deuteronômio, 30
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-30-1]]
+
+^<<v5-30-1,1>>^ “E tem de suceder que, quando todas estas palavras vierem sobre ti, a bênção e a invocação do mal, que pus diante de ti, e as tiveres retornado ao teu coração,^&#42;1^ entre todas as nações nas quais Jeová, teu Deus, te dispersou,
+
+[NOTE]
+====
+. Ou “as tiveres recordado no teu coração”.
+====
+
+[[v5-30-2]]
+
+^<<v5-30-2,2>>^ e tiveres retornado a Jeová, teu Deus, e tiveres escutado sua voz conforme tudo o que hoje te ordeno, tu e teus filhos, de todo o teu coração e de toda a tua alma,
+
+[[v5-30-3]]
+
+^<<v5-30-3,3>>^ então Jeová, teu Deus, terá de trazer de volta os teus cativos^&#42;1^ e ter misericórdia de ti, e terá de reunir-te novamente de todos os povos em que Jeová, teu Deus, te espalhou.
+
+[NOTE]
+====
+. Ou “cativeiro”, isto é, um grupo de cativos.
+====
+
+[[v5-30-4]]
+
+^<<v5-30-4,4>>^ Se teu povo disperso estiver nos confins dos céus, de lá te reunirá Jeová, teu Deus, e de lá te tomará.
+
+[[v5-30-5]]
+
+^<<v5-30-5,5>>^ Jeová, teu Deus, deveras te introduzirá na terra de que teus pais tomaram posse e certamente tomarás posse dela; e ele deveras te fará bem e te multiplicará mais do que a teus pais.
+
+[[v5-30-6]]
+
+^<<v5-30-6,6>>^ E Jeová, teu Deus, terá de circuncidar teu coração e o coração da tua descendência, para que ames a Jeová, teu Deus, de todo o teu coração e de toda a tua alma, no interesse da tua vida.
+
+[[v5-30-7]]
+
+^<<v5-30-7,7>>^ E Jeová, teu Deus, porá certamente todos estes juramentos sobre os teus inimigos e sobre os que te odeiam, os que te perseguiram.
+
+[[v5-30-8]]
+
+^<<v5-30-8,8>>^ “Quanto a ti, tornarás e certamente escutarás a voz de Jeová, e cumprirás todos os seus mandamentos que hoje te ordeno.
+
+[[v5-30-9]]
+
+^<<v5-30-9,9>>^ E Jeová, teu Deus, deveras fará que tenhas mais do que o suficiente em todo trabalho da tua mão, no fruto do teu ventre e no fruto dos teus animais domésticos, e nos frutos do teu solo, resultando em prosperidade; pois, Jeová^&#42;1^ exultará novamente sobre ti para o bem, assim como exultou sobre os teus antepassados;
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-30-10]]
+
+^<<v5-30-10,10>>^ porque escutarás a voz de Jeová, teu Deus, para guardar seus mandamentos e seus estatutos escritos neste livro da lei, visto que retornarás a Jeová, teu Deus, de todo o teu coração e de toda a tua alma.
+
+[[v5-30-11]]
+
+^<<v5-30-11,11>>^ “Pois, este mandamento que hoje te ordeno não é demasiado difícil para ti, nem está longe.
+
+[[v5-30-12]]
+
+^<<v5-30-12,12>>^ Não está nos céus, de modo que se diga: ‘Quem ascenderá por nós aos céus e o obterá para nós, a fim de que no-lo deixe ouvir, para que o cumpramos?’
+
+[[v5-30-13]]
+
+^<<v5-30-13,13>>^ Nem está do outro lado do mar, de modo que se diga: ‘Quem passará por nós para o outro lado do mar e o obterá para nós, a fim de que no-lo deixe ouvir, para que o cumpramos?’
+
+[[v5-30-14]]
+
+^<<v5-30-14,14>>^ Pois a palavra está muito perto de ti, na tua própria boca e no teu próprio coração, para que a cumpras.
+
+[[v5-30-15]]
+
+^<<v5-30-15,15>>^ “Vê, deveras ponho hoje diante de ti a vida e o bem, e a morte e o mal.
+
+[[v5-30-16]]
+
+^<<v5-30-16,16>>^ [Se escutares os mandamentos de Jeová, teu Deus,]^&#42;1^ que hoje te ordeno, de modo a amar a Jeová, teu Deus, para andar nos seus caminhos e guardar seus mandamentos, e seus estatutos, e suas decisões judiciais, então forçosamente ficarás vivo e te multiplicarás, e Jeová, teu Deus, terá de abençoar-te na terra à qual vais para tomar posse dela.
+
+[NOTE]
+====
+. “Se escutares os mandamentos de Jeová, teu Deus”, LXX; MSamSyVg omitem isso.
+====
+
+[[v5-30-17]]
+
+^<<v5-30-17,17>>^ “Mas, se teu coração se desviar e se não escutares, e realmente fores seduzido e te curvares diante de outros deuses e os servires,
+
+[[v5-30-18]]
+
+^<<v5-30-18,18>>^ deveras vos declaro hoje que positivamente perecereis. Não prolongareis os vossos dias no solo para o qual estás passando o Jordão, a fim de ir tomar posse dele.
+
+[[v5-30-19]]
+
+^<<v5-30-19,19>>^ Deveras tomo hoje os céus e a terra por testemunhas contra vós de que pus diante de ti a vida e a morte, a bênção e a invocação do mal; e tens de escolher a vida para ficar vivo, tu e tua descendência,
+
+[[v5-30-20]]
+
+^<<v5-30-20,20>>^ amando a Jeová,^&#42;1^ teu Deus, escutando a sua voz e apegando-te a ele; pois ele é a tua vida e a longura dos teus dias, para morares no solo de que Jeová jurou aos teus antepassados Abraão, Isaque e Jacó que lhes havia de dar.”
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-029.adoc#v5-29-0[&#60; Capítulo Anterior] | <<v5-30-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-031.adoc#v5-31-0[Próximo Capítulo &#62;]

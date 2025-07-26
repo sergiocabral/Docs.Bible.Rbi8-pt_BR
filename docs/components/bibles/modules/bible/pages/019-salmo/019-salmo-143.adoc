@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-143-0]]
+=== Salmos, 143
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma melodia de Davi.^&#42;1^_
+
+[[v19-143-1]]
+
+^<<v19-143-1,1>>^ Ó Jeová, ouve deveras a minha oração;
+Dá deveras ouvidos ao meu rogo.
+Na tua fidelidade, responde-me na tua justiça.
+
+[[v19-143-2]]
+
+^<<v19-143-2,2>>^ E não entres em julgamento com o teu servo;
+Pois diante de ti, ninguém vivo pode ser justo.
+
+[[v19-143-3]]
+
+^<<v19-143-3,3>>^ Porque o inimigo tem perseguido a minha alma;
+Esmigalhou a minha vida na própria terra.
+Fez que eu morasse em lugares escuros, como os que estão mortos por tempo indefinido.
+
+[[v19-143-4]]
+
+^<<v19-143-4,4>>^ E meu espírito se debilita dentro de mim;
+No meu íntimo, mesmo o meu coração se mostra entorpecido.
+
+[[v19-143-5]]
+
+^<<v19-143-5,5>>^ Lembrei-me dos dias de outrora;
+Meditei em toda a tua atuação;
+Mantive-me voluntariamente preocupado com o trabalho das tuas próprias mãos.
+
+[[v19-143-6]]
+
+^<<v19-143-6,6>>^ Estendi minhas mãos a ti;
+Minha alma é para ti como uma terra esgotada. Selá.^&#42;1^
+
+[NOTE]
+====
+. Este é o último Selá dos 71 nos Salmos. Veja 3:2 e n.: “Selá.”
+====
+
+[[v19-143-7]]
+
+^<<v19-143-7,7>>^ Oh! responde-me depressa, ó Jeová!
+Meu espírito chegou ao fim.
+Não escondas de mim a tua face,
+Senão terei de tornar-me comparável aos que descem ao poço.
+
+[[v19-143-8]]
+
+^<<v19-143-8,8>>^ Faze-me ouvir de manhã a tua benevolência,^&#42;1^
+Porque em ti tenho posto a minha confiança.
+Faze-me saber o caminho em que devo andar,
+Porque a ti elevei a minha alma.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-143-9]]
+
+^<<v19-143-9,9>>^ Livra-me dos meus inimigos, ó Jeová,
+É junto a ti que me abriguei.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “cobri”.
+====
+
+[[v19-143-10]]
+
+^<<v19-143-10,10>>^ Ensina-me a fazer a tua vontade,^&#42;1^
+Porque tu és o meu Deus.
+Teu espírito é bom;
+Guie-me ele na terra da retidão.
+
+[NOTE]
+====
+. Ou “prazer”.
+====
+
+[[v19-143-11]]
+
+^<<v19-143-11,11>>^ Por causa do teu próprio nome, ó Jeová, que tu me preserves vivo.
+Na tua justiça, que tu faças a minha alma sair da aflição.
+
+[[v19-143-12]]
+
+^<<v19-143-12,12>>^ E na tua benevolência, que tu silencies os meus inimigos;
+E tens de destruir todos os que são hostis à minha alma,
+Porque sou teu servo.
+
+'''
+
+xref:019-salmo/019-salmo-142.adoc#v19-142-0[&#60; Capítulo Anterior] | <<v19-143-0,Topo>> | xref:019-salmo/019-salmo-144.adoc#v19-144-0[Próximo Capítulo &#62;]

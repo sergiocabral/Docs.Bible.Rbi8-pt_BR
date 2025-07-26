@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v19-83-0]]
+=== Salmos, 83
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Um cântico. Uma melodia de Asafe._
+
+[[v19-83-1]]
+
+^<<v19-83-1,1>>^ Ó Deus, não haja silêncio da tua parte;
+Não fiques sem fala e não sossegues, ó Divino.^&#42;1^
+
+[NOTE]
+====
+. Ou “ó Deus”. Hebr.: ’El.
+====
+
+[[v19-83-2]]
+
+^<<v19-83-2,2>>^ Pois, eis que os próprios inimigos teus estão em alvoroço;
+E os mesmos que te odeiam intensamente levantaram a cabeça.
+
+[[v19-83-3]]
+
+^<<v19-83-3,3>>^ Realizam astutamente sua palestra confidencial contra o teu povo;
+E conspiram contra os teus escondidos.
+
+[[v19-83-4]]
+
+^<<v19-83-4,4>>^ Disseram: “Vinde e eliminemo-los de ser uma nação,
+Para que não haja mais lembrança do nome de Israel.”
+
+[[v19-83-5]]
+
+^<<v19-83-5,5>>^ Pois unidamente trocaram conselho com o coração;
+Passaram a concluir contra ti até mesmo um pacto,^&#42;1^
+
+[NOTE]
+====
+. “Pacto.” Hebr.: beríth; gr.: di·a·thé·ken; Vg(lat.): te·sta·mén·tum. Veja Ap. 7E.
+====
+
+[[v19-83-6]]
+
+^<<v19-83-6,6>>^ As tendas de Edom e os ismaelitas, Moabe e os agarenos,
+
+[[v19-83-7]]
+
+^<<v19-83-7,7>>^ Gebal, e Amom, e Amaleque,
+A Filístia junto com os habitantes de Tiro.
+
+[[v19-83-8]]
+
+^<<v19-83-8,8>>^ Também a própria Assíria^&#42;1^ se juntou a eles;
+Tornaram-se um braço para os filhos de Ló.^&#42;2^ Selá.
+
+[NOTE]
+====
+. Ou “Asshur”, M; LXXVg: “Assur”.
+. “Filhos de Ló”, referindo-se aos moabitas e aos amonitas nos vv. 6, 7.
+====
+
+[[v19-83-9]]
+
+^<<v19-83-9,9>>^ Faze-lhes como a Midiã, como a Sísera,
+Como a Jabim no vale da torrente de Quisom.
+
+[[v19-83-10]]
+
+^<<v19-83-10,10>>^ Foram aniquilados em En-Dor;
+Tornaram-se estrume para o solo.
+
+[[v19-83-11]]
+
+^<<v19-83-11,11>>^ Quanto aos seus nobres, faze-os iguais a Orebe e a Zeebe,
+E como Zeba e Zalmuna, todos os seus caudilhos,
+
+[[v19-83-12]]
+
+^<<v19-83-12,12>>^ Que disseram: “Tomemos posse para nós das moradias de Deus.”
+
+[[v19-83-13]]
+
+^<<v19-83-13,13>>^ Ó meu Deus, faze-os iguais a um remoinho de cardos,
+Como restolho diante do vento.^&#42;1^
+
+[NOTE]
+====
+. “Vento.” Hebr.: rú·ahh; gr.: a·né·mou; lat.: vén·ti. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v19-83-14]]
+
+^<<v19-83-14,14>>^ Como o fogo que queima a floresta
+E como a chama que abrasa os montes,
+
+[[v19-83-15]]
+
+^<<v19-83-15,15>>^ Que tu os persigas assim com a tua tormenta
+E os perturbes com o teu próprio tufão.
+
+[[v19-83-16]]
+
+^<<v19-83-16,16>>^ Enche-lhes as faces de desonra,
+Para que as pessoas^&#42;1^ procurem o teu nome, ó Jeová.
+
+[NOTE]
+====
+. Ou “eles”.
+====
+
+[[v19-83-17]]
+
+^<<v19-83-17,17>>^ Fiquem envergonhados e perturbados para todo o sempre,
+E fiquem encabulados e pereçam;
+
+[[v19-83-18]]
+
+^<<v19-83-18,18>>^ Para que as pessoas saibam que tu, cujo nome é Jeová,
+Somente tu és o Altíssimo sobre toda a terra.
+
+'''
+
+xref:019-salmo/019-salmo-082.adoc#v19-82-0[&#60; Capítulo Anterior] | <<v19-83-0,Topo>> | xref:019-salmo/019-salmo-084.adoc#v19-84-0[Próximo Capítulo &#62;]

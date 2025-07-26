@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v19-148-0]]
+=== Salmos, 148
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-148-1]]
+
+^<<v19-148-1,1>>^ Louvai a Jah!^&#42;1^
+Louvai a Jeová desde os céus,
+Louvai-o nas alturas.
+
+[NOTE]
+====
+. Veja 104:35 n.
+====
+
+[[v19-148-2]]
+
+^<<v19-148-2,2>>^ Louvai-o, todos os seus anjos.
+Louvai-o, todos vós, seu exército.
+
+[[v19-148-3]]
+
+^<<v19-148-3,3>>^ Louvai-o, sol e lua.
+Louvai-o, todas as estrelas de luz.
+
+[[v19-148-4]]
+
+^<<v19-148-4,4>>^ Louvai-o, céus dos céus,
+E vós, águas acima dos céus.
+
+[[v19-148-5]]
+
+^<<v19-148-5,5>>^ Louvem eles o nome de Jeová;
+Pois ele mesmo deu ordem, e foram criados.
+
+[[v19-148-6]]
+
+^<<v19-148-6,6>>^ E ele os mantém estabelecidos para sempre, por tempo indefinido.
+Deu um regulamento, e este não passará.
+
+[[v19-148-7]]
+
+^<<v19-148-7,7>>^ Louvai a Jeová desde a terra,
+Vós, monstros marinhos e todas as águas de profundeza,^&#42;1^
+
+[NOTE]
+====
+. Ou “águas empoladas”. Hebr.: teho·móhth, pl. de tehóhm. Veja Gên 1:2 n.: “profundeza”.
+====
+
+[[v19-148-8]]
+
+^<<v19-148-8,8>>^ Vós, fogo e saraiva, neve e densa fumaça,
+Vento^&#42;1^ tempestuoso, cumprindo a sua palavra,
+
+[NOTE]
+====
+. Veja 147:18 n.
+====
+
+[[v19-148-9]]
+
+^<<v19-148-9,9>>^ Vós, montes e todos os morros,
+Árvores frutíferas e todos os cedros,
+
+[[v19-148-10]]
+
+^<<v19-148-10,10>>^ Vós, feras e todos os animais domésticos,
+Coisas rastejantes e aves aladas,
+
+[[v19-148-11]]
+
+^<<v19-148-11,11>>^ Vós, reis da terra e todos os grupos nacionais,
+Príncipes e todos os juízes da terra,
+
+[[v19-148-12]]
+
+^<<v19-148-12,12>>^ Vós, jovens e também vós, virgens,
+Vós, homens idosos junto com os rapazes.
+
+[[v19-148-13]]
+
+^<<v19-148-13,13>>^ Louvem eles o nome de Jeová,
+Pois só o seu nome é inalcançavelmente elevado.
+Sua dignidade está acima da terra e do céu.
+
+[[v19-148-14]]
+
+^<<v19-148-14,14>>^ E ele enaltecerá o chifre do seu povo,
+O louvor de todos os que lhe são leais,
+Dos filhos de Israel, o povo que lhe é chegado.
+Louvai a Jah!
+
+'''
+
+xref:019-salmo/019-salmo-147.adoc#v19-147-0[&#60; Capítulo Anterior] | <<v19-148-0,Topo>> | xref:019-salmo/019-salmo-149.adoc#v19-149-0[Próximo Capítulo &#62;]

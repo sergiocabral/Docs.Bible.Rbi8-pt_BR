@@ -1,0 +1,56 @@
+include::./index.adoc[]
+
+[[v19-43-0]]
+=== Salmos, 43
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-43-1]]
+
+^<<v19-43-1,1>>^ Julga-me, ó Deus,
+E pleiteia deveras a minha causa contra uma nação que não é leal.^&#42;1^
+Que tu me ponhas a salvo do homem de engano e de injustiça.
+
+[NOTE]
+====
+. Ou “sem benevolência”.
+====
+
+[[v19-43-2]]
+
+^<<v19-43-2,2>>^ Porque tu és o Deus do meu baluarte.
+Por que me deitaste fora?
+Por que ando triste por causa da opressão da parte do inimigo?
+
+[[v19-43-3]]
+
+^<<v19-43-3,3>>^ Envia tua luz e tua verdade.
+Guiem-me^&#42;1^ estas mesmas.
+Façam-me elas chegar ao teu santo monte e ao teu grandioso tabernáculo.
+
+[NOTE]
+====
+. “Consolem-me”, Sy e três mss. hebr.
+====
+
+[[v19-43-4]]
+
+^<<v19-43-4,4>>^ E eu vou chegar ao altar de Deus,
+A Deus,^&#42;1^ minha alegria jubilante.
+E vou elogiar-te na harpa, ó Deus, meu Deus.^&#42;2^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+. “Ó Deus, meu Deus”, M(hebr.: ’Elo·hím ’Elo·haí)LXXASyVg; TLXXB: “Ó Jeová, meu Deus.”
+====
+
+[[v19-43-5]]
+
+^<<v19-43-5,5>>^ Por que te desesperas, ó minha alma,
+E por que estás turbulenta no meu íntimo?
+Espera por Deus,
+Porque eu ainda o elogiarei como a grandiosa salvação da minha pessoa e como o meu Deus.
+
+'''
+
+xref:019-salmo/019-salmo-042.adoc#v19-42-0[&#60; Capítulo Anterior] | <<v19-43-0,Topo>> | xref:019-salmo/019-salmo-044.adoc#v19-44-0[Próximo Capítulo &#62;]

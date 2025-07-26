@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v14-1-0]]
+=== 2 Crônicas, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v14-1-1]]
+
+^<<v14-1-1,1>>^ E Salomão, filho de Davi, continuou a fortalecer-se no seu reinado, e Jeová, seu Deus, era com ele e o fazia extraordinariamente grande.
+
+[[v14-1-2]]
+
+^<<v14-1-2,2>>^ E Salomão passou a dizer a palavra a todo o Israel, aos chefes de mil e de cem, e aos juízes, e a todos os maiorais de todo o Israel, os cabeças das casas paternas.
+
+[[v14-1-3]]
+
+^<<v14-1-3,3>>^ Então Salomão e toda a congregação^&#42;1^ com ele foram ao alto que havia em Gibeão; pois era ali que viera ficar a tenda de reunião do [verdadeiro] Deus,^&#42;2^ feita no ermo por Moisés, o servo de Jeová.
+
+[NOTE]
+====
+. “A congregação.” Hebr.: haq·qa·hál; gr.: ek·kle·sí·a.
+. “Do [verdadeiro] Deus.” Hebr.: ha·’Elo·hím; gr.: The·oú; Sy: “Jeová”. Veja Ap. 1F.
+====
+
+[[v14-1-4]]
+
+^<<v14-1-4,4>>^ No entanto, a arca do [verdadeiro] Deus tinha sido levada por Davi de Quiriate-Jearim para cima ao lugar que Davi preparara para ela, porque armara para ela uma tenda em Jerusalém.
+
+[[v14-1-5]]
+
+^<<v14-1-5,5>>^ E o altar de cobre feito por Bezalel, filho de Uri, filho de Hur, tinha sido posto^&#42;1^ diante do tabernáculo de Jeová; e Salomão e a congregação recorriam a ele como de costume.
+
+[NOTE]
+====
+. Lit.: “ele (alguém) pusera”, M; muitos mss. hebr.: “estava ali”.
+====
+
+[[v14-1-6]]
+
+^<<v14-1-6,6>>^ Salomão fez então ali ofertas perante Jeová sobre o altar de cobre que pertencia à tenda de reunião e passou a oferecer sobre ele mil ofertas queimadas.
+
+[[v14-1-7]]
+
+^<<v14-1-7,7>>^ Durante aquela noite apareceu Deus a Salomão e então lhe disse: “Pede! Que te devo dar?”
+
+[[v14-1-8]]
+
+^<<v14-1-8,8>>^ Então Salomão disse a Deus: “És tu que exerceste grande benevolência^&#42;1^ para com Davi, meu pai, e que me fizeste rei em seu lugar.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v14-1-9]]
+
+^<<v14-1-9,9>>^ Agora, ó Jeová Deus, mostre-se fiel a tua promessa a Davi, meu pai, pois tu mesmo me fizeste rei sobre um povo tão numeroso como as partículas de pó da terra.
+
+[[v14-1-10]]
+
+^<<v14-1-10,10>>^ Dá-me agora sabedoria e conhecimento, para que eu possa sair diante deste povo e para que eu possa entrar, porque quem pode julgar este grande povo teu?”
+
+[[v14-1-11]]
+
+^<<v14-1-11,11>>^ Deus disse então a Salomão: “Visto que isto se mostrou achegado ao teu coração e não pediste riquezas, nem bens materiais, nem honra, nem a alma^&#42;1^ dos que te odeiam, nem mesmo pediste muitos dias, mas pediste sabedoria e conhecimento para ti, a fim de julgares meu povo sobre o qual te fiz rei,
+
+[NOTE]
+====
+. Ou “vida”.
+====
+
+[[v14-1-12]]
+
+^<<v14-1-12,12>>^ são dados a ti a sabedoria e o conhecimento; também te darei riquezas, e bens materiais, e honra, tais como nenhum rei anterior a ti veio a ter, e tais como nenhum depois de ti virá a ter.”
+
+[[v14-1-13]]
+
+^<<v14-1-13,13>>^ Assim, Salomão veio [do]^&#42;1^ alto que havia em Gibeão, de diante da tenda de reunião, a Jerusalém, e continuou a reinar sobre Israel.
+
+[NOTE]
+====
+. “Do”, LXXVg.
+====
+
+[[v14-1-14]]
+
+^<<v14-1-14,14>>^ E Salomão estava ajuntando carros e corcéis,^&#42;1^ de modo que veio a ter mil e quatrocentos carros e doze mil corcéis, e ele os manteve aquartelados em cidades de carros e perto do rei em Jerusalém.
+
+[NOTE]
+====
+. Ou “cavaleiros”.
+====
+
+[[v14-1-15]]
+
+^<<v14-1-15,15>>^ E o rei veio tornar a prata e o ouro em Jerusalém iguais às pedras; e a madeira de cedro ele tornou igual aos sicômoros que há na Sefelá,^&#42;1^ por causa de sua grande quantidade.
+
+[NOTE]
+====
+. Ou “terra baixa”.
+====
+
+[[v14-1-16]]
+
+^<<v14-1-16,16>>^ E do Egito havia uma exportação de cavalos para Salomão, e o grupo dos próprios mercadores do rei é que levava a tropa de cavalos por um preço.
+
+[[v14-1-17]]
+
+^<<v14-1-17,17>>^ E costumava-se trazer para cima e exportar do Egito um carro por seiscentas moedas de prata e um cavalo por cento e cinqüenta; e assim era para todos os reis dos hititas e para os reis da Síria. Era por meio deles que se fazia a exportação.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-029.adoc#v13-29-0[&#60; Capítulo Anterior] | <<v14-1-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-002.adoc#v14-2-0[Próximo Capítulo &#62;]

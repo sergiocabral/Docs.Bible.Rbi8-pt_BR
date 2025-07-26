@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v40-16-0]]
+=== Mateus, 16
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v40-16-1]]
+
+^<<v40-16-1,1>>^ Ali se aproximaram dele os fariseus e saduceus, e, tentando-o, pediram-lhe que lhes mostrasse um sinal do céu.
+
+[[v40-16-2]]
+
+^<<v40-16-2,2>>^ Em resposta, disse-lhes: “[[Ao cair a noite, costumais dizer: ‘Haverá tempo bom, pois o céu está vermelho’;
+
+[[v40-16-3]]
+
+^<<v40-16-3,3>>^ e, de manhã: ‘Hoje haverá tempo frio e chuvoso, pois o céu está vermelho, mas de aspecto sombrio.’ Vós sabeis interpretar a aparência do céu, mas os sinais dos tempos não podeis interpretar.]]^&#42;1^
+
+[NOTE]
+====
+. Segundo CDWItVg; אBSyc,sArm omitem as palavras entre colchetes duplos.
+====
+
+[[v40-16-4]]
+
+^<<v40-16-4,4>>^ Uma geração iníqua e adúltera^&#42;1^ persiste em buscar um sinal, mas nenhum sinal lhe será dado, exceto o sinal de Jonas.” Com isto se afastou, deixando-os atrás.
+
+[NOTE]
+====
+. “Adúltera.” Gr.: moi·kha·lís; lat.: a·dúl·te·ra.
+====
+
+[[v40-16-5]]
+
+^<<v40-16-5,5>>^ Os discípulos passaram então para a outra margem e se esqueceram de levar pães.
+
+[[v40-16-6]]
+
+^<<v40-16-6,6>>^ Jesus disse-lhes: “Mantende os olhos abertos e vigiai-vos do fermento dos fariseus e dos saduceus.”
+
+[[v40-16-7]]
+
+^<<v40-16-7,7>>^ Começaram assim a raciocinar entre si, dizendo: “Não trouxemos pães conosco.”
+
+[[v40-16-8]]
+
+^<<v40-16-8,8>>^ Sabendo isso, Jesus disse: “Por que raciocinais assim entre vós, por não terdes pães, vós os de pouca fé?
+
+[[v40-16-9]]
+
+^<<v40-16-9,9>>^ Não compreendeis ainda a questão, ou não vos lembrais dos cinco pães, no caso dos cinco mil, e de quantos cestos recolhestes?
+
+[[v40-16-10]]
+
+^<<v40-16-10,10>>^ Ou dos sete pães, no caso dos quatro mil, e de quantos cabazes recolhestes?
+
+[[v40-16-11]]
+
+^<<v40-16-11,11>>^ Como é que não discernis que não vos falei de pães? Mas, vigiai-vos do fermento dos fariseus e dos saduceus.”
+
+[[v40-16-12]]
+
+^<<v40-16-12,12>>^ Compreenderam então que ele dissera que se vigiassem, não do fermento dos pães, mas do ensino dos fariseus e dos saduceus.
+
+[[v40-16-13]]
+
+^<<v40-16-13,13>>^ Tendo então chegado às regiões de Cesaréia de Filipe, Jesus foi perguntar a seus discípulos: “Quem dizem os homens ser o Filho do homem?”
+
+[[v40-16-14]]
+
+^<<v40-16-14,14>>^ Disseram: “Alguns dizem João Batista, outros, Elias, ainda outros, Jeremias ou um dos profetas.”
+
+[[v40-16-15]]
+
+^<<v40-16-15,15>>^ Disse-lhes ele: “Vós, porém, quem dizeis que eu sou?”
+
+[[v40-16-16]]
+
+^<<v40-16-16,16>>^ Em resposta, Simão Pedro disse: “Tu és o Cristo, o Filho do Deus vivente.”
+
+[[v40-16-17]]
+
+^<<v40-16-17,17>>^ Jesus lhe disse, em resposta: “Feliz és tu, Simão, filho de Jonas,^&#42;1^ porque [isso] não te foi revelado por carne e sangue, mas por meu Pai, que está nos céus.
+
+[NOTE]
+====
+. Lit.: “Barjonas”, significando “Filho de Jonas”. Gr.: Ba·ri·o·ná; J17,18,22(hebr.): Bar-Yoh·náh. Bar é um estrangeirismo aram. para “filho”. Veja Esd 5:2 n.
+====
+
+[[v40-16-18]]
+
+^<<v40-16-18,18>>^ Também, eu te digo: Tu és Pedro, e sobre esta rocha^&#42;1^ construirei a minha congregação,^&#42;2^ e os portões do Hades^&#42;3^ não a vencerão.
+
+[NOTE]
+====
+. “Tu és Pedro, e sobre esta rocha.” Nas línguas originais, as palavras para “Pedro”, significando “Um Pedaço de Rocha”, são masc. (gr.: Pé·tros, masc.; lat.: Pé·trus, masc.; sir.: Ki’·fa’, precedido pelo pronome pessoal masc. hu), ao passo que as palavras para “rocha” são fem. (gr.: pé·trai, dativo, fem. sing.; lat.: pé·tram, fem.; sir.: ki’·fa’, precedido pelo adjetivo demonstrativo fem. ha·de’).
+. Ou “minha eclésia (assembléia)”. Gr.: mou ten ek·kle·sí·an; J17,18,22(hebr.): qehil·la·thí.
+. “Hades.” Gr.: haí·dou; J7,8,10-14,16-18,22(hebr.): she’óhl. Veja Ap. 4B.
+====
+
+[[v40-16-19]]
+
+^<<v40-16-19,19>>^ Eu te darei as chaves do reino dos céus, e tudo o que amarrares na terra, será a coisa amarrada^&#42;1^ nos céus, e tudo o que soltares na terra, será a coisa solta^&#42;2^ nos céus.”
+
+[NOTE]
+====
+. Ou “a coisa já amarrada”, o particípio passivo perfeito.
+. Ou “a coisa já solta”, o particípio passivo perfeito.
+====
+
+[[v40-16-20]]
+
+^<<v40-16-20,20>>^ Advertiu, então, severamente os discípulos que não dissessem a ninguém que ele era o Cristo.
+
+[[v40-16-21]]
+
+^<<v40-16-21,21>>^ Daquele tempo em diante, Jesus Cristo principiou a mostrar aos seus discípulos que ele tinha de ir a Jerusalém e sofrer muitas coisas da parte dos anciãos, e dos principais sacerdotes, e dos escribas, e [que tinha] de ser morto e de ser levantado no terceiro dia.
+
+[[v40-16-22]]
+
+^<<v40-16-22,22>>^ Em vista disso, Pedro, tomando-o à parte, principiou a censurá-lo, dizendo: “Sê benigno contigo mesmo, Senhor; não terás absolutamente tal [destino].”
+
+[[v40-16-23]]
+
+^<<v40-16-23,23>>^ Mas ele, voltando-lhe as costas,^&#42;1^ disse a Pedro: “Para trás de mim, Satanás! Tu és para mim pedra de tropeço, porque não tens os pensamentos de Deus, mas os de homens.”^&#42;2^
+
+[NOTE]
+====
+. Ou “virando-se”.
+. Ou “não tens a mente de Deus, mas a de homens”.
+====
+
+[[v40-16-24]]
+
+^<<v40-16-24,24>>^ Jesus disse então aos seus discípulos: “Se alguém quer vir após mim negue-se a si mesmo e apanhe a sua estaca de tortura,^&#42;1^ e siga-me continuamente.
+
+[NOTE]
+====
+. Veja Ap. 5C.
+====
+
+[[v40-16-25]]
+
+^<<v40-16-25,25>>^ Pois, todo aquele que quiser salvar a sua alma,^&#42;1^ perdê-la-á; mas todo aquele que perder a sua alma por minha causa, achá-la-á.
+
+[NOTE]
+====
+. Ou “vida”. Veja Ap. 4A.
+====
+
+[[v40-16-26]]
+
+^<<v40-16-26,26>>^ Pois, de que proveito será para o homem, se ele ganhar o mundo inteiro, mas pagar com a perda da sua alma? Ou que dará o homem em troca de sua alma?
+
+[[v40-16-27]]
+
+^<<v40-16-27,27>>^ Porque o Filho do homem está destinado a vir na glória de seu Pai, com os seus anjos, e então recompensará a cada um segundo o seu comportamento.
+
+[[v40-16-28]]
+
+^<<v40-16-28,28>>^ Deveras, eu vos digo que há alguns dos parados aqui que não provarão absolutamente a morte, até que primeiro vejam o Filho do homem vir no seu reino.”
+
+'''
+
+xref:040-mateus/040-mateus-015.adoc#v40-15-0[&#60; Capítulo Anterior] | <<v40-16-0,Topo>> | xref:040-mateus/040-mateus-017.adoc#v40-17-0[Próximo Capítulo &#62;]

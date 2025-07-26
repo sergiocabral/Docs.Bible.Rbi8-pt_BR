@@ -1,0 +1,76 @@
+include::./index.adoc[]
+
+[[v52-3-0]]
+=== 1 Tessalonicenses, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v52-3-1]]
+
+^<<v52-3-1,1>>^ Portanto, quando não o suportávamos mais, achamos bom ficar sozinhos em Atenas;
+
+[[v52-3-2]]
+
+^<<v52-3-2,2>>^ e enviamos Timóteo, nosso irmão e ministro^&#42;1^ de Deus nas boas novas acerca do Cristo, a fim de vos firmar e consolar no que se refere à vossa fé,
+
+[NOTE]
+====
+. Ou “servo”. Gr.: di·á·ko·non; lat.: mi·ní·strum (de mí·nus, “menos”).
+====
+
+[[v52-3-3]]
+
+^<<v52-3-3,3>>^ para que ninguém ficasse vacilante por causa destas tribulações. Pois vós mesmos sabeis que estamos designados a esta mesma coisa.
+
+[[v52-3-4]]
+
+^<<v52-3-4,4>>^ De fato, também quando estávamos convosco, costumávamos dizer-vos de antemão que estávamos destinados a sofrer tribulação, assim como também tem acontecido e como vós sabeis.
+
+[[v52-3-5]]
+
+^<<v52-3-5,5>>^ Deveras, é por isso que, quando não o pude mais suportar, mandei para saber da vossa fidelidade,^&#42;1^ visto que o Tentador, talvez, vos tenha de algum modo tentado e o nosso labor se tenha tornado em vão.
+
+[NOTE]
+====
+. Ou “fé”.
+====
+
+[[v52-3-6]]
+
+^<<v52-3-6,6>>^ Mas, Timóteo acaba de chegar a nós do vosso meio e nos tem dado as boas novas a respeito da vossa fidelidade e amor, e que continuais a ter sempre boa lembrança de nós, tendo muita saudade de nos ver, do mesmo modo, deveras, como nós também temos.
+
+[[v52-3-7]]
+
+^<<v52-3-7,7>>^ É por isso, irmãos, que temos sido consolados a respeito de vós em toda a nossa necessidade e tribulação, pela fidelidade que mostrastes,
+
+[[v52-3-8]]
+
+^<<v52-3-8,8>>^ porque agora vivemos se vos mantiverdes firmes no Senhor.
+
+[[v52-3-9]]
+
+^<<v52-3-9,9>>^ Pois, que agradecimentos podemos dar a Deus com respeito a vós, em troca de toda a alegria com que nos alegramos perante o nosso Deus por vossa causa,
+
+[[v52-3-10]]
+
+^<<v52-3-10,10>>^ ao passo que, noite e dia, fazemos mais do que súplicas extraordinárias para ver o vosso rosto e para compensar as coisas que estão faltando na vossa fé?
+
+[[v52-3-11]]
+
+^<<v52-3-11,11>>^ Ora, o próprio Deus e Pai nosso, e nosso Senhor Jesus, dirijam com bom êxito o nosso caminho até vós.
+
+[[v52-3-12]]
+
+^<<v52-3-12,12>>^ Ainda mais, que o Senhor vos faça aumentar, sim, que vos faça abundar em amor uns para com os outros e para com todos, assim como nós também fazemos convosco,
+
+[[v52-3-13]]
+
+^<<v52-3-13,13>>^ a fim de que ele torne os vossos corações firmes, inculpáveis na santidade perante o nosso Deus e Pai, na presença^&#42;1^ de nosso Senhor Jesus, com todos os seus santos.
+
+[NOTE]
+====
+. Veja Ap. 5B.
+====
+
+'''
+
+xref:052-1-tessalonicenses/052-1-tessalonicenses-002.adoc#v52-2-0[&#60; Capítulo Anterior] | <<v52-3-0,Topo>> | xref:052-1-tessalonicenses/052-1-tessalonicenses-004.adoc#v52-4-0[Próximo Capítulo &#62;]

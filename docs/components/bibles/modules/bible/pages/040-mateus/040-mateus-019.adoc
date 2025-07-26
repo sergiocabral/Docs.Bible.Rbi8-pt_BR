@@ -1,0 +1,150 @@
+include::./index.adoc[]
+
+[[v40-19-0]]
+=== Mateus, 19
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v40-19-1]]
+
+^<<v40-19-1,1>>^ Então, tendo Jesus concluído estas palavras, partiu da Galiléia e chegou às fronteiras da Judéia, do outro lado do Jordão.
+
+[[v40-19-2]]
+
+^<<v40-19-2,2>>^ Seguiam-no também grandes multidões, e ele os curava ali.
+
+[[v40-19-3]]
+
+^<<v40-19-3,3>>^ E vieram ter com ele fariseus, decididos a tentá-lo, e disseram: “É lícito que um homem se divorcie^&#42;1^ de sua esposa por qualquer motivo?”
+
+[NOTE]
+====
+. Lit.: “se solte”. Veja Le 22:13 n.
+====
+
+[[v40-19-4]]
+
+^<<v40-19-4,4>>^ Em resposta, ele disse: “Não lestes que aquele que os criou desde [o] princípio os fez macho e fêmea,
+
+[[v40-19-5]]
+
+^<<v40-19-5,5>>^ e disse: ‘Por esta razão deixará o homem seu pai e sua mãe, e se apegará à sua esposa, e os dois serão uma só carne’?
+
+[[v40-19-6]]
+
+^<<v40-19-6,6>>^ De modo que não são mais dois, mas uma só carne. Portanto, o que Deus pôs sob o mesmo jugo, não o separe o homem.”
+
+[[v40-19-7]]
+
+^<<v40-19-7,7>>^ Disseram-lhe: “Então, por que prescreveu Moisés que se desse um certificado de repúdio e que ela fosse divorciada?”
+
+[[v40-19-8]]
+
+^<<v40-19-8,8>>^ Ele lhes disse: “Moisés, por causa da dureza dos vossos corações, vos fez a concessão de vos divorciardes de vossas esposas, mas este não foi o caso desde [o] princípio.
+
+[[v40-19-9]]
+
+^<<v40-19-9,9>>^ Eu vos digo que todo aquele que se divorciar de sua esposa, exceto em razão de fornicação,^&#42;1^ e se casar com outra, comete adultério.”^&#42;2^
+
+[NOTE]
+====
+. “Fornicação.” Gr.: por·neí·ai, dativo, sing.; lat.: for·ni·ca·ti·ó·nem; J17,18,22(hebr.): zenúth. Veja Ap. 5A.
+. Veja v. 18 n.
+====
+
+[[v40-19-10]]
+
+^<<v40-19-10,10>>^ Os discípulos disseram-lhe: “Se esta é a situação do homem com sua esposa, não é aconselhável casar-se.”
+
+[[v40-19-11]]
+
+^<<v40-19-11,11>>^ Disse-lhes ele: “Nem todos os homens dão lugar a esta palavra, mas somente os a quem é dado.
+
+[[v40-19-12]]
+
+^<<v40-19-12,12>>^ Pois há eunucos que nasceram tais da madre de sua mãe, e há eunucos que foram feitos eunucos pelos homens, e há eunucos que se fizeram eunucos por causa do reino dos céus. Dê lugar a isso aquele que pode dar lugar a isso.”
+
+[[v40-19-13]]
+
+^<<v40-19-13,13>>^ Trouxeram-lhe então criancinhas, para que lhes impusesse as mãos e proferisse uma oração; mas os discípulos censuraram-nos.
+
+[[v40-19-14]]
+
+^<<v40-19-14,14>>^ Jesus, porém, disse: “Deixai as criancinhas e parai de impedi-las de vir a mim, pois o reino dos céus pertence a tais.”
+
+[[v40-19-15]]
+
+^<<v40-19-15,15>>^ E ele lhes impôs as mãos e partiu dali.
+
+[[v40-19-16]]
+
+^<<v40-19-16,16>>^ E eis que alguém, aproximando-se, disse-lhe: “Instrutor, que preciso fazer de bom, a fim de obter a vida eterna?”
+
+[[v40-19-17]]
+
+^<<v40-19-17,17>>^ Ele lhe disse: “Por que me perguntas sobre o que é bom? Há um que é bom. Se queres, porém, entrar na vida, observa continuamente os mandamentos.”
+
+[[v40-19-18]]
+
+^<<v40-19-18,18>>^ Disse-lhe ele: “Quais?” Jesus disse: “Ora, não deves assassinar, não deves cometer adultério,^&#42;1^ não deves furtar, não deves dar falso testemunho,
+
+[NOTE]
+====
+. “Cometer adultério.” Gr.: moi·kheú·seis; lat.: a·dul·te·rá·bis; J18,22(hebr.): tin·’áf. Veja 5:32 n.: “adultério”; Ez 16:32 n.
+====
+
+[[v40-19-19]]
+
+^<<v40-19-19,19>>^ honra [teu] pai e [tua] mãe, e, tens de amar o teu próximo como a ti mesmo.”
+
+[[v40-19-20]]
+
+^<<v40-19-20,20>>^ O jovem disse-lhe: “Tenho guardado a todos estes; que me falta ainda?”
+
+[[v40-19-21]]
+
+^<<v40-19-21,21>>^ Jesus disse-lhe: “Se queres ser perfeito, vai vender teus bens e dá aos pobres, e terás um tesouro no céu, e vem, sê meu seguidor.”
+
+[[v40-19-22]]
+
+^<<v40-19-22,22>>^ Quando o jovem ouviu estas palavras, afastou-se contristado, porque tinha muitas propriedades.
+
+[[v40-19-23]]
+
+^<<v40-19-23,23>>^ Jesus, porém, disse aos seus discípulos: “Deveras, eu vos digo que será difícil para um rico entrar no reino dos céus.
+
+[[v40-19-24]]
+
+^<<v40-19-24,24>>^ Novamente, eu vos digo: É mais fácil um camelo passar pelo orifício duma agulha, do que um rico entrar no reino de Deus.”
+
+[[v40-19-25]]
+
+^<<v40-19-25,25>>^ Quando os discípulos ouviram isso, expressaram grande surpresa, dizendo: “Quem, realmente, pode ser salvo?”
+
+[[v40-19-26]]
+
+^<<v40-19-26,26>>^ Encarando-os, Jesus disse-lhes: “Aos homens isto é impossível, mas a Deus todas as coisas são possíveis.”
+
+[[v40-19-27]]
+
+^<<v40-19-27,27>>^ Pedro disse-lhe então, em resposta: “Eis que abandonamos todas as coisas e te seguimos; o que haverá realmente para nós?”
+
+[[v40-19-28]]
+
+^<<v40-19-28,28>>^ Jesus disse-lhes: “Deveras, eu vos digo: Na recriação,^&#42;1^ quando o Filho do homem se assentar no seu glorioso trono, vós, os que me seguistes, também estareis sentados em doze tronos, julgando as doze tribos de Israel.
+
+[NOTE]
+====
+. Ou “regeneração; renascimento”. Gr.: pa·lin·ge·ne·sí·ai; lat.: re·ge·ne·ra·ti·ó·ne; sir.: be‛al·ma’ Hhad·ta’, “na nova era”. Veja Tit 3:5 n.
+====
+
+[[v40-19-29]]
+
+^<<v40-19-29,29>>^ E todo aquele que tiver abandonado casas, ou irmãos, ou irmãs, ou pai, ou mãe, ou filhos, ou terras, por causa do meu nome, receberá muitas vezes mais e herdará a vida eterna.
+
+[[v40-19-30]]
+
+^<<v40-19-30,30>>^ “Porém, muitos que são primeiros serão últimos, e os últimos, primeiros.
+
+'''
+
+xref:040-mateus/040-mateus-018.adoc#v40-18-0[&#60; Capítulo Anterior] | <<v40-19-0,Topo>> | xref:040-mateus/040-mateus-020.adoc#v40-20-0[Próximo Capítulo &#62;]

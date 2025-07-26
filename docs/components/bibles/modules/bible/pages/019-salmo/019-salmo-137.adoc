@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v19-137-0]]
+=== Salmos, 137
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-137-1]]
+
+^<<v19-137-1,1>>^ Junto aos rios^&#42;1^ de Babilônia^&#42;2^ — ali nos sentamos.
+Também choramos quando nos lembramos de Sião.
+
+[NOTE]
+====
+. Ou “ao grande rio”, isto é, o Eufrates, se for pl. para denotar grandiosidade.
+. “Babilônia”, LXXVg; MTSy: “Babel”.
+====
+
+[[v19-137-2]]
+
+^<<v19-137-2,2>>^ Nos choupos no meio dela^&#42;1^
+Penduramos as nossas harpas.
+
+[NOTE]
+====
+. “Dela”, hebr. fem., referindo-se a “Babilônia”.
+====
+
+[[v19-137-3]]
+
+^<<v19-137-3,3>>^ Pois aqueles que nos mantinham cativos nos pediram ali as palavras duma canção,
+E os que mofavam^&#42;1^ de nós — alegria:
+“Cantai-nos uma das canções de Sião.”
+
+[NOTE]
+====
+. “Mofavam.” O significado desta palavra hebr. é incerto.
+====
+
+[[v19-137-4]]
+
+^<<v19-137-4,4>>^ Como podemos cantar a canção de Jeová
+Em solo estrangeiro?^&#42;1^
+
+[NOTE]
+====
+. Lit.: “solo dum (país) estrangeiro”.
+====
+
+[[v19-137-5]]
+
+^<<v19-137-5,5>>^ Se eu te esquecer, ó Jerusalém,
+Seja esquecediça a minha direita.
+
+[[v19-137-6]]
+
+^<<v19-137-6,6>>^ Apegue-se minha língua ao céu da minha boca,
+Se eu não me lembrar de ti,
+Se eu não fizer Jerusalém subir
+Acima da minha principal causa de alegria.
+
+[[v19-137-7]]
+
+^<<v19-137-7,7>>^ Lembra-te, ó Jeová, do dia de Jerusalém, com respeito aos filhos de Edom,
+Que diziam: “Exponde-a! Exponde-a até o alicerce dentro dela!”
+
+[[v19-137-8]]
+
+^<<v19-137-8,8>>^ Ó filha de Babilônia, que és para ser assolada,
+Feliz será aquele que te recompensar
+Com o teu próprio tratamento com que nos trataste.
+
+[[v19-137-9]]
+
+^<<v19-137-9,9>>^ Feliz será aquele que segurar e deveras espatifar
+Tuas crianças contra o rochedo.
+
+'''
+
+xref:019-salmo/019-salmo-136.adoc#v19-136-0[&#60; Capítulo Anterior] | <<v19-137-0,Topo>> | xref:019-salmo/019-salmo-138.adoc#v19-138-0[Próximo Capítulo &#62;]

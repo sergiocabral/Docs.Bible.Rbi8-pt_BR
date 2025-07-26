@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v19-5-0]]
+=== Salmos, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente para Neilote.^&#42;1^ Uma melodia de Davi._
+
+[[v19-5-1]]
+
+^<<v19-5-1,1>>^ Dá ouvidos às minhas declarações, ó Jeová;
+Entende deveras o meu suspiro.
+
+[[v19-5-2]]
+
+^<<v19-5-2,2>>^ Presta deveras atenção ao som do meu clamor por ajuda,
+Meu Rei e meu Deus, porque oro a ti.
+
+[[v19-5-3]]
+
+^<<v19-5-3,3>>^ Ó Jeová, de manhã ouvirás a minha voz;
+De manhã me dirigirei a ti e ficarei vigiando.
+
+[[v19-5-4]]
+
+^<<v19-5-4,4>>^ Pois tu não és um Deus que se agrade da iniqüidade;
+Ninguém mau^&#42;1^ pode residir contigo por tempo algum.
+
+[NOTE]
+====
+. Ou “nada de mau”.
+====
+
+[[v19-5-5]]
+
+^<<v19-5-5,5>>^ Nenhuns jactanciosos podem tomar posição diante dos teus olhos.
+Odeias deveras a todos os que praticam o que é prejudicial;
+
+[[v19-5-6]]
+
+^<<v19-5-6,6>>^ Destruirás os que falam mentira.
+Jeová detesta o homem que derrama sangue^&#42;1^ e que engana.
+
+[NOTE]
+====
+. Lit.: “homem de sangues”. Hebr.: ’ish-da·mím, pl.
+====
+
+[[v19-5-7]]
+
+^<<v19-5-7,7>>^ Quanto a mim, na abundância da tua benevolência^&#42;1^
+Entrarei na tua casa,
+Curvar-me-ei em temor de ti em direção ao teu santo templo.^&#42;2^
+
+[NOTE]
+====
+. Ou “amor leal”.
+. “Teu santo templo.” Hebr.: heh·khal-qodh·shekhá; gr.: na·ón há·gi·on; lat.: tém·plum sánc·tum. Veja 2Rs 20:18 n. e Mt 23:16 n.
+====
+
+[[v19-5-8]]
+
+^<<v19-5-8,8>>^ Ó Jeová, guia-me na tua justiça por causa dos meus adversários hostis;
+Aplaina diante de mim o teu caminho.
+
+[[v19-5-9]]
+
+^<<v19-5-9,9>>^ Pois não há nada fidedigno na sua^&#42;1^ boca;
+Seu íntimo é deveras adversidade.
+Sua garganta é uma sepultura aberta;
+Usam de língua macia.^&#42;2^
+
+[NOTE]
+====
+. “Sua”, isto é, a deles, pl., LXXSyVg; M: “sua”, isto é, a dele, sing.
+. Lit.: “tornam macia a sua língua”.
+====
+
+[[v19-5-10]]
+
+^<<v19-5-10,10>>^ Deus certamente os terá por culpados;
+Cairão devido aos seus próprios conselhos.
+Na multidão das suas transgressões, haja uma dispersão^&#42;1^ deles,
+Porque se rebelaram contra ti.
+
+[NOTE]
+====
+. “Haja uma dispersão.” No hebr., isto é um verbo no infinitivo construto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v19-5-11]]
+
+^<<v19-5-11,11>>^ Mas todos os que se refugiaram em ti se alegrarão;
+Por tempo indefinido^&#42;1^ gritarão de júbilo.
+E impedirás a aproximação a eles,
+E os que amam o teu nome se regozijarão em ti.
+
+[NOTE]
+====
+. “Por tempo indefinido.” Hebr.: le‛oh·lám.
+====
+
+[[v19-5-12]]
+
+^<<v19-5-12,12>>^ Pois tu mesmo abençoarás ao justo, ó Jeová;
+Tu os cercarás de aprovação como que com um escudo grande.
+
+'''
+
+xref:019-salmo/019-salmo-004.adoc#v19-4-0[&#60; Capítulo Anterior] | <<v19-5-0,Topo>> | xref:019-salmo/019-salmo-006.adoc#v19-6-0[Próximo Capítulo &#62;]

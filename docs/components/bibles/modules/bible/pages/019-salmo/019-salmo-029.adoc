@@ -1,0 +1,104 @@
+include::./index.adoc[]
+
+[[v19-29-0]]
+=== Salmos, 29
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma melodia de Davi.^&#42;1^_
+
+[[v19-29-1]]
+
+^<<v19-29-1,1>>^ Atribuí a Jeová,^&#42;1^ ó vós filhos dos fortes,^&#42;2^
+Atribuí a Jeová^&#42;3^ glória e força.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+. Ou “filhos de deuses”; ou: “semelhantes a Deus”; ou: “filhos de Deus”. Hebr.: benéh ’e·lím. Se a palavra hebr. ’e·lím for o pl. de ’el, para denotar majestade, então ela significa “Deus”. T: “vós grupos de anjos, filhos de Deus”; LXX: “vós filhos de Deus”; SyVg: “vós filhos de carneiros”. Veja 89:6 n. e Da 11:36, onde ocorre a expressão ’El ’e·lím, “Deus dos deuses”.
+. Veja Ap. 1C sec. 10.
+====
+
+[[v19-29-2]]
+
+^<<v19-29-2,2>>^ Atribuí a Jeová^&#42;1^ a glória do seu nome.
+Curvai-vos diante de Jeová^&#42;2^ em santo adorno.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+. Veja Ap. 1C sec. 10.
+====
+
+[[v19-29-3]]
+
+^<<v19-29-3,3>>^ A voz^&#42;1^ de Jeová^&#42;2^ está sobre as águas;
+O próprio Deus^&#42;3^ glorioso trovejou.
+Jeová^&#42;4^ está sobre muitas águas.
+
+[NOTE]
+====
+. “A voz.” Esta expressão ocorre sete vezes neste salmo.
+. Veja Ap. 1C sec. 10.
+. “Deus.” Hebr.: ’El.
+. Veja Ap. 1C sec. 10.
+====
+
+[[v19-29-4]]
+
+^<<v19-29-4,4>>^ A voz de Jeová é poderosa;
+A voz de Jeová é esplêndida.
+
+[[v19-29-5]]
+
+^<<v19-29-5,5>>^ A voz de Jeová destroça os cedros;
+Sim, Jeová destroça os cedros do Líbano
+
+[[v19-29-6]]
+
+^<<v19-29-6,6>>^ E faz que saltitem como o bezerro,
+O Líbano e o Sírion,^&#42;1^ como filhotes de touros selvagens.^&#42;2^
+
+[NOTE]
+====
+. “Sírion.” Antigo nome sidônio para o monte Hermom. Veja De 3:9.
+. “De unicórnios”, LXXVgc, lit.: “dos de um só chifre”, mas referindo-se a touros selvagens.
+====
+
+[[v19-29-7]]
+
+^<<v19-29-7,7>>^ A voz de Jeová talha com as chamas do fogo;
+
+[[v19-29-8]]
+
+^<<v19-29-8,8>>^ A própria voz de Jeová faz contorcer-se o ermo,
+Jeová faz contorcer-se o ermo de Cades.
+
+[[v19-29-9]]
+
+^<<v19-29-9,9>>^ A própria voz de Jeová faz as corças se contorcerem com dores de parto,
+E desnuda as florestas.^&#42;1^
+E no seu templo cada um diz: “Glória!”
+
+[NOTE]
+====
+. “E causa o parto apressado das cabras montesas”, mediante uma correção do M.
+====
+
+[[v19-29-10]]
+
+^<<v19-29-10,10>>^ Jeová se assentou sobre o dilúvio;^&#42;1^
+E Jeová está sentado como rei por tempo indefinido.
+
+[NOTE]
+====
+. Ou “oceano celeste”. Veja Ge 6:17 n.: “dilúvio”.
+====
+
+[[v19-29-11]]
+
+^<<v19-29-11,11>>^ O próprio Jeová deveras dará força ao seu povo.
+O próprio Jeová abençoará seu povo com paz.
+
+'''
+
+xref:019-salmo/019-salmo-028.adoc#v19-28-0[&#60; Capítulo Anterior] | <<v19-29-0,Topo>> | xref:019-salmo/019-salmo-030.adoc#v19-30-0[Próximo Capítulo &#62;]

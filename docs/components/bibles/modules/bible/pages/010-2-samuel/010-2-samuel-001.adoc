@@ -1,0 +1,182 @@
+include::./index.adoc[]
+
+[[v10-1-0]]
+=== 2 Samuel, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_ou, segundo a Versão dos Setenta grega: O SEGUNDO DOS REIS_
+
+[[v10-1-1]]
+
+^<<v10-1-1,1>>^ E sucedeu, depois da morte de Saul e quando o próprio Davi retornara de golpear os amalequitas,^&#42;1^ que Davi ficou morando em Ziclague por dois dias.
+
+[NOTE]
+====
+. “Os amalequitas”, Sy e cinco mss. hebr.; MLXXVg: “Amaleque”.
+====
+
+[[v10-1-2]]
+
+^<<v10-1-2,2>>^ E aconteceu que, no terceiro dia, eis que vinha um homem do acampamento, de Saul, com as suas roupas rasgadas e com terra na sua cabeça; e sucedeu que, vindo ele a Davi, lançou-se imediatamente por terra e prostrou-se.
+
+[[v10-1-3]]
+
+^<<v10-1-3,3>>^ E Davi passou a dizer-lhe: “Donde vens?” a que ele lhe disse: “Escapei do acampamento de Israel.”
+
+[[v10-1-4]]
+
+^<<v10-1-4,4>>^ E Davi prosseguiu, dizendo-lhe: “Em que resultou o assunto? Conta-me, por favor.” A isto ele disse: “O povo fugiu da batalha e também muitos do povo caíram, de modo que morreram, e até mesmo Saul e Jonatã, seu filho, morreram.”
+
+[[v10-1-5]]
+
+^<<v10-1-5,5>>^ Disse então Davi ao moço que o informava: “Como sabes realmente que Saul morreu, e também Jonatã, seu filho?”
+
+[[v10-1-6]]
+
+^<<v10-1-6,6>>^ A isto disse o moço que o informava: “Vim a estar inesperadamente no monte Gilboa, e eis Saul apoiando-se na sua lança; e eis que o haviam alcançado os condutores de carros^&#42;1^ e os homens montados.
+
+[NOTE]
+====
+. Ou “os carros”.
+====
+
+[[v10-1-7]]
+
+^<<v10-1-7,7>>^ Quando se virou e me viu, então me chamou e eu disse: ‘Eis-me aqui!’
+
+[[v10-1-8]]
+
+^<<v10-1-8,8>>^ E ele prosseguiu, dizendo-me: ‘Quem és?’ a que eu lhe disse: ‘Sou amalequita.’
+
+[[v10-1-9]]
+
+^<<v10-1-9,9>>^ Então ele disse: ‘Por favor, fica de pé sobre mim e entrega-me definitivamente à morte, pois se apoderou de mim a cãibra,^&#42;1^ porque toda a minha alma está ainda em mim.’
+
+[NOTE]
+====
+. “Vertigem”, Sy; no M o significado é incerto.
+====
+
+[[v10-1-10]]
+
+^<<v10-1-10,10>>^ De modo que fiquei de pé sobre ele e o entreguei definitivamente à morte, porque eu sabia que não podia viver depois de ter caído. Tomei então o diadema que havia na sua cabeça e o bracelete que tinha no braço, a fim de trazê-los para cá ao meu senhor.”
+
+[[v10-1-11]]
+
+^<<v10-1-11,11>>^ Davi agarrou então as suas roupas e as rasgou, e assim fizeram também todos os homens que estavam com ele.
+
+[[v10-1-12]]
+
+^<<v10-1-12,12>>^ E começaram a lamentar, e a chorar, e a jejuar, até à noitinha, por Saul e por Jonatã, seu filho, e pelo povo de Jeová,^&#42;1^ e pela casa de Israel, porque haviam caído pela espada.
+
+[NOTE]
+====
+. “Jeová”, MSyVg; LXX: “Judá”.
+====
+
+[[v10-1-13]]
+
+^<<v10-1-13,13>>^ Davi disse então ao moço que o informava: “Donde és?” a que ele disse: “Sou filho dum residente forasteiro, amalequita.”
+
+[[v10-1-14]]
+
+^<<v10-1-14,14>>^ Davi disse-lhe então: “Como é que não temeste estender a tua mão para arruinar o ungido^&#42;1^ de Jeová?”
+
+[NOTE]
+====
+. “O ungido de.” Hebr.: meshí·ahh; gr.: khri·stón; sir.: lam·shi·hheh; lat.: chrí·stum.
+====
+
+[[v10-1-15]]
+
+^<<v10-1-15,15>>^ Com isso Davi chamou um dos moços e disse: “Chega-te perto. Acomete-o.” Por conseguinte, ele o golpeou, de modo que morreu.
+
+[[v10-1-16]]
+
+^<<v10-1-16,16>>^ Davi disse-lhe então: “A culpa de sangue por ti^&#42;1^ seja sobre a tua própria cabeça, porque a tua própria boca testificou contra ti, dizendo: ‘Eu mesmo entreguei o ungido de Jeová definitivamente à morte.’”
+
+[NOTE]
+====
+. Lit.: “Teus sangues.”
+====
+
+[[v10-1-17]]
+
+^<<v10-1-17,17>>^ E Davi passou a entoar esta endecha por Saul e por Jonatã, filho dele,
+
+[[v10-1-18]]
+
+^<<v10-1-18,18>>^ e a dizer que se devia ensinar aos filhos de Judá “O Arco”. Eis que está escrito no livro de Jasar:^&#42;1^
+
+[NOTE]
+====
+. Ou “o [Que É] Reto”.
+====
+
+[[v10-1-19]]
+
+^<<v10-1-19,19>>^ “A formosura, ó Israel, foi morta sobre os teus altos.
+Como caíram os poderosos!
+
+[[v10-1-20]]
+
+^<<v10-1-20,20>>^ Não o conteis em Gate;
+Não o anuncieis nas ruas de Ascalom,
+Para que não se alegrem as filhas dos filisteus,
+Para que não se rejubilem as filhas dos incircuncisos.
+
+[[v10-1-21]]
+
+^<<v10-1-21,21>>^ Vós, montes de Gilboa, não haja sobre vós nem orvalho nem chuva, nem haja campos de contribuições sagradas;^&#42;1^
+Porque ali foi enodoado^&#42;2^ o escudo de poderosos,
+O escudo de Saul, de modo que não havia nenhum ungido com óleo.
+
+[NOTE]
+====
+. “Campos de primícias”, LXXVg.
+. Ou “rejeitado com repugnância”.
+====
+
+[[v10-1-22]]
+
+^<<v10-1-22,22>>^ Do sangue dos que foram mortos, da gordura de poderosos,
+O arco de Jonatã não tornou atrás,
+E a espada de Saul não voltava sem êxito.
+
+[[v10-1-23]]
+
+^<<v10-1-23,23>>^ Saul e Jonatã, os amáveis e os agradáveis durante a sua vida,
+E não foram separados na sua morte.
+Eram mais velozes do que as águias,
+Eram mais poderosos do que os leões.^&#42;1^
+
+[NOTE]
+====
+. “Do que os leões.” Hebr.: me·’ara·yóhth, leões africanos.
+====
+
+[[v10-1-24]]
+
+^<<v10-1-24,24>>^ Vós, filhas de Israel, chorai por Saul,
+Que vos vestiu de escarlata com adornos,
+Que pôs enfeites de ouro na vossa vestimenta.
+
+[[v10-1-25]]
+
+^<<v10-1-25,25>>^ Como caíram os poderosos no meio da batalha!
+Jonatã, morto sobre os teus altos!
+
+[[v10-1-26]]
+
+^<<v10-1-26,26>>^ Estou aflito por ti, meu irmão Jonatã,
+Tu me eras muito agradável.
+Teu amor a mim era mais maravilhoso do que o amor das mulheres.
+
+[[v10-1-27]]
+
+^<<v10-1-27,27>>^ Como caíram os poderosos
+E pereceram as armas de guerra!”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-031.adoc#v9-31-0[&#60; Capítulo Anterior] | <<v10-1-0,Topo>> | xref:010-2-samuel/010-2-samuel-002.adoc#v10-2-0[Próximo Capítulo &#62;]

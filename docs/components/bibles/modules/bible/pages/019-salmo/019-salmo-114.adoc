@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v19-114-0]]
+=== Salmos, 114
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-114-1]]
+
+^<<v19-114-1,1>>^ ^&#42;1^ Quando Israel saiu do Egito,
+A casa de Jacó, dum povo falando ininteligivelmente,
+
+[NOTE]
+====
+. Apropriadamente, parte dos seis Salmos de Halel, Sal 113 e 114 (segundo a Escola de Hilel), eram cantados durante a refeição pascoal, depois de se servir o segundo copo de vinho e se ter explicado o significado da celebração. Sal 115-118, que constituem o restante dos Salmos de Halel, eram cantados na ocasião do quarto copo de vinho. Isto, sem dúvida, foi feito por Jesus e seus discípulos. Veja Mt 26:30.
+====
+
+[[v19-114-2]]
+
+^<<v19-114-2,2>>^ Judá tornou-se seu lugar santo,
+Israel, seu grandioso domínio.
+
+[[v19-114-3]]
+
+^<<v19-114-3,3>>^ O próprio mar viu e pôs-se em fuga;
+Quanto ao Jordão, começou a voltar atrás.
+
+[[v19-114-4]]
+
+^<<v19-114-4,4>>^ Os próprios montes saltitaram como carneiros,
+Os morros como cordeiros.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “filhos de ovelhas; filhos do rebanho”.
+====
+
+[[v19-114-5]]
+
+^<<v19-114-5,5>>^ Que é que havia contigo, ó mar, que te puseste em fuga,
+Ó Jordão, que começaste a voltar atrás?
+
+[[v19-114-6]]
+
+^<<v19-114-6,6>>^ Ó montes, que fostes saltitar como carneiros;
+Ó morros, como cordeiros?
+
+[[v19-114-7]]
+
+^<<v19-114-7,7>>^ Fica em severas dores, ó terra, por causa do Senhor,^&#42;1^
+Por causa do Deus^&#42;2^ de Jacó,
+
+[NOTE]
+====
+. “Senhor.” Hebr.: ’A·dhóhn.
+. “Deus de.” Hebr.: ’Elóh·ah.
+====
+
+[[v19-114-8]]
+
+^<<v19-114-8,8>>^ Que transforma a rocha em banhado aquoso de juncos,
+A rocha de pederneira, em manancial de água.
+
+'''
+
+xref:019-salmo/019-salmo-113.adoc#v19-113-0[&#60; Capítulo Anterior] | <<v19-114-0,Topo>> | xref:019-salmo/019-salmo-115.adoc#v19-115-0[Próximo Capítulo &#62;]

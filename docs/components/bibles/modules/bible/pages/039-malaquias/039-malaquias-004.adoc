@@ -1,0 +1,56 @@
+include::./index.adoc[]
+
+[[v39-4-0]]
+=== Malaquias, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v39-4-1]]
+
+^<<v39-4-1,1>>^ ^&#42;1^ “Pois, eis que vem o dia que arde como fornalha, e todos os presunçosos e todos os que praticam a iniqüidade terão de tornar-se como restolho. E o dia que virá certamente os devorará”, disse Jeová dos exércitos, “de modo que não lhes deixará nem raiz nem galho.
+
+[NOTE]
+====
+. TSyVg começam aqui o cap. 4; em MLXX isto é 3:19, e o cap. 3 prossegue até o fim do livro.
+====
+
+[[v39-4-2]]
+
+^<<v39-4-2,2>>^ E para vós os que temeis o meu nome há de brilhar o sol da justiça, com cura nas suas asas; e vós realmente saireis e escarvareis o solo como os bezerros cevados.”
+
+[[v39-4-3]]
+
+^<<v39-4-3,3>>^ “E vós haveis de pisotear [os] iníquos, pois tornar-se-ão como poeira sob a sola de vossos pés no dia em que eu agir”, disse Jeová dos exércitos.
+
+[[v39-4-4]]
+
+^<<v39-4-4,4>>^ “Lembrai-vos da lei de Moisés, meu servo, que lhe ordenei em Horebe concernente a todo o Israel, sim, regulamentos e decisões judiciais.^&#42;1^
+
+[NOTE]
+====
+. LXX transfere o v. 4 para depois do v. 6, fazendo assim a profecia terminar com um tom esperançoso.
+====
+
+[[v39-4-5]]
+
+^<<v39-4-5,5>>^ “Eis que vos envio Elias,^&#42;1^ o profeta, antes de chegar o grande e atemorizante dia de Jeová.
+
+[NOTE]
+====
+. “Elias.” Hebr.: ’E·li·yáh; LXXVg.
+====
+
+[[v39-4-6]]
+
+^<<v39-4-6,6>>^ E ele terá de voltar o coração dos pais para os filhos e o coração dos filhos para os pais; para que eu não venha e realmente golpeie a terra,^&#42;1^ devotando-a à destruição.”^&#42;2^
+
+[NOTE]
+====
+. “A terra.” Hebr.: ha·’á·rets; lat.: tér·ram.
+. Ou “com uma proscrição”. Hebr.: hhé·rem. Por causa de tal terminação severa desta profecia, os judeus têm por costume repetir a leitura do v. 5, que tem um tom animador. Repetições similares foram feitas no fim de outros livros, tais como Eclesiastes, Isaías e Lamentações.
+====
+
+_(Fim da tradução das Escrituras Hebraico-Aramaicas, seguida pela das Escrituras Gregas Cristãs.)_
+
+'''
+
+xref:039-malaquias/039-malaquias-003.adoc#v39-3-0[&#60; Capítulo Anterior] | <<v39-4-0,Topo>> | xref:040-mateus/040-mateus-001.adoc#v40-1-0[Próximo Capítulo &#62;]

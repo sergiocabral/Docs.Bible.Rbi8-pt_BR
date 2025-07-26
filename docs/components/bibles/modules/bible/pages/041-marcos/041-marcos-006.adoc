@@ -1,0 +1,270 @@
+include::./index.adoc[]
+
+[[v41-6-0]]
+=== Marcos, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v41-6-1]]
+
+^<<v41-6-1,1>>^ E ele partiu dali e entrou no seu próprio território, e seus discípulos o seguiram.
+
+[[v41-6-2]]
+
+^<<v41-6-2,2>>^ Chegando o sábado, principiou a ensinar na sinagoga; e a maioria dos ouvintes ficaram assombrados e disseram: “Onde obteve este homem tais coisas? E por que foi dada tal sabedoria a este homem, e se realizam tais obras poderosas pelas suas mãos?
+
+[[v41-6-3]]
+
+^<<v41-6-3,3>>^ Não é este o carpinteiro, filho de Maria e irmão de Tiago, e José,^&#42;1^ e Judas, e Simão? E não estão as suas irmãs aqui conosco?” Começaram assim a tropeçar por causa dele.
+
+[NOTE]
+====
+. “José”, אVg; ABCDSyh,p, “Josés”.
+====
+
+[[v41-6-4]]
+
+^<<v41-6-4,4>>^ Mas Jesus prosseguiu a dizer-lhes: “O profeta não passa sem honra a não ser no seu próprio território, e entre os seus parentes e na sua própria casa.”
+
+[[v41-6-5]]
+
+^<<v41-6-5,5>>^ Assim, não pôde fazer ali nenhuma obra poderosa, exceto pôr as suas mãos sobre alguns doentios e curá-los.
+
+[[v41-6-6]]
+
+^<<v41-6-6,6>>^ Deveras, admirou-se de sua falta de fé. E percorreu as aldeias num circuito, ensinando.
+
+[[v41-6-7]]
+
+^<<v41-6-7,7>>^ Convocou então os doze e principiou a enviá-los de dois em dois, e começou a dar-lhes autoridade sobre os espíritos impuros.
+
+[[v41-6-8]]
+
+^<<v41-6-8,8>>^ Deu-lhes também ordens de não levarem nada para a viagem, a não ser apenas um bastão, nem pão, nem alforje, nem dinheiro de cobre nos bolsos dos seus cintos,
+
+[[v41-6-9]]
+
+^<<v41-6-9,9>>^ mas de amarrarem sandálias, e de não usarem duas peças de roupa interior.
+
+[[v41-6-10]]
+
+^<<v41-6-10,10>>^ Outrossim, disse-lhes: “Onde quer que entrardes numa casa, ficai ali até sairdes daquele lugar.
+
+[[v41-6-11]]
+
+^<<v41-6-11,11>>^ E qualquer lugar que não vos receber, nem vos ouvir, ao sairdes dali, sacudi fora a sujeira que está debaixo dos vossos pés, em testemunho^&#42;1^ para eles.”
+
+[NOTE]
+====
+. “Testemunho.” Gr.: mar·tý·ri·on; lat.: te·sti·mó·ni·um.
+====
+
+[[v41-6-12]]
+
+^<<v41-6-12,12>>^ Partiram assim e pregavam, a fim de que as pessoas se arrependessem;
+
+[[v41-6-13]]
+
+^<<v41-6-13,13>>^ e expulsavam muitos demônios, e untavam muitos doentios com óleo e os curavam.
+
+[[v41-6-14]]
+
+^<<v41-6-14,14>>^ Ora, isso chegou aos ouvidos do Rei Herodes, pois o nome de [Jesus]^&#42;1^ tornara-se público e as pessoas diziam:^&#42;2^ “João, o batizador,^&#42;3^ tem sido levantado dentre os mortos, e por esta razão operam nele as obras poderosas.”
+
+[NOTE]
+====
+. Lit.: “pois o nome dele”.
+. “As pessoas diziam”, BW; אACSyh,p,s: “ele dizia”.
+. Ou “imersor, submersor (mergulhador)”. Gr.: ba·ptí·zon.
+====
+
+[[v41-6-15]]
+
+^<<v41-6-15,15>>^ Mas outros diziam: “É Elias.” Ainda outros diziam: “É um profeta semelhante a um dos profetas.”
+
+[[v41-6-16]]
+
+^<<v41-6-16,16>>^ Ouvindo-o, porém, Herodes começou a dizer: “O João a quem eu decapitei, este é o que tem sido levantado.”
+
+[[v41-6-17]]
+
+^<<v41-6-17,17>>^ Pois o próprio Herodes mandara prender João e amarrá-lo na prisão, por causa de Herodias, esposa de Filipe, seu irmão, porque se tinha casado com ela.
+
+[[v41-6-18]]
+
+^<<v41-6-18,18>>^ Pois João dissera várias vezes a Herodes: “Não te é lícito ter a esposa de teu irmão.”
+
+[[v41-6-19]]
+
+^<<v41-6-19,19>>^ Herodias, porém, nutria ressentimento contra ele e queria matá-lo, mas não podia.
+
+[[v41-6-20]]
+
+^<<v41-6-20,20>>^ Porque Herodes tinha temor de João, sabendo que era homem justo e santo; e guardava-o a salvo. E, ao ouvi-lo, estava muito perplexo quanto a que fazer; contudo, continuava a ouvi-lo de bom grado.
+
+[[v41-6-21]]
+
+^<<v41-6-21,21>>^ Chegou, porém, um dia conveniente, no seu aniversário natalício, em que Herodes ofereceu uma refeição noturna a seus dignitários e comandantes militares,^&#42;1^ e aos principais da Galiléia.
+
+[NOTE]
+====
+. Lit.: “os quiliarcas”. Gr.: khi·li·ár·khois, “comandantes de 1.000 soldados”; lat.: tri·bú·nis.
+====
+
+[[v41-6-22]]
+
+^<<v41-6-22,22>>^ E entrou a filha desta mesma Herodias e dançou, e ela agradou a Herodes e aos que se recostavam com ele. O rei disse à donzela: “Pede-me o que quiseres, e eu to darei.”
+
+[[v41-6-23]]
+
+^<<v41-6-23,23>>^ Sim, jurou-lhe: “O que for que me pedires, até a metade do meu reino, eu to darei.”
+
+[[v41-6-24]]
+
+^<<v41-6-24,24>>^ E ela saiu e disse à sua mãe: “Que devo pedir?” Ela disse: “A cabeça de João, o batizador.”
+
+[[v41-6-25]]
+
+^<<v41-6-25,25>>^ E entrando logo apressadamente, foi ter com o rei e fez a sua solicitação, dizendo: “Quero que me dês imediatamente, numa travessa, a cabeça de João Batista.”
+
+[[v41-6-26]]
+
+^<<v41-6-26,26>>^ Embora o rei ficasse profundamente contristado, contudo, não quis desconsiderá-la, em vista dos juramentos e dos que se recostavam à mesa.
+
+[[v41-6-27]]
+
+^<<v41-6-27,27>>^ O rei mandou assim imediatamente um guarda pessoal e ordenou-lhe que trouxesse a cabeça dele. E ele foi e o decapitou na prisão,
+
+[[v41-6-28]]
+
+^<<v41-6-28,28>>^ e trouxe a cabeça dele numa travessa, e a deu à donzela, e a donzela a deu à sua mãe.
+
+[[v41-6-29]]
+
+^<<v41-6-29,29>>^ Quando os discípulos dele ouviram isso, vieram e tomaram seu cadáver, e o deitaram num túmulo memorial.
+
+[[v41-6-30]]
+
+^<<v41-6-30,30>>^ E os apóstolos ajuntaram-se diante de Jesus e relataram-lhe todas as coisas que tinham feito e ensinado.
+
+[[v41-6-31]]
+
+^<<v41-6-31,31>>^ E ele lhes disse: “Vinde, vós mesmos, em particular, a um lugar solitário, e descansai um pouco.” Porque havia muitos que vinham e iam, e não tinham folga nem para tomar uma refeição.
+
+[[v41-6-32]]
+
+^<<v41-6-32,32>>^ Por isso se afastaram no barco para um lugar solitário, à parte.
+
+[[v41-6-33]]
+
+^<<v41-6-33,33>>^ Havia, porém, quem os viu partir e muitos ficaram sabendo disso, e afluíram para lá a pé, de todas as cidades, e chegaram primeiro que eles.
+
+[[v41-6-34]]
+
+^<<v41-6-34,34>>^ Ora, ao desembarcar, ele viu uma grande multidão, mas teve pena deles, porque eram como ovelhas sem pastor. E principiou a ensinar-lhes muitas coisas.
+
+[[v41-6-35]]
+
+^<<v41-6-35,35>>^ A hora, então, já ficara avançada, e seus discípulos aproximaram-se dele e começaram a dizer: “O lugar é isolado e a hora já está avançada.
+
+[[v41-6-36]]
+
+^<<v41-6-36,36>>^ Despede-os, para que possam ir à zona rural e às aldeias circunvizinhas, e comprar para si algo para comer.”
+
+[[v41-6-37]]
+
+^<<v41-6-37,37>>^ Em resposta, disse-lhes: “Dai-lhes vós algo para comer.” Disseram-lhe então: “Devemos ir e comprar pães no valor de duzentos denários,^&#42;1^ e dar [os pães] ao povo para comer?”
+
+[NOTE]
+====
+. O denário era uma moeda romana de prata que pesava 3,85 g.
+====
+
+[[v41-6-38]]
+
+^<<v41-6-38,38>>^ Disse-lhes ele: “Quantos pães tendes? Ide ver!” Depois de averiguarem isso, disseram-lhe: “Cinco, além de dois peixes.”
+
+[[v41-6-39]]
+
+^<<v41-6-39,39>>^ E ele mandou que todos se recostassem por companhias na grama verde.
+
+[[v41-6-40]]
+
+^<<v41-6-40,40>>^ E eles se deitaram em grupos de cem e de cinqüenta.
+
+[[v41-6-41]]
+
+^<<v41-6-41,41>>^ Tomando então os cinco pães e os dois peixes, olhou para o céu e proferiu uma bênção, e partiu os pães e começou a dá-los aos discípulos, para que estes os pusessem diante das pessoas; e repartiu os dois peixes entre todos.
+
+[[v41-6-42]]
+
+^<<v41-6-42,42>>^ Todos comeram assim e ficaram satisfeitos;
+
+[[v41-6-43]]
+
+^<<v41-6-43,43>>^ e recolheram os pedaços, doze cestos cheios, além dos peixes.
+
+[[v41-6-44]]
+
+^<<v41-6-44,44>>^ Ademais, os que comeram dos pães foram cinco mil homens.
+
+[[v41-6-45]]
+
+^<<v41-6-45,45>>^ E ele, sem demora, compeliu os discípulos a entrar no barco e a passar adiante, para a margem oposta, para Betsaida, enquanto ele mesmo despedia a multidão.
+
+[[v41-6-46]]
+
+^<<v41-6-46,46>>^ Mas, depois de despedir-se deles, subiu a um monte para orar.
+
+[[v41-6-47]]
+
+^<<v41-6-47,47>>^ Tendo então anoitecido, o barco estava no meio do mar, mas ele estava sozinho em terra.
+
+[[v41-6-48]]
+
+^<<v41-6-48,48>>^ E quando viu que tinham dificuldade no remar, porque o vento lhes era contrário, dirigiu-se a eles por volta da quarta vigília da noite,^&#42;1^ andando sobre o mar; mas estava inclinado a passar por eles.
+
+[NOTE]
+====
+. Veja 13:35 n. e Mt 14:25 n.
+====
+
+[[v41-6-49]]
+
+^<<v41-6-49,49>>^ Quando o avistaram andando sobre o mar, pensaram: “É uma aparição!” e clamaram em voz alta.
+
+[[v41-6-50]]
+
+^<<v41-6-50,50>>^ Pois todos eles o viram e ficaram aflitos. Mas, falou-lhes imediatamente e disse-lhes: “Coragem! Sou eu; não temais.”
+
+[[v41-6-51]]
+
+^<<v41-6-51,51>>^ E subiu para junto deles no barco, e o vento cessou. Em vista disso, ficaram grandemente pasmados no seu íntimo,
+
+[[v41-6-52]]
+
+^<<v41-6-52,52>>^ porque não tinham compreendido o significado dos pães, mas os seus corações continuavam obtusos no entendimento.
+
+[[v41-6-53]]
+
+^<<v41-6-53,53>>^ E tendo feito a travessia, chegaram a Genesaré e ancoraram perto.
+
+[[v41-6-54]]
+
+^<<v41-6-54,54>>^ Mas, assim que saíram do barco, as pessoas o reconheceram
+
+[[v41-6-55]]
+
+^<<v41-6-55,55>>^ e percorreram toda aquela região, e principiaram a carregar em macas os que estavam adoentados, para onde souberam que ele estava.
+
+[[v41-6-56]]
+
+^<<v41-6-56,56>>^ E onde quer que entrasse em aldeias ou em cidades, ou na zona rural, colocavam os doentes nas feiras e imploravam-lhe que pudessem tocar pelo menos a orla de sua roupa exterior. E quantos a tocavam, ficavam bons.^&#42;1^
+
+[NOTE]
+====
+. Ou “eram salvos”.
+====
+
+'''
+
+xref:041-marcos/041-marcos-005.adoc#v41-5-0[&#60; Capítulo Anterior] | <<v41-6-0,Topo>> | xref:041-marcos/041-marcos-007.adoc#v41-7-0[Próximo Capítulo &#62;]

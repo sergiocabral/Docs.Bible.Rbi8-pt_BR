@@ -1,0 +1,217 @@
+include::./index.adoc[]
+
+[[v24-25-0]]
+=== Jeremias, 25
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-25-1]]
+
+^<<v24-25-1,1>>^ A palavra que veio a haver para Jeremias concernente a todo o povo de Judá, no quarto ano de Jeoiaquim, filho de Josias, rei de Judá, isto é, no primeiro ano de Nabucodorosor, rei de Babilônia;
+
+[[v24-25-2]]
+
+^<<v24-25-2,2>>^ que Jeremias, o profeta, falou concernente a todo o povo de Judá e concernente a todos os habitantes de Jerusalém, dizendo:
+
+[[v24-25-3]]
+
+^<<v24-25-3,3>>^ “Desde o décimo terceiro ano de Josias, filho de Amom, rei de Judá, e até o dia de hoje, estes vinte e três anos, veio a haver para mim a palavra de Jeová, e eu falava convosco, levantando-me cedo e falando, mas vós não escutastes.
+
+[[v24-25-4]]
+
+^<<v24-25-4,4>>^ E Jeová vos enviou todos os seus servos, os profetas, levantando-se cedo e enviando-os, mas vós não escutastes nem inclinastes vosso ouvido para escutar,
+
+[[v24-25-5]]
+
+^<<v24-25-5,5>>^ dizendo eles: ‘Por favor, recuai cada um do seu mau caminho e da ruindade de vossas ações, e continuai a morar sobre o solo que Jeová deu a vós e aos vossos antepassados desde há muito tempo e por muito tempo no futuro.
+
+[[v24-25-6]]
+
+^<<v24-25-6,6>>^ E não andeis atrás de outros deuses^&#42;1^ para os servirdes e para vos curvardes diante deles, para que não me ofendais com o trabalho das vossas mãos e para que eu não vos cause calamidade.’
+
+[NOTE]
+====
+. “Deuses.” Hebr.: ’elo·hím.
+====
+
+[[v24-25-7]]
+
+^<<v24-25-7,7>>^ “‘Mas vós não me escutastes’, é a pronunciação de Jeová, ‘com o objetivo de me ofenderdes com o trabalho das vossas mãos, para calamidade para vós mesmos’.
+
+[[v24-25-8]]
+
+^<<v24-25-8,8>>^ “Portanto, assim disse Jeová dos exércitos: ‘“Visto que não obedecestes às minhas palavras,
+
+[[v24-25-9]]
+
+^<<v24-25-9,9>>^ eis que envio [alguém] e vou tomar todas as famílias do norte”, é a pronunciação de Jeová, “sim, [enviando alguém] a Nabucodorosor, rei de Babilônia, meu servo, e vou trazê-las contra esta terra e contra os seus habitantes, e contra todas estas nações ao redor; e vou devotá-los à destruição e fazer deles um assombro e objeto de assobio, e lugares devastados por tempo indefinido.
+
+[[v24-25-10]]
+
+^<<v24-25-10,10>>^ E eu vou destruir dentre eles o som de exultação e o som de alegria, a voz do noivo e a voz da noiva, o som do moinho manual e a luz da lâmpada.
+
+[[v24-25-11]]
+
+^<<v24-25-11,11>>^ E toda esta terra terá de tornar-se um lugar devastado, um assombro, e estas nações terão de servir ao rei de Babilônia por setenta anos.”’
+
+[[v24-25-12]]
+
+^<<v24-25-12,12>>^ “‘E terá de acontecer que, quando tiverem cumprido setenta anos, ajustarei contas com o rei de Babilônia e com aquela nação’, é a pronunciação de Jeová, ‘pelo seu erro, sim, com a terra dos caldeus, e vou fazer dela baldios desolados por tempo indefinido.
+
+[[v24-25-13]]
+
+^<<v24-25-13,13>>^ E vou fazer chegar sobre aquela terra todas as minhas palavras que falei contra ela, sim, tudo o que está escrito neste livro que Jeremias profetizou contra todas as nações.
+
+[[v24-25-14]]
+
+^<<v24-25-14,14>>^ Porque eles mesmos, muitas nações e grandes reis, exploraram-nos como servos; e vou retribuir-lhes segundo a sua atuação e segundo o trabalho das suas mãos.’”
+
+[[v24-25-15]]
+
+^<<v24-25-15,15>>^ Pois assim me disse Jeová, o Deus de Israel: “Toma da minha mão este copo do vinho de furor, e tens de fazer beber dele^&#42;1^ todas as nações às quais te envio.
+
+[NOTE]
+====
+. “Dele”, hebr. masc., referindo-se ao “vinho”, hebr. masc.
+====
+
+[[v24-25-16]]
+
+^<<v24-25-16,16>>^ E terão de beber, e balouçar, e agir como homens endoidecidos, por causa da espada que envio entre eles.”
+
+[[v24-25-17]]
+
+^<<v24-25-17,17>>^ E passei a tomar o copo da mão de Jeová e a fazer beber todas as nações às quais Jeová me enviara:
+
+[[v24-25-18]]
+
+^<<v24-25-18,18>>^ a saber, Jerusalém e as cidades de Judá, e seus reis, seus príncipes, para fazer delas um lugar devastado, um assombro, objeto de assobio e uma invocação do mal, assim como no dia de hoje;
+
+[[v24-25-19]]
+
+^<<v24-25-19,19>>^ Faraó, rei do Egito, e seus servos, e seus príncipes, e todo o seu povo;
+
+[[v24-25-20]]
+
+^<<v24-25-20,20>>^ e toda a mistura de gente, e todos os reis da terra de Uz, e todos os reis da terra dos filisteus, e Ascalom, e Gaza, e Ecrom, e o restante de Asdode;
+
+[[v24-25-21]]
+
+^<<v24-25-21,21>>^ Edom e Moabe, e os filhos de Amom;
+
+[[v24-25-22]]
+
+^<<v24-25-22,22>>^ e todos os reis de Tiro, e todos os reis de Sídon, e os reis da ilha^&#42;1^ que está na região do mar;
+
+[NOTE]
+====
+. Ou “litoral”.
+====
+
+[[v24-25-23]]
+
+^<<v24-25-23,23>>^ e Dedã, e Tema, e Buz, e todos os que têm o cabelo cortado nas têmporas;
+
+[[v24-25-24]]
+
+^<<v24-25-24,24>>^ e todos os reis dos árabes e todos os reis da mistura de gente que reside no ermo;
+
+[[v24-25-25]]
+
+^<<v24-25-25,25>>^ e todos os reis de Zinri, e todos os reis de Elão, e todos os reis dos medos;
+
+[[v24-25-26]]
+
+^<<v24-25-26,26>>^ e todos os reis do norte, perto e longe, um após outro, e todos os [outros] reinos da terra que há na superfície do solo; e o próprio rei de Sesaque^&#42;1^ beberá após eles.
+
+[NOTE]
+====
+. “Sesaque”, MVg; T: “Babel”. Este parece ser o nome criptográfico de Babel (Babilônia) mediante um arranjo chamado ’ath·básh, que disfarça o verdadeiro nome por se tomar a última letra do alfabeto hebr., Tau, em lugar da primeira, Álefe, e a penúltima letra, Chim, em lugar da segunda letra, Bete, e assim por diante. De modo que em “Babel”, cada Bete, “b”, representaria Chim, Lâmede representaria Cafe, e o nome se tornaria She·shákh.
+====
+
+[[v24-25-27]]
+
+^<<v24-25-27,27>>^ “E tens de dizer-lhes: ‘Assim disse Jeová dos exércitos, o Deus^&#42;1^ de Israel: “Bebei e embriagai-vos, e vomitai e caí de modo que não vos possais levantar, por causa da espada que envio entre vós.”’
+
+[NOTE]
+====
+. “O Deus de.” Hebr.: ’Elo·héh.
+====
+
+[[v24-25-28]]
+
+^<<v24-25-28,28>>^ E terá de acontecer que, caso se neguem a tomar o copo da tua mão para beber, então terás de dizer-lhes: ‘Assim disse Jeová dos exércitos: “Sem falta bebereis.
+
+[[v24-25-29]]
+
+^<<v24-25-29,29>>^ Pois, eis que é sobre a cidade sobre a qual se invoca o meu nome que eu principio a trazer calamidade, e acaso ficaríeis vós de algum modo impunes?”’
+“‘Não ficareis impunes, pois há uma espada que estou convocando contra todos os habitantes da terra’, é a pronunciação de Jeová dos exércitos.
+
+[[v24-25-30]]
+
+^<<v24-25-30,30>>^ “E quanto a ti, tu lhes profetizarás todas estas palavras e terás de dizer-lhes: ‘Do alto bramirá o próprio Jeová e da sua santa habitação dará vazão à sua voz. Sem falta bramirá sobre^&#42;1^ o seu lugar de permanência. Ele entoará uma exclamação igual à dos que pisam [o lagar], contra todos os habitantes da terra.’
+
+[NOTE]
+====
+. Ou “contra”.
+====
+
+[[v24-25-31]]
+
+^<<v24-25-31,31>>^ “‘Um barulho há de chegar até a parte mais longínqua^&#42;1^ da terra, pois há uma controvérsia que Jeová tem com as nações. Ele terá de pôr-se pessoalmente em julgamento com toda a carne. Quanto aos iníquos, terá de entregá-los à espada’, é a pronunciação de Jeová.
+
+[NOTE]
+====
+. Ou “a parte mais distante; extremidade”. Hebr.: qetséh. Compare isso com 16:19. Veja At 1:8.
+====
+
+[[v24-25-32]]
+
+^<<v24-25-32,32>>^ “Assim disse Jeová dos exércitos: ‘Eis que sai uma calamidade de nação em nação e suscitar-se-á até mesmo uma grande tormenta desde as partes mais remotas da terra.
+
+[[v24-25-33]]
+
+^<<v24-25-33,33>>^ E os mortos por Jeová certamente virão a estar naquele dia de uma extremidade da terra até à outra extremidade da terra.^&#42;1^ Não serão lamentados, nem serão recolhidos ou enterrados. Tornar-se-ão como estrume sobre a superfície do solo.’
+
+[NOTE]
+====
+. Ou “desde a parte mais longínqua da terra até à parte mais remota da terra”. Hebr.: miq·tséh ha·’á·rets we‛adh-qetséh ha·’á·rets. Veja v. 31.
+====
+
+[[v24-25-34]]
+
+^<<v24-25-34,34>>^ “Uivai, pastores, e clamai! E revolvei-vos, majestosos do rebanho, porque se cumpriram os dias para serdes abatidos e serdes espalhados,^&#42;1^ e tereis de cair como um vaso desejável!
+
+[NOTE]
+====
+. Ou “chegaram os dias para serdes abatidos e para serdes espalhados”.
+====
+
+[[v24-25-35]]
+
+^<<v24-25-35,35>>^ E dos pastores pereceu o lugar de refúgio, e dos majestosos do rebanho, o meio de escape.
+
+[[v24-25-36]]
+
+^<<v24-25-36,36>>^ Escutai! O grito dos pastores e o uivo dos majestosos do rebanho, porque Jeová está assolando seu pasto.
+
+[[v24-25-37]]
+
+^<<v24-25-37,37>>^ E os lugares pacíficos de permanência ficaram sem vida^&#42;1^ por causa da ira ardente de Jeová.
+
+[NOTE]
+====
+. Ou “silenciosos”.
+====
+
+[[v24-25-38]]
+
+^<<v24-25-38,38>>^ Ele deixou seu abrigo como um leão novo jubado, porque a terra deles tornou-se um assombro, por causa da espada^&#42;1^ que maltrata e por causa da sua ira ardente.”
+
+[NOTE]
+====
+. “Espada”, TLXX e cerca de 20 mss. hebr.; M: “ardor (queima)”.
+====
+
+'''
+
+xref:024-jeremias/024-jeremias-024.adoc#v24-24-0[&#60; Capítulo Anterior] | <<v24-25-0,Topo>> | xref:024-jeremias/024-jeremias-026.adoc#v24-26-0[Próximo Capítulo &#62;]

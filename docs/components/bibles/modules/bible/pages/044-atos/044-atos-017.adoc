@@ -1,0 +1,204 @@
+include::./index.adoc[]
+
+[[v44-17-0]]
+=== Atos, 17
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v44-17-1]]
+
+^<<v44-17-1,1>>^ Viajaram então através de Anfípolis e Apolônia, e vieram a Tessalônica, onde havia uma sinagoga dos judeus.
+
+[[v44-17-2]]
+
+^<<v44-17-2,2>>^ Assim, segundo o costume de Paulo, ele entrou, indo ter com eles, e por três sábados raciocinou com eles à base das Escrituras,
+
+[[v44-17-3]]
+
+^<<v44-17-3,3>>^ explicando e provando com referências que era necessário que o Cristo sofresse e fosse levantado dentre os mortos, e [dizendo]: “Este é o Cristo, este Jesus, que eu vos publico.”
+
+[[v44-17-4]]
+
+^<<v44-17-4,4>>^ Em resultado, alguns deles tornaram-se crentes e associaram-se com Paulo e Silas, e assim fizeram também uma grande multidão dos gregos que adoravam [a Deus] e não poucas das mulheres de destaque.
+
+[[v44-17-5]]
+
+^<<v44-17-5,5>>^ Mas os judeus, ficando com ciúme, acolheram na sua companhia certos homens iníquos dos vadios da feira e formaram uma turba, e passaram a lançar a cidade num alvoroço. E eles assaltaram a casa de Jasão e buscavam trazê-los para fora à ralé.
+
+[[v44-17-6]]
+
+^<<v44-17-6,6>>^ Quando não os acharam, arrastaram Jasão e certos irmãos perante os governantes da cidade,^&#42;1^ clamando: “Estes homens que têm subvertido a terra habitada estão também presentes aqui,
+
+[NOTE]
+====
+. Lit.: “poliarcas”. Gr.: po·li·tár·khas, governadores dos cidadãos.
+====
+
+[[v44-17-7]]
+
+^<<v44-17-7,7>>^ e Jasão recebeu-os com hospitalidade. E todos estes [homens] agem em oposição aos decretos de César,^&#42;1^ dizendo que há outro rei, Jesus.”
+
+[NOTE]
+====
+. Ou “do imperador”. Gr.: Kaí·sa·ros.
+====
+
+[[v44-17-8]]
+
+^<<v44-17-8,8>>^ Agitaram deveras a multidão e os governantes da cidade, quando ouviram estas coisas;
+
+[[v44-17-9]]
+
+^<<v44-17-9,9>>^ e, só depois de receberem suficiente fiança^&#42;1^ de Jasão e dos outros, deixaram-nos ir.
+
+[NOTE]
+====
+. “Suficiente fiança.” Lat.: sá·tis, “bastante”.
+====
+
+[[v44-17-10]]
+
+^<<v44-17-10,10>>^ Os irmãos enviaram imediatamente tanto Paulo como Silas, de noite, para Beréia, e estes, ao chegarem, entraram na sinagoga dos judeus.
+
+[[v44-17-11]]
+
+^<<v44-17-11,11>>^ Ora, estes últimos eram de mentalidade mais nobre do que os de Tessalônica, pois recebiam a palavra com o maior anelo mental, examinando cuidadosamente as Escrituras, cada dia, quanto a se estas coisas eram assim.
+
+[[v44-17-12]]
+
+^<<v44-17-12,12>>^ Portanto, muitos deles tornaram-se crentes, e assim também não poucas das mulheres gregas bem conceituadas e dos homens.
+
+[[v44-17-13]]
+
+^<<v44-17-13,13>>^ Mas, quando os judeus de Tessalônica souberam que a palavra de Deus estava sendo publicada por Paulo também em Beréia, foram também para lá incitar e agitar as massas.
+
+[[v44-17-14]]
+
+^<<v44-17-14,14>>^ Então, os irmãos mandaram Paulo imediatamente embora, para ir até o mar; mas tanto Silas como Timóteo permaneceram ali.
+
+[[v44-17-15]]
+
+^<<v44-17-15,15>>^ No entanto, os que acompanhavam Paulo levaram-no até Atenas, e, depois de receberem mandado para que Silas e Timóteo viessem ter com ele o mais depressa possível, partiram.
+
+[[v44-17-16]]
+
+^<<v44-17-16,16>>^ Ora, enquanto Paulo esperava por eles em Atenas, seu espírito, no seu íntimo, ficou irritado ao observar que a cidade estava cheia de ídolos.
+
+[[v44-17-17]]
+
+^<<v44-17-17,17>>^ Conseqüentemente, começou a raciocinar na sinagoga com os judeus e com as outras pessoas que adoravam [a Deus], e cada dia, na feira, com os que por acaso estivessem ali.
+
+[[v44-17-18]]
+
+^<<v44-17-18,18>>^ Mas, certos dos filósofos epicureus bem como dos estóicos passaram a conversar com ele polemicamente, e alguns diziam: “O que é que este paroleiro^&#42;1^ quer contar?” Outros: “Ele parece ser publicador de deidades^&#42;2^ estrangeiras.” Isto se deu porque ele declarava as boas novas de Jesus e a ressurreição.
+
+[NOTE]
+====
+. Lit.: “apanhador de sementes”.
+. Lit.: “demônios”. Gr.: dai·mo·ní·on.
+====
+
+[[v44-17-19]]
+
+^<<v44-17-19,19>>^ Assim, agarraram-no e conduziram-no ao Areópago,^&#42;1^ dizendo: “Podemos saber qual é este novo ensino de que falas?
+
+[NOTE]
+====
+. Ou “Colina de Ares; Colina de Marte”. Gr.: Á·rei·on Pá·gon; lat.: A·ri·ó·pa·gum.
+====
+
+[[v44-17-20]]
+
+^<<v44-17-20,20>>^ Porque estás introduzindo algumas coisas que são estranhas aos nossos ouvidos. Portanto, desejamos saber o que denotam estas coisas.”
+
+[[v44-17-21]]
+
+^<<v44-17-21,21>>^ De fato, todos os atenienses e os estrangeiros residentes temporariamente ali gastavam seu tempo de folga em nada mais do que em contar algo ou escutar algo novo.
+
+[[v44-17-22]]
+
+^<<v44-17-22,22>>^ Paulo, pois, estando em pé no meio do Areópago, disse:
+“Homens de Atenas, eu observei que em todas as coisas pareceis mais dados ao temor das deidades^&#42;1^ do que os outros.
+
+[NOTE]
+====
+. “Mais dados ao temor das deidades.” Lit.: “ter mais pavor dos demônios”. Gr.: dei·si·dai·mo·ne·sté·rous; lat.: su·per·sti·ti·o·si·ó·res. Os demônios eram considerados pelos gregos como deidades, boas ou más. Veja 25:19 n.
+====
+
+[[v44-17-23]]
+
+^<<v44-17-23,23>>^ Por exemplo, passeando e observando cuidadosamente os vossos objetos de veneração, encontrei também um altar em que tinha sido escrito: ‘A um Deus Desconhecido.’ Portanto, aquilo a que sem o saber dais devoção piedosa, isso é o que eu vos publico.
+
+[[v44-17-24]]
+
+^<<v44-17-24,24>>^ O Deus que fez o mundo e todas as coisas nele, sendo, como Este é, Senhor do céu e da terra, não mora em templos^&#42;1^ feitos por mãos,
+
+[NOTE]
+====
+. Ou “habitações (moradas) divinas”. Gr.: na·oís; J17,22(hebr.): beheh·kha·lóhth, “em palácios (templos)”.
+====
+
+[[v44-17-25]]
+
+^<<v44-17-25,25>>^ nem é assistido por mãos humanas, como se necessitasse de alguma coisa, porque ele mesmo dá a todos vida, e fôlego, e todas as coisas.
+
+[[v44-17-26]]
+
+^<<v44-17-26,26>>^ E ele fez de um só [homem] toda nação dos homens, para morarem sobre a superfície inteira da terra, e decretou os tempos designados e os limites fixos da morada dos [homens],
+
+[[v44-17-27]]
+
+^<<v44-17-27,27>>^ para buscarem a Deus, se tateassem por ele e realmente o achassem, embora, de fato, não esteja longe de cada um de nós.
+
+[[v44-17-28]]
+
+^<<v44-17-28,28>>^ Pois, por meio dele^&#42;1^ temos vida, e nos movemos, e existimos, assim como disseram certos^&#42;2^ dos poetas entre vós: ‘Pois nós também somos progênie dele.’
+
+[NOTE]
+====
+. Ou “nele”.
+. “Certos”, a saber, Arato e Cleanto. Paulo cita Os Fenômenos, de Arato, e o Hino a Zeus, de Cleanto.
+====
+
+[[v44-17-29]]
+
+^<<v44-17-29,29>>^ “Visto, pois, que somos progênie de Deus, não devemos imaginar que o Ser Divino^&#42;1^ seja semelhante a ouro, ou prata, ou pedra, semelhante a algo esculpido pela arte e inventividade do homem.
+
+[NOTE]
+====
+. “Ser Divino.” Gr.: Theí·on, relacionado com The·ós, “Deus”; lat.: Di·ví·num.
+====
+
+[[v44-17-30]]
+
+^<<v44-17-30,30>>^ É verdade que Deus não tem tomado em conta os tempos de tal ignorância, no entanto, agora ele está dizendo à humanidade que todos, em toda a parte, se arrependam.
+
+[[v44-17-31]]
+
+^<<v44-17-31,31>>^ Porque ele fixou um dia em que se propôs julgar em justiça a terra habitada,^&#42;1^ por meio dum homem a quem designou, e ele tem fornecido garantia^&#42;2^ a todos os homens, visto que o ressuscitou dentre os mortos.”
+
+[NOTE]
+====
+. “Terra habitada.” Lit.: “habitada”. Gr.: oi·kou·mé·nen, fem. sing., referindo-se à terra; lat.: ór·bem, “círculo”, isto é, da terra. Veja Is 13:11 n.: “produtivo”.
+. Ou “fé”.
+====
+
+[[v44-17-32]]
+
+^<<v44-17-32,32>>^ Pois bem, quando ouviram [falar] duma ressurreição dos mortos, alguns começaram a mofar, enquanto outros diziam: “Nós te ouviremos sobre isso ainda outra vez.”
+
+[[v44-17-33]]
+
+^<<v44-17-33,33>>^ Paulo saiu, assim, do meio deles,
+
+[[v44-17-34]]
+
+^<<v44-17-34,34>>^ mas alguns homens juntaram-se a ele e se tornaram crentes, entre os quais havia também Dionísio, juiz do tribunal do Areópago,^&#42;1^ e uma mulher de nome Dâmaris, e outros além deles.
+
+[NOTE]
+====
+. Ou “Dionísio, areopagita”.
+====
+
+'''
+
+xref:044-atos/044-atos-016.adoc#v44-16-0[&#60; Capítulo Anterior] | <<v44-17-0,Topo>> | xref:044-atos/044-atos-018.adoc#v44-18-0[Próximo Capítulo &#62;]

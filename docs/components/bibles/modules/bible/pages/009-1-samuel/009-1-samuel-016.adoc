@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v9-16-0]]
+=== 1 Samuel, 16
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-16-1]]
+
+^<<v9-16-1,1>>^ Por fim, Jeová disse a Samuel: “Até quando prantearás a Saul, enquanto eu, por outro lado, rejeitei que reinasse sobre Israel? Enche teu chifre de óleo e vai. Enviar-te-ei a Jessé, o belemita, porque providenciei para mim um rei dentre os seus filhos.”
+
+[[v9-16-2]]
+
+^<<v9-16-2,2>>^ Mas Samuel disse: “Como posso ir? Uma vez que Saul ouça isso, certamente me matará.” E Jeová prosseguiu, dizendo: “Deves tomar contigo^&#42;1^ uma novilha da manada e tens de dizer: ‘Vim para oferecer um sacrifício a Jeová.’
+
+[NOTE]
+====
+. Lit.: “na tua mão”.
+====
+
+[[v9-16-3]]
+
+^<<v9-16-3,3>>^ E tens de chamar Jessé ao sacrifício; e eu, da minha parte, te farei saber o que deves fazer, e terás de ungir para mim aquele a quem eu te indicar.”
+
+[[v9-16-4]]
+
+^<<v9-16-4,4>>^ E Samuel passou a fazer o que Jeová falara. Quando chegou a Belém, os anciãos da cidade começaram a tremer ao se encontrarem com ele e por isso disseram: “Significa paz a tua vinda?”
+
+[[v9-16-5]]
+
+^<<v9-16-5,5>>^ A isso ele disse: “Significa paz. Vim oferecer um sacrifício a Jeová. Santificai-vos, e tendes de vir comigo ao sacrifício.” Então ele santificou a Jessé e seus filhos, convidando-os depois ao sacrifício.
+
+[[v9-16-6]]
+
+^<<v9-16-6,6>>^ E sucedeu que, ao entrarem e ele avistar Eliabe, disse imediatamente: “Seguramente está perante Jeová o seu ungido.”^&#42;1^
+
+[NOTE]
+====
+. “Seu ungido.” Hebr.: meshi·hhóh; gr.: khri·stós; sir.: meshi·hheh; lat.: chrí·stus.
+====
+
+[[v9-16-7]]
+
+^<<v9-16-7,7>>^ Mas Jeová disse a Samuel: “Não olhes para a sua aparência e para a altura da sua estatura, pois o rejeitei. Porque não como o homem vê [é o modo de Deus ver],^&#42;1^ pois o mero homem vê o que aparece aos olhos,^&#42;2^ mas quanto a Jeová, ele vê o que o coração é.”^&#42;3^
+
+[NOTE]
+====
+. “É o modo de Deus ver”, LXX; M omite isso.
+. Lit.: “vê quanto aos olhos”.
+. Lit.: “vê quanto ao coração”.
+====
+
+[[v9-16-8]]
+
+^<<v9-16-8,8>>^ Jessé chamou então a Abinadabe e o fez passar diante de Samuel, mas ele disse: “Tampouco a este Jeová escolheu.”
+
+[[v9-16-9]]
+
+^<<v9-16-9,9>>^ A seguir, Jessé fez passar Samá, mas ele disse: “Tampouco a este Jeová escolheu.”
+
+[[v9-16-10]]
+
+^<<v9-16-10,10>>^ Assim, Jessé fez passar sete dos seus filhos diante de Samuel; todavia, Samuel disse a Jessé: “Jeová não escolheu a estes.”
+
+[[v9-16-11]]
+
+^<<v9-16-11,11>>^ Por fim, Samuel disse a Jessé: “São estes todos os rapazes?” A isto ele disse: “O mais moço foi deixado fora até agora, e eis que está pastoreando as ovelhas.” Então disse Samuel a Jessé: “Manda deveras trazê-lo, porque não nos assentaremos para a refeição até ele chegar.”
+
+[[v9-16-12]]
+
+^<<v9-16-12,12>>^ Por conseguinte, mandou que viesse. Ora, ele era ruivo, rapaz de^&#42;1^ belos olhos e bem-parecido. Jeová disse então: “Levanta-te, unge-o, pois é este!”
+
+[NOTE]
+====
+. “Rapaz de”, mediante uma emenda de M de עִם (‛im, “junto com”) para עֶלֶם (‛é·lem, “mancebo”). Veja 17:56; 20:22.
+====
+
+[[v9-16-13]]
+
+^<<v9-16-13,13>>^ Conseqüentemente, Samuel tomou o chifre de óleo e ungiu-o no meio dos seus irmãos. E o espírito de Jeová começou a tornar-se ativo em Davi daquele dia em diante. Mais tarde, Samuel levantou-se e seguiu seu caminho para Ramá.
+
+[[v9-16-14]]
+
+^<<v9-16-14,14>>^ E o próprio espírito de Jeová se retirou de Saul, e terrorizou-o um espírito mau da parte de Jeová.
+
+[[v9-16-15]]
+
+^<<v9-16-15,15>>^ E os servos de Saul começaram a dizer-lhe: “Eis que agora te está terrorizando o espírito mau da parte de Deus.^&#42;1^
+
+[NOTE]
+====
+. “Da parte de Deus”, MVg; LXX: “da parte de Jeová”.
+====
+
+[[v9-16-16]]
+
+^<<v9-16-16,16>>^ Por favor, ordene nosso senhor aos teus servos diante de ti que procurem um homem perito em tocar a harpa. E tem de dar-se que, vindo sobre ti o espírito mau da parte de Deus, ele terá de tocar com a sua mão e certamente te irá bem.”
+
+[[v9-16-17]]
+
+^<<v9-16-17,17>>^ De modo que Saul disse aos seus servos: “Providenciai-me, por favor, um homem que toque bem, e tendes de trazer-mo.”
+
+[[v9-16-18]]
+
+^<<v9-16-18,18>>^ E um dos ajudantes passou a responder e a dizer: “Eis que vi que um filho de Jessé, o belemita, é perito em tocar, e ele é homem poderoso, valente, e homem de guerra, e conversador inteligente, e homem de bom porte, e Jeová está com ele.”
+
+[[v9-16-19]]
+
+^<<v9-16-19,19>>^ Saul enviou então mensageiros a Jessé e disse: “Envia-me deveras Davi, teu filho, que está com o rebanho.”
+
+[[v9-16-20]]
+
+^<<v9-16-20,20>>^ Portanto, Jessé tomou um jumento, pão e um odre de vinho, bem como um cabritinho, e enviou-os a Saul pela mão de Davi, seu filho.
+
+[[v9-16-21]]
+
+^<<v9-16-21,21>>^ Davi veio assim a Saul e assistia diante dele;^&#42;1^ e ele chegou a amá-lo muito e veio a ser seu escudeiro.
+
+[NOTE]
+====
+. Lit.: “continuou de pé perante ele”, isto é, para servi-lo.
+====
+
+[[v9-16-22]]
+
+^<<v9-16-22,22>>^ Por conseguinte, Saul mandou dizer a Jessé: “Por favor, deixa Davi assistir diante de mim, pois achou favor aos meus olhos.”
+
+[[v9-16-23]]
+
+^<<v9-16-23,23>>^ E sucedia que, vindo o espírito de Deus sobre Saul, Davi tomava a harpa e tocava com a sua mão; e havia alívio para Saul e ia-lhe bem, e o espírito mau retirava-se dele.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-015.adoc#v9-15-0[&#60; Capítulo Anterior] | <<v9-16-0,Topo>> | xref:009-1-samuel/009-1-samuel-017.adoc#v9-17-0[Próximo Capítulo &#62;]

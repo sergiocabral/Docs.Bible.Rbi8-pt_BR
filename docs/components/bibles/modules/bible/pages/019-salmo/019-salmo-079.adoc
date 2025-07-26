@@ -1,0 +1,92 @@
+include::./index.adoc[]
+
+[[v19-79-0]]
+=== Salmos, 79
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma melodia de Asafe._
+
+[[v19-79-1]]
+
+^<<v19-79-1,1>>^ Ó Deus, as nações entraram na tua herança;
+Aviltaram teu santo templo;
+Fizeram de Jerusalém um montão de ruínas.
+
+[[v19-79-2]]
+
+^<<v19-79-2,2>>^ Os cadáveres dos teus servos eles deram por alimento às aves dos céus,
+A carne dos que te eram leais, às feras da terra.
+
+[[v19-79-3]]
+
+^<<v19-79-3,3>>^ Derramaram seu sangue como água
+Ao redor de Jerusalém, e não há quem faça o enterro.
+
+[[v19-79-4]]
+
+^<<v19-79-4,4>>^ Tornamo-nos um vitupério aos nossos vizinhos,
+Caçoada e troça para os que estão ao nosso redor.
+
+[[v19-79-5]]
+
+^<<v19-79-5,5>>^ Até quando ficarás irado, ó Jeová? Para sempre?
+Até quando arderá o teu fervor como fogo?
+
+[[v19-79-6]]
+
+^<<v19-79-6,6>>^ Derrama teu furor sobre as nações que não te conheceram
+E sobre os reinos que não invocaram teu próprio nome.
+
+[[v19-79-7]]
+
+^<<v19-79-7,7>>^ Pois consumiram a Jacó
+E causaram a desolação do próprio lugar de permanência dele.
+
+[[v19-79-8]]
+
+^<<v19-79-8,8>>^ Não te lembres contra nós dos erros dos antecessores.
+Apressa-te! Confrontem-nos as tuas misericórdias,
+Pois empobrecemos muitíssimo.
+
+[[v19-79-9]]
+
+^<<v19-79-9,9>>^ Ajuda-nos, ó Deus de nossa salvação,
+Por causa da glória do teu nome;
+E livra-nos e cobre os nossos pecados por causa do teu nome.
+
+[[v19-79-10]]
+
+^<<v19-79-10,10>>^ Por que deviam as nações dizer: “Onde está o Deus deles?”
+Saiba-se entre as nações, diante de nossos olhos,
+A vingança do sangue dos teus servos que se derramou.
+
+[[v19-79-11]]
+
+^<<v19-79-11,11>>^ Chegue diante de ti mesmo o suspiro do prisioneiro.
+Segundo a grandeza do teu braço, preserva^&#42;1^ os destinados à morte.^&#42;2^
+
+[NOTE]
+====
+. Ou “deixa sobrar”. Sy: “livra”.
+. Lit.: “os filhos da morte”.
+====
+
+[[v19-79-12]]
+
+^<<v19-79-12,12>>^ E paga de volta aos nossos vizinhos, sete vezes ao seu seio,
+Seu vitupério com que te vituperaram, ó Jeová.^&#42;1^
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-79-13]]
+
+^<<v19-79-13,13>>^ Quanto a nós, teu povo e o rebanho do teu pasto,
+Agradeceremos a ti por tempo indefinido;
+Declararemos o teu louvor de geração em geração.
+
+'''
+
+xref:019-salmo/019-salmo-078.adoc#v19-78-0[&#60; Capítulo Anterior] | <<v19-79-0,Topo>> | xref:019-salmo/019-salmo-080.adoc#v19-80-0[Próximo Capítulo &#62;]

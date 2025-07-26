@@ -1,0 +1,276 @@
+include::./index.adoc[]
+
+[[v4-31-0]]
+=== Números, 31
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-31-1]]
+
+^<<v4-31-1,1>>^ Jeová falou então a Moisés, dizendo:
+
+[[v4-31-2]]
+
+^<<v4-31-2,2>>^ “Toma vingança dos midianitas pelos filhos de Israel. Depois serás ajuntado ao teu povo.”
+
+[[v4-31-3]]
+
+^<<v4-31-3,3>>^ Portanto, Moisés falou ao povo, dizendo: “Equipai^&#42;1^ homens dentre vós para o exército, a fim de que sirvam contra Midiã, para executar a vingança de Jeová sobre Midiã.
+
+[NOTE]
+====
+. Lit.: “Equipai-vos.” LXXSyVg: “Armai.”
+====
+
+[[v4-31-4]]
+
+^<<v4-31-4,4>>^ Enviareis ao exército mil de cada tribo de todas as tribos de Israel.”
+
+[[v4-31-5]]
+
+^<<v4-31-5,5>>^ Concordemente, designaram-se mil por tribo, dos milhares de Israel, doze mil equipados para o exército.
+
+[[v4-31-6]]
+
+^<<v4-31-6,6>>^ Então, Moisés os enviou ao exército, mil de cada tribo, a eles e a Finéias, filho de Eleazar, o sacerdote, ao exército, e na sua mão estavam os utensílios sagrados e as trombetas para tocar chamadas.
+
+[[v4-31-7]]
+
+^<<v4-31-7,7>>^ E foram travar guerra contra Midiã, assim como Jeová mandara a Moisés, e passaram a matar todo macho.
+
+[[v4-31-8]]
+
+^<<v4-31-8,8>>^ E mataram os reis de Midiã junto com os que foram mortos, a saber, Evi e Requém, e Zur, e Hur, e Reba, os cinco reis de Midiã; e mataram Balaão, filho de Beor, com a espada.
+
+[[v4-31-9]]
+
+^<<v4-31-9,9>>^ Mas os filhos de Israel levaram cativas as mulheres de Midiã e seus pequeninos; e saquearam todos os seus animais domésticos, e todo o seu gado, e todos os seus meios de subsistência.
+
+[[v4-31-10]]
+
+^<<v4-31-10,10>>^ E queimaram com fogo todas as suas cidades em que haviam fixado morada^&#42;1^ e todos os seus acampamentos murados.
+
+[NOTE]
+====
+. Lit.: “todas as suas cidades nas suas moradas”, em contraste com suas cidades anteriores.
+====
+
+[[v4-31-11]]
+
+^<<v4-31-11,11>>^ E foram tomar todo o despojo e toda a presa no que tocava a humanos^&#42;1^ e a animais domésticos.
+
+[NOTE]
+====
+. “No que tocava a humanos.” Hebr.: ba·’a·dhám; lat.: ho·mí·ni·bus.
+====
+
+[[v4-31-12]]
+
+^<<v4-31-12,12>>^ E vieram trazer os cativos e a presa, e o despojo, a Moisés e a Eleazar, o sacerdote, e à assembléia^&#42;1^ dos filhos de Israel, ao acampamento, às planícies desérticas de Moabe, que estão junto ao Jordão, [na altura] de Jericó.
+
+[NOTE]
+====
+. “À assembléia”, M; SamTJSyVg e muitos mss. hebr.: “a toda a assembléia”.
+====
+
+[[v4-31-13]]
+
+^<<v4-31-13,13>>^ Então Moisés e Eleazar, o sacerdote, e todos os maiorais da assembléia saíram-lhes ao encontro fora do acampamento.
+
+[[v4-31-14]]
+
+^<<v4-31-14,14>>^ E Moisés ficou indignado com os homens designados das forças combatentes, os chefes^&#42;1^ dos milhares e os chefes das centenas, que retornavam da expedição militar.
+
+[NOTE]
+====
+. “Chefes dos.” MSam(hebr.): sa·réh.
+====
+
+[[v4-31-15]]
+
+^<<v4-31-15,15>>^ De modo que Moisés lhes disse: “Preservastes viva a toda a fêmea?
+
+[[v4-31-16]]
+
+^<<v4-31-16,16>>^ Eis que estas são as que pela palavra de Balaão serviram para induzir os filhos de Israel a cometerem infidelidade^&#42;1^ para com Jeová na questão de Peor, de modo que veio o flagelo sobre a assembléia de Jeová.
+
+[NOTE]
+====
+. “A cometerem infidelidade”, T; M é obscuro; gr.: a·po·sté·sai.
+====
+
+[[v4-31-17]]
+
+^<<v4-31-17,17>>^ E agora, matai a todo o macho dentre os pequeninos e matai a toda a mulher que tiver tido relações com um homem por se deitar com um macho.
+
+[[v4-31-18]]
+
+^<<v4-31-18,18>>^ E preservai vivas para vós a todas as pequeninas dentre as mulheres, que não tiverem conhecido o ato de se deitar com um macho.
+
+[[v4-31-19]]
+
+^<<v4-31-19,19>>^ Quanto a vós mesmos, acampai sete dias fora do acampamento. Todo aquele que tiver matado uma alma e todo aquele que tiver tocado em alguém que foi morto — deveis purificar-vos no terceiro dia e no sétimo dia, vós e os vossos cativos.
+
+[[v4-31-20]]
+
+^<<v4-31-20,20>>^ E toda veste e todo objeto de pele, e tudo feito de pêlos de cabra, e todo objeto de madeira deveis purificar para vós de pecado.”
+
+[[v4-31-21]]
+
+^<<v4-31-21,21>>^ Eleazar, o sacerdote, disse então aos homens do exército, que haviam ido à batalha: “Este é o estatuto da lei que Jeová mandou a Moisés:
+
+[[v4-31-22]]
+
+^<<v4-31-22,22>>^ ‘Somente o ouro e a prata, o cobre, o ferro, o estanho e o chumbo,
+
+[[v4-31-23]]
+
+^<<v4-31-23,23>>^ tudo o que se processa com fogo,^&#42;1^ deveis passar pelo fogo, e tem de ser limpo. Somente deve ser purificado com a água da purificação. E tudo o que não se processa com fogo^&#42;2^ deveis passar pela água.
+
+[NOTE]
+====
+. Ou “que agüenta (entra no) fogo”.
+. Ou “que não agüenta (entra no) fogo”.
+====
+
+[[v4-31-24]]
+
+^<<v4-31-24,24>>^ E no sétimo dia tendes de lavar as vossas vestes e ser limpos, e depois podeis entrar no acampamento.’”
+
+[[v4-31-25]]
+
+^<<v4-31-25,25>>^ E Jeová passou a dizer a Moisés o seguinte:
+
+[[v4-31-26]]
+
+^<<v4-31-26,26>>^ “Toma a soma da presa, dos cativos, tanto do gênero humano como dos animais domésticos, tu e Eleazar, o sacerdote, e os cabeças dos pais da assembléia.
+
+[[v4-31-27]]
+
+^<<v4-31-27,27>>^ E tendes de dividir a presa em duas partes, entre os que tomaram parte na batalha, que saíram na expedição, e todo o resto da assembléia.
+
+[[v4-31-28]]
+
+^<<v4-31-28,28>>^ E dos homens de guerra, que saíram na expedição, tens de tirar como imposto para Jeová uma alma dentre quinhentas, do gênero humano e da manada, e dos jumentos, e do rebanho.
+
+[[v4-31-29]]
+
+^<<v4-31-29,29>>^ Da metade [pertencente a] eles é que deveis^&#42;1^ tirá-lo, e tens de dá-lo a Eleazar, o sacerdote, como contribuição [pertencente a] Jeová.
+
+[NOTE]
+====
+. “Deveis”, pl. em MLXX; Sam: “deves”, sing.
+====
+
+[[v4-31-30]]
+
+^<<v4-31-30,30>>^ E da metade [pertencente aos] filhos de Israel deves tirar um dentre cinqüenta,^&#42;1^ do gênero humano, da manada, dos jumentos e do rebanho, de toda sorte de animal doméstico, e tens de dá-los aos levitas, os que cuidam da obrigação para com o tabernáculo de Jeová.”
+
+[NOTE]
+====
+. “Tirar um dentre cinqüenta”, de acordo com LXXSyVg; M: “tirar um confiscado [ou: tomado aritmeticamente] dentre cinqüenta”.
+====
+
+[[v4-31-31]]
+
+^<<v4-31-31,31>>^ E Moisés e Eleazar, o sacerdote, foram fazer assim como Jeová mandara a Moisés.
+
+[[v4-31-32]]
+
+^<<v4-31-32,32>>^ E a presa, o resto do saque que o povo da expedição tinha tomado como saque, somou seiscentos e setenta e cinco mil do rebanho,
+
+[[v4-31-33]]
+
+^<<v4-31-33,33>>^ e setenta e dois mil da manada,
+
+[[v4-31-34]]
+
+^<<v4-31-34,34>>^ e sessenta e um mil jumentos.
+
+[[v4-31-35]]
+
+^<<v4-31-35,35>>^ Quanto às almas humanas dentre as mulheres que não conheceram o ato de se deitar com um macho, todas as almas foram trinta e duas mil.
+
+[[v4-31-36]]
+
+^<<v4-31-36,36>>^ E a metade que foi o quinhão dos que saíram na expedição somou em número trezentos e trinta e sete mil e quinhentos do rebanho.
+
+[[v4-31-37]]
+
+^<<v4-31-37,37>>^ E o imposto para Jeová, dentre o rebanho, somou seiscentos e setenta e cinco.
+
+[[v4-31-38]]
+
+^<<v4-31-38,38>>^ E da manada foram trinta e seis mil, e o imposto deles para Jeová foi de setenta e dois.
+
+[[v4-31-39]]
+
+^<<v4-31-39,39>>^ E os jumentos foram trinta mil e quinhentos, e o imposto deles para Jeová foi de sessenta e um.
+
+[[v4-31-40]]
+
+^<<v4-31-40,40>>^ E as almas humanas foram dezesseis mil, e o imposto delas para Jeová foi de trinta e duas almas.
+
+[[v4-31-41]]
+
+^<<v4-31-41,41>>^ Então Moisés deu o imposto a Eleazar, o sacerdote, como contribuição [pertencente a] Jeová, assim como Jeová mandara a Moisés.
+
+[[v4-31-42]]
+
+^<<v4-31-42,42>>^ E da metade pertencente aos filhos de Israel, que Moisés dividiu daquela pertencente aos homens que travaram a guerra:
+
+[[v4-31-43]]
+
+^<<v4-31-43,43>>^ Ora, a metade [pertencente à] assembléia, dentre o rebanho, somou trezentos e trinta e sete mil e quinhentos,
+
+[[v4-31-44]]
+
+^<<v4-31-44,44>>^ e da manada, trinta e seis mil,
+
+[[v4-31-45]]
+
+^<<v4-31-45,45>>^ e os jumentos, trinta mil e quinhentos,
+
+[[v4-31-46]]
+
+^<<v4-31-46,46>>^ e as almas humanas, dezesseis mil.
+
+[[v4-31-47]]
+
+^<<v4-31-47,47>>^ Moisés tomou então da metade pertencente aos filhos de Israel aquele a ser tirado dentre cinqüenta,^&#42;1^ do gênero humano e dos animais domésticos, e deu-os aos levitas, os que cuidavam da obrigação para com o tabernáculo de Jeová, assim como Jeová mandara a Moisés.
+
+[NOTE]
+====
+. Veja v. 30 n.
+====
+
+[[v4-31-48]]
+
+^<<v4-31-48,48>>^ E os homens designados, que eram dos milhares do exército, os chefes dos milhares e os chefes das centenas, passaram a aproximar-se de Moisés
+
+[[v4-31-49]]
+
+^<<v4-31-49,49>>^ e a dizer a Moisés: “Teus servos fizeram a soma dos homens de guerra que estão ao nosso cargo e nem um único foi relatado como nos faltando.
+
+[[v4-31-50]]
+
+^<<v4-31-50,50>>^ Portanto, apresentemos cada um o que ele achou como oferta de Jeová, objetos de ouro, correntinhas para os tornozelos e pulseiras, anéis de sinete, arrecadas e enfeites femininos, a fim de fazer expiação pelas nossas almas perante Jeová.”
+
+[[v4-31-51]]
+
+^<<v4-31-51,51>>^ Por conseguinte, Moisés e Eleazar, o sacerdote, aceitaram deles o ouro, todas as jóias.
+
+[[v4-31-52]]
+
+^<<v4-31-52,52>>^ E todo o ouro da contribuição que fizeram a Jeová somou dezesseis mil setecentos e cinqüenta siclos, da parte dos chefes dos milhares e dos chefes das centenas.
+
+[[v4-31-53]]
+
+^<<v4-31-53,53>>^ Os homens do exército tinham saqueado cada um por si.
+
+[[v4-31-54]]
+
+^<<v4-31-54,54>>^ Assim, Moisés e Eleazar, o sacerdote, aceitaram o ouro da parte dos chefes dos milhares e das centenas, e o levaram para dentro da tenda de reunião como recordação para os filhos de Israel perante Jeová.
+
+'''
+
+xref:004-numeros/004-numeros-030.adoc#v4-30-0[&#60; Capítulo Anterior] | <<v4-31-0,Topo>> | xref:004-numeros/004-numeros-032.adoc#v4-32-0[Próximo Capítulo &#62;]

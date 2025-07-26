@@ -1,0 +1,200 @@
+include::./index.adoc[]
+
+[[v3-19-0]]
+=== Levítico, 19
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-19-1]]
+
+^<<v3-19-1,1>>^ E Jeová falou mais a Moisés, dizendo:
+
+[[v3-19-2]]
+
+^<<v3-19-2,2>>^ “Fala à assembléia inteira dos filhos de Israel, e tens de dizer-lhes: ‘Deveis mostrar-vos santos, porque eu, Jeová, vosso Deus, sou santo.
+
+[[v3-19-3]]
+
+^<<v3-19-3,3>>^ “‘Cada um de vós deve temer sua mãe e seu pai,^&#42;1^ e deveis guardar os meus sábados. Eu sou Jeová, vosso Deus.
+
+[NOTE]
+====
+. Segundo MVg; LXXSyVgc: “seu pai e sua mãe”.
+====
+
+[[v3-19-4]]
+
+^<<v3-19-4,4>>^ Não vos vireis para deuses que nada valem^&#42;1^ e não deveis fazer para vós deuses fundidos. Eu sou Jeová, vosso Deus.
+
+[NOTE]
+====
+. “Para ídolos”, LXXVg.
+====
+
+[[v3-19-5]]
+
+^<<v3-19-5,5>>^ “‘Ora, caso ofereçais a Jeová um sacrifício de participação em comum, deveis sacrificá-lo para ganhar aprovação para vós.
+
+[[v3-19-6]]
+
+^<<v3-19-6,6>>^ Deve ser comido no dia de vosso sacrifício e logo no dia seguinte, mas o que sobrar até o terceiro dia deve ser queimado em fogo.
+
+[[v3-19-7]]
+
+^<<v3-19-7,7>>^ Porém, se é que for comido no terceiro dia, é uma coisa imunda. Não será aceito com aprovação.
+
+[[v3-19-8]]
+
+^<<v3-19-8,8>>^ E quem^&#42;1^ o comer, responderá pelo seu erro, porque profanou uma coisa sagrada de Jeová; e essa alma tem de ser decepada do seu povo.
+
+[NOTE]
+====
+. “Quem”, SamLXXSy; M: “aqueles que”.
+====
+
+[[v3-19-9]]
+
+^<<v3-19-9,9>>^ “‘E quando ceifardes a colheita da vossa terra, não deves ceifar completamente o canto do teu campo e não deves apanhar a respiga da tua colheita.
+
+[[v3-19-10]]
+
+^<<v3-19-10,10>>^ Tampouco deves rebuscar as sobras do teu vinhedo e não deves apanhar as uvas espalhadas do teu vinhedo. Deves deixá-los para o atribulado e para o residente forasteiro. Eu sou Jeová, vosso Deus.
+
+[[v3-19-11]]
+
+^<<v3-19-11,11>>^ “‘Não deveis furtar e não deveis enganar, e não deveis tratar com falsidade, qualquer um ao seu colega.
+
+[[v3-19-12]]
+
+^<<v3-19-12,12>>^ E não deveis jurar mentira em meu nome, de modo a profanares o nome de teu Deus. Eu sou Jeová.
+
+[[v3-19-13]]
+
+^<<v3-19-13,13>>^ Não deves defraudar o teu próximo e não deves roubar. A remuneração dum trabalhador contratado não deve ficar contigo a noite toda até à manhã.
+
+[[v3-19-14]]
+
+^<<v3-19-14,14>>^ “‘Não deves invocar o mal sobre um surdo e não deves pôr obstáculo diante dum cego; e tens de ter temor de teu Deus. Eu sou Jeová.
+
+[[v3-19-15]]
+
+^<<v3-19-15,15>>^ “‘Não deveis fazer injustiça no julgamento. Não deves tratar com parcialidade ao de condição humilde e não deves dar preferência à pessoa do grande. Com justiça deves julgar o teu colega.
+
+[[v3-19-16]]
+
+^<<v3-19-16,16>>^ “‘Não deves estar andando entre o teu povo com o objetivo de caluniar. Não te deves pôr de pé contra o sangue do teu próximo. Eu sou Jeová.
+
+[[v3-19-17]]
+
+^<<v3-19-17,17>>^ “‘Não deves odiar teu irmão no teu coração. Decerto deves repreender o teu colega, para que não leves o pecado junto com ele.
+
+[[v3-19-18]]
+
+^<<v3-19-18,18>>^ “‘Não deves tomar vingança nem ter ressentimento contra os filhos do teu povo; e tens de amar o teu próximo como a ti mesmo. Eu sou Jeová.
+
+[[v3-19-19]]
+
+^<<v3-19-19,19>>^ “‘Deveis guardar os meus estatutos: Não deves cruzar dois tipos dos teus animais domésticos. Não deves semear teu campo com dois tipos de sementes e não te deves vestir de uma roupa de dois tipos de fios mesclados.
+
+[[v3-19-20]]
+
+^<<v3-19-20,20>>^ “‘Ora, caso um homem se deite com uma mulher e tenha uma emissão de sêmen, sendo ela serva designada a outro homem e ela não tenha sido de algum modo remida, nem se lhe tenha dado a liberdade, deve haver^&#42;1^ punição.^&#42;2^ Não devem^&#42;3^ ser mortos, porque ela não fora posta em liberdade.
+
+[NOTE]
+====
+. Sam acrescenta: “para ele”.
+. Ou “uma investigação”.
+. “Devem”, MLXX; Sam: “deve”.
+====
+
+[[v3-19-21]]
+
+^<<v3-19-21,21>>^ E ele tem de trazer a Jeová a sua oferta pela culpa, à entrada da tenda de reunião, um carneiro de oferta pela culpa.
+
+[[v3-19-22]]
+
+^<<v3-19-22,22>>^ E o sacerdote tem de fazer expiação por ele perante Jeová com o carneiro da oferta pela culpa, pelo pecado que cometeu; e o pecado que cometeu tem de ser-lhe perdoado.
+
+[[v3-19-23]]
+
+^<<v3-19-23,23>>^ “‘E quando entrardes no país e tiverdes de plantar qualquer árvore para alimento, então tereis de considerar seu fruto impuro, como seu “prepúcio”. Por três anos continuará para vós incircunciso. Não deve ser comido.
+
+[[v3-19-24]]
+
+^<<v3-19-24,24>>^ Mas no quarto ano, todo o seu fruto se tornará algo santo de exultação festiva para Jeová.
+
+[[v3-19-25]]
+
+^<<v3-19-25,25>>^ E no quinto ano podeis comer do seu fruto, a fim de acrescentardes para vós os seus produtos. Eu sou Jeová, vosso Deus.
+
+[[v3-19-26]]
+
+^<<v3-19-26,26>>^ “‘Não deveis comer coisa alguma com sangue.
+“‘Não deveis procurar presságios e não deveis praticar a magia.
+
+[[v3-19-27]]
+
+^<<v3-19-27,27>>^ “‘Não deveis cortar curtas as vossas madeixas laterais^&#42;1^ ao redor, e não deves destruir a extremidade de tua barba.
+
+[NOTE]
+====
+. Lit.: “o canto (a extremidade) da vossa cabeça”.
+====
+
+[[v3-19-28]]
+
+^<<v3-19-28,28>>^ “‘E não vos deveis fazer cortes na carne em prol duma alma^&#42;1^ falecida e não deveis fazer tatuagem em vós. Eu sou Jeová.
+
+[NOTE]
+====
+. Lit.: “em prol duma alma”, isto é, duma alma falecida. Hebr.: la·né·fesh; gr.: psy·kheí. Veja 21:11 n.; Núm 6:6 n.
+====
+
+[[v3-19-29]]
+
+^<<v3-19-29,29>>^ “‘Não profanes a tua filha por fazer dela uma prostituta, para que o país não cometa prostituição, nem o país deveras se encha de moral desenfreada.
+
+[[v3-19-30]]
+
+^<<v3-19-30,30>>^ “‘Deveis guardar os meus sábados e deveis ter espanto reverente do meu santuário. Eu sou Jeová.
+
+[[v3-19-31]]
+
+^<<v3-19-31,31>>^ “‘Não vos vireis para médiuns espíritas^&#42;1^ e não consulteis prognosticadores profissionais de eventos, de modo a vos tornardes impuros por eles. Eu sou Jeová, vosso Deus.
+
+[NOTE]
+====
+. “Médiuns espíritas.” Agentes usados como instrumentos dum demônio de adivinhação. LXX: “ventríloquos”; lat.: má·gos, “astrólogos”. Veja At 16:16.
+====
+
+[[v3-19-32]]
+
+^<<v3-19-32,32>>^ “‘Deves levantar-te diante do cabelo grisalho e tens de mostrar consideração para com a pessoa dum homem idoso, e tens de ter temor de teu Deus. Eu sou Jeová.
+
+[[v3-19-33]]
+
+^<<v3-19-33,33>>^ “‘E caso um residente forasteiro resida contigo no vosso país, não deveis maltratá-lo.
+
+[[v3-19-34]]
+
+^<<v3-19-34,34>>^ O residente forasteiro que reside convosco deve tornar-se para vós como o vosso natural; e tens de amá-lo como a ti mesmo, pois vos tornastes residentes forasteiros na terra do Egito. Eu sou Jeová, vosso Deus.
+
+[[v3-19-35]]
+
+^<<v3-19-35,35>>^ “‘Não deveis cometer injustiça no julgamento, na medida, no peso ou na medida de líquidos.
+
+[[v3-19-36]]
+
+^<<v3-19-36,36>>^ Deveis mostrar ter balanças exatas, pesos^&#42;1^ exatos, um efa exato e um him exato. Sou Jeová, vosso Deus, que vos fiz sair da terra do Egito.
+
+[NOTE]
+====
+. Lit.: “pedras”.
+====
+
+[[v3-19-37]]
+
+^<<v3-19-37,37>>^ De modo que tendes de guardar todos os meus estatutos e todas as minhas decisões judiciais, e tendes de cumpri-los. Eu sou Jeová.’”
+
+'''
+
+xref:003-levitico/003-levitico-018.adoc#v3-18-0[&#60; Capítulo Anterior] | <<v3-19-0,Topo>> | xref:003-levitico/003-levitico-020.adoc#v3-20-0[Próximo Capítulo &#62;]

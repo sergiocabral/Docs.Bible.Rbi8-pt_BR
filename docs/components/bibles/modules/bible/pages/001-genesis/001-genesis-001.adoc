@@ -1,3 +1,205 @@
-= Título da Tradução Aqui
+include::./index.adoc[]
 
-Este é um arquivo modelo. Coloque o conteúdo da tradução da Bíblia desejada na pasta acima deste arquivo.
+[[v1-1-0]]
+=== Gênesis, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-1-1]]
+
+^<<v1-1-1,1>>^ No princípio^&#42;1^ Deus^&#42;2^ criou os céus e a terra.
+
+[NOTE]
+====
+. “No princípio.” Hebr.: Bere’·shíth. Este primeiro livro da Bíblia deriva seu nome hebraico desta palavra inicial. LXXVg chamam o livro de “Gênesis”.
+. “Deus.” Hebr.: אֱלהִים (’Elo·hím), sem o artigo definido. ’Elo·hím, “Deus”, com o artigo definido ocorre pela primeira vez em 5:22. O título ’Elo·hím está no plural para denotar excelência ou majestade, não uma personalidade múltipla ou uma multiplicidade de deuses. Gr.: ὁ θεός (ho The·ós), sing., para denotar um “Deus” individual. Veja Jz 16:23 n.
+====
+
+[[v1-1-2]]
+
+^<<v1-1-2,2>>^ Ora, a terra mostrava ser sem forma e vazia, e havia escuridão sobre a superfície da água de profundeza;^&#42;1^ e a força ativa^&#42;2^ de Deus movia-se por cima da superfície das águas.
+
+[NOTE]
+====
+. Ou “águas empoladas; oceano primevo”. Hebr.: thehóhm; gr.: a·býs·sou, “abismo”; lat.: a·býs·si. Veja 7:11 n.: “profundeza”. Compare isso com 6:17 n.: “dilúvio”.
+. “E a força ativa (espírito).” Hebr.: werú·ahh. Além de ser traduzido por “espírito”, rú·ahh é também traduzido por “vento” e por outras palavras que denotam uma força ativa, invisível. Veja 3:8 n.: “viração”; 8:1 n.
+====
+
+[[v1-1-3]]
+
+^<<v1-1-3,3>>^ E Deus passou a dizer:^&#42;1^ “Venha a haver luz.” Então veio a haver luz.
+
+[NOTE]
+====
+. “E . . . passou a dizer.” Heb.: wai·yó’·mer. No primeiro capítulo de Gênesis, é o primeiro de mais de 40 casos de ação progressiva indicada por um verbo hebr. no imperfeito. Veja Ap. 3C.
+====
+
+[[v1-1-4]]
+
+^<<v1-1-4,4>>^ Depois, Deus viu que a luz era boa e Deus fez separação entre a luz e a escuridão.
+
+[[v1-1-5]]
+
+^<<v1-1-5,5>>^ E Deus começou a chamar a luz de Dia, mas a escuridão chamou de Noite. E veio a ser noitinha e veio a ser manhã, primeiro dia.
+
+[[v1-1-6]]
+
+^<<v1-1-6,6>>^ E Deus prosseguiu, dizendo: “Venha a haver uma expansão entre as águas e ocorra uma separação entre águas e águas.”
+
+[[v1-1-7]]
+
+^<<v1-1-7,7>>^ Deus passou então a fazer a expansão e a fazer separação entre as águas que haviam de ficar debaixo da expansão e as águas que haviam de ficar por cima da expansão. E assim se deu.
+
+[[v1-1-8]]
+
+^<<v1-1-8,8>>^ E Deus começou a chamar a expansão de Céu. E veio a ser noitinha e veio a ser manhã, segundo dia.
+
+[[v1-1-9]]
+
+^<<v1-1-9,9>>^ E Deus prosseguiu, dizendo: “Ajuntem-se as águas debaixo dos céus num só lugar e apareça a terra seca.” E assim se deu.
+
+[[v1-1-10]]
+
+^<<v1-1-10,10>>^ E Deus começou a chamar a terra seca de Terra, mas o ajuntamento de águas chamou de Mares. Ademais, Deus viu que [era] bom.
+
+[[v1-1-11]]
+
+^<<v1-1-11,11>>^ E Deus prosseguiu, dizendo: “Faça a terra brotar relva, vegetação que dê semente, árvores frutíferas que dêem fruto segundo as suas espécies,^&#42;1^ cuja semente esteja nele, sobre a terra.” E assim se deu.
+
+[NOTE]
+====
+. Lit.: “segundo a sua espécie (gênero)”. Hebr.: lemi·nóh; gr.: gé·nos; lat.: gé·nus. Aqui, o termo “espécie” se refere a uma espécie ou família criada, segundo o seu significado mais antigo, não segundo é usado atualmente por evolucionistas.
+====
+
+[[v1-1-12]]
+
+^<<v1-1-12,12>>^ E a terra começou a produzir relva, vegetação que dava semente segundo a sua espécie e árvores que davam fruto, cuja semente estava nele, segundo a sua espécie. Deus viu então que [era] bom.
+
+[[v1-1-13]]
+
+^<<v1-1-13,13>>^ E veio a ser noitinha e veio a ser manhã, terceiro dia.
+
+[[v1-1-14]]
+
+^<<v1-1-14,14>>^ E Deus prosseguiu, dizendo: “Venha a haver luzeiros na expansão dos céus para fazerem separação entre o dia e a noite; e eles terão de servir de sinais, e para épocas, e para dias, e para anos.
+
+[[v1-1-15]]
+
+^<<v1-1-15,15>>^ E terão de servir de luzeiros na expansão dos céus, para iluminarem a terra.” E assim se deu.
+
+[[v1-1-16]]
+
+^<<v1-1-16,16>>^ E Deus passou a fazer^&#42;1^ os dois grandes luzeiros, o luzeiro maior para dominar o dia e o luzeiro menor para dominar a noite, e também as estrelas.
+
+[NOTE]
+====
+. “E . . . passou a fazer.” Hebr.: wai·yá·‛as (de ‛a·sáh). É diferente de “criar” (ba·rá’) encontrado nos vv. 1, 21, 27; 2:3. O verbo hebr. no imperfeito indica ação progressiva. Veja Ap. 3C.
+====
+
+[[v1-1-17]]
+
+^<<v1-1-17,17>>^ Assim, Deus os pôs na expansão dos céus para iluminarem a terra
+
+[[v1-1-18]]
+
+^<<v1-1-18,18>>^ e para dominarem de dia e de noite, e para fazerem separação entre a luz e a escuridão. Deus viu então que [era] bom.
+
+[[v1-1-19]]
+
+^<<v1-1-19,19>>^ E veio a ser noitinha e veio a ser manhã, quarto dia.
+
+[[v1-1-20]]
+
+^<<v1-1-20,20>>^ E Deus prosseguiu, dizendo: “Produzam as águas um enxame de almas viventes^&#42;1^ e voem criaturas voadoras sobre a terra, na face da expansão dos céus.”
+
+[NOTE]
+====
+. “De almas viventes.” Gr.: ψυχῶν ζωσῶν (psy·khón zo·són, pl.); hebr.: né·fesh hhai·yáh, sing., referindo-se a animais marinhos. No hebr., a mesma expressão é usada com referência ao homem, em 2:7. Veja Ap. 4A.
+====
+
+[[v1-1-21]]
+
+^<<v1-1-21,21>>^ E Deus passou a criar^&#42;1^ os grandes monstros marinhos e toda alma vivente^&#42;2^ que se move, que as águas produziram em enxames segundo as suas espécies, e toda criatura voadora alada segundo a sua espécie. E Deus pôde ver que [era] bom.
+
+[NOTE]
+====
+. “E . . . passou a criar.” Hebr.: wai·yiv·rá’ (de ba·rá’). O verbo hebr. no imperfeito indica ação progressiva. Veja Ap. 3C.
+. “Alma vivente.” Hebr.: né·fesh ha·hhai·yáh, sing.; gr.: ψυχὴν ζῴων (psy·khén [sing.] zoí·on [pl.], “alma de viventes”).
+====
+
+[[v1-1-22]]
+
+^<<v1-1-22,22>>^ Então, Deus os abençoou, dizendo: “Sede fecundos e tornai-vos muitos, e enchei as águas das bacias marítimas, e tornem-se muitas as criaturas voadoras na terra.”
+
+[[v1-1-23]]
+
+^<<v1-1-23,23>>^ E veio a ser noitinha e veio a ser manhã, quinto dia.
+
+[[v1-1-24]]
+
+^<<v1-1-24,24>>^ E Deus prosseguiu, dizendo: “Produza a terra almas viventes segundo as suas espécies, animal doméstico,^&#42;1^ e animal movente, e animal selvático^&#42;2^ da terra, segundo a sua espécie.” E assim se deu.
+
+[NOTE]
+====
+. Ou “animal manso”. Hebr. behe·máh, sing. Veja Jó 40:15 n.
+. Ou “e criatura vivente”. Hebr.: wehha·yethóh. Também “criatura vivente” no v. 28.
+====
+
+[[v1-1-25]]
+
+^<<v1-1-25,25>>^ E Deus passou a fazer o animal selvático da terra segundo a sua espécie, e o animal doméstico segundo a sua espécie, e todo animal movente do solo segundo a sua espécie. E Deus pôde ver que [era] bom.
+
+[[v1-1-26]]
+
+^<<v1-1-26,26>>^ E Deus^&#42;1^ prosseguiu, dizendo: “Façamos^&#42;2^ [o] homem^&#42;3^ à nossa imagem,^&#42;4^ segundo a nossa semelhança, e tenham eles em sujeição os peixes do mar, e as criaturas voadoras dos céus, e os animais domésticos, e toda a terra, e todo animal movente que se move sobre a terra.”
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím. Veja v. 1 n.: “Deus”.
+. “Façamos.” Hebr.: na·‛aséh. Veja v. 16 n.
+. Ou “homem terreno”. Hebr.: ’a·dhám, sem o artigo definido.
+. “À nossa imagem (sombra; semelhança).” Hebr.: betsal·mé·nu.
+====
+
+[[v1-1-27]]
+
+^<<v1-1-27,27>>^ E Deus passou a criar o homem à sua imagem, à imagem de Deus o criou; macho e fêmea os criou.
+
+[[v1-1-28]]
+
+^<<v1-1-28,28>>^ Ademais, Deus os abençoou e Deus lhes disse: “Sede fecundos e tornai-vos muitos, e enchei a terra, e sujeitai-a, e tende em sujeição os peixes do mar, e as criaturas voadoras dos céus, e toda criatura vivente que se move^&#42;1^ na terra.”
+
+[NOTE]
+====
+. Ou “que rasteja”. Hebr.: ha·ro·mé·seth; lat.: quae mo·vén·tur.
+====
+
+[[v1-1-29]]
+
+^<<v1-1-29,29>>^ E Deus prosseguiu, dizendo: “Eis^&#42;1^ que vos tenho dado toda a vegetação que dá semente, que há na superfície de toda a terra, e toda árvore em que há fruto de árvore que dá semente. Sirva-vos de alimento.
+
+[NOTE]
+====
+. Ou: “Vede.” Hebr.: hin·néh.
+====
+
+[[v1-1-30]]
+
+^<<v1-1-30,30>>^ E a todo animal selvático da terra, e a toda criatura voadora dos céus, e a tudo o que se move sobre a terra, em que há vida como alma,^&#42;1^ tenho dado toda a vegetação verde por alimento.” E assim se deu.
+
+[NOTE]
+====
+. Lit.: “alma vivente”. Hebr.: né·fesh hhai·yáh, também vertido por “alma(s) vivente(s)” no v. 20; 2:7.
+====
+
+[[v1-1-31]]
+
+^<<v1-1-31,31>>^ Depois, Deus viu tudo o que tinha feito, e eis que [era] muito bom. E veio a ser noitinha e veio a ser manhã, sexto dia.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “um dia, o sexto”.
+====
+
+'''
+
+**&#60; Capítulo Anterior** | <<v1-1-0,Topo>> | xref:001-genesis/001-genesis-002.adoc#v1-2-0[Próximo Capítulo &#62;]

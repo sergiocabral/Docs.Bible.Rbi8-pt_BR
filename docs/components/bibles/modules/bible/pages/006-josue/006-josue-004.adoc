@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v6-4-0]]
+=== Josué, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-4-1]]
+
+^<<v6-4-1,1>>^ E sucedeu que, assim que a nação inteira tinha completado a travessia do Jordão, Jeová passou a dizer a Josué:
+
+[[v6-4-2]]
+
+^<<v6-4-2,2>>^ “Tomai para vós doze homens dentre o povo, um homem de cada tribo,
+
+[[v6-4-3]]
+
+^<<v6-4-3,3>>^ e ordenai-lhes, dizendo: ‘Tomai para vós doze pedras do próprio meio do Jordão, do lugar onde os pés dos sacerdotes ficaram imóveis, e tendes de carregá-las convosco e colocá-las no lugar de pousada onde ficareis esta noite.’”
+
+[[v6-4-4]]
+
+^<<v6-4-4,4>>^ Josué chamou, pois, doze homens que havia designado dentre os filhos de Israel, um homem de cada tribo;
+
+[[v6-4-5]]
+
+^<<v6-4-5,5>>^ e Josué passou a dizer-lhes: “Passai adiante da arca de Jeová, vosso Deus, até o meio do Jordão e levantai para vós cada qual uma pedra sobre o seu ombro, segundo o número das tribos dos filhos de Israel,
+
+[[v6-4-6]]
+
+^<<v6-4-6,6>>^ a fim de que isto sirva de sinal no vosso meio. Se os vossos filhos perguntarem num tempo futuro, dizendo: ‘Por que tens estas pedras?’
+
+[[v6-4-7]]
+
+^<<v6-4-7,7>>^ então tereis de dizer-lhes: ‘É porque as águas do Jordão foram cortadas de diante da arca do pacto de Jeová. Quando ela atravessou o Jordão, foram cortadas as águas do Jordão, e estas pedras têm de servir de recordação para os filhos de Israel, por tempo indefinido.’”
+
+[[v6-4-8]]
+
+^<<v6-4-8,8>>^ Concordemente, os filhos de Israel fizeram isso, assim como Josué mandara, e tomaram doze pedras do meio do Jordão, assim como Jeová havia declarado a Josué, para corresponder ao número das tribos dos filhos de Israel; e foram levá-las consigo para o lugar de pousada e colocá-las ali.
+
+[[v6-4-9]]
+
+^<<v6-4-9,9>>^ Havia também doze pedras que Josué erigiu no meio do Jordão, no lugar em que estiveram parados os pés dos sacerdotes que carregavam a arca do pacto, e elas continuam ali até o dia de hoje.
+
+[[v6-4-10]]
+
+^<<v6-4-10,10>>^ E os sacerdotes que carregavam a arca ficaram parados no meio do Jordão até que se completou todo o assunto que Jeová mandara Josué falar ao povo, segundo tudo o que Moisés havia ordenado a Josué. No ínterim o povo se apressava e passava.
+
+[[v6-4-11]]
+
+^<<v6-4-11,11>>^ E sucedeu que assim que todo o povo tinha completado a travessia, então atravessou a arca de Jeová, bem como os sacerdotes, diante do povo.
+
+[[v6-4-12]]
+
+^<<v6-4-12,12>>^ E os filhos de Rubem e os filhos de Gade, e a meia tribo de Manassés, passaram a atravessar em formação de batalha à vista dos filhos de Israel, assim como Moisés lhes havia declarado.
+
+[[v6-4-13]]
+
+^<<v6-4-13,13>>^ Cerca de quarenta mil equipados para o exército passaram diante de Jeová para a guerra, para as planícies desérticas de Jericó.
+
+[[v6-4-14]]
+
+^<<v6-4-14,14>>^ Naquele dia, Jeová engrandeceu a Josué aos olhos de todo o Israel e eles começaram a temê-lo assim como haviam temido a Moisés todos os dias da sua vida.
+
+[[v6-4-15]]
+
+^<<v6-4-15,15>>^ Jeová disse então a Josué:
+
+[[v6-4-16]]
+
+^<<v6-4-16,16>>^ “Ordena aos sacerdotes que carregam a arca do testemunho que subam do Jordão.”
+
+[[v6-4-17]]
+
+^<<v6-4-17,17>>^ Portanto, Josué ordenou aos sacerdotes, dizendo: “Subi do Jordão.”
+
+[[v6-4-18]]
+
+^<<v6-4-18,18>>^ E sucedeu que, quando os sacerdotes que carregavam a arca do pacto de Jeová subiram do meio do Jordão e as solas dos pés dos sacerdotes foram retiradas para solo seco, então as águas do Jordão começaram a retornar ao seu lugar e transbordavam, como antes, todas as suas ribanceiras.
+
+[[v6-4-19]]
+
+^<<v6-4-19,19>>^ E o povo subiu do Jordão no décimo [dia] do primeiro mês e foi acampar-se em Gilgal, nos limites orientais de Jericó.
+
+[[v6-4-20]]
+
+^<<v6-4-20,20>>^ Quanto às doze pedras que haviam tirado do Jordão, estas Josué erigiu em Gilgal.
+
+[[v6-4-21]]
+
+^<<v6-4-21,21>>^ E prosseguiu, dizendo aos filhos de Israel: “Quando os vossos filhos perguntarem a seus pais num tempo futuro, dizendo: ‘Que significam estas pedras?’
+
+[[v6-4-22]]
+
+^<<v6-4-22,22>>^ então tereis de deixar os vossos filhos saber, dizendo: ‘Foi em terra seca que Israel atravessou este Jordão
+
+[[v6-4-23]]
+
+^<<v6-4-23,23>>^ quando Jeová, vosso Deus, secou as águas do Jordão diante deles^&#42;1^ até que tinham^&#42;2^ passado, assim como Jeová, vosso Deus, fizera com o Mar Vermelho quando o secou diante de nós até que tínhamos passado;
+
+[NOTE]
+====
+. “Deles”, LXXSy; MVg: “de vós”.
+. “Tinham”, LXXSy; MVg: “tínheis”.
+====
+
+[[v6-4-24]]
+
+^<<v6-4-24,24>>^ para que todos os povos da terra conhecessem a mão de Jeová, que ela é forte; a fim de que deveras temêsseis a Jeová, vosso Deus, para sempre.’”
+
+'''
+
+xref:006-josue/006-josue-003.adoc#v6-3-0[&#60; Capítulo Anterior] | <<v6-4-0,Topo>> | xref:006-josue/006-josue-005.adoc#v6-5-0[Próximo Capítulo &#62;]

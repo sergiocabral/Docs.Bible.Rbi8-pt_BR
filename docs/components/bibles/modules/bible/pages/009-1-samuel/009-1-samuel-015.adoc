@@ -1,0 +1,210 @@
+include::./index.adoc[]
+
+[[v9-15-0]]
+=== 1 Samuel, 15
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-15-1]]
+
+^<<v9-15-1,1>>^ Samuel disse então a Saul: “Foi a mim que Jeová enviou para ungir-te rei sobre o seu povo Israel, e agora escuta a voz das palavras de Jeová.
+
+[[v9-15-2]]
+
+^<<v9-15-2,2>>^ Assim disse Jeová dos exércitos: ‘Tenho de ajustar contas pelo que Amaleque fez a Israel quando se opôs a ele no caminho enquanto subia do Egito.
+
+[[v9-15-3]]
+
+^<<v9-15-3,3>>^ Agora vai, e tens de golpear Amaleque e devotá-lo à destruição, junto com tudo o que ele tem, e não deves ter compaixão dele, e tens de entregá-los à morte, tanto o homem como a mulher, tanto a criança como o bebê, tanto o touro como o ovídeo, tanto o camelo como o jumento.’”
+
+[[v9-15-4]]
+
+^<<v9-15-4,4>>^ Conseqüentemente, Saul convocou o povo e fez a contagem deles em Telaim, duzentos mil homens a pé e dez mil homens de Judá.
+
+[[v9-15-5]]
+
+^<<v9-15-5,5>>^ E Saul passou a chegar até a cidade de Amaleque e a pôr-se de emboscada junto ao vale da torrente.
+
+[[v9-15-6]]
+
+^<<v9-15-6,6>>^ Entrementes, Saul dissera aos queneus: “Ide, retirai-vos, descei do meio dos amalequitas, para que eu não te arrase^&#42;1^ junto com eles. Quanto a ti, usaste de benevolência^&#42;2^ para com todos os filhos de Israel no tempo em que subiram do Egito.” Portanto, os queneus retiraram-se do meio de Amaleque.
+
+[NOTE]
+====
+. “Te arrase”, mediante uma ligeira emenda; M: “te ajunte (recolha)”.
+. Ou “amor leal”.
+====
+
+[[v9-15-7]]
+
+^<<v9-15-7,7>>^ Depois, Saul foi golpear Amaleque desde Havilá até Sur, que está defronte do Egito.
+
+[[v9-15-8]]
+
+^<<v9-15-8,8>>^ E chegou a pegar vivo a Agague, rei de Amaleque, e todo o resto do povo ele devotou à destruição com o fio da espada.
+
+[[v9-15-9]]
+
+^<<v9-15-9,9>>^ Mas Saul, e o povo, teve compaixão de Agague e do melhor do rebanho e da manada, e dos cevados,^&#42;1^ e dos carneiros, e de tudo o que era bom, e não quiseram devotá-los à destruição. Quanto a todos os bens que eram desprezíveis e rejeitados, estes devotaram à destruição.
+
+[NOTE]
+====
+. “Cevados”, T; M: “animais da segunda cria”, portanto, mais valiosos.
+====
+
+[[v9-15-10]]
+
+^<<v9-15-10,10>>^ Veio^&#42;1^ então a palavra de Jeová a Samuel, dizendo:
+
+[NOTE]
+====
+. Ou “ocorreu; veio a haver”.
+====
+
+[[v9-15-11]]
+
+^<<v9-15-11,11>>^ “Deveras deploro ter feito Saul reinar como rei, porque recuou de me seguir e não cumpriu as minhas palavras.” E isso era aflitivo para Samuel,^&#42;1^ e ele foi clamar a Jeová a noite inteira.
+
+[NOTE]
+====
+. “Era aflitivo para Samuel”, mediante uma ligeira emenda; M: “Samuel ficou irado”.
+====
+
+[[v9-15-12]]
+
+^<<v9-15-12,12>>^ Samuel levantou-se então cedo para se encontrar com Saul de manhã. Mas, informou-se a Samuel, dizendo: “Saul chegou a Carmelo, e eis que estava erigindo para si um monumento, e depois deu volta, atravessou e desceu a Gilgal.”
+
+[[v9-15-13]]
+
+^<<v9-15-13,13>>^ Por fim, Samuel veio ter com Saul, e Saul começou a dizer-lhe: “Bendito és por Jeová. Cumpri a palavra de Jeová.”
+
+[[v9-15-14]]
+
+^<<v9-15-14,14>>^ Mas Samuel disse: “Então o que significa este som do rebanho nos meus ouvidos, bem como o som da manada que estou ouvindo?”
+
+[[v9-15-15]]
+
+^<<v9-15-15,15>>^ A isso Saul disse: “Trouxeram-nos dos amalequitas, porque o povo teve compaixão do melhor do rebanho e da manada, com o fim de sacrificá-lo a Jeová, teu Deus; mas o que sobrou devotamos à destruição.”
+
+[[v9-15-16]]
+
+^<<v9-15-16,16>>^ A isso Samuel disse a Saul: “Pára! E eu te comunicarei o que Jeová me falou na noite passada.” De modo que ele^&#42;1^ lhe disse: “Fala!”
+
+[NOTE]
+====
+. “Ele”, Mmargem; M: “eles”.
+====
+
+[[v9-15-17]]
+
+^<<v9-15-17,17>>^ E Samuel prosseguiu, dizendo: “Não foi quando eras pequeno aos teus próprios olhos que eras cabeça das tribos de Israel e Jeová passou a ungir-te rei sobre Israel?
+
+[[v9-15-18]]
+
+^<<v9-15-18,18>>^ Mais tarde Jeová te enviou numa missão e disse: ‘Vai, e tens de devotar à destruição os pecadores, os amalequitas,^&#42;1^ e tens de lutar contra eles até que os tenhas exterminado.’
+
+[NOTE]
+====
+. Lit.: “Amaleque”.
+====
+
+[[v9-15-19]]
+
+^<<v9-15-19,19>>^ Portanto, por que é que não obedeceste à voz de Jeová, mas foste lançar-te avidamente sobre o despojo e fazer o que era mau aos olhos de Jeová?”
+
+[[v9-15-20]]
+
+^<<v9-15-20,20>>^ No entanto, Saul disse a Samuel: “Mas eu obedeci à voz de Jeová, tendo ido na missão em que Jeová me enviou, e eu trouxe Agague, rei de Amaleque, mas a Amaleque eu devotei à destruição.
+
+[[v9-15-21]]
+
+^<<v9-15-21,21>>^ E o povo tomava do despojo ovelhas e gado vacum, os mais excelentes deles, como algo devotado à destruição para sacrificar a Jeová, teu Deus, em Gilgal.”
+
+[[v9-15-22]]
+
+^<<v9-15-22,22>>^ Por sua vez, Samuel disse: “Tem Jeová tanto agrado em ofertas queimadas e em sacrifícios como em que se obedeça à voz de Jeová? Eis que obedecer é melhor do que um sacrifício, prestar atenção [é melhor] do que a gordura de carneiros;
+
+[[v9-15-23]]
+
+^<<v9-15-23,23>>^ pois a rebeldia é igual ao pecado da adivinhação, e avançar presunçosamente^&#42;1^ é igual ao [uso de] poder mágico e terafins.^&#42;2^ Visto que rejeitaste a palavra de Jeová, ele^&#42;3^ concordemente rejeita que sejas rei.”^&#42;4^
+
+[NOTE]
+====
+. “Avançar presunçosamente.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+. “Terafins”, MLXX; Vg: “idolatria”.
+. “Ele”, MSy; LXX: “Jeová”.
+. “Que sejas rei”, MVg; LXX: “que sejas rei sobre Israel”.
+====
+
+[[v9-15-24]]
+
+^<<v9-15-24,24>>^ Saul disse então a Samuel: “Pequei; pois infringi a ordem de Jeová e as tuas palavras, porque temi o povo e assim obedeci à sua voz.
+
+[[v9-15-25]]
+
+^<<v9-15-25,25>>^ E agora, por favor, perdoa o meu pecado e volta comigo, para que eu me prostre diante de^&#42;1^ Jeová.”
+
+[NOTE]
+====
+. Ou “que eu adore”.
+====
+
+[[v9-15-26]]
+
+^<<v9-15-26,26>>^ Mas Samuel disse a Saul: “Não voltarei contigo, pois rejeitaste a palavra de Jeová e Jeová rejeita que continues como rei sobre Israel.”
+
+[[v9-15-27]]
+
+^<<v9-15-27,27>>^ Quando Samuel se voltou para ir, agarrou-lhe imediatamente a aba da túnica sem mangas, mas ela foi arrancada.
+
+[[v9-15-28]]
+
+^<<v9-15-28,28>>^ Então Samuel lhe disse: “Jeová arrancou hoje de ti o domínio real de Israel e ele há de dá-lo ao teu próximo que é melhor do que tu.
+
+[[v9-15-29]]
+
+^<<v9-15-29,29>>^ E além disso, a Excelência^&#42;1^ de Israel não se mostrará falso e não terá lástima, pois Ele não é homem terreno^&#42;2^ para ter lástima.”
+
+[NOTE]
+====
+. Ou “Eminência”, MSy; Vg: “Triunfante”.
+. Ou “homem”. Hebr.: ’a·dhám; gr.: án·thro·pos; lat.: hó·mo; Sy: “filho de homem”.
+====
+
+[[v9-15-30]]
+
+^<<v9-15-30,30>>^ A isso ele^&#42;1^ disse: “Pequei. Agora, por favor, honra-me diante dos anciãos do meu povo e diante de Israel, e volta comigo, e eu certamente me prostrarei diante de Jeová, teu Deus.”
+
+[NOTE]
+====
+. “Ele”, MVg; LXXSy: “Saul”.
+====
+
+[[v9-15-31]]
+
+^<<v9-15-31,31>>^ Portanto, Samuel retornou atrás de Saul e Saul passou a prostrar-se diante de Jeová.
+
+[[v9-15-32]]
+
+^<<v9-15-32,32>>^ Depois Samuel disse: “Trazei-me a Agague, rei de Amaleque.” Agague veio então a ele com relutância^&#42;1^ e Agague começou a dizer a si mesmo:^&#42;2^ “Decerto já se afastou a experiência amarga da morte.”
+
+[NOTE]
+====
+. Ou “em grilhões”. Ou “alegremente”. LXX: “tremendo”.
+. Ou “começou a pensar”.
+====
+
+[[v9-15-33]]
+
+^<<v9-15-33,33>>^ No entanto, Samuel disse: “Assim como a tua espada privou as mulheres de filhos, assim a tua mãe será extremamente privada de filhos entre as mulheres.” Com isso Samuel foi retalhar Agague perante Jeová em Gilgal.
+
+[[v9-15-34]]
+
+^<<v9-15-34,34>>^ Samuel foi então embora para Ramá e Saul, da sua parte, subiu para a sua casa em Gibeá de Saul.
+
+[[v9-15-35]]
+
+^<<v9-15-35,35>>^ E Samuel não viu mais a Saul até o dia da sua morte, porque Samuel se pusera a prantear a Saul. Quanto a Jeová, deplorou ter feito a Saul rei sobre Israel.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-014.adoc#v9-14-0[&#60; Capítulo Anterior] | <<v9-15-0,Topo>> | xref:009-1-samuel/009-1-samuel-016.adoc#v9-16-0[Próximo Capítulo &#62;]

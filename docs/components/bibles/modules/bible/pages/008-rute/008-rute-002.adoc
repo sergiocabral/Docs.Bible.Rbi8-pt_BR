@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v8-2-0]]
+=== Rute, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v8-2-1]]
+
+^<<v8-2-1,1>>^ Ora, Noemi tinha um parente^&#42;1^ de seu esposo, homem poderoso em riqueza, da família de Elimeleque, e seu nome era Boaz.^&#42;2^
+
+[NOTE]
+====
+. Ou “conhecido”.
+. Possivelmente significando “Em Força”.
+====
+
+[[v8-2-2]]
+
+^<<v8-2-2,2>>^ Após um tempo, Rute, a moabita, disse a Noemi: “Por favor, deixa-me ir ao campo e respigar entre as [gavelas de] espigas, seguindo aquele aos olhos de quem eu achar favor.” Disse-lhe, portanto: “Vai, minha filha.”
+
+[[v8-2-3]]
+
+^<<v8-2-3,3>>^ Ela foi então, e entrou no campo e começou a respigar atrás dos ceifeiros. Assim, por acaso, veio parar no pedaço de campo que pertencia a Boaz, que era da família de Elimeleque.
+
+[[v8-2-4]]
+
+^<<v8-2-4,4>>^ E eis que veio Boaz de Belém e passou a dizer aos seus ceifeiros: “Jeová seja convosco.” Eles, por sua vez, diziam-lhe: “Jeová te abençoe.”
+
+[[v8-2-5]]
+
+^<<v8-2-5,5>>^ Pouco depois, Boaz disse ao moço que fora posto sobre os ceifeiros: “A quem pertence esta moça?”
+
+[[v8-2-6]]
+
+^<<v8-2-6,6>>^ Respondeu então o moço que fora posto sobre os ceifeiros e disse: “A moça é moabita, que voltou com Noemi do campo de Moabe.
+
+[[v8-2-7]]
+
+^<<v8-2-7,7>>^ Ela disse, pois: ‘Por favor, deixa-me respigar, e hei de ajuntar entre os molhos [de espigas cortadas] atrás dos ceifeiros.’ De modo que entrou e se manteve de pé desde aquela hora da manhã até que se assentou agora mesmo na casa por um pouquinho.”
+
+[[v8-2-8]]
+
+^<<v8-2-8,8>>^ Depois, Boaz disse a Rute: “Ouviste, não é verdade, minha filha? Não te vás embora para respigar em outro campo, nem tampouco deves passar deste lugar, e assim te deves manter perto das minhas moças.
+
+[[v8-2-9]]
+
+^<<v8-2-9,9>>^ Fixa os teus olhos no campo que ceifarem, e tens de ir com elas. Não ordenei aos moços que não te tocassem? Quando tiveres sede, então terás de ir aos vasos e beber do que os moços tirarem.”
+
+[[v8-2-10]]
+
+^<<v8-2-10,10>>^ Em vista disso, ela se lançou com a face [por terra] e curvou-se para a terra, e disse-lhe: “Como é que tenho achado favor aos teus olhos de modo a ser notada, sendo eu estrangeira?”
+
+[[v8-2-11]]
+
+^<<v8-2-11,11>>^ Então respondeu Boaz e lhe disse: “Relatou-se-me plenamente tudo o que fizeste por tua sogra depois da morte de teu esposo, e como passaste a deixar teu pai e tua mãe, e a terra de tua parentela, e a ir a um povo que antes não conhecias.
+
+[[v8-2-12]]
+
+^<<v8-2-12,12>>^ Jeová recompense teu modo de agir e haja para ti um salário perfeito da parte de Jeová, o Deus de Israel, debaixo de cujas asas vieste refugiar-te.”
+
+[[v8-2-13]]
+
+^<<v8-2-13,13>>^ A isso ela disse: “Ache eu favor aos teus olhos, meu senhor, visto que me consolaste e porque falaste tranqüilizadoramente à^&#42;1^ tua serva, embora eu mesma não seja como uma das tuas servas.”
+
+[NOTE]
+====
+. Lit.: “falaste ao coração de”.
+====
+
+[[v8-2-14]]
+
+^<<v8-2-14,14>>^ E Boaz passou a dizer-lhe na hora da refeição: “Aproxima-te, e tens de comer do pão e mergulhar teu pedaço no vinagre.” Portanto, ela se sentou junto aos ceifeiros, e ele lhe estendia grãos torrados e ela comia, de modo que se fartou e ainda lhe sobrou.
+
+[[v8-2-15]]
+
+^<<v8-2-15,15>>^ Então se levantou para respigar. Boaz ordenou então aos seus moços, dizendo: “Deixai-a respigar também entre os molhos [de espigas cortadas] e não deveis molestá-la.
+
+[[v8-2-16]]
+
+^<<v8-2-16,16>>^ E deveis com efeito arrancar das gavelas algumas para ela e tendes de deixá-las atrás para que ela as respigue, e não deveis censurá-la.”
+
+[[v8-2-17]]
+
+^<<v8-2-17,17>>^ E ela continuou a respigar no campo até à noitinha, malhando depois o que tinha respigado, e veio a ser aproximadamente um efa^&#42;1^ de cevada.
+
+[NOTE]
+====
+. Cerca de 22 l.
+====
+
+[[v8-2-18]]
+
+^<<v8-2-18,18>>^ Então o levantou e entrou na cidade, e sua sogra chegou a ver^&#42;1^ o que tinha respigado. Após isso tirou e lhe deu o que lhe sobrara da comida depois de se fartar.
+
+[NOTE]
+====
+. “E sua sogra chegou a ver”, MLXX; SyVg: “e mostrou à sua sogra”.
+====
+
+[[v8-2-19]]
+
+^<<v8-2-19,19>>^ Sua sogra lhe disse então: “Onde respigaste hoje e onde trabalhaste? Torne-se bendito aquele que reparou em ti.” Ela contou, pois, à sua sogra com quem tinha trabalhado; e prosseguiu, dizendo: “O nome do homem com quem trabalhei hoje é Boaz.”
+
+[[v8-2-20]]
+
+^<<v8-2-20,20>>^ Então Noemi disse à sua nora: “Bendito seja ele por Jeová que não abandonou a sua benevolência para com os vivos e os mortos.” E Noemi prosseguiu, dizendo-lhe: “O homem é aparentado conosco. Ele é um dos nossos resgatadores.”^&#42;1^
+
+[NOTE]
+====
+. Ou “um de nossos parentes com o direito de resgatar (remir)”. Hebr.: mig·go·’alé·nu, sing.; pl. em diversos mss. hebr.
+====
+
+[[v8-2-21]]
+
+^<<v8-2-21,21>>^ Então disse Rute, a moabita: “Ele me disse também: ‘Deves ficar perto da gente moça que são meus até que tenham terminado toda a sega que me pertence.’”
+
+[[v8-2-22]]
+
+^<<v8-2-22,22>>^ Noemi disse, pois, a Rute, sua nora: “É melhor, minha filha, que saias com as moças dele, para que não te importunem em outro campo.”
+
+[[v8-2-23]]
+
+^<<v8-2-23,23>>^ E ela continuou a manter-se perto das moças de Boaz, respigando até que chegou ao fim a sega da cevada e a sega do trigo. E ela morava com a sua sogra.
+
+'''
+
+xref:008-rute/008-rute-001.adoc#v8-1-0[&#60; Capítulo Anterior] | <<v8-2-0,Topo>> | xref:008-rute/008-rute-003.adoc#v8-3-0[Próximo Capítulo &#62;]

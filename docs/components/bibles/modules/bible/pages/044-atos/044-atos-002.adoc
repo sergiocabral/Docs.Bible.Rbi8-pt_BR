@@ -1,0 +1,276 @@
+include::./index.adoc[]
+
+[[v44-2-0]]
+=== Atos, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v44-2-1]]
+
+^<<v44-2-1,1>>^ Então, estando em progresso o dia [da festividade] de Pentecostes, todos eles estavam juntos no mesmo lugar,
+
+[[v44-2-2]]
+
+^<<v44-2-2,2>>^ e, repentinamente, ocorreu do céu um ruído, bem semelhante ao duma forte brisa impetuosa, e encheu toda a casa onde estavam sentados.
+
+[[v44-2-3]]
+
+^<<v44-2-3,3>>^ E línguas, como que de fogo, tornaram-se-lhes visíveis e se distribuíram, e sobre cada um deles assentou-se uma,
+
+[[v44-2-4]]
+
+^<<v44-2-4,4>>^ e todos eles ficaram cheios de espírito santo e principiaram a falar em línguas diferentes, assim como o espírito lhes concedia fazer pronunciação.
+
+[[v44-2-5]]
+
+^<<v44-2-5,5>>^ Acontece que moravam em Jerusalém judeus, homens reverentes, de toda nação das debaixo do céu.
+
+[[v44-2-6]]
+
+^<<v44-2-6,6>>^ Assim, ao ocorrer este som, a multidão ajuntou-se e estava desnorteada, porque cada um os ouvia falar no seu próprio idioma.
+
+[[v44-2-7]]
+
+^<<v44-2-7,7>>^ Deveras, ficaram assombrados e começaram a perguntar-se, dizendo: “Pois quê! não são galileus todos estes que estão falando?
+
+[[v44-2-8]]
+
+^<<v44-2-8,8>>^ E, no entanto, como é que ouvimos cada um de nós o seu próprio idioma em que nascemos?
+
+[[v44-2-9]]
+
+^<<v44-2-9,9>>^ Partos, e medos, e elamitas, e os habitantes de Mesopotâmia, e Judéia, e Capadócia, Ponto e [o distrito da] Ásia,
+
+[[v44-2-10]]
+
+^<<v44-2-10,10>>^ e Frígia, e Panfília, Egito e as partes da Líbia, do lado de Cirene, e os residentes temporários de Roma, tanto judeus como prosélitos,^&#42;1^
+
+[NOTE]
+====
+. Ou “conversos”.
+====
+
+[[v44-2-11]]
+
+^<<v44-2-11,11>>^ cretenses e árabes, nós os ouvimos falar em nossas línguas sobre as coisas magníficas de Deus.”
+
+[[v44-2-12]]
+
+^<<v44-2-12,12>>^ Sim, todos ficaram assombrados e estavam em perplexidade, dizendo um ao outro: “Que denota esta coisa?”
+
+[[v44-2-13]]
+
+^<<v44-2-13,13>>^ No entanto, diversos mofaram deles e começaram a dizer: “Estão cheios de vinho doce.”
+
+[[v44-2-14]]
+
+^<<v44-2-14,14>>^ Mas, Pedro pôs-se de pé com os onze, levantou a sua voz e fez-lhes a seguinte pronunciação: “Homens da Judéia e todos vós, habitantes de Jerusalém, seja isso conhecido por vós e dai ouvidos às minhas declarações.
+
+[[v44-2-15]]
+
+^<<v44-2-15,15>>^ Estes, de fato, não estão embriagados, como supondes, pois é a terceira hora^&#42;1^ do dia.
+
+[NOTE]
+====
+. Isto é, por volta das 9 horas da manhã, contada desde o nascer do sol.
+====
+
+[[v44-2-16]]
+
+^<<v44-2-16,16>>^ Ao contrário, isto é o que foi dito por intermédio do profeta Joel:
+
+[[v44-2-17]]
+
+^<<v44-2-17,17>>^ ‘“E nos últimos dias”, diz Deus, “derramarei do meu espírito^&#42;1^ sobre toda sorte de carne,^&#42;2^ e vossos filhos e vossas filhas profetizarão, e os vossos jovens terão visões e os vossos anciãos^&#42;3^ terão sonhos;
+
+[NOTE]
+====
+. Ou “força ativa”. Gr.: pneú·ma·tos; lat.: Spí·ri·tu; J17,18,22(hebr.): ru·hhí, “meu espírito”. Veja Gên 1:2 n.: “ativa”.
+. Ou “sobre toda a carne”. Gr.: e·pí pá·san sár·ka; lat.: cár·nem; J17,18,22(hebr.): ba·sár.
+. “Anciãos.” Gr.: pre·sbý·te·roi.
+====
+
+[[v44-2-18]]
+
+^<<v44-2-18,18>>^ e até mesmo sobre os meus escravos e sobre as minhas escravas derramarei naqueles dias do meu espírito, e eles profetizarão.
+
+[[v44-2-19]]
+
+^<<v44-2-19,19>>^ E darei portentos em cima no céu e sinais em baixo na terra: sangue, e fogo, e fumaça brumosa;
+
+[[v44-2-20]]
+
+^<<v44-2-20,20>>^ o sol será transformado em escuridão e a lua em sangue, antes de chegar o grande e ilustre dia de Jeová.^&#42;1^
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v44-2-21]]
+
+^<<v44-2-21,21>>^ E todo aquele que invocar o nome de Jeová^&#42;1^ será salvo.”’
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v44-2-22]]
+
+^<<v44-2-22,22>>^ “Homens de Israel, ouvi estas palavras: Jesus, o nazareno, homem publicamente mostrado a vós por Deus, por intermédio de poderosas obras, e portentos, e sinais, que Deus fez por intermédio dele no vosso meio, conforme vós mesmos sabeis,
+
+[[v44-2-23]]
+
+^<<v44-2-23,23>>^ a este [homem], como alguém entregue pelo conselho resolvido e [pela] presciência de Deus, vós fixastes numa estaca pela mão de homens contrários à lei e [o] eliminastes.
+
+[[v44-2-24]]
+
+^<<v44-2-24,24>>^ Mas Deus o ressuscitou por afrouxar as ânsias da morte, porque não era possível que ele continuasse a ser segurado por ela.
+
+[[v44-2-25]]
+
+^<<v44-2-25,25>>^ Pois, Davi diz com respeito a ele: ‘Eu tinha constantemente a Jeová^&#42;1^ diante dos meus olhos; porque ele está à minha direita, para que eu nunca seja abalado.
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v44-2-26]]
+
+^<<v44-2-26,26>>^ Por esta razão, meu coração ficou animado e a minha língua se alegrou muito. Além disso, até mesmo a minha carne residirá em esperança;
+
+[[v44-2-27]]
+
+^<<v44-2-27,27>>^ porque não deixarás a minha alma no Hades,^&#42;1^ nem permitirás que aquele que te é leal veja a corrupção.
+
+[NOTE]
+====
+. “Hades”, אAB; J7,8,11-18,22: “Seol”. Veja Ap. 4B.
+====
+
+[[v44-2-28]]
+
+^<<v44-2-28,28>>^ Fizeste-me saber os caminhos da vida, encher-me-ás de boa animação com o teu rosto.’
+
+[[v44-2-29]]
+
+^<<v44-2-29,29>>^ “Homens, irmãos, é permissível falar-vos com franqueza a respeito do chefe de família Davi, que ele tanto faleceu como foi enterrado, e o seu túmulo está entre nós até o dia de hoje.
+
+[[v44-2-30]]
+
+^<<v44-2-30,30>>^ Portanto, visto que era profeta e sabia que Deus^&#42;1^ lhe havia jurado com juramento que faria sentar um dos frutos dos seus lombos^&#42;2^ sobre o seu trono,
+
+[NOTE]
+====
+. “Deus”, אAB; J7,8,10: “Jeová”.
+. Ou “um de sua prole”.
+====
+
+[[v44-2-31]]
+
+^<<v44-2-31,31>>^ previu e falou a respeito da ressurreição do Cristo, que ele nem foi abandonado no Hades, nem viu a sua carne a corrupção.
+
+[[v44-2-32]]
+
+^<<v44-2-32,32>>^ A este Jesus, Deus ressuscitou, fato de que todos nós somos testemunhas.
+
+[[v44-2-33]]
+
+^<<v44-2-33,33>>^ Portanto, visto que ele foi enaltecido à^&#42;1^ direita de Deus e recebeu do Pai o prometido espírito santo, derramou isto que vedes e ouvis.
+
+[NOTE]
+====
+. Ou “pela”.
+====
+
+[[v44-2-34]]
+
+^<<v44-2-34,34>>^ Realmente, Davi não ascendeu aos céus, mas ele mesmo diz: ‘Jeová^&#42;1^ disse a meu Senhor: “Senta-te à minha direita,
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v44-2-35]]
+
+^<<v44-2-35,35>>^ até que eu ponha os teus inimigos como escabelo para os teus pés.”’
+
+[[v44-2-36]]
+
+^<<v44-2-36,36>>^ Portanto, que toda a casa de Israel saiba com certeza que Deus o fez tanto Senhor como Cristo, a este Jesus, a quem pregastes numa estaca.”^&#42;1^
+
+[NOTE]
+====
+. Ou “fixastes numa estaca (poste)”. Veja Ap. 5C.
+====
+
+[[v44-2-37]]
+
+^<<v44-2-37,37>>^ Ora, quando ouviram isso, ficaram compungidos no coração, e disseram a Pedro e aos demais apóstolos: “Homens, irmãos, o que havemos de fazer?”
+
+[[v44-2-38]]
+
+^<<v44-2-38,38>>^ Pedro [disse] a eles: “Arrependei-vos, e cada um de vós seja batizado no nome de Jesus Cristo, para o perdão de vossos pecados, e recebereis a dádiva gratuita do espírito santo.
+
+[[v44-2-39]]
+
+^<<v44-2-39,39>>^ Porque a promessa é para vós e para os vossos filhos, e para todos os que estão longe, tantos quantos Jeová,^&#42;1^ nosso Deus, chamar a si.”
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v44-2-40]]
+
+^<<v44-2-40,40>>^ E dava cabalmente testemunho e os exortava com muitas outras palavras, dizendo: “Sede salvos desta geração pervertida.”
+
+[[v44-2-41]]
+
+^<<v44-2-41,41>>^ Portanto, os que abraçaram de coração a sua palavra foram batizados, e naquele dia acrescentaram-se cerca de três mil almas.
+
+[[v44-2-42]]
+
+^<<v44-2-42,42>>^ E eles continuavam a devotar-se ao ensino dos apóstolos e a partilhar [uns com os outros],^&#42;1^ a tomar refeições^&#42;2^ e a orações.
+
+[NOTE]
+====
+. Ou “associar-se”.
+. Lit.: “a partir pão”.
+====
+
+[[v44-2-43]]
+
+^<<v44-2-43,43>>^ Deveras, sobre cada alma começou a cair temor, e muitos portentos e sinais começaram a ocorrer por intermédio dos apóstolos.
+
+[[v44-2-44]]
+
+^<<v44-2-44,44>>^ Todos os que se tornavam crentes estavam unidos em terem todas as coisas em comum,
+
+[[v44-2-45]]
+
+^<<v44-2-45,45>>^ e foram vender as suas propriedades e bens, e distribuir a [receita] entre todos, conforme alguém tivesse necessidade.
+
+[[v44-2-46]]
+
+^<<v44-2-46,46>>^ E dia após dia assistiam constantemente no templo, de comum acordo, tomando as suas refeições em lares particulares^&#42;1^ e participando do alimento com grande júbilo e sinceridade de coração,
+
+[NOTE]
+====
+. Ou “de casa em casa”. Gr.: kat’ oí·kon. Veja5:42 n.: “casa”.
+====
+
+[[v44-2-47]]
+
+^<<v44-2-47,47>>^ louvando a Deus e achando favor [diante] de todo o povo. Ao mesmo tempo, Jeová^&#42;1^ continuava a ajuntar-lhes diariamente os que estavam sendo salvos.
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+'''
+
+xref:044-atos/044-atos-001.adoc#v44-1-0[&#60; Capítulo Anterior] | <<v44-2-0,Topo>> | xref:044-atos/044-atos-003.adoc#v44-3-0[Próximo Capítulo &#62;]

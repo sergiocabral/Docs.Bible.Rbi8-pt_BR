@@ -1,0 +1,116 @@
+include::./index.adoc[]
+
+[[v36-2-0]]
+=== Sofonias, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v36-2-1]]
+
+^<<v36-2-1,1>>^ Ajuntai-vos, sim, ajuntai, ó nação que não empalideces de vergonha.^&#42;1^
+
+[NOTE]
+====
+. Ou “não tens muitíssima saudade”.
+====
+
+[[v36-2-2]]
+
+^<<v36-2-2,2>>^ Antes de [o] estatuto dar [algo] à luz, [antes que] tenha passado [o] dia como a pragana, antes que venha sobre vós a ira ardente de Jeová, antes que venha sobre vós o dia da ira de Jeová,
+
+[[v36-2-3]]
+
+^<<v36-2-3,3>>^ procurai a Jeová, todos os mansos^&#42;1^ da terra, que tendes praticado a Sua própria decisão judicial.^&#42;2^ Procurai a justiça, procurai a mansidão.^&#42;3^ Provavelmente^&#42;4^ sereis escondidos^&#42;5^ no dia da ira de Jeová.
+
+[NOTE]
+====
+. Ou “humildes”.
+. Ou “que tendes guardado os Seus julgamentos”.
+. Ou “humildade”.
+. Ou: “Talvez”. Hebr.: ’u·laí.
+. “Sereis [sejais] escondidos (abrigados).” Hebr.: tis·sa·therú; não tsa·fán, como no nome Sofonias em hebr. Veja n. do Título.
+====
+
+[[v36-2-4]]
+
+^<<v36-2-4,4>>^ Pois, no que se refere a Gaza, tornar-se-á uma [cidade] abandonada; e Ascalom há de ser um baldio desolado. Quanto a Asdode, expulsá-la-ão ao meio-dia; e quanto a Ecrom, será desarraigada.
+
+[[v36-2-5]]
+
+^<<v36-2-5,5>>^ “Ai dos que habitam na região do mar, da nação dos queretitas!^&#42;1^ A palavra de Jeová é contra vós. Ó Canaã, terra dos filisteus, vou destruir também a ti de modo que não haja habitante.
+
+[NOTE]
+====
+. “Cretenses”, LXX.
+====
+
+[[v36-2-6]]
+
+^<<v36-2-6,6>>^ E a região do mar terá de tornar-se pastagens, [com] poços para pastores e redis de pedra para ovelhas.
+
+[[v36-2-7]]
+
+^<<v36-2-7,7>>^ E terá de tornar-se uma região para os remanescentes da casa de Judá. Nelas pastarão. Nas casas de Ascalom, à noitinha, estarão deitados. Porque Jeová, seu Deus,^&#42;1^ voltará sua atenção para eles e certamente recolherá seus cativos.”
+
+[NOTE]
+====
+. “Seu Deus.” Hebr.: ’Elo·heh·hém.
+====
+
+[[v36-2-8]]
+
+^<<v36-2-8,8>>^ “Ouvi o vitupério por parte de Moabe e as palavras injuriosas dos filhos de Amom, com que vituperaram meu povo e têm assumido ares de grandeza contra o seu território.
+
+[[v36-2-9]]
+
+^<<v36-2-9,9>>^ Portanto, assim como vivo”, é a pronunciação de Jeová dos exércitos, o Deus de Israel, “a própria Moabe tornar-se-á como Sodoma e os filhos de Amom como Gomorra, lugar tomado de urtigas, e poço de sal, e baldio desolado, sim, por tempo indefinido. Os remanescentes do meu povo os saquearão e o restante da minha própria nação tomará posse deles.
+
+[[v36-2-10]]
+
+^<<v36-2-10,10>>^ É isto que terão em lugar de seu orgulho, porque vituperaram e têm assumido ares de grandeza contra o povo de Jeová^&#42;1^ dos exércitos.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 2.
+====
+
+[[v36-2-11]]
+
+^<<v36-2-11,11>>^ Jeová será atemorizante contra eles;^&#42;1^ pois ele certamente emaciará todos os deuses da terra,^&#42;2^ e as pessoas se curvarão diante dele, cada uma do seu lugar, todas as ilhas^&#42;3^ das nações.
+
+[NOTE]
+====
+. Segundo MVg; LXXSy: “Jeová aparecerá sobre eles.”
+. “Deuses da terra”, M(hebr.: ’elo·héh ha·’á·rets)Vg; LXX: “deuses das nações da terra”.
+. Ou “litorais”.
+====
+
+[[v36-2-12]]
+
+^<<v36-2-12,12>>^ “Também vós, etíopes,^&#42;1^ vós mesmos sereis pessoas mortas pela minha espada.^&#42;2^
+
+[NOTE]
+====
+. “Etíopes”, LXXVg; hebr.: Ku·shím; TSy: “cusitas”.
+. “Minha espada”, MTLXXVg.
+====
+
+[[v36-2-13]]
+
+^<<v36-2-13,13>>^ “E ele estenderá sua mão para o norte e destruirá a Assíria. E fará de Nínive um baldio desolado, uma região árida como o ermo.
+
+[[v36-2-14]]
+
+^<<v36-2-14,14>>^ E no meio dela estarão deitadas as greis, todos os animais selváticos de uma nação.^&#42;1^ Tanto o pelicano como o porco-espinho passarão a noite entre os seus capitéis. Uma voz estará cantando na janela. Haverá devastação no limiar; porque ele certamente exporá os próprios lambris.
+
+[NOTE]
+====
+. “Uma nação.” Hebr.: ghohy; LXX: “a terra”; SyVg: “nações (povos)”.
+====
+
+[[v36-2-15]]
+
+^<<v36-2-15,15>>^ Esta é a cidade rejubilante que estava sentada em segurança, que dizia no seu coração: ‘Sou eu, e não há mais ninguém.’ Oh! como ela se tornou um assombro, lugar para animais selváticos se deitarem! Todo aquele que passar por ela assobiará; agitará a sua mão.”
+
+'''
+
+xref:036-sofonias/036-sofonias-001.adoc#v36-1-0[&#60; Capítulo Anterior] | <<v36-2-0,Topo>> | xref:036-sofonias/036-sofonias-003.adoc#v36-3-0[Próximo Capítulo &#62;]

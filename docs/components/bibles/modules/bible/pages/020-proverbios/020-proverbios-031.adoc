@@ -1,0 +1,227 @@
+include::./index.adoc[]
+
+[[v20-31-0]]
+=== Provérbios, 31
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-31-1]]
+
+^<<v20-31-1,1>>^ Palavras de Lemuel,^&#42;1^ o rei, a mensagem ponderosa que sua mãe lhe deu em correção:
+
+[NOTE]
+====
+. Significando “Pertencente a Deus”.
+====
+
+[[v20-31-2]]
+
+^<<v20-31-2,2>>^ O que [é que eu digo], filho meu,^&#42;1^ e o que, filho de meu ventre, e o que, filhos dos meus votos?
+
+[NOTE]
+====
+. Lit.: “ó meu filho”. Hebr.: berí (de bar, que é aram. bíblico). Veja Sal 2:12 n.: “filho”.
+====
+
+[[v20-31-3]]
+
+^<<v20-31-3,3>>^ Não dês a tua energia vital às mulheres, nem os teus caminhos [àquilo que leva à] extinção de reis.
+
+[[v20-31-4]]
+
+^<<v20-31-4,4>>^ Não é para os reis, ó Lemuel, não é para os reis beber vinho ou para os dignitários [dizer:] “Onde está a bebida inebriante?”
+
+[[v20-31-5]]
+
+^<<v20-31-5,5>>^ para que não se beba e se esqueça o decretado, e [não] se perverta a causa de qualquer filho de tribulação.
+
+[[v20-31-6]]
+
+^<<v20-31-6,6>>^ Dai bebida inebriante àquele que está para perecer e vinho aos amargurados de alma.
+
+[[v20-31-7]]
+
+^<<v20-31-7,7>>^ Beba-se e esqueça-se a pobreza, e não haja mais lembrança da própria desgraça.
+
+[[v20-31-8]]
+
+^<<v20-31-8,8>>^ Abre a tua boca em prol do mudo, na causa de todos os que vão passando.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “todos os filhos do passamento”.
+====
+
+[[v20-31-9]]
+
+^<<v20-31-9,9>>^ Abre a tua boca, julga em justiça e pleiteia a causa do atribulado e do pobre.
+
+_א [Álefe]_
+
+[[v20-31-10]]
+
+^<<v20-31-10,10>>^ Uma esposa capaz, quem a pode achar? Seu valor é muito maior do que o de corais.
+
+_ב [Bete]_
+
+[[v20-31-11]]
+
+^<<v20-31-11,11>>^ Nela confia o coração do seu dono,^&#42;1^ e não há falta de lucro.
+
+[NOTE]
+====
+. “Seu dono.” Hebr.: ba‛·láh.
+====
+
+_ג [Guímel]_
+
+[[v20-31-12]]
+
+^<<v20-31-12,12>>^ Ela o recompensou com o bem e não com o mal, todos os dias da sua vida.
+
+_ד [Dálete]_
+
+[[v20-31-13]]
+
+^<<v20-31-13,13>>^ Ela tem buscado lã e linho, e trabalha em que for do agrado das suas mãos.
+
+_ה [Hê]_
+
+[[v20-31-14]]
+
+^<<v20-31-14,14>>^ Ela tem mostrado ser como os navios de um mercador. De longe ela traz para dentro o seu alimento.^&#42;1^
+
+[NOTE]
+====
+. Ou “seu pão”. Hebr.: lahh·máh (de lé·hhem, como no v. 27).
+====
+
+_ו [Vau]_
+
+[[v20-31-15]]
+
+^<<v20-31-15,15>>^ Ela se levanta também enquanto ainda é noite, e dá comida^&#42;1^ aos da sua casa e a porção prescrita às suas moças.
+
+[NOTE]
+====
+. Lit.: “coisas levadas embora”. Hebr.: té·ref.
+====
+
+_ז [Zaine]_
+
+[[v20-31-16]]
+
+^<<v20-31-16,16>>^ Ela cogitou um campo e passou a obtê-lo; dos frutos das suas mãos ela plantou um vinhedo.
+
+_ח [Hete]_
+
+[[v20-31-17]]
+
+^<<v20-31-17,17>>^ Ela cingiu seus quadris com força e fortifica seus braços.
+
+_ט [Tete]_
+
+[[v20-31-18]]
+
+^<<v20-31-18,18>>^ Ela se apercebeu de que seu mercadejar é bom; sua lâmpada não se apaga à noite.
+
+_י [Iode]_
+
+[[v20-31-19]]
+
+^<<v20-31-19,19>>^ Ela estendeu suas mãos à roca de fiar e suas próprias mãos seguram o fuso.
+
+_כ [Cafe]_
+
+[[v20-31-20]]
+
+^<<v20-31-20,20>>^ Ela estendeu a palma da sua mão ao atribulado e estendeu as suas mãos ao pobre.
+
+_ל [Lâmede]_
+
+[[v20-31-21]]
+
+^<<v20-31-21,21>>^ Ela não teme pelos da sua casa por causa da neve, porque todos os da sua casa trajam vestimenta dupla.^&#42;1^
+
+[NOTE]
+====
+. “Vestimenta dupla”, mediante uma mudança dos sinais vocálicos, para concordar com LXX; M: “vestimentas escarlates”.
+====
+
+_מ [Meme]_
+
+[[v20-31-22]]
+
+^<<v20-31-22,22>>^ Ela fez colchas para si mesma. Sua vestimenta é de linho e de lã tingida de roxo.
+
+_נ [Nune]_
+
+[[v20-31-23]]
+
+^<<v20-31-23,23>>^ Seu dono é alguém conhecido nos portões, quando se assenta com os anciãos do país.
+
+_ם [Sâmeque]_
+
+[[v20-31-24]]
+
+^<<v20-31-24,24>>^ Ela fez até mesmo peças de roupa interior e passou a vendê-las, e deu cintos aos comerciantes.
+
+_ע [Aine]_
+
+[[v20-31-25]]
+
+^<<v20-31-25,25>>^ Força e esplendor são a sua vestimenta, e ela se ri do dia futuro.
+
+_פ [Pê]_
+
+[[v20-31-26]]
+
+^<<v20-31-26,26>>^ Abriu a sua boca em sabedoria e a lei da benevolência^&#42;1^ está sobre a sua língua.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+_צ [Tsadê]_
+
+[[v20-31-27]]
+
+^<<v20-31-27,27>>^ Ela está vigiando os andamentos dos da sua casa e não come o pão da preguiça.^&#42;1^
+
+[NOTE]
+====
+. “E . . . o pão da preguiça.” Hebr.: welé·hhem ‛ats·lúth.
+====
+
+_ק [Cofe]_
+
+[[v20-31-28]]
+
+^<<v20-31-28,28>>^ Seus filhos se levantaram e passaram a chamá-la feliz; seu dono [se levanta] e a louva.
+
+_ר [Rexe]_
+
+[[v20-31-29]]
+
+^<<v20-31-29,29>>^ Há muitas filhas que demonstraram capacidade, mas tu — tu sobrepujaste a todas elas.
+
+_ש [Chim]_
+
+[[v20-31-30]]
+
+^<<v20-31-30,30>>^ O encanto talvez seja falso e a lindeza talvez seja vã; [mas] a mulher que teme a Jeová é a que procura louvor para si.
+
+_ת [Tau]_
+
+[[v20-31-31]]
+
+^<<v20-31-31,31>>^ Dai-lhe dos frutos das suas mãos e louvem-na os seus trabalhos até mesmo nos portões.^&#42;1^
+
+[NOTE]
+====
+. Algumas ed. do texto hebr. apresentam o trigrama, ou três letras, Hete, Zaine, Cofe (ח ז ק), que representam a assinatura do Rei Ezequias, nas cópias feitas pelos seus escribas, para indicar que o serviço fora terminado.
+====
+
+'''
+
+xref:020-proverbios/020-proverbios-030.adoc#v20-30-0[&#60; Capítulo Anterior] | <<v20-31-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-001.adoc#v21-1-0[Próximo Capítulo &#62;]

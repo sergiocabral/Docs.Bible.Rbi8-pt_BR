@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v4-34-0]]
+=== Números, 34
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-34-1]]
+
+^<<v4-34-1,1>>^ E Jeová falou mais a Moisés, dizendo:
+
+[[v4-34-2]]
+
+^<<v4-34-2,2>>^ “Dá ordem aos filhos de Israel, e tens de dizer-lhes: ‘Estais entrando na terra de Canaã. Esta é a terra que^&#42;1^ vos cairá por herança, a terra de Canaã, segundo os seus termos.
+
+[NOTE]
+====
+. “Estais entrando na terra de Canaã. Esta é (será) a terra que”, MLXX; Vg: “Quando entrardes na terra de Canaã, e ela.”
+====
+
+[[v4-34-3]]
+
+^<<v4-34-3,3>>^ “‘E vosso lado do sul tem de mostrar ser desde o ermo de Zim, contíguo a Edom, e vosso termo do sul tem de mostrar ser desde a extremidade do Mar Salgado no leste.
+
+[[v4-34-4]]
+
+^<<v4-34-4,4>>^ E vosso termo tem de mudar de direção, do sul da subida^&#42;1^ de Acrabim, e passar para Zim, e seu ponto final^&#42;2^ tem de mostrar ser ao sul de Cades-Barnéia; e tem de sair até Hazar-Adar e passar para Azmom.
+
+[NOTE]
+====
+. Ou “passo”.
+. Lit.: “partidas; saídas”.
+====
+
+[[v4-34-5]]
+
+^<<v4-34-5,5>>^ E em Azmom, o termo tem de mudar de direção para o vale da torrente do Egito, e seu ponto final tem de mostrar ser o Mar.^&#42;1^
+
+[NOTE]
+====
+. Isto é, o Grande Mar, o Mediterrâneo.
+====
+
+[[v4-34-6]]
+
+^<<v4-34-6,6>>^ “‘Quanto ao termo ocidental, tem de mostrar ser para vós o Grande Mar e o litoral. Este se tornará o vosso termo ocidental.
+
+[[v4-34-7]]
+
+^<<v4-34-7,7>>^ “‘Ora, este se tornará o vosso termo setentrional: Desde o Grande Mar demarcareis como termo para vós até o monte Hor.^&#42;1^
+
+[NOTE]
+====
+. A identidade é incerta; talvez se tratasse dum cume destacado na cordilheira do Líbano.
+====
+
+[[v4-34-8]]
+
+^<<v4-34-8,8>>^ Demarcareis o termo desde o monte Hor até a entrada de Hamate, e o ponto final do termo tem de mostrar ser Zedade.
+
+[[v4-34-9]]
+
+^<<v4-34-9,9>>^ E o termo tem de sair até Zifrom,^&#42;1^ e seu ponto final tem de mostrar ser Hazar-Enã. Este se tornará vosso termo setentrional.
+
+[NOTE]
+====
+. Um lugar desconhecido.
+====
+
+[[v4-34-10]]
+
+^<<v4-34-10,10>>^ “‘Então tendes de demarcar para vós como vosso termo no leste desde Hazar-Enã até Sefão.
+
+[[v4-34-11]]
+
+^<<v4-34-11,11>>^ E o termo tem de descer de Sefão^&#42;1^ até Ribla,^&#42;2^ ao leste de Aim, e a fronteira tem de descer e atingir a encosta ao oriente do mar de Quinerete.^&#42;3^
+
+[NOTE]
+====
+. Um lugar desconhecido.
+. A Ribla no termo oriental da terra de Canaã; não a Ribla na terra de Hamate.
+. Isto é, o lago de Genesaré, ou Mar da Galiléia.
+====
+
+[[v4-34-12]]
+
+^<<v4-34-12,12>>^ E a fronteira tem de descer até o Jordão, e seu ponto final tem de mostrar ser o Mar Salgado. Esta se tornará a vossa terra segundo os seus termos ao redor.’”
+
+[[v4-34-13]]
+
+^<<v4-34-13,13>>^ Assim, Moisés ordenou aos filhos de Israel, dizendo: “Esta é a terra que repartireis entre vós por sortes como propriedade, assim como Jeová mandou que se desse às nove tribos e meia.
+
+[[v4-34-14]]
+
+^<<v4-34-14,14>>^ Pois a tribo dos filhos dos rubenitas, pela casa de seus pais, e a tribo dos filhos dos gaditas, pela casa de seus pais, já tomaram, e a meia tribo de Manassés, já tomaram sua herança.
+
+[[v4-34-15]]
+
+^<<v4-34-15,15>>^ As duas tribos e meia já tomaram sua herança da região do Jordão, de Jericó para o leste, para o nascente.”
+
+[[v4-34-16]]
+
+^<<v4-34-16,16>>^ E Jeová falou mais a Moisés, dizendo:
+
+[[v4-34-17]]
+
+^<<v4-34-17,17>>^ “Estes são os nomes dos homens que vos repartirão a terra como propriedade: Eleazar, o sacerdote, e Josué, filho de Num.
+
+[[v4-34-18]]
+
+^<<v4-34-18,18>>^ E tomareis um maioral de cada tribo para repartir a terra como propriedade.
+
+[[v4-34-19]]
+
+^<<v4-34-19,19>>^ E estes são os nomes dos homens: Da tribo de Judá, Calebe, filho de Jefuné;
+
+[[v4-34-20]]
+
+^<<v4-34-20,20>>^ e da tribo dos filhos de Simeão, Semuel, filho de Amiúde;
+
+[[v4-34-21]]
+
+^<<v4-34-21,21>>^ da tribo de Benjamim, Elidade, filho de Quislom;
+
+[[v4-34-22]]
+
+^<<v4-34-22,22>>^ e da tribo dos filhos de Dã, um maioral, Buqui, filho de Jogli;
+
+[[v4-34-23]]
+
+^<<v4-34-23,23>>^ dos filhos de José, da tribo dos filhos de Manassés, um maioral, Haniel, filho de Éfode;
+
+[[v4-34-24]]
+
+^<<v4-34-24,24>>^ e da tribo dos filhos de Efraim, um maioral, Quemuel, filho de Siftã;
+
+[[v4-34-25]]
+
+^<<v4-34-25,25>>^ e da tribo dos filhos de Zebulão, um maioral, Elizafã, filho de Parnaque;
+
+[[v4-34-26]]
+
+^<<v4-34-26,26>>^ e da tribo dos filhos de Issacar, um maioral, Paltiel, filho de Azã;
+
+[[v4-34-27]]
+
+^<<v4-34-27,27>>^ e da tribo dos filhos de Aser, um maioral, Aiúde, filho de Selomi;
+
+[[v4-34-28]]
+
+^<<v4-34-28,28>>^ e da tribo dos filhos de Naftali, um maioral,^&#42;1^ Pedael, filho de Amiúde.”
+
+[NOTE]
+====
+. “Um maioral.” No M, esta expressão ocorre sete vezes nos vv. 22-28; Sy omite todas as sete ocorrências; Vg omite todas, exceto no v. 26, onde tem dux, “líder”. O v. 18 mostra que todos os 12 homens eram maiorais.
+====
+
+[[v4-34-29]]
+
+^<<v4-34-29,29>>^ Estes são os a quem Jeová mandou que fizessem os filhos de Israel proprietários de terra na terra de Canaã.
+
+'''
+
+xref:004-numeros/004-numeros-033.adoc#v4-33-0[&#60; Capítulo Anterior] | <<v4-34-0,Topo>> | xref:004-numeros/004-numeros-035.adoc#v4-35-0[Próximo Capítulo &#62;]

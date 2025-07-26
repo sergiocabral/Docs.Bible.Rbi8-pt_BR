@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v4-28-0]]
+=== Números, 28
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-28-1]]
+
+^<<v4-28-1,1>>^ E Jeová falou mais a Moisés, dizendo:
+
+[[v4-28-2]]
+
+^<<v4-28-2,2>>^ “Dá ordem aos filhos de Israel, e tens de dizer-lhes: ‘Deveis cuidar em apresentar-me a minha oferta, meu pão, para as minhas ofertas feitas por fogo, como cheiro repousante para mim, nos seus tempos designados.’^&#42;1^
+
+[NOTE]
+====
+. “Nos seus tempos designados”, SyVg; M: “no seu tempo designado”.
+====
+
+[[v4-28-3]]
+
+^<<v4-28-3,3>>^ “E tens de dizer-lhes: ‘Esta é a oferta feita por fogo que apresentareis a Jeová: cada dia dois cordeiros sadios, de um ano de idade, como contínua oferta queimada.
+
+[[v4-28-4]]
+
+^<<v4-28-4,4>>^ Um cordeiro ofertarás pela manhã e o outro cordeiro ofertarás entre as duas noitinhas,^&#42;1^
+
+[NOTE]
+====
+. Veja Êx 12:6 n.
+====
+
+[[v4-28-5]]
+
+^<<v4-28-5,5>>^ junto com o décimo de um efa de flor de farinha como oferta de cereais umedecida com um quarto de um him de azeite batido;
+
+[[v4-28-6]]
+
+^<<v4-28-6,6>>^ a contínua oferta queimada que se ofertou no monte Sinai como cheiro repousante, uma oferta feita por fogo a Jeová,
+
+[[v4-28-7]]
+
+^<<v4-28-7,7>>^ junto com a sua oferta de bebida, o quarto de um him para cada cordeiro. Derrama para Jeová no lugar santo a oferta de bebida, de bebida inebriante.
+
+[[v4-28-8]]
+
+^<<v4-28-8,8>>^ E ofertarás o outro cordeiro entre as duas noitinhas. Com a mesma oferta de cereais como de manhã e com a sua mesma oferta de bebida o ofertarás como oferta feita por fogo, de cheiro repousante para Jeová.
+
+[[v4-28-9]]
+
+^<<v4-28-9,9>>^ “‘No entanto, no dia de sábado haverá dois cordeiros sadios de um ano de idade e duas medidas de décimo de flor de farinha como oferta de cereais umedecida com azeite, junto com a sua oferta de bebida,
+
+[[v4-28-10]]
+
+^<<v4-28-10,10>>^ como oferta queimada sabática no seu sábado,^&#42;1^ junto com a contínua oferta queimada e a sua oferta de bebida.
+
+[NOTE]
+====
+. “Como oferta queimada de sábado em sábado”, SamSy.
+====
+
+[[v4-28-11]]
+
+^<<v4-28-11,11>>^ “‘E nos começos dos vossos meses apresentareis a Jeová como oferta queimada dois novilhos e um carneiro, sete cordeiros sadios, cada um da idade de um ano,
+
+[[v4-28-12]]
+
+^<<v4-28-12,12>>^ e três medidas de décimo de flor de farinha como oferta de cereais umedecida com azeite para cada novilho e duas medidas de décimo de flor de farinha como oferta de cereais umedecida com azeite para [este] um carneiro,
+
+[[v4-28-13]]
+
+^<<v4-28-13,13>>^ e uma medida de décimo de flor de farinha, respectivamente, como oferta de cereais umedecida com azeite para cada cordeiro, como oferta queimada, um cheiro repousante, uma oferta feita por fogo a Jeová.
+
+[[v4-28-14]]
+
+^<<v4-28-14,14>>^ E como suas ofertas de bebida deve haver meio him de vinho por novilho e um terço de him para o carneiro, e um quarto de him por cordeiro.^&#42;1^ Esta é a oferta queimada mensal no seu mês para os meses do ano.
+
+[NOTE]
+====
+. Lit.: “pelo cordeiro”, M; LXX: “cada cordeiro”.
+====
+
+[[v4-28-15]]
+
+^<<v4-28-15,15>>^ Também se deve ofertar a Jeová um cabritinho como oferta pelo pecado, em adição à contínua oferta queimada, junto com a sua oferta de bebida.
+
+[[v4-28-16]]
+
+^<<v4-28-16,16>>^ “‘E no primeiro mês, no dia quatorze do mês, haverá a páscoa de Jeová.
+
+[[v4-28-17]]
+
+^<<v4-28-17,17>>^ E no dia quinze deste mês haverá uma festividade. Por sete dias se comerão pães não fermentados.
+
+[[v4-28-18]]
+
+^<<v4-28-18,18>>^ No primeiro dia haverá um santo congresso. Não deveis fazer nenhuma sorte de obra laboriosa.
+
+[[v4-28-19]]
+
+^<<v4-28-19,19>>^ E tereis de apresentar uma oferta queimada como oferta feita por fogo a Jeová: dois novilhos e um carneiro, e sete cordeiros, cada um da idade de um ano. Devem mostrar-se sadios para vós.
+
+[[v4-28-20]]
+
+^<<v4-28-20,20>>^ E como suas ofertas de cereais de flor de farinha umedecida com azeite ofertareis três medidas de décimo por novilho e duas medidas de décimo para o carneiro.
+
+[[v4-28-21]]
+
+^<<v4-28-21,21>>^ Ofertarás uma medida de décimo, respectivamente, para cada cordeiro dos sete cordeiros;
+
+[[v4-28-22]]
+
+^<<v4-28-22,22>>^ e um bode de oferta pelo pecado, para fazer expiação por vós.
+
+[[v4-28-23]]
+
+^<<v4-28-23,23>>^ Além da oferta queimada matutina, que é para a contínua oferta queimada, ofertareis este.
+
+[[v4-28-24]]
+
+^<<v4-28-24,24>>^ Igual a estes ofertareis diariamente, pelos sete dias, como pão, uma oferta feita por fogo, de cheiro repousante para Jeová. Deve ser ofertada junto com a contínua oferta queimada e sua oferta de bebida.
+
+[[v4-28-25]]
+
+^<<v4-28-25,25>>^ E no sétimo dia deveis realizar um santo congresso. Não deveis fazer nenhuma sorte de obra laboriosa.
+
+[[v4-28-26]]
+
+^<<v4-28-26,26>>^ “‘E no dia dos primeiros frutos maduros, quando apresentardes a Jeová uma nova oferta de cereais, na vossa festa das semanas, deveis realizar um santo congresso. Não deveis fazer nenhuma sorte de obra laboriosa.
+
+[[v4-28-27]]
+
+^<<v4-28-27,27>>^ E tereis de apresentar como oferta queimada de cheiro repousante para Jeová dois novilhos, um carneiro, sete cordeiros, cada um da idade de um ano;
+
+[[v4-28-28]]
+
+^<<v4-28-28,28>>^ e como sua oferta de cereais de flor de farinha umedecida com azeite três medidas de décimo para cada novilho, duas medidas de décimo para [este] um carneiro,
+
+[[v4-28-29]]
+
+^<<v4-28-29,29>>^ uma medida de décimo, respectivamente, para cada cordeiro dos sete cordeiros;
+
+[[v4-28-30]]
+
+^<<v4-28-30,30>>^ um cabritinho para fazer expiação por vós.
+
+[[v4-28-31]]
+
+^<<v4-28-31,31>>^ Ofertá-los-eis além da contínua oferta queimada e da sua oferta de cereais. Devem mostrar-se sadios para vós, junto com as suas ofertas de bebida.
+
+'''
+
+xref:004-numeros/004-numeros-027.adoc#v4-27-0[&#60; Capítulo Anterior] | <<v4-28-0,Topo>> | xref:004-numeros/004-numeros-029.adoc#v4-29-0[Próximo Capítulo &#62;]

@@ -1,0 +1,120 @@
+include::./index.adoc[]
+
+[[v19-59-0]]
+=== Salmos, 59
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. “Não arruínes.” De Davi. Mictão.^&#42;1^ Quando Saul mandou que vigiassem a casa, para entregá-lo à morte._
+
+[[v19-59-1]]
+
+^<<v19-59-1,1>>^ Livra-me dos meus inimigos, ó meu Deus;
+Que tu me protejas dos que se levantam contra mim.
+
+[[v19-59-2]]
+
+^<<v19-59-2,2>>^ Livra-me dos que praticam o que é prejudicial
+E salva-me dos homens culpados de sangue.
+
+[[v19-59-3]]
+
+^<<v19-59-3,3>>^ Pois, eis que ficaram de emboscada contra a minha alma;
+Os potentes me atacam
+Sem que houvesse tido revolta da minha parte, nem qualquer pecado da minha parte, ó Jeová.
+
+[[v19-59-4]]
+
+^<<v19-59-4,4>>^ Embora não haja erro, eles correm e se preparam.
+Desperta deveras à minha chamada e vê.
+
+[[v19-59-5]]
+
+^<<v19-59-5,5>>^ E tu, ó Jeová Deus dos exércitos, és o Deus de Israel.
+Acorda deveras, a fim de voltares tua atenção para todas as nações.
+Não mostres favor a quaisquer traidores prejudiciais. Selá.
+
+[[v19-59-6]]
+
+^<<v19-59-6,6>>^ Eles voltam à noitinha;
+Latem como o cão e dão volta à cidade.
+
+[[v19-59-7]]
+
+^<<v19-59-7,7>>^ Eis que borbulham com a sua boca;
+Há espadas nos seus lábios,
+Pois quem está escutando?
+
+[[v19-59-8]]
+
+^<<v19-59-8,8>>^ Tu, porém, ó Jeová, te rirás deles;
+Caçoarás de todas as nações.
+
+[[v19-59-9]]
+
+^<<v19-59-9,9>>^ Ó minha Força,^&#42;1^ a ti é que vou vigiar;
+Pois Deus é minha altura protetora.
+
+[NOTE]
+====
+. “Minha Força”, TLXXVg e vários mss. hebr.; M: “Sua Força”, isto é, a de alguém.
+====
+
+[[v19-59-10]]
+
+^<<v19-59-10,10>>^ Confrontar-me-á o próprio Deus de benevolência^&#42;1^ para comigo;^&#42;2^
+O próprio Deus me fará olhar para os meus adversários hostis.
+
+[NOTE]
+====
+. Ou “amor leal”.
+. “Para comigo”, MmargemT e muitos mss. hebr.
+====
+
+[[v19-59-11]]
+
+^<<v19-59-11,11>>^ Não os mates, para que meu povo não se esqueça.
+Faze-os andar errantes, pela tua energia vital,
+E rebaixa-os, ó nosso escudo, Jeová,^&#42;1^
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-59-12]]
+
+^<<v19-59-12,12>>^ [Pelo] pecado da sua boca, a palavra dos seus lábios;
+E sejam apanhados no seu orgulho,
+Sim, pela imprecação e pela impostura que ensaiam.
+
+[[v19-59-13]]
+
+^<<v19-59-13,13>>^ Acaba [com eles] em furor;
+Acaba [com eles], para que não existam;
+E saibam eles que Deus está governando em Jacó até os confins da terra. Selá.
+
+[[v19-59-14]]
+
+^<<v19-59-14,14>>^ E que retornem à noitinha;
+Que latam como um cão e que dêem volta à cidade.
+
+[[v19-59-15]]
+
+^<<v19-59-15,15>>^ Que estes mesmos andem errantes [em busca] de algo para comer;
+Que não se fartem nem pernoitem.
+
+[[v19-59-16]]
+
+^<<v19-59-16,16>>^ Eu, porém, cantarei a respeito da tua força,
+E de manhã proclamarei com júbilo a tua benevolência.
+Porque mostraste ser para mim uma altura protetora
+E um lugar ao qual fugir no dia da minha aflição.
+
+[[v19-59-17]]
+
+^<<v19-59-17,17>>^ Ó minha Força, a ti vou entoar melodias,
+Porque Deus é minha altura protetora, o Deus de benevolência para comigo.
+
+'''
+
+xref:019-salmo/019-salmo-058.adoc#v19-58-0[&#60; Capítulo Anterior] | <<v19-59-0,Topo>> | xref:019-salmo/019-salmo-060.adoc#v19-60-0[Próximo Capítulo &#62;]

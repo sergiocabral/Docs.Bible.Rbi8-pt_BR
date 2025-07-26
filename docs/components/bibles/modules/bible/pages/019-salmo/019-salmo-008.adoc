@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-8-0]]
+=== Salmos, 8
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, segundo Gitite.^&#42;1^ Uma melodia de Davi._
+
+[[v19-8-1]]
+
+^<<v19-8-1,1>>^ Ó Jeová, nosso Senhor,^&#42;1^ quão majestoso é o teu nome em toda a terra,
+Tu, cuja dignidade é narrada^&#42;2^ acima dos céus!
+
+[NOTE]
+====
+. “Nosso Senhor.” Hebr.: ’Adho·néh·nu, pl. de ’A·dhóhn, para denotar excelência.
+. “Tu, cuja dignidade é narrada.” TSy: “tu, que colocaste (deste) a tua glória”; LXXVgc: “porque a tua magnificência foi elevada”.
+====
+
+[[v19-8-2]]
+
+^<<v19-8-2,2>>^ Da boca de crianças e de bebês fundaste^&#42;1^ a força,
+Por causa dos que te são hostis,
+Para fazer desistir o inimigo e aquele que se vinga.
+
+[NOTE]
+====
+. Ou “corrigiste”, mediante a mudança de uma letra hebr.
+====
+
+[[v19-8-3]]
+
+^<<v19-8-3,3>>^ Quando vejo os teus céus, trabalhos dos teus dedos,
+A lua e as estrelas que preparaste,
+
+[[v19-8-4]]
+
+^<<v19-8-4,4>>^ Que é o homem mortal para que te lembres dele,
+E o filho do homem terreno para que tomes conta dele?
+
+[[v19-8-5]]
+
+^<<v19-8-5,5>>^ Também passaste a fazê-lo um pouco menor que os semelhantes a Deus,^&#42;1^
+E então o coroaste de glória e de esplendor.
+
+[NOTE]
+====
+. “Que os semelhantes a Deus.” Hebr.: me·’elo·hím; TLXXSyVg: “anjos; mensageiros”.
+====
+
+[[v19-8-6]]
+
+^<<v19-8-6,6>>^ Tu o fazes dominar sobre os trabalhos das tuas mãos;
+Puseste tudo debaixo de seus pés:
+
+[[v19-8-7]]
+
+^<<v19-8-7,7>>^ Gado miúdo^&#42;1^ e bois, todos eles,
+E também os animais da campina,
+
+[NOTE]
+====
+. “Gado miúdo”, isto é, ovelhas e cabritos.
+====
+
+[[v19-8-8]]
+
+^<<v19-8-8,8>>^ As aves do céu e os peixes do mar,
+Tudo o que passa pelas veredas dos mares.
+
+[[v19-8-9]]
+
+^<<v19-8-9,9>>^ Ó Jeová, nosso Senhor, quão majestoso é o teu nome em toda a terra!
+
+'''
+
+xref:019-salmo/019-salmo-007.adoc#v19-7-0[&#60; Capítulo Anterior] | <<v19-8-0,Topo>> | xref:019-salmo/019-salmo-009.adoc#v19-9-0[Próximo Capítulo &#62;]

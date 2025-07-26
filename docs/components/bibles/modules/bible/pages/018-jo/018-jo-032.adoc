@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v18-32-0]]
+=== Jó, 32
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-32-1]]
+
+^<<v18-32-1,1>>^ Portanto, estes três homens cessaram de responder a Jó, pois era justo aos seus^&#42;1^ próprios olhos.
+
+[NOTE]
+====
+. “Seus”, isto é, “dele”, M; LXXSy: “seus”, isto é, “deles”.
+====
+
+[[v18-32-2]]
+
+^<<v18-32-2,2>>^ Acendeu-se, porém, a ira de Eliú,^&#42;1^ filho de Baraquel, o buzita, da família de Rão. Sua ira se acendeu contra Jó por ele declarar justa a sua própria alma em vez de a Deus.^&#42;2^
+
+[NOTE]
+====
+. Significando “Meu Deus É Ele”.
+. “Em vez de a Deus.” Hebr.: me·’Elo·hím; LXX: “Jeová”.
+====
+
+[[v18-32-3]]
+
+^<<v18-32-3,3>>^ Sua ira se acendeu também contra os três companheiros dele pelo fato de que não acharam resposta, mas passaram a pronunciar Deus^&#42;1^ iníquo.
+
+[NOTE]
+====
+. Originalmente: “Deus”. M: “Jó”. Os soferins judaicos mudaram no texto original “Deus” para “Jó”. Esta é uma das Dezoito Emendas. Veja Ap. 2B.
+====
+
+[[v18-32-4]]
+
+^<<v18-32-4,4>>^ E o próprio Eliú tinha esperado por Jó com palavras, porque eram mais velhos em dias do que ele.
+
+[[v18-32-5]]
+
+^<<v18-32-5,5>>^ E Eliú viu gradualmente que não havia resposta na boca dos três homens, e sua ira se acendeu ainda mais.
+
+[[v18-32-6]]
+
+^<<v18-32-6,6>>^ E Eliú, filho de Baraquel, o buzita, passou a responder e a dizer:
+“Sou jovem em dias,
+E vós sois idosos.
+Por isso recuei^&#42;1^ e tive medo
+De vos declarar o meu conhecimento.
+
+[NOTE]
+====
+. Ou “temi”. Hebr.: za·hhál·ti.
+====
+
+[[v18-32-7]]
+
+^<<v18-32-7,7>>^ Eu disse: ‘Falem os próprios dias,
+E que a multidão dos anos dê a conhecer a sabedoria.’
+
+[[v18-32-8]]
+
+^<<v18-32-8,8>>^ Decerto é o espírito nos homens mortais
+E o fôlego do Todo-poderoso [que] lhes dá entendimento.
+
+[[v18-32-9]]
+
+^<<v18-32-9,9>>^ Não são apenas os abundantes em dias que se mostram sábios,
+Nem somente os idosos que entendem o juízo.
+
+[[v18-32-10]]
+
+^<<v18-32-10,10>>^ Por isso eu disse: ‘Escuta-me deveras.
+Declararei o meu conhecimento, sim, eu.’
+
+[[v18-32-11]]
+
+^<<v18-32-11,11>>^ Eis que esperei as vossas palavras,
+Dei ouvidos aos vossos raciocínios,
+Até que descobrísseis palavras [para dizer].
+
+[[v18-32-12]]
+
+^<<v18-32-12,12>>^ E mantive voltada a minha atenção para vós,
+E eis que não há quem repreenda a Jó,
+Nenhum de vós responde às suas declarações,
+
+[[v18-32-13]]
+
+^<<v18-32-13,13>>^ Para que não digais: ‘Achamos sabedoria;
+É Deus^&#42;1^ quem o põe em debandada, não o homem.’
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v18-32-14]]
+
+^<<v18-32-14,14>>^ Visto que ele não enfileirou palavras contra mim,
+Não lhe replicarei, pois, com as vossas declarações.
+
+[[v18-32-15]]
+
+^<<v18-32-15,15>>^ Ficaram aterrorizados, não responderam mais;
+As palavras se mudaram deles.
+
+[[v18-32-16]]
+
+^<<v18-32-16,16>>^ E eu esperei, pois não continuaram a falar;
+Porque ficaram parados, não responderam mais.
+
+[[v18-32-17]]
+
+^<<v18-32-17,17>>^ Eu darei a minha parte em resposta, sim, eu;
+Eu declararei meu conhecimento, sim, eu;
+
+[[v18-32-18]]
+
+^<<v18-32-18,18>>^ Pois fiquei cheio de palavras;
+Espírito exerce pressão no meu ventre.
+
+[[v18-32-19]]
+
+^<<v18-32-19,19>>^ Eis que meu ventre é como o vinho sem respiradouro;
+Como odres novos, quer rebentar.
+
+[[v18-32-20]]
+
+^<<v18-32-20,20>>^ Deixai-me falar, para que me dê alívio.
+Abrirei meus lábios para responder.
+
+[[v18-32-21]]
+
+^<<v18-32-21,21>>^ Por favor, não mostre eu parcialidade para com um homem;^&#42;1^
+E não darei título a um homem terreno;^&#42;2^
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’ish.
+. “Homem terreno.” Hebr.: ’a·dhám.
+====
+
+[[v18-32-22]]
+
+^<<v18-32-22,22>>^ Pois certamente não sei como posso dar título;
+Aquele que me fez carregaria facilmente comigo.
+
+'''
+
+xref:018-jo/018-jo-031.adoc#v18-31-0[&#60; Capítulo Anterior] | <<v18-32-0,Topo>> | xref:018-jo/018-jo-033.adoc#v18-33-0[Próximo Capítulo &#62;]

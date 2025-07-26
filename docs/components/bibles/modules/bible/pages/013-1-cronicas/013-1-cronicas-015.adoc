@@ -1,0 +1,150 @@
+include::./index.adoc[]
+
+[[v13-15-0]]
+=== 1 Crônicas, 15
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v13-15-1]]
+
+^<<v13-15-1,1>>^ E ele continuou a construir para si casas na Cidade de Davi; e passou a preparar um lugar para a arca do [verdadeiro] Deus e a armar uma tenda para ela.
+
+[[v13-15-2]]
+
+^<<v13-15-2,2>>^ Foi então que Davi disse: “Ninguém senão os levitas deve carregar a arca do [verdadeiro] Deus, pois eles são os a quem Jeová escolheu para carregar a arca de Jeová^&#42;1^ e para ministrar-lhe por tempo indefinido.”
+
+[NOTE]
+====
+. “Jeová”, Al, Leningrad B 19A e muitos mss.
+====
+
+[[v13-15-3]]
+
+^<<v13-15-3,3>>^ Davi congregou então todo o Israel em Jerusalém para fazer subir a arca de Jeová ao seu lugar que tinha preparado para ela.
+
+[[v13-15-4]]
+
+^<<v13-15-4,4>>^ E Davi passou a ajuntar os filhos de Arão e os levitas;
+
+[[v13-15-5]]
+
+^<<v13-15-5,5>>^ dos filhos de Coate: Uriel, o chefe, e seus irmãos, cento e vinte;
+
+[[v13-15-6]]
+
+^<<v13-15-6,6>>^ dos filhos de Merari: Asaías, o chefe, e seus irmãos, duzentos e vinte;
+
+[[v13-15-7]]
+
+^<<v13-15-7,7>>^ dos filhos de Gersom: Joel, o chefe, e seus irmãos, cento e trinta;
+
+[[v13-15-8]]
+
+^<<v13-15-8,8>>^ dos filhos de Elizafã: Semaías, o chefe, e seus irmãos, duzentos;
+
+[[v13-15-9]]
+
+^<<v13-15-9,9>>^ dos filhos de Hébron: Eliel, o chefe, e seus irmãos, oitenta;
+
+[[v13-15-10]]
+
+^<<v13-15-10,10>>^ dos filhos de Uziel: Aminadabe, o chefe, e seus irmãos, cento e doze.
+
+[[v13-15-11]]
+
+^<<v13-15-11,11>>^ Outrossim, Davi chamou a Zadoque e a Abiatar, os sacerdotes, e os levitas Uriel, Asaías e Joel, Semaías e Eliel, e Aminadabe,
+
+[[v13-15-12]]
+
+^<<v13-15-12,12>>^ e foi dizer-lhes: “Vós sois os cabeças dos pais dos levitas. Santificai-vos, a vós e aos vossos irmãos, e tendes de fazer subir a arca de Jeová, o Deus de Israel, ao lugar que^&#42;1^ preparei para ela.
+
+[NOTE]
+====
+. “Ao lugar que”, TVg e quatro mss. hebr.; M omite isso.
+====
+
+[[v13-15-13]]
+
+^<<v13-15-13,13>>^ Visto que da primeira vez não o fizestes, Jeová, nosso Deus, irrompeu contra nós, porque não o buscamos segundo o costume.”
+
+[[v13-15-14]]
+
+^<<v13-15-14,14>>^ Portanto, os sacerdotes e os levitas santificaram-se para fazerem subir a arca de Jeová, Deus de Israel.
+
+[[v13-15-15]]
+
+^<<v13-15-15,15>>^ Então os filhos dos levitas começaram a carregar a arca do [verdadeiro] Deus, assim como Moisés mandara segundo a palavra de Jeová, nos ombros, com os varais sobre eles.
+
+[[v13-15-16]]
+
+^<<v13-15-16,16>>^ Davi disse então aos chefes dos levitas que colocassem em posição seus irmãos, os cantores, com os instrumentos de canto, os instrumentos de cordas, e as harpas e os címbalos, tocando alto para fazer soar um som de alegria.
+
+[[v13-15-17]]
+
+^<<v13-15-17,17>>^ Por conseguinte, os levitas colocaram em posição a Hemã, filho de Joel, e dos seus irmãos, Asafe, filho de Berequias; e dos filhos de Merari, seus irmãos, Etã, filho de Cusaías;
+
+[[v13-15-18]]
+
+^<<v13-15-18,18>>^ e com eles seus irmãos da segunda turma: Zacarias, Bene e Jaaziel, e Semiramote, e Jeiel, e Uni, Eliabe, e Benaia, e Maaséias, e Matitias, e Elifeleu, e Micnéias, e Obede-Edom, e Jeiel, os porteiros,
+
+[[v13-15-19]]
+
+^<<v13-15-19,19>>^ e os cantores Hemã, Asafe e Etã, com címbalos de cobre para tocar alto;
+
+[[v13-15-20]]
+
+^<<v13-15-20,20>>^ e Zacarias, e Aziel, e Semiramote, e Jeiel, e Uni, e Eliabe, e Maaséias, e Benaia, com instrumentos de cordas afinados segundo Alamote,^&#42;1^
+
+[NOTE]
+====
+. “Alamote”, termo musical não explicado. Lit.: “moças”. Provavelmente referindo-se às vozes de soprano de moças ou ao falsete de meninos.
+====
+
+[[v13-15-21]]
+
+^<<v13-15-21,21>>^ e Matitias, e Elifeleu, e Micnéias, e Obede-Edom, e Jeiel, e Azazias, com harpas afinadas segundo Seminite,^&#42;1^ para agir como regentes;
+
+[NOTE]
+====
+. “Seminite.” Lit.: “a oitava”. Possivelmente referindo-se à oitava nota ou a uma oitava inferior.
+====
+
+[[v13-15-22]]
+
+^<<v13-15-22,22>>^ e Quenanias, chefe dos levitas que faziam o carregamento, dando ele as instruções^&#42;1^ quanto ao carregar, pois era perito;
+
+[NOTE]
+====
+. “Dando ele as instruções.” No hebr., esta frase é um verbo no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v13-15-23]]
+
+^<<v13-15-23,23>>^ e Berequias e Elcana, os porteiros para a Arca;
+
+[[v13-15-24]]
+
+^<<v13-15-24,24>>^ e Sebanias, e Josafá, e Netanel, e Amasai, e Zacarias, e Benaia, e Eliézer, os sacerdotes, tocando alto as trombetas diante da arca do [verdadeiro] Deus, e Obede-Edom e Jeías, os porteiros para a Arca.
+
+[[v13-15-25]]
+
+^<<v13-15-25,25>>^ E Davi, e os anciãos de Israel, e os chefes de mil, vieram a ser os que andavam junto para fazer a arca do pacto de Jeová subir com alegria da casa de Obede-Edom.
+
+[[v13-15-26]]
+
+^<<v13-15-26,26>>^ E sucedeu que, ajudando o [verdadeiro] Deus aos levitas enquanto carregavam a arca do pacto de Jeová, passaram a sacrificar sete novilhos e sete carneiros.
+
+[[v13-15-27]]
+
+^<<v13-15-27,27>>^ E Davi estava vestido duma túnica sem mangas, de tecido fino, e também todos os levitas que carregavam a Arca, e os cantores, e Quenanias, chefe do carregamento feito pelos cantores; mas Davi tinha sobre si um éfode de linho.
+
+[[v13-15-28]]
+
+^<<v13-15-28,28>>^ E todos os israelitas faziam subir a arca do pacto de Jeová com gritos de alegria e com o som da buzina, e com trombetas e com címbalos, tocando alto nos instrumentos de cordas e nas harpas.
+
+[[v13-15-29]]
+
+^<<v13-15-29,29>>^ E sucedeu que, chegando a arca do pacto de Jeová à Cidade de Davi, a própria Mical, filha de Saul, olhava pela janela e via o Rei Davi saltitando e festejando; e ela começou a desprezá-lo no seu coração.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-014.adoc#v13-14-0[&#60; Capítulo Anterior] | <<v13-15-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-016.adoc#v13-16-0[Próximo Capítulo &#62;]

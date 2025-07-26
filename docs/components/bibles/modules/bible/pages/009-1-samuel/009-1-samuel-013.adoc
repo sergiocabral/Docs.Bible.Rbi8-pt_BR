@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v9-13-0]]
+=== 1 Samuel, 13
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-13-1]]
+
+^<<v9-13-1,1>>^ Saul tinha [?]^&#42;1^ anos de idade quando começou a reinar e reinou dois anos sobre Israel.
+
+[NOTE]
+====
+. O número está faltando no M.
+====
+
+[[v9-13-2]]
+
+^<<v9-13-2,2>>^ E Saul passou a escolher para si três mil homens de Israel; e dois mil vieram a ficar com Saul em Micmás e na região montanhosa de Betel, e mil vieram a ficar com Jonatã em Gibeá de Benjamim, e o resto do povo ele mandou embora, cada um para a sua tenda.^&#42;1^
+
+[NOTE]
+====
+. “Tenda”, LXX; MVg: “tendas”; Sy: “casa”.
+====
+
+[[v9-13-3]]
+
+^<<v9-13-3,3>>^ Então Jonatã golpeou a guarnição dos filisteus que havia em Geba;^&#42;1^ e os filisteus chegaram a ouvir isso. Quanto a Saul, fez tocar a buzina em todo o país, dizendo: “Ouçam os hebreus!”
+
+[NOTE]
+====
+. “Geba”, MSy. Veja Jz 20:10 n.: “Gibeá”.
+====
+
+[[v9-13-4]]
+
+^<<v9-13-4,4>>^ E o próprio Israel, todo ele, ouviu contar: “Saul golpeou uma guarnição dos filisteus, e agora Israel ficou cheirando mal entre os filisteus.” Convocou-se, pois, o povo para seguir a Saul a Gilgal.
+
+[[v9-13-5]]
+
+^<<v9-13-5,5>>^ E os filisteus, da sua parte, reuniram-se para lutar contra Israel, trinta^&#42;1^ mil carros de guerra e seis mil cavaleiros, e povo em multidão como os grãos de areia que há à beira do mar; e eles foram subir e começaram a acampar-se em Micmás, ao leste de Bete-Áven.
+
+[NOTE]
+====
+. “Trinta”, MLXXVg; LXXLSy: “três”.
+====
+
+[[v9-13-6]]
+
+^<<v9-13-6,6>>^ E os próprios homens de Israel viram que estavam num sério aperto, porque o povo se via apertado; e o povo se escondeu nas cavernas, e nos recessos, e nos rochedos, e nas criptas,^&#42;1^ e nas cisternas.
+
+[NOTE]
+====
+. Ou “cavidades subterrâneas”.
+====
+
+[[v9-13-7]]
+
+^<<v9-13-7,7>>^ Hebreus até mesmo atravessaram o Jordão para a terra de Gade e de Gileade. Mas o próprio Saul estava ainda em Gilgal, e todo o povo tremia enquanto o seguia.
+
+[[v9-13-8]]
+
+^<<v9-13-8,8>>^ E ele continuou a esperar sete dias, até o tempo designado que Samuel [havia marcado];^&#42;1^ e Samuel não veio a Gilgal, e o povo se espalhava dele.
+
+[NOTE]
+====
+. “Havia marcado”, TLXX e quatro mss. hebr.; M omite isso.
+====
+
+[[v9-13-9]]
+
+^<<v9-13-9,9>>^ Por fim, Saul disse: “Trazei-me o sacrifício queimado e os sacrifícios de participação em comum.” Com isso foi oferecer o sacrifício queimado.
+
+[[v9-13-10]]
+
+^<<v9-13-10,10>>^ E sucedeu que, assim que acabara de oferecer o sacrifício queimado, ora, eis que vinha entrando Samuel. De modo que Saul foi ao encontro dele e o abençoou.
+
+[[v9-13-11]]
+
+^<<v9-13-11,11>>^ Samuel disse então: “Que fizeste?” A isso Saul disse: “Vi que o povo se dispersava de mim, e tu é que não vieste dentro dos dias designados, e os filisteus estavam sendo reunidos em Micmás,
+
+[[v9-13-12]]
+
+^<<v9-13-12,12>>^ portanto, eu disse a mim mesmo:^&#42;1^ ‘Agora descerão os filisteus contra mim a Gilgal e não abrandei a face de Jeová.’ Por isso me constrangi e fui oferecer o sacrifício queimado.”
+
+[NOTE]
+====
+. Ou “pensei”.
+====
+
+[[v9-13-13]]
+
+^<<v9-13-13,13>>^ Então Samuel disse a Saul: “Agiste nesciamente. Não guardaste o mandamento de Jeová, teu Deus, que ele te ordenou, porque se o tivesses [guardado], Jeová teria tornado firme o teu reino sobre Israel por tempo indefinido.
+
+[[v9-13-14]]
+
+^<<v9-13-14,14>>^ E agora teu reino não durará. Jeová certamente achará^&#42;1^ para si um homem que agrade ao seu coração; e Jeová o comissionará como líder do seu povo, porque não guardaste o que Jeová te ordenou.”
+
+[NOTE]
+====
+. Ou “procurará achar”. Veja Sal 27:8; Pr 18:15.
+====
+
+[[v9-13-15]]
+
+^<<v9-13-15,15>>^ Samuel se levantou então e foi subir de Gilgal^&#42;1^ a Gibeá de Benjamim, e Saul passou a fazer a contagem do povo, dos que ainda se achavam com ele, cerca de seiscentos homens.
+
+[NOTE]
+====
+. LXXIt acrescentam: “e o restante do povo subiu atrás de Saul para se encontrar com os guerreiros. Partiram de Gilgal”.
+====
+
+[[v9-13-16]]
+
+^<<v9-13-16,16>>^ E Saul e Jonatã, seu filho, e o povo que ainda se achava com eles moravam em Geba de Benjamim. Quanto aos filisteus, haviam-se acampado em Micmás.
+
+[[v9-13-17]]
+
+^<<v9-13-17,17>>^ E o bando de saqueadores fazia surtidas desde o acampamento dos filisteus, em três companhias. Uma companhia se virava para a estrada de Ofra, para a terra de Sual,
+
+[[v9-13-18]]
+
+^<<v9-13-18,18>>^ e a outra companhia se virava para a estrada de Bete-Horom, e a terceira companhia se virava para a estrada que dá para o termo que olha para o vale de Zeboim,^&#42;1^ para o ermo.
+
+[NOTE]
+====
+. Significando “hienas”.
+====
+
+[[v9-13-19]]
+
+^<<v9-13-19,19>>^ Ora, não se achava ferreiro em toda a terra de Israel, porque os filisteus haviam dito: “Para que os hebreus não façam espada nem lança.”
+
+[[v9-13-20]]
+
+^<<v9-13-20,20>>^ E todos os israelitas desciam até os filisteus para cada um fazer afiar^&#42;1^ sua relha de arado, ou seu enxadão, ou seu machado, ou sua foicinha.
+
+[NOTE]
+====
+. “Forjar”, LXX. Veja Gên 4:22.
+====
+
+[[v9-13-21]]
+
+^<<v9-13-21,21>>^ E o preço da afiação mostrava ser um pim^&#42;1^ para as relhas de arado e para os enxadões, e para os instrumentos de três pontas, e para os machados, e para prender a aguilhada.
+
+[NOTE]
+====
+. Um peso antigo de aproximadamente dois terços de um siclo.
+====
+
+[[v9-13-22]]
+
+^<<v9-13-22,22>>^ E aconteceu que no dia da batalha não se achava nem espada nem lança na mão de qualquer um do povo que estava com Saul e Jonatã; mas, podia achar-se pertencente a Saul e a Jonatã, seu filho.
+
+[[v9-13-23]]
+
+^<<v9-13-23,23>>^ Ora, um posto avançado dos filisteus costumava fazer surtidas ao desfiladeiro de Micmás.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-012.adoc#v9-12-0[&#60; Capítulo Anterior] | <<v9-13-0,Topo>> | xref:009-1-samuel/009-1-samuel-014.adoc#v9-14-0[Próximo Capítulo &#62;]

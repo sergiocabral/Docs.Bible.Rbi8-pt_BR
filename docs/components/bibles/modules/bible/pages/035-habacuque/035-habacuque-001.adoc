@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v35-1-0]]
+=== Habacuque, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v35-1-1]]
+
+^<<v35-1-1,1>>^ A pronúncia visionada por Habacuque, o profeta:
+
+[[v35-1-2]]
+
+^<<v35-1-2,2>>^ Até quando, ó Jeová, terei de clamar por ajuda e tu não ouvirás? [Até quando] clamarei a ti por socorro contra a violência e tu não salvarás?
+
+[[v35-1-3]]
+
+^<<v35-1-3,3>>^ Por que me fazes ver o que é prejudicial e continuas a olhar para a mera desgraça? E [por que] há assolação e violência diante de mim, e [por que] vem a haver altercação, e [por que] se sustenta contenda?
+
+[[v35-1-4]]
+
+^<<v35-1-4,4>>^ Portanto, a lei fica entorpecida e a justiça nunca sai. Visto que o iníquo está em torno do justo, por isso a justiça sai pervertida.
+
+[[v35-1-5]]
+
+^<<v35-1-5,5>>^ “Vede entre as nações e olhai, e olhai pasmados um para o outro. Ficai pasmados; pois nos vossos dias se realiza^&#42;1^ uma atividade [que] não acreditareis, embora seja relatada.^&#42;2^
+
+[NOTE]
+====
+. “Se realiza”, M; LXXSy: “eu realizo”.
+. “Observai-o, desdenhadores, e olhai, e admirai-vos, e desaparecei, porque estou fazendo uma obra nos vossos dias, que de modo algum acreditareis, mesmo que alguém a relate em pormenores”, LXX. Veja At 13:41.
+====
+
+[[v35-1-6]]
+
+^<<v35-1-6,6>>^ Pois eis que suscito os caldeus, nação amarga e impetuosa, que vai aos lugares espaçosos da terra para tomar posse de residências que não lhe pertencem.
+
+[[v35-1-7]]
+
+^<<v35-1-7,7>>^ Aterradora e atemorizante é ela. Sua própria justiça e sua própria dignidade procedem dela mesma.
+
+[[v35-1-8]]
+
+^<<v35-1-8,8>>^ E seus cavalos mostraram-se mais velozes do que os leopardos e mostraram-se mais ferozes do que os lobos da noitinha. E seus corcéis escarvaram o chão e seus próprios corcéis^&#42;1^ vêm de longe. Voam como a águia que se apressa a comer [algo].
+
+[NOTE]
+====
+. Ou “cavaleiros”.
+====
+
+[[v35-1-9]]
+
+^<<v35-1-9,9>>^ Vem na sua totalidade para a mera violência. A reunião das suas faces é como [o] vento oriental,^&#42;1^ e ajunta cativos como areia.
+
+[NOTE]
+====
+. “Como [o] vento oriental”, T e o Comentário Sobre Habacuque dos Rolos do Mar Morto (1QpHab), descobertos em 1947; publ. em inglês. M: “para o leste”; Vg: “como um vento abrasador”.
+====
+
+[[v35-1-10]]
+
+^<<v35-1-10,10>>^ E ela, da sua parte, faz troça dos próprios reis, e os dignitários são algo risível para ela. Da sua parte, ri-se até mesmo de cada praça forte, e amontoa pó e a captura.
+
+[[v35-1-11]]
+
+^<<v35-1-11,11>>^ Naquele tempo certamente avançará [como] o vento^&#42;1^ e passará, e tornar-se-á realmente culpada. Este seu poder se deve ao seu deus.”^&#42;2^
+
+[NOTE]
+====
+. “Vento.” Hebr.: rú·ahh; gr.: pneú·ma; lat.: spí·ri·tus.
+. “Ao seu deus.” Hebr.: le’·lo·hóh; gr.: the·oí; lat.: dé·i.
+====
+
+[[v35-1-12]]
+
+^<<v35-1-12,12>>^ Não és tu desde outrora, ó Jeová? Ó meu Deus,^&#42;1^ meu Santo, tu não morres.^&#42;2^ Ó Jeová, fixaste-a para o julgamento; e tu, ó Rocha, fundaste-a para a repreensão.
+
+[NOTE]
+====
+. “Meu Deus.” Hebr.: ’Elo·haí, pl.
+. “Tu não morres.” Hebr.: lo’ ta·múth. Esta era a versão original, mas os soferins mudaram-na para rezar lo’ na·múth, “nós não morreremos”; T: “tua palavra [aram.: mehm·rákh] ficará (perdurará) por tempos indefinidos”. Veja Ap. 2B.
+====
+
+[[v35-1-13]]
+
+^<<v35-1-13,13>>^ És de olhos puros demais para ver o que é mau; e não podes olhar para a desgraça. Por que olhas para os que agem traiçoeiramente, calando-te quando o iníquo engole aquele que é mais justo do que ele?
+
+[[v35-1-14]]
+
+^<<v35-1-14,14>>^ E [por que] fazes o homem terreno igual aos peixes do mar, igual às coisas rastejantes sobre as quais ninguém domina?
+
+[[v35-1-15]]
+
+^<<v35-1-15,15>>^ Todos estes ele trouxe para cima com o mero anzol; arrasta-os com a sua rede de arrasto e ajunta-os na sua rede de pesca. Por isso ele se alegra e jubila.
+
+[[v35-1-16]]
+
+^<<v35-1-16,16>>^ Por isso oferece sacrifício à sua rede de arrasto e faz fumaça sacrificial para a sua rede de pesca; pois, por meio delas é bem azeitado seu quinhão e seu alimento é saudável.^&#42;1^
+
+[NOTE]
+====
+. Ou “gordo”.
+====
+
+[[v35-1-17]]
+
+^<<v35-1-17,17>>^ É por isso que esvaziará a sua rede de arrasto e terá de matar continuamente nações, não tendo nenhuma compaixão?
+
+'''
+
+xref:034-naum/034-naum-003.adoc#v34-3-0[&#60; Capítulo Anterior] | <<v35-1-0,Topo>> | xref:035-habacuque/035-habacuque-002.adoc#v35-2-0[Próximo Capítulo &#62;]

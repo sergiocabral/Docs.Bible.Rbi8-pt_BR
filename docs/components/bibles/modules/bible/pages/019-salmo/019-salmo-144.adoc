@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v19-144-0]]
+=== Salmos, 144
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_De Davi.^&#42;1^_
+
+[[v19-144-1]]
+
+^<<v19-144-1,1>>^ Bendito seja Jeová, minha Rocha,
+Que adestra as minhas mãos para a peleja,
+Os meus dedos para a guerra;
+
+[[v19-144-2]]
+
+^<<v19-144-2,2>>^ Minha benevolência e minha fortaleza,
+Minha altura protetora e Aquele que me põe a salvo,
+Meu escudo e Aquele em quem me refugiei,
+Aquele que me sujeita povos.^&#42;1^
+
+[NOTE]
+====
+. “Povos”, TSy e muitos mss. hebr.; MLXXVg: “meu povo”.
+====
+
+[[v19-144-3]]
+
+^<<v19-144-3,3>>^ Ó Jeová, que é o homem^&#42;1^ para o notares,
+O filho do homem mortal^&#42;2^ para o teres em conta?
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+. “Homem mortal.” Hebr.: ’enóhsh.
+====
+
+[[v19-144-4]]
+
+^<<v19-144-4,4>>^ O próprio homem se assemelha apenas a uma exalação;
+Seus dias são como uma sombra passageira.
+
+[[v19-144-5]]
+
+^<<v19-144-5,5>>^ Ó Jeová, encurva os céus para desceres;
+Toca nos montes para que fumeguem.
+
+[[v19-144-6]]
+
+^<<v19-144-6,6>>^ Lampeja com relâmpagos para os espalhares;
+Envia as tuas flechas para os lançares em confusão.
+
+[[v19-144-7]]
+
+^<<v19-144-7,7>>^ Estende as tuas mãos desde a altura;
+Liberta-me e livra-me das muitas águas,
+Da mão dos estrangeiros,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “filhos dum (país) estrangeiro”.
+====
+
+[[v19-144-8]]
+
+^<<v19-144-8,8>>^ Cuja boca falou o que não é veraz
+E cuja direita é uma direita de falsidade.
+
+[[v19-144-9]]
+
+^<<v19-144-9,9>>^ Ó Deus, vou cantar-te um novo cântico.
+Vou entoar melodias num instrumento de dez cordas a ti,
+
+[[v19-144-10]]
+
+^<<v19-144-10,10>>^ Aquele que dá salvação a reis,
+Aquele que liberta a Davi, seu servo, da espada maligna.
+
+[[v19-144-11]]
+
+^<<v19-144-11,11>>^ Liberta-me e livra-me da mão dos estrangeiros,
+Cuja boca falou o que não é veraz
+E cuja direita é uma direita de falsidade,
+
+[[v19-144-12]]
+
+^<<v19-144-12,12>>^ Que [dizem]: “Nossos filhos são como plantinhas crescidas na sua mocidade,
+Nossas filhas, como ângulos esculpidos em estilo palacial,
+
+[[v19-144-13]]
+
+^<<v19-144-13,13>>^ Nossos celeiros estão cheios, suprindo produtos de uma sorte após outra,^&#42;1^
+Nossos rebanhos se multiplicam aos milhares, dez mil por um, nas nossas ruas,
+
+[NOTE]
+====
+. Lit.: “de sorte em sorte”.
+====
+
+[[v19-144-14]]
+
+^<<v19-144-14,14>>^ Nossas reses estão carregadas, sem ruptura nem aborto,
+E sem clamor nas nossas praças públicas.
+
+[[v19-144-15]]
+
+^<<v19-144-15,15>>^ Feliz o povo para quem é assim!”
+Feliz o povo cujo Deus é Jeová!
+
+'''
+
+xref:019-salmo/019-salmo-143.adoc#v19-143-0[&#60; Capítulo Anterior] | <<v19-144-0,Topo>> | xref:019-salmo/019-salmo-145.adoc#v19-145-0[Próximo Capítulo &#62;]

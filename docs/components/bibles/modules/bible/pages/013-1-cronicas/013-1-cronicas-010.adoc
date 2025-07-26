@@ -1,0 +1,70 @@
+include::./index.adoc[]
+
+[[v13-10-0]]
+=== 1 Crônicas, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v13-10-1]]
+
+^<<v13-10-1,1>>^ E os filisteus, da sua parte, fizeram guerra a Israel; e os homens de Israel puseram-se em fuga diante dos filisteus e caíam mortos no monte Gilboa.
+
+[[v13-10-2]]
+
+^<<v13-10-2,2>>^ E os filisteus mantiveram-se perto de Saul e de seus filhos; e os filisteus chegaram a golpear Jonatã, e Abinadabe, e Malquisua, filhos de Saul.
+
+[[v13-10-3]]
+
+^<<v13-10-3,3>>^ E a luta ficou intensa contra Saul; e por fim o acharam os que atiravam com o arco e ele foi ferido pelos atiradores.
+
+[[v13-10-4]]
+
+^<<v13-10-4,4>>^ Saul disse então ao seu escudeiro: “Puxa a tua espada e traspassa-me com ela, para que não venham estes incircuncisos e certamente abusem de mim.” E seu escudeiro não quis, porque estava com muito medo. Saul tomou, pois, a espada e lançou-se sobre ela.
+
+[[v13-10-5]]
+
+^<<v13-10-5,5>>^ Quando seu escudeiro viu que Saul tinha morrido, lançou-se também sobre a espada e morreu.
+
+[[v13-10-6]]
+
+^<<v13-10-6,6>>^ Assim morreram Saul e seus três filhos, e morreram juntos todos os da sua casa.
+
+[[v13-10-7]]
+
+^<<v13-10-7,7>>^ Quando todos os homens de Israel, que se achavam na baixada, viram que tinham fugido e que Saul e seus filhos tinham morrido, então começaram a deixar as suas cidades e a fugir; depois entraram os filisteus e passaram a morar nelas.
+
+[[v13-10-8]]
+
+^<<v13-10-8,8>>^ E sucedeu no dia seguinte, quando os filisteus vieram para despir os que foram mortos, que foram achar Saul e seus filhos caídos no monte Gilboa.
+
+[[v13-10-9]]
+
+^<<v13-10-9,9>>^ E passaram a despi-lo e a tirar-lhe a cabeça, e sua armadura, e passaram a enviar [mensageiros] à terra dos filisteus em derredor para notificar seus ídolos e o povo.
+
+[[v13-10-10]]
+
+^<<v13-10-10,10>>^ Por fim puseram a armadura dele na casa de seu deus,^&#42;1^ e o crânio dele prenderam à casa de Dagom.
+
+[NOTE]
+====
+. “Seu deus.” Ou “seus deuses”. Hebr.: ’elo·heh·hém, pl. de ’elóh·ah, para denotar a excelência do deus filisteu, Dagom; gr.: the·oú; lat.: dé·i. Veja Jz 16:23 n.
+====
+
+[[v13-10-11]]
+
+^<<v13-10-11,11>>^ E todos os de Jabes em Gileade chegaram a ouvir tudo o que os filisteus tinham feito a Saul.
+
+[[v13-10-12]]
+
+^<<v13-10-12,12>>^ De modo que se levantaram todos os homens valentes e carregaram o cadáver de Saul e os cadáveres de seus filhos, e trouxeram-nos a Jabes e enterraram seus ossos debaixo da árvore grande em Jabes; e foram jejuar por sete dias.
+
+[[v13-10-13]]
+
+^<<v13-10-13,13>>^ Assim morreu Saul pela sua infidelidade com que agiu sem fé contra Jeová referente à palavra de Jeová que não guardou e também por pedir a um médium espírita que fizesse uma consulta.
+
+[[v13-10-14]]
+
+^<<v13-10-14,14>>^ E não consultou a Jeová. Por conseguinte, este o entregou à morte e transferiu o reinado a Davi, filho de Jessé.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-009.adoc#v13-9-0[&#60; Capítulo Anterior] | <<v13-10-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-011.adoc#v13-11-0[Próximo Capítulo &#62;]

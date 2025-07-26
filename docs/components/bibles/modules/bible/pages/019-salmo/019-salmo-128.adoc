@@ -1,0 +1,47 @@
+include::./index.adoc[]
+
+[[v19-128-0]]
+=== Salmos, 128
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Cântico das Subidas._
+
+[[v19-128-1]]
+
+^<<v19-128-1,1>>^ Feliz todo aquele que teme a Jeová,
+Que anda nos seus caminhos.
+
+[[v19-128-2]]
+
+^<<v19-128-2,2>>^ Pois comerás o fruto da labuta das tuas próprias mãos.
+Feliz serás e te irá bem.
+
+[[v19-128-3]]
+
+^<<v19-128-3,3>>^ Tua esposa será como uma videira frutífera,
+Nas partes mais recônditas da tua casa.
+Teus filhos serão como mudas de oliveiras ao redor da tua mesa.
+
+[[v19-128-4]]
+
+^<<v19-128-4,4>>^ Eis que assim será abençoado o varão vigoroso
+Que teme a Jeová.
+
+[[v19-128-5]]
+
+^<<v19-128-5,5>>^ Jeová te abençoará desde Sião.
+Vê também^&#42;1^ o bom de Jerusalém todos os dias da tua vida,
+
+[NOTE]
+====
+. Ou: “Portanto, vê.”
+====
+
+[[v19-128-6]]
+
+^<<v19-128-6,6>>^ E vê os filhos dos teus filhos.
+Haja paz sobre Israel.
+
+'''
+
+xref:019-salmo/019-salmo-127.adoc#v19-127-0[&#60; Capítulo Anterior] | <<v19-128-0,Topo>> | xref:019-salmo/019-salmo-129.adoc#v19-129-0[Próximo Capítulo &#62;]

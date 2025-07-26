@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v20-28-0]]
+=== Provérbios, 28
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-28-1]]
+
+^<<v20-28-1,1>>^ Os iníquos fogem deveras quando não há quem os persiga, mas os justos são como o leão novo que é confiante.
+
+[[v20-28-2]]
+
+^<<v20-28-2,2>>^ Por causa da transgressão de uma terra são muitos os seus [sucessivos] príncipes, porém, por meio dum homem de discernimento,^&#42;1^ que tem conhecimento do que é direito, [o príncipe]^&#42;2^ permanecerá por muito tempo.
+
+[NOTE]
+====
+. Lit.: “porém, por meio dum homem terreno discernidor”. Hebr.: u·ve’a·dhám me·vín.
+. Lit.: “ele”.
+====
+
+[[v20-28-3]]
+
+^<<v20-28-3,3>>^ O varão vigoroso de poucos meios e que defrauda os de condição humilde é como a chuva que arrasa, de modo que não há alimento.
+
+[[v20-28-4]]
+
+^<<v20-28-4,4>>^ Os que abandonam a lei louvam o iníquo, mas os que guardam a lei excitam-se contra eles.
+
+[[v20-28-5]]
+
+^<<v20-28-5,5>>^ Homens dados à maldade não podem entender o juízo, mas os que procuram a Jeová podem entender tudo.
+
+[[v20-28-6]]
+
+^<<v20-28-6,6>>^ Melhor é o de poucos meios que anda na sua integridade, do que o pervertido nos [seus] caminhos, embora seja rico.
+
+[[v20-28-7]]
+
+^<<v20-28-7,7>>^ O filho entendido observa a lei, mas aquele que mantém companheirismo com os glutões humilha seu pai.
+
+[[v20-28-8]]
+
+^<<v20-28-8,8>>^ Quem multiplica os seus valores por meio de juros e usura reúne-os apenas para aquele que mostra favor aos de condição humilde.
+
+[[v20-28-9]]
+
+^<<v20-28-9,9>>^ Quem desvia seu ouvido de ouvir a lei — até mesmo sua oração é algo detestável.
+
+[[v20-28-10]]
+
+^<<v20-28-10,10>>^ Quem faz que os retos se percam no caminho mau cairá ele mesmo na sua própria cova, mas, os que estão sem defeito são os que entrarão na posse do bem.
+
+[[v20-28-11]]
+
+^<<v20-28-11,11>>^ O homem rico é sábio aos seus próprios olhos, mas o de condição humilde que tem discernimento esquadrinha-o.
+
+[[v20-28-12]]
+
+^<<v20-28-12,12>>^ Quando os justos se regozijam, há abundante beleza; mas quando os iníquos se levantam, o homem se disfarça.
+
+[[v20-28-13]]
+
+^<<v20-28-13,13>>^ Quem encobre as suas transgressões não será bem sucedido, mas, ter-se-á misericórdia com aquele que [as] confessa e abandona.
+
+[[v20-28-14]]
+
+^<<v20-28-14,14>>^ Feliz o homem que constantemente sente pavor, mas aquele que endurece seu coração cairá em calamidade.
+
+[[v20-28-15]]
+
+^<<v20-28-15,15>>^ Como o leão que ruge e o urso que arremete é o governante iníquo sobre o povo de condição humilde.
+
+[[v20-28-16]]
+
+^<<v20-28-16,16>>^ O líder que carece de verdadeiro discernimento é também abundante em práticas fraudulentas, mas aquele que odeia o lucro injusto prolongará os [seus] dias.
+
+[[v20-28-17]]
+
+^<<v20-28-17,17>>^ O homem sobrecarregado de culpa de sangue por causa de uma alma é quem fugirá para o poço. Que não o segurem.
+
+[[v20-28-18]]
+
+^<<v20-28-18,18>>^ Quem anda sem defeito será salvo, mas aquele que é pervertido nos [seus] caminhos cairá imediatamente.
+
+[[v20-28-19]]
+
+^<<v20-28-19,19>>^ Quem cultiva o seu próprio solo terá fartura de pão, e aquele que se empenha por coisas sem valor terá fartura de pobreza.
+
+[[v20-28-20]]
+
+^<<v20-28-20,20>>^ O homem de atos fiéis^&#42;1^ receberá muitas bênçãos, mas aquele que se precipita para enriquecer não ficará inocente.
+
+[NOTE]
+====
+. “O homem de atos fiéis.” Hebr.: ’ish ’emu·nóhth.
+====
+
+[[v20-28-21]]
+
+^<<v20-28-21,21>>^ Mostrar parcialidade^&#42;1^ não é bom, nem que o varão vigoroso transgrida por um mero pedaço de pão.
+
+[NOTE]
+====
+. Lit.: “Discriminar faces.”
+====
+
+[[v20-28-22]]
+
+^<<v20-28-22,22>>^ O homem de olho invejoso atarefa-se para [obter] coisas valiosas, mas não sabe que virá sobre ele a própria carência.
+
+[[v20-28-23]]
+
+^<<v20-28-23,23>>^ Quem repreende a um homem achará depois mais favor do que aquele que lisonjeia com a sua língua.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “faz macia a língua”. Ou “usa língua macia”.
+====
+
+[[v20-28-24]]
+
+^<<v20-28-24,24>>^ Quem rouba seu pai e sua mãe, e diz: “Não é transgressão”, é sócio do homem que causa ruína.
+
+[[v20-28-25]]
+
+^<<v20-28-25,25>>^ O arrogante na alma suscita contenda, mas ao que confia em Jeová se fará engordar.
+
+[[v20-28-26]]
+
+^<<v20-28-26,26>>^ Quem confia no seu próprio coração é estúpido, mas aquele que anda em sabedoria é o que escapará.
+
+[[v20-28-27]]
+
+^<<v20-28-27,27>>^ Quem dá àquele de poucos meios não terá carência, mas aquele que oculta os seus olhos receberá muitas maldições.
+
+[[v20-28-28]]
+
+^<<v20-28-28,28>>^ Quando se levantam os iníquos, esconde-se o homem;^&#42;1^ mas quando perecem, tornam-se muitos os justos.
+
+[NOTE]
+====
+. Lit.: “homem terreno”. Hebr.: ’a·dhám.
+====
+
+'''
+
+xref:020-proverbios/020-proverbios-027.adoc#v20-27-0[&#60; Capítulo Anterior] | <<v20-28-0,Topo>> | xref:020-proverbios/020-proverbios-029.adoc#v20-29-0[Próximo Capítulo &#62;]

@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v14-12-0]]
+=== 2 Crônicas, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v14-12-1]]
+
+^<<v14-12-1,1>>^ E sucedeu que, assim que o reinado de Roboão ficou firmemente estabelecido e assim que ele se tornou forte, abandonou a lei de Jeová, e com ele também todo o Israel.
+
+[[v14-12-2]]
+
+^<<v14-12-2,2>>^ E aconteceu, no quinto ano do Rei Roboão, que Sisaque, rei do Egito, subiu contra Jerusalém, (porque se tinham comportado de modo infiel para com Jeová,)
+
+[[v14-12-3]]
+
+^<<v14-12-3,3>>^ com mil e duzentos carros e com sessenta mil cavaleiros; e não havia número para o povo que veio com ele do Egito — líbios,^&#42;1^ suquins e etíopes.^&#42;2^
+
+[NOTE]
+====
+. “Líbios.” Hebr.: Lu·vím.
+. “E etíopes”, LXXVg; hebr.: weKhu·shím, “e cusitas”.
+====
+
+[[v14-12-4]]
+
+^<<v14-12-4,4>>^ E ele chegou a capturar as cidades fortificadas que pertenciam a Judá e por fim chegou até Jerusalém.
+
+[[v14-12-5]]
+
+^<<v14-12-5,5>>^ Ora, quanto a Semaías, o profeta, ele chegou a Roboão e aos príncipes de Judá, que se tinham ajuntado em Jerusalém por causa de Sisaque, e passou a dizer-lhes: “Assim disse Jeová: ‘Vós, da vossa parte, me abandonastes, e também eu, da minha parte, vos abandonei à mão de Sisaque.’”
+
+[[v14-12-6]]
+
+^<<v14-12-6,6>>^ Em vista disso, os príncipes de Israel e o rei se humilharam e disseram: “Jeová é justo.”
+
+[[v14-12-7]]
+
+^<<v14-12-7,7>>^ E quando Jeová viu que se tinham humilhado, veio a palavra de Jeová a Semaías, dizendo: “Humilharam-se. Não os arruinarei, e em breve lhes hei de dar escape, e a minha ira não se derramará sobre Jerusalém pela mão de Sisaque.
+
+[[v14-12-8]]
+
+^<<v14-12-8,8>>^ Mas tornar-se-ão servos dele, para que saibam a diferença entre o meu serviço e o serviço dos reinos dos países.”
+
+[[v14-12-9]]
+
+^<<v14-12-9,9>>^ De modo que Sisaque, rei do Egito, subiu contra Jerusalém e tomou os tesouros da casa de Jeová e os tesouros da casa do rei. Tomou tudo; e tomou, pois, os escudos de ouro que Salomão tinha feito.
+
+[[v14-12-10]]
+
+^<<v14-12-10,10>>^ Por conseguinte, o Rei Roboão fez em lugar deles escudos de cobre e entregou-os aos cuidados dos chefes dos batedores, os guardas da entrada da casa do rei.
+
+[[v14-12-11]]
+
+^<<v14-12-11,11>>^ E acontecia que, sempre que o rei vinha à casa de Jeová, entravam os batedores e os carregavam, e os devolviam à sala da guarda dos batedores.
+
+[[v14-12-12]]
+
+^<<v14-12-12,12>>^ E por ele se ter humilhado, a ira de Jeová retrocedeu dele, e não [pensou em] arruiná-los completamente. E além disso, sucedeu haver coisas boas em Judá.
+
+[[v14-12-13]]
+
+^<<v14-12-13,13>>^ E o Rei Roboão continuou a fortificar a sua posição em Jerusalém e seguiu reinando; porque Roboão tinha quarenta e um anos de idade quando começou a reinar e reinou por dezessete anos em Jerusalém, a cidade que Jeová escolhera dentre todas as tribos de Israel para pôr ali seu nome. E o nome de sua mãe era Naamá, a amonita.
+
+[[v14-12-14]]
+
+^<<v14-12-14,14>>^ Mas ele fez o que era mau, pois não fixara firmemente seu coração em buscar a Jeová.
+
+[[v14-12-15]]
+
+^<<v14-12-15,15>>^ Quanto aos assuntos de Roboão, os primeiros e os últimos, não estão escritos entre as palavras de Semaías, o profeta, e de Ido, o visionário, segundo o registro genealógico? E todo o tempo houve guerras entre Roboão e Jeroboão.
+
+[[v14-12-16]]
+
+^<<v14-12-16,16>>^ Por fim, Roboão deitou-se com os seus antepassados e foi enterrado na Cidade de Davi; e Abias,^&#42;1^ seu filho, começou a reinar em seu lugar.
+
+[NOTE]
+====
+. “Abijão” em 1Rs 14:31; 1Rs 15:1, 7, 8.
+====
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-011.adoc#v14-11-0[&#60; Capítulo Anterior] | <<v14-12-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-013.adoc#v14-13-0[Próximo Capítulo &#62;]

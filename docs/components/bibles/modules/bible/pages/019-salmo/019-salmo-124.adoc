@@ -1,0 +1,58 @@
+include::./index.adoc[]
+
+[[v19-124-0]]
+=== Salmos, 124
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Cântico das Subidas. De Davi._
+
+[[v19-124-1]]
+
+^<<v19-124-1,1>>^ “Se não fosse que Jeová mostrou ser por nós”,
+Diga então Israel:
+
+[[v19-124-2]]
+
+^<<v19-124-2,2>>^ “Se não fosse que Jeová mostrou ser por nós,
+Quando homens^&#42;1^ se levantaram contra nós,
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v19-124-3]]
+
+^<<v19-124-3,3>>^ Então nos teriam tragado até mesmo vivos,
+Quando sua ira ardia contra nós.
+
+[[v19-124-4]]
+
+^<<v19-124-4,4>>^ Então as próprias águas nos teriam levado de enxurrada,
+A própria torrente teria passado sobre a nossa alma.
+
+[[v19-124-5]]
+
+^<<v19-124-5,5>>^ Então teriam passado sobre a nossa alma
+As águas da presunção.
+
+[[v19-124-6]]
+
+^<<v19-124-6,6>>^ Bendito seja Jeová, que não nos entregou
+Como presa aos dentes deles.
+
+[[v19-124-7]]
+
+^<<v19-124-7,7>>^ Nossa alma é como o pássaro que escapou
+Da armadilha dos enlaçadores.
+A armadilha está destroçada
+E nós mesmos escapamos.
+
+[[v19-124-8]]
+
+^<<v19-124-8,8>>^ Nossa ajuda está no nome de Jeová,
+Aquele que fez o céu e a terra.”
+
+'''
+
+xref:019-salmo/019-salmo-123.adoc#v19-123-0[&#60; Capítulo Anterior] | <<v19-124-0,Topo>> | xref:019-salmo/019-salmo-125.adoc#v19-125-0[Próximo Capítulo &#62;]

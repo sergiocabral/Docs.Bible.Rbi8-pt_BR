@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v19-42-0]]
+=== Salmos, 42
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_LIVRO SEGUNDO_
+
+_(Salmos 42 - 72)_
+
+_Ao regente. Masquil^&#42;1^ para os filhos de Corá._
+
+[[v19-42-1]]
+
+^<<v19-42-1,1>>^ Assim como a cerva anseia os regos de água,
+Assim a minha própria alma te anseia, ó Deus.^&#42;1^
+
+[NOTE]
+====
+. “Ó Deus”, MLXXVg; TSy: “ó Jeová”.
+====
+
+[[v19-42-2]]
+
+^<<v19-42-2,2>>^ Minha alma deveras está sedenta de Deus, do Deus vivente.^&#42;1^
+Quando chegarei e comparecerei perante^&#42;2^ Deus?
+
+[NOTE]
+====
+. “Do Deus vivente.” Hebr.: le’Él·hhai. Veja Ap. 1J para conhecer outros termos e títulos descritivos aplicados a Jeová.
+. “Comparecerei perante”, MLXXVg; TSy: “verei a face de”.
+====
+
+[[v19-42-3]]
+
+^<<v19-42-3,3>>^ As minhas lágrimas se tornaram para mim alimento de dia e de noite,
+Ao passo que me dizem^&#42;1^ o dia inteiro: “Onde está o teu Deus?”
+
+[NOTE]
+====
+. “Dizem”, pl., Sy e quatro mss. hebr.
+====
+
+[[v19-42-4]]
+
+^<<v19-42-4,4>>^ Vou lembrar-me destas coisas e vou derramar minha alma no meu íntimo.
+Pois eu costumava passar adiante com a multidão de gente,
+Eu costumava andar vagarosamente diante deles até a casa de Deus,^&#42;1^
+Com voz de clamor jubilante e com agradecimento
+Duma massa de gente celebrando uma festividade.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v19-42-5]]
+
+^<<v19-42-5,5>>^ Por que te desesperas, ó minha alma,
+E por que estás turbulenta no meu íntimo?
+Espera por Deus,
+Porque eu ainda o elogiarei como a grandiosa salvação^&#42;1^ da minha pessoa.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “as salvações”. Hebr.: yeshu·‛óhth, pl. para denotar majestade.
+. “Minha face”, LXXSyVg e v. 11; MT: “sua face”. Veja 2Sa 17:11 n.: “pessoa”.
+====
+
+[[v19-42-6]]
+
+^<<v19-42-6,6>>^ Ó meu Deus,^&#42;1^ a minha própria alma se desespera no meu íntimo.
+Por isso é que me lembro de ti,
+Desde a terra do Jordão e dos cumes do Hermom,^&#42;2^
+Desde o pequeno monte.^&#42;3^
+
+[NOTE]
+====
+. “Ó meu Deus.” Hebr.: ’Elo·haí.
+. Ou “e os lugares (cumes) sagrados”.
+. Lit.: “desde o monte de pequenez”. Hebr.: me·hár mits·‛ár; mediante uma correção: “Sião”.
+====
+
+[[v19-42-7]]
+
+^<<v19-42-7,7>>^ Água de profundeza clama a água de profundeza^&#42;1^
+Ao som dos teus jorros [de água].^&#42;2^
+Todas as tuas ondas de rebentação e tuas vagas —
+Sobre mim é que passaram.
+
+[NOTE]
+====
+. Ou: “Águas empoladas a águas empoladas”, M; LXXVg: “Abismo a abismo.”
+. “Tuas cataratas”, LXXVg.
+====
+
+[[v19-42-8]]
+
+^<<v19-42-8,8>>^ De dia Jeová ordenará a sua benevolência^&#42;1^
+E de noite estará comigo seu cântico;
+Haverá oração ao Deus da minha vida.^&#42;2^
+
+[NOTE]
+====
+. Ou “amor leal”.
+. “Ao Deus da minha vida”, M(hebr.: le·’Él hhai·yaí)TLXXVg; Sy e muitos mss. hebr.: “ao Deus vivente”. Veja v. 2.
+====
+
+[[v19-42-9]]
+
+^<<v19-42-9,9>>^ Vou dizer a Deus, meu rochedo:
+“Por que te esqueceste de mim?
+Por que ando triste por causa da opressão da parte do inimigo?”
+
+[[v19-42-10]]
+
+^<<v19-42-10,10>>^ Os que me são hostis me vituperaram com um assassinato contra os meus ossos,
+Ao passo que me dizem o dia inteiro: “Onde está o teu Deus?”
+
+[[v19-42-11]]
+
+^<<v19-42-11,11>>^ Por que te desesperas, ó minha alma,
+E por que estás turbulenta no meu íntimo?
+Espera por Deus,
+Porque eu ainda o elogiarei como a grandiosa salvação da minha pessoa^&#42;1^ e como o meu Deus.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “minha face”. Veja v. 5 n.: “pessoa”.
+. “E como o meu Deus.” Hebr.: wE’·lo·haí.
+====
+
+'''
+
+xref:019-salmo/019-salmo-041.adoc#v19-41-0[&#60; Capítulo Anterior] | <<v19-42-0,Topo>> | xref:019-salmo/019-salmo-043.adoc#v19-43-0[Próximo Capítulo &#62;]

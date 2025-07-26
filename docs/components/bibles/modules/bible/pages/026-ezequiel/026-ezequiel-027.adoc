@@ -1,0 +1,230 @@
+include::./index.adoc[]
+
+[[v26-27-0]]
+=== Ezequiel, 27
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v26-27-1]]
+
+^<<v26-27-1,1>>^ E continuou a vir a haver para mim a palavra de Jeová, dizendo:
+
+[[v26-27-2]]
+
+^<<v26-27-2,2>>^ “E quanto a ti, ó filho do homem, levanta uma endecha concernente a Tiro,
+
+[[v26-27-3]]
+
+^<<v26-27-3,3>>^ e tens de dizer a Tiro:
+“‘Ó tu que estás morando às entradas do mar, mulher negociadora dos povos para muitas ilhas, assim disse o Soberano Senhor Jeová: “Ó Tiro, tu mesma disseste: ‘Sou perfeita em lindeza.’^&#42;1^
+
+[NOTE]
+====
+. Ou “formosura”.
+====
+
+[[v26-27-4]]
+
+^<<v26-27-4,4>>^ Teus territórios estão no coração dos mares. Teus próprios construtores aperfeiçoaram a tua lindeza.
+
+[[v26-27-5]]
+
+^<<v26-27-5,5>>^ De madeira de juníperos procedente de Senir^&#42;1^ fabricaram para ti todas as pranchas. Tomaram um cedro do Líbano para fazer sobre ti um mastro.
+
+[NOTE]
+====
+. “Monte Hermom” em De 3:8, 9.
+====
+
+[[v26-27-6]]
+
+^<<v26-27-6,6>>^ Fizeram os teus remos de árvores maciças de Basã. Tua proa^&#42;1^ fizeram com marfim em madeira de cipreste,^&#42;2^ procedente das ilhas de Quitim.
+
+[NOTE]
+====
+. Ou “tábuas; pranchas”, em sentido coletivo.
+. “Em madeira de cipreste”, em harmonia com T; M: “a filha dos asuritas”.
+====
+
+[[v26-27-7]]
+
+^<<v26-27-7,7>>^ A extensão dos teus panos veio a ser de linho de várias cores, procedente do Egito, para servir-te de vela. A cobertura do teu convés mostrou ser de linha azul e de lã tingida de roxo, das ilhas de Elisá.
+
+[[v26-27-8]]
+
+^<<v26-27-8,8>>^ “‘“Os próprios habitantes de Sídon e de Arvade tornaram-se para ti remadores. Teus práticos,^&#42;1^ ó Tiro, vieram a estar em ti; eram os teus marinheiros.
+
+[NOTE]
+====
+. Lit.: “sábios”.
+====
+
+[[v26-27-9]]
+
+^<<v26-27-9,9>>^ Até mesmo homens idosos de Gebal^&#42;1^ e seus hábeis vieram a estar em ti como calafates das tuas juntas.^&#42;2^ Todos os navios do mar e os próprios marujos deles vieram a estar em ti, para o intercâmbio de artigos negociáveis.
+
+[NOTE]
+====
+. “Os anciãos dos bíblios”, LXX.
+. Ou “vazamentos”.
+====
+
+[[v26-27-10]]
+
+^<<v26-27-10,10>>^ Persas, e ludins, e homens de Pute — vieram a estar na tua força militar, teus homens de guerra. Penduraram em ti o escudo e o capacete. Eles eram os que causavam o teu esplendor.
+
+[[v26-27-11]]
+
+^<<v26-27-11,11>>^ Os filhos de Arvade, sim, tua força militar, estavam sobre as tuas muralhas em todo o redor, e homens valorosos^&#42;1^ eram os que vieram a estar nas tuas próprias torres. Penduravam os seus escudos redondos nas tuas muralhas em todo o redor. Eles é que aperfeiçoavam a tua lindeza.
+
+[NOTE]
+====
+. “E homens valorosos.” Hebr.: wegham·ma·dhím; lat.: Pig·mé·i, “pigmeus”.
+====
+
+[[v26-27-12]]
+
+^<<v26-27-12,12>>^ “‘“Társis era teu mercador, por causa da abundância de toda espécie de coisas valiosas. Pela [sua] prata, ferro, estanho e chumbo davam-se as tuas coisas armazenadas.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “eles (pessoas) davam as tuas coisas armazenadas”.
+====
+
+[[v26-27-13]]
+
+^<<v26-27-13,13>>^ Javã, Tubal e Meseque é que eram os teus negociantes. Pelas almas do gênero humano^&#42;1^ e pelos objetos de cobre davam-se teus artigos negociáveis.^&#42;2^
+
+[NOTE]
+====
+. Ou “do homem terreno”. Hebr.: ’a·dhám.
+. Lit.: “eles (pessoas) davam teus artigos negociáveis”.
+====
+
+[[v26-27-14]]
+
+^<<v26-27-14,14>>^ Procedentes da casa de Togarma havia cavalos, e corcéis, e mulos, [pelos quais] se davam as tuas coisas armazenadas.
+
+[[v26-27-15]]
+
+^<<v26-27-15,15>>^ Os filhos de Dedã^&#42;1^ eram os teus negociantes; muitas ilhas eram mercadores a teu serviço;^&#42;2^ pagaram-te de volta chifres de marfim e ébano como dádiva^&#42;3^ para ti.
+
+[NOTE]
+====
+. “Dedã”, MTVg; LXX: “os rodienses”.
+. Lit.: “mão”.
+. Ou “tributo”.
+====
+
+[[v26-27-16]]
+
+^<<v26-27-16,16>>^ Edom^&#42;1^ era teu mercador por causa da abundância dos teus trabalhos. Em troca de turquesa, de lã tingida de roxo, e de tecido de várias cores, e de tecido fino, e de corais, e de rubis, davam-se as tuas coisas armazenadas.
+
+[NOTE]
+====
+. “Edom”, Sy e cerca de 25 mss. hebr.; M: “Arã”; Vg: “O sírio.”
+====
+
+[[v26-27-17]]
+
+^<<v26-27-17,17>>^ “‘“Judá e a terra de Israel é que eram os teus negociantes. Pelo trigo de Minite e por comestíveis especiais,^&#42;1^ e mel, e azeite, e bálsamo davam-se os teus artigos negociáveis.
+
+[NOTE]
+====
+. “E . . . comestíveis especiais.” Hebr.: u·fan·nágh. O significado é incerto, mas acha-se que se trata de alguma espécie de alimento.
+====
+
+[[v26-27-18]]
+
+^<<v26-27-18,18>>^ “‘“Damasco era teu mercador na abundância dos teus trabalhos, por causa da abundância de todas as tuas coisas valiosas, com o vinho de Helbom e a lã de cor cinzento-avermelhada.
+
+[[v26-27-19]]
+
+^<<v26-27-19,19>>^ Vedã e Javã de Uzal — davam por tuas coisas armazenadas. Ferro em trabalhos forjados, cássia e cálamo — vieram a ser para os teus artigos negociáveis.
+
+[[v26-27-20]]
+
+^<<v26-27-20,20>>^ Dedã era teu negociante em roupas tecidas para se cavalgar.
+
+[[v26-27-21]]
+
+^<<v26-27-21,21>>^ Os árabes e todos os maiorais de Quedar é que eram mercadores a teu serviço.^&#42;1^ De cordeiros, e de carneiros, e de cabritos — destes eram eles os teus mercadores.
+
+[NOTE]
+====
+. Lit.: “mão”.
+====
+
+[[v26-27-22]]
+
+^<<v26-27-22,22>>^ Os negociantes de Sabá e de Raamá é que eram os teus negociantes; pelos mais finos de todas as espécies de perfumes e por toda espécie de pedras preciosas e ouro davam-se as tuas coisas armazenadas.
+
+[[v26-27-23]]
+
+^<<v26-27-23,23>>^ Harã e Cané, e Éden, os negociantes de Sabá, Assur [e] Quilmade eram os teus negociantes.
+
+[[v26-27-24]]
+
+^<<v26-27-24,24>>^ Eles eram os teus negociantes em vestimentas suntuosas, em agasalhos de pano azul e em tecido de várias cores, e em tapetes de fios de duas cores, em cordas trançadas de feitio reforçado, no teu empório.
+
+[[v26-27-25]]
+
+^<<v26-27-25,25>>^ “‘“Os navios de Társis eram as tuas caravanas para teus artigos negociáveis, de modo que te encheste e ficaste muito gloriosa no coração do alto-mar.
+
+[[v26-27-26]]
+
+^<<v26-27-26,26>>^ “‘“Os teus remadores levaram-te a vastas águas. O próprio vento oriental te quebrou no coração do alto-mar.
+
+[[v26-27-27]]
+
+^<<v26-27-27,27>>^ Tuas coisas valiosas e tuas coisas armazenadas, teus artigos negociáveis, teus marujos e teus marinheiros, os calafates das tuas juntas^&#42;1^ e os que faziam o intercâmbio dos teus artigos negociáveis, bem como todos os teus homens de guerra, que estão em ti e em toda a tua congregação, que estão no teu meio — cairão no coração do alto-mar no dia da tua queda.
+
+[NOTE]
+====
+. Ou “vazamentos”.
+====
+
+[[v26-27-28]]
+
+^<<v26-27-28,28>>^ “‘“A campina tremerá diante do alarido do clamor dos teus marinheiros.
+
+[[v26-27-29]]
+
+^<<v26-27-29,29>>^ E todos os que manejam o remo, os marujos, todos os marinheiros do mar, hão de descer dos seus navios; ficarão parados em terra.
+
+[[v26-27-30]]
+
+^<<v26-27-30,30>>^ E certamente farão que se ouça a sua voz sobre ti e clamarão amargamente. E lançarão pó sobre as suas cabeças. Revolver-se-ão em cinzas.
+
+[[v26-27-31]]
+
+^<<v26-27-31,31>>^ E terão de fazer-se para ti calvos, [ficando] com calvície, e cingir-se de serapilheira, e terão de chorar por ti em amargura de alma, com lamento amargo.
+
+[[v26-27-32]]
+
+^<<v26-27-32,32>>^ E na sua lamentação hão de levantar uma endecha sobre ti e entoar um canto fúnebre sobre ti:
+“‘“‘Quem é como Tiro, como aquela que foi silenciada no meio do mar?
+
+[[v26-27-33]]
+
+^<<v26-27-33,33>>^ Quando as tuas coisas armazenadas procederam do alto-mar, satisfazias a muitos povos. Enriquecias os reis da terra com a abundância das tuas coisas valiosas e com os teus artigos negociáveis.
+
+[[v26-27-34]]
+
+^<<v26-27-34,34>>^ Agora foste quebrada^&#42;1^ pelo alto-mar, nas funduras das águas. Quanto aos teus artigos negociáveis e toda a tua congregação, caíram no teu meio.
+
+[NOTE]
+====
+. “Foste quebrada”, LXXSyVg e três mss. hebr., o verbo tendo terminação fem.
+====
+
+[[v26-27-35]]
+
+^<<v26-27-35,35>>^ Todos os habitantes das ilhas — certamente olharão para ti espantados e seus próprios reis terão de arrepiar-se de horror. As faces terão de ficar perturbadas.
+
+[[v26-27-36]]
+
+^<<v26-27-36,36>>^ Quanto aos mercadores entre os povos, hão de assobiar sobre ti. Terrores repentinos é o que te terás de tornar, e não serás mais por tempo indefinido.’”’”
+
+'''
+
+xref:026-ezequiel/026-ezequiel-026.adoc#v26-26-0[&#60; Capítulo Anterior] | <<v26-27-0,Topo>> | xref:026-ezequiel/026-ezequiel-028.adoc#v26-28-0[Próximo Capítulo &#62;]

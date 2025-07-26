@@ -1,0 +1,188 @@
+include::./index.adoc[]
+
+[[v5-31-0]]
+=== Deuteronômio, 31
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-31-1]]
+
+^<<v5-31-1,1>>^ Moisés foi então e falou estas palavras a todo o Israel,
+
+[[v5-31-2]]
+
+^<<v5-31-2,2>>^ e disse-lhes: “Tenho hoje cento e vinte anos de idade. Não mais se me permitirá sair e entrar, visto que Jeová me disse: ‘Não passarás este Jordão.’
+
+[[v5-31-3]]
+
+^<<v5-31-3,3>>^ Jeová,^&#42;1^ teu Deus, é quem está passando na tua frente. Ele mesmo aniquilará estas nações diante de ti e tu terás de desalojá-las. Josué^&#42;2^ é quem atravessará na tua frente, assim como Jeová falou.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+. “Josué.” Hebr.: Yehoh·shú·a‛, “Jeosué”; gr.: ’Ιησοῦς (Jesus); sir.: Ye·shua‛; lat.: Ió·su·e.
+====
+
+[[v5-31-4]]
+
+^<<v5-31-4,4>>^ E Jeová certamente lhes fará assim como fez a Síon e a Ogue, os reis dos amorreus, e à terra deles, quando os aniquilou.
+
+[[v5-31-5]]
+
+^<<v5-31-5,5>>^ E Jeová tas entregou, e tens de fazer-lhes segundo todo o mandamento que te ordenei.
+
+[[v5-31-6]]
+
+^<<v5-31-6,6>>^ Sede corajosos e fortes. Não tenhais medo nem vos assusteis diante deles, porque Jeová, teu Deus, é quem marcha contigo. Não te desamparará nem te abandonará completamente.”
+
+[[v5-31-7]]
+
+^<<v5-31-7,7>>^ E Moisés foi chamar Josué e dizer-lhe perante os olhos de todo o Israel: “Sê corajoso e forte, porque tu — tu introduzirás^&#42;1^ este povo na terra de que Jeová jurou aos seus antepassados que lhes havia de dar, e tu mesmo lha darás por herança.
+
+[NOTE]
+====
+. “Tu introduzirás”, SamSyVg e cinco mss. hebr.; M: “tu irás com”; LXX: “tu irás diante da face de”. Veja v. 23.
+====
+
+[[v5-31-8]]
+
+^<<v5-31-8,8>>^ E Jeová é quem marcha na tua frente. Ele mesmo continuará contigo. Não te desamparará nem te abandonará completamente. Não tenhas medo nem fiques aterrorizado.”
+
+[[v5-31-9]]
+
+^<<v5-31-9,9>>^ Moisés escreveu então esta lei e a deu aos sacerdotes, os filhos de Levi, os carregadores da arca do pacto de Jeová, e a todos os anciãos de Israel.
+
+[[v5-31-10]]
+
+^<<v5-31-10,10>>^ E Moisés foi ordenar-lhes, dizendo: “Ao fim de cada sete anos, no tempo designado do ano da remissão, na festividade das barracas,
+
+[[v5-31-11]]
+
+^<<v5-31-11,11>>^ quando todo o Israel vier para ver^&#42;1^ a face de Jeová, teu Deus, no lugar que ele escolher, lerás esta lei na frente de todo o Israel, aos seus ouvidos.^&#42;2^
+
+[NOTE]
+====
+. “Ver”, com a correção dos sinais vocálicos do M; LXXSyVg: “comparecer perante”. Veja 16:16.
+. Lit.: “orelhas”.
+====
+
+[[v5-31-12]]
+
+^<<v5-31-12,12>>^ Congrega o povo, os homens e as mulheres, e os pequeninos, e teu residente forasteiro que está dentro dos teus portões, para que escutem e para que aprendam, visto que têm de temer a Jeová, vosso Deus, e cuidar em cumprir todas as palavras desta lei.
+
+[[v5-31-13]]
+
+^<<v5-31-13,13>>^ E seus filhos, que não [a] conheciam, devem escutar, e têm de aprender a temer a Jeová, vosso Deus, todos os dias em que vivais no solo para o qual estais atravessando o Jordão, a fim de tomar posse dele.”
+
+[[v5-31-14]]
+
+^<<v5-31-14,14>>^ Depois Jeová disse a Moisés: “Eis que se chegaram os dias para morreres. Chama a Josué, e postai-vos na tenda de reunião, para que eu o comissione.” Portanto, Moisés e Josué foram e postaram-se na tenda de reunião.
+
+[[v5-31-15]]
+
+^<<v5-31-15,15>>^ Jeová apareceu então na tenda, na coluna de nuvem, e a coluna de nuvem começou a ficar à entrada da tenda.
+
+[[v5-31-16]]
+
+^<<v5-31-16,16>>^ Jeová disse então a Moisés: “Eis que te estás deitando com os teus antepassados; e este povo certamente se levantará e terá relações imorais^&#42;1^ com deuses estrangeiros da terra à qual vão, no seu próprio meio, e certamente me abandonarão e violarão meu pacto que concluí com eles.
+
+[NOTE]
+====
+. Ou “e cometerá fornicação”.
+====
+
+[[v5-31-17]]
+
+^<<v5-31-17,17>>^ Em vista disso, naquele dia deveras se acenderá a minha ira contra eles, e eu certamente os abandonarei e esconderei deles a minha face, e eles terão de tornar-se algo a ser consumido; e têm de vir sobre eles muitas calamidades e aflições, e forçosamente dirão naquele dia: ‘Não é porque o nosso^&#42;1^ Deus não está no nosso meio que estas calamidades vieram sobre nós?’^&#42;2^
+
+[NOTE]
+====
+. Lit.: “meu”, MSam.
+. Lit.: “mim”, MSam.
+====
+
+[[v5-31-18]]
+
+^<<v5-31-18,18>>^ Quanto a mim, esconderei absolutamente a minha face naquele dia, por causa de toda a maldade que fizeram, porque se viraram para outros deuses.
+
+[[v5-31-19]]
+
+^<<v5-31-19,19>>^ “E agora, escrevei para vós este cântico e ensinai-o aos filhos de Israel. Ponde-o nas suas bocas, para que este cântico sirva como minha testemunha contra os filhos de Israel.
+
+[[v5-31-20]]
+
+^<<v5-31-20,20>>^ Pois eu os levarei ao solo que jurei^&#42;1^ aos seus antepassados, que mana leite e mel, e certamente comerão e se fartarão, e engordarão e se virarão para outros deuses, e deveras os servirão e me tratarão com desrespeito, e violarão meu pacto.
+
+[NOTE]
+====
+. Ou “prometi sob juramento”.
+====
+
+[[v5-31-21]]
+
+^<<v5-31-21,21>>^ E tem de dar-se que, vindo sobre eles muitas calamidades e aflições, então este cântico tem de responder diante deles como testemunha, pois não deve ser esquecido pela boca de tua descendência, porque bem sei a sua inclinação que hoje estão desenvolvendo antes de eu os introduzir na terra que lhes jurei.”^&#42;1^
+
+[NOTE]
+====
+. “Jurei”, M; LXXSy: “jurei aos antepassados deles”; Sam: “jurei aos antepassados dele”; Vg: “lhe prometi”.
+====
+
+[[v5-31-22]]
+
+^<<v5-31-22,22>>^ De modo que Moisés escreveu este cântico naquele dia, para ensiná-lo aos filhos de Israel.
+
+[[v5-31-23]]
+
+^<<v5-31-23,23>>^ E ele passou a comissionar Josué, filho de Num, e a dizer: “Sê corajoso e forte, porque tu — tu introduzirás os filhos de Israel na terra que lhes jurei e eu mesmo continuarei contigo.”
+
+[[v5-31-24]]
+
+^<<v5-31-24,24>>^ E sucedeu que, assim que Moisés terminara de escrever as palavras desta lei num livro, na sua inteireza,
+
+[[v5-31-25]]
+
+^<<v5-31-25,25>>^ Moisés começou a dar ordem aos levitas, os carregadores da arca do pacto de Jeová, dizendo:
+
+[[v5-31-26]]
+
+^<<v5-31-26,26>>^ “Tomando^&#42;1^ este livro da lei, tendes de colocá-lo ao lado da arca do pacto de Jeová,^&#42;2^ vosso Deus, e ali tem de servir de testemunha contra ti.
+
+[NOTE]
+====
+. “Tomando.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo.
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-31-27]]
+
+^<<v5-31-27,27>>^ Pois eu — eu conheço bem a tua rebeldia e a tua dura cerviz. Se vos mostrastes rebeldes em comportamento para com Jeová^&#42;1^ enquanto hoje ainda estou vivo convosco, então quanto mais após a minha morte!
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-31-28]]
+
+^<<v5-31-28,28>>^ Congregai a mim todos os anciãos das vossas tribos e os vossos oficiais, e fale eu estas palavras aos seus ouvidos e tome eu os céus e a terra por testemunhas contra eles.
+
+[[v5-31-29]]
+
+^<<v5-31-29,29>>^ Pois eu bem sei que depois da minha morte, sem falta, agireis ruinosamente e por certo vos desviareis do caminho a respeito do qual vos dei ordem; e forçosamente há de sobrevir-vos calamidade no fim dos dias, porque fareis o que é mau aos olhos de Jeová,^&#42;1^ de modo a ofendê-lo com as obras das vossas mãos.”
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-31-30]]
+
+^<<v5-31-30,30>>^ E Moisés passou a falar aos ouvidos de toda a congregação^&#42;1^ de Israel as palavras deste cântico na sua inteireza:
+
+[NOTE]
+====
+. “Toda a congregação de.” Hebr.: kol-qehál; gr.: ek·kle·sí·as.
+====
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-030.adoc#v5-30-0[&#60; Capítulo Anterior] | <<v5-31-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-032.adoc#v5-32-0[Próximo Capítulo &#62;]

@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v18-26-0]]
+=== Jó, 26
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-26-1]]
+
+^<<v18-26-1,1>>^ E Jó passou a responder e a dizer:
+
+[[v18-26-2]]
+
+^<<v18-26-2,2>>^ “Oh! de quanta ajuda foste àquele que não tem poder!
+Oh! [como] salvaste um braço sem força!
+
+[[v18-26-3]]
+
+^<<v18-26-3,3>>^ Quanto aconselhaste aquele que não tem sabedoria,
+E deste a conhecer a própria sabedoria prática à multidão!
+
+[[v18-26-4]]
+
+^<<v18-26-4,4>>^ A quem comunicaste palavras,
+E o fôlego de quem^&#42;1^ saiu de ti?
+
+[NOTE]
+====
+. “E o fôlego de quem.” Em hebr.: wenish·math-mí.
+====
+
+[[v18-26-5]]
+
+^<<v18-26-5,5>>^ Os impotentes na morte^&#42;1^ continuam a tremer
+Debaixo das águas, e os que residem nelas.
+
+[NOTE]
+====
+. “Os impotentes na morte.” Hebr.: hor·fa·’ím; em ocorrências anteriores foi traduzido por “os refains”; LXXVg: “gigantes”.
+====
+
+[[v18-26-6]]
+
+^<<v18-26-6,6>>^ O Seol está nu diante dele,
+E [o lugar de] destruição^&#42;1^ não tem cobertura.
+
+[NOTE]
+====
+. “[O lugar de] destruição.” Hebr.: la·’avad·dóhn, “Abadon”, esta é a primeira ocorrência desta palavra hebr.; gr.: a·po·leí·ai; lat.: per·di·ti·ó·ni. Veja “Apolion” em Re 9:11 e as n. ali.
+====
+
+[[v18-26-7]]
+
+^<<v18-26-7,7>>^ Ele estende o norte sobre o vazio,
+Suspende a terra sobre o nada;
+
+[[v18-26-8]]
+
+^<<v18-26-8,8>>^ Embrulha as águas nas suas nuvens,
+Para que a massa de nuvens não se parta debaixo delas;
+
+[[v18-26-9]]
+
+^<<v18-26-9,9>>^ Enclausura a face do trono,^&#42;1^
+Estende^&#42;2^ sobre ele a sua nuvem.
+
+[NOTE]
+====
+. “Do trono.” Mediante sinais vocálicos diferentes: “de sua lua cheia”.
+. “Estende.” No hebr., a forma mista deste verbo é entendida como estando no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v18-26-10]]
+
+^<<v18-26-10,10>>^ Ele demarcou um círculo sobre a face das águas,
+Até onde a luz acaba na escuridão.
+
+[[v18-26-11]]
+
+^<<v18-26-11,11>>^ As próprias colunas do céu estremecem
+E estão pasmadas por causa da sua censura.
+
+[[v18-26-12]]
+
+^<<v18-26-12,12>>^ Agitou o mar pelo seu poder,
+E despedaçou o arremetedor^&#42;1^ com o seu entendimento.
+
+[NOTE]
+====
+. “O arremetedor.” Hebr.: rá·hav. Possivelmente um monstro marinho.
+====
+
+[[v18-26-13]]
+
+^<<v18-26-13,13>>^ Pelo seu vento^&#42;1^ ele poliu o próprio céu,
+Sua mão furou a serpente deslizadora.
+
+[NOTE]
+====
+. “Pelo seu vento (espírito).” Hebr.: beru·hhóh; lat.: spí·ri·tus.
+====
+
+[[v18-26-14]]
+
+^<<v18-26-14,14>>^ Eis que estas são as beiradas dos seus caminhos,
+E que sussurro sobre o assunto se tem ouvido dele!
+Mas quem pode mostrar ter entendimento do seu poderoso trovão?”
+
+'''
+
+xref:018-jo/018-jo-025.adoc#v18-25-0[&#60; Capítulo Anterior] | <<v18-26-0,Topo>> | xref:018-jo/018-jo-027.adoc#v18-27-0[Próximo Capítulo &#62;]

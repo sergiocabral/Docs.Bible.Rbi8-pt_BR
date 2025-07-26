@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v47-4-0]]
+=== 2 Coríntios, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v47-4-1]]
+
+^<<v47-4-1,1>>^ Pelo que, visto que temos este ministério segundo a misericórdia que se teve conosco, não desistimos;
+
+[[v47-4-2]]
+
+^<<v47-4-2,2>>^ mas temos renunciado às coisas dissimuladas, que são vergonhosas, não andando com astúcia, nem adulterando a palavra de Deus, mas, por tornar manifesta a verdade, recomendando-nos a toda consciência humana à vista de Deus.
+
+[[v47-4-3]]
+
+^<<v47-4-3,3>>^ Agora, se as boas novas que declaramos estão de fato veladas, estão veladas entre os que perecem,
+
+[[v47-4-4]]
+
+^<<v47-4-4,4>>^ entre os quais o deus^&#42;1^ deste sistema de coisas^&#42;2^ tem cegado as mentes^&#42;3^ dos incrédulos, para que não penetre o brilho da iluminação^&#42;4^ das gloriosas boas novas a respeito do Cristo,^&#42;5^ que é a imagem de Deus.
+
+[NOTE]
+====
+. Gr.: ho the·ós; lat.: dé·us; J17,18(hebr.): ’elo·héh; J22(hebr.): ’el.
+. Ou “ordem de coisas”. Gr.: ai·ó·nos; lat.: saé·cu·li; J17,18,22(hebr.): ha·‛oh·lám, “da ordem de coisas”.
+. Lit.: “faculdades mentais”. Gr.: no·é·ma·ta; lat.: mén·tes.
+. Lit.: “raie a iluminação”.
+. Ou “das boas novas sobre a glória do Cristo”.
+====
+
+[[v47-4-5]]
+
+^<<v47-4-5,5>>^ Pois não estamos pregando a nós mesmos, mas a Cristo Jesus como Senhor, e a nós mesmos como vossos escravos pela causa de Jesus.
+
+[[v47-4-6]]
+
+^<<v47-4-6,6>>^ Porque é Deus quem disse: “Da escuridão brilhe a luz”,^&#42;1^ e ele tem brilhado sobre os nossos corações, para iluminá-los com o glorioso conhecimento^&#42;2^ de Deus pelo^&#42;3^ rosto de Cristo.
+
+[NOTE]
+====
+. Ou “brilhará a luz”.
+. Ou “o conhecimento da glória”.
+. Ou “no”.
+====
+
+[[v47-4-7]]
+
+^<<v47-4-7,7>>^ No entanto, temos este tesouro em vasos de barro,^&#42;1^ para que o poder além do normal seja o de Deus e não o de nós mesmos.
+
+[NOTE]
+====
+. Lit.: “em vasos de argila cozida”.
+====
+
+[[v47-4-8]]
+
+^<<v47-4-8,8>>^ Somos apertados de todos os modos, mas não comprimidos sem nos podermos mover; estamos perplexos, mas não inteiramente sem saber o que fazer;
+
+[[v47-4-9]]
+
+^<<v47-4-9,9>>^ somos perseguidos, mas não ficamos cambaleando; somos derrubados, mas não destruídos.
+
+[[v47-4-10]]
+
+^<<v47-4-10,10>>^ Sempre, em toda a parte, suportamos em nosso corpo o tratamento mortífero dado a Jesus,^&#42;1^ para que a vida de Jesus também se manifeste em nosso corpo.
+
+[NOTE]
+====
+. Ou “em nosso corpo a matança de Jesus”.
+====
+
+[[v47-4-11]]
+
+^<<v47-4-11,11>>^ Pois nós, os que vivemos, estamos sendo sempre levados face a face com a morte,^&#42;1^ pela causa de Jesus, para que a vida de Jesus também se manifeste em nossa carne mortal.
+
+[NOTE]
+====
+. Ou “entregues à morte”.
+====
+
+[[v47-4-12]]
+
+^<<v47-4-12,12>>^ Conseqüentemente, opera em nós a morte, mas em vós a vida.
+
+[[v47-4-13]]
+
+^<<v47-4-13,13>>^ Agora, visto que temos o mesmo espírito de fé como aquele de que está escrito: “Exerci fé, por isso falei”, nós também exercemos fé e por isso falamos,
+
+[[v47-4-14]]
+
+^<<v47-4-14,14>>^ sabendo que aquele que levantou a Jesus^&#42;1^ também levantará a nós, junto com Jesus, e nos apresentará junto convosco.
+
+[NOTE]
+====
+. “Jesus”, P46BVg; אCDSyh: “o Senhor Jesus”.
+====
+
+[[v47-4-15]]
+
+^<<v47-4-15,15>>^ Pois todas as coisas são por vossa causa, a fim de que a benignidade imerecida, que foi multiplicada, abundasse por causa dos agradecimentos de muitos mais, para a glória de Deus.
+
+[[v47-4-16]]
+
+^<<v47-4-16,16>>^ Por isso não desistimos; porém, ainda que o homem que somos por fora se definhe, certamente o homem que somos por dentro está sendo renovado de dia em dia.
+
+[[v47-4-17]]
+
+^<<v47-4-17,17>>^ Pois, embora a tribulação seja momentânea e leve, produz para nós uma glória de peso que ultrapassa mais e mais, e que é eterna,
+
+[[v47-4-18]]
+
+^<<v47-4-18,18>>^ ao passo que fixamos os olhos, não nas coisas vistas, mas nas coisas não vistas. Porque as coisas vistas são temporárias, mas as coisas não vistas são eternas.
+
+'''
+
+xref:047-2-corintios/047-2-corintios-003.adoc#v47-3-0[&#60; Capítulo Anterior] | <<v47-4-0,Topo>> | xref:047-2-corintios/047-2-corintios-005.adoc#v47-5-0[Próximo Capítulo &#62;]

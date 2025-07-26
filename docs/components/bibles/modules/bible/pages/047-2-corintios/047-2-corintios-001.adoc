@@ -1,0 +1,130 @@
+include::./index.adoc[]
+
+[[v47-1-0]]
+=== 2 Coríntios, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v47-1-1]]
+
+^<<v47-1-1,1>>^ Paulo, apóstolo de Cristo Jesus, por intermédio da vontade de Deus, e Timóteo, [nosso] irmão, à congregação de Deus que está em Corinto, junto com todos os santos que estão em toda a Acaia:^&#42;1^
+
+[NOTE]
+====
+. A província romana do sul da Grécia, cuja capital era Corinto.
+====
+
+[[v47-1-2]]
+
+^<<v47-1-2,2>>^ Que tenhais benignidade imerecida e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.
+
+[[v47-1-3]]
+
+^<<v47-1-3,3>>^ Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai de ternas misericórdias e o Deus de todo o consolo,
+
+[[v47-1-4]]
+
+^<<v47-1-4,4>>^ que nos consola em toda a nossa tribulação, para que possamos consolar os [que estiverem] em qualquer sorte de tribulação, por intermédio do consolo com que nós mesmos estamos sendo consolados por Deus.
+
+[[v47-1-5]]
+
+^<<v47-1-5,5>>^ Pois, assim como abundam em nós os sofrimentos pelo Cristo, assim abunda também, por intermédio do Cristo, o consolo que recebemos.
+
+[[v47-1-6]]
+
+^<<v47-1-6,6>>^ Ora, quer estejamos em tribulação, é para o vosso consolo e salvação, quer estejamos sendo consolados, é para o vosso consolo que opera para vos fazer aturar os mesmos sofrimentos que nós também padecemos.
+
+[[v47-1-7]]
+
+^<<v47-1-7,7>>^ E assim, a nossa esperança por vós é inalterada, sabendo que, assim como sois parceiros nos sofrimentos, do mesmo modo também participareis do consolo.
+
+[[v47-1-8]]
+
+^<<v47-1-8,8>>^ Porque, irmãos, não queremos que sejais ignorantes da tribulação que nos sobreveio no [distrito da] Ásia, que estávamos sob extrema pressão, além de nossa força, de modo que estávamos muito incertos até mesmo quanto às nossas vidas.
+
+[[v47-1-9]]
+
+^<<v47-1-9,9>>^ De fato, sentimos em nosso íntimo que tínhamos recebido a sentença de morte. Isto se deu para que tivéssemos confiança, não em nós mesmos, mas no Deus que levanta os mortos.
+
+[[v47-1-10]]
+
+^<<v47-1-10,10>>^ Ele nos resgatou e nos resgatará de uma coisa tão grande como a morte; e temos esperança nele de que nos resgatará também ainda mais.
+
+[[v47-1-11]]
+
+^<<v47-1-11,11>>^ Vós também podeis ajudar pelas vossas súplicas por nós, a fim de que se dêem agradecimentos, por muitos, em nosso favor, por aquilo que nos é dado bondosamente devido aos muitos rostos [em oração].
+
+[[v47-1-12]]
+
+^<<v47-1-12,12>>^ Pois a coisa de que nos jactamos é a seguinte, dando dela testemunho a nossa consciência: que nos temos comportado no mundo com santidade e sinceridade piedosa, não com sabedoria carnal, mas com a benignidade imerecida de Deus, porém, mais especificamente para convosco.
+
+[[v47-1-13]]
+
+^<<v47-1-13,13>>^ Pois nós realmente não vos escrevemos senão as coisas que bem sabeis^&#42;1^ ou também reconheceis, e que, espero eu, continueis a reconhecer até o fim,
+
+[NOTE]
+====
+. Lit.: “estais lendo”.
+====
+
+[[v47-1-14]]
+
+^<<v47-1-14,14>>^ assim como também vós reconhecestes, até certo ponto, que nós somos causa para vos jactardes, assim como vós também sereis para nós no dia de nosso Senhor Jesus.
+
+[[v47-1-15]]
+
+^<<v47-1-15,15>>^ Assim, com esta confiança, pretendi já antes ir ter convosco, para que tivésseis uma segunda [ocasião para] alegria,
+
+[[v47-1-16]]
+
+^<<v47-1-16,16>>^ e, depois de uma demora convosco, ir à Macedônia, e da Macedônia retornar a vós e ser acompanhado por vós parte do caminho para a Judéia.
+
+[[v47-1-17]]
+
+^<<v47-1-17,17>>^ Pois bem, por eu ter tal intenção, será que me entreguei a alguma leviandade? Ou, será que as coisas que eu me proponho, proponho segundo a carne, para que haja comigo “sim, sim” e “não, não”?
+
+[[v47-1-18]]
+
+^<<v47-1-18,18>>^ Mas, pode-se confiar em Deus, que a nossa palavra dirigida a vós não é Sim, e ainda assim Não.^&#42;1^
+
+[NOTE]
+====
+. Ou “Sim e Não de um fôlego”. Lit.: “Sim e Não.” Gr.: Nai kai Ou; lat.: EST et NON; J17,18(hebr.): Hen wa·Ló’.
+====
+
+[[v47-1-19]]
+
+^<<v47-1-19,19>>^ Pois o Filho de Deus, Cristo Jesus, que foi pregado entre vós por nosso intermédio, isto é, por intermédio de mim, e de Silvano, e de Timóteo, não se tornou Sim, e ainda assim Não, mas o Sim tornou-se Sim no caso dele.
+
+[[v47-1-20]]
+
+^<<v47-1-20,20>>^ Pois, não importa quantas sejam as promessas de Deus, elas se tornaram Sim por meio dele.^&#42;1^ Portanto, também por intermédio dele [se diz] o “amém” a Deus, para glória por nosso intermédio.
+
+[NOTE]
+====
+. “Por meio dele.” Ou “nele”.
+====
+
+[[v47-1-21]]
+
+^<<v47-1-21,21>>^ Mas, quem garante que vós e nós pertencemos a Cristo e quem nos ungiu é Deus.
+
+[[v47-1-22]]
+
+^<<v47-1-22,22>>^ Ele pôs também o seu selo sobre nós e nos deu o penhor daquilo que há de vir,^&#42;1^ isto é, o espírito, em nossos corações.
+
+[NOTE]
+====
+. Ou “sinal (pagamento adiantado) do que há de vir”. Gr.: ar·ra·bó·na. Veja Ef 1:14 n.: “antecipado”.
+====
+
+[[v47-1-23]]
+
+^<<v47-1-23,23>>^ Ora, chamo a Deus por testemunha contra a minha própria alma, de que é para vos poupar que ainda não fui a Corinto.
+
+[[v47-1-24]]
+
+^<<v47-1-24,24>>^ Não é que sejamos os amos de vossa fé, mas somos colaboradores para a vossa alegria, porque é pela [vossa] fé que estais em pé.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-016.adoc#v46-16-0[&#60; Capítulo Anterior] | <<v47-1-0,Topo>> | xref:047-2-corintios/047-2-corintios-002.adoc#v47-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v19-46-0]]
+=== Salmos, 46
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Dos filhos de Corá, em As Donzelas.^&#42;1^ Um cântico._
+
+[[v19-46-1]]
+
+^<<v19-46-1,1>>^ Deus^&#42;1^ é para nós refúgio e força,
+Uma ajuda encontrada prontamente durante aflições.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v19-46-2]]
+
+^<<v19-46-2,2>>^ Por isso é que não temeremos, ainda que a terra passe por uma mudança
+E ainda que os montes cambaleiem para dentro do coração do vasto mar;
+
+[[v19-46-3]]
+
+^<<v19-46-3,3>>^ Ainda que as suas águas sejam turbulentas [e] espumem,
+Ainda que os montes tremam diante do seu alvoroço. Selá.
+
+[[v19-46-4]]
+
+^<<v19-46-4,4>>^ Há um rio cujas correntes alegram a cidade de Deus,
+O santíssimo grandioso tabernáculo^&#42;1^ do Altíssimo.
+
+[NOTE]
+====
+. “Grandioso tabernáculo.” Lit.: “tabernáculos”, pl., para denotar grandiosidade. Veja 42:5 n.: “salvação”.
+====
+
+[[v19-46-5]]
+
+^<<v19-46-5,5>>^ Deus está no meio [da cidade];^&#42;1^ ela não será abalada.
+Deus a ajudará ao surgir a manhã.
+
+[NOTE]
+====
+. Lit.: “dela”, referindo-se à cidade.
+====
+
+[[v19-46-6]]
+
+^<<v19-46-6,6>>^ As nações ficaram turbulentas, os reinos foram abalados;
+Ele fez soar^&#42;1^ a sua voz, a terra passou a dissolver-se.
+
+[NOTE]
+====
+. Lit.: “deu”.
+====
+
+[[v19-46-7]]
+
+^<<v19-46-7,7>>^ Jeová^&#42;1^ dos exércitos está conosco;
+O Deus^&#42;2^ de Jacó é para nós uma altura protetora. Selá.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+. “O Deus de.” Hebr.: ’Elo·héh.
+====
+
+[[v19-46-8]]
+
+^<<v19-46-8,8>>^ Vinde, observai as atividades de Jeová,^&#42;1^
+Como ele tem posto eventos assombrosos na terra.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+====
+
+[[v19-46-9]]
+
+^<<v19-46-9,9>>^ Ele faz cessar as guerras até a extremidade^&#42;1^ da terra.
+Destroça o arco e retalha a lança;
+As carroças^&#42;2^ ele queima no fogo.
+
+[NOTE]
+====
+. Veja Je 25:31, 33 n.
+. “Carroças”, MSy; LXXVg: “escudos grandes”.
+====
+
+[[v19-46-10]]
+
+^<<v19-46-10,10>>^ “Cedei, e sabei que eu sou Deus.
+Vou ser exaltado entre as nações,
+Vou ser exaltado na terra.”
+
+[[v19-46-11]]
+
+^<<v19-46-11,11>>^ Jeová^&#42;1^ dos exércitos está conosco;
+O Deus de Jacó é para nós uma altura protetora. Selá.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+====
+
+'''
+
+xref:019-salmo/019-salmo-045.adoc#v19-45-0[&#60; Capítulo Anterior] | <<v19-46-0,Topo>> | xref:019-salmo/019-salmo-047.adoc#v19-47-0[Próximo Capítulo &#62;]

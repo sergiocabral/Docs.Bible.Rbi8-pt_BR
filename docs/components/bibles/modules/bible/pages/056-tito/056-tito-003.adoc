@@ -1,0 +1,102 @@
+include::./index.adoc[]
+
+[[v56-3-0]]
+=== Tito, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v56-3-1]]
+
+^<<v56-3-1,1>>^ Continua a lembrar-lhes que estejam sujeitos e sejam obedientes a governos e autoridades como governantes, que estejam prontos para toda boa obra,
+
+[[v56-3-2]]
+
+^<<v56-3-2,2>>^ que não ultrajem a ninguém, que não sejam beligerantes,^&#42;1^ que sejam razoáveis,^&#42;2^ exibindo toda a brandura para com todos os homens.
+
+[NOTE]
+====
+. Lit.: “não dispostos a brigar”.
+. Lit.: “dóceis”.
+====
+
+[[v56-3-3]]
+
+^<<v56-3-3,3>>^ Pois até mesmo nós éramos outrora insensatos, desobedientes, desencaminhados, escravos de vários desejos e prazeres, procedendo em maldade e inveja, abomináveis, odiando-nos uns aos outros.
+
+[[v56-3-4]]
+
+^<<v56-3-4,4>>^ No entanto, quando se manifestou a benignidade e o amor ao homem^&#42;1^ da parte de nosso Salvador, Deus,
+
+[NOTE]
+====
+. Lit.: “a filantropia”. Gr.: he fi·lan·thro·pí·a. Veja At 28:2 n.: “humanitarismo”.
+====
+
+[[v56-3-5]]
+
+^<<v56-3-5,5>>^ não devido a obras de justiça que tivéssemos realizado, mas segundo a sua misericórdia, ele nos salvou por intermédio do banho que nos trouxe à vida,^&#42;1^ e por nos fazer novos por espírito santo.
+
+[NOTE]
+====
+. Ou “do banho do renascimento”. Lit.: “banho da regeneração”. Gr.: lou·troú pa·lin·ge·ne·sí·as; lat.: la·vá·crum re·ge·ne·ra·ti·ó·nis. Veja Mt 19:28 n.
+====
+
+[[v56-3-6]]
+
+^<<v56-3-6,6>>^ Este [espírito] ele derramou ricamente sobre nós por intermédio de Jesus Cristo, nosso Salvador,
+
+[[v56-3-7]]
+
+^<<v56-3-7,7>>^ a fim de que, depois de sermos declarados justos em virtude da benignidade imerecida daquele, nos tornemos herdeiros segundo uma esperança de vida eterna.
+
+[[v56-3-8]]
+
+^<<v56-3-8,8>>^ Fiel é a palavra, e acerca destas coisas desejo que faças constantemente firmes asserções, a fim de que aqueles que creram em Deus possam fixar as mentes em manter obras excelentes. Estas coisas são excelentes e proveitosas para os homens.
+
+[[v56-3-9]]
+
+^<<v56-3-9,9>>^ Esquiva-te, porém, de questões tolas e de genealogias, e de rixas e lutas sobre a Lei, porque são sem proveito e fúteis.
+
+[[v56-3-10]]
+
+^<<v56-3-10,10>>^ Quanto ao homem que promove uma seita,^&#42;1^ rejeita-o depois da primeira e da segunda admoestação,^&#42;2^
+
+[NOTE]
+====
+. “Que promove uma seita.” Ou “sectário”. Gr.: hai·re·ti·kón; lat.: he·ré·ti·cum.
+. Lit.: “pôr mente em”.
+====
+
+[[v56-3-11]]
+
+^<<v56-3-11,11>>^ sabendo que tal homem foi desviado do caminho^&#42;1^ e está pecando, estando condenado por si mesmo.
+
+[NOTE]
+====
+. Lit.: “foi revirado”.
+====
+
+[[v56-3-12]]
+
+^<<v56-3-12,12>>^ Quando eu te enviar Ártemas ou Tíquico, faze o máximo para vir ter comigo em Nicópolis, pois é ali que decidi passar o inverno.
+
+[[v56-3-13]]
+
+^<<v56-3-13,13>>^ Supre cuidadosamente a Zenas, que está versado na Lei,^&#42;1^ e a Apolo, para a viagem deles, para que não lhes falte nada.
+
+[NOTE]
+====
+. “Versado na Lei.” Lit.: “o advogado”. Gr.: ton no·mi·kón.
+====
+
+[[v56-3-14]]
+
+^<<v56-3-14,14>>^ Mas, que os nossos aprendam também a manter obras excelentes, a fim de satisfazer as suas necessidades prementes, para que não sejam infrutíferos.
+
+[[v56-3-15]]
+
+^<<v56-3-15,15>>^ Todos os comigo mandam-te os seus cumprimentos. Dá os meus cumprimentos aos que têm afeição por nós na fé.
+A benignidade imerecida seja com todos vós.
+
+'''
+
+xref:056-tito/056-tito-002.adoc#v56-2-0[&#60; Capítulo Anterior] | <<v56-3-0,Topo>> | xref:057-filemon/057-filemon-001.adoc#v57-1-0[Próximo Capítulo &#62;]

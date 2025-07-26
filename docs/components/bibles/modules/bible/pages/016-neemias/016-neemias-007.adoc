@@ -1,0 +1,393 @@
+include::./index.adoc[]
+
+[[v16-7-0]]
+=== Neemias, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v16-7-1]]
+
+^<<v16-7-1,1>>^ E sucedeu que, assim que se tinha reconstruído a muralha, coloquei imediatamente as portas. Depois foram constituídos os porteiros, e os cantores, e os levitas.
+
+[[v16-7-2]]
+
+^<<v16-7-2,2>>^ E eu prossegui, pondo no comando de Jerusalém a Hanani, meu irmão, e a Hananias, príncipe do Castelo, porque ele era um homem tão fidedigno^&#42;1^ e temia o [verdadeiro] Deus mais do que muitos outros.
+
+[NOTE]
+====
+. Ou “homem da verdade”.
+====
+
+[[v16-7-3]]
+
+^<<v16-7-3,3>>^ Por isso eu^&#42;1^ lhes disse: “Os portões de Jerusalém não devem ser abertos até o sol esquentar; e, enquanto estiverem ali de pé, devem ser fechados e trancados. E põe^&#42;2^ guardas dos habitantes de Jerusalém, cada um no seu próprio posto de guarda e cada um defronte da sua própria casa.”
+
+[NOTE]
+====
+. “Eu”, MmargemLXXSyVg; M: “ele”. Veja 5:9 n.
+. “Põe”, MLXX; Vg e um ms. hebr.: “pus”.
+====
+
+[[v16-7-4]]
+
+^<<v16-7-4,4>>^ Ora, a cidade era larga^&#42;1^ e grande, e havia poucas pessoas dentro dela, e não havia casas construídas.
+
+[NOTE]
+====
+. Lit.: “ampla em ambos os lados”, isto é, espaçosa.
+====
+
+[[v16-7-5]]
+
+^<<v16-7-5,5>>^ Mas o meu Deus me pôs no coração reunir os nobres e os delegados governantes, bem como o povo, para se registrarem genealogicamente. Achei então o livro do registro genealógico dos que tinham subido primeiro, e nele achei escrito:
+
+[[v16-7-6]]
+
+^<<v16-7-6,6>>^ Estes são os filhos do distrito jurisdicional,^&#42;1^ que subiram do cativeiro do povo exilado que Nabucodonosor, rei de Babilônia,^&#42;2^ tinha levado ao exílio e que mais tarde retornaram a Jerusalém e a Judá, cada um à sua própria cidade,
+
+[NOTE]
+====
+. “Distrito jurisdicional.” Lat.: pro·vín·ci·ae.
+. “Babilônia”, LXXVg; MSy: “Babel”.
+====
+
+[[v16-7-7]]
+
+^<<v16-7-7,7>>^ os que entraram com Zorobabel, Jesua,^&#42;1^ Neemias, Azarias,^&#42;2^ Raamias,^&#42;3^ Naamani, Mordecai, Bilsã, Misperete,^&#42;4^ Bigvai, Neum,^&#42;5^ Baaná.
+O número dos homens do povo de Israel:
+
+[NOTE]
+====
+. “Jesus”, LXX.
+. “Seraías”, em Esd 2:2.
+. “Reelaías” em Esd 2:2.
+. “Mispar” em Esd 2:2.
+. “Reum”, em Esd 2:2.
+====
+
+[[v16-7-8]]
+
+^<<v16-7-8,8>>^ Os filhos de Parós, dois mil cento e setenta e dois;
+
+[[v16-7-9]]
+
+^<<v16-7-9,9>>^ os filhos de Sefatias, trezentos e setenta e dois;
+
+[[v16-7-10]]
+
+^<<v16-7-10,10>>^ os filhos de Ará, seiscentos e cinqüenta e dois;
+
+[[v16-7-11]]
+
+^<<v16-7-11,11>>^ os filhos de Paate-Moabe, dos filhos de Jesua e de Joabe, dois mil oitocentos e dezoito;
+
+[[v16-7-12]]
+
+^<<v16-7-12,12>>^ os filhos de Elão, mil duzentos e cinqüenta e quatro;
+
+[[v16-7-13]]
+
+^<<v16-7-13,13>>^ os filhos de Zatu, oitocentos e quarenta e cinco;
+
+[[v16-7-14]]
+
+^<<v16-7-14,14>>^ os filhos de Zacai, setecentos e sessenta;
+
+[[v16-7-15]]
+
+^<<v16-7-15,15>>^ os filhos de Binui, seiscentos e quarenta e oito;
+
+[[v16-7-16]]
+
+^<<v16-7-16,16>>^ os filhos de Bebai, seiscentos e vinte e oito;
+
+[[v16-7-17]]
+
+^<<v16-7-17,17>>^ os filhos de Asgade, dois mil trezentos e vinte e dois;
+
+[[v16-7-18]]
+
+^<<v16-7-18,18>>^ os filhos de Adonicão, seiscentos e sessenta e sete;
+
+[[v16-7-19]]
+
+^<<v16-7-19,19>>^ os filhos de Bigvai, dois mil e sessenta e sete;
+
+[[v16-7-20]]
+
+^<<v16-7-20,20>>^ os filhos de Adim, seiscentos e cinqüenta e cinco;
+
+[[v16-7-21]]
+
+^<<v16-7-21,21>>^ os filhos de Ater, de Ezequias, noventa e oito;
+
+[[v16-7-22]]
+
+^<<v16-7-22,22>>^ os filhos de Hasum, trezentos e vinte e oito;
+
+[[v16-7-23]]
+
+^<<v16-7-23,23>>^ os filhos de Bezai, trezentos e vinte e quatro;
+
+[[v16-7-24]]
+
+^<<v16-7-24,24>>^ os filhos de Harife, cento e doze;
+
+[[v16-7-25]]
+
+^<<v16-7-25,25>>^ os filhos de Gibeão, noventa e cinco;
+
+[[v16-7-26]]
+
+^<<v16-7-26,26>>^ os homens de Belém e de Netofa, cento e oitenta e oito;
+
+[[v16-7-27]]
+
+^<<v16-7-27,27>>^ os homens de Anatote, cento e vinte e oito;
+
+[[v16-7-28]]
+
+^<<v16-7-28,28>>^ os homens de Bete-Asmavete, quarenta e dois;
+
+[[v16-7-29]]
+
+^<<v16-7-29,29>>^ os homens de Quiriate-Jearim, Quefira e Beerote, setecentos e quarenta e três;
+
+[[v16-7-30]]
+
+^<<v16-7-30,30>>^ os homens de Ramá e de Geba, seiscentos e vinte e um;
+
+[[v16-7-31]]
+
+^<<v16-7-31,31>>^ os homens de Micmás, cento e vinte e dois;
+
+[[v16-7-32]]
+
+^<<v16-7-32,32>>^ os homens de Betel e de Ai, cento e vinte e três;
+
+[[v16-7-33]]
+
+^<<v16-7-33,33>>^ os homens da outra Nebo, cinqüenta e dois;
+
+[[v16-7-34]]
+
+^<<v16-7-34,34>>^ os filhos do outro Elão, mil duzentos e cinqüenta e quatro;
+
+[[v16-7-35]]
+
+^<<v16-7-35,35>>^ os filhos de Harim, trezentos e vinte;
+
+[[v16-7-36]]
+
+^<<v16-7-36,36>>^ os filhos de Jericó, trezentos e quarenta e cinco;
+
+[[v16-7-37]]
+
+^<<v16-7-37,37>>^ os filhos de Lode, Hadide e Ono, setecentos e vinte e um;
+
+[[v16-7-38]]
+
+^<<v16-7-38,38>>^ os filhos de Senaá, três mil novecentos e trinta.
+
+[[v16-7-39]]
+
+^<<v16-7-39,39>>^ Os sacerdotes: Os filhos de Jedaías, da casa de Jesua, novecentos e setenta e três;
+
+[[v16-7-40]]
+
+^<<v16-7-40,40>>^ os filhos de Imer, mil e cinqüenta e dois;
+
+[[v16-7-41]]
+
+^<<v16-7-41,41>>^ os filhos de Pasur, mil duzentos e quarenta e sete;
+
+[[v16-7-42]]
+
+^<<v16-7-42,42>>^ os filhos de Harim, mil e dezessete.
+
+[[v16-7-43]]
+
+^<<v16-7-43,43>>^ Os levitas: Os filhos de Jesua, de Cadmiel, dos filhos de Hodeva, setenta e quatro.
+
+[[v16-7-44]]
+
+^<<v16-7-44,44>>^ Os cantores, os filhos de Asafe, cento e quarenta e oito.
+
+[[v16-7-45]]
+
+^<<v16-7-45,45>>^ Os porteiros, os filhos de Salum, os filhos de Ater, os filhos de Talmom, os filhos de Acube, os filhos de Hatita, os filhos de Sobai, cento e trinta e oito.
+
+[[v16-7-46]]
+
+^<<v16-7-46,46>>^ Os netineus:^&#42;1^ Os filhos de Ziá, os filhos de Hasufa, os filhos de Tabaote,
+
+[NOTE]
+====
+. Ou: “Os escravos de templo.” Lit.: “Os dados.” Veja Núm 3:9 n.
+====
+
+[[v16-7-47]]
+
+^<<v16-7-47,47>>^ os filhos de Queros, os filhos de Sia,^&#42;1^ os filhos de Padom,
+
+[NOTE]
+====
+. “Siá” em Esd 2:44.
+====
+
+[[v16-7-48]]
+
+^<<v16-7-48,48>>^ os filhos de Lebana, os filhos de Hagaba, os filhos de Salmai,
+
+[[v16-7-49]]
+
+^<<v16-7-49,49>>^ os filhos de Hanã, os filhos de Gidel, os filhos de Gaar,
+
+[[v16-7-50]]
+
+^<<v16-7-50,50>>^ os filhos de Reaías, os filhos de Rezim, os filhos de Necoda,
+
+[[v16-7-51]]
+
+^<<v16-7-51,51>>^ os filhos de Gazão, os filhos de Uza, os filhos de Paséia,
+
+[[v16-7-52]]
+
+^<<v16-7-52,52>>^ os filhos de Besai, os filhos de Meunim, os filhos de Nefusesim,^&#42;1^
+
+[NOTE]
+====
+. “Nefusim” em Esd 2:50.
+====
+
+[[v16-7-53]]
+
+^<<v16-7-53,53>>^ os filhos de Bacbuque, os filhos de Hacufa, os filhos de Harur,
+
+[[v16-7-54]]
+
+^<<v16-7-54,54>>^ os filhos de Baslite,^&#42;1^ os filhos de Meída, os filhos de Harsa,
+
+[NOTE]
+====
+. “Baslute” em Esd 2:52.
+====
+
+[[v16-7-55]]
+
+^<<v16-7-55,55>>^ os filhos de Barcos, os filhos de Sísera, os filhos de Tema,
+
+[[v16-7-56]]
+
+^<<v16-7-56,56>>^ os filhos de Neziá, os filhos de Hatifa.
+
+[[v16-7-57]]
+
+^<<v16-7-57,57>>^ Os filhos dos servos de Salomão: Os filhos de Sotai, os filhos de Soferete, os filhos de Perida,^&#42;1^
+
+[NOTE]
+====
+. “Peruda” em Esd 2:55.
+====
+
+[[v16-7-58]]
+
+^<<v16-7-58,58>>^ os filhos de Jaala, os filhos de Darcom, os filhos de Gidel,
+
+[[v16-7-59]]
+
+^<<v16-7-59,59>>^ os filhos de Sefatias, os filhos de Hatil, os filhos de Poquerete-Hazebaim, os filhos de Amom.^&#42;1^
+
+[NOTE]
+====
+. “Ami” em Esd 2:57.
+====
+
+[[v16-7-60]]
+
+^<<v16-7-60,60>>^ Todos os netineus e os filhos dos servos de Salomão foram trezentos e noventa e dois.
+
+[[v16-7-61]]
+
+^<<v16-7-61,61>>^ E estes foram os que subiram de Tel-Melá, Tel-Harsa, Querube, Adom e Imer, e eles não foram capazes de informar [qual] a casa de seus pais e sua origem,^&#42;1^ se eram de Israel:
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v16-7-62]]
+
+^<<v16-7-62,62>>^ os filhos de Delaías, os filhos de Tobias, os filhos de Necoda, seiscentos e quarenta e dois.
+
+[[v16-7-63]]
+
+^<<v16-7-63,63>>^ E dos sacerdotes: os filhos de Habaías, os filhos de Hacoz, os filhos de Barzilai, que tomou esposa das filhas de Barzilai, o gileadita, e veio a ser chamado pelo seu nome.
+
+[[v16-7-64]]
+
+^<<v16-7-64,64>>^ Estes foram os que procuraram o seu registro para estabelecer publicamente a sua genealogia, e não foi achado, de modo que ficaram excluídos do sacerdócio como polutos.
+
+[[v16-7-65]]
+
+^<<v16-7-65,65>>^ Por conseguinte, o Tirsata^&#42;1^ disse-lhes que não deviam comer das coisas santíssimas até que o sacerdote se pusesse de pé com Urim e Tumim.
+
+[NOTE]
+====
+. Título persa do governador dum distrito jurisdicional.
+====
+
+[[v16-7-66]]
+
+^<<v16-7-66,66>>^ A congregação inteira, como um só grupo, foi de quarenta e dois mil trezentos e sessenta,
+
+[[v16-7-67]]
+
+^<<v16-7-67,67>>^ além dos seus escravos e das suas escravas, os quais foram sete mil trezentos e trinta e sete; e tinham duzentos e quarenta e cinco^&#42;1^ cantores e cantoras. [
+
+[NOTE]
+====
+. “Duzentos” em Esd 2:65.
+====
+
+[[v16-7-68]]
+
+^<<v16-7-68,68>>^ Seus cavalos foram setecentos e trinta e seis, seus mulos, duzentos e quarenta e cinco.]^&#42;1^
+
+[NOTE]
+====
+. LXXVgc e alguns mss. hebr. acrescentam a parte entre colchetes em harmonia com Esd 2:66.
+====
+
+[[v16-7-69]]
+
+^<<v16-7-69,69>>^ Os camelos foram quatrocentos e trinta e cinco. Os jumentos foram seis mil setecentos e vinte.
+
+[[v16-7-70]]
+
+^<<v16-7-70,70>>^ E havia uma parte dos cabeças das casas paternas que deram [algo] para a obra. O próprio Tirsata deu ao tesouro mil dracmas^&#42;1^ de ouro, cinqüenta tigelas, quinhentas e trinta vestes compridas de sacerdotes.
+
+[NOTE]
+====
+. Uma dracma, em geral, equivalia ao darico de ouro, persa, que pesava 8,4 g. Não se trata da dracma das Escrituras Gregas. Veja Ap. 8A.
+====
+
+[[v16-7-71]]
+
+^<<v16-7-71,71>>^ E havia alguns dos cabeças das casas paternas que deram ao tesouro, para a obra, vinte mil dracmas de ouro e duas mil e duzentas minas^&#42;1^ de prata.
+
+[NOTE]
+====
+. Uma mina pesava 570 g. Não se trata da mina das Escrituras Gregas.
+====
+
+[[v16-7-72]]
+
+^<<v16-7-72,72>>^ E o que o restante do povo deu foi vinte mil dracmas de ouro, e duas mil minas de prata, e sessenta e sete vestes compridas de sacerdotes.
+
+[[v16-7-73]]
+
+^<<v16-7-73,73>>^ E os sacerdotes, e os levitas, e os porteiros, e os cantores, e alguns do povo, e os netineus, e todo o Israel passaram a morar nas suas cidades. Ao chegar o sétimo mês, os filhos de Israel estavam então nas suas cidades.
+
+'''
+
+xref:016-neemias/016-neemias-006.adoc#v16-6-0[&#60; Capítulo Anterior] | <<v16-7-0,Topo>> | xref:016-neemias/016-neemias-008.adoc#v16-8-0[Próximo Capítulo &#62;]

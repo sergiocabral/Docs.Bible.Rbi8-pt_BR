@@ -1,0 +1,221 @@
+include::./index.adoc[]
+
+[[v2-20-0]]
+=== Êxodo, 20
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-20-1]]
+
+^<<v2-20-1,1>>^ E Deus passou a falar todas estas palavras,^&#42;1^ dizendo:
+
+[NOTE]
+====
+. Ou “ordens”.
+====
+
+[[v2-20-2]]
+
+^<<v2-20-2,2>>^ “Eu sou Jeová, teu Deus,^&#42;1^ que te fiz sair da terra do Egito, da casa dos escravos.
+
+[NOTE]
+====
+. Ou: “Eu, Jeová, sou teu Deus.”
+====
+
+[[v2-20-3]]
+
+^<<v2-20-3,3>>^ Não deves ter quaisquer outros deuses^&#42;1^ em oposição à minha pessoa.^&#42;2^
+
+[NOTE]
+====
+. “Não . . . quaisquer outros deuses.” Hebr.: lo’ . . . ’elo·hím ’ahhe·rím; gr.: the·oí.
+. Ou “deuses em desafio a mim”.
+====
+
+[[v2-20-4]]
+
+^<<v2-20-4,4>>^ “Não deves fazer para ti imagem esculpida, nem semelhança de algo que há nos céus em cima, ou do que há na terra embaixo, ou do que há nas águas abaixo da terra.
+
+[[v2-20-5]]
+
+^<<v2-20-5,5>>^ Não te deves curvar diante delas, nem ser induzido a servi-las,^&#42;1^ porque eu, Jeová, teu Deus, sou um Deus que exige devoção exclusiva,^&#42;2^ trazendo punição pelo erro dos pais sobre os filhos, sobre a terceira geração e sobre a quarta geração^&#42;3^ no caso dos que me odeiam,
+
+[NOTE]
+====
+. “Nem ser induzido a servi-las.” Hebr.: weló’ tho·‛ov·dhém; gr.: me la·treú·seis au·toís, “não lhes prestarás serviço sagrado”. Veja 3:12 n.
+. Ou “um Deus ciumento (zeloso); um Deus que não tolera rivalidade”. Hebr.: ’El qan·ná’; gr.: The·ós ze·lo·tes.
+. Lit.: “sobre os terceiros e os quartos [gerados]”. Veja Gên 50:23 n.
+====
+
+[[v2-20-6]]
+
+^<<v2-20-6,6>>^ mas usando de benevolência^&#42;1^ para com a milésima geração^&#42;2^ no caso dos que me amam e que guardam os meus mandamentos.^&#42;3^
+
+[NOTE]
+====
+. Ou “amor leal”. Hebr.: hhé·sedh.
+. Ou “para com os milésimos [gerados]”. Veja De 7:9; Sal 105:8.
+. Veja v. 17 n.: “próximo”.
+====
+
+[[v2-20-7]]
+
+^<<v2-20-7,7>>^ “Não deves tomar^&#42;1^ o nome de Jeová, teu Deus, dum modo fútil,^&#42;2^ pois Jeová não deixará impune aquele que tomar seu nome dum modo fútil.
+
+[NOTE]
+====
+. Ou “não proferir”, ou: “não erguer (carregar)”.
+. Ou “para uma falsidade”; ou: “em vão”.
+====
+
+[[v2-20-8]]
+
+^<<v2-20-8,8>>^ “Lembrando^&#42;1^ o dia de sábado para o manteres sagrado,
+
+[NOTE]
+====
+. “Lembrando.” Hebr.: za·khóhr. Este verbo não está no imperativo, mas no infinitivo absoluto, indefinido quanto ao tempo.
+====
+
+[[v2-20-9]]
+
+^<<v2-20-9,9>>^ deves prestar serviço^&#42;1^ e tens de fazer toda a tua obra por seis dias.
+
+[NOTE]
+====
+. Ou “deves trabalhar”. Gr.: er·gaí.
+====
+
+[[v2-20-10]]
+
+^<<v2-20-10,10>>^ Mas o sétimo dia é um sábado^&#42;1^ para Jeová, teu Deus. Não deves fazer nenhuma obra, nem tu, nem teu filho, nem tua filha, nem teu escravo, nem tua escrava, nem teu animal doméstico, nem teu residente forasteiro que está dentro dos teus portões.
+
+[NOTE]
+====
+. Hebr.: shab·báth.
+====
+
+[[v2-20-11]]
+
+^<<v2-20-11,11>>^ Pois em seis dias fez Jeová os céus e a terra, o mar e tudo o que neles há, e no sétimo dia passou a descansar.^&#42;1^ É por isso que Jeová abençoou o dia de sábado e passou a fazê-lo sagrado.^&#42;2^
+
+[NOTE]
+====
+. “E . . . passou a descansar.” A ação progressiva é indicada por um verbo hebr. no imperfeito. Veja Ap. 3C.
+. “E passou a fazê-lo sagrado.” Ou “e santificou-o”. Hebr.: wa·yeqad·deshé·hu; lat.: et sanc·ti·fi·cá·vit é·um.
+====
+
+[[v2-20-12]]
+
+^<<v2-20-12,12>>^ “Honra^&#42;1^ a teu pai e a tua mãe, a fim de que os teus dias se prolonguem sobre o solo que Jeová, teu Deus, te dá.
+
+[NOTE]
+====
+. “Honra.” Lat.: ho·nó·ra.
+====
+
+[[v2-20-13]]
+
+^<<v2-20-13,13>>^ “Não deves assassinar.^&#42;1^
+
+[NOTE]
+====
+. “Não deves assassinar.” Hebr.: lo’ tir·tsáhh. Note que não se usa aqui o verbo hebr. ta·harógh, “deves matar”. Veja 2:14 n.: “matar-me”.
+====
+
+[[v2-20-14]]
+
+^<<v2-20-14,14>>^ “Não deves cometer adultério.^&#42;1^
+
+[NOTE]
+====
+. “Não deves cometer adultério.” Hebr.: lo’ tin·’áf.
+====
+
+[[v2-20-15]]
+
+^<<v2-20-15,15>>^ “Não deves furtar.^&#42;1^
+
+[NOTE]
+====
+. “Não deves furtar.” Hebr.: lo’ tigh·nóv; gr.: ou klé·pseis.
+====
+
+[[v2-20-16]]
+
+^<<v2-20-16,16>>^ “Não deves testificar uma falsidade contra o teu próximo.^&#42;1^
+
+[NOTE]
+====
+. Ou “teu companheiro”. LXXVg: “teu próximo”.
+====
+
+[[v2-20-17]]
+
+^<<v2-20-17,17>>^ “Não deves desejar^&#42;1^ a casa do teu próximo. Não deves desejar a esposa do teu próximo, nem seu escravo, nem sua escrava, nem seu touro, nem seu jumento, nem qualquer coisa que pertença ao teu próximo.”^&#42;2^
+
+[NOTE]
+====
+. “Não deves desejar.” Hebr.: lo’ thahh·módh. Veja De 5:21 n.
+. Esta divisão dos Dez Mandamentos, vv. 2-17, é a divisão natural. Concorda com Josefo, historiador judaico do primeiro século EC (Jewish Antiquities, Livro III, capítulo 5, § 5), e com Filo, filósofo judaico do primeiro século, que separaram o v. 3 como o primeiro mandamento, os vv. 4-6 como o segundo mandamento e o v. 17, que proíbe toda a cobiça, como o décimo mandamento. Outros, inclusive Agostinho, consideravam os vv. 3-6 como um só mandamento, mas dividiam o v. 17 em dois mandamentos, o nono contra a cobiça da casa do próximo, e o décimo contra cobiçar os bens vivos dele. Agostinho apoiava esta divisão na posterior declaração paralela dos Dez Mandamentos em De 5:6-21, que usa dois verbos hebr. diferentes no v. 21 ao proibir o desejo cobiçoso daquilo que pertence ao próximo, ao passo que Êx 20:17 usa em ambos os casos o mesmo verbo hebr. A divisão feita por Agostinho foi adotada pelo sistema religioso católico romano.
+====
+
+[[v2-20-18]]
+
+^<<v2-20-18,18>>^ Ora, todo o povo presenciava^&#42;1^ os trovões e os lampejos, e o som da buzina e o monte fumegando. Quando o povo chegou a ver isso, então estremeceu e ficou de longe.
+
+[NOTE]
+====
+. “Presenciava.” Lit.: “via”. Esta figura de linguagem é chamada de zeugma, significando um jugo, em que um verbo se encontra jungido de modo desigual a dois ou mais objetos, ao passo que gramaticalmente seria necessário outro verbo. Aqui, o ‘ver’ se aplica aos lampejos e ao monte fumegando, mas os trovões e o som da buzina requerem audição.
+====
+
+[[v2-20-19]]
+
+^<<v2-20-19,19>>^ E começaram a dizer a Moisés: “Fala tu conosco, e escutemos; mas não fale Deus conosco, para que não morramos.”
+
+[[v2-20-20]]
+
+^<<v2-20-20,20>>^ Portanto, Moisés disse ao povo: “Não tenhais medo, porque o [verdadeiro] Deus veio para pôr-vos à prova e para que o temor dele continue diante das vossas faces, para que não pequeis.”
+
+[[v2-20-21]]
+
+^<<v2-20-21,21>>^ E o povo ficou de longe; Moisés, porém, aproximou-se da densa nuvem escura, onde estava o [verdadeiro] Deus.
+
+[[v2-20-22]]
+
+^<<v2-20-22,22>>^ E Jeová prosseguiu, dizendo a Moisés: “Isto é o que deves dizer aos filhos de Israel: ‘Vós mesmos tendes visto que foi desde os céus que falei convosco.
+
+[[v2-20-23]]
+
+^<<v2-20-23,23>>^ Não deveis fazer junto de mim deuses^&#42;1^ de prata, e não deveis fazer para vós deuses de ouro.
+
+[NOTE]
+====
+. “Deuses de.” Hebr.: ’eló·heh; gr.: the·oús.
+====
+
+[[v2-20-24]]
+
+^<<v2-20-24,24>>^ Deves fazer para mim um altar de terra, e sobre ele tens de sacrificar as tuas ofertas queimadas e os teus sacrifícios de participação em comum,^&#42;1^ teu rebanho e tua manada. Em todo lugar onde farei que meu nome seja lembrado virei a ti e certamente te abençoarei.
+
+[NOTE]
+====
+. Ou “ofertas pacíficas”.
+====
+
+[[v2-20-25]]
+
+^<<v2-20-25,25>>^ E se fizeres para mim um altar de pedras, não as deves construir como pedras lavradas. Caso brandas sobre ele a tua talhadeira, profaná-lo-ás.
+
+[[v2-20-26]]
+
+^<<v2-20-26,26>>^ E não deves subir por degraus ao meu altar, para que as tuas partes pudendas^&#42;1^ não fiquem expostas nele.’
+
+[NOTE]
+====
+. Lit.: “tua nudez”.
+====
+
+'''
+
+xref:002-exodo/002-exodo-019.adoc#v2-19-0[&#60; Capítulo Anterior] | <<v2-20-0,Topo>> | xref:002-exodo/002-exodo-021.adoc#v2-21-0[Próximo Capítulo &#62;]

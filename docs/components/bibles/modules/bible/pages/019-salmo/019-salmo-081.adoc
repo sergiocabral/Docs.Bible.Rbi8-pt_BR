@@ -1,0 +1,130 @@
+include::./index.adoc[]
+
+[[v19-81-0]]
+=== Salmos, 81
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, segundo Gitite.^&#42;1^ De Asafe._
+
+[[v19-81-1]]
+
+^<<v19-81-1,1>>^ Gritai de júbilo a Deus, nossa força;
+Bradai em triunfo ao Deus de Jacó.
+
+[[v19-81-2]]
+
+^<<v19-81-2,2>>^ Encetai uma melodia e tomai um pandeiro,
+A agradável harpa junto com o instrumento de cordas.
+
+[[v19-81-3]]
+
+^<<v19-81-3,3>>^ Na lua nova, tocai a buzina;^&#42;1^
+Na lua cheia, para o dia da nossa festividade.
+
+[NOTE]
+====
+. Ou “shofar”. Hebr.: shoh·fár.
+====
+
+[[v19-81-4]]
+
+^<<v19-81-4,4>>^ Porque é um regulamento para Israel,
+Uma decisão judicial do Deus^&#42;1^ de Jacó.
+
+[NOTE]
+====
+. “Tendas”, pela transposição de duas letras hebr., para corresponder à primeira metade do v.
+====
+
+[[v19-81-5]]
+
+^<<v19-81-5,5>>^ Ele a impôs como advertência ao próprio José,
+Ao sair sobre a terra do Egito.
+Eu estava ouvindo um idioma^&#42;1^ que não conhecia.
+
+[NOTE]
+====
+. Lit.: “lábio”. Veja Gên 11:1 n.: “idioma”.
+====
+
+[[v19-81-6]]
+
+^<<v19-81-6,6>>^ “Desviei^&#42;1^ seu ombro do próprio fardo;^&#42;2^
+Suas próprias mãos ficaram livres da cesta.
+
+[NOTE]
+====
+. “Desviei”, MTSy; LXXVg: “Desviou”.
+. Ou “serviço compulsório”.
+====
+
+[[v19-81-7]]
+
+^<<v19-81-7,7>>^ Chamaste em aflição, e eu passei a socorrer-te;
+Comecei a responder-te no lugar escondido do trovão.
+Fui examinar-te junto às águas de Meribá. Selá.
+
+[[v19-81-8]]
+
+^<<v19-81-8,8>>^ Ouve, meu povo, e eu vou testificar contra ti,
+Ó Israel, se quiseres escutar-me.
+
+[[v19-81-9]]
+
+^<<v19-81-9,9>>^ No meio de ti não se mostrará haver nenhum deus^&#42;1^ estranho;
+E não te curvarás diante de um deus estrangeiro.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’el.
+====
+
+[[v19-81-10]]
+
+^<<v19-81-10,10>>^ Eu, Jeová, sou teu Deus,^&#42;1^
+Aquele que te fez subir da terra do Egito.
+Abre bem a tua boca, e eu a encherei.
+
+[NOTE]
+====
+. Ou: “Eu sou Jeová, teu Deus.” Hebr.: ’a·no·khí Yehwáh ’Elo·heí·kha.
+====
+
+[[v19-81-11]]
+
+^<<v19-81-11,11>>^ Meu povo, porém, não tem escutado a minha voz;
+E o próprio Israel não tem demonstrado nenhuma voluntariedade para comigo.
+
+[[v19-81-12]]
+
+^<<v19-81-12,12>>^ E por isso os deixei ir^&#42;1^ na obstinação do seu coração;
+Prosseguiram andando nos seus próprios conselhos.
+
+[NOTE]
+====
+. Lit.: “o mandei embora”. Veja Êx 5:1, 2.
+====
+
+[[v19-81-13]]
+
+^<<v19-81-13,13>>^ Se meu povo tão-somente me escutasse,
+Se Israel tão-somente andasse nos meus próprios caminhos!
+
+[[v19-81-14]]
+
+^<<v19-81-14,14>>^ Eu subjugaria facilmente seus inimigos
+E voltaria minha mão contra os seus adversários.
+
+[[v19-81-15]]
+
+^<<v19-81-15,15>>^ Quanto aos que odeiam intensamente a Jeová, virão a ele servilmente,
+E seu tempo mostrará ser por tempo indefinido.
+
+[[v19-81-16]]
+
+^<<v19-81-16,16>>^ E ele os alimentará com a gordura do trigo,
+E eu vos fartarei com o próprio mel da rocha.”
+
+'''
+
+xref:019-salmo/019-salmo-080.adoc#v19-80-0[&#60; Capítulo Anterior] | <<v19-81-0,Topo>> | xref:019-salmo/019-salmo-082.adoc#v19-82-0[Próximo Capítulo &#62;]

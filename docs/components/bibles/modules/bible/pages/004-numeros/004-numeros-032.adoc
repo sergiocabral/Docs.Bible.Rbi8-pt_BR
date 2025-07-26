@@ -1,0 +1,212 @@
+include::./index.adoc[]
+
+[[v4-32-0]]
+=== Números, 32
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-32-1]]
+
+^<<v4-32-1,1>>^ Ora, os filhos de Rubem e os filhos de Gade haviam chegado a ter muito gado, de fato, muitíssimo. E eles começaram a ver a terra de Jázer e a terra de Gileade, e eis que o lugar era um lugar para gado.
+
+[[v4-32-2]]
+
+^<<v4-32-2,2>>^ Por isso, os filhos de Gade e os filhos de Rubem vieram e disseram o seguinte a Moisés e a Eleazar, o sacerdote, e aos maiorais da assembléia:
+
+[[v4-32-3]]
+
+^<<v4-32-3,3>>^ “Atarote e Díbon, e Jázer, e Ninra, e Hésbon, e Eleale, e Sebão, e Nebo, e Beom,
+
+[[v4-32-4]]
+
+^<<v4-32-4,4>>^ a terra que Jeová derrotou diante da assembléia de Israel, é uma terra para gado, e teus servos têm gado.”
+
+[[v4-32-5]]
+
+^<<v4-32-5,5>>^ E prosseguiram, dizendo: “Se tivermos achado favor aos teus olhos, dê-se esta terra como propriedade aos teus servos. Não nos faças atravessar o Jordão.”
+
+[[v4-32-6]]
+
+^<<v4-32-6,6>>^ Moisés disse então aos filhos de Gade e aos filhos de Rubem: “Hão de ir os vossos irmãos à guerra enquanto vós mesmos continuais a morar aqui?
+
+[[v4-32-7]]
+
+^<<v4-32-7,7>>^ E por que devíeis dissuadir os filhos de Israel de passar para a terra que Jeová certamente lhes dará?
+
+[[v4-32-8]]
+
+^<<v4-32-8,8>>^ É assim que fizeram os vossos pais quando os enviei de Cades-Barnéia para ver a terra.
+
+[[v4-32-9]]
+
+^<<v4-32-9,9>>^ Quando subiram até o vale da torrente de Escol e viram a terra, então dissuadiram os filhos de Israel, para não entrarem na terra que Jeová lhes havia de dar.
+
+[[v4-32-10]]
+
+^<<v4-32-10,10>>^ Por conseguinte, naquele dia acendeu-se a ira de Jeová, de modo que ele jurou, dizendo:
+
+[[v4-32-11]]
+
+^<<v4-32-11,11>>^ ‘Os homens que subiram do Egito, da idade de vinte anos para cima, não verão o solo que jurei^&#42;1^ a Abraão, Isaque e Jacó, porque não me seguiram integralmente,
+
+[NOTE]
+====
+. “Solo que prometi sob juramento”, Vg.
+====
+
+[[v4-32-12]]
+
+^<<v4-32-12,12>>^ com exceção de Calebe, filho de Jefuné, o quenizeu, e Josué, filho de Num, porque seguiram integralmente a Jeová.’
+
+[[v4-32-13]]
+
+^<<v4-32-13,13>>^ Acendeu-se por isso a ira de Jeová contra Israel e ele os fez andar errantes pelo ermo por quarenta anos, até que toda a geração que fazia mal aos olhos de Jeová chegou ao seu fim.
+
+[[v4-32-14]]
+
+^<<v4-32-14,14>>^ E eis que vos levantastes no lugar dos vossos pais como prole de homens pecadores, para aumentar ainda mais^&#42;1^ a ira ardente de Jeová contra Israel.
+
+[NOTE]
+====
+. “Para aumentar ainda mais”, LXXSyVg; MSam podem significar o mesmo.
+====
+
+[[v4-32-15]]
+
+^<<v4-32-15,15>>^ Caso volteis atrás no que se refere a segui-lo, então ele certamente os deixaria ficar novamente por mais tempo no ermo e vós teríeis agido ruinosamente para com todo este povo.”
+
+[[v4-32-16]]
+
+^<<v4-32-16,16>>^ Mais tarde se aproximaram dele e disseram: “Construamos aqui redis de pedra para rebanhos, para os nossos animais, e cidades para os nossos pequeninos.
+
+[[v4-32-17]]
+
+^<<v4-32-17,17>>^ Mas nós mesmos iremos equipados em formação de batalha diante dos filhos de Israel, até que os tenhamos levado ao seu lugar, ao passo que os nossos pequeninos terão de morar nas cidades com fortificações, longe da face dos habitantes do país.
+
+[[v4-32-18]]
+
+^<<v4-32-18,18>>^ Não voltaremos às nossas casas até que os filhos de Israel tenham provido para si propriedades de terra, cada um a sua própria herança.
+
+[[v4-32-19]]
+
+^<<v4-32-19,19>>^ Pois não obteremos herança junto com eles daquele lado do Jordão e mais além, visto que obtivemos a nossa herança deste lado do Jordão em direção do nascente.”
+
+[[v4-32-20]]
+
+^<<v4-32-20,20>>^ A isso Moisés lhes disse: “Se fizerdes esta coisa, se vos equipardes perante Jeová para a guerra
+
+[[v4-32-21]]
+
+^<<v4-32-21,21>>^ e todo [homem] equipado vosso passar realmente o Jordão perante Jeová, até que ele expulse seus inimigos de diante de si
+
+[[v4-32-22]]
+
+^<<v4-32-22,22>>^ e a terra esteja realmente subjugada perante Jeová, e depois voltardes, deveras vos mostrareis livres de culpa para com Jeová e para com Israel; e esta terra terá de tornar-se vossa como propriedade perante Jeová.
+
+[[v4-32-23]]
+
+^<<v4-32-23,23>>^ Mas, se não fizerdes assim, então certamente pecareis contra Jeová. Neste caso, sabei que o vosso pecado vos alcançará.
+
+[[v4-32-24]]
+
+^<<v4-32-24,24>>^ Construí para vós cidades para os vossos pequeninos e redis de pedra para os vossos rebanhos, e deveis cumprir aquilo que saiu da vossa boca.”
+
+[[v4-32-25]]
+
+^<<v4-32-25,25>>^ Os filhos de Gade e os filhos de Rubem disseram então a Moisés o seguinte: “Teus servos farão assim como meu senhor ordena.
+
+[[v4-32-26]]
+
+^<<v4-32-26,26>>^ Nossos pequeninos, nossas esposas, nosso gado e todos os nossos animais domésticos ficarão aqui nas cidades de Gileade,
+
+[[v4-32-27]]
+
+^<<v4-32-27,27>>^ mas os teus servos atravessarão perante Jeová para a guerra, cada um equipado para o exército, assim como meu senhor está falando.”
+
+[[v4-32-28]]
+
+^<<v4-32-28,28>>^ Conseqüentemente, Moisés deu ordem com respeito a eles, a Eleazar, o sacerdote, e a Josué, filho de Num, e aos cabeças dos pais das tribos dos filhos de Israel.
+
+[[v4-32-29]]
+
+^<<v4-32-29,29>>^ De modo que Moisés lhes disse: “Se os filhos de Gade e os filhos de Rubem passarem convosco o Jordão perante Jeová, cada um equipado para a guerra, e a terra estiver realmente subjugada diante de vós, então tereis de dar-lhes como propriedade a terra de Gileade.
+
+[[v4-32-30]]
+
+^<<v4-32-30,30>>^ Mas, se não atravessarem convosco equipados,^&#42;1^ então terão de ser estabelecidos no vosso meio na terra de Canaã.”
+
+[NOTE]
+====
+. LXX acrescenta: “para a guerra perante Jeová, então carregareis para o outro lado suas coisas domésticas [sua bagagem], e suas esposas, e seu gado, diante de vós para a terra de Canaã”.
+====
+
+[[v4-32-31]]
+
+^<<v4-32-31,31>>^ A isso responderam os filhos de Gade e os filhos de Rubem, dizendo: “Conforme Jeová falou aos teus servos, assim faremos.
+
+[[v4-32-32]]
+
+^<<v4-32-32,32>>^ Nós mesmos passaremos equipados perante Jeová à terra de Canaã e a propriedade da nossa herança ficará para nós^&#42;1^ deste lado do Jordão.”
+
+[NOTE]
+====
+. “E a propriedade da nossa herança ficará conosco”, M; LXX: “e vós nos dareis a propriedade”. Uma versão proposta do M é: “e deveras dai a propriedade da nossa herança”.
+====
+
+[[v4-32-33]]
+
+^<<v4-32-33,33>>^ Em vista disso, Moisés deu-lhes, isto é, aos filhos de Gade e aos filhos de Rubem, e à meia tribo de Manassés, filho de José, o reino de Síon, rei dos amorreus, e o reino de Ogue, rei de Basã, a terra pertencente às suas cidades nos territórios, e as cidades da terra ao redor.^&#42;1^
+
+[NOTE]
+====
+. “A terra e as cidades com os seus termos, cidades da terra ao redor”, LXX; Vg: “e sua terra com suas cidades ao redor”.
+====
+
+[[v4-32-34]]
+
+^<<v4-32-34,34>>^ E os filhos de Gade passaram a construir Díbon, e Atarote, e Aroer,
+
+[[v4-32-35]]
+
+^<<v4-32-35,35>>^ e Atrote-Sofã, e Jázer, e Jogbeá,
+
+[[v4-32-36]]
+
+^<<v4-32-36,36>>^ e Bete-Ninra, e Bete-Harã, cidades com fortificações, e redis de pedra para rebanhos.
+
+[[v4-32-37]]
+
+^<<v4-32-37,37>>^ E os filhos de Rubem construíram Hésbon, e Eleale, e Quiriataim,
+
+[[v4-32-38]]
+
+^<<v4-32-38,38>>^ e Nebo, e Baal-Meom — mudando-se-lhes os nomes — e Sibma; e começaram a dar seus próprios nomes^&#42;1^ como nomes das cidades que construíram.
+
+[NOTE]
+====
+. “Dar seus próprios nomes”, LXXSy; MSam: “dar nomes”.
+====
+
+[[v4-32-39]]
+
+^<<v4-32-39,39>>^ E os filhos de Maquir, filho de Manassés, passaram a marchar para Gileade e a capturá-la, e a expulsar os amorreus que havia nela.
+
+[[v4-32-40]]
+
+^<<v4-32-40,40>>^ De modo que Moisés deu Gileade a Maquir, filho de Manassés, e ele passou a morar nela.
+
+[[v4-32-41]]
+
+^<<v4-32-41,41>>^ E Jair, filho de Manassés, marchou e foi capturar as suas aldeias de tendas e começou a chamá-las de Havote-Jair.
+
+[[v4-32-42]]
+
+^<<v4-32-42,42>>^ E Noba marchou e foi capturar Quenate e suas aldeias dependentes;^&#42;1^ e começou a chamá-la de Noba, segundo o seu próprio nome.
+
+[NOTE]
+====
+. Lit.: “e suas filhas”.
+====
+
+'''
+
+xref:004-numeros/004-numeros-031.adoc#v4-31-0[&#60; Capítulo Anterior] | <<v4-32-0,Topo>> | xref:004-numeros/004-numeros-033.adoc#v4-33-0[Próximo Capítulo &#62;]

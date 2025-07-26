@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v1-40-0]]
+=== Gênesis, 40
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-40-1]]
+
+^<<v1-40-1,1>>^ Ora, depois destas coisas sucedeu que o copeiro do rei do Egito e o padeiro pecaram contra o seu senhor,^&#42;1^ o rei do Egito.
+
+[NOTE]
+====
+. “Contra o seu senhor.” Hebr.: la·’adho·neh·hém, pl. de ’a·dhóhn, para denotar excelência. Veja 39:2 n.
+====
+
+[[v1-40-2]]
+
+^<<v1-40-2,2>>^ E Faraó ficou indignado com os seus dois oficiais, o chefe^&#42;1^ dos copeiros e o chefe dos padeiros.
+
+[NOTE]
+====
+. Hebr.: sar, traduzido por “príncipes de” em 12:15, onde está no pl.
+====
+
+[[v1-40-3]]
+
+^<<v1-40-3,3>>^ Assim, mandou que fossem recolhidos à cadeia da casa do chefe da guarda pessoal, à casa da prisão, o lugar onde José estava preso.
+
+[[v1-40-4]]
+
+^<<v1-40-4,4>>^ O chefe da guarda pessoal determinou então que José estivesse com eles, para que os servisse; e eles ficaram alguns dias na cadeia.
+
+[[v1-40-5]]
+
+^<<v1-40-5,5>>^ E ambos passaram a ter um sonho, cada um o seu próprio sonho, numa só noite, cada um o seu sonho com a sua própria interpretação, o copeiro e o padeiro que pertenciam ao rei do Egito, os quais estavam presos na casa da prisão.
+
+[[v1-40-6]]
+
+^<<v1-40-6,6>>^ Chegando-se José a eles de manhã e vendo-os, ora, eis que pareciam abatidos.
+
+[[v1-40-7]]
+
+^<<v1-40-7,7>>^ E começou a indagar dos oficiais de Faraó, que com ele estavam na cadeia da casa do seu amo, dizendo: “Por que razão estão hoje sombrias as vossas faces?”
+
+[[v1-40-8]]
+
+^<<v1-40-8,8>>^ A isso disseram-lhe: “Tivemos um sonho, e não há conosco intérprete.” José disse-lhes então: “Não pertencem a Deus as interpretações? Relatai-mo, por favor.”
+
+[[v1-40-9]]
+
+^<<v1-40-9,9>>^ E o chefe dos copeiros foi relatar o seu sonho a José e disse-lhe: “No meu sonho, ora, eis que havia diante de mim uma videira.
+
+[[v1-40-10]]
+
+^<<v1-40-10,10>>^ E na videira havia três renovos, e ela estava aparentemente florescendo. Suas flores saíam. Seus cachos amadureciam as suas uvas.
+
+[[v1-40-11]]
+
+^<<v1-40-11,11>>^ E havia o copo de Faraó na minha mão, e passei a tomar as uvas e a espremê-las no copo de Faraó. Depois entreguei o copo na mão de Faraó.”
+
+[[v1-40-12]]
+
+^<<v1-40-12,12>>^ José disse-lhe então: “Esta é a sua interpretação: Os três renovos são três dias.
+
+[[v1-40-13]]
+
+^<<v1-40-13,13>>^ Daqui a três dias, Faraó te levantará a cabeça e certamente te restituirá ao teu cargo; e certamente entregarás o copo de Faraó na mão dele, segundo o costume anterior, quando agiste como seu copeiro.
+
+[[v1-40-14]]
+
+^<<v1-40-14,14>>^ Não obstante, tens de lembrar-te de mim assim que te vá bem, e, por favor, tens de usar de benevolência para comigo e fazer menção de mim diante de Faraó, e tens de tirar-me desta casa.
+
+[[v1-40-15]]
+
+^<<v1-40-15,15>>^ Pois, fui de fato raptado da terra dos hebreus; e também aqui não fiz nada pelo qual me devessem pôr na masmorra.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “na cisterna”, isto é, um buraco na forma de cisterna, usado como prisão.
+====
+
+[[v1-40-16]]
+
+^<<v1-40-16,16>>^ Quando o chefe dos padeiros viu que tinha interpretado algo bom, disse, por sua vez, a José: “Eu também estava no meu sonho, e eis que eu tinha três cestos de pão branco sobre a cabeça,
+
+[[v1-40-17]]
+
+^<<v1-40-17,17>>^ e no cesto de cima havia toda sorte de comestíveis para Faraó, produto de padeiro, e havia aves que os comiam do cesto sobre a minha cabeça.”
+
+[[v1-40-18]]
+
+^<<v1-40-18,18>>^ José respondeu então e disse: “Esta é a sua interpretação: Os três cestos são três dias.
+
+[[v1-40-19]]
+
+^<<v1-40-19,19>>^ Daqui a três dias, Faraó te levantará a cabeça de cima de ti e certamente te pendurará num madeiro;^&#42;1^ e as aves hão de comer a tua carne de cima de ti.”
+
+[NOTE]
+====
+. Ou “lenho”. Lit.: “madeiro”. Gr.: xý·lou; lat.: crú·ce (de crux). Veja 41:13 n.
+====
+
+[[v1-40-20]]
+
+^<<v1-40-20,20>>^ Ora, o terceiro dia resultou ser aniversário natalício de Faraó, e ele passou a dar um banquete a todos os seus servos e a levantar a cabeça do chefe dos copeiros e a cabeça do chefe dos padeiros no meio dos seus servos.
+
+[[v1-40-21]]
+
+^<<v1-40-21,21>>^ Concordemente, restituiu o chefe dos copeiros ao seu posto de copeiro, e ele continuou a dar o copo à mão de Faraó.
+
+[[v1-40-22]]
+
+^<<v1-40-22,22>>^ Mas ao chefe dos padeiros ele pendurou, assim como José lhes dera a interpretação.
+
+[[v1-40-23]]
+
+^<<v1-40-23,23>>^ O chefe dos copeiros, porém, não se lembrou de José e foi esquecer-se dele.
+
+'''
+
+xref:001-genesis/001-genesis-039.adoc#v1-39-0[&#60; Capítulo Anterior] | <<v1-40-0,Topo>> | xref:001-genesis/001-genesis-041.adoc#v1-41-0[Próximo Capítulo &#62;]

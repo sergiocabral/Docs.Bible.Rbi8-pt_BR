@@ -1,0 +1,146 @@
+include::./index.adoc[]
+
+[[v19-94-0]]
+=== Salmos, 94
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-94-1]]
+
+^<<v19-94-1,1>>^ ^&#42;1^ Ó Deus^&#42;2^ de atos de vingança, Jeová,
+Ó Deus de atos de vingança, reluz!
+
+[NOTE]
+====
+. LXX tem o cabeçalho: “Um salmo de Davi, para o quarto dia da semana”; Vg é similar.
+. “Deus de.” Hebr.: ’El.
+====
+
+[[v19-94-2]]
+
+^<<v19-94-2,2>>^ Levanta-te, ó Juiz da terra.
+Traze de volta uma retribuição sobre os altivos.
+
+[[v19-94-3]]
+
+^<<v19-94-3,3>>^ Até quando, ó Jeová, vão os iníquos,
+Até quando vão os próprios iníquos rejubilar?
+
+[[v19-94-4]]
+
+^<<v19-94-4,4>>^ Continuam a borbulhar, continuam a falar irrestritamente;
+Todos os que praticam o que é prejudicial continuam a gabar-se.
+
+[[v19-94-5]]
+
+^<<v19-94-5,5>>^ Continuam a esmigalhar teu povo, ó Jeová,
+E continuam a atribular a tua herança.
+
+[[v19-94-6]]
+
+^<<v19-94-6,6>>^ Matam a viúva e o residente forasteiro,
+E assassinam os meninos órfãos de pai.
+
+[[v19-94-7]]
+
+^<<v19-94-7,7>>^ E estão dizendo: “Jah^&#42;1^ não está vendo;
+E o Deus^&#42;2^ de Jacó não [o] entende.”
+
+[NOTE]
+====
+. “Jah.” Hebr.: Yah. Veja 68:4 n.
+. “Deus de.” Hebr.: ’Elo·héh.
+====
+
+[[v19-94-8]]
+
+^<<v19-94-8,8>>^ Entendei, vós os que sois irracionais entre o povo;
+E quanto a vós, estúpidos, quando é que tereis perspicácia?
+
+[[v19-94-9]]
+
+^<<v19-94-9,9>>^ Acaso não pode ouvir Aquele que plantou o ouvido?
+Acaso não pode olhar Aquele que formou o olho?
+
+[[v19-94-10]]
+
+^<<v19-94-10,10>>^ Porventura não pode repreender Aquele que corrige nações,
+Sim, Aquele que ensina aos homens conhecimento?
+
+[[v19-94-11]]
+
+^<<v19-94-11,11>>^ Jeová conhece os pensamentos dos homens,^&#42;1^ que são apenas como exalação.
+
+[NOTE]
+====
+. Lit.: “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v19-94-12]]
+
+^<<v19-94-12,12>>^ Feliz o varão vigoroso^&#42;1^ a quem corriges, ó Jah,
+E a quem ensinas da tua própria lei,
+
+[NOTE]
+====
+. “O varão vigoroso.” Hebr.: hag·gé·ver.
+====
+
+[[v19-94-13]]
+
+^<<v19-94-13,13>>^ Para dar-lhe sossego dos dias de calamidade,
+Até que se escave uma cova para o iníquo.
+
+[[v19-94-14]]
+
+^<<v19-94-14,14>>^ Pois Jeová não abandonará seu povo,
+Nem deixará sua própria herança.
+
+[[v19-94-15]]
+
+^<<v19-94-15,15>>^ Porque a decisão judicial retornará à própria justiça,
+E todos os retos no coração a seguirão.
+
+[[v19-94-16]]
+
+^<<v19-94-16,16>>^ Quem se levantará por mim contra os malfeitores?
+Quem tomará a sua posição por mim contra os que praticam o que é prejudicial?
+
+[[v19-94-17]]
+
+^<<v19-94-17,17>>^ Se Jeová não tivesse vindo em meu auxílio,
+Em pouco tempo a minha alma teria residido em silêncio.
+
+[[v19-94-18]]
+
+^<<v19-94-18,18>>^ Quando eu disse: “Meu pé certamente cambaleará”,
+Amparava-me a tua própria benevolência, ó Jeová.
+
+[[v19-94-19]]
+
+^<<v19-94-19,19>>^ Quando os meus pensamentos inquietantes se tornaram muitos no meu íntimo,
+Tuas próprias consolações começaram a afagar a minha alma.
+
+[[v19-94-20]]
+
+^<<v19-94-20,20>>^ Estará aliado contigo o trono que causa adversidades,
+Ao passo que forja a desgraça por meio de decreto?
+
+[[v19-94-21]]
+
+^<<v19-94-21,21>>^ Fazem ataques penetrantes à alma do justo
+E pronunciam iníquo até mesmo o sangue do inocente.
+
+[[v19-94-22]]
+
+^<<v19-94-22,22>>^ Jeová, porém, se tornará para mim uma altura protetora,
+E meu Deus, a rocha de meu refúgio.
+
+[[v19-94-23]]
+
+^<<v19-94-23,23>>^ E fará retornar sobre eles o que deles é prejudicial
+E os silenciará com a sua própria calamidade.
+Jeová, nosso Deus, os silenciará.
+
+'''
+
+xref:019-salmo/019-salmo-093.adoc#v19-93-0[&#60; Capítulo Anterior] | <<v19-94-0,Topo>> | xref:019-salmo/019-salmo-095.adoc#v19-95-0[Próximo Capítulo &#62;]

@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v3-22-0]]
+=== Levítico, 22
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-22-1]]
+
+^<<v3-22-1,1>>^ E Jeová falou mais a Moisés, dizendo:
+
+[[v3-22-2]]
+
+^<<v3-22-2,2>>^ “Fala a Arão e a seus filhos, que se mantenham apartados das coisas sagradas dos filhos de Israel e que não profanem meu santo nome nas coisas que santificam para mim. Eu sou Jeová.
+
+[[v3-22-3]]
+
+^<<v3-22-3,3>>^ Dize-lhes: ‘Em todas as vossas gerações, qualquer homem, de toda a vossa descendência, que se chegar às coisas sagradas que os filhos de Israel santificarem para Jeová, enquanto tiver sobre si a sua impureza, essa alma terá de ser decepada de diante de mim. Eu sou Jeová.
+
+[[v3-22-4]]
+
+^<<v3-22-4,4>>^ Nenhum homem da descendência de Arão, sendo leproso ou tendo um fluxo, pode comer das coisas sagradas até se tornar limpo, nem aquele que tocar alguém [que se tornou] impuro por meio de uma alma falecida^&#42;1^ ou um homem de quem sai uma emissão seminal,
+
+[NOTE]
+====
+. Lit.: “por uma alma”, isto é, uma alma falecida. Lat.: mór·tu·o, “um morto”; hebr.: né·fesh; LXX: “aquele que tocar em qualquer impureza duma alma [gr.: psy·khés]”.
+====
+
+[[v3-22-5]]
+
+^<<v3-22-5,5>>^ nem homem que tocar qualquer coisa pululante que é impura para ele ou tocar um homem que é impuro para ele com respeito a qualquer impureza sua.
+
+[[v3-22-6]]
+
+^<<v3-22-6,6>>^ A alma que tocar quaisquer de tais tem de ser impura até à noitinha e não pode comer nenhuma das coisas sagradas, mas tem de banhar sua carne em água.
+
+[[v3-22-7]]
+
+^<<v3-22-7,7>>^ Tendo-se posto o sol, então ele tem de ser limpo e depois pode comer das coisas sagradas, porque é seu pão.
+
+[[v3-22-8]]
+
+^<<v3-22-8,8>>^ Tampouco deve comer qualquer corpo [já] morto ou algo dilacerado por feras, de modo a se tornar impuro por ele. Eu sou Jeová.
+
+[[v3-22-9]]
+
+^<<v3-22-9,9>>^ “‘E eles têm de cuidar da sua obrigação para comigo, para que não levem pecado por causa dela e tenham de morrer por ela, tendo-a profanado. Eu sou Jeová que os santifico.
+
+[[v3-22-10]]
+
+^<<v3-22-10,10>>^ “‘E absolutamente nenhum estranho^&#42;1^ pode comer qualquer coisa sagrada. Nenhum colono com um sacerdote, nem qualquer trabalhador contratado pode comer algo sagrado.
+
+[NOTE]
+====
+. Isto é, um não-aronita, um homem que não era da família de Arão.
+====
+
+[[v3-22-11]]
+
+^<<v3-22-11,11>>^ Mas, caso um sacerdote compre uma alma, como compra [feita] com o seu dinheiro, ela, como tal, pode participar em comê-lo. Quanto aos escravos nascidos^&#42;1^ na sua casa, eles, como tais, podem participar em comer do seu pão.
+
+[NOTE]
+====
+. “Escravos nascidos”, SamLXXSy; MVg: “escravo nascido”.
+====
+
+[[v3-22-12]]
+
+^<<v3-22-12,12>>^ E caso a filha dum sacerdote se torne de um homem que é estranho, ela, como tal, não pode comer da contribuição das coisas sagradas.
+
+[[v3-22-13]]
+
+^<<v3-22-13,13>>^ Mas, caso a filha dum sacerdote se torne viúva ou divorciada,^&#42;1^ não tendo descendência, e ela tenha de voltar à casa de seu pai, como na sua mocidade, pode comer do pão de seu pai; mas absolutamente nenhum estranho se pode alimentar dele.
+
+[NOTE]
+====
+. Lit.: “expulsa; mandada embora”. Veja Mt 19:3 n.
+====
+
+[[v3-22-14]]
+
+^<<v3-22-14,14>>^ “‘Ora, caso um homem coma por engano uma coisa sagrada, então tem de acrescentar-lhe um quinto dela e tem de dar a coisa sagrada ao sacerdote.
+
+[[v3-22-15]]
+
+^<<v3-22-15,15>>^ Portanto, não devem^&#42;1^ profanar as coisas sagradas dos filhos de Israel, que eles contribuam a Jeová,
+
+[NOTE]
+====
+. Isto é, os sacerdotes.
+====
+
+[[v3-22-16]]
+
+^<<v3-22-16,16>>^ e realmente fazê-los sofrer a punição da culpa por comerem suas coisas sagradas; pois eu sou Jeová que os santifico.’”
+
+[[v3-22-17]]
+
+^<<v3-22-17,17>>^ E Jeová continuou a falar a Moisés, dizendo:
+
+[[v3-22-18]]
+
+^<<v3-22-18,18>>^ “Fala a Arão e a seus filhos, e a todos os filhos de Israel, e tens de dizer-lhes: ‘Quanto a qualquer homem da casa de Israel ou algum residente forasteiro em Israel, que apresentar sua oferta, a fim de que qualquer dos seus votos ou qualquer das suas ofertas voluntárias que apresentarem a Jeová como oferta queimada
+
+[[v3-22-19]]
+
+^<<v3-22-19,19>>^ ganhe aprovação para vós, tem de ser sadia, um macho dentre a manada, dentre os carneirinhos ou dentre os caprídeos.
+
+[[v3-22-20]]
+
+^<<v3-22-20,20>>^ Não deveis apresentar nada que tenha defeito, porque não servirá para ganhar aprovação para vós.
+
+[[v3-22-21]]
+
+^<<v3-22-21,21>>^ “‘E caso um homem apresente a Jeová um sacrifício de participação em comum, a fim de pagar um voto, ou como oferta voluntária, deve mostrar ser um sadio dentre a manada ou o rebanho, a fim de ganhar aprovação. Não deve haver nele defeito algum.
+
+[[v3-22-22]]
+
+^<<v3-22-22,22>>^ Nenhum caso de cegueira ou de fratura, ou tendo um corte, ou de verruga, ou de eczema, ou de tinha favosa, nenhum destes deveis apresentar a Jeová e nenhuma oferta deles feita por fogo deveis pôr sobre o altar para Jeová.
+
+[[v3-22-23]]
+
+^<<v3-22-23,23>>^ Quanto ao touro ou ao ovídeo que tenha um membro comprido demais ou curto demais, podes fazer dele uma oferta voluntária; mas para um voto não será aceito com aprovação.
+
+[[v3-22-24]]
+
+^<<v3-22-24,24>>^ Mas não deveis ofertar a Jeová um que tenha os testículos machucados, ou esmagados, ou arrancados, ou cortados,^&#42;1^ e não deveis ofertá-los na vossa terra.
+
+[NOTE]
+====
+. Ou “com as vias urinárias cortadas”. Veja De 23:1.
+====
+
+[[v3-22-25]]
+
+^<<v3-22-25,25>>^ E não deveis apresentar como o pão de vosso Deus qualquer de todos estes da mão dum estrangeiro, porque há neles sua corrupção. Há defeito neles. Não serão aceitos com aprovação para vós.’”
+
+[[v3-22-26]]
+
+^<<v3-22-26,26>>^ E Jeová falou mais a Moisés, dizendo:
+
+[[v3-22-27]]
+
+^<<v3-22-27,27>>^ “Nascendo um touro, ou um carneirinho, ou um caprídeo, então tem de continuar por sete dias debaixo de sua mãe, mas a partir do oitavo dia será aceito com aprovação como oferta, uma oferta feita por fogo a Jeová.
+
+[[v3-22-28]]
+
+^<<v3-22-28,28>>^ Quanto ao touro ou ao ovídeo, não deveis matar tanto a ele como a sua cria no mesmo dia.
+
+[[v3-22-29]]
+
+^<<v3-22-29,29>>^ “E caso ofereçais um sacrifício de agradecimento^&#42;1^ a Jeová, deveis sacrificá-lo para ganhar aprovação para vós.
+
+[NOTE]
+====
+. Ou “um sacrifício de louvor”.
+====
+
+[[v3-22-30]]
+
+^<<v3-22-30,30>>^ Deve ser comido naquele dia. Não deveis deixar nada dele até à manhã. Eu sou Jeová.
+
+[[v3-22-31]]
+
+^<<v3-22-31,31>>^ “E tendes de guardar os meus mandamentos e cumpri-los. Eu sou Jeová.
+
+[[v3-22-32]]
+
+^<<v3-22-32,32>>^ E não deveis profanar meu santo nome, e eu tenho de ser santificado^&#42;1^ no meio dos filhos de Israel. Eu sou Jeová que vos santifico,
+
+[NOTE]
+====
+. Ou “tenho de santificar-me”.
+====
+
+[[v3-22-33]]
+
+^<<v3-22-33,33>>^ Aquele que vos faço sair da terra do Egito para mostrar-me Deus para vós. Eu sou Jeová.”
+
+'''
+
+xref:003-levitico/003-levitico-021.adoc#v3-21-0[&#60; Capítulo Anterior] | <<v3-22-0,Topo>> | xref:003-levitico/003-levitico-023.adoc#v3-23-0[Próximo Capítulo &#62;]

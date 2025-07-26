@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v23-4-0]]
+=== Isaías, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-4-1]]
+
+^<<v23-4-1,1>>^ E sete mulheres segurarão realmente um só homem, naquele dia, dizendo: “Comeremos o nosso próprio pão e vestiremos as nossas próprias capas; apenas sejamos chamadas pelo teu nome,^&#42;1^ para tirar o nosso vitupério.”
+
+[NOTE]
+====
+. Lit.: “seja teu nome invocado sobre nós”.
+====
+
+[[v23-4-2]]
+
+^<<v23-4-2,2>>^ Naquele dia, aquilo que Jeová fará brotar^&#42;1^ virá a ser para ornato e para glória, e os frutos da terra^&#42;2^ serão algo de que se orgulhar e algo belo para os de Israel que escaparam.^&#42;3^
+
+[NOTE]
+====
+. Ou “o broto (o que brota) de Jeová”. T: “o Messias (Cristo) de Jeová”.
+. “Da terra.” Hebr.: ha·’á·rets.
+. Lit.: “o que escapou de Israel”, isto é, os que escaparam.
+====
+
+[[v23-4-3]]
+
+^<<v23-4-3,3>>^ E terá de acontecer que se dirá dos que restam^&#42;1^ em Sião e dos que sobram^&#42;2^ em Jerusalém que são santos para ele, cada um inscrito em Jerusalém para a vida.
+
+[NOTE]
+====
+. Lit.: “do que resta”, isto é, o restante.
+. Lit.: “do que sobra”.
+====
+
+[[v23-4-4]]
+
+^<<v23-4-4,4>>^ Quando Jeová^&#42;1^ tiver lavado o excremento das filhas de Sião, e ele eliminar de enxaguadura até mesmo o derramamento de sangue^&#42;2^ de Jerusalém, de dentro dela, pelo espírito de julgamento e pelo espírito de queima,
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+. Ou “culpa de sangue; atos sangrentos”. Lit.: “sangues”.
+====
+
+[[v23-4-5]]
+
+^<<v23-4-5,5>>^ então Jeová criará certamente, sobre todo lugar estabelecido do Monte Sião e sobre seu lugar de congresso, uma nuvem, de dia, e fumaça e o clarão de um fogo chamejante, de noite; porque por cima de toda a glória haverá um abrigo.
+
+[[v23-4-6]]
+
+^<<v23-4-6,6>>^ E virá a haver uma barraca para sombra de dia, do calor seco, e para refúgio e para esconderijo contra o temporal e contra a chuva.
+
+'''
+
+xref:023-isaias/023-isaias-003.adoc#v23-3-0[&#60; Capítulo Anterior] | <<v23-4-0,Topo>> | xref:023-isaias/023-isaias-005.adoc#v23-5-0[Próximo Capítulo &#62;]

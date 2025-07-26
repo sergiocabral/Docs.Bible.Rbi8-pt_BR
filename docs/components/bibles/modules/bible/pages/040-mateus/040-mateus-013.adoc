@@ -1,0 +1,295 @@
+include::./index.adoc[]
+
+[[v40-13-0]]
+=== Mateus, 13
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v40-13-1]]
+
+^<<v40-13-1,1>>^ Jesus, naquele dia, tendo saído de casa, estava sentado à beira do mar;
+
+[[v40-13-2]]
+
+^<<v40-13-2,2>>^ e ajuntaram-se a ele grandes multidões, de modo que entrou num barco e se assentou, e toda a multidão estava em pé na praia.
+
+[[v40-13-3]]
+
+^<<v40-13-3,3>>^ Disse-lhes então muitas coisas por meio de ilustrações,^&#42;1^ dizendo: “Eis que um semeador saiu a semear;
+
+[NOTE]
+====
+. Ou “em parábolas”. Gr.: en pa·ra·bo·laís; lat.: in pa·rá·bo·lis; J17,18,22(hebr.): bim·sha·lím.
+====
+
+[[v40-13-4]]
+
+^<<v40-13-4,4>>^ e, ao passo que semeava, algumas [sementes] caíram à beira da estrada, e vieram as aves e as comeram.
+
+[[v40-13-5]]
+
+^<<v40-13-5,5>>^ Outras caíram em lugares pedregosos, onde não tinham muito solo, e brotaram imediatamente, por não terem profundidade de solo.
+
+[[v40-13-6]]
+
+^<<v40-13-6,6>>^ Mas, ao se levantar o sol, ficaram queimadas, e, por não terem raiz, murcharam.
+
+[[v40-13-7]]
+
+^<<v40-13-7,7>>^ Outras, também, caíram entre os espinhos, e os espinhos cresceram e as sufocaram.
+
+[[v40-13-8]]
+
+^<<v40-13-8,8>>^ Ainda outras caíram em solo excelente e começaram a dar fruto, esta cem vezes mais, aquela sessenta vezes mais, outra trinta vezes mais.
+
+[[v40-13-9]]
+
+^<<v40-13-9,9>>^ Escute aquele que tem ouvidos.”
+
+[[v40-13-10]]
+
+^<<v40-13-10,10>>^ Vieram assim os seus discípulos e lhe disseram: “Por que é que lhes falas usando ilustrações?”
+
+[[v40-13-11]]
+
+^<<v40-13-11,11>>^ Em resposta, ele disse: “A vós é concedido entender os segredos sagrados do reino dos céus, mas a esses não é concedido.
+
+[[v40-13-12]]
+
+^<<v40-13-12,12>>^ Pois a todo aquele que tiver, dar-se-á mais e far-se-á abundar; mas a todo o que não tiver, até mesmo o que tiver será tirado dele.
+
+[[v40-13-13]]
+
+^<<v40-13-13,13>>^ É por isso que lhes falo usando ilustrações, porque olhando, olham em vão, e ouvindo, ouvem em vão, nem entendem;
+
+[[v40-13-14]]
+
+^<<v40-13-14,14>>^ e é neles que tem cumprimento a profecia de Isaías, que diz: ‘Ouvindo ouvireis, mas de modo algum entendereis; e olhando olhareis, mas de modo algum vereis.
+
+[[v40-13-15]]
+
+^<<v40-13-15,15>>^ Pois o coração deste povo tem ficado embotado^&#42;1^ e seus ouvidos têm ouvido sem reação,^&#42;2^ e eles têm fechado os olhos; para que nunca vissem com os olhos, nem ouvissem com os ouvidos, nem entendessem com os corações e se voltassem, e eu os sarasse.’
+
+[NOTE]
+====
+. Lit.: “foi tornado grosso (gordo)”.
+. Ou “de má vontade”.
+====
+
+[[v40-13-16]]
+
+^<<v40-13-16,16>>^ “No entanto, felizes são os vossos olhos porque observam, e os vossos ouvidos porque ouvem.
+
+[[v40-13-17]]
+
+^<<v40-13-17,17>>^ Pois, deveras, eu vos digo: Muitos profetas e homens justos desejaram ver o que vós estais observando e não o viram, e ouvir as coisas que vós estais ouvindo e não as ouviram.
+
+[[v40-13-18]]
+
+^<<v40-13-18,18>>^ “Escutai, então, a ilustração do homem que semeou.
+
+[[v40-13-19]]
+
+^<<v40-13-19,19>>^ Quando alguém ouve a palavra do reino, mas não a entende, vem o iníquo e arrebata o que foi semeado no seu coração; este é o semeado à beira da estrada.
+
+[[v40-13-20]]
+
+^<<v40-13-20,20>>^ Quanto ao semeado nos lugares pedregosos, este é o que ouve a palavra e a aceita imediatamente com alegria.
+
+[[v40-13-21]]
+
+^<<v40-13-21,21>>^ Contudo, ele não tem raiz em si mesmo, mas continua por algum tempo, e depois de ter surgido tribulação ou perseguição, por causa da palavra, logo tropeça.
+
+[[v40-13-22]]
+
+^<<v40-13-22,22>>^ Quanto ao semeado entre os espinhos, este é o que ouve a palavra, mas as ansiedades deste sistema de coisas^&#42;1^ e o poder enganoso das riquezas^&#42;2^ sufocam a palavra, e ele^&#42;3^ se torna infrutífero.
+
+[NOTE]
+====
+. Ou “ordem de coisas”. Gr.: ai·ó·nos; lat.: saé·cu·li; J17,18,22(hebr.): ha·‛oh·lám, “a ordem de coisas”.
+. Ou “e o prazer enganoso de ser rico”.
+. Ou “ela”, isto é, a “palavra”.
+====
+
+[[v40-13-23]]
+
+^<<v40-13-23,23>>^ Quanto ao semeado em solo excelente, este é o que ouve a palavra e a entende, que realmente dá fruto e produz, este cem vezes mais, aquele sessenta vezes mais, outro trinta vezes mais.”
+
+[[v40-13-24]]
+
+^<<v40-13-24,24>>^ Apresentou-lhes outra ilustração, dizendo: “O reino dos céus tem-se tornado semelhante a um homem que semeou excelente semente no seu campo.
+
+[[v40-13-25]]
+
+^<<v40-13-25,25>>^ Enquanto os homens dormiam, veio seu inimigo e semeou por cima joio^&#42;1^ entre o trigo, e foi embora.
+
+[NOTE]
+====
+. Ou “cizânia”. Veja v. 36 n.
+====
+
+[[v40-13-26]]
+
+^<<v40-13-26,26>>^ Quando a lâmina cresceu e produziu fruto, apareceu também o joio.
+
+[[v40-13-27]]
+
+^<<v40-13-27,27>>^ Vieram assim os escravos do dono de casa e disseram-lhe: ‘Amo, não semeaste excelente semente no teu campo? Donde lhe veio então o joio?’
+
+[[v40-13-28]]
+
+^<<v40-13-28,28>>^ Disse-lhes ele: ‘Um inimigo, um homem, fez isso.’ Disseram-lhe: ‘Queres, pois, que vamos e o reunamos?’
+
+[[v40-13-29]]
+
+^<<v40-13-29,29>>^ Ele disse: ‘Não; para que não aconteça que, ao reunirdes o joio, desarraigueis também com ele o trigo.
+
+[[v40-13-30]]
+
+^<<v40-13-30,30>>^ Deixai ambos crescer juntos até a colheita; e na época da colheita direi aos ceifeiros: Reuni primeiro o joio e o amarrai em feixes para ser queimado, depois ide ajuntar o trigo ao meu celeiro.’”
+
+[[v40-13-31]]
+
+^<<v40-13-31,31>>^ Apresentou-lhes outra ilustração, dizendo: “O reino dos céus é semelhante a um grão de mostarda, que um homem tomou e plantou no seu campo;
+
+[[v40-13-32]]
+
+^<<v40-13-32,32>>^ o qual, de fato, é a menor de todas as sementes, mas, quando desenvolvida, é a maior das hortaliças e se torna uma árvore, de modo que as aves do céu vêm e acham pousada entre os seus ramos.”
+
+[[v40-13-33]]
+
+^<<v40-13-33,33>>^ Disse-lhes ainda outra ilustração: “O reino dos céus é semelhante ao fermento que certa mulher tomou e escondeu em três grandes medidas^&#42;1^ de farinha, até que a massa inteira ficou levedada.”
+
+[NOTE]
+====
+. “Grandes medidas.” Ou “seás”. Gr.: sá·ta. Um seá equivalia a 7,33 l.
+====
+
+[[v40-13-34]]
+
+^<<v40-13-34,34>>^ Todas estas coisas falou Jesus às multidões por meio de ilustrações. Deveras, nada lhes falava sem ilustração;
+
+[[v40-13-35]]
+
+^<<v40-13-35,35>>^ para que se cumprisse o que fora dito por intermédio do profeta, que disse: “Abrirei a boca com ilustrações, publicarei as coisas escondidas desde a fundação.”
+
+[[v40-13-36]]
+
+^<<v40-13-36,36>>^ Despedindo então as multidões, entrou na casa. E vieram a ele os seus discípulos e disseram: “Explica-nos a ilustração do joio^&#42;1^ no campo.”
+
+[NOTE]
+====
+. Ou “cizânia”. Gr.: zi·za·ní·on; J17,22(hebr.): zu·néh. Uma espécie das gramíneas, cujas sementes têm propriedades venenosas, supostamente provenientes dum fungo que se desenvolve nelas.
+====
+
+[[v40-13-37]]
+
+^<<v40-13-37,37>>^ Em resposta, ele disse: “O semeador da semente excelente é o Filho do homem;
+
+[[v40-13-38]]
+
+^<<v40-13-38,38>>^ o campo é o mundo; quanto à semente excelente, estes são os filhos do reino; mas o joio são os filhos do iníquo,
+
+[[v40-13-39]]
+
+^<<v40-13-39,39>>^ e o inimigo que o semeou é o Diabo. A colheita é a terminação^&#42;1^ dum sistema de coisas^&#42;2^ e os ceifeiros são os anjos.
+
+[NOTE]
+====
+. Ou “fim conjunto; fim conjugado; consumação”. Gr.: συντέλεια (syn·té·lei·a); lat.: con·sum·má·ti·o. Veja Da 12:4 n.: “fim”.
+. Ou “duma ordem de coisas”. Gr.: ai·ó·nos; lat.: saé·cu·li; J1-14,16-18,22(hebr.): ha·‛oh·lám, “da ordem de coisas”.
+====
+
+[[v40-13-40]]
+
+^<<v40-13-40,40>>^ Portanto, assim como o joio é reunido e queimado no fogo, assim será na terminação do sistema de coisas.
+
+[[v40-13-41]]
+
+^<<v40-13-41,41>>^ O Filho do homem enviará os seus anjos, e estes reunirão dentre o seu reino todas as coisas que causam tropeço e os que fazem o que é contra a lei,
+
+[[v40-13-42]]
+
+^<<v40-13-42,42>>^ e lançá-los-ão na fornalha ardente. Ali é que haverá o [seu] choro e o ranger de [seus] dentes.
+
+[[v40-13-43]]
+
+^<<v40-13-43,43>>^ Naquele tempo, os justos brilharão tão claramente como o sol, no reino de seu Pai. Escute aquele que tem ouvidos.
+
+[[v40-13-44]]
+
+^<<v40-13-44,44>>^ “O reino dos céus é semelhante a um tesouro escondido no campo, que certo homem achou e escondeu; e, na sua alegria, vai e vende todas as coisas que tem e compra aquele campo.
+
+[[v40-13-45]]
+
+^<<v40-13-45,45>>^ “Novamente, o reino dos céus é semelhante a um comerciante viajante que buscava pérolas excelentes.
+
+[[v40-13-46]]
+
+^<<v40-13-46,46>>^ Ao achar uma pérola de grande valor, foi e vendeu prontamente todas as coisas que tinha e a comprou.
+
+[[v40-13-47]]
+
+^<<v40-13-47,47>>^ “Novamente, o reino dos céus é semelhante a uma rede de arrasto lançada ao mar e que apanhou [peixes] de toda espécie.
+
+[[v40-13-48]]
+
+^<<v40-13-48,48>>^ Quando ela ficou cheia, arrastaram-na para a praia, e, assentando-se, reuniram os excelentes em vasos, mas os imprestáveis lançaram fora.
+
+[[v40-13-49]]
+
+^<<v40-13-49,49>>^ Assim será na terminação do sistema de coisas:^&#42;1^ os anjos sairão e separarão os iníquos dos justos,
+
+[NOTE]
+====
+. Veja v. 39 n.
+====
+
+[[v40-13-50]]
+
+^<<v40-13-50,50>>^ e lançá-los-ão na fornalha ardente. Ali é que haverá o [seu] choro e o ranger de [seus] dentes.
+
+[[v40-13-51]]
+
+^<<v40-13-51,51>>^ “Compreendestes o sentido de todas estas coisas?” Eles lhe disseram: “Sim.”
+
+[[v40-13-52]]
+
+^<<v40-13-52,52>>^ Então lhes disse: “Sendo este o caso, todo instrutor público,^&#42;1^ quando ensinado a respeito do reino dos céus, é semelhante a um homem, dono de casa, que tira do seu tesouro coisas novas e velhas.”
+
+[NOTE]
+====
+. Ou “toda pessoa instruída”.
+====
+
+[[v40-13-53]]
+
+^<<v40-13-53,53>>^ Terminando Jesus estas ilustrações, foi dali atravessando o país.
+
+[[v40-13-54]]
+
+^<<v40-13-54,54>>^ E, chegando ao seu próprio território,^&#42;1^ começou a ensiná-los nas sinagogas deles, de modo que ficaram assombrados e disseram: “Onde obteve este homem tal sabedoria e tais obras poderosas?
+
+[NOTE]
+====
+. Ou “cidade”.
+====
+
+[[v40-13-55]]
+
+^<<v40-13-55,55>>^ Não é este o filho do carpinteiro? Não se chama a sua mãe Maria e seus irmãos Tiago, e José, e Simão, e Judas?
+
+[[v40-13-56]]
+
+^<<v40-13-56,56>>^ E suas irmãs, não estão todas elas aqui conosco? Onde obteve, então, este homem todas essas coisas?”
+
+[[v40-13-57]]
+
+^<<v40-13-57,57>>^ De modo que começaram a tropeçar por causa dele. Mas Jesus disse-lhes: “Um profeta não passa sem honra a não ser no seu próprio território e em sua própria casa.”
+
+[[v40-13-58]]
+
+^<<v40-13-58,58>>^ E não fez ali muitas obras poderosas, por terem eles falta de fé.
+
+'''
+
+xref:040-mateus/040-mateus-012.adoc#v40-12-0[&#60; Capítulo Anterior] | <<v40-13-0,Topo>> | xref:040-mateus/040-mateus-014.adoc#v40-14-0[Próximo Capítulo &#62;]

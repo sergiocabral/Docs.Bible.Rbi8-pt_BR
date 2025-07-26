@@ -1,0 +1,54 @@
+include::./index.adoc[]
+
+[[v24-24-0]]
+=== Jeremias, 24
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-24-1]]
+
+^<<v24-24-1,1>>^ E Jeová me mostrou, e eis duas cestas de figos postas diante do templo de Jeová, depois de Nabucodorosor, rei de Babilônia, ter levado ao exílio Jeconias,^&#42;1^ filho de Jeoiaquim, rei de Judá, e os príncipes de Judá, e os artífices, e os construtores de baluartes, de Jerusalém, para levá-los a Babilônia.
+
+[NOTE]
+====
+. “Jeconias.” Hebr.: Yekhon·yá·hu, significando “Jeová Estabelece Firmemente”; abreviado para “Conias” em 22:24, 28, e 37:1; o mesmo que “Joaquim” em 2Rs 24:8.
+====
+
+[[v24-24-2]]
+
+^<<v24-24-2,2>>^ Quanto a uma cesta, os figos eram muito bons, iguais a figos temporãos; e quanto à outra cesta, os figos eram muito ruins, de modo que não podiam ser comidos de ruins [que eram].
+
+[[v24-24-3]]
+
+^<<v24-24-3,3>>^ E Jeová passou a dizer-me: “Que estás vendo, Jeremias?” De modo que eu disse: “Figos, os bons figos sendo muito bons e os ruins sendo muito ruins, de modo que não podem ser comidos de ruins [que são].”
+
+[[v24-24-4]]
+
+^<<v24-24-4,4>>^ Então veio a haver para mim a palavra de Jeová, dizendo:
+
+[[v24-24-5]]
+
+^<<v24-24-5,5>>^ “Assim disse Jeová, o Deus de Israel: ‘Como estes figos bons, assim considerarei os exilados de Judá, que vou mandar embora deste lugar para a terra dos caldeus, dum modo bom.
+
+[[v24-24-6]]
+
+^<<v24-24-6,6>>^ E vou fixar meu olho neles de modo bom e certamente os farei voltar a esta terra. E vou edificá-los e não os derrubarei; e vou plantá-los e não os desarraigarei.
+
+[[v24-24-7]]
+
+^<<v24-24-7,7>>^ E vou dar-lhes um coração para me conhecerem, que eu sou Jeová; e terão de tornar-se meu povo e eu mesmo me tornarei seu Deus, pois retornarão a mim de todo o seu coração.
+
+[[v24-24-8]]
+
+^<<v24-24-8,8>>^ “‘E como os figos ruins que não podem ser comidos de ruins [que são], assim é que Jeová disse, de fato: “Assim entregarei Zedequias, rei de Judá, e seus príncipes, e o restante de Jerusalém, que restam nesta terra e os que moram na terra do Egito —
+
+[[v24-24-9]]
+
+^<<v24-24-9,9>>^ também vou dá-los para tremor, para calamidade, em todos os reinos da terra, para vitupério e para expressão proverbial, para escárnio e para invocação do mal, em todos os lugares aos quais os dispersarei.
+
+[[v24-24-10]]
+
+^<<v24-24-10,10>>^ E vou enviar contra eles a espada, a fome e a pestilência, até que cheguem ao seu fim sobre o solo que dei a eles e aos seus antepassados.”’”
+
+'''
+
+xref:024-jeremias/024-jeremias-023.adoc#v24-23-0[&#60; Capítulo Anterior] | <<v24-24-0,Topo>> | xref:024-jeremias/024-jeremias-025.adoc#v24-25-0[Próximo Capítulo &#62;]

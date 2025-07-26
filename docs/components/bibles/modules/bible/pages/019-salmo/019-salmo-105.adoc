@@ -1,0 +1,300 @@
+include::./index.adoc[]
+
+[[v19-105-0]]
+=== Salmos, 105
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-105-1]]
+
+^<<v19-105-1,1>>^ Agradecei a Jeová, invocai o seu nome,
+Tornai conhecidas entre os povos as suas ações.
+
+[[v19-105-2]]
+
+^<<v19-105-2,2>>^ Cantai-lhe, entoai-lhe melodias,
+Ocupai-vos com todas as suas obras maravilhosas.
+
+[[v19-105-3]]
+
+^<<v19-105-3,3>>^ Gabai-vos no seu santo nome.
+Alegre-se o coração dos que procuram a Jeová.
+
+[[v19-105-4]]
+
+^<<v19-105-4,4>>^ Buscai a Jeová e a sua força.
+Procurai a sua face constantemente.
+
+[[v19-105-5]]
+
+^<<v19-105-5,5>>^ Lembrai-vos das suas obras maravilhosas que realizou,
+Dos seus milagres e das decisões judiciais da sua boca,
+
+[[v19-105-6]]
+
+^<<v19-105-6,6>>^ Ó descendência de Abraão, seu servo,
+Filhos de Jacó, seus escolhidos.
+
+[[v19-105-7]]
+
+^<<v19-105-7,7>>^ Ele é Jeová, nosso Deus.
+Suas decisões judiciais estão em toda a terra.
+
+[[v19-105-8]]
+
+^<<v19-105-8,8>>^ Lembrou-se do seu pacto, sim, por tempo indefinido,
+Da palavra que ele ordenou, por mil gerações,
+
+[[v19-105-9]]
+
+^<<v19-105-9,9>>^ [Pacto] que concluiu^&#42;1^ com Abraão,
+E sua declaração juramentada a Isaque,
+
+[NOTE]
+====
+. Lit.: “cortou”.
+====
+
+[[v19-105-10]]
+
+^<<v19-105-10,10>>^ E qual [declaração]^&#42;1^ ele manteve de pé como regulamento, sim, para Jacó,
+Como pacto de duração indefinida, sim, para Israel,
+
+[NOTE]
+====
+. “Qual [declaração].” Hebr.: ha, sufixo pronominal fem. do verbo hebr., referindo-se assim à expressão hebr. fem. “declaração juramentada” no v. 9.
+====
+
+[[v19-105-11]]
+
+^<<v19-105-11,11>>^ Dizendo: “A ti te darei a terra de Canaã,
+Como lote da vossa herança.”
+
+[[v19-105-12]]
+
+^<<v19-105-12,12>>^ [Isto se deu] quando vieram^&#42;1^ a ser poucos em número,
+Sim, muito poucos, e residentes forasteiros nela.
+
+[NOTE]
+====
+. “Vieram”, MLXXVg; TSy, muitos mss. hebr. e 1Cr 16:19: “viestes”.
+====
+
+[[v19-105-13]]
+
+^<<v19-105-13,13>>^ E andavam de nação em nação,
+De um reino a outro povo.
+
+[[v19-105-14]]
+
+^<<v19-105-14,14>>^ Ele não permitiu que algum homem^&#42;1^ os defraudasse,
+Mas por causa deles repreendeu reis,
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v19-105-15]]
+
+^<<v19-105-15,15>>^ [Dizendo:] “Não toqueis nos meus ungidos^&#42;1^
+E não façais nada de mal aos meus profetas.”
+
+[NOTE]
+====
+. “Meus ungidos.” Hebr.: vim·shi·hhaí; gr.: khri·stón; sir.: lam·shi·hhai; lat.: chrí·stos.
+====
+
+[[v19-105-16]]
+
+^<<v19-105-16,16>>^ E passou a chamar uma fome sobre a terra;
+Quebrou todo varal em que se suspendiam pães de forma anular.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “todo varal de pão”.
+====
+
+[[v19-105-17]]
+
+^<<v19-105-17,17>>^ Enviou adiante deles um homem^&#42;1^
+Que fora vendido para ser escravo, José.
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’ish.
+====
+
+[[v19-105-18]]
+
+^<<v19-105-18,18>>^ Atribularam-lhe os pés com grilhetas,
+Sua alma entrou em ferros;
+
+[[v19-105-19]]
+
+^<<v19-105-19,19>>^ Até o tempo em que chegou a sua palavra,^&#42;1^
+A própria declaração^&#42;2^ de Jeová o refinou.
+
+[NOTE]
+====
+. “Sua palavra.” Ou “a palavra de Um (Alguém)”. Hebr.: dheva·róh.
+. “A . . . declaração de.” Hebr.: ’im·ráth.
+====
+
+[[v19-105-20]]
+
+^<<v19-105-20,20>>^ O rei mandou soltá-lo,
+O governante de povos, a fim de o deixar solto.
+
+[[v19-105-21]]
+
+^<<v19-105-21,21>>^ Ele o pôs como amo da sua casa,
+E como governante sobre todos os seus bens,
+
+[[v19-105-22]]
+
+^<<v19-105-22,22>>^ Para prender seus príncipes ao agrado da sua alma,^&#42;1^
+E para ensinar sabedoria até mesmo aos seus homens idosos.
+
+[NOTE]
+====
+. “Ao agrado da sua alma.” Lit.: “na (pela) sua alma”. Hebr.: benaf·shóh.
+====
+
+[[v19-105-23]]
+
+^<<v19-105-23,23>>^ E Israel passou a entrar no Egito,
+E o próprio Jacó residiu como forasteiro na terra de Cã.
+
+[[v19-105-24]]
+
+^<<v19-105-24,24>>^ E ele continuou a fazer seu povo muito fecundo,
+E aos poucos tornaram-se mais fortes do que os seus adversários.
+
+[[v19-105-25]]
+
+^<<v19-105-25,25>>^ Deixou o coração deles transformar-se para odiarem seu povo,
+Para agirem astutamente contra os seus servos.
+
+[[v19-105-26]]
+
+^<<v19-105-26,26>>^ Enviou Moisés, seu servo,
+Arão, a quem tinha escolhido.
+
+[[v19-105-27]]
+
+^<<v19-105-27,27>>^ Puseram^&#42;1^ entre eles os assuntos dos seus sinais
+E os milagres na terra de Cã.
+
+[NOTE]
+====
+. “Puseram”, MT; LXXSyVg: “Pôs”.
+====
+
+[[v19-105-28]]
+
+^<<v19-105-28,28>>^ Ele enviou escuridão e assim o fez escuro;
+E eles não se rebelaram contra as suas palavras.
+
+[[v19-105-29]]
+
+^<<v19-105-29,29>>^ Mudou-lhes as águas em sangue
+E passou a entregar seus peixes à morte.
+
+[[v19-105-30]]
+
+^<<v19-105-30,30>>^ Sua terra pululou de rãs,
+Nos quartos interiores dos seus reis.
+
+[[v19-105-31]]
+
+^<<v19-105-31,31>>^ Ele disse que entrassem os moscões,
+Borrachudos em todos os seus territórios.
+
+[[v19-105-32]]
+
+^<<v19-105-32,32>>^ Fez dos seus aguaceiros saraiva,
+Um fogo chamejante na sua terra.
+
+[[v19-105-33]]
+
+^<<v19-105-33,33>>^ E passou a golpear suas videiras e suas figueiras,
+E a destroçar as árvores do seu território.
+
+[[v19-105-34]]
+
+^<<v19-105-34,34>>^ Ele disse que entrassem os gafanhotos
+E certa espécie de gafanhoto,^&#42;1^ sim, sem número.
+
+[NOTE]
+====
+. “Certa espécie de gafanhoto.” Ou “a larva de gafanhoto”. Veja Jl 1:4 n.
+====
+
+[[v19-105-35]]
+
+^<<v19-105-35,35>>^ E eles foram consumir toda a vegetação na sua terra;
+Foram também consumir os frutos do seu solo.
+
+[[v19-105-36]]
+
+^<<v19-105-36,36>>^ E ele passou a golpear a todo primogênito na sua terra,
+O princípio de toda a sua faculdade de procriação.
+
+[[v19-105-37]]
+
+^<<v19-105-37,37>>^ E começou a fazê-los sair com prata e ouro;
+E entre as suas tribos não havia quem andasse tropeçando.
+
+[[v19-105-38]]
+
+^<<v19-105-38,38>>^ O Egito alegrou-se quando saíram,
+Pois caíra sobre eles o pavor deles.
+
+[[v19-105-39]]
+
+^<<v19-105-39,39>>^ Estendeu uma nuvem como reposteiro,
+E um fogo para dar luz à noite.
+
+[[v19-105-40]]
+
+^<<v19-105-40,40>>^ Pediram,^&#42;1^ e ele passou a dar-lhes codornizes,
+E continuou a fartá-los com pão desde o céu.
+
+[NOTE]
+====
+. “Pediram”, TLXXSyVg; M: “Pediu”, sing., coletivamente.
+====
+
+[[v19-105-41]]
+
+^<<v19-105-41,41>>^ Abriu uma rocha e começaram a manar águas;
+Estas foram através das regiões áridas como um rio.
+
+[[v19-105-42]]
+
+^<<v19-105-42,42>>^ Pois ele se lembrou da sua santa palavra^&#42;1^ com Abraão, seu servo.
+
+[NOTE]
+====
+. Ou “promessa”. Veja v. 8.
+====
+
+[[v19-105-43]]
+
+^<<v19-105-43,43>>^ De modo que fez seu povo sair com exultação,
+Seus escolhidos, sim, com clamor jubilante.
+
+[[v19-105-44]]
+
+^<<v19-105-44,44>>^ E deu-lhes gradualmente as terras das nações,
+E eles tomavam posse do produto da labuta de grupos nacionais,
+
+[[v19-105-45]]
+
+^<<v19-105-45,45>>^ Com o fim de que guardassem os seus regulamentos
+E observassem as próprias leis dele.
+Louvai a Jah!
+
+'''
+
+xref:019-salmo/019-salmo-104.adoc#v19-104-0[&#60; Capítulo Anterior] | <<v19-105-0,Topo>> | xref:019-salmo/019-salmo-106.adoc#v19-106-0[Próximo Capítulo &#62;]

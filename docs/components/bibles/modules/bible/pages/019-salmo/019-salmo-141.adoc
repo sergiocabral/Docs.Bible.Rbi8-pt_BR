@@ -1,0 +1,72 @@
+include::./index.adoc[]
+
+[[v19-141-0]]
+=== Salmos, 141
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma melodia de Davi._
+
+[[v19-141-1]]
+
+^<<v19-141-1,1>>^ Ó Jeová, eu te invoquei.
+Apressa-te [em vir] a mim.
+Dá ouvidos à minha voz quando te chamo.
+
+[[v19-141-2]]
+
+^<<v19-141-2,2>>^ Seja minha oração preparada como incenso diante de ti,
+A elevação das palmas das minhas mãos como a oferta de cereais da noitinha.
+
+[[v19-141-3]]
+
+^<<v19-141-3,3>>^ Põe deveras uma guarda à minha boca, ó Jeová;
+Põe deveras uma sentinela sobre a porta dos meus lábios.
+
+[[v19-141-4]]
+
+^<<v19-141-4,4>>^ Não me inclines o coração para algo mau,
+De modo a realizar atos notórios em iniqüidade
+Com homens^&#42;1^ que praticam o que é prejudicial,
+Para que eu não me alimente dos seus petiscos.
+
+[NOTE]
+====
+. “Homens.” Hebr.: ’i·shím, pl. de ’ish. Veja Is 53:3 n.: “homens”.
+====
+
+[[v19-141-5]]
+
+^<<v19-141-5,5>>^ Se o justo me surrasse, seria benevolência;
+E se me repreendesse, seria óleo sobre a cabeça,
+Que minha cabeça não desejaria recusar.
+Pois ainda haveria minha oração durante as suas calamidades.
+
+[[v19-141-6]]
+
+^<<v19-141-6,6>>^ Seus juízes foram jogados para baixo aos lados do rochedo,
+Ouviram, porém, as minhas declarações, que elas são agradáveis.
+
+[[v19-141-7]]
+
+^<<v19-141-7,7>>^ Como quando se fende e se parte [algo] na terra,
+Nossos ossos foram espalhados junto à boca do Seol.
+
+[[v19-141-8]]
+
+^<<v19-141-8,8>>^ No entanto, meus olhos estão [fitos] em ti, ó Jeová, Soberano Senhor.
+Em ti me refugiei.
+Não vazes a minha alma.
+
+[[v19-141-9]]
+
+^<<v19-141-9,9>>^ Guarda-me das garras da armadilha que me armaram
+E dos laços daqueles que praticam o que é prejudicial.
+
+[[v19-141-10]]
+
+^<<v19-141-10,10>>^ Os iníquos cairão juntos nas suas próprias redes,
+Enquanto eu, da minha parte, passarei.
+
+'''
+
+xref:019-salmo/019-salmo-140.adoc#v19-140-0[&#60; Capítulo Anterior] | <<v19-141-0,Topo>> | xref:019-salmo/019-salmo-142.adoc#v19-142-0[Próximo Capítulo &#62;]

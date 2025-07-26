@@ -1,0 +1,386 @@
+include::./index.adoc[]
+
+[[v19-18-0]]
+=== Salmos, 18
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Do servo de Jeová, de Davi, que falou a Jeová as palavras deste cântico no dia em que Jeová o livrara da palma da mão de todos os seus inimigos e^&#42;1^ da mão de Saul. E ele passou a dizer:_
+
+[[v19-18-1]]
+
+^<<v19-18-1,1>>^ Terei afeição por ti,^&#42;1^ ó Jeová, minha força.
+
+[NOTE]
+====
+. Ou: “Enaltecer-te-ei”, mediante uma correção do M.
+====
+
+[[v19-18-2]]
+
+^<<v19-18-2,2>>^ Jeová é meu rochedo, e minha fortaleza, e Aquele que me põe a salvo.
+Meu Deus^&#42;1^ é minha rocha. Nele me refugiarei,^&#42;2^
+Meu escudo e meu chifre de salvação, minha altura protetora.
+
+[NOTE]
+====
+. “Meu Deus.” Hebr.: ’E·lí.
+. Ou “minha rocha, na qual me refugiarei”.
+====
+
+[[v19-18-3]]
+
+^<<v19-18-3,3>>^ Invocarei Aquele que deve ser louvado, Jeová,
+E serei salvo dos meus inimigos.
+
+[[v19-18-4]]
+
+^<<v19-18-4,4>>^ Cercaram-me as cordas da morte;
+Também me apavoravam enxurradas de [homens] imprestáveis.^&#42;1^
+
+[NOTE]
+====
+. Ou “de inutilidade”. Lit.: “de belial”.
+====
+
+[[v19-18-5]]
+
+^<<v19-18-5,5>>^ Rodearam-me as próprias cordas do Seol;
+Confrontaram-me os laços da morte.
+
+[[v19-18-6]]
+
+^<<v19-18-6,6>>^ Na minha aflição eu invocava a Jeová
+E clamava ao meu Deus^&#42;1^ por ajuda.
+Desde o seu templo passou a ouvir a minha voz,
+E chegou então aos seus ouvidos meu próprio clamor por ajuda perante ele.
+
+[NOTE]
+====
+. “Meu Deus.” Hebr.: ’Elo·haí.
+====
+
+[[v19-18-7]]
+
+^<<v19-18-7,7>>^ E a terra começou a balouçar e a tremer,
+E os alicerces dos próprios montes ficaram agitados,
+E balouçavam porque ele se tinha irado.
+
+[[v19-18-8]]
+
+^<<v19-18-8,8>>^ Fumaça subia das suas narinas e o próprio fogo da sua boca devorava;
+Dele chamejavam os próprios carvões.
+
+[[v19-18-9]]
+
+^<<v19-18-9,9>>^ E ele passou a curvar os céus para baixo e a descer.
+E havia densas trevas debaixo dos seus pés.
+
+[[v19-18-10]]
+
+^<<v19-18-10,10>>^ E veio montado num querubim e veio voando,
+E veio arremetendo nas asas dum espírito.^&#42;1^
+
+[NOTE]
+====
+. Ou “asas de vento [LXXVg: “ventos”]”. Hebr.: kan·feh-rú·ahh.
+====
+
+[[v19-18-11]]
+
+^<<v19-18-11,11>>^ Ele fez então da escuridão o seu esconderijo
+Em volta de si, como sua barraca,
+Águas escuras,^&#42;1^ nuvens espessas.
+
+[NOTE]
+====
+. Lit.: “escuridão de águas”.
+====
+
+[[v19-18-12]]
+
+^<<v19-18-12,12>>^ De dentro da claridade diante dele foram passando as suas nuvens,
+Saraiva e brasas de fogo.
+
+[[v19-18-13]]
+
+^<<v19-18-13,13>>^ E nos céus Jeová começou a trovejar,
+E o próprio Altíssimo começou a emitir a sua voz,
+Saraiva e brasas de fogo.
+
+[[v19-18-14]]
+
+^<<v19-18-14,14>>^ E ele enviava as suas flechas para os espalhar;
+E atirava relâmpagos para os lançar em confusão.
+
+[[v19-18-15]]
+
+^<<v19-18-15,15>>^ E tornaram-se visíveis os leitos das águas,
+E ficaram descobertos os alicerces do solo produtivo^&#42;1^
+Por tua censura, ó Jeová, pelo sopro^&#42;2^ do fôlego^&#42;3^ das tuas narinas.^&#42;4^
+
+[NOTE]
+====
+. “Da terra habitada”, LXX (a mesma palavra que em Mt 24:14); lat.: ór·bis ter·rá·rum, “círculo de toda a terra”.
+. “Pelo sopro do.” Hebr.: min·nish·máth; em Ge 2:7: “fôlego”.
+. “Fôlego das.” Hebr.: rú·ahh; gr.: pneú·ma·tos; lat.: spí·ri·tus. Veja Gên 1:2 n.: “ativa”.
+. Ou “ira”.
+====
+
+[[v19-18-16]]
+
+^<<v19-18-16,16>>^ Mandando^&#42;1^ desde as alturas tomar-me,
+Puxava-me para fora de grandes águas.
+
+[NOTE]
+====
+. Ou: “Estendendo”, isto é, mandando sua mão.
+====
+
+[[v19-18-17]]
+
+^<<v19-18-17,17>>^ Livrava-me do meu forte inimigo
+E dos que me odiavam; porque eram mais fortes do que eu.
+
+[[v19-18-18]]
+
+^<<v19-18-18,18>>^ Confrontavam-me no dia do meu desastre,
+Mas Jeová veio a ser um esteio para mim.
+
+[[v19-18-19]]
+
+^<<v19-18-19,19>>^ E ele passou a levar-me para fora a um lugar espaçoso;
+Socorria-me porque se agradara de mim.
+
+[[v19-18-20]]
+
+^<<v19-18-20,20>>^ Jeová me recompensa segundo a minha justiça;
+Paga-me de volta segundo a limpeza das minhas mãos.
+
+[[v19-18-21]]
+
+^<<v19-18-21,21>>^ Pois guardei os caminhos de Jeová
+E não me afastei iniquamente do meu Deus.
+
+[[v19-18-22]]
+
+^<<v19-18-22,22>>^ Pois todas as suas decisões judiciais estão diante de mim,
+E não removerei de mim os seus estatutos.
+
+[[v19-18-23]]
+
+^<<v19-18-23,23>>^ E mostrarei ser sem defeito para com ele
+E me guardarei do erro da minha parte.
+
+[[v19-18-24]]
+
+^<<v19-18-24,24>>^ E que Jeová me pague de volta segundo a minha justiça,
+Segundo a limpeza das minhas mãos diante dos seus olhos.
+
+[[v19-18-25]]
+
+^<<v19-18-25,25>>^ Com alguém leal^&#42;1^ agirás com lealdade;^&#42;2^
+Com o varão vigoroso, sem defeito, procederás sem defeito;
+
+[NOTE]
+====
+. Ou “alguém de benevolência”.
+. Ou “agirás com benevolência”.
+====
+
+[[v19-18-26]]
+
+^<<v19-18-26,26>>^ Com aquele que se mantém limpo, tu te mostrarás limpo,
+E com o pervertido, tu te mostrarás tortuoso;^&#42;1^
+
+[NOTE]
+====
+. “Tortuoso”, igual a um lutador de corpo a corpo, segundo a raiz do verbo hebr.
+====
+
+[[v19-18-27]]
+
+^<<v19-18-27,27>>^ Porque tu mesmo salvarás o povo atribulado;^&#42;1^
+Mas rebaixarás os olhos altaneiros.
+
+[NOTE]
+====
+. Ou “humilde”.
+====
+
+[[v19-18-28]]
+
+^<<v19-18-28,28>>^ Pois tu mesmo acenderás a minha lâmpada, ó Jeová;
+Meu próprio Deus^&#42;1^ fará resplandecer a minha escuridão.
+
+[NOTE]
+====
+. “Meu . . . Deus.” Hebr.: ’Elo·haí.
+====
+
+[[v19-18-29]]
+
+^<<v19-18-29,29>>^ Porque por meio de ti posso correr contra uma guerrilha;
+E por meu Deus posso escalar um muro.
+
+[[v19-18-30]]
+
+^<<v19-18-30,30>>^ Quanto ao [verdadeiro] Deus, perfeito é o seu caminho;
+A declaração de Jeová^&#42;1^ é refinada.
+Escudo é ele para todos os que se refugiam nele.
+
+[NOTE]
+====
+. “Jeová.” Hebr.: Yehwáh; ms. gr. Ambrosiano O 39 cab.: Veja Ap. 1C sec. 10.
+====
+
+[[v19-18-31]]
+
+^<<v19-18-31,31>>^ Pois, quem é Deus^&#42;1^ além de Jeová?^&#42;2^
+E quem é rocha, exceto nosso Deus?^&#42;3^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elóh·ah, sing. de ’Elo·hím. Veja Jó 3:4 n.
+. Veja Ap. 1C sec. 10.
+. “Nosso Deus.” Hebr.: ’Elo·héh·nu.
+====
+
+[[v19-18-32]]
+
+^<<v19-18-32,32>>^ O [verdadeiro] Deus é Aquele que me cinge bem de energia vital,
+E ele concederá que meu caminho seja perfeito,
+
+[[v19-18-33]]
+
+^<<v19-18-33,33>>^ Fazendo meus pés iguais aos das corças,
+E faz-me ficar de pé em lugares altos para mim.
+
+[[v19-18-34]]
+
+^<<v19-18-34,34>>^ Adestra as minhas mãos para a guerra,^&#42;1^
+E meus braços comprimiram um arco de cobre.
+
+[NOTE]
+====
+. Ou “a batalha”.
+====
+
+[[v19-18-35]]
+
+^<<v19-18-35,35>>^ E tu me darás o teu escudo de salvação,
+E a tua própria direita me amparará,
+E a tua própria humildade me engrandecerá.^&#42;1^
+
+[NOTE]
+====
+. Ou “aumentará”.
+====
+
+[[v19-18-36]]
+
+^<<v19-18-36,36>>^ Tu farás bastante lugar para os meus passos abaixo de mim,
+E os meus tornozelos certamente não vacilarão.
+
+[[v19-18-37]]
+
+^<<v19-18-37,37>>^ Perseguirei os meus inimigos e os alcançarei;
+E não voltarei até que tenham sido exterminados.
+
+[[v19-18-38]]
+
+^<<v19-18-38,38>>^ Eu os despedaçarei de modo que não poderão mais levantar-se;
+Cairão sob os meus pés.
+
+[[v19-18-39]]
+
+^<<v19-18-39,39>>^ E tu me cingirás de energia vital para a guerra;
+Farás tombar debaixo de mim os que se levantam contra mim.
+
+[[v19-18-40]]
+
+^<<v19-18-40,40>>^ E quanto aos meus inimigos, certamente me darás a [sua] cerviz;^&#42;1^
+E quanto aos que me odeiam intensamente, eu os silenciarei.
+
+[NOTE]
+====
+. Isto é, fá-los-ás fugir diante de mim.
+====
+
+[[v19-18-41]]
+
+^<<v19-18-41,41>>^ Clamam por ajuda, mas não há salvador,
+A Jeová,^&#42;1^ mas ele realmente não lhes responde.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+====
+
+[[v19-18-42]]
+
+^<<v19-18-42,42>>^ E eu os esmiuçarei [até ficarem] iguais ao pó diante do vento;
+Como a lama das ruas os despejarei.
+
+[[v19-18-43]]
+
+^<<v19-18-43,43>>^ Tu me porás a salvo da crítica do meu povo.
+Designar-me-ás para cabeça das nações.
+Um povo que não conheci — estes me servirão.
+
+[[v19-18-44]]
+
+^<<v19-18-44,44>>^ A um mero rumor me obedecerão;
+Os próprios estrangeiros^&#42;1^ virão a mim servilmente.
+
+[NOTE]
+====
+. Lit.: “filhos dum (país) estrangeiro”.
+====
+
+[[v19-18-45]]
+
+^<<v19-18-45,45>>^ Os próprios estrangeiros se desvanecerão
+E sairão trêmulos dos seus baluartes.
+
+[[v19-18-46]]
+
+^<<v19-18-46,46>>^ Jeová^&#42;1^ vive, e bendita seja a minha Rocha,
+E seja enaltecido o Deus de minha salvação.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+====
+
+[[v19-18-47]]
+
+^<<v19-18-47,47>>^ O [verdadeiro] Deus é Quem me dá atos de vingança,
+E ele me sujeita os povos.
+
+[[v19-18-48]]
+
+^<<v19-18-48,48>>^ Ele me põe a salvo dos meus inimigos irados;
+Erguer-me-ás acima dos que se levantam contra mim,
+Livrar-me-ás do homem de violência.
+
+[[v19-18-49]]
+
+^<<v19-18-49,49>>^ É por isso que te elogiarei entre as nações, ó Jeová,
+E ao teu nome vou entoar melodias.
+
+[[v19-18-50]]
+
+^<<v19-18-50,50>>^ Ele faz grandes atos de salvação para o seu rei
+E usa de benevolência^&#42;1^ para com o seu ungido,^&#42;2^
+Para com Davi e para com a sua descendência^&#42;3^ por tempo indefinido.
+
+[NOTE]
+====
+. Ou “amor leal”.
+. “Para com o seu ungido.” Hebr.: lim·shi·hhóh; gr.: khri·stoí; sir.: lam·shi·hheh; lat.: chrí·sto.
+. Ou “prole; posteridade”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-017.adoc#v19-17-0[&#60; Capítulo Anterior] | <<v19-18-0,Topo>> | xref:019-salmo/019-salmo-019.adoc#v19-19-0[Próximo Capítulo &#62;]

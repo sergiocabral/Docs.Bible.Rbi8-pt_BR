@@ -1,0 +1,82 @@
+include::./index.adoc[]
+
+[[v19-149-0]]
+=== Salmos, 149
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-149-1]]
+
+^<<v19-149-1,1>>^ Louvai a Jah!^&#42;1^
+Cantai a Jeová um novo cântico,
+Seu louvor na congregação^&#42;2^ dos que são leais.
+
+[NOTE]
+====
+. Veja 104:35 n.
+. “Na congregação dos.” Hebr.: biq·hál; gr.: ek·kle·sí·ai; lat.: con·gre·ga·ti·ó·ne.
+====
+
+[[v19-149-2]]
+
+^<<v19-149-2,2>>^ Alegre-se Israel com o Grandioso que o fez,^&#42;1^
+Os filhos de Sião — jubilem eles no seu Rei.
+
+[NOTE]
+====
+. “Grandioso que . . . fez”, pl. no hebr., para denotar excelência e grandiosidade.
+====
+
+[[v19-149-3]]
+
+^<<v19-149-3,3>>^ Louvem eles seu nome com danças.
+Entoem-lhe melodias com o pandeiro e com a harpa,
+
+[[v19-149-4]]
+
+^<<v19-149-4,4>>^ Porque Jeová tem prazer no seu povo.
+Embeleza os mansos com salvação.
+
+[[v19-149-5]]
+
+^<<v19-149-5,5>>^ Rejubilem-se em glória^&#42;1^ os que são leais;
+Gritem de júbilo nas suas camas.
+
+[NOTE]
+====
+. Ou “com glória”.
+====
+
+[[v19-149-6]]
+
+^<<v19-149-6,6>>^ Haja nas suas gargantas canções que celebrem a Deus,^&#42;1^
+E haja na sua mão uma espada de dois gumes,
+
+[NOTE]
+====
+. Lit.: “canções celebrantes de Deus”.
+====
+
+[[v19-149-7]]
+
+^<<v19-149-7,7>>^ Para executar vingança nas nações,
+Censuras, nos grupos nacionais,
+
+[[v19-149-8]]
+
+^<<v19-149-8,8>>^ Para prender seus reis com grilhões
+E seus glorificados^&#42;1^ com grilhetas de ferro,
+
+[NOTE]
+====
+. Ou “distintos”.
+====
+
+[[v19-149-9]]
+
+^<<v19-149-9,9>>^ Para executar neles a decisão judicial assentada por escrito.
+Tal esplendor pertence a todos os que lhe são leais.
+Louvai a Jah!
+
+'''
+
+xref:019-salmo/019-salmo-148.adoc#v19-148-0[&#60; Capítulo Anterior] | <<v19-149-0,Topo>> | xref:019-salmo/019-salmo-150.adoc#v19-150-0[Próximo Capítulo &#62;]

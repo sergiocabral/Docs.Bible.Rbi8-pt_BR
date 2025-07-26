@@ -1,0 +1,168 @@
+include::./index.adoc[]
+
+[[v10-7-0]]
+=== 2 Samuel, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v10-7-1]]
+
+^<<v10-7-1,1>>^ E sucedeu que, morando o rei na sua própria casa e tendo-lhe o próprio Jeová dado descanso de todos os seus inimigos ao redor,
+
+[[v10-7-2]]
+
+^<<v10-7-2,2>>^ então o rei disse a Natã, o profeta: “Vê, eu moro agora numa casa de cedros, enquanto a arca do [verdadeiro] Deus está morando no meio de panos de tenda.”
+
+[[v10-7-3]]
+
+^<<v10-7-3,3>>^ Então disse Natã ao rei: “Tudo o que tiveres no coração — vai, faze, porque Jeová está contigo.”
+
+[[v10-7-4]]
+
+^<<v10-7-4,4>>^ E sucedeu naquela noite que a palavra de Jeová veio a Natã, dizendo:
+
+[[v10-7-5]]
+
+^<<v10-7-5,5>>^ “Vai, e tens de dizer ao meu servo Davi: ‘Assim disse Jeová: “Devias tu construir-me uma casa para eu morar [nela]?
+
+[[v10-7-6]]
+
+^<<v10-7-6,6>>^ Pois não morei numa casa desde o dia em que fiz os filhos de Israel subir do Egito até o dia de hoje, mas eu andava continuamente numa tenda e num tabernáculo.
+
+[[v10-7-7]]
+
+^<<v10-7-7,7>>^ Durante todo o tempo em que tenho andado entre todos os filhos de Israel, houve alguma palavra que eu tivesse falado a uma das tribos^&#42;1^ de Israel a que ordenei que apascentasse meu povo Israel, dizendo: ‘Por que não me construístes uma casa de cedros?’”’
+
+[NOTE]
+====
+. “Tribos”, MSyVg; em 1Cr 17:6: “juízes”.
+====
+
+[[v10-7-8]]
+
+^<<v10-7-8,8>>^ E agora dirás ao meu servo Davi o seguinte: ‘Assim disse Jeová dos exércitos: “Eu mesmo te tomei da pastagem, de trás do rebanho, para que te tornasses líder do meu povo Israel.
+
+[[v10-7-9]]
+
+^<<v10-7-9,9>>^ E mostrarei estar contigo aonde quer que fores e vou decepar todos os teus inimigos de diante de ti; e hei de fazer-te um grande nome, igual ao nome dos grandes que há na terra.
+
+[[v10-7-10]]
+
+^<<v10-7-10,10>>^ E certamente designarei ao meu povo Israel um lugar e os plantarei, e deveras residirão onde estão e não mais serão inquietados; e não mais os atribularão os filhos da injustiça como faziam no princípio,
+
+[[v10-7-11]]
+
+^<<v10-7-11,11>>^ sim, desde o dia em que pus juízes no comando sobre o meu povo Israel; e vou dar-te descanso de todos os teus inimigos.
+“‘“E Jeová te informou que é uma casa que Jeová fará para ti.
+
+[[v10-7-12]]
+
+^<<v10-7-12,12>>^ Quando se completarem os teus dias e tiveres de deitar-te com os teus antepassados, então hei de suscitar o teu descendente depois de ti, que sairá das tuas entranhas; e deveras estabelecerei firmemente o seu reino.
+
+[[v10-7-13]]
+
+^<<v10-7-13,13>>^ É ele quem construirá uma casa ao meu nome, e eu hei de estabelecer firmemente o trono do seu reino por tempo indefinido.
+
+[[v10-7-14]]
+
+^<<v10-7-14,14>>^ Eu mesmo me tornarei seu pai e ele mesmo se tornará meu filho. Quando cometer uma falta, também vou repreendê-lo com vara de homens e com pancadas dos filhos de Adão.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “dum homem terreno”. Hebr.: ’a·dhám; LXXSyVg: “de homens”.
+====
+
+[[v10-7-15]]
+
+^<<v10-7-15,15>>^ No que se refere à minha benevolência,^&#42;1^ não se retirará dele assim como a tirei de Saul, a quem removi por tua causa.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v10-7-16]]
+
+^<<v10-7-16,16>>^ E tua casa e teu reino hão de ficar firmes por tempo indefinido diante de ti; teu próprio trono ficará firmemente estabelecido por tempo indefinido.”’”
+
+[[v10-7-17]]
+
+^<<v10-7-17,17>>^ Segundo todas estas palavras e segundo toda esta visão foi que Natã falou a Davi.
+
+[[v10-7-18]]
+
+^<<v10-7-18,18>>^ Em vista disso, o Rei Davi entrou e se assentou diante de Jeová, e disse: “Quem sou eu, ó Soberano Senhor Jeová? E que é a minha casa, que me trouxeste até aqui?
+
+[[v10-7-19]]
+
+^<<v10-7-19,19>>^ Como se isto fosse pouco aos teus olhos, ó Soberano Senhor Jeová, ainda falas também concernente à casa de teu servo até um tempo distante no futuro; e esta é a lei dada para a humanidade,^&#42;1^ ó Soberano Senhor Jeová.
+
+[NOTE]
+====
+. “Humanidade.” Hebr.: ha·’a·dhám; LXX: “o homem”; lat.: Á·dam.
+====
+
+[[v10-7-20]]
+
+^<<v10-7-20,20>>^ E que mais pode Davi acrescentar e falar-te, sendo que tu mesmo conheces bem o teu servo, ó Soberano Senhor Jeová?
+
+[[v10-7-21]]
+
+^<<v10-7-21,21>>^ Por causa da tua palavra e de acordo com o teu próprio coração fizeste todas estas grandes coisas para fazer que teu servo as soubesse.
+
+[[v10-7-22]]
+
+^<<v10-7-22,22>>^ É por isso que tu és deveras grande, ó Soberano Senhor Jeová; pois não há quem te seja igual e não há Deus além de ti entre todos os de que ouvimos com os nossos ouvidos.
+
+[[v10-7-23]]
+
+^<<v10-7-23,23>>^ E que única^&#42;1^ nação na terra é semelhante ao teu povo Israel, que Deus foi remir para si como povo e designar um nome para si, e fazer para eles^&#42;2^ coisas grandes e atemorizantes — para expulsar^&#42;3^ as nações e seus deuses por causa do teu povo que remiste para ti do Egito?
+
+[NOTE]
+====
+. “Única”, MSy; LXX: “outra”.
+. “Para eles”, quatro mss. hebr. (veja SyVg); M: “para vós”.
+. “Para expulsar”, em harmonia com LXX e 1Cr 17:21; M: “para tua terra”; Vg: “sobre a terra”.
+====
+
+[[v10-7-24]]
+
+^<<v10-7-24,24>>^ E passaste a estabelecer para ti firmemente teu povo Israel por tempo indefinido; e tu mesmo, ó Jeová, te tornaste seu Deus.
+
+[[v10-7-25]]
+
+^<<v10-7-25,25>>^ “E agora, Jeová Deus,^&#42;1^ cumpre a palavra que falaste referente ao teu servo e referente à sua casa, por tempo indefinido, e faze assim como falaste.
+
+[NOTE]
+====
+. “Jeová Deus.” Hebr.: Yehwáh ’Elo·hím; esta é a primeira ocorrência depois de Êx 9:30.
+====
+
+[[v10-7-26]]
+
+^<<v10-7-26,26>>^ E torne-se grande o teu próprio nome por tempo indefinido, dizendo: ‘Jeová dos exércitos é Deus sobre Israel’, e fique firmemente estabelecida diante de ti a própria casa do teu servo Davi.
+
+[[v10-7-27]]
+
+^<<v10-7-27,27>>^ Pois tu, Jeová dos exércitos, Deus de Israel, fizeste uma revelação ao ouvido do teu servo, dizendo: ‘Edificar-te-ei uma casa.’ Por isso é que teu servo animou o coração^&#42;1^ para orar a ti com esta oração.
+
+[NOTE]
+====
+. Lit.: “achou seu coração”.
+====
+
+[[v10-7-28]]
+
+^<<v10-7-28,28>>^ E agora, ó Soberano Senhor Jeová, tu és o [verdadeiro] Deus; e quanto às tuas palavras, mostrem-se elas verdadeiras,^&#42;1^ visto que prometeste ao teu servo esta bondade.
+
+[NOTE]
+====
+. Ou “verdade”. Hebr.: ’eméth.
+====
+
+[[v10-7-29]]
+
+^<<v10-7-29,29>>^ E agora, resolve-te e abençoa a casa do teu servo [para que] continue por tempo indefinido diante de ti; porque tu mesmo, ó Soberano Senhor Jeová, o prometeste, e seja a casa do teu servo abençoada por tempo indefinido devido à tua bênção.”
+
+'''
+
+xref:010-2-samuel/010-2-samuel-006.adoc#v10-6-0[&#60; Capítulo Anterior] | <<v10-7-0,Topo>> | xref:010-2-samuel/010-2-samuel-008.adoc#v10-8-0[Próximo Capítulo &#62;]

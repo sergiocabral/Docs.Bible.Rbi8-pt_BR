@@ -1,0 +1,360 @@
+include::./index.adoc[]
+
+[[v40-26-0]]
+=== Mateus, 26
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v40-26-1]]
+
+^<<v40-26-1,1>>^ Então, havendo Jesus terminado com todas estas palavras, disse aos seus discípulos:
+
+[[v40-26-2]]
+
+^<<v40-26-2,2>>^ “Sabeis que daqui a dois dias é a páscoa, e o Filho do homem há de ser entregue para ser pregado numa estaca.”^&#42;1^
+
+[NOTE]
+====
+. Ou “fixado numa estaca (poste)”. Veja Ap. 5C.
+====
+
+[[v40-26-3]]
+
+^<<v40-26-3,3>>^ Nessa ocasião, os principais sacerdotes e os anciãos do povo ajuntaram-se no pátio do sumo sacerdote, que se chamava Caifás,
+
+[[v40-26-4]]
+
+^<<v40-26-4,4>>^ e realizaram entre si uma consulta para se apoderarem de Jesus por meio dum ardil e o matarem.
+
+[[v40-26-5]]
+
+^<<v40-26-5,5>>^ No entanto, diziam: “Não durante a festividade, para que não surja alvoroço entre o povo.”
+
+[[v40-26-6]]
+
+^<<v40-26-6,6>>^ Estando Jesus em Betânia, na casa de Simão, o leproso,
+
+[[v40-26-7]]
+
+^<<v40-26-7,7>>^ aproximou-se dele uma mulher com um vaso de alabastro com dispendioso óleo perfumado e começou a derramá-lo sobre a cabeça dele, enquanto ele se recostava à mesa.
+
+[[v40-26-8]]
+
+^<<v40-26-8,8>>^ Vendo isso, os discípulos ficaram indignados e disseram: “Por que este desperdício?
+
+[[v40-26-9]]
+
+^<<v40-26-9,9>>^ Porque isso poderia ter sido vendido por grande soma e dado aos pobres.”
+
+[[v40-26-10]]
+
+^<<v40-26-10,10>>^ Percebendo isso, Jesus disse-lhes: “Por que procurais causar aflição à mulher? Pois ela fez uma ação excelente para comigo.
+
+[[v40-26-11]]
+
+^<<v40-26-11,11>>^ Porque vós sempre tendes convosco os pobres, a mim, porém, nem sempre me tereis.
+
+[[v40-26-12]]
+
+^<<v40-26-12,12>>^ Pois, quando esta mulher derramou este óleo perfumado sobre o meu corpo, fez isso em preparação para o meu enterro.
+
+[[v40-26-13]]
+
+^<<v40-26-13,13>>^ Deveras, eu vos digo: Onde quer que se pregarem^&#42;1^ estas boas novas em todo o mundo,^&#42;2^ o que esta mulher fez também será contado em lembrança dela.”
+
+[NOTE]
+====
+. Ou “se proclamarem”. Gr.: ke·ry·khtheí; lat.: prae·di·cá·tum fú·e·rit. Veja Da 5:29 n.: “proclamaram”.
+. “Mundo.” Gr.: kó·smoi; lat.: mún·do.
+====
+
+[[v40-26-14]]
+
+^<<v40-26-14,14>>^ Então um dos doze, aquele chamado Judas Iscariotes, dirigiu-se aos principais sacerdotes
+
+[[v40-26-15]]
+
+^<<v40-26-15,15>>^ e disse: “O que me dareis para traí-lo a vós?” Estipularam-lhe trinta moedas de prata.
+
+[[v40-26-16]]
+
+^<<v40-26-16,16>>^ De modo que daquele momento em diante ele buscava uma boa oportunidade para traí-lo.
+
+[[v40-26-17]]
+
+^<<v40-26-17,17>>^ No primeiro dia dos^&#42;1^ Pães não Fermentados, os discípulos vieram a Jesus, dizendo: “Onde queres que preparemos para comeres a páscoa?”
+
+[NOTE]
+====
+. Ou: “No dia antes dos.” Esta tradução da palavra gr. πρῶτος (pró·tos), seguida pelo caso genitivo da palavra seguinte, concorda com o sentido e a tradução duma construção similar em Jo 1:15, 30, a saber: “existiu antes [pró·tos] de mim”. Segundo LS, p. 1535, col. 1, “πρῶτος é [às vezes] usado onde esperaríamos πρότερος [pró·te·ros]”.
+====
+
+[[v40-26-18]]
+
+^<<v40-26-18,18>>^ Ele disse: “Ide à cidade, a fulano, e dizei-lhe: O Instrutor diz: ‘Está próximo o meu tempo designado; celebrarei a páscoa com meus discípulos na tua casa.’”
+
+[[v40-26-19]]
+
+^<<v40-26-19,19>>^ E os discípulos fizeram conforme Jesus lhes mandara, e aprontaram as coisas para a páscoa.
+
+[[v40-26-20]]
+
+^<<v40-26-20,20>>^ Tendo chegado a noitinha, ele estava recostado à mesa com os doze discípulos.
+
+[[v40-26-21]]
+
+^<<v40-26-21,21>>^ Enquanto comiam, ele disse: “Deveras, eu vos digo: Um de vós me trairá.”
+
+[[v40-26-22]]
+
+^<<v40-26-22,22>>^ Ficando muito contristados com isso, principiaram cada um a dizer-lhe: “Não sou por acaso eu, Senhor?”
+
+[[v40-26-23]]
+
+^<<v40-26-23,23>>^ Em resposta, ele disse: “O que mete comigo a mão no prato fundo é o que me há de trair.
+
+[[v40-26-24]]
+
+^<<v40-26-24,24>>^ Deveras, o Filho do homem vai embora, assim como está escrito a respeito dele, mas ai do homem por quem o Filho do homem está sendo traído! Teria sido melhor para ele, se esse homem não tivesse nascido.”
+
+[[v40-26-25]]
+
+^<<v40-26-25,25>>^ Como resposta, Judas, que estava prestes a traí-lo, disse: “Não sou por acaso eu, Rabi?” Ele lhe disse: “Tu mesmo [o] disseste.”
+
+[[v40-26-26]]
+
+^<<v40-26-26,26>>^ Ao continuarem a comer, Jesus tomou um pão, e, depois de proferir uma bênção, partiu-o, e, dando-o aos discípulos, disse: “Tomai, comei. Isto significa^&#42;1^ meu corpo.”
+
+[NOTE]
+====
+. Lit.: “é”. Gr.: e·stin, no sentido de significar, importar em, representar. Veja 12:7 n.: “significa”; também 1Co 10:4 n.: “significava”.
+====
+
+[[v40-26-27]]
+
+^<<v40-26-27,27>>^ Tomou também um copo, e, tendo dado graças, deu-lho, dizendo: “Bebei dele, todos vós;
+
+[[v40-26-28]]
+
+^<<v40-26-28,28>>^ pois isto significa meu ‘sangue do pacto’, que há de ser derramado em benefício de muitos, para o perdão de pecados.
+
+[[v40-26-29]]
+
+^<<v40-26-29,29>>^ Eu vos digo, porém: Doravante, de modo algum beberei deste produto da videira, até o dia em que o beberei novo,^&#42;1^ convosco, no reino de meu Pai.”
+
+[NOTE]
+====
+. “Novo”, isto é, o produto novo da videira.
+====
+
+[[v40-26-30]]
+
+^<<v40-26-30,30>>^ Por fim, depois de cantarem louvores,^&#42;1^ saíram para o Monte das Oliveiras.
+
+[NOTE]
+====
+. Ou “depois de cantarem hinos (salmos)”. Gr.: hy·mné·san·tes; J18(hebr.): wai·yiq·re’ú ’eth·ha- hal·lél. Sem dúvida, os últimos quatro dos Salmos de Halel (115-118). Veja Sal 114:1 n.
+====
+
+[[v40-26-31]]
+
+^<<v40-26-31,31>>^ Jesus disse-lhes então: “Esta noite, todos vós tropeçareis em conexão comigo, pois está escrito: ‘Golpearei o pastor, e as ovelhas do rebanho ficarão espalhadas.’
+
+[[v40-26-32]]
+
+^<<v40-26-32,32>>^ Mas, depois de eu ter sido levantado, irei adiante de vós para a Galiléia.”
+
+[[v40-26-33]]
+
+^<<v40-26-33,33>>^ Mas Pedro, em resposta, disse-lhe: “Ainda que todos os outros tropecem em conexão contigo, eu nunca tropeçarei!”
+
+[[v40-26-34]]
+
+^<<v40-26-34,34>>^ Jesus disse-lhe: “Deveras, eu te digo: Esta noite, antes de cantar o galo, repudiar-me-ás três vezes.”
+
+[[v40-26-35]]
+
+^<<v40-26-35,35>>^ Pedro disse-lhe: “Mesmo que eu tenha de morrer contigo, de modo algum te repudiarei.” Todos os outros discípulos disseram também a mesma coisa.
+
+[[v40-26-36]]
+
+^<<v40-26-36,36>>^ Jesus chegou então com eles a um lugar chamado Getsêmani e disse aos discípulos: “Sentai-vos aqui enquanto eu vou para lá orar.”
+
+[[v40-26-37]]
+
+^<<v40-26-37,37>>^ E, levando consigo Pedro e os dois filhos de Zebedeu, principiou a ficar contristado e muito aflito.
+
+[[v40-26-38]]
+
+^<<v40-26-38,38>>^ Disse-lhes então: “Minha alma está profundamente contristada, até à morte. Ficai aqui e mantende-vos vigilantes comigo.”
+
+[[v40-26-39]]
+
+^<<v40-26-39,39>>^ E, indo um pouco mais adiante, prostrou-se com o rosto [em terra], orando e dizendo: “Pai meu, se for possível, deixa que este copo se afaste de mim. Contudo, não como eu quero, mas como tu queres.”
+
+[[v40-26-40]]
+
+^<<v40-26-40,40>>^ E ele veio aos discípulos e achou-os dormindo, e disse a Pedro: “Não pudestes vigiar comigo nem mesmo por uma hora?
+
+[[v40-26-41]]
+
+^<<v40-26-41,41>>^ Mantende-vos vigilantes e orai continuamente, para que não entreis em tentação. O espírito, naturalmente, está ansioso, mas a carne é fraca.”
+
+[[v40-26-42]]
+
+^<<v40-26-42,42>>^ Novamente, pela segunda vez, afastou-se e orou, dizendo: “Pai meu, se não é possível que isto se afaste de mim sem que eu o beba, realize-se a tua vontade.”
+
+[[v40-26-43]]
+
+^<<v40-26-43,43>>^ E veio novamente e os encontrou dormindo, pois estavam com os olhos pesados.
+
+[[v40-26-44]]
+
+^<<v40-26-44,44>>^ Portanto, deixando-os, afastou-se novamente e orou pela terceira vez, dizendo mais uma vez a mesma palavra.
+
+[[v40-26-45]]
+
+^<<v40-26-45,45>>^ Veio então ter com os discípulos e disse-lhes: “Numa ocasião destas, vós estais dormindo e descansando! Eis que se tem aproximado a hora para o Filho do homem ser traído às mãos de pecadores.
+
+[[v40-26-46]]
+
+^<<v40-26-46,46>>^ Levantai-vos, vamos embora. Eis que se tem aproximado aquele que me trai.”
+
+[[v40-26-47]]
+
+^<<v40-26-47,47>>^ E, enquanto ainda falava, eis que veio Judas, um dos doze, e com ele uma grande multidão, com espadas e cacetes, da parte dos principais sacerdotes e anciãos do povo.
+
+[[v40-26-48]]
+
+^<<v40-26-48,48>>^ Ora, o que o traía havia-lhes dado um sinal, dizendo: “A quem eu beijar, este é ele; detende-o.”
+
+[[v40-26-49]]
+
+^<<v40-26-49,49>>^ E, dirigindo-se diretamente a Jesus, disse: “Bom dia, Rabi!” e beijou-o mui ternamente.
+
+[[v40-26-50]]
+
+^<<v40-26-50,50>>^ Mas Jesus disse-lhe: “Amigo, para que fim estás presente?” Eles avançaram então e deitaram mãos em Jesus, e detiveram-no.
+
+[[v40-26-51]]
+
+^<<v40-26-51,51>>^ Mas, eis que um dos que estavam com Jesus estendeu a mão e puxou a sua espada, e, golpeando o escravo do sumo sacerdote, cortou-lhe a orelha.
+
+[[v40-26-52]]
+
+^<<v40-26-52,52>>^ Jesus disse-lhe então: “Devolve a espada ao seu lugar, pois todos os que tomarem a espada perecerão pela espada.
+
+[[v40-26-53]]
+
+^<<v40-26-53,53>>^ Ou pensas que não posso apelar para meu Pai, para fornecer-me neste momento mais de doze legiões de anjos?
+
+[[v40-26-54]]
+
+^<<v40-26-54,54>>^ Neste caso, como se cumpririam as Escrituras, de que tem de realizar-se deste modo?”
+
+[[v40-26-55]]
+
+^<<v40-26-55,55>>^ Jesus disse às multidões, naquela hora: “Viestes com espadas e com cacetes, como contra um salteador, para prender-me? Dia após dia costumava eu estar sentado no templo, ensinando; contudo, vós não me detivestes.
+
+[[v40-26-56]]
+
+^<<v40-26-56,56>>^ Mas tudo isso se tem realizado para que se cumprissem as escrituras dos profetas.” Todos os discípulos o abandonaram então e fugiram.
+
+[[v40-26-57]]
+
+^<<v40-26-57,57>>^ Os que detiveram Jesus levaram-no a Caifás, o sumo sacerdote, onde estavam ajuntados os escribas e os anciãos.
+
+[[v40-26-58]]
+
+^<<v40-26-58,58>>^ Pedro, porém, seguia-o duma boa distância, até o pátio do sumo sacerdote, e, tendo entrado, estava sentado com os criados, para ver o resultado.^&#42;1^
+
+[NOTE]
+====
+. Ou “fim”. Gr.: té·los.
+====
+
+[[v40-26-59]]
+
+^<<v40-26-59,59>>^ Entrementes, os principais sacerdotes e todo o Sinédrio^&#42;1^ estavam procurando falso testemunho contra Jesus, para o entregarem à morte,
+
+[NOTE]
+====
+. “Sinédrio”, J17,18,22. Ou: “Supremo Tribunal.” Veja 5:22.
+====
+
+[[v40-26-60]]
+
+^<<v40-26-60,60>>^ mas não encontraram nenhum, embora se apresentassem muitas testemunhas falsas. Mais tarde, apresentaram-se dois
+
+[[v40-26-61]]
+
+^<<v40-26-61,61>>^ e disseram: “Este homem disse: ‘Eu posso derrubar o templo^&#42;1^ de Deus e reconstruí-lo em três dias.’”
+
+[NOTE]
+====
+. Ou “habitação (morada) divina”. Gr.: na·ón; lat.: tém·plum; J17,18,22(hebr.): heh·khál, “palácio; templo”.
+====
+
+[[v40-26-62]]
+
+^<<v40-26-62,62>>^ Em vista disso, o sumo sacerdote levantou-se e disse-lhe: “Não tens nenhuma resposta? O que é que estes testificam contra ti?”
+
+[[v40-26-63]]
+
+^<<v40-26-63,63>>^ Mas Jesus ficou calado. O sumo sacerdote disse-lhe, por isso: “Pelo Deus vivente, eu te ponho sob juramento para nos dizeres se tu és o Cristo, o Filho de Deus!”
+
+[[v40-26-64]]
+
+^<<v40-26-64,64>>^ Jesus disse-lhe: “Tu mesmo [o] disseste. Contudo, eu vos digo: Doravante vereis o Filho do homem sentado à destra de poder e vindo^&#42;1^ nas nuvens do céu.”
+
+[NOTE]
+====
+. “Vindo.” Em grego: er·khó·me·non.
+====
+
+[[v40-26-65]]
+
+^<<v40-26-65,65>>^ O sumo sacerdote rasgou então a sua roupagem exterior, dizendo: “Ele blasfemou! Que necessidade temos ainda de testemunhas? Vede! Agora ouvistes a blasfêmia.
+
+[[v40-26-66]]
+
+^<<v40-26-66,66>>^ Qual é a vossa opinião?” Eles deram a resposta: “Está sujeito à morte.”
+
+[[v40-26-67]]
+
+^<<v40-26-67,67>>^ Cuspiram-lhe então no rosto e o esmurraram. Outros o esbofetearam,
+
+[[v40-26-68]]
+
+^<<v40-26-68,68>>^ dizendo: “Profetiza-nos, ó Cristo. Quem te golpeou?”
+
+[[v40-26-69]]
+
+^<<v40-26-69,69>>^ Ora, Pedro estava sentado lá fora no pátio; aproximou-se dele então uma serva, dizendo: “Tu também estavas com Jesus, o galileu!”
+
+[[v40-26-70]]
+
+^<<v40-26-70,70>>^ Mas ele negou-o perante todos, dizendo: “Não sei de que falas.”
+
+[[v40-26-71]]
+
+^<<v40-26-71,71>>^ Tendo saído para a portaria, foi notado por outra moça, e ela disse aos que estavam ali: “Este homem estava com Jesus, o nazareno.”
+
+[[v40-26-72]]
+
+^<<v40-26-72,72>>^ E ele novamente o negou, com juramento: “Não conheço este homem!”
+
+[[v40-26-73]]
+
+^<<v40-26-73,73>>^ Pouco depois, os que estavam parados ali aproximaram-se e disseram a Pedro: “Tu certamente és também um deles, pois, de fato, o teu dialeto te trai.”
+
+[[v40-26-74]]
+
+^<<v40-26-74,74>>^ Ele principiou então a praguejar e a jurar: “Não conheço este homem!” E imediatamente cantou um galo.
+
+[[v40-26-75]]
+
+^<<v40-26-75,75>>^ E Pedro lembrou-se da declaração de Jesus, a saber: “Antes de cantar o galo, repudiar-me-ás três vezes.” E ele saiu e chorou amargamente.
+
+'''
+
+xref:040-mateus/040-mateus-025.adoc#v40-25-0[&#60; Capítulo Anterior] | <<v40-26-0,Topo>> | xref:040-mateus/040-mateus-027.adoc#v40-27-0[Próximo Capítulo &#62;]

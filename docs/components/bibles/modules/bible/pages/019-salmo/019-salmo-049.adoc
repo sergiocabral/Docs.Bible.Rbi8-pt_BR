@@ -1,0 +1,176 @@
+include::./index.adoc[]
+
+[[v19-49-0]]
+=== Salmos, 49
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Dos filhos de Corá. Uma melodia._
+
+[[v19-49-1]]
+
+^<<v19-49-1,1>>^ Ouvi isto, todos os povos.
+Dai ouvidos, todos os habitantes do sistema de coisas,^&#42;1^
+
+[NOTE]
+====
+. Ou “da duração da vida”. Hebr.: hhá·ledh.
+====
+
+[[v19-49-2]]
+
+^<<v19-49-2,2>>^ Vós, filhos da humanidade,^&#42;1^ bem como vós, filhos do homem,^&#42;2^
+Tu, rico, e tu, pobre, juntamente.
+
+[NOTE]
+====
+. “Humanidade.” Hebr.: ’a·dhám.
+. “Homem.” Hebr.: ’ish.
+====
+
+[[v19-49-3]]
+
+^<<v19-49-3,3>>^ Minha própria boca falará coisas de sabedoria
+E a meditação de meu coração será de coisas de entendimento.
+
+[[v19-49-4]]
+
+^<<v19-49-4,4>>^ Inclinarei meu ouvido a um dito proverbial;
+Na harpa abrirei meu enigma.
+
+[[v19-49-5]]
+
+^<<v19-49-5,5>>^ Por que devia eu estar com medo nos dias do mal,
+[Quando] me cerca o próprio erro dos meus suplantadores?^&#42;1^
+
+[NOTE]
+====
+. “Suplantadores”, mediante a mudança dos sinais vocálicos; M: “calcanhares”.
+====
+
+[[v19-49-6]]
+
+^<<v19-49-6,6>>^ Aqueles que confiam nos seus meios de subsistência
+E que se jactam da abundância das suas riquezas,
+
+[[v19-49-7]]
+
+^<<v19-49-7,7>>^ Nenhum deles^&#42;1^ pode de modo algum remir até mesmo um irmão,
+Nem dar a Deus um resgate por ele,^&#42;2^
+
+[NOTE]
+====
+. “Nenhum deles.” Hebr.: ’ish.
+. Ou “um resgate para si mesmo”. Lit.: “sua cobertura”. Hebr.: kof·róh.
+====
+
+[[v19-49-8]]
+
+^<<v19-49-8,8>>^ (E o preço de redenção da alma deles^&#42;1^ é tão precioso,
+Que cessou por tempo indefinido)
+
+[NOTE]
+====
+. “Deles”, MSy; LXXVg: “dele”.
+====
+
+[[v19-49-9]]
+
+^<<v19-49-9,9>>^ Que ele ainda assim viva para sempre [e] não veja a cova.
+
+[[v19-49-10]]
+
+^<<v19-49-10,10>>^ Pois vê que até mesmo os sábios morrem,
+O estúpido e o irracional perecem juntamente,
+E têm de deixar a outros seus meios de subsistência.
+
+[[v19-49-11]]
+
+^<<v19-49-11,11>>^ Seu desejo íntimo^&#42;1^ é que suas casas fiquem por tempo indefinido,
+Seus tabernáculos por geração após geração.
+Chamaram os seus bens de terra pelos seus nomes.
+
+[NOTE]
+====
+. “Seu desejo íntimo”, M; LXXSyVg: “Suas sepulturas.”
+====
+
+[[v19-49-12]]
+
+^<<v19-49-12,12>>^ Contudo, o homem terreno,^&#42;1^ embora em honra, não pode continuar a ter pousada;
+Ele é deveras comparável aos animais que foram destruídos.^&#42;2^
+
+[NOTE]
+====
+. “Contudo, o homem terreno.” Hebr.: we’a·dhám.
+. Ou “silenciados”.
+====
+
+[[v19-49-13]]
+
+^<<v19-49-13,13>>^ Este é o caminho dos que têm estupidez
+E dos que vêm após eles, os quais têm prazer na sua própria grandiloqüência.^&#42;1^ Selá.
+
+[NOTE]
+====
+. Lit.: “boca”.
+====
+
+[[v19-49-14]]
+
+^<<v19-49-14,14>>^ Como ovelhas foram designados^&#42;1^ ao próprio Seol;
+A própria morte os pastoreará;^&#42;2^
+E os retos os terão em sujeição, de manhã,
+E suas formas^&#42;3^ vão gastar-se;
+O Seol, em vez de uma morada excelsa, é para cada um.^&#42;4^
+
+[NOTE]
+====
+. Lit.: “designaram[-nos]”. Mediante uma correção do verbo: “descerão (cairão)”.
+. Ou “apascentará [cuidará]”.
+. “Sua rocha”, Mmargem.
+. Ou “para ele”, isto é, para cada um do grupo.
+====
+
+[[v19-49-15]]
+
+^<<v19-49-15,15>>^ No entanto, o próprio Deus remirá a minha alma da mão do Seol,
+Pois ele me receberá. Selá.
+
+[[v19-49-16]]
+
+^<<v19-49-16,16>>^ Não tenhas medo porque algum homem enriquece,
+Por aumentar a glória da sua casa,
+
+[[v19-49-17]]
+
+^<<v19-49-17,17>>^ Pois na sua morte não pode levar nada consigo;
+Sua glória não descerá junto com ele.
+
+[[v19-49-18]]
+
+^<<v19-49-18,18>>^ Porque durante a sua vida ele abençoava a sua própria alma;
+(E a ti te elogiarão porque fazes o bem a ti mesmo)
+
+[[v19-49-19]]
+
+^<<v19-49-19,19>>^ [Sua alma]^&#42;1^ chega por fim apenas até a geração de seus antepassados.
+Nunca mais verão a luz.
+
+[NOTE]
+====
+. Lit.: “ela”, hebr. fem., referindo-se à “alma”.
+====
+
+[[v19-49-20]]
+
+^<<v19-49-20,20>>^ O homem terreno, embora em honra, [mas] que não entende,^&#42;1^
+É deveras comparável aos animais que foram destruídos.
+
+[NOTE]
+====
+. “Que não entende”, M; pela alteração da forma do verbo hebr. em harmonia com o v. 12a: “nem continuará a pousar”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-048.adoc#v19-48-0[&#60; Capítulo Anterior] | <<v19-49-0,Topo>> | xref:019-salmo/019-salmo-050.adoc#v19-50-0[Próximo Capítulo &#62;]

@@ -1,0 +1,190 @@
+include::./index.adoc[]
+
+[[v40-15-0]]
+=== Mateus, 15
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v40-15-1]]
+
+^<<v40-15-1,1>>^ Chegaram-se então a Jesus alguns fariseus e escribas, de Jerusalém, dizendo:
+
+[[v40-15-2]]
+
+^<<v40-15-2,2>>^ “Por que infringem os teus discípulos a tradição dos homens dos tempos anteriores? Por exemplo, não lavam as mãos quando estão para tomar uma refeição.”
+
+[[v40-15-3]]
+
+^<<v40-15-3,3>>^ Em resposta, disse-lhes: “Por que é também que vós infringis o mandamento de Deus por causa da vossa tradição?
+
+[[v40-15-4]]
+
+^<<v40-15-4,4>>^ Por exemplo, Deus disse: ‘Honra a teu pai e a tua mãe’; e: ‘Quem injuriar pai ou mãe, acabe na morte.’^&#42;1^
+
+[NOTE]
+====
+. Ou “morra sem falta”.
+====
+
+[[v40-15-5]]
+
+^<<v40-15-5,5>>^ Mas vós dizeis: ‘Quem disser ao seu pai ou à sua mãe: “Tudo o que eu tenho, que da minha parte te poderia ser de proveito, é uma dádiva dedicada a Deus”,
+
+[[v40-15-6]]
+
+^<<v40-15-6,6>>^ este absolutamente não deve mais honrar a seu pai.’ E assim invalidastes a palavra de Deus por causa da vossa tradição.
+
+[[v40-15-7]]
+
+^<<v40-15-7,7>>^ Hipócritas! Isaías profetizou aptamente a vosso respeito, quando disse:
+
+[[v40-15-8]]
+
+^<<v40-15-8,8>>^ ‘Este povo honra-me com os lábios, mas o seu coração está muito longe de mim.
+
+[[v40-15-9]]
+
+^<<v40-15-9,9>>^ É em vão que persistem em adorar-me, porque ensinam por doutrinas os mandados de homens.’”
+
+[[v40-15-10]]
+
+^<<v40-15-10,10>>^ Com isso chamou mais perto a multidão, e disse-lhes: “Escutai e compreendei o sentido disso:
+
+[[v40-15-11]]
+
+^<<v40-15-11,11>>^ Não o que entra pela boca é o que avilta o homem; mas o que sai da boca é o que avilta o homem.”
+
+[[v40-15-12]]
+
+^<<v40-15-12,12>>^ Os discípulos aproximaram-se, então, e lhe disseram: “Sabes que os fariseus tropeçaram por ouvirem o que disseste?”
+
+[[v40-15-13]]
+
+^<<v40-15-13,13>>^ Em resposta, ele disse: “Toda planta que meu Pai celestial não tiver plantado será desarraigada.
+
+[[v40-15-14]]
+
+^<<v40-15-14,14>>^ Deixai-os. Guias cegos é o que eles são. Se, pois, um cego guiar outro cego, ambos cairão numa cova.”^&#42;1^
+
+[NOTE]
+====
+. Ou “vala”.
+====
+
+[[v40-15-15]]
+
+^<<v40-15-15,15>>^ Respondendo, disse-lhe Pedro: “Esclarece-nos a ilustração.”^&#42;1^
+
+[NOTE]
+====
+. Ou “parábola”.
+====
+
+[[v40-15-16]]
+
+^<<v40-15-16,16>>^ A isso ele disse: “Estais vós também ainda sem entendimento?
+
+[[v40-15-17]]
+
+^<<v40-15-17,17>>^ Não percebeis que tudo o que entra pela boca passa para os intestinos e é eliminado para o esgoto?^&#42;1^
+
+[NOTE]
+====
+. Ou “cloaca; latrina; privada”.
+====
+
+[[v40-15-18]]
+
+^<<v40-15-18,18>>^ No entanto, as coisas procedentes da boca saem do coração, e estas coisas aviltam o homem.
+
+[[v40-15-19]]
+
+^<<v40-15-19,19>>^ Por exemplo, do coração vêm raciocínios iníquos, assassínios, adultérios, fornicações, ladroagens, falsos testemunhos, blasfêmias.
+
+[[v40-15-20]]
+
+^<<v40-15-20,20>>^ Estas são as coisas que aviltam o homem; mas tomar uma refeição sem lavar as mãos não é o que avilta o homem.”
+
+[[v40-15-21]]
+
+^<<v40-15-21,21>>^ Partindo dali, Jesus retirou-se então para os lados de Tiro e Sídon.
+
+[[v40-15-22]]
+
+^<<v40-15-22,22>>^ E eis que uma mulher fenícia,^&#42;1^ daquelas regiões, saiu e gritou alto, dizendo: “Tem misericórdia de mim, Senhor, Filho de Davi. Minha filha está muito endemoninhada.”
+
+[NOTE]
+====
+. Ou “cananéia”.
+====
+
+[[v40-15-23]]
+
+^<<v40-15-23,23>>^ Mas ele não lhe respondeu nenhuma palavra. De modo que seus discípulos se aproximaram e começaram a solicitar-lhe: “Manda-a embora; porque persiste em clamar atrás de nós.”
+
+[[v40-15-24]]
+
+^<<v40-15-24,24>>^ Em resposta, ele disse: “Não fui enviado a ninguém senão às ovelhas perdidas da casa de Israel.”
+
+[[v40-15-25]]
+
+^<<v40-15-25,25>>^ Chegando a mulher, começou a prestar-lhe homenagem, dizendo: “Senhor, ajuda-me!”
+
+[[v40-15-26]]
+
+^<<v40-15-26,26>>^ Em resposta, ele disse: “Não é direito tirar o pão dos filhos e lançá-lo aos cachorrinhos.”
+
+[[v40-15-27]]
+
+^<<v40-15-27,27>>^ Ela disse: “Sim, Senhor; mas, realmente, os cachorrinhos comem as migalhas que caem da mesa dos seus amos.”
+
+[[v40-15-28]]
+
+^<<v40-15-28,28>>^ Jesus disse-lhe então, em resposta: “Ó mulher, grande é a tua fé; aconteça-te conforme desejas.” E a filha dela ficou curada daquela hora em diante.
+
+[[v40-15-29]]
+
+^<<v40-15-29,29>>^ Atravessando dali o país, Jesus veio a seguir para perto do mar da Galiléia, e, tendo subido ao monte, estava assentado ali.
+
+[[v40-15-30]]
+
+^<<v40-15-30,30>>^ Aproximaram-se-lhe então grandes multidões, trazendo coxos, aleijados, cegos, mudos e muitos outros, e quase que os lançavam aos seus pés, e ele os curava;
+
+[[v40-15-31]]
+
+^<<v40-15-31,31>>^ de modo que a multidão ficou pasmada de ver os mudos falar, e os coxos andar, e os cegos ver, e glorificavam o Deus de Israel.
+
+[[v40-15-32]]
+
+^<<v40-15-32,32>>^ Mas Jesus chamou a si os seus discípulos e disse: “Tenho pena da multidão, porque já faz três dias que ficaram comigo e não têm nada para comer; e eu não quero mandá-los embora em jejum. Poderiam desfalecer pela estrada.”
+
+[[v40-15-33]]
+
+^<<v40-15-33,33>>^ No entanto, os discípulos lhe disseram: “Onde vamos arranjar neste lugar solitário pães suficientes para satisfazer uma multidão deste tamanho?”
+
+[[v40-15-34]]
+
+^<<v40-15-34,34>>^ A isso Jesus disse-lhes: “Quantos pães tendes?” Disseram: “Sete, e alguns peixinhos.”
+
+[[v40-15-35]]
+
+^<<v40-15-35,35>>^ Portanto, depois de mandar a multidão recostar-se no chão,
+
+[[v40-15-36]]
+
+^<<v40-15-36,36>>^ tomou os sete pães e os peixes, e, tendo dado graças, partiu-os e começou a distribuí-los entre os discípulos, e os discípulos, por sua vez, entre as multidões.
+
+[[v40-15-37]]
+
+^<<v40-15-37,37>>^ E todos comeram e ficaram satisfeitos, e recolheram dos pedaços que sobraram sete cabazes cheios.
+
+[[v40-15-38]]
+
+^<<v40-15-38,38>>^ Contudo, os que comeram foram quatro mil homens, além de mulheres e criancinhas.
+
+[[v40-15-39]]
+
+^<<v40-15-39,39>>^ Por fim, depois de despedir as multidões, entrou no barco e chegou às regiões de Magadã.
+
+'''
+
+xref:040-mateus/040-mateus-014.adoc#v40-14-0[&#60; Capítulo Anterior] | <<v40-15-0,Topo>> | xref:040-mateus/040-mateus-016.adoc#v40-16-0[Próximo Capítulo &#62;]

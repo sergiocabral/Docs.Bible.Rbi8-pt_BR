@@ -1,0 +1,212 @@
+include::./index.adoc[]
+
+[[v13-4-0]]
+=== 1 Crônicas, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v13-4-1]]
+
+^<<v13-4-1,1>>^ Os filhos de Judá foram Peres, Esrom, e Carmi, e Hur, e Sobal.
+
+[[v13-4-2]]
+
+^<<v13-4-2,2>>^ Quanto a Reaías, filho de Sobal, tornou-se ele pai de Jaate; Jaate, por sua vez, tornou-se pai de Aumai e de Laade. Estas foram as famílias dos zoratitas.
+
+[[v13-4-3]]
+
+^<<v13-4-3,3>>^ E estes foram [os filhos do] pai de Étão: Jezreel, e Isma, e Idbas, (e o nome de sua irmã foi Hazelelponi,)
+
+[[v13-4-4]]
+
+^<<v13-4-4,4>>^ e Penuel, pai de Gedor, e Ezer, pai de Husá. Estes foram os filhos de Hur, primogênito de Efrata, pai de Belém.
+
+[[v13-4-5]]
+
+^<<v13-4-5,5>>^ E Assur, pai de Tecoa, veio a ter duas esposas, Hela e Naará.
+
+[[v13-4-6]]
+
+^<<v13-4-6,6>>^ Com o tempo, Naará deu-lhe à luz Auzão, e Hefer, e Temeni, e Haastari. Estes foram os filhos de Naará.
+
+[[v13-4-7]]
+
+^<<v13-4-7,7>>^ E os filhos de Hela foram Zerete, Izar^&#42;1^ e Etnã.
+
+[NOTE]
+====
+. “Izar”, MVg; Mmargem: “e Zoar”.
+====
+
+[[v13-4-8]]
+
+^<<v13-4-8,8>>^ Quanto a Coz, tornou-se pai de Anube, e de Zobeba, e das famílias de Aarel, filho de Harum.
+
+[[v13-4-9]]
+
+^<<v13-4-9,9>>^ E Jabez tornou-se mais honrado do que os seus irmãos; e foi a sua mãe que o chamou pelo nome de Jabez, dizendo: “Foi em dor que o dei à luz.”
+
+[[v13-4-10]]
+
+^<<v13-4-10,10>>^ E Jabez começou a invocar o Deus de Israel, dizendo: “Se tu sem falta me abençoares e realmente ampliares o meu território, e a tua mão realmente mostrar estar comigo, e realmente [me] preservares de calamidade, para que não me fira . . .” Por conseguinte, Deus fez [acontecer] o que tinha pedido.
+
+[[v13-4-11]]
+
+^<<v13-4-11,11>>^ Quanto a Quelube,^&#42;1^ irmão de Suá, tornou-se ele pai de Meir, que foi o pai de Estom.
+
+[NOTE]
+====
+. “Quelube”, M; LXXSyVgc: “Calebe”.
+====
+
+[[v13-4-12]]
+
+^<<v13-4-12,12>>^ Estom, por sua vez, tornou-se pai de Bete-Rafa, e de Paséia, e de Teína, pai de Ir-Naás. Estes foram os homens de Reca.
+
+[[v13-4-13]]
+
+^<<v13-4-13,13>>^ E os filhos de Quenaz foram Otniel e Seraías, e os filhos de Otniel: Hatate.
+
+[[v13-4-14]]
+
+^<<v13-4-14,14>>^ Quanto a Meonotai, tornou-se ele pai de Ofra. Quanto a Seraías, tornou-se ele pai de Joabe, pai de Ge-Harasim;^&#42;1^ pois tornaram-se artífices.
+
+[NOTE]
+====
+. Significando “Vale dos Artesãos”.
+====
+
+[[v13-4-15]]
+
+^<<v13-4-15,15>>^ E os filhos de Calebe, filho de Jefuné, foram Iru, Elá e Naã; e os filhos de Elá: Quenaz.
+
+[[v13-4-16]]
+
+^<<v13-4-16,16>>^ E os filhos de Jealelel foram Zife e Zifa, Tiria e Asarel.
+
+[[v13-4-17]]
+
+^<<v13-4-17,17>>^ E os filhos de Ezra foram Jeter, e Merede, e Efer, e Jalom; e ela veio a conceber Miriã, e Samai, e Isbá, pai de Estemoa.
+
+[[v13-4-18]]
+
+^<<v13-4-18,18>>^ Quanto à sua esposa judaica, ela deu à luz Jerede, pai de Gedor, e Héber, pai de Soco, e Jecutiel, pai de Zanoa. E estes foram os filhos de Bitia, filha de Faraó, que Merede tomou.
+
+[[v13-4-19]]
+
+^<<v13-4-19,19>>^ E os filhos da esposa de Hodias, irmã de Naão, foram o pai de Queila, o garmita, e Estemoa, o maacatita.
+
+[[v13-4-20]]
+
+^<<v13-4-20,20>>^ E os filhos de Simão foram Amnom e Rina, Ben-Hanã e Tilom. E os filhos de Isi foram Zoete e Ben-Zoete.
+
+[[v13-4-21]]
+
+^<<v13-4-21,21>>^ Os filhos de Selá, filho de Judá, foram Er, pai de Leca, e Laadá, pai de Maressa, e as famílias da casa dos trabalhadores em tecido fino da casa de Asbéia;
+
+[[v13-4-22]]
+
+^<<v13-4-22,22>>^ e Joquim, e os homens de Cozeba, e Joás, e Sarafe, que se tornaram donos de esposas moabitas,^&#42;1^ e Jasubi-Leém. E as declarações são de tradição antiga.
+
+[NOTE]
+====
+. Ou “que governavam em Moabe”.
+====
+
+[[v13-4-23]]
+
+^<<v13-4-23,23>>^ Eles foram os oleiros e os habitantes de Netaim e de Gedera. Moravam ali com o rei na sua obra.
+
+[[v13-4-24]]
+
+^<<v13-4-24,24>>^ Os filhos de Simeão foram Nemuel e Jamim, Jaribe, Zerá, Saul,
+
+[[v13-4-25]]
+
+^<<v13-4-25,25>>^ Salum seu filho, Mibsão seu filho, Misma seu filho.
+
+[[v13-4-26]]
+
+^<<v13-4-26,26>>^ E os filhos de Misma foram Hamuel seu filho, Zacur seu filho, Simei seu filho.
+
+[[v13-4-27]]
+
+^<<v13-4-27,27>>^ E Simei teve dezesseis filhos e seis filhas; mas seus irmãos não tiveram muitos filhos e nenhuma das suas famílias teve tantos quantos os filhos de Judá.
+
+[[v13-4-28]]
+
+^<<v13-4-28,28>>^ E continuaram a morar em Berseba, e em Moladá, e em Hazar-Sual,
+
+[[v13-4-29]]
+
+^<<v13-4-29,29>>^ e em Bila, e em Ezem, e em Tolade,
+
+[[v13-4-30]]
+
+^<<v13-4-30,30>>^ e em Betuel, e em Hormá, e em Ziclague,
+
+[[v13-4-31]]
+
+^<<v13-4-31,31>>^ e em Bete-Marcabote, e em Hazar-Susim, e em Bete-Biri, e em Saaraim. Estas foram as suas cidades até o reinado de Davi.
+
+[[v13-4-32]]
+
+^<<v13-4-32,32>>^ E seus povoados foram Étão e Aim, Rimom, e Toquém, e Asã, cinco cidades.
+
+[[v13-4-33]]
+
+^<<v13-4-33,33>>^ E todos os seus povoados ao redor destas cidades iam até Baal. Estas foram as suas moradas e seus registros genealógicos para eles.
+
+[[v13-4-34]]
+
+^<<v13-4-34,34>>^ E Mesobabe, e Janleque, e Josa, filho de Amazias,
+
+[[v13-4-35]]
+
+^<<v13-4-35,35>>^ e Joel, e Jeú, filho de Josibias, filho de Seraías, filho de Asiel,
+
+[[v13-4-36]]
+
+^<<v13-4-36,36>>^ e Elioenai, e Jaacobá, e Jesoaías, e Asaías, e Adiel, e Jesimiel, e Benaia,
+
+[[v13-4-37]]
+
+^<<v13-4-37,37>>^ e Ziza, filho de Sifi, filho de Alom, filho de Jedaías, filho de Sinri, filho de Semaías.
+
+[[v13-4-38]]
+
+^<<v13-4-38,38>>^ Estes, que entraram por nomes, foram os maiorais dentre as suas famílias, e os da própria casa dos seus antepassados aumentaram em multidão.
+
+[[v13-4-39]]
+
+^<<v13-4-39,39>>^ E passaram a ir até à entrada de Gedor, até ao leste do vale, a fim de procurar pasto para os seus rebanhos.
+
+[[v13-4-40]]
+
+^<<v13-4-40,40>>^ Por fim acharam pasto gordo e bom, e a terra era bastante ampla^&#42;1^ e não tinha perturbação, mas estava tranqüila; pois os que outrora moravam ali eram de Cã.
+
+[NOTE]
+====
+. Lit.: “era ampla em ambos (todos) os lados”, isto é, espaçosa.
+====
+
+[[v13-4-41]]
+
+^<<v13-4-41,41>>^ E estes anotados por nomes passaram a entrar nos dias de Ezequias,^&#42;1^ rei de Judá, e a golpear as tendas dos camitas^&#42;2^ e dos meunins que se achavam ali, de modo que os devotaram à destruição até o dia de hoje; e começaram a morar no seu lugar, porque havia ali pasto para os seus rebanhos.
+
+[NOTE]
+====
+. Veja 2Rs 20:10 n.
+. “As tendas dos camitas”, mediante uma correção; M: “suas tendas”.
+====
+
+[[v13-4-42]]
+
+^<<v13-4-42,42>>^ E deles havia alguns dos filhos de Simeão que foram à montanha de Seir, quinhentos homens, com Pelatias, e Nearias, e Refaías, e Uziel, filhos de Isi, na sua cabeça.
+
+[[v13-4-43]]
+
+^<<v13-4-43,43>>^ E passaram a golpear o restante que escapara de Amaleque e ficaram morando ali até o dia de hoje.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-003.adoc#v13-3-0[&#60; Capítulo Anterior] | <<v13-4-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-005.adoc#v13-5-0[Próximo Capítulo &#62;]

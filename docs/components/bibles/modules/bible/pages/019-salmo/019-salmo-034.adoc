@@ -1,0 +1,188 @@
+include::./index.adoc[]
+
+[[v19-34-0]]
+=== Salmos, 34
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_De Davi, no tempo em que disfarçou a sua sanidade diante de Abimeleque, de modo que este o expulsou e ele se foi._
+
+_א [Álefe]^&#42;1^_
+
+[[v19-34-1]]
+
+^<<v19-34-1,1>>^ Vou bendizer a Jeová todo o tempo;
+Seu louvor estará constantemente na minha boca.
+
+_ב [Bete]_
+
+[[v19-34-2]]
+
+^<<v19-34-2,2>>^ De Jeová se jactará a minha alma;
+Os mansos ouvirão e se alegrarão.
+
+_ג [Guímel]_
+
+[[v19-34-3]]
+
+^<<v19-34-3,3>>^ Magnificai comigo a Jeová,
+E exaltemos juntos o seu nome.
+
+_ד [Dálete]_
+
+[[v19-34-4]]
+
+^<<v19-34-4,4>>^ Consultei a Jeová, e ele me respondeu
+E me livrou de todos os meus horrores.
+
+_ה [Hê]_
+
+[[v19-34-5]]
+
+^<<v19-34-5,5>>^ Olharam para ele e ficaram radiantes,
+E suas próprias faces de modo algum podiam estar encabuladas.
+
+_ז [Zaine]^&#42;1^_
+
+[[v19-34-6]]
+
+^<<v19-34-6,6>>^ Este atribulado chamou e o próprio Jeová ouviu.
+E salvou-o de todas as suas aflições.
+
+_ח [Hete]_
+
+[[v19-34-7]]
+
+^<<v19-34-7,7>>^ O anjo de Jeová acampa-se ao redor dos que o temem,
+E ele os socorre.
+
+_ט [Tete]_
+
+[[v19-34-8]]
+
+^<<v19-34-8,8>>^ Saboreai e vede que Jeová é bom;
+Feliz o varão vigoroso^&#42;1^ que se refugia nele.
+
+[NOTE]
+====
+. “O varão vigoroso.” Hebr.: hag·gé·ver.
+====
+
+_י [Iode]_
+
+[[v19-34-9]]
+
+^<<v19-34-9,9>>^ Temei a Jeová, vós os seus santos,
+Pois não há carência para os que o temem.
+
+_כ [Cafe]_
+
+[[v19-34-10]]
+
+^<<v19-34-10,10>>^ Os próprios leões novos jubados tiveram pouca coisa e passaram fome;
+Mas, quanto aos que buscam a Jeová, não carecerão de nada do que é bom.
+
+_ל [Lâmede]_
+
+[[v19-34-11]]
+
+^<<v19-34-11,11>>^ Vinde, ó filhos, escutai-me;
+O temor de Jeová é o que vos ensinarei.
+
+_מ [Meme]_
+
+[[v19-34-12]]
+
+^<<v19-34-12,12>>^ Quem é o homem^&#42;1^ que se agrada da vida,
+Que ama bastantes dias para ver o que é bom?
+
+[NOTE]
+====
+. “O homem.” Hebr.: ha·’ísh.
+====
+
+_נ [Nune]_
+
+[[v19-34-13]]
+
+^<<v19-34-13,13>>^ Resguarda a tua língua do que é mau,
+E teus lábios de falarem engano.
+
+_ם [Sâmeque]_
+
+[[v19-34-14]]
+
+^<<v19-34-14,14>>^ Desvia-te do que é mau e faze o que é bom;
+Procura a paz e empenha-te por ela.
+
+_ע [Aine]_
+
+[[v19-34-15]]
+
+^<<v19-34-15,15>>^ Os olhos de Jeová estão [atentos] aos justos
+E seus ouvidos estão [atentos] ao seu clamor por ajuda.
+
+_פ [Pê]_
+
+[[v19-34-16]]
+
+^<<v19-34-16,16>>^ A face de Jeová é contra os que fazem o que é mau,
+Para decepar a menção^&#42;1^ deles da própria terra.
+
+[NOTE]
+====
+. Ou “recordação”.
+====
+
+_צ [Tsadê]_
+
+[[v19-34-17]]
+
+^<<v19-34-17,17>>^ Clamaram, e o próprio Jeová ouviu,
+E ele os livrou de todas as suas aflições.
+
+_ק [Cofe]_
+
+[[v19-34-18]]
+
+^<<v19-34-18,18>>^ Perto está Jeová dos que têm coração quebrantado;
+E salva os que têm espírito esmagado.
+
+_ר [Rexe]_
+
+[[v19-34-19]]
+
+^<<v19-34-19,19>>^ Muitas são as calamidades do justo,
+Mas Jeová o livra de todas elas.
+
+_ש [Chim]_
+
+[[v19-34-20]]
+
+^<<v19-34-20,20>>^ Guarda-lhe^&#42;1^ todos os ossos;
+Nem sequer um deles foi quebrado.
+
+[NOTE]
+====
+. “Guarda-lhe”, MTSy; LXXVg e dois mss. hebr.: “Jeová”.
+====
+
+_ת [Tau]_
+
+[[v19-34-21]]
+
+^<<v19-34-21,21>>^ A calamidade entregará o próprio iníquo à morte;
+E os que odeiam o justo serão considerados culpados.
+
+[[v19-34-22]]
+
+^<<v19-34-22,22>>^ Jeová redime^&#42;1^ a alma dos seus servos;
+E nenhum dos que se refugiam nele será considerado culpado.
+
+[NOTE]
+====
+. Ou “resgata”. Hebr.: poh·dhéh; gr.: ly·tró·se·tai; lat.: ré·di·met.
+====
+
+'''
+
+xref:019-salmo/019-salmo-033.adoc#v19-33-0[&#60; Capítulo Anterior] | <<v19-34-0,Topo>> | xref:019-salmo/019-salmo-035.adoc#v19-35-0[Próximo Capítulo &#62;]

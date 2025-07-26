@@ -1,0 +1,254 @@
+include::./index.adoc[]
+
+[[v4-33-0]]
+=== Números, 33
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-33-1]]
+
+^<<v4-33-1,1>>^ Estas foram as etapas dos filhos de Israel que saíram da terra do Egito nos seus exércitos, pela mão de Moisés e de Arão.
+
+[[v4-33-2]]
+
+^<<v4-33-2,2>>^ E Moisés registrava os lugares de partida pelas suas etapas, por ordem de Jeová; e as seguintes foram as suas etapas de um lugar de partida a outro:
+
+[[v4-33-3]]
+
+^<<v4-33-3,3>>^ E passaram a partir de Ramessés, no primeiro mês, no dia quinze do primeiro mês. No dia imediato à páscoa, os filhos de Israel saíram de mão erguida diante dos olhos de todos os egípcios.
+
+[[v4-33-4]]
+
+^<<v4-33-4,4>>^ Enquanto isso, os egípcios enterravam os que Jeová havia abatido entre eles, isto é, todos os primogênitos; e Jeová havia executado julgamentos nos seus deuses.
+
+[[v4-33-5]]
+
+^<<v4-33-5,5>>^ Os filhos de Israel partiram assim de Ramessés e foram acampar-se em Sucote.
+
+[[v4-33-6]]
+
+^<<v4-33-6,6>>^ Partiram então de Sucote e foram acampar-se em Etão, que se acha na beirada do ermo.
+
+[[v4-33-7]]
+
+^<<v4-33-7,7>>^ A seguir partiram de Etão e voltaram para trás em direção a Pi-Hairote, que se acha à vista de Baal-Zefom; e foram acampar-se diante de Migdol.
+
+[[v4-33-8]]
+
+^<<v4-33-8,8>>^ Depois partiram de Pi-Hairote,^&#42;1^ e foram passar pelo meio do mar para o ermo e marchar numa jornada de três dias no ermo de Etão, e passaram a acampar-se em Mara.
+
+[NOTE]
+====
+. “De Pi-Hairote”, SamTOSyVg; M: “de diante de Pi-Hairote”.
+====
+
+[[v4-33-9]]
+
+^<<v4-33-9,9>>^ Depois partiram de Mara e chegaram a Elim. Ora, em Elim havia doze fontes de água e setenta palmeiras. De modo que se acamparam ali.
+
+[[v4-33-10]]
+
+^<<v4-33-10,10>>^ A seguir partiram de Elim e foram acampar-se junto ao Mar Vermelho.
+
+[[v4-33-11]]
+
+^<<v4-33-11,11>>^ Depois partiram do Mar Vermelho e passaram a acampar-se no ermo de Sim.
+
+[[v4-33-12]]
+
+^<<v4-33-12,12>>^ Partiram então do ermo de Sim e foram acampar-se em Dofca.
+
+[[v4-33-13]]
+
+^<<v4-33-13,13>>^ Mais tarde partiram de Dofca e foram acampar-se em Alus.
+
+[[v4-33-14]]
+
+^<<v4-33-14,14>>^ A seguir partiram de Alus e foram acampar-se em Refidim. E ali se mostrou que não havia água para o povo beber.
+
+[[v4-33-15]]
+
+^<<v4-33-15,15>>^ Depois partiram de Refidim e foram acampar-se no ermo de Sinai.
+
+[[v4-33-16]]
+
+^<<v4-33-16,16>>^ Posteriormente partiram do ermo de Sinai e foram acampar-se em Quibrote-Ataavá.
+
+[[v4-33-17]]
+
+^<<v4-33-17,17>>^ Partiram então de Quibrote-Ataavá e foram acampar-se em Hazerote.
+
+[[v4-33-18]]
+
+^<<v4-33-18,18>>^ Depois partiram de Hazerote e foram acampar-se em Ritmá.
+
+[[v4-33-19]]
+
+^<<v4-33-19,19>>^ A seguir partiram de Ritmá e passaram a acampar-se em Rimom-Peres.
+
+[[v4-33-20]]
+
+^<<v4-33-20,20>>^ Partiram então de Rimom-Peres e foram acampar-se em Libna.
+
+[[v4-33-21]]
+
+^<<v4-33-21,21>>^ Mais tarde partiram de Libna e foram acampar-se em Rissa.
+
+[[v4-33-22]]
+
+^<<v4-33-22,22>>^ A seguir partiram de Rissa e foram acampar-se em Queelata.
+
+[[v4-33-23]]
+
+^<<v4-33-23,23>>^ Partiram então de Queelata e foram acampar-se no monte Séfer.
+
+[[v4-33-24]]
+
+^<<v4-33-24,24>>^ Depois partiram do monte Séfer e foram acampar-se em Harada.
+
+[[v4-33-25]]
+
+^<<v4-33-25,25>>^ Partiram então de Harada e foram acampar-se em Maquelote.
+
+[[v4-33-26]]
+
+^<<v4-33-26,26>>^ A seguir partiram de Maquelote e foram acampar-se em Taate.
+
+[[v4-33-27]]
+
+^<<v4-33-27,27>>^ Depois partiram de Taate e foram acampar-se em Tera.
+
+[[v4-33-28]]
+
+^<<v4-33-28,28>>^ Partiram então de Tera e foram acampar-se em Mitca.
+
+[[v4-33-29]]
+
+^<<v4-33-29,29>>^ Mais tarde partiram de Mitca e foram acampar-se em Hasmona.
+
+[[v4-33-30]]
+
+^<<v4-33-30,30>>^ A seguir partiram de Hasmona e foram acampar-se em Moserote.
+
+[[v4-33-31]]
+
+^<<v4-33-31,31>>^ Partiram então de Moserote e foram acampar-se em Bene-Jaacã.
+
+[[v4-33-32]]
+
+^<<v4-33-32,32>>^ Depois partiram de Bene-Jaacã e foram acampar-se em Hor-Hagidgade.
+
+[[v4-33-33]]
+
+^<<v4-33-33,33>>^ A seguir partiram de Hor-Hagidgade e foram acampar-se em Jotbata.
+
+[[v4-33-34]]
+
+^<<v4-33-34,34>>^ Mais tarde partiram de Jotbata e foram acampar-se em Abrona.
+
+[[v4-33-35]]
+
+^<<v4-33-35,35>>^ Partiram então de Abrona e foram acampar-se em Eziom-Géber.
+
+[[v4-33-36]]
+
+^<<v4-33-36,36>>^ Depois partiram de Eziom-Géber e foram acampar-se no ermo de Zim, quer dizer, em Cades.
+
+[[v4-33-37]]
+
+^<<v4-33-37,37>>^ Mais tarde partiram de Cades e foram acampar-se no monte Hor, nos limites da terra de Edom.
+
+[[v4-33-38]]
+
+^<<v4-33-38,38>>^ E Arão, o sacerdote, passou a subir ao monte Hor, por ordem de Jeová, e ali morreu no quadragésimo ano da saída dos filhos de Israel da terra do Egito, no quinto mês, no primeiro [dia] do mês.
+
+[[v4-33-39]]
+
+^<<v4-33-39,39>>^ E Arão tinha cento e vinte e três anos de idade ao morrer no monte Hor.
+
+[[v4-33-40]]
+
+^<<v4-33-40,40>>^ Então o cananeu, o rei Arade, morando no Negebe, na terra de Canaã, chegou a ouvir a respeito da vinda dos filhos de Israel.
+
+[[v4-33-41]]
+
+^<<v4-33-41,41>>^ Com o tempo partiram do monte Hor e foram acampar-se em Zalmona.
+
+[[v4-33-42]]
+
+^<<v4-33-42,42>>^ Depois partiram de Zalmona e foram acampar-se em Punom.
+
+[[v4-33-43]]
+
+^<<v4-33-43,43>>^ A seguir partiram de Punom e foram acampar-se em Obote.
+
+[[v4-33-44]]
+
+^<<v4-33-44,44>>^ Partiram então de Obote e foram acampar-se em Ijé-Abarim,^&#42;1^ na fronteira de Moabe.
+
+[NOTE]
+====
+. Lit.: “Ijim (Ruínas) de Abarim”. No v. 45 é simplesmente chamada de Ijim. Veja 21:11 n.
+====
+
+[[v4-33-45]]
+
+^<<v4-33-45,45>>^ Mais tarde partiram de Ijim e foram acampar-se em Díbon-Gade.
+
+[[v4-33-46]]
+
+^<<v4-33-46,46>>^ Depois partiram de Díbon-Gade e foram acampar-se em Almom-Diblataim.
+
+[[v4-33-47]]
+
+^<<v4-33-47,47>>^ Partiram então de Almom-Diblataim e foram acampar-se nos montes de Abarim,^&#42;1^ diante de Nebo.
+
+[NOTE]
+====
+. Ou “terra fronteiriça”.
+====
+
+[[v4-33-48]]
+
+^<<v4-33-48,48>>^ Por fim partiram dos montes de Abarim e passaram a acampar-se nas planícies desérticas de Moabe, junto ao Jordão, [na altura] de Jericó.
+
+[[v4-33-49]]
+
+^<<v4-33-49,49>>^ E continuaram a acampar-se junto ao Jordão, desde Bete-Jesimote até Abel-Sitim, nas planícies desérticas de Moabe.
+
+[[v4-33-50]]
+
+^<<v4-33-50,50>>^ E Jeová passou a falar a Moisés nas planícies desérticas de Moabe, junto ao Jordão, [na altura] de Jericó, dizendo:
+
+[[v4-33-51]]
+
+^<<v4-33-51,51>>^ “Fala aos filhos de Israel, e tens de dizer-lhes: ‘Estais passando o Jordão à terra de Canaã.
+
+[[v4-33-52]]
+
+^<<v4-33-52,52>>^ E tendes de expulsar de diante de vós todos os habitantes^&#42;1^ do país e destruir todas as suas figuras de pedra,^&#42;2^ e deveis destruir todas as suas imagens fundidas de metal, e deveis aniquilar todos os seus altos sagrados.
+
+[NOTE]
+====
+. “Estais passando o Jordão à terra de Canaã. (52) E destruireis todos os habitantes”, LXXSy; Vg: “Quando cruzardes o Jordão para entrar na terra de Canaã, (52) destruí todos os habitantes.”
+. Ou “suas peças de exibição”.
+====
+
+[[v4-33-53]]
+
+^<<v4-33-53,53>>^ E tendes de tomar posse do país e morar nele, porque vos hei de dar o país para tomardes posse dele.
+
+[[v4-33-54]]
+
+^<<v4-33-54,54>>^ E tendes de repartir a terra entre vós como propriedade, por sortes, segundo as vossas famílias. Ao numeroso deveis aumentar sua herança e ao escasso deveis reduzir sua herança. Onde a sorte lhe cair, ali se tornará sua. Deveis prover-vos de propriedades de terra segundo as tribos de vossos pais.
+
+[[v4-33-55]]
+
+^<<v4-33-55,55>>^ “‘Se, porém, não expulsardes de diante de vós os habitantes do país, então aqueles que deixardes ficar certamente se tornarão como picadas nos vossos olhos e como espinhos nos vossos lados, e deveras vos hostilizarão na terra em que estareis morando.
+
+[[v4-33-56]]
+
+^<<v4-33-56,56>>^ E terá de acontecer que, como tencionei fazer a eles, assim farei a vós.’”
+
+'''
+
+xref:004-numeros/004-numeros-032.adoc#v4-32-0[&#60; Capítulo Anterior] | <<v4-33-0,Topo>> | xref:004-numeros/004-numeros-034.adoc#v4-34-0[Próximo Capítulo &#62;]

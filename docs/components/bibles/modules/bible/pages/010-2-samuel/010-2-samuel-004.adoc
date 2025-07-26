@@ -1,0 +1,62 @@
+include::./index.adoc[]
+
+[[v10-4-0]]
+=== 2 Samuel, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v10-4-1]]
+
+^<<v10-4-1,1>>^ Quando o filho de Saul ouviu que Abner tinha morrido em Hébron, então se enfraqueceram as suas mãos, e os próprios israelitas, todos eles, ficaram perturbados.
+
+[[v10-4-2]]
+
+^<<v10-4-2,2>>^ E havia dois homens, chefes das guerrilhas, que vieram a pertencer ao filho de Saul,^&#42;1^ sendo o nome de um Baaná e o nome do outro Recabe, filhos de Rimom, o beerotita, dos filhos de Benjamim; pois, Beerote também costumava ser contada como parte de Benjamim.
+
+[NOTE]
+====
+. “Pertencer a Is-Bosete, filho de Saul”, LXXBagster.
+====
+
+[[v10-4-3]]
+
+^<<v10-4-3,3>>^ E os beerotitas foram fugir para Gitaim e tornaram-se ali residentes forasteiros até o dia de hoje.
+
+[[v10-4-4]]
+
+^<<v10-4-4,4>>^ Ora, Jonatã, filho de Saul, tinha um filho aleijado dos pés. Sucedeu que ele tinha cinco anos de idade quando chegou de Jezreel a notícia sobre Saul e Jonatã; e sua aia começou a carregá-lo e a fugir, mas aconteceu que, correndo ela tomada de pânico para fugir, ele sofreu então uma queda e ficou manco. E seu nome era Mefibosete.
+
+[[v10-4-5]]
+
+^<<v10-4-5,5>>^ E os filhos de Rimom, o beerotita, Recabe e Baaná, passaram a ir e a chegar à casa de Is-Bosete por volta do calor do dia, visto que ele fazia a sua sesta do meio-dia.
+
+[[v10-4-6]]
+
+^<<v10-4-6,6>>^ E eis que entraram no meio da casa como quem veio apanhar trigo e então o golpearam no abdome; e o próprio Recabe e Baaná, seu irmão, escaparam de ser descobertos.
+
+[[v10-4-7]]
+
+^<<v10-4-7,7>>^ Ao entrarem na casa, ele estava deitado no seu leito no seu dormitório interno, e eles o golpearam então de modo que o entregaram à morte, depois lhe tiraram a cabeça, e tomaram a sua cabeça e andaram toda a noite pela estrada do Arabá.
+
+[[v10-4-8]]
+
+^<<v10-4-8,8>>^ Por fim trouxeram a cabeça de Is-Bosete a Davi, em Hébron, e disseram ao rei: “Aqui está a cabeça de Is-Bosete, filho de Saul, teu inimigo, que procurava a tua alma; mas Jeová dá neste dia vingança ao meu senhor, o rei, de Saul e da sua descendência.”
+
+[[v10-4-9]]
+
+^<<v10-4-9,9>>^ No entanto, Davi respondeu a Recabe e a Baaná, seu irmão, filhos de Rimom, o beerotita, e disse-lhes: “Assim como vive Jeová que remiu a minha alma de toda a aflição,
+
+[[v10-4-10]]
+
+^<<v10-4-10,10>>^ quando houve um que me informou, dizendo: ‘Eis que Saul está morto’, e ele mesmo se tornou aos seus próprios olhos como portador de boas novas, eu, no entanto, o segurei e o matei em Ziclague, quando [me] cabia dar-lhe a gratificação de mensageiro,
+
+[[v10-4-11]]
+
+^<<v10-4-11,11>>^ quanto mais quando os próprios homens iníquos mataram um homem justo na sua própria casa, na sua cama? E agora, não devia eu requerer o seu sangue das vossas mãos e não terei de varrer-vos da terra?”
+
+[[v10-4-12]]
+
+^<<v10-4-12,12>>^ Com isso Davi deu ordem aos moços e eles os mataram, e amputaram-lhes as mãos e os pés, e penduraram-nos junto ao reservatório de água de Hébron; e tomaram a cabeça de Is-Bosete e a enterraram então na sepultura de Abner, em Hébron.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-003.adoc#v10-3-0[&#60; Capítulo Anterior] | <<v10-4-0,Topo>> | xref:010-2-samuel/010-2-samuel-005.adoc#v10-5-0[Próximo Capítulo &#62;]

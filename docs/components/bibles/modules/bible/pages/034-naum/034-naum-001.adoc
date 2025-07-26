@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v34-1-0]]
+=== Naum, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v34-1-1]]
+
+^<<v34-1-1,1>>^ Pronúncia contra Nínive: Livro da visão de Naum, o elcosita:^&#42;1^
+
+[NOTE]
+====
+. Ou “de Elcos”.
+====
+
+[[v34-1-2]]
+
+^<<v34-1-2,2>>^ Jeová é um Deus^&#42;1^ que exige devoção exclusiva e que toma vingança; Jeová toma vingança e está disposto ao^&#42;2^ furor. Jeová toma vingança contra os seus adversários e está ressentido com os seus inimigos.
+
+[NOTE]
+====
+. “Um Deus.” Hebr.: ’El; gr.: The·ós; lat.: Dé·us.
+. Lit.: “e é amo (senhor) de”. Hebr.: u·vá·‛al.
+====
+
+[[v34-1-3]]
+
+^<<v34-1-3,3>>^ Jeová é vagaroso em irar-se e grande em poder, e de modo algum se refreará Jeová de punir.
+No vento destrutivo e na tempestade está o seu caminho, e a massa de nuvens é a poeira dos seus pés.
+
+[[v34-1-4]]
+
+^<<v34-1-4,4>>^ Ele censura o mar e o resseca; e seca realmente a todos os rios.
+Basã e o Carmelo murcharam, e a própria flor do Líbano murchou.
+
+[[v34-1-5]]
+
+^<<v34-1-5,5>>^ Os próprios montes tremeram por causa dele e os próprios morros estavam derretendo.
+E a terra será sublevada por causa de sua face; também o solo produtivo^&#42;1^ e todos os que moram [sobre] ele.
+
+[NOTE]
+====
+. “Também o solo produtivo.” Hebr.: wethe·vél; LXX: “a [terra] inteira”; lat.: ór·bis, “o círculo”, isto é, da terra. Veja Mt 24:14 n.: “habitada”.
+====
+
+[[v34-1-6]]
+
+^<<v34-1-6,6>>^ Quem pode ficar de pé em face de sua verberação? E quem se pode levantar contra o ardor da sua ira?
+Seu próprio furor há de ser despejado como fogo e as próprias rochas^&#42;1^ serão realmente demolidas por causa dele.
+
+[NOTE]
+====
+. “E as próprias rochas.” Hebr.: wehats·tsu·rím; gr.: pé·trai; sir.: wetu·re’; lat.: pé·trae.
+====
+
+[[v34-1-7]]
+
+^<<v34-1-7,7>>^ Jeová é bom, baluarte no dia da aflição.
+E ele tem conhecimento dos que procuram refugiar-se nele.
+
+[[v34-1-8]]
+
+^<<v34-1-8,8>>^ E pela inundação que passa ele fará uma exterminação cabal do lugar dela,^&#42;1^ e a escuridão perseguirá os próprios inimigos dele.^&#42;2^
+
+[NOTE]
+====
+. “Dela”, referindo-se a Nínive.
+. A maior parte do primeiro cap. da profecia de Naum parece ser um poema hebr. acróstico ou alfabético incompleto, que só vai até o fim do v. 8, e abrange as letras hebr. de Álefe até Cafe.
+====
+
+[[v34-1-9]]
+
+^<<v34-1-9,9>>^ Que cogitareis vós contra Jeová? Ele causa uma exterminação cabal.
+A aflição não se levantará pela segunda vez.
+
+[[v34-1-10]]
+
+^<<v34-1-10,10>>^ Embora sejam entrelaçados, assim como os espinhos, e estejam embriagados como que com a sua cerveja de trigo,^&#42;1^ certamente serão devorados como o restolho inteiramente seco.
+
+[NOTE]
+====
+. Ou “sua bebida alcoólica”.
+====
+
+[[v34-1-11]]
+
+^<<v34-1-11,11>>^ De ti^&#42;1^ sairá realmente alguém que cogitará contra Jeová aquilo que é mau, aconselhando o que não presta.^&#42;2^
+
+[NOTE]
+====
+. “Ti”, hebr. fem. sing.
+. “O que não presta.” Lit.: “belial”. Hebr.: beli·yá·‛al.
+====
+
+[[v34-1-12]]
+
+^<<v34-1-12,12>>^ Assim disse Jeová: “Ainda que estejam em forma completa e haja muitos nesse estado, mesmo nesse estado terão de ser cortados; e alguém terá de passar. E hei de atribular-te de modo a não te atribular mais.
+
+[[v34-1-13]]
+
+^<<v34-1-13,13>>^ E agora quebrarei a sua canga de carga de sobre ti e romperei as ligaduras sobre ti.
+
+[[v34-1-14]]
+
+^<<v34-1-14,14>>^ E a teu^&#42;1^ respeito Jeová ordenou: ‘Não se semeará mais nada do teu nome. Da casa dos teus deuses^&#42;2^ deceparei a imagem esculpida e a estátua fundida. Farei para ti uma sepultura, porque não foste de nenhuma importância.’^&#42;3^
+
+[NOTE]
+====
+. “Teu”, hebr. masc. sing.
+. Ou “teu deus”. Hebr.: ’elo·heí·kha; gr.: the·oú; lat.: dé·i.
+. MLXXSy terminam aqui o cap. 1.
+====
+
+[[v34-1-15]]
+
+^<<v34-1-15,15>>^ “Eis sobre os montes os pés daquele que traz boas novas,^&#42;1^ aquele que publica a paz. Ó Judá, celebra as tuas festividades. Paga os teus votos; porque não mais passará por ti nenhum imprestável.^&#42;2^ Certamente será decepado na sua inteireza.”^&#42;3^
+
+[NOTE]
+====
+. “Daquele que traz boas novas.” Hebr.: mevas·sér; gr.: eu·ag·ge·li·zo·mé·nou, “evangelizador”; lat.: e·van·ge·li·zán·tis.
+. Veja v. 11 n.: “presta”.
+. TLXXBagsterVg terminam aqui o cap. 1.
+====
+
+'''
+
+xref:033-miqueias/033-miqueias-007.adoc#v33-7-0[&#60; Capítulo Anterior] | <<v34-1-0,Topo>> | xref:034-naum/034-naum-002.adoc#v34-2-0[Próximo Capítulo &#62;]

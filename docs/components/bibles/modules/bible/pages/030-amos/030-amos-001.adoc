@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v30-1-0]]
+=== Amós, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v30-1-1]]
+
+^<<v30-1-1,1>>^ As palavras de Amós, que veio a estar entre os criadores de ovelhas de Tecoa, as quais ele visionou a respeito de Israel nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto.
+
+[[v30-1-2]]
+
+^<<v30-1-2,2>>^ E ele passou a dizer:
+“Jeová — de Sião ele bramirá e de Jerusalém fará [ouvir] a sua voz; e as pastagens dos pastores terão de pôr-se de luto e o cume do Carmelo terá de ficar seco.”
+
+[[v30-1-3]]
+
+^<<v30-1-3,3>>^ “Assim disse Jeová: ‘“Por causa de três revoltas de Damasco e por causa de quatro não o farei voltar atrás, por trilharem Gileade até mesmo com debulhadores de ferro.
+
+[[v30-1-4]]
+
+^<<v30-1-4,4>>^ E vou enviar fogo sobre a casa de Hazael e terá de devorar as torres de habitação de Ben-Hadade.
+
+[[v30-1-5]]
+
+^<<v30-1-5,5>>^ E quebrarei a tranca de Damasco e deceparei de Bicate-Áven^&#42;1^ [o] habitante, e de Bete-Éden,^&#42;2^ o portador do cetro; e o povo da Síria^&#42;3^ terá de ir como exilados para Quir”, disse Jeová.’
+
+[NOTE]
+====
+. Ou “do Vale Plano de Áven”.
+. Ou “da Casa do Éden”.
+. “Síria”, LXXVg; MTSy: “Arã”.
+====
+
+[[v30-1-6]]
+
+^<<v30-1-6,6>>^ “Assim disse Jeová: ‘“Por causa de três revoltas de Gaza e por causa de quatro não o farei voltar atrás, por levarem ao exílio um grupo inteiro de exilados para entregá-los a Edom.
+
+[[v30-1-7]]
+
+^<<v30-1-7,7>>^ E vou enviar um fogo sobre a muralha de Gaza e terá de devorar-lhe as torres de habitação.
+
+[[v30-1-8]]
+
+^<<v30-1-8,8>>^ E deceparei de Asdode [o] habitante e de Ascalom o portador do cetro; e vou fazer a minha mão voltar sobre Ecrom e terão de perecer os remanescentes^&#42;1^ dos filisteus”, disse o Soberano Senhor Jeová.’
+
+[NOTE]
+====
+. Ou “o restante”.
+====
+
+[[v30-1-9]]
+
+^<<v30-1-9,9>>^ “Assim disse Jeová: ‘Por causa de três revoltas de Tiro e por causa de quatro não o farei voltar atrás, por entregarem a Edom um grupo inteiro de exilados e [por] não se terem lembrado do pacto de irmãos.
+
+[[v30-1-10]]
+
+^<<v30-1-10,10>>^ E vou enviar fogo sobre a muralha de Tiro e terá de devorar-lhe as torres de habitação.’
+
+[[v30-1-11]]
+
+^<<v30-1-11,11>>^ “Assim disse Jeová: ‘Por causa de três revoltas de Edom e por causa de quatro não o farei voltar atrás, por ele perseguir seu próprio irmão com a espada, e [por] ele ter arruinado as suas [próprias] qualidades misericordiosas, e sua ira estar dilacerando para todo o sempre; e sua fúria — ele a mantém perpetuamente.
+
+[[v30-1-12]]
+
+^<<v30-1-12,12>>^ E vou enviar fogo dentro de Temã e terá de devorar as torres de habitação de Bozra.’
+
+[[v30-1-13]]
+
+^<<v30-1-13,13>>^ “Assim disse Jeová: ‘“Por causa de três revoltas dos filhos de Amom^&#42;1^ e por causa de quatro não o farei voltar atrás, por estriparem as mulheres grávidas de Gileade, a fim de ampliarem seu próprio território.
+
+[NOTE]
+====
+. “Dos filhos de Amom.” Ou “dos amonitas”.
+====
+
+[[v30-1-14]]
+
+^<<v30-1-14,14>>^ E vou pôr fogo à muralha de Rabá e terá de devorar-lhe as torres de habitação, com um rebate no dia da batalha, com uma tormenta no dia do tufão.
+
+[[v30-1-15]]
+
+^<<v30-1-15,15>>^ E seu rei terá de ir para o exílio, ele e seus príncipes, juntos”, disse Jeová.
+
+'''
+
+xref:029-joel/029-joel-003.adoc#v29-3-0[&#60; Capítulo Anterior] | <<v30-1-0,Topo>> | xref:030-amos/030-amos-002.adoc#v30-2-0[Próximo Capítulo &#62;]

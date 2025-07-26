@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v24-28-0]]
+=== Jeremias, 28
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-28-1]]
+
+^<<v24-28-1,1>>^ Então sucedeu, naquele ano, no princípio do reinado de Zedequias,^&#42;1^ rei de Judá, no quarto ano, no quinto mês, que Hananias, filho de Azur, o profeta que era de Gibeão, me disse na casa de Jeová, perante os olhos dos sacerdotes e de todo o povo:
+
+[NOTE]
+====
+. Veja 27:12 n.
+====
+
+[[v24-28-2]]
+
+^<<v24-28-2,2>>^ “Assim disse Jeová dos exércitos, o Deus de Israel: ‘Vou quebrar o jugo do rei de Babilônia.
+
+[[v24-28-3]]
+
+^<<v24-28-3,3>>^ Dentro de mais dois anos inteiros trarei de volta a este lugar todos os utensílios da casa de Jeová, que Nabucodonosor, rei de Babilônia, tomou deste lugar para levá-los a Babilônia.’”
+
+[[v24-28-4]]
+
+^<<v24-28-4,4>>^ “‘E a Jeconias, filho de Jeoiaquim, rei de Judá, e todos os exilados de Judá que chegaram a Babilônia eu trarei de volta a este lugar’, é a pronunciação de Jeová, ‘pois quebrarei o jugo do rei de Babilônia’.”
+
+[[v24-28-5]]
+
+^<<v24-28-5,5>>^ E Jeremias, o profeta, passou a dizer a Hananias, o profeta, perante os olhos dos sacerdotes e perante os olhos de todo o povo que estava de pé na casa de Jeová,
+
+[[v24-28-6]]
+
+^<<v24-28-6,6>>^ sim, Jeremias, o profeta, passou a dizer: “Amém!^&#42;1^ Que Jeová faça assim! Confirme Jeová a tua palavra que profetizaste, trazendo de volta os utensílios da casa de Jeová e todo o povo exilado, de Babilônia a este lugar!
+
+[NOTE]
+====
+. Ou: “Assim seja!” Hebr.: ’a·mén.
+====
+
+[[v24-28-7]]
+
+^<<v24-28-7,7>>^ No entanto, ouve, por favor, esta palavra que falo aos teus ouvidos e aos ouvidos de todo o povo.
+
+[[v24-28-8]]
+
+^<<v24-28-8,8>>^ No que se refere aos profetas que vieram a estar antes de mim e antes de ti, de há muito tempo, eles também costumavam profetizar a respeito de muitas terras e a respeito de grandes reinos, de guerra, e de calamidade,^&#42;1^ e de pestilência.
+
+[NOTE]
+====
+. “Calamidade”, MTSyVg; 23 mss. hebr.: “fome”.
+====
+
+[[v24-28-9]]
+
+^<<v24-28-9,9>>^ No que se refere ao profeta que profetiza de paz, quando a palavra do profeta se cumprir, o profeta a quem Jeová verdadeiramente enviou tornar-se-á conhecido.”
+
+[[v24-28-10]]
+
+^<<v24-28-10,10>>^ Então Hananias, o profeta, tirou a canga do pescoço de Jeremias, o profeta, e quebrou-a.
+
+[[v24-28-11]]
+
+^<<v24-28-11,11>>^ E Hananias prosseguiu, dizendo perante os olhos de todo o povo: “Assim disse Jeová: ‘Exatamente assim quebrarei o jugo de Nabucodonosor, rei de Babilônia, dentro de mais dois anos inteiros, de cima do pescoço de todas as nações.’” E Jeremias, o profeta, passou a seguir seu caminho.
+
+[[v24-28-12]]
+
+^<<v24-28-12,12>>^ Então veio a haver para Jeremias a palavra de Jeová, depois de Hananias, o profeta, ter quebrado a canga de cima do pescoço de Jeremias, o profeta, dizendo:
+
+[[v24-28-13]]
+
+^<<v24-28-13,13>>^ “Vai,^&#42;1^ e tens de dizer a Hananias: ‘Assim disse Jeová: “Quebraste cangas de madeira, e em lugar delas terás de fazer cangas de ferro.”
+
+[NOTE]
+====
+. Veja 2:2 n.: “Vai.”
+====
+
+[[v24-28-14]]
+
+^<<v24-28-14,14>>^ Pois assim disse Jeová dos exércitos, o Deus de Israel: “Vou pôr um jugo de ferro no pescoço de todas estas nações, para servirem a Nabucodonosor, rei de Babilônia; e terão de servi-lo. E vou dar-lhe até mesmo os animais selváticos do campo.”’”
+
+[[v24-28-15]]
+
+^<<v24-28-15,15>>^ E Jeremias, o profeta, prosseguiu, dizendo a Hananias, o profeta: “Escuta, por favor, ó Hananias! Jeová não te enviou, mas tu mesmo fizeste este povo confiar numa falsidade.
+
+[[v24-28-16]]
+
+^<<v24-28-16,16>>^ Portanto, assim disse Jeová: ‘Eis que te mando embora de cima da superfície do solo. Este ano, tu mesmo terás de morrer, pois falaste em franca revolta contra Jeová.’”
+
+[[v24-28-17]]
+
+^<<v24-28-17,17>>^ Assim, Hananias, o profeta, morreu naquele ano, no sétimo mês.
+
+'''
+
+xref:024-jeremias/024-jeremias-027.adoc#v24-27-0[&#60; Capítulo Anterior] | <<v24-28-0,Topo>> | xref:024-jeremias/024-jeremias-029.adoc#v24-29-0[Próximo Capítulo &#62;]

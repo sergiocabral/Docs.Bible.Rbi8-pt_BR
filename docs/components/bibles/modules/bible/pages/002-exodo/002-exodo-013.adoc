@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v2-13-0]]
+=== Êxodo, 13
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-13-1]]
+
+^<<v2-13-1,1>>^ E Jeová falou mais a Moisés, dizendo:
+
+[[v2-13-2]]
+
+^<<v2-13-2,2>>^ “Santifica para mim todo primogênito macho que abrir cada madre, entre os filhos de Israel, entre homens e animais. É meu.”
+
+[[v2-13-3]]
+
+^<<v2-13-3,3>>^ E Moisés passou a dizer ao povo: “Haja lembrança^&#42;1^ deste dia em que saístes do Egito, da casa dos escravos, porque Jeová^&#42;2^ vos fez sair daqui pela força da mão. De modo que não se pode comer nada levedado.
+
+[NOTE]
+====
+. Veja 20:8 n.
+. Hebr.: Yeho·wáh. Veja Ap. 1A.
+====
+
+[[v2-13-4]]
+
+^<<v2-13-4,4>>^ Hoje estais saindo no mês de abibe.^&#42;1^
+
+[NOTE]
+====
+. “Abibe”, significando “Espigas Verdes”, as espigas sendo maduras, mas ainda não endurecidas. Abibe corresponde à segunda parte de março e à primeira parte de abril. Após o exílio dos judeus em Babilônia passou a ser chamado de nisã. Veja Ap. 8B.
+====
+
+[[v2-13-5]]
+
+^<<v2-13-5,5>>^ E terá de acontecer que, quando Jeová te introduzir na terra dos cananeus, e dos hititas, e dos amorreus, e dos heveus, e dos jebuseus, da qual jurou aos teus antepassados que ta havia de dar, uma terra que mana leite e mel, então terás de prestar este serviço^&#42;1^ neste mês.
+
+[NOTE]
+====
+. “Serviço (aspecto da adoração).” Hebr.: ha·‛avo·dháh; gr.: la·treí·an, “serviço sagrado”. Veja 12:25 n.
+====
+
+[[v2-13-6]]
+
+^<<v2-13-6,6>>^ Sete dias deverás comer pães não fermentados, e no sétimo dia há uma festividade para Jeová.
+
+[[v2-13-7]]
+
+^<<v2-13-7,7>>^ Devem ser comidos pães não fermentados, pelos sete dias; e nada levedado deve ser visto contigo e nenhuma massa lêveda deve ser vista contigo dentro de todos os teus termos.
+
+[[v2-13-8]]
+
+^<<v2-13-8,8>>^ E naquele dia terás de contar a teu filho, dizendo: ‘É por causa daquilo que Jeová fez para mim quando saí do Egito.’
+
+[[v2-13-9]]
+
+^<<v2-13-9,9>>^ E terá de servir-te de sinal na tua mão e de recordação entre os teus olhos, a fim de que se mostre que a lei de Jeová está na tua boca; porque foi por uma forte mão que Jeová te fez sair do Egito.
+
+[[v2-13-10]]
+
+^<<v2-13-10,10>>^ E terás de guardar este estatuto no seu tempo designado, de ano em ano.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “de dias a dias”.
+====
+
+[[v2-13-11]]
+
+^<<v2-13-11,11>>^ “E terá de acontecer que, quando Jeová te introduzir na terra dos cananeus, assim como jurou a ti e a teus antepassados, e quando a der a ti,
+
+[[v2-13-12]]
+
+^<<v2-13-12,12>>^ então terás de devotar a Jeová^&#42;1^ todo aquele que abrir a madre, e todo o primeiro nascido, cria de animal, que chegar a ser teu. Os machos pertencem a Jeová.
+
+[NOTE]
+====
+. “A Jeová.” Hebr.: la·Yho·wáh. Veja Ap. 1A.
+====
+
+[[v2-13-13]]
+
+^<<v2-13-13,13>>^ E todo jumento primeiro nascido deverás remir com um ovídeo, e se não o remires, então terás de quebrar-lhe a nuca. E deverás remir todo primogênito de homem entre os teus filhos.
+
+[[v2-13-14]]
+
+^<<v2-13-14,14>>^ “E terá de acontecer que, caso teu filho te indague mais tarde, dizendo: ‘Que significa isso?’ então terás de dizer-lhe: ‘Pela força da mão Jeová nos fez sair do Egito, da casa dos escravos.
+
+[[v2-13-15]]
+
+^<<v2-13-15,15>>^ E sucedeu que Faraó se mostrou obstinado quanto a nos mandar embora, e Jeová^&#42;1^ passou a matar todo primogênito na terra do Egito, desde o primogênito de homem até o primogênito de animal. É por isso que estou sacrificando a Jeová todos os machos que abrem a madre e estou remindo todo primogênito dos meus filhos.’
+
+[NOTE]
+====
+. Hebr.: Yeho·wáh. Veja Ap. 1A.
+====
+
+[[v2-13-16]]
+
+^<<v2-13-16,16>>^ E terá de servir de sinal na tua mão e de frontal entre os teus olhos, porque foi pela força da mão que Jeová nos fez sair do Egito.”
+
+[[v2-13-17]]
+
+^<<v2-13-17,17>>^ E sucedeu, no tempo em que Faraó mandou o povo embora, que Deus não os guiou pelo caminho da terra dos filisteus, só porque era perto, pois Deus disse: “Talvez o povo deplore [isso] ao virem a guerra e certamente retornem ao Egito.”
+
+[[v2-13-18]]
+
+^<<v2-13-18,18>>^ Deus fez por isso o povo dar volta pelo caminho do ermo do Mar Vermelho. Mas, foi em formação de batalha^&#42;1^ que os filhos de Israel subiram da terra do Egito.
+
+[NOTE]
+====
+. “Em formação de batalha”, possivelmente como um exército em cinco partes, com vanguarda, retaguarda, tropa principal e duas alas.
+====
+
+[[v2-13-19]]
+
+^<<v2-13-19,19>>^ E Moisés levou consigo os ossos de José, porque este havia feito os filhos de Israel jurar solenemente, dizendo: “Deus, sem falta, voltará a sua atenção para vós e tereis de levar meus ossos convosco para fora daqui.”
+
+[[v2-13-20]]
+
+^<<v2-13-20,20>>^ E passaram a partir de Sucote e a acampar-se em Etão, na extremidade do ermo.
+
+[[v2-13-21]]
+
+^<<v2-13-21,21>>^ E Jeová ia na frente deles, de dia numa coluna de nuvem, para guiá-los pelo caminho, e de noite numa coluna de fogo, para dar-lhes luz, para irem de dia e de noite.
+
+[[v2-13-22]]
+
+^<<v2-13-22,22>>^ E a coluna de nuvem não se afastava de diante do povo durante o dia, nem a coluna de fogo durante a noite.
+
+'''
+
+xref:002-exodo/002-exodo-012.adoc#v2-12-0[&#60; Capítulo Anterior] | <<v2-13-0,Topo>> | xref:002-exodo/002-exodo-014.adoc#v2-14-0[Próximo Capítulo &#62;]

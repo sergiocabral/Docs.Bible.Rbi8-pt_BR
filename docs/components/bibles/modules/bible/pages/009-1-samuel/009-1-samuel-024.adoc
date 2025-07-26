@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v9-24-0]]
+=== 1 Samuel, 24
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-24-1]]
+
+^<<v9-24-1,1>>^ E sucedeu que, assim que Saul voltou de ir atrás dos filisteus, vieram informá-lo, dizendo: “Eis que Davi está no ermo de En-Gedi.”
+
+[[v9-24-2]]
+
+^<<v9-24-2,2>>^ E Saul passou a tomar três mil homens seletos dentre todo o Israel e a ir procurar Davi e seus homens nas rochas calvas dos cabritos-monteses.
+
+[[v9-24-3]]
+
+^<<v9-24-3,3>>^ Por fim chegou aos redis de pedra para ovelhas ao longo da estrada, onde havia uma caverna. Saul entrou, pois, para satisfazer uma necessidade natural,^&#42;1^ enquanto Davi e seus homens se achavam sentados nas partes mais recônditas da caverna.
+
+[NOTE]
+====
+. Lit.: “entrou para cobrir seus pés”.
+====
+
+[[v9-24-4]]
+
+^<<v9-24-4,4>>^ E os homens de Davi começaram a dizer-lhe: “Eis o dia em que Jeová te diz: ‘Eis que te entrego teu inimigo na mão e tens de fazer-lhe conforme parecer bem aos teus olhos.’” Davi levantou-se, pois, e decepou quietamente a aba da túnica sem mangas que pertencia a Saul.
+
+[[v9-24-5]]
+
+^<<v9-24-5,5>>^ Sucedeu, porém, após isso, que o coração de Davi batia por ele ter decepado a aba [da túnica sem mangas]^&#42;1^ que pertencia a Saul.
+
+[NOTE]
+====
+. “Aba da túnica sem mangas”, TLXXSyVg e oito mss. hebr.; M: “aba”.
+====
+
+[[v9-24-6]]
+
+^<<v9-24-6,6>>^ Por isso ele disse aos seus homens: “É inconcebível, da minha parte, do ponto de vista de Jeová, fazer eu tal coisa a meu senhor, o ungido^&#42;1^ de Jeová, estendendo a minha mão contra ele, pois ele é o ungido de Jeová.”
+
+[NOTE]
+====
+. “A meu senhor, o ungido de.” Hebr.: la’·dho·ní lim·shí·ahh; gr.: toi ky·rí·oi mou toi khri·stoí; sir.: lemari lam·shi·hheh; lat.: dó·mi·no mé·o chrí·sto.
+====
+
+[[v9-24-7]]
+
+^<<v9-24-7,7>>^ Por conseguinte, Davi dispersou os seus homens com estas palavras e não lhes permitiu que se levantassem contra Saul. Quanto a Saul, levantou-se da caverna e seguiu seu caminho.
+
+[[v9-24-8]]
+
+^<<v9-24-8,8>>^ Assim, Davi levantou-se depois e saiu da caverna, e clamou atrás de Saul, dizendo: “Meu senhor, o rei!” Então Saul olhou atrás de si, e Davi passou a inclinar-se com o rosto por terra e a prostrar-se.
+
+[[v9-24-9]]
+
+^<<v9-24-9,9>>^ E Davi prosseguiu, dizendo a Saul: “Por que escutas as palavras de homem, dizendo: ‘Eis que Davi procura o teu prejuízo’?
+
+[[v9-24-10]]
+
+^<<v9-24-10,10>>^ Eis que neste dia os teus olhos viram como Jeová te entregou hoje na minha mão, na caverna; e alguém disse que te matasse, mas eu tive dó de ti e disse: ‘Não estenderei a minha mão contra o meu senhor, pois ele é o ungido de Jeová.’
+
+[[v9-24-11]]
+
+^<<v9-24-11,11>>^ E vê, meu pai, sim, vê a aba da tua túnica sem mangas na minha mão, pois quando decepei a aba da tua túnica sem mangas não te matei. Sabe e vê que não há maldade nem revolta na minha mão e eu não pequei contra ti, ao passo que tu estás de emboscada contra a minha alma para a tirar.
+
+[[v9-24-12]]
+
+^<<v9-24-12,12>>^ Julgue Jeová entre mim e ti; e Jeová terá de tomar vingança de ti por mim, mas a minha própria mão não virá a estar sobre ti.
+
+[[v9-24-13]]
+
+^<<v9-24-13,13>>^ Assim como diz o provérbio dos antigos: ‘Dos iníquos sairá iniqüidade’, mas a minha própria mão não virá a estar sobre ti.
+
+[[v9-24-14]]
+
+^<<v9-24-14,14>>^ Atrás de quem saiu o rei de Israel? No encalço de quem vais? Atrás de um cão morto? Atrás de uma única pulga?
+
+[[v9-24-15]]
+
+^<<v9-24-15,15>>^ E Jeová terá de tornar-se juiz e terá de julgar entre mim e ti, e ele verá e pleiteará a minha causa e me julgará [para me livrar] da tua mão.”
+
+[[v9-24-16]]
+
+^<<v9-24-16,16>>^ E sucedeu que, assim que Davi acabou de falar estas palavras a Saul, Saul passou a dizer: “É esta a tua voz, meu filho Davi?” E Saul começou a levantar a sua própria voz e a chorar.
+
+[[v9-24-17]]
+
+^<<v9-24-17,17>>^ E prosseguiu, dizendo a Davi: “Tu és mais justo do que eu, porque foste tu que me fizeste bem e fui eu que te fiz mal.
+
+[[v9-24-18]]
+
+^<<v9-24-18,18>>^ E tu — tu me disseste hoje o bem que fizeste no que se refere a mim, visto que Jeová me entregou na tua mão e tu não me mataste.
+
+[[v9-24-19]]
+
+^<<v9-24-19,19>>^ Ora, caso um homem encontre seu inimigo, porventura o mandará embora numa boa estrada? De modo que o próprio Jeová te retribuirá com o bem, devido ao fato de que neste dia o fizeste a mim.
+
+[[v9-24-20]]
+
+^<<v9-24-20,20>>^ E agora, eis que bem sei que sem falta reinarás como rei e que na tua mão o reino de Israel há de perdurar.
+
+[[v9-24-21]]
+
+^<<v9-24-21,21>>^ Portanto, agora jura-me deveras por Jeová que não deceparás a minha descendência depois de mim e que não aniquilarás o meu nome da casa de meu pai.”
+
+[[v9-24-22]]
+
+^<<v9-24-22,22>>^ Por conseguinte, Davi jurou a Saul, indo depois Saul para o seu lar. Quanto a Davi e seus homens, subiram ao lugar de difícil acesso.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-023.adoc#v9-23-0[&#60; Capítulo Anterior] | <<v9-24-0,Topo>> | xref:009-1-samuel/009-1-samuel-025.adoc#v9-25-0[Próximo Capítulo &#62;]

@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v28-13-0]]
+=== Oseias, 13
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v28-13-1]]
+
+^<<v28-13-1,1>>^ “Quando Efraim falou, houve tremor; ele mesmo carregou [peso] em Israel. Mas passou a tornar-se culpado com respeito a Baal e a morrer.
+
+[[v28-13-2]]
+
+^<<v28-13-2,2>>^ E agora cometem pecado adicional e fazem para si uma estátua fundida da sua prata, ídolos segundo o seu próprio entendimento, trabalho de artífices, na inteireza. Dizem-lhes: ‘Que os sacrificadores que são homens^&#42;1^ beijem meros bezerros.’
+
+[NOTE]
+====
+. Lit.: “sacrificadores do homem terreno [hebr.: ’a·dhám]”.
+====
+
+[[v28-13-3]]
+
+^<<v28-13-3,3>>^ Por isso eles se tornarão como as nuvens da madrugada e como o orvalho que logo desaparece; como a pragana levada de cima da eira pelo vendaval e como a fumaça procedente da abertura [no telhado].
+
+[[v28-13-4]]
+
+^<<v28-13-4,4>>^ “Mas eu sou Jeová, teu Deus,^&#42;1^ desde a terra do Egito, e não houve Deus além de mim que conhecesses; e não houve salvador, exceto eu.
+
+[NOTE]
+====
+. “Teu Deus.” Hebr.: ’Elo·heí·kha.
+====
+
+[[v28-13-5]]
+
+^<<v28-13-5,5>>^ Eu mesmo te conheci no ermo, na terra das febres.^&#42;1^
+
+[NOTE]
+====
+. Ou “secas”.
+====
+
+[[v28-13-6]]
+
+^<<v28-13-6,6>>^ Fartaram-se também segundo o seu pasto. Fartaram-se e seu coração começou a enaltecer-se. Por isso se esqueceram de mim.
+
+[[v28-13-7]]
+
+^<<v28-13-7,7>>^ E eu me tornarei para eles qual leão novo. Qual leopardo junto ao caminho ficarei à espreita.
+
+[[v28-13-8]]
+
+^<<v28-13-8,8>>^ Irei de encontro a eles como a ursa que perdeu seus filhotes, e rasgar-lhes-ei o envoltório do coração. E ali os devorarei qual leão; a própria fera do campo os dilacerará.
+
+[[v28-13-9]]
+
+^<<v28-13-9,9>>^ Isso certamente te arruinará, ó Israel, porque foi contra mim, contra teu ajudador.
+
+[[v28-13-10]]
+
+^<<v28-13-10,10>>^ “Onde, então, está o teu rei, para que te salve em todas as tuas cidades, e teus juízes, [dos] quais disseste: ‘Dá-me deveras um rei e príncipes’?
+
+[[v28-13-11]]
+
+^<<v28-13-11,11>>^ Passei a dar-te um rei na minha ira e [o] tirarei na minha fúria.
+
+[[v28-13-12]]
+
+^<<v28-13-12,12>>^ “O erro de Efraim está embrulhado, seu pecado está entesourado.
+
+[[v28-13-13]]
+
+^<<v28-13-13,13>>^ O que virá a ele são as dores agudas de parto da parturiente. Ele é filho que não é sábio, pois na época não ficará parado por ocasião do irrompimento dos filhos [da madre].
+
+[[v28-13-14]]
+
+^<<v28-13-14,14>>^ “Da mão do Seol^&#42;1^ os remirei; da morte^&#42;2^ os recuperarei.^&#42;3^ Onde estão os teus aguilhões, ó Morte? Onde está a tua qualidade destrutiva, ó Seol?^&#42;4^ A própria compaixão ficará escondida dos meus olhos.
+
+[NOTE]
+====
+. “Seol.” Hebr.: she’óhl; gr.: haí·dou; lat.: mór·tis, “morte”. Veja Ap. 4B.
+. “Da morte.” Hebr.: mim·má·weth; gr.: ek tha·ná·tou; lat.: de mór·te.
+. Ou “os resgatarei”. Hebr.: ’egh·’a·lém.
+. “Ó Seol.” Hebr.: she’óhl; gr.: haí·de; lat.: in·fér·ne.
+====
+
+[[v28-13-15]]
+
+^<<v28-13-15,15>>^ “Caso ele mesmo, como filho das canas, mostre ser frutífero, virá um vento oriental, o vento^&#42;1^ de Jeová. Sobe do ermo e secará a sua fonte e drenará o seu manancial. Este rapinará o tesouro de todos os objetos desejáveis.
+
+[NOTE]
+====
+. “Vento.” Hebr.: rú·ahh; lat.: vén·tum. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v28-13-16]]
+
+^<<v28-13-16,16>>^ “Samaria será tida por culpada, pois agiu rebeldemente contra o seu Deus.^&#42;1^ Cairão à espada. Suas próprias crianças serão despedaçadas e as próprias mulheres grávidas deles serão estripadas.”
+
+[NOTE]
+====
+. “Contra o seu Deus.” Hebr.: bE’·lo·heí·ha.
+====
+
+'''
+
+xref:028-oseias/028-oseias-012.adoc#v28-12-0[&#60; Capítulo Anterior] | <<v28-13-0,Topo>> | xref:028-oseias/028-oseias-014.adoc#v28-14-0[Próximo Capítulo &#62;]

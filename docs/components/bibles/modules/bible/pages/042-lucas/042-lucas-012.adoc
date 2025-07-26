@@ -1,0 +1,314 @@
+include::./index.adoc[]
+
+[[v42-12-0]]
+=== Lucas, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v42-12-1]]
+
+^<<v42-12-1,1>>^ Entrementes, havendo-se ajuntado uma multidão de tantos milhares,^&#42;1^ que se pisavam uns aos outros, ele principiou a dizer, primeiro aos discípulos: “Vigiai-vos do fermento dos fariseus, que é a hipocrisia.
+
+[NOTE]
+====
+. Lit.: “das miríades”.
+====
+
+[[v42-12-2]]
+
+^<<v42-12-2,2>>^ Mas não há nada cuidadosamente oculto que não venha a ser revelado, nem secreto que não venha a ser conhecido.
+
+[[v42-12-3]]
+
+^<<v42-12-3,3>>^ Portanto, as coisas que dizeis na escuridão, serão ouvidas na luz,^&#42;1^ e o que sussurrais^&#42;2^ em salas particulares, será pregado dos altos das casas.
+
+[NOTE]
+====
+. Ou “em público; sem privatividade”.
+. Lit.: “falastes ao ouvido”.
+====
+
+[[v42-12-4]]
+
+^<<v42-12-4,4>>^ Além disso, eu vos digo, meus amigos: Não temais os que matam o corpo e depois disso não podem fazer mais nada.
+
+[[v42-12-5]]
+
+^<<v42-12-5,5>>^ Mas, eu vos indicarei quem é para temer: Temei aquele que, depois de matar, tem autoridade para lançar na Geena.^&#42;1^ Sim, eu vos digo, temei a Este.
+
+[NOTE]
+====
+. Veja Ap. 4C.
+====
+
+[[v42-12-6]]
+
+^<<v42-12-6,6>>^ Não se vendem cinco pardais por duas moedas de pequeno valor?^&#42;1^ Contudo, nem mesmo um deles está esquecido diante de Deus.
+
+[NOTE]
+====
+. Lit.: “por dois asses (assários)”. O asse era a décima sexta parte de um denário. Veja Ap. 8A.
+====
+
+[[v42-12-7]]
+
+^<<v42-12-7,7>>^ Mas, até mesmo os cabelos de vossas cabeças estão todos contados. Não temais; vós valeis mais do que muitos pardais.
+
+[[v42-12-8]]
+
+^<<v42-12-8,8>>^ “Eu vos digo, pois: Todo aquele que confessar perante os homens [estar em] união comigo, o Filho do homem também confessará, perante os anjos de Deus, [estar em] união com ele.
+
+[[v42-12-9]]
+
+^<<v42-12-9,9>>^ Mas aquele que me repudiar perante os homens será repudiado perante os anjos de Deus.
+
+[[v42-12-10]]
+
+^<<v42-12-10,10>>^ E a todo aquele que disser uma palavra contra o Filho do homem, ser-lhe-á isso perdoado; mas a quem blasfemar contra o espírito santo, não lhe será isso perdoado.
+
+[[v42-12-11]]
+
+^<<v42-12-11,11>>^ Porém, quando vos levarem perante assembléias públicas,^&#42;1^ e [perante] funcionários do governo e autoridades, não fiqueis ansiosos quanto a como ou o que^&#42;2^ haveis de falar em defesa, ou o que haveis de dizer;
+
+[NOTE]
+====
+. Lit.: “sinagogas”.
+. “Como ou o que”, אABVg; DItSyc,p: “como”; Sys: “o que”.
+====
+
+[[v42-12-12]]
+
+^<<v42-12-12,12>>^ pois o espírito santo vos ensinará naquela mesma hora as coisas que deveis dizer.”
+
+[[v42-12-13]]
+
+^<<v42-12-13,13>>^ Disse-lhe então um dos da multidão: “Instrutor, dize a meu irmão que divida comigo a herança.”
+
+[[v42-12-14]]
+
+^<<v42-12-14,14>>^ Ele lhe disse: “Homem, quem me designou juiz ou partidor^&#42;1^ sobre vós?”
+
+[NOTE]
+====
+. Ou “repartidor”.
+====
+
+[[v42-12-15]]
+
+^<<v42-12-15,15>>^ Então lhes disse: “Mantende os olhos abertos e guardai-vos de toda sorte de cobiça, porque mesmo quando alguém tem abundância, sua vida não vem das coisas que possui.”
+
+[[v42-12-16]]
+
+^<<v42-12-16,16>>^ Com isso contou-lhes uma ilustração, dizendo: “A terra de certo homem rico produziu bem.
+
+[[v42-12-17]]
+
+^<<v42-12-17,17>>^ Conseqüentemente, ele começou a raciocinar no seu íntimo, dizendo: ‘Que farei, agora que não tenho onde ajuntar as minhas safras?’
+
+[[v42-12-18]]
+
+^<<v42-12-18,18>>^ De modo que ele disse: ‘Farei o seguinte: Derrubarei os meus celeiros e construirei maiores, e ali ajuntarei todos os meus cereais e todas as minhas coisas boas;
+
+[[v42-12-19]]
+
+^<<v42-12-19,19>>^ e direi à minha alma: “Alma, tens muitas coisas boas acumuladas para muitos anos; folga, come, bebe, regala-te.”’
+
+[[v42-12-20]]
+
+^<<v42-12-20,20>>^ Mas Deus disse-lhe: ‘Desarrazoado, esta noite te reclamarão a tua alma.^&#42;1^ Quem terá então as coisas que armazenaste?’
+
+[NOTE]
+====
+. Ou “vida”. Gr.: psy·khén; J17,18,22(hebr.): naf·shekhá (de né·fesh).
+====
+
+[[v42-12-21]]
+
+^<<v42-12-21,21>>^ Assim é com o homem que acumula para si tesouro, mas não é rico para com Deus.”
+
+[[v42-12-22]]
+
+^<<v42-12-22,22>>^ Ele disse então aos seus discípulos: “Por causa disso eu vos digo: Deixai de estar ansiosos pelas vossas almas, quanto a que haveis de comer, ou pelos vossos corpos, quanto a que haveis de vestir.
+
+[[v42-12-23]]
+
+^<<v42-12-23,23>>^ Pois a alma vale mais do que o alimento e o corpo mais do que o vestuário.
+
+[[v42-12-24]]
+
+^<<v42-12-24,24>>^ Notai bem que os corvos nem semeiam nem ceifam, e que eles não têm nem palheiro nem celeiro, contudo, Deus os alimenta. De quanto mais valor sois vós do que as aves?
+
+[[v42-12-25]]
+
+^<<v42-12-25,25>>^ Quem de vós, por estar ansioso, pode acrescentar um côvado à duração de sua vida?
+
+[[v42-12-26]]
+
+^<<v42-12-26,26>>^ Se vós, portanto, não podeis fazer a coisa mínima, por que estais ansiosos pelas coisas remanescentes?
+
+[[v42-12-27]]
+
+^<<v42-12-27,27>>^ Notai bem como os lírios crescem; eles nem labutam nem fiam; mas, eu vos digo: Nem mesmo Salomão, em toda a sua glória, vestia-se como um destes.
+
+[[v42-12-28]]
+
+^<<v42-12-28,28>>^ Então, se Deus reveste assim a vegetação do campo, que hoje existe e amanhã é lançada no forno, quanto mais vestirá ele antes a vós, ó vós com pouca fé!
+
+[[v42-12-29]]
+
+^<<v42-12-29,29>>^ Assim, deixai de buscar o que haveis de comer e o que haveis de beber, e deixai de estar em inquietação;
+
+[[v42-12-30]]
+
+^<<v42-12-30,30>>^ porque todas estas são as coisas pelas quais se empenham avidamente as nações do mundo, mas o vosso Pai sabe que necessitais destas coisas.
+
+[[v42-12-31]]
+
+^<<v42-12-31,31>>^ Não obstante, buscai continuamente o seu reino, e estas coisas vos serão acrescentadas.
+
+[[v42-12-32]]
+
+^<<v42-12-32,32>>^ “Não temas, pequeno rebanho, porque vosso Pai aprovou dar-vos o reino.
+
+[[v42-12-33]]
+
+^<<v42-12-33,33>>^ Vendei as coisas que vos pertencem e fazei dádivas de misericórdia. Fazei para vós mesmos bolsas que não se gastem, um tesouro que nunca falhe, nos céus, onde o ladrão não chega perto nem a traça consome.
+
+[[v42-12-34]]
+
+^<<v42-12-34,34>>^ Pois onde estiver o vosso tesouro, ali estará também o vosso coração.
+
+[[v42-12-35]]
+
+^<<v42-12-35,35>>^ “Os vossos lombos estejam cingidos e as vossas lâmpadas acesas;
+
+[[v42-12-36]]
+
+^<<v42-12-36,36>>^ e vós mesmos sede como homens que esperam pelo seu amo, ao voltar^&#42;1^ ele do casamento,^&#42;2^ para que, ao chegar e bater, possam imediatamente abrir-lhe.
+
+[NOTE]
+====
+. Ou “ir embora; partir”. Veja Ap. 5D.
+. Ou “da festa de casamento”.
+====
+
+[[v42-12-37]]
+
+^<<v42-12-37,37>>^ Felizes são aqueles escravos, cujo amo, ao chegar, os achar vigiando! Deveras, eu vos digo: Ele se cingirá e os fará recostar-se à mesa, e chegando-se, ministrar-lhes-á.
+
+[[v42-12-38]]
+
+^<<v42-12-38,38>>^ E, se chegar na segunda vigília,^&#42;1^ [ou] mesmo na terceira,^&#42;2^ e os achar assim, felizes são!
+
+[NOTE]
+====
+. De aproximadamente 21 horas até a meia-noite. Veja Mr 13:35 n.
+. Da meia-noite até por volta das 3 horas da madrugada.
+====
+
+[[v42-12-39]]
+
+^<<v42-12-39,39>>^ Mas, sabei isto, que, se o dono de casa tivesse sabido em que hora viria o ladrão, teria ficado vigiando e não teria deixado que se arrombasse a sua casa.
+
+[[v42-12-40]]
+
+^<<v42-12-40,40>>^ Vós também, mantende-vos prontos, porque o Filho do homem vem numa hora que não achais provável.”
+
+[[v42-12-41]]
+
+^<<v42-12-41,41>>^ Pedro disse então: “Senhor,^&#42;1^ dizes esta ilustração a nós ou também a todos?”
+
+[NOTE]
+====
+. Ou “Amo”.
+====
+
+[[v42-12-42]]
+
+^<<v42-12-42,42>>^ E o Senhor disse: “Quem é realmente o mordomo^&#42;1^ fiel, o discreto, a quem o seu amo há de designar sobre todo o corpo de assistentes, para que lhes dê a sua medida de mantimentos no tempo devido?
+
+[NOTE]
+====
+. Ou “administrador doméstico”. Gr.: oi·ko·nó·mos; lat.: di·spen·sá·tor; J17(hebr.): has·so·khén, “o mordomo”. Veja Gên 24:2 n.; Ef 1:10 n.: “administração”.
+====
+
+[[v42-12-43]]
+
+^<<v42-12-43,43>>^ Feliz é aquele escravo, se o seu amo, ao chegar, o achar fazendo isso!
+
+[[v42-12-44]]
+
+^<<v42-12-44,44>>^ Eu vos digo verazmente: Ele o designará sobre todos os seus bens.
+
+[[v42-12-45]]
+
+^<<v42-12-45,45>>^ Mas, se aquele escravo chegar a dizer no seu coração: ‘Meu amo demora em vir’, e principiar a espancar os servos e as servas, e a comer e beber, e ficar embriagado,
+
+[[v42-12-46]]
+
+^<<v42-12-46,46>>^ o amo daquele escravo virá num dia em que não [o] espera e numa hora que não sabe, e o punirá com a maior severidade^&#42;1^ e lhe determinará uma parte com os infiéis.
+
+[NOTE]
+====
+. Ou “o cortará em dois”.
+====
+
+[[v42-12-47]]
+
+^<<v42-12-47,47>>^ Então, aquele escravo, que entendeu a vontade de seu amo, mas não se aprontou, nem fez em harmonia com a sua vontade, será espancado com muitos golpes.
+
+[[v42-12-48]]
+
+^<<v42-12-48,48>>^ Mas aquele que não entendeu, e assim fez coisas que merecem golpes, será espancado com poucos. Deveras, de todo aquele a quem muito foi dado, muito se reclamará dele; e a quem encarregaram de muito, deste reclamarão mais do que o usual.
+
+[[v42-12-49]]
+
+^<<v42-12-49,49>>^ “Eu vim dar início a um fogo na terra, e que mais hei de desejar, se já foi aceso?
+
+[[v42-12-50]]
+
+^<<v42-12-50,50>>^ Deveras, tenho um batismo com que [devo] ser batizado, e como estou aflito até que termine!
+
+[[v42-12-51]]
+
+^<<v42-12-51,51>>^ Imaginais que vim dar paz na terra? Deveras, eu vos digo que não, mas antes divisão.
+
+[[v42-12-52]]
+
+^<<v42-12-52,52>>^ Pois, doravante haverá cinco divididos numa casa, três contra dois e dois contra três.
+
+[[v42-12-53]]
+
+^<<v42-12-53,53>>^ Estarão divididos, pai contra filho e filho contra pai, mãe contra filha e filha contra [sua] mãe, sogra contra sua nora e nora contra [sua] sogra.”
+
+[[v42-12-54]]
+
+^<<v42-12-54,54>>^ Prosseguiu então a dizer também às multidões: “Quando vedes uma nuvem surgindo nas regiões ocidentais, dizeis imediatamente: ‘Vem uma tempestade’, e assim se dá.
+
+[[v42-12-55]]
+
+^<<v42-12-55,55>>^ E quando vedes soprar um vento sulino, dizeis: ‘Haverá uma onda de calor’, e assim ocorre.
+
+[[v42-12-56]]
+
+^<<v42-12-56,56>>^ Hipócritas, sabeis examinar a aparência externa da terra e do céu, mas, como é que não sabeis examinar este tempo específico?
+
+[[v42-12-57]]
+
+^<<v42-12-57,57>>^ Por que não julgais também por vós mesmos o que é justo?
+
+[[v42-12-58]]
+
+^<<v42-12-58,58>>^ Por exemplo, quando vais com o teu adversário em juízo perante um governante, empenha-te, no caminho, a livrar-te da disputa com ele, para que nunca te arraste perante o juiz, e o juiz te entregue ao oficial do tribunal, e o oficial do tribunal te lance na prisão.
+
+[[v42-12-59]]
+
+^<<v42-12-59,59>>^ Eu vos digo: Certamente não sairás dali até pagares a última moeda pequena de muito pouco valor.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “o último lépton”. Veja Ap. 8A.
+====
+
+'''
+
+xref:042-lucas/042-lucas-011.adoc#v42-11-0[&#60; Capítulo Anterior] | <<v42-12-0,Topo>> | xref:042-lucas/042-lucas-013.adoc#v42-13-0[Próximo Capítulo &#62;]

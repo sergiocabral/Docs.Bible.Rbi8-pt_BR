@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v10-9-0]]
+=== 2 Samuel, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v10-9-1]]
+
+^<<v10-9-1,1>>^ E Davi passou a dizer: “Sobrou alguém da casa de Saul, a fim de que eu use de benevolência para com ele por causa de Jonatã?”
+
+[[v10-9-2]]
+
+^<<v10-9-2,2>>^ Ora, a casa de Saul tinha um servo cujo nome era Ziba. De modo que o chamaram a Davi e o rei lhe disse então: “És tu Ziba?” a que ele disse: “Sou teu servo.”
+
+[[v10-9-3]]
+
+^<<v10-9-3,3>>^ E o rei prosseguiu, dizendo: “Não sobrou mais ninguém da casa de Saul, a fim de que eu use da benevolência de Deus para com ele?” Em vista disso, Ziba disse ao rei: “Ainda há um filho de Jonatã, aleijado dos pés.”
+
+[[v10-9-4]]
+
+^<<v10-9-4,4>>^ Então o rei lhe disse: “Onde está ele?” Ziba disse, pois, ao rei: “Eis que está na casa de Maquir, filho de Amiel, em Lo-Debar.”
+
+[[v10-9-5]]
+
+^<<v10-9-5,5>>^ O Rei Davi mandou trazê-lo imediatamente da casa de Maquir, filho de Amiel, em Lo-Debar.
+
+[[v10-9-6]]
+
+^<<v10-9-6,6>>^ Quando Mefibosete, filho de Jonatã, filho de Saul, entrou até Davi, lançou-se imediatamente com a sua face [por terra] e prostrou-se. Davi disse então: “Mefibosete!” a que ele disse: “Eis o teu servo.”
+
+[[v10-9-7]]
+
+^<<v10-9-7,7>>^ E Davi prosseguiu, dizendo-lhe: “Não tenhas medo, pois sem falta usarei de benevolência para contigo por causa de Jonatã, teu pai; e terei de devolver-te todo o campo de Saul, teu avô,^&#42;1^ e tu mesmo comerás constantemente pão à minha mesa.”
+
+[NOTE]
+====
+. Ou “pai”.
+====
+
+[[v10-9-8]]
+
+^<<v10-9-8,8>>^ Nisso ele se prostrou e disse: “Que é o teu servo para teres virado a tua face para o cão morto tal como eu sou?”
+
+[[v10-9-9]]
+
+^<<v10-9-9,9>>^ O rei chamou então a Ziba, ajudante de Saul, e disse-lhe: “Tudo o que viera a pertencer a Saul e a toda a sua casa eu dou deveras ao neto^&#42;1^ do teu amo.
+
+[NOTE]
+====
+. Ou “filho”.
+====
+
+[[v10-9-10]]
+
+^<<v10-9-10,10>>^ E tens de cultivar-lhe o solo, tu e teus filhos, e teus servos, e tens de fazer a colheita e ela tem de servir de alimento^&#42;1^ para [os que pertencem ao] neto^&#42;2^ do teu amo,^&#42;3^ e terão de comer; mas o próprio Mefibosete, neto do teu amo, comerá constantemente pão à minha mesa.”
+Ora, Ziba tinha quinze filhos e vinte servos.
+
+[NOTE]
+====
+. Lit.: “pão”.
+. “Para a família”, LXXL.
+. “Teu amo.” Hebr.: ’adho·nei·kha, pl. de ’a·dhóhn, para denotar excelência.
+====
+
+[[v10-9-11]]
+
+^<<v10-9-11,11>>^ Portanto, Ziba disse ao rei: “Segundo tudo o que meu senhor, o rei, ordena ao seu servo, assim teu servo fará; mas, Mefibosete come à minha mesa^&#42;1^ como um dos filhos do rei.”
+
+[NOTE]
+====
+. “Minha mesa”, MVgc; LXX: “mesa de Davi”; Sy: “mesa do rei”.
+====
+
+[[v10-9-12]]
+
+^<<v10-9-12,12>>^ Ora, Mefibosete tinha um filho pequeno cujo nome era Mica, e todos os que moravam na casa de Ziba eram servos de Mefibosete.
+
+[[v10-9-13]]
+
+^<<v10-9-13,13>>^ E o próprio Mefibosete morava em Jerusalém, pois comia constantemente à mesa do rei; e ele era coxo de ambos os pés.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-008.adoc#v10-8-0[&#60; Capítulo Anterior] | <<v10-9-0,Topo>> | xref:010-2-samuel/010-2-samuel-010.adoc#v10-10-0[Próximo Capítulo &#62;]

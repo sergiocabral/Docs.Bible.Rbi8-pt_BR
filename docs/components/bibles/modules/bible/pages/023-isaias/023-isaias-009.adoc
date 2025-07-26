@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v23-9-0]]
+=== Isaías, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-9-1]]
+
+^<<v23-9-1,1>>^ No entanto, a obscuridade não será como quando a terra^&#42;1^ estava em aperto, como no tempo anterior, quando se tratava com desprezo a terra de Zebulão e a terra de Naftali, e quando, posteriormente, se fez que fosse honrada — o caminho junto ao mar, na região do Jordão, Galiléia^&#42;2^ das nações.^&#42;3^
+
+[NOTE]
+====
+. Lit.: “ela”, hebr. fem., isto é, a terra.
+. Ou “o circuito”. Hebr.: Gelíl; sir.: Geli·lo; gr.: Ga·li·laí·a; lat.: Ga·li·lé·ae. “Galiléia” veio posteriormente designar a província romana ao norte de Samaria.
+. MLXX terminam aqui o capítulo 8 com este versículo como o v. 23.
+====
+
+[[v23-9-2]]
+
+^<<v23-9-2,2>>^ O povo que andava na escuridão viu uma grande luz. Quanto aos que moram na terra de sombra tenebrosa, resplandeceu sobre eles a própria luz.
+
+[[v23-9-3]]
+
+^<<v23-9-3,3>>^ Fizeste populosa a nação; fizeste grande a alegria para ela.^&#42;1^ Alegraram-se diante de ti como que com a alegria no tempo da colheita, como os que jubilam ao dividirem o despojo.
+
+[NOTE]
+====
+. “Para ela”, MmargemTSy e cerca de 20 mss. hebr.
+====
+
+[[v23-9-4]]
+
+^<<v23-9-4,4>>^ Porque o jugo do seu fardo e o bastão sobre os seus ombros, a vara daquele que os compele a trabalhar, tu os fragmentaste como no dia de Midiã.
+
+[[v23-9-5]]
+
+^<<v23-9-5,5>>^ Porque toda bota daquele que anda pesadamente com tremores^&#42;1^ e a capa revolvida em sangue^&#42;2^ vieram a ser mesmo para a queima, para alimentar o fogo.
+
+[NOTE]
+====
+. Ou “chocalhadas; batidas”.
+. Lit.: “sangues”.
+====
+
+[[v23-9-6]]
+
+^<<v23-9-6,6>>^ Porque um menino nos nasceu, um filho se nos deu; e o domínio principesco^&#42;1^ virá a estar sobre o seu ombro. E será chamado pelo nome de Maravilhoso Conselheiro,^&#42;2^ Deus Poderoso,^&#42;3^ Pai Eterno,^&#42;4^ Príncipe da Paz.^&#42;5^
+
+[NOTE]
+====
+. Ou “o principado; o domínio como príncipe”. Hebr.: ham·mis·ráh; gr.: he ar·khé; lat.: prin·ci·pá·tus.
+. Lit.: “Maravilha (Milagre) de Conselheiro”, ou: “Maravilha, Conselheiro”, M; LXX: “O Anjo de Grandioso Conselho”; Sy: “Maravilha e Conselheiro.”
+. Ou “Divino Poderoso”. Hebr.: ’El Gib·bóhr (não ’El Shad·daí, como em Gên 17:1, cuja n. veja); Sy: “Deus Poderoso de tempos indefinidos”; lat.: Dé·us fór·tis.
+. Ou “Pai Para Sempre”. Hebr.: ’Avi·‛ádh.
+. Ou “Príncipe Pacífico”, isto é, um príncipe que dá paz.
+====
+
+[[v23-9-7]]
+
+^<<v23-9-7,7>>^ Da abundância do domínio principesco^&#42;1^ e da paz não haverá fim,^&#42;2^ sobre o trono de Davi e sobre o seu reino, para o^&#42;3^ estabelecer firmemente e para o amparar por meio do juízo e por meio da justiça, desde agora e por tempo indefinido. O próprio zelo de Jeová dos exércitos fará isso.
+
+[NOTE]
+====
+. “Do domínio principesco.” Hebr.: ham·mis·ráh. Aqui e no v. 6 existem as únicas ocorrências desta expressão.
+. Ou: “Seu domínio principesco certamente abundará, e não haverá fim da paz”, se for ditografia no M; LXX concorda com isso.
+. “O”, hebr. fem., referindo-se ao “reino”, hebr. fem.
+====
+
+[[v23-9-8]]
+
+^<<v23-9-8,8>>^ Havia uma palavra enviada por Jeová^&#42;1^ contra Jacó, e ela caiu sobre Israel.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v23-9-9]]
+
+^<<v23-9-9,9>>^ E o povo certamente [a] saberá, sim, todos eles, Efraim e os habitantes de Samaria, por causa da [sua] altivez e por causa da insolência de [seu] coração, ao dizerem:
+
+[[v23-9-10]]
+
+^<<v23-9-10,10>>^ “Tijolos é que caíram, mas é com pedra lavrada que construiremos. Sicômoros é que foram cortados, mas é com cedros que faremos a substituição.”
+
+[[v23-9-11]]
+
+^<<v23-9-11,11>>^ E Jeová porá alto os adversários de Rezim contra ele, e incitará os inimigos dele,
+
+[[v23-9-12]]
+
+^<<v23-9-12,12>>^ a Síria desde o oriente e os filisteus desde a retaguarda, e eles consumirão Israel de boca aberta. Sua ira não recuou em vista de tudo isso, mas a sua mão ainda está estendida.
+
+[[v23-9-13]]
+
+^<<v23-9-13,13>>^ E [os do] próprio povo não retornaram Àquele que os golpeava, e não buscaram a Jeová dos exércitos.
+
+[[v23-9-14]]
+
+^<<v23-9-14,14>>^ E Jeová decepará de Israel cabeça e cauda, broto e junco, num só dia.
+
+[[v23-9-15]]
+
+^<<v23-9-15,15>>^ O idoso e altamente respeitado^&#42;1^ é a cabeça, e o profeta que dá instrução falsa é a cauda.
+
+[NOTE]
+====
+. Lit.: “um de face erguida”.
+====
+
+[[v23-9-16]]
+
+^<<v23-9-16,16>>^ E os que encaminham este povo mostram ser os que [o] fazem vaguear; e os que estão sendo encaminhados [são] os que estão sendo confundidos.
+
+[[v23-9-17]]
+
+^<<v23-9-17,17>>^ Por isso é que Jeová^&#42;1^ não se alegrará nem mesmo com os jovens deles, e não terá misericórdia com os seus meninos órfãos de pai e com as suas viúvas; porque todos eles são apóstatas e malfeitores, e cada boca fala insensatez. Sua ira não recuou em vista de tudo isso, mas a sua mão ainda está estendida.
+
+[NOTE]
+====
+. Veja v. 8 n.
+====
+
+[[v23-9-18]]
+
+^<<v23-9-18,18>>^ Porque a iniqüidade ficou em chamas como um fogo; consumirá espinheiros e ervas daninhas. E pegará fogo nas moitas da floresta e elas serão levadas para cima como bulcão de fumaça.
+
+[[v23-9-19]]
+
+^<<v23-9-19,19>>^ Na fúria de Jeová dos exércitos incendiou-se^&#42;1^ a terra, e o povo tornar-se-á como pasto para o fogo. Ninguém terá compaixão nem mesmo de seu irmão.
+
+[NOTE]
+====
+. “Incendiou-se”, mediante uma correção do M em harmonia com TLXX; mediante outra correção: “desencaminhou-se”, similar à Vg.
+====
+
+[[v23-9-20]]
+
+^<<v23-9-20,20>>^ E um cortará à direita e certamente passará fome; e outro comerá à esquerda, e eles certamente não se fartarão. Comerão cada um a carne de seu próprio braço,
+
+[[v23-9-21]]
+
+^<<v23-9-21,21>>^ Manassés a Efraim, e Efraim a Manassés. Juntos serão contra Judá. Sua ira não recuou em vista de tudo isso, mas a sua mão ainda está estendida.
+
+'''
+
+xref:023-isaias/023-isaias-008.adoc#v23-8-0[&#60; Capítulo Anterior] | <<v23-9-0,Topo>> | xref:023-isaias/023-isaias-010.adoc#v23-10-0[Próximo Capítulo &#62;]

@@ -1,0 +1,300 @@
+include::./index.adoc[]
+
+[[v19-107-0]]
+=== Salmos, 107
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_LIVRO QUINTO_
+
+_(Salmos 107 - 150)_
+
+[[v19-107-1]]
+
+^<<v19-107-1,1>>^ Agradecei a Jeová, porque ele é bom;
+Pois a sua benevolência^&#42;1^ é por tempo indefinido.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-107-2]]
+
+^<<v19-107-2,2>>^ Digam assim os reivindicados de Jeová,
+Que ele reivindicou da mão do adversário
+
+[[v19-107-3]]
+
+^<<v19-107-3,3>>^ E que reuniu, sim, das terras,
+Do nascente e do poente,
+Do norte e do sul.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “do mar”, isto é, o Mar Vermelho ao sul.
+====
+
+[[v19-107-4]]
+
+^<<v19-107-4,4>>^ Vaguearam pelo ermo, pelo deserto;
+Não acharam caminho nenhum a uma cidade de habitação.
+
+[[v19-107-5]]
+
+^<<v19-107-5,5>>^ Estavam famintos, também sedentos;
+Sua própria alma neles começou a debilitar-se.
+
+[[v19-107-6]]
+
+^<<v19-107-6,6>>^ E na sua aflição clamavam a Jeová;
+Ele passou a livrá-los dos apertos em que estavam
+
+[[v19-107-7]]
+
+^<<v19-107-7,7>>^ E a fazê-los andar no caminho direito,
+Para que chegassem a uma cidade de habitação.
+
+[[v19-107-8]]
+
+^<<v19-107-8,8>>^ Oh! agradeça-se a Jeová a sua benevolência
+E as suas obras maravilhosas para com os filhos dos homens.^&#42;1^
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v19-107-9]]
+
+^<<v19-107-9,9>>^ Pois saciou a alma ressequida;
+E encheu a alma faminta de coisas boas.
+
+[[v19-107-10]]
+
+^<<v19-107-10,10>>^ Havia os que moravam em escuridão e em sombra tenebrosa,
+Prisioneiros em tribulação e em ferros.
+
+[[v19-107-11]]
+
+^<<v19-107-11,11>>^ Porque tinham sido rebeldes contra as declarações de Deus;^&#42;1^
+E tinham desrespeitado o conselho do Altíssimo.
+
+[NOTE]
+====
+. “As declarações de Deus.” Hebr.: ’im·reh-’Él.
+====
+
+[[v19-107-12]]
+
+^<<v19-107-12,12>>^ Portanto, passou a subjugar seu coração com desgraça;
+Eles tropeçaram, e não havia quem ajudasse.
+
+[[v19-107-13]]
+
+^<<v19-107-13,13>>^ E na sua aflição começaram a clamar a Jeová por ajuda;
+Como de costume, ele os salvou dos apertos em que estavam.
+
+[[v19-107-14]]
+
+^<<v19-107-14,14>>^ Passou a fazê-los sair da escuridão e da sombra tenebrosa
+E a romper até mesmo as suas ligaduras.
+
+[[v19-107-15]]
+
+^<<v19-107-15,15>>^ Oh! agradeça-se a Jeová a sua benevolência
+E as suas obras maravilhosas para com os filhos dos homens.
+
+[[v19-107-16]]
+
+^<<v19-107-16,16>>^ Pois ele destroçou as portas de cobre
+E cortou as próprias trancas de ferro.
+
+[[v19-107-17]]
+
+^<<v19-107-17,17>>^ Os que eram tolos, devido ao caminho da sua transgressão
+E devido aos seus erros, causaram-se finalmente tribulação.
+
+[[v19-107-18]]
+
+^<<v19-107-18,18>>^ A alma deles chegou a detestar até mesmo toda sorte de comida,
+E estavam chegando aos portões da morte.
+
+[[v19-107-19]]
+
+^<<v19-107-19,19>>^ E na sua aflição começaram a clamar a Jeová por ajuda;
+Como de costume, ele os salvou dos apertos em que estavam.
+
+[[v19-107-20]]
+
+^<<v19-107-20,20>>^ Passou a enviar a sua palavra e a curá-los,
+E a pô-los a salvo das suas covas.^&#42;1^
+
+[NOTE]
+====
+. Possivelmente: “e a prover-lhes a cova para suas vidas”.
+====
+
+[[v19-107-21]]
+
+^<<v19-107-21,21>>^ Oh! agradeça-se a Jeová a sua benevolência
+E as suas obras maravilhosas para com os filhos dos homens.^&#42;1^
+
+[NOTE]
+====
+. Veja v. 8 n.
+====
+
+[[v19-107-22]]
+
+^<<v19-107-22,22>>^ E ofereçam-se^&#42;1^ os sacrifícios de agradecimento
+E declarem-se os seus trabalhos com clamor jubilante.
+
+[NOTE]
+====
+. Lit.: “sacrifiquem-se”.
+====
+
+[[v19-107-23]]
+
+^<<v19-107-23,23>>^ Os que descem ao mar nos navios,
+Fazendo negócios nas vastas^&#42;1^ águas,
+
+[NOTE]
+====
+. Ou “muitas”.
+====
+
+[[v19-107-24]]
+
+^<<v19-107-24,24>>^ São os que têm visto os trabalhos de Jeová
+E as suas obras maravilhosas nas profundezas;
+
+[[v19-107-25]]
+
+^<<v19-107-25,25>>^ Como ele diz [a palavra] e faz surgir um vento^&#42;1^ tempestuoso,
+De modo que eleva as suas ondas.
+
+[NOTE]
+====
+. “Vento.” Hebr.: rú·ahh. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v19-107-26]]
+
+^<<v19-107-26,26>>^ Sobem aos céus,
+Descem às profundezas.^&#42;1^
+Por causa da calamidade, a própria alma deles se está dissolvendo.
+
+[NOTE]
+====
+. “Profundezas.” Hebr.: thehoh·móhth; LXXVg: “abismos”.
+====
+
+[[v19-107-27]]
+
+^<<v19-107-27,27>>^ Rodopiam e cambaleiam como um bêbedo,
+E até mesmo toda a sua sabedoria se mostra confusa.
+
+[[v19-107-28]]
+
+^<<v19-107-28,28>>^ E na sua aflição começam a clamar a Jeová,
+E ele os faz sair dos apertos em que estão.
+
+[[v19-107-29]]
+
+^<<v19-107-29,29>>^ Faz o vendaval parar em calmaria,
+De modo que as ondas do mar^&#42;1^ ficam quietas.
+
+[NOTE]
+====
+. “As ondas do mar”, Sy; MT: “ondas deles”, LXXVg: “suas ondas”.
+====
+
+[[v19-107-30]]
+
+^<<v19-107-30,30>>^ E eles se alegram por elas se aquietarem,
+E ele os guia ao porto do seu agrado.
+
+[[v19-107-31]]
+
+^<<v19-107-31,31>>^ Oh! agradeça-se a Jeová a sua benevolência
+E as suas obras maravilhosas para com os filhos dos homens.^&#42;1^
+
+[NOTE]
+====
+. Veja v. 8 n.
+====
+
+[[v19-107-32]]
+
+^<<v19-107-32,32>>^ E celebrem-no na congregação^&#42;1^ do povo;
+E louvem-no no assento dos homens idosos.
+
+[NOTE]
+====
+. “Na congregação do.” Hebr.: biq·hál; gr.: ek·kle·sí·ai; lat.: ec·clé·si·a.
+====
+
+[[v19-107-33]]
+
+^<<v19-107-33,33>>^ Ele converte rios em ermo
+E nascentes de água em terra sedenta,
+
+[[v19-107-34]]
+
+^<<v19-107-34,34>>^ Terra fértil em terra salgada,
+Devido à maldade dos que nela moram.
+
+[[v19-107-35]]
+
+^<<v19-107-35,35>>^ Ele converte o ermo num banhado aquoso de juncos,
+E a terra duma região árida em nascentes de água.
+
+[[v19-107-36]]
+
+^<<v19-107-36,36>>^ E ali faz morar os famintos,
+De modo que estabelecem firmemente uma cidade de habitação.
+
+[[v19-107-37]]
+
+^<<v19-107-37,37>>^ E semeiam campos e plantam vinhedos,
+Para que produzam safras frutíferas.
+
+[[v19-107-38]]
+
+^<<v19-107-38,38>>^ E ele os abençoa de modo que se tornam muitíssimos;
+E não deixa seu gado vacum ficar pouco.
+
+[[v19-107-39]]
+
+^<<v19-107-39,39>>^ E novamente se tornam poucos e se agacham
+Por causa da restrição, da calamidade e do pesar.
+
+[[v19-107-40]]
+
+^<<v19-107-40,40>>^ Ele derrama desprezo sobre nobres,
+Fazendo assim que vagueiem num lugar indistinto, onde não há caminho.
+
+[[v19-107-41]]
+
+^<<v19-107-41,41>>^ Mas protege^&#42;1^ da tribulação ao pobre
+E converte-o em famílias, igual a um rebanho.
+
+[NOTE]
+====
+. “Coloca no alto”, isto é, fora de alcance.
+====
+
+[[v19-107-42]]
+
+^<<v19-107-42,42>>^ Os retos [o] vêem e se alegram;
+Quanto a toda a injustiça, porém, tem de fechar a boca.
+
+[[v19-107-43]]
+
+^<<v19-107-43,43>>^ Quem é sábio? Tanto observará estas coisas
+Como se mostrará atento aos atos de benevolência de Jeová.
+
+'''
+
+xref:019-salmo/019-salmo-106.adoc#v19-106-0[&#60; Capítulo Anterior] | <<v19-107-0,Topo>> | xref:019-salmo/019-salmo-108.adoc#v19-108-0[Próximo Capítulo &#62;]

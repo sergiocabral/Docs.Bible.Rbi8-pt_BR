@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v13-13-0]]
+=== 1 Crônicas, 13
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v13-13-1]]
+
+^<<v13-13-1,1>>^ E Davi passou a consultar os chefes de mil e de cem, e cada líder;
+
+[[v13-13-2]]
+
+^<<v13-13-2,2>>^ e Davi prosseguiu, dizendo a toda a congregação^&#42;1^ de Israel: “Se vos parecer bem e for aceitável a Jeová, nosso Deus, enviemos [mensageiros] aos nossos irmãos restantes em todas as terras de Israel, e com eles [aos] sacerdotes e levitas nas suas cidades com pastios, para que se reúnam conosco.
+
+[NOTE]
+====
+. “Congregação.” Gr.: ek·kle·sí·ai, “eclésia”.
+====
+
+[[v13-13-3]]
+
+^<<v13-13-3,3>>^ E tornemos a trazer a nós a arca de nosso Deus.” Porque não se tinha cuidado dela nos dias de Saul.
+
+[[v13-13-4]]
+
+^<<v13-13-4,4>>^ Portanto, toda a congregação disse que se fizesse assim, porque a coisa parecia direita aos olhos de todo o povo.
+
+[[v13-13-5]]
+
+^<<v13-13-5,5>>^ Por conseguinte, Davi congregou todo o Israel, desde o rio do Egito^&#42;1^ até à entrada de Hamate,^&#42;2^ para trazer a arca do [verdadeiro] Deus desde Quiriate-Jearim.
+
+[NOTE]
+====
+. “Desde o rio do Egito.” Hebr.: min-shi·hhóhr Mits·rá·yim; Vgc(lat.): a Sí·hor Ae·gý·pti.
+. Lit.: “e até onde se entra em Hamate”.
+====
+
+[[v13-13-6]]
+
+^<<v13-13-6,6>>^ E Davi e todo o Israel passaram a subir a Baalá, a Quiriate-Jearim, que pertence a Judá, para fazerem subir de lá a arca do [verdadeiro] Deus, Jeová, sentado nos querubins, onde se invoca o [seu] nome.
+
+[[v13-13-7]]
+
+^<<v13-13-7,7>>^ Todavia, fizeram a arca do [verdadeiro] Deus andar numa carroça nova, desde a casa de Abinadabe, e Uzá e Aiô conduziam a carroça.
+
+[[v13-13-8]]
+
+^<<v13-13-8,8>>^ E Davi e todo o Israel festejavam perante o [verdadeiro] Deus com pleno poder, e com cânticos, e com harpas, e com instrumentos de cordas, e com pandeiros, e com címbalos, e com trombetas.
+
+[[v13-13-9]]
+
+^<<v13-13-9,9>>^ E chegaram aos poucos à eira de Quidom, e Uzá estendeu então a sua mão para segurar a Arca, porque os touros quase causaram um transtorno.
+
+[[v13-13-10]]
+
+^<<v13-13-10,10>>^ Então se acendeu a ira de Jeová contra Uzá, de modo que o golpeou por ter estendido a sua mão à Arca, e ele morreu ali perante Deus.
+
+[[v13-13-11]]
+
+^<<v13-13-11,11>>^ E Davi ficou irado por ter Jeová irrompido numa brecha contra Uzá; e aquele lugar veio a ser chamado de Peres-Uzá^&#42;1^ até o dia de hoje.
+
+[NOTE]
+====
+. Significando “Ruptura Contra Uzá”.
+====
+
+[[v13-13-12]]
+
+^<<v13-13-12,12>>^ E naquele dia ficou Davi com medo do [verdadeiro] Deus, dizendo: “Como trarei a mim a arca do [verdadeiro] Deus?”
+
+[[v13-13-13]]
+
+^<<v13-13-13,13>>^ E Davi não removeu a Arca para junto de si à Cidade de Davi, mas levou-a à casa de Obede-Edom, o geteu.
+
+[[v13-13-14]]
+
+^<<v13-13-14,14>>^ E a arca do [verdadeiro] Deus ficou morando três meses com os da casa de Obede-Edom, na sua casa; e Jeová abençoava os da casa de Obede-Edom e tudo o que era seu.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-012.adoc#v13-12-0[&#60; Capítulo Anterior] | <<v13-13-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-014.adoc#v13-14-0[Próximo Capítulo &#62;]

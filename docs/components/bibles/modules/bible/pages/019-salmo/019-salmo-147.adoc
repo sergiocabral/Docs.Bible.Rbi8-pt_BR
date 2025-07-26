@@ -1,0 +1,148 @@
+include::./index.adoc[]
+
+[[v19-147-0]]
+=== Salmos, 147
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-147-1]]
+
+^<<v19-147-1,1>>^ Louvai a Jah,^&#42;1^
+Pois é bom entoar melodias ao nosso Deus;
+Porque é agradável — louvor é apropriado.
+
+[NOTE]
+====
+. Veja 104:35 n.
+====
+
+[[v19-147-2]]
+
+^<<v19-147-2,2>>^ Jeová está construindo Jerusalém;
+Reunirá os dispersos de Israel.
+
+[[v19-147-3]]
+
+^<<v19-147-3,3>>^ Está sarando os quebrantados de coração
+E está pensando seus pontos doloridos.
+
+[[v19-147-4]]
+
+^<<v19-147-4,4>>^ Ele está contando o número das estrelas;
+A todas elas chama pelos [seus] nomes.
+
+[[v19-147-5]]
+
+^<<v19-147-5,5>>^ Nosso Senhor^&#42;1^ é grande e abundante em poder;
+Seu entendimento está além de ser narrado.
+
+[NOTE]
+====
+. “Nosso Senhor.” Hebr.: ’Adhoh·néh·nu, pl. de ’A·dhóhn, para denotar excelência, e com adjetivos no sing.: “grande” e “abundante”.
+====
+
+[[v19-147-6]]
+
+^<<v19-147-6,6>>^ Jeová está aliviando os mansos;
+Ele rebaixa os iníquos até a terra.
+
+[[v19-147-7]]
+
+^<<v19-147-7,7>>^ Respondei a Jeová com agradecimento;
+Entoai melodias na harpa ao nosso Deus,
+
+[[v19-147-8]]
+
+^<<v19-147-8,8>>^ Aquele que cobre os céus com nuvens,
+Aquele que prepara a chuva para a terra,
+Aquele que faz os montes brotar grama verde.
+
+[[v19-147-9]]
+
+^<<v19-147-9,9>>^ Dá aos animais o seu alimento,
+Aos filhotes de corvos^&#42;1^ que estão clamando.
+
+[NOTE]
+====
+. Lit.: “filhos do corvo”.
+====
+
+[[v19-147-10]]
+
+^<<v19-147-10,10>>^ Não é na potência do cavalo que ele se agrada,
+Nem tem prazer nas pernas do homem.^&#42;1^
+
+[NOTE]
+====
+. “Do homem.” Hebr.: ha·’ísh.
+====
+
+[[v19-147-11]]
+
+^<<v19-147-11,11>>^ Jeová tem prazer nos que o temem,
+Nos que esperam pela sua benevolência.
+
+[[v19-147-12]]
+
+^<<v19-147-12,12>>^ Gaba a Jeová, ó Jerusalém.
+Louva a teu Deus, ó Sião.
+
+[[v19-147-13]]
+
+^<<v19-147-13,13>>^ Pois ele fez fortes as trancas dos teus portões;
+Abençoou teus filhos no meio de ti.
+
+[[v19-147-14]]
+
+^<<v19-147-14,14>>^ Ele coloca a paz no teu território;
+Continua a fartar-te com a gordura^&#42;1^ do trigo.
+
+[NOTE]
+====
+. Ou “a melhor parte”.
+====
+
+[[v19-147-15]]
+
+^<<v19-147-15,15>>^ Envia à terra a sua declaração;
+Sua palavra corre com velocidade.
+
+[[v19-147-16]]
+
+^<<v19-147-16,16>>^ Dá a neve como lã;
+Dispersa a geada como cinzas.
+
+[[v19-147-17]]
+
+^<<v19-147-17,17>>^ Lança seu gelo como bocados.
+Diante do seu frio, quem é que pode ficar de pé?
+
+[[v19-147-18]]
+
+^<<v19-147-18,18>>^ Envia a sua palavra e derrete-os.
+Faz soprar seu vento;^&#42;1^
+As águas correm em filetes.
+
+[NOTE]
+====
+. “Seu vento.” Hebr.: ru·hhóh; gr.: pneú·ma; lat.: spí·ri·tus. Veja 146:4 n: “espírito”; Gên 1:2 n.: “ativa”.
+====
+
+[[v19-147-19]]
+
+^<<v19-147-19,19>>^ Conta a sua palavra a Jacó,
+Seus regulamentos e suas decisões judiciais a Israel.
+
+[[v19-147-20]]
+
+^<<v19-147-20,20>>^ Ele não fez assim com nenhuma outra nação;
+E quanto às [suas] decisões judiciais, não as conheceram.^&#42;1^
+Louvai a Jah!
+
+[NOTE]
+====
+. “E suas decisões judiciais ele não lhes deu a conhecer”, TLXXSyVg.
+====
+
+'''
+
+xref:019-salmo/019-salmo-146.adoc#v19-146-0[&#60; Capítulo Anterior] | <<v19-147-0,Topo>> | xref:019-salmo/019-salmo-148.adoc#v19-148-0[Próximo Capítulo &#62;]

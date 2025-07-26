@@ -1,0 +1,140 @@
+include::./index.adoc[]
+
+[[v38-1-0]]
+=== Zacarias, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v38-1-1]]
+
+^<<v38-1-1,1>>^ No oitavo mês, no segundo ano de Dario, veio a haver a palavra de Jeová para Zacarias, filho de Berequias,^&#42;1^ filho de Ido, o profeta, dizendo:
+
+[NOTE]
+====
+. “Berequias.” Hebr.: Be·rekh·yáh, como em 1Cr 3:20; 1Cr 9:16; Ne 3:4, 30; Ne 6:18.
+====
+
+[[v38-1-2]]
+
+^<<v38-1-2,2>>^ “Jeová ficou indignado com os vossos pais — muitíssimo.
+
+[[v38-1-3]]
+
+^<<v38-1-3,3>>^ “E tens de dizer-lhes: ‘Assim disse Jeová dos exércitos:^&#42;1^ “‘Retornai a mim’, é a pronunciação de Jeová^&#42;2^ dos exércitos, ‘e eu retornarei a vós’, disse Jeová^&#42;3^ dos exércitos.”’
+
+[NOTE]
+====
+. “Jeová dos exércitos.” Hebr.: Yehwáh tseva·’óhth. Esta expressão ocorre 53 vezes em Zacarias.
+. Veja Ap. 1C sec. 2.
+. Veja Ap. 1C sec. 2.
+====
+
+[[v38-1-4]]
+
+^<<v38-1-4,4>>^ “‘Não vos torneis como os vossos pais aos quais clamaram os profetas anteriores, dizendo: “Assim disse Jeová^&#42;1^ dos exércitos: ‘Por favor, recuai dos vossos maus caminhos e das vossas más ações.’”’
+“‘Mas não escutaram e não prestaram atenção a mim’, é a pronunciação de Jeová.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 2.
+====
+
+[[v38-1-5]]
+
+^<<v38-1-5,5>>^ “‘Quanto aos vossos pais, onde é que estão? E quanto aos profetas, continuaram a viver por tempo indefinido?
+
+[[v38-1-6]]
+
+^<<v38-1-6,6>>^ No entanto, no que se refere às minhas palavras e aos meus regulamentos que ordenei aos meus servos, os profetas, não alcançaram eles os vossos pais?’ Então retornaram e disseram: ‘Segundo aquilo que Jeová dos exércitos intentou fazer a nós, conforme os nossos caminhos e conforme as nossas ações, assim ele nos fez.’”
+
+[[v38-1-7]]
+
+^<<v38-1-7,7>>^ No vigésimo quarto dia do décimo primeiro mês, que é o mês de sebate, no segundo ano de Dario, veio a haver a palavra de Jeová para Zacarias, filho de Berequias,^&#42;1^ filho de Ido, o profeta, dizendo:
+
+[NOTE]
+====
+. “Berequias.” Hebr.: Be·rekh·yá·hu, como em 1Cr 6:39; 1Cr 15:17; 2Cr 28:12.
+====
+
+[[v38-1-8]]
+
+^<<v38-1-8,8>>^ “Vi [de] noite, e eis um homem^&#42;1^ cavalgando num cavalo vermelho, e ele estava parado ainda entre as murteiras que havia no lugar fundo;^&#42;2^ e atrás dele havia cavalos, vermelhos, rubros e brancos.”
+
+[NOTE]
+====
+. “Um homem.” Hebr.: ’ish.
+. Ou “no abismo”. Hebr.: bam·metsu·láh; lat.: in pro·fún·do; T: “em Babel (Babilônia)”.
+====
+
+[[v38-1-9]]
+
+^<<v38-1-9,9>>^ E eu disse então: “Quem são estes, meu senhor?”^&#42;1^
+A isso me disse o anjo^&#42;2^ que falava comigo: “Eu mesmo te mostrarei quem são estes.”
+
+[NOTE]
+====
+. “Meu senhor.” Hebr.: ’adho·ní; gr.: ký·ri·e; lat.: dó·mi·ne.
+. Ou “o mensageiro”. Hebr.: ham·mal·’ákh; gr.: ho ág·ge·los; lat.: án·ge·lus.
+====
+
+[[v38-1-10]]
+
+^<<v38-1-10,10>>^ Então me respondeu o homem que estava parado entre as murteiras e disse: “Estes são os que Jeová enviou para andar pela terra.”^&#42;1^
+
+[NOTE]
+====
+. “Pela terra.” Hebr.: ba·’á·rets.
+====
+
+[[v38-1-11]]
+
+^<<v38-1-11,11>>^ E eles passaram a responder ao anjo de Jeová, parado entre as murteiras, e a dizer: “Andamos pela terra, e eis que a terra inteira está sentada quietamente e tem sossego.”
+
+[[v38-1-12]]
+
+^<<v38-1-12,12>>^ De modo que respondeu o anjo de Jeová e disse: “Ó Jeová dos exércitos, até quando não terás misericórdia com Jerusalém e com as cidades de Judá, que verberaste por estes setenta anos?”
+
+[[v38-1-13]]
+
+^<<v38-1-13,13>>^ E Jeová passou a responder ao anjo que falava comigo, com boas palavras, palavras consoladoras;
+
+[[v38-1-14]]
+
+^<<v38-1-14,14>>^ e o anjo que falava comigo prosseguiu, dizendo-me: “Clama, dizendo: ‘Assim disse Jeová dos exércitos: “Com grande ciúme fui ciumento de Jerusalém e de Sião.
+
+[[v38-1-15]]
+
+^<<v38-1-15,15>>^ Com grande indignação estou indignado contra as nações despreocupadas; pois eu, da minha parte, indignei-me um pouco, mas elas, da sua parte, ajudaram à calamidade.”’
+
+[[v38-1-16]]
+
+^<<v38-1-16,16>>^ “Portanto, assim disse Jeová: ‘“Certamente retornarei a Jerusalém com misericórdias. Minha própria casa será construída nela”, é a pronunciação de Jeová dos exércitos, “e estender-se-á sobre Jerusalém o próprio cordel de medir”.’
+
+[[v38-1-17]]
+
+^<<v38-1-17,17>>^ “Clama mais, dizendo: ‘Assim disse Jeová dos exércitos: “Minhas cidades ainda transbordarão de bondade; e Jeová ainda há de sentir lástima de Sião e realmente ainda escolherá Jerusalém.”’”
+
+[[v38-1-18]]
+
+^<<v38-1-18,18>>^ E passei a levantar os olhos e a ver; e eis que havia quatro chifres.
+
+[[v38-1-19]]
+
+^<<v38-1-19,19>>^ De modo que eu disse ao anjo que falava comigo: “Que são estes?” Por sua vez, ele me disse: “Estes são os chifres que dispersaram Judá, Israel e Jerusalém.”
+
+[[v38-1-20]]
+
+^<<v38-1-20,20>>^ Além disso, Jeová mostrou-me quatro artífices.
+
+[[v38-1-21]]
+
+^<<v38-1-21,21>>^ Então eu disse: “Que vieram fazer estes?”
+E ele prosseguiu, dizendo: “Estes são os chifres que dispersaram Judá a tal ponto que absolutamente ninguém levantou a sua cabeça; e estes outros virão para fazê-los tremer, a fim de arremessar para baixo os chifres das nações que levantam um chifre contra a terra de Judá^&#42;1^ para dispersá-la.”
+
+[NOTE]
+====
+. “Judá”, MSyVg; LXX: “Jeová”.
+====
+
+'''
+
+xref:037-ageu/037-ageu-002.adoc#v37-2-0[&#60; Capítulo Anterior] | <<v38-1-0,Topo>> | xref:038-zacarias/038-zacarias-002.adoc#v38-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,168 @@
+include::./index.adoc[]
+
+[[v19-145-0]]
+=== Salmos, 145
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Um louvor,^&#42;1^ de Davi._
+
+_א [Álefe]_
+
+[[v19-145-1]]
+
+^<<v19-145-1,1>>^ Vou exaltar-te, ó meu Deus, o Rei,
+E vou bendizer teu nome por tempo indefinido, para todo o sempre.
+
+_ב [Bete]_
+
+[[v19-145-2]]
+
+^<<v19-145-2,2>>^ Vou bendizer-te o dia inteiro
+E vou louvar teu nome por tempo indefinido, para todo o sempre.
+
+_ג [Guímel]_
+
+[[v19-145-3]]
+
+^<<v19-145-3,3>>^ Jeová é grande e para ser louvado muito,
+E sua grandeza é inescrutável.
+
+_ד [Dálete]_
+
+[[v19-145-4]]
+
+^<<v19-145-4,4>>^ Geração após geração gabará os teus trabalhos,
+E contarão os teus potentes atos.
+
+_ה [Hê]_
+
+[[v19-145-5]]
+
+^<<v19-145-5,5>>^ O esplendor glorioso da tua dignidade
+E os assuntos das tuas obras maravilhosas eu vou fazer a minha preocupação.
+
+_ו [Vau]_
+
+[[v19-145-6]]
+
+^<<v19-145-6,6>>^ E palestrarão sobre a força das tuas próprias coisas atemorizantes;
+E quanto à tua grandeza, vou declará-la eu.
+
+_ז [Zaine]_
+
+[[v19-145-7]]
+
+^<<v19-145-7,7>>^ Transbordarão com a menção da abundância da tua bondade,
+E gritarão de júbilo [por causa da] tua justiça.
+
+_ח [Hete]_
+
+[[v19-145-8]]
+
+^<<v19-145-8,8>>^ Jeová é clemente e misericordioso,
+Vagaroso em irar-se e grande em benevolência.
+
+_ט [Tete]_
+
+[[v19-145-9]]
+
+^<<v19-145-9,9>>^ Jeová é bom para com todos,
+E suas misericórdias estão sobre todos os seus trabalhos.
+
+_י [Iode]_
+
+[[v19-145-10]]
+
+^<<v19-145-10,10>>^ Todos os teus trabalhos te elogiarão, ó Jeová,
+E os que te são leais te bendirão.
+
+_כ [Cafe]_
+
+[[v19-145-11]]
+
+^<<v19-145-11,11>>^ Palestrarão sobre a glória do teu reinado
+E falarão sobre a tua potência,
+
+_ל [Lâmede]_
+
+[[v19-145-12]]
+
+^<<v19-145-12,12>>^ Para dar a conhecer aos filhos dos homens^&#42;1^ seus atos potentes
+E a glória do esplendor do seu reinado.
+
+[NOTE]
+====
+. Ou “humanidade”. Hebr.: ha·’a·dhám.
+====
+
+_מ [Meme]_
+
+[[v19-145-13]]
+
+^<<v19-145-13,13>>^ Teu reinado é um reinado por todos os tempos indefinidos,
+E teu domínio é durante todas as gerações sucessivas.
+
+_ם [Sâmeque]^&#42;1^_
+
+[[v19-145-14]]
+
+^<<v19-145-14,14>>^ Jeová sustenta a todos os que estão caindo
+E ergue a todos os encurvados.
+
+_ע [Aine]_
+
+[[v19-145-15]]
+
+^<<v19-145-15,15>>^ Os olhos de todos se fixam esperançosos em ti,
+E tu lhes dás o seu alimento a seu tempo.
+
+_פ [Pê]_
+
+[[v19-145-16]]
+
+^<<v19-145-16,16>>^ Abres a tua mão
+E satisfazes o desejo de toda coisa vivente.
+
+_צ [Tsadê]_
+
+[[v19-145-17]]
+
+^<<v19-145-17,17>>^ Jeová é justo em todos os seus caminhos
+E leal em todos os seus trabalhos.
+
+_ק [Cofe]_
+
+[[v19-145-18]]
+
+^<<v19-145-18,18>>^ Jeová está perto de todos os que o invocam,
+De todos os que o invocam em veracidade.^&#42;1^
+
+[NOTE]
+====
+. Ou então “verdade; veridicidade”.
+====
+
+_ר [Rexe]_
+
+[[v19-145-19]]
+
+^<<v19-145-19,19>>^ Realizará o desejo dos que o temem
+E ouvirá seu clamor por ajuda, e ele os salvará.
+
+_ש [Chim]_
+
+[[v19-145-20]]
+
+^<<v19-145-20,20>>^ Jeová guarda a todos os que o amam,
+Mas a todos os iníquos ele aniquilará.
+
+_ת [Tau]_
+
+[[v19-145-21]]
+
+^<<v19-145-21,21>>^ Minha boca falará o louvor de Jeová;
+E bendiga toda a carne seu santo nome por tempo indefinido, para todo o sempre.
+
+'''
+
+xref:019-salmo/019-salmo-144.adoc#v19-144-0[&#60; Capítulo Anterior] | <<v19-145-0,Topo>> | xref:019-salmo/019-salmo-146.adoc#v19-146-0[Próximo Capítulo &#62;]

@@ -1,0 +1,192 @@
+include::./index.adoc[]
+
+[[v3-27-0]]
+=== Levítico, 27
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-27-1]]
+
+^<<v3-27-1,1>>^ E Jeová continuou a falar a Moisés, dizendo:
+
+[[v3-27-2]]
+
+^<<v3-27-2,2>>^ “Fala aos filhos de Israel, e tens de dizer-lhes: ‘Caso um homem faça uma oferta votiva especial de almas a Jeová, segundo o valor calculado,
+
+[[v3-27-3]]
+
+^<<v3-27-3,3>>^ e o valor calculado tenha de ser o dum macho de vinte anos de idade para cima até os sessenta anos de idade, então o valor calculado tem de vir a ser de cinqüenta siclos^&#42;1^ de prata, segundo o siclo do lugar santo.^&#42;2^
+
+[NOTE]
+====
+. Veja Ap. 8A.
+. “O siclo do lugar santo.” Um peso-padrão guardado no tabernáculo; ou, possivelmente, para enfatizar que o peso devia ser exato. Veja 2Sa 14:26 n.: “pedra”.
+====
+
+[[v3-27-4]]
+
+^<<v3-27-4,4>>^ Mas, se for fêmea, então o valor calculado tem de vir a ser de trinta siclos.
+
+[[v3-27-5]]
+
+^<<v3-27-5,5>>^ E se for de cinco anos de idade para cima até os vinte anos de idade, então o valor calculado do macho tem de vir a ser de vinte siclos, e para a fêmea, dez siclos.
+
+[[v3-27-6]]
+
+^<<v3-27-6,6>>^ E se a idade for de um mês para cima até os cinco anos de idade, então o valor calculado do macho tem de vir a ser de cinco siclos de prata, e para a fêmea, o valor calculado tem de ser de três siclos de prata.
+
+[[v3-27-7]]
+
+^<<v3-27-7,7>>^ “‘Ora, se a idade for de sessenta anos de idade para cima, se for macho, então o valor calculado tem de vir a ser de quinze siclos, e para a fêmea, dez siclos.
+
+[[v3-27-8]]
+
+^<<v3-27-8,8>>^ Mas, se ele tiver ficado pobre demais para o valor calculado, então terá de fazer a pessoa ficar de pé^&#42;1^ diante do sacerdote, e o sacerdote terá de avaliá-la. O sacerdote a avaliará segundo os recursos do votante.
+
+[NOTE]
+====
+. Lit.: “postá-lo”.
+====
+
+[[v3-27-9]]
+
+^<<v3-27-9,9>>^ “‘E se for um animal, tal como se apresenta^&#42;1^ numa oferta a Jeová, tudo o que ele der a Jeová tornar-se-á algo sagrado.
+
+[NOTE]
+====
+. “Se apresenta”, SamVg e 14 mss. hebr.; MSy: “apresentam”.
+====
+
+[[v3-27-10]]
+
+^<<v3-27-10,10>>^ Não o pode substituir e não o pode trocar, o bom pelo mau ou o mau pelo bom. Mas, se é que o trocar, animal por animal, então o mesmo e o que se troca por ele devem tornar-se algo sagrado.
+
+[[v3-27-11]]
+
+^<<v3-27-11,11>>^ E se for qualquer animal impuro, tal como não se pode apresentar em oferta a Jeová, então ele terá de fazer o animal ficar de pé diante do sacerdote.
+
+[[v3-27-12]]
+
+^<<v3-27-12,12>>^ E o sacerdote terá de avaliá-lo, quer seja bom quer mau. Segundo o valor calculado pelo sacerdote,^&#42;1^ assim se deve tornar.
+
+[NOTE]
+====
+. “E segundo o sacerdote o avaliar”, LXX; Sy: “E segundo o que o sacerdote decidir ser seu valor.”
+====
+
+[[v3-27-13]]
+
+^<<v3-27-13,13>>^ Mas, se é que ele o quiser resgatar, então terá de dar um quinto dele em adição ao valor calculado.
+
+[[v3-27-14]]
+
+^<<v3-27-14,14>>^ “‘Ora, caso um homem santifique sua casa como algo sagrado para Jeová, então o sacerdote tem de avaliá-la, quer seja boa quer má. Segundo o valor fixado pelo sacerdote, tanto deve custar.
+
+[[v3-27-15]]
+
+^<<v3-27-15,15>>^ Mas, se o santificador quiser resgatar sua casa, então terá de dar-lhe em adição um quinto do dinheiro do valor calculado; e ela terá de tornar-se sua.
+
+[[v3-27-16]]
+
+^<<v3-27-16,16>>^ “‘E se for parte do campo de sua propriedade que o homem santifica a Jeová, então tem de se calcular o valor proporcional à sua semente: se for um ômer de semente de cevada, então cinqüenta siclos de prata.^&#42;1^
+
+[NOTE]
+====
+. Isto é, um terreno que requeresse um ômer de cevada para a semeadura seria avaliado em 50 siclos de prata. Veja Ap. 8A.
+====
+
+[[v3-27-17]]
+
+^<<v3-27-17,17>>^ Se ele santificar seu campo a partir do ano do jubileu, deve custar segundo o valor calculado.
+
+[[v3-27-18]]
+
+^<<v3-27-18,18>>^ E se for depois do jubileu que ele santifica seu campo, então o sacerdote tem de calcular-lhe o preço proporcional aos anos que sobrarem até o próximo ano do jubileu, e deve-se fazer uma dedução do valor calculado.
+
+[[v3-27-19]]
+
+^<<v3-27-19,19>>^ Mas, se é que o santificador do campo o quiser resgatar, então terá de dar-lhe em adição um quinto do dinheiro do valor calculado, e terá de ficar seu.
+
+[[v3-27-20]]
+
+^<<v3-27-20,20>>^ Ora, se ele não resgatar o campo, mas se o campo for vendido a outro homem,^&#42;1^ não pode ser novamente resgatado.
+
+[NOTE]
+====
+. Lit.: “se ele deveras vender o campo a outro homem”.
+====
+
+[[v3-27-21]]
+
+^<<v3-27-21,21>>^ E o campo, ao sair [livre] no jubileu, tem de tornar-se algo sagrado para Jeová, como campo devotado. Tornar-se-á propriedade do sacerdote.
+
+[[v3-27-22]]
+
+^<<v3-27-22,22>>^ “‘E se ele santificar a Jeová um campo comprado por ele, que não for parte do campo de sua propriedade,
+
+[[v3-27-23]]
+
+^<<v3-27-23,23>>^ então o sacerdote terá de calcular-lhe o montante do valor fixado até o ano do jubileu, e neste dia ele terá de dar o valor calculado. É algo sagrado para Jeová.
+
+[[v3-27-24]]
+
+^<<v3-27-24,24>>^ No ano do jubileu, o campo voltará àquele de quem o comprou, àquele a quem pertence a propriedade de terra.
+
+[[v3-27-25]]
+
+^<<v3-27-25,25>>^ “‘Ora, todo valor deve ser calculado em siclos do lugar santo.^&#42;1^ O siclo deve ser de vinte geras.^&#42;2^
+
+[NOTE]
+====
+. Veja v. 3 n.
+. Veja Ap. 8A.
+====
+
+[[v3-27-26]]
+
+^<<v3-27-26,26>>^ “‘Somente ao primogênito dentre os animais, que nasce como primogênito para Jeová, nenhum homem deve santificar. Quer touro quer ovídeo, pertence a Jeová.
+
+[[v3-27-27]]
+
+^<<v3-27-27,27>>^ E se for dentre os animais impuros e ele tiver de remi-lo segundo o valor calculado, então terá de dar-lhe em adição um quinto dele. Mas, se não for resgatado, então terá de ser vendido segundo o valor calculado.
+
+[[v3-27-28]]
+
+^<<v3-27-28,28>>^ “‘Somente não se pode vender nenhuma sorte de coisa devotada que um homem devote à destruição para Jeová, dentre tudo o que for seu, quer do gênero humano, quer dos animais, quer do campo de sua propriedade, e nenhuma sorte de coisa devotada pode ser resgatada. É algo santíssimo para Jeová.
+
+[[v3-27-29]]
+
+^<<v3-27-29,29>>^ Nenhuma pessoa devotada, que dentre a humanidade seja devotada à destruição,^&#42;1^ pode ser remida. Sem falta deve ser morta.
+
+[NOTE]
+====
+. Ou “seja proscrita; seja devotada a Jeová para ser exterminada”.
+====
+
+[[v3-27-30]]
+
+^<<v3-27-30,30>>^ “‘E cada décima parte^&#42;1^ da terra, da semente da terra e do fruto da árvore, pertence a Jeová. É algo sagrado para Jeová.
+
+[NOTE]
+====
+. Ou “cada dízimo”.
+====
+
+[[v3-27-31]]
+
+^<<v3-27-31,31>>^ E se é que um homem quiser resgatar algo da sua décima parte, deve dar-lhe em adição um quinto dela.
+
+[[v3-27-32]]
+
+^<<v3-27-32,32>>^ Quanto a cada décima parte da manada e do rebanho, tudo o que passar debaixo do cajado, a décima cabeça deve tornar-se algo sagrado para Jeová.
+
+[[v3-27-33]]
+
+^<<v3-27-33,33>>^ Não deve examinar se é bom ou mau, nem deve trocá-lo. Mas, se é que o trocar, então o mesmo tem de tornar-se e o que se troca por ele deve tornar-se algo sagrado. Não pode ser resgatado.’”
+
+[[v3-27-34]]
+
+^<<v3-27-34,34>>^ Estes são os mandamentos que Jeová deu a Moisés como ordens para os filhos de Israel, no monte Sinai.
+
+'''
+
+xref:003-levitico/003-levitico-026.adoc#v3-26-0[&#60; Capítulo Anterior] | <<v3-27-0,Topo>> | xref:004-numeros/004-numeros-001.adoc#v4-1-0[Próximo Capítulo &#62;]

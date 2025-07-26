@@ -1,0 +1,38 @@
+include::./index.adoc[]
+
+[[v19-125-0]]
+=== Salmos, 125
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Cântico das Subidas.^&#42;1^_
+
+[[v19-125-1]]
+
+^<<v19-125-1,1>>^ Os que confiam em Jeová
+São como o monte Sião que não pode ser abalado, mas que mora por tempo indefinido.
+
+[[v19-125-2]]
+
+^<<v19-125-2,2>>^ Jerusalém — assim como os montes estão ao redor dela,
+Assim Jeová está ao redor do seu povo,
+Desde agora e por tempo indefinido.
+
+[[v19-125-3]]
+
+^<<v19-125-3,3>>^ Porque o cetro da iniqüidade não continuará a pousar sobre a sorte dos justos,
+A fim de que os justos não estendam a mão para qualquer contravenção.
+
+[[v19-125-4]]
+
+^<<v19-125-4,4>>^ Faze deveras o bem aos bons, ó Jeová,
+Sim, aos que são retos nos seus corações.
+
+[[v19-125-5]]
+
+^<<v19-125-5,5>>^ Quanto aos que se apartam para os seus caminhos tortuosos,
+Jeová fará que se vão embora com os que praticam o que é prejudicial.
+Haverá paz sobre Israel.
+
+'''
+
+xref:019-salmo/019-salmo-124.adoc#v19-124-0[&#60; Capítulo Anterior] | <<v19-125-0,Topo>> | xref:019-salmo/019-salmo-126.adoc#v19-126-0[Próximo Capítulo &#62;]

@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v19-21-0]]
+=== Salmos, 21
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Uma melodia de Davi._
+
+[[v19-21-1]]
+
+^<<v19-21-1,1>>^ Ó Jeová, na tua força se alegra o rei;
+E quanto deseja ele jubilar na tua salvação!
+
+[[v19-21-2]]
+
+^<<v19-21-2,2>>^ Deste-lhe o desejo do seu coração
+E não retiveste o anseio dos seus lábios. Selá.
+
+[[v19-21-3]]
+
+^<<v19-21-3,3>>^ Pois passaste a ir ao encontro dele com bênçãos de bem
+[E] a pôr-lhe na cabeça uma coroa de ouro refinado.
+
+[[v19-21-4]]
+
+^<<v19-21-4,4>>^ Pediu-te vida. Tu lha deste,
+Longura de dias por tempo indefinido, para todo o sempre.
+
+[[v19-21-5]]
+
+^<<v19-21-5,5>>^ Sua glória é grande na tua salvação.
+Puseste sobre ele dignidade e esplendor.
+
+[[v19-21-6]]
+
+^<<v19-21-6,6>>^ Pois o constituis altamente abençoado para todo o sempre;
+Tu o fazes regozijar-se com a alegria da tua face.
+
+[[v19-21-7]]
+
+^<<v19-21-7,7>>^ Porque o rei confia em Jeová,
+Sim, na benevolência^&#42;1^ do Altíssimo. Não será abalado.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-21-8]]
+
+^<<v19-21-8,8>>^ Tua mão achará todos os teus inimigos;
+Tua própria direita achará os que te odeiam.
+
+[[v19-21-9]]
+
+^<<v19-21-9,9>>^ Tu os constituirás em fornalha ardente no tempo fixado para a tua atenção.
+Jeová, na sua ira, os engolirá, e o fogo os devorará.
+
+[[v19-21-10]]
+
+^<<v19-21-10,10>>^ Destruirás seus frutos da própria terra
+E sua descendência^&#42;1^ dentre os filhos dos homens.^&#42;2^
+
+[NOTE]
+====
+. Ou “semente”.
+. Lit.: “homem terreno”, usado coletivamente. Hebr.: ’a·dhám.
+====
+
+[[v19-21-11]]
+
+^<<v19-21-11,11>>^ Pois dirigiram contra ti aquilo que é mau;
+Inventaram idéias que são incapazes de realizar.
+
+[[v19-21-12]]
+
+^<<v19-21-12,12>>^ Porque tu os farás virar as costas em fuga
+Pelas tuas cordas de arco que preparaste contra a sua face.
+
+[[v19-21-13]]
+
+^<<v19-21-13,13>>^ Oh! sê exaltado na tua força, ó Jeová.
+Vamos cantar e entoar melodias à tua potência.
+
+'''
+
+xref:019-salmo/019-salmo-020.adoc#v19-20-0[&#60; Capítulo Anterior] | <<v19-21-0,Topo>> | xref:019-salmo/019-salmo-022.adoc#v19-22-0[Próximo Capítulo &#62;]

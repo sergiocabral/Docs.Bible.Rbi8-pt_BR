@@ -1,0 +1,90 @@
+include::./index.adoc[]
+
+[[v17-6-0]]
+=== Ester, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v17-6-1]]
+
+^<<v17-6-1,1>>^ Durante aquela noite fugiu ao rei o sono. Por isso ele disse que se trouxesse o livro dos registros dos assuntos dos tempos. Assim veio a haver uma leitura deles perante o rei.
+
+[[v17-6-2]]
+
+^<<v17-6-2,2>>^ Finalmente, achou-se escrito o que Mordecai tinha relatado a respeito de Bigtana e de Teres, dois oficiais da corte do rei, porteiros, que tinham procurado deitar a mão no Rei Assuero.^&#42;1^
+
+[NOTE]
+====
+. “Artaxerxes”, LXX.
+====
+
+[[v17-6-3]]
+
+^<<v17-6-3,3>>^ O rei disse então: “Que honra e que grande coisa se fez por isso a Mordecai?” A isto disseram os ajudantes do rei, seus ministros:^&#42;1^ “Nada se fez com ele.”
+
+[NOTE]
+====
+. “Seus ministros.” Hebr.: mesha·retháv; lat.: mi·ní·stri.
+====
+
+[[v17-6-4]]
+
+^<<v17-6-4,4>>^ Mais tarde disse o rei: “Quem está no pátio?” Ora, o próprio Hamã tinha entrado no pátio externo da casa do rei para dizer ao rei que se pendurasse a Mordecai no madeiro que preparara para ele.
+
+[[v17-6-5]]
+
+^<<v17-6-5,5>>^ Portanto, os ajudantes do rei disseram-lhe: “Eis que Hamã está parado no pátio.” O rei disse, pois: “Que entre.”
+
+[[v17-6-6]]
+
+^<<v17-6-6,6>>^ Ao entrar Hamã, o rei passou a dizer-lhe: “Que se deve fazer ao homem em cuja honra se agradou o próprio rei?” Então disse Hamã no seu coração: “De quem mais do que de mim se agradaria o rei para dar-lhe honra?”
+
+[[v17-6-7]]
+
+^<<v17-6-7,7>>^ Portanto, Hamã disse ao rei: “Quanto ao homem em cuja honra se agradou o próprio rei,
+
+[[v17-6-8]]
+
+^<<v17-6-8,8>>^ traga-se vestimenta real com que o rei se veste e um cavalo em que o rei cavalga, e em cuja cabeça se tenha posto a cobertura régia para a cabeça.
+
+[[v17-6-9]]
+
+^<<v17-6-9,9>>^ E dê-se^&#42;1^ a vestimenta e o cavalo ao cargo de um dos príncipes nobres do rei; e terão de vestir o homem em cuja honra o próprio rei se agradou, e terão de fazê-lo cavalgar no cavalo na praça pública da cidade, e terão de clamar diante dele: ‘Assim se faz ao homem em cuja honra o próprio rei se agradou.’”
+
+[NOTE]
+====
+. “Dê-se.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v17-6-10]]
+
+^<<v17-6-10,10>>^ O rei disse imediatamente a Hamã: “Depressa, toma a vestimenta e o cavalo, assim como disseste, e faze assim a Mordecai, o judeu, que está sentado no portão do rei. Não deixes de cumprir nada^&#42;1^ de tudo o que falaste.”
+
+[NOTE]
+====
+. Lit.: “cair nada”.
+====
+
+[[v17-6-11]]
+
+^<<v17-6-11,11>>^ E Hamã passou a tomar a vestimenta e o cavalo, e a vestir Mordecai, e a fazê-lo cavalgar na praça pública da cidade, e a clamar diante dele: “Assim se faz ao homem em cuja honra o próprio rei se agradou.”
+
+[[v17-6-12]]
+
+^<<v17-6-12,12>>^ Depois retornou Mordecai ao portão do rei. Quanto a Hamã, foi apressadamente para a sua casa, pranteando e com a cabeça coberta.
+
+[[v17-6-13]]
+
+^<<v17-6-13,13>>^ E Hamã foi relatar a Zeres, sua esposa, e a todos os seus amigos^&#42;1^ tudo o que lhe sobreviera. Então lhe disseram seus sábios e Zeres, sua esposa: “Se Mordecai, diante de quem principiaste a cair, é da descendência dos judeus, não prevalecerás contra ele, mas, sem falta, cairás diante dele.”
+
+[NOTE]
+====
+. Ou “os que o amavam”.
+====
+
+[[v17-6-14]]
+
+^<<v17-6-14,14>>^ Enquanto ainda falavam com ele, chegaram os próprios oficiais da corte do rei e passaram a levar Hamã apressadamente ao banquete preparado por Ester.
+
+'''
+
+xref:017-ester/017-ester-005.adoc#v17-5-0[&#60; Capítulo Anterior] | <<v17-6-0,Topo>> | xref:017-ester/017-ester-007.adoc#v17-7-0[Próximo Capítulo &#62;]

@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-127-0]]
+=== Salmos, 127
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Cântico das Subidas. De Salomão._
+
+[[v19-127-1]]
+
+^<<v19-127-1,1>>^ A menos que o próprio Jeová construa a casa,
+É fútil que seus construtores trabalhem arduamente nela.
+A menos que o próprio Jeová guarde a cidade,
+É fútil que o guarda se mantenha alerta.
+
+[[v19-127-2]]
+
+^<<v19-127-2,2>>^ É fútil que vos levanteis cedo,
+Que vos assenteis tarde,
+Que comais alimento^&#42;1^ com dores.
+Assim é que ele dá sono mesmo ao seu amado.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “pão”.
+. Ou “ele dá ao seu amado [no] sono”.
+====
+
+[[v19-127-3]]
+
+^<<v19-127-3,3>>^ Eis que os filhos são uma herança da parte de Jeová;
+O fruto do ventre é uma recompensa.
+
+[[v19-127-4]]
+
+^<<v19-127-4,4>>^ Como flechas na mão dum poderoso,^&#42;1^
+Assim são os filhos da mocidade.
+
+[NOTE]
+====
+. “Poderoso.” Hebr.: gib·bóhr.
+====
+
+[[v19-127-5]]
+
+^<<v19-127-5,5>>^ Feliz o varão vigoroso^&#42;1^ que encheu deles a sua aljava.
+Não ficarão envergonhados,
+Pois falarão com os inimigos no portão.
+
+[NOTE]
+====
+. “O varão vigoroso.” Hebr.: ha·gé·ver.
+====
+
+'''
+
+xref:019-salmo/019-salmo-126.adoc#v19-126-0[&#60; Capítulo Anterior] | <<v19-127-0,Topo>> | xref:019-salmo/019-salmo-128.adoc#v19-128-0[Próximo Capítulo &#62;]

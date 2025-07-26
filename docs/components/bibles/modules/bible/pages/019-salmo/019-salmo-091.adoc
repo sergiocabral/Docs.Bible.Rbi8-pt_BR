@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v19-91-0]]
+=== Salmos, 91
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-91-1]]
+
+^<<v19-91-1,1>>^ Quem morar no lugar secreto do Altíssimo
+Procurará para si pouso sob a própria sombra do Todo-poderoso.
+
+[[v19-91-2]]
+
+^<<v19-91-2,2>>^ Vou dizer a Jeová:^&#42;1^ “[Tu és] meu refúgio e minha fortaleza,
+Meu Deus, em quem vou confiar.”
+
+[NOTE]
+====
+. “Jeová”, M(hebr.: ‏(יהוהTSyVg;‏ AqTaylºr: o Tetragrama em antigos caracteres hebr. dentro do texto grego. Veja Ap. 1C sec. 8.
+====
+
+[[v19-91-3]]
+
+^<<v19-91-3,3>>^ Pois ele mesmo te livrará da armadilha do passarinheiro,
+Da pestilência que causa adversidades.
+
+[[v19-91-4]]
+
+^<<v19-91-4,4>>^ Com as suas plumas impedirá a aproximação a ti,
+E tu te refugiarás debaixo das suas asas.
+Sua veracidade será um escudo grande e um baluarte.^&#42;1^
+
+[NOTE]
+====
+. Ou “cota de malhas”.
+====
+
+[[v19-91-5]]
+
+^<<v19-91-5,5>>^ De noite não terás medo de alguma coisa pavorosa,
+Nem de dia da flecha voadora,
+
+[[v19-91-6]]
+
+^<<v19-91-6,6>>^ Nem da pestilência que anda nas trevas,
+Nem da destruição que assola ao meio-dia.
+
+[[v19-91-7]]
+
+^<<v19-91-7,7>>^ Mil cairão ao teu próprio lado
+E dez mil à tua direita;
+Não se aproximará de ti.
+
+[[v19-91-8]]
+
+^<<v19-91-8,8>>^ Apenas estarás olhando com os teus olhos
+E estarás vendo a própria retribuição [feita] aos iníquos.
+
+[[v19-91-9]]
+
+^<<v19-91-9,9>>^ Visto que [disseste]: “Jeová^&#42;1^ é meu refúgio”,
+Fizeste do próprio Altíssimo a tua habitação;
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+====
+
+[[v19-91-10]]
+
+^<<v19-91-10,10>>^ Nenhuma calamidade te acontecerá,
+E nem mesmo uma praga se chegará à tua tenda.
+
+[[v19-91-11]]
+
+^<<v19-91-11,11>>^ Porque dará aos seus próprios anjos uma ordem concernente a ti,
+Para te guardar em todos os teus caminhos.
+
+[[v19-91-12]]
+
+^<<v19-91-12,12>>^ Carregar-te-ão nas suas mãos,
+Para que não dês com o pé numa pedra.
+
+[[v19-91-13]]
+
+^<<v19-91-13,13>>^ Pisarás no leãozinho e na naja;
+Pisotearás o leão novo jubado e a cobra grande.
+
+[[v19-91-14]]
+
+^<<v19-91-14,14>>^ Visto que ele se afeiçoou de mim,
+Eu também o porei a salvo.
+Protegê-lo-ei^&#42;1^ por ele ter chegado a conhecer meu nome.
+
+[NOTE]
+====
+. Lit.: “Colocá-lo-ei no alto”, isto é, fora de alcance.
+====
+
+[[v19-91-15]]
+
+^<<v19-91-15,15>>^ Ele me invocará e eu lhe responderei.
+Estarei com ele na aflição.
+Socorrê-lo-ei e glorificá-lo-ei.
+
+[[v19-91-16]]
+
+^<<v19-91-16,16>>^ Eu o fartarei com longura de dias
+E o farei ver a salvação por mim.
+
+'''
+
+xref:019-salmo/019-salmo-090.adoc#v19-90-0[&#60; Capítulo Anterior] | <<v19-91-0,Topo>> | xref:019-salmo/019-salmo-092.adoc#v19-92-0[Próximo Capítulo &#62;]

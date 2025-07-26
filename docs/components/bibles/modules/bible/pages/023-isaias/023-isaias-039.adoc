@@ -1,0 +1,46 @@
+include::./index.adoc[]
+
+[[v23-39-0]]
+=== Isaías, 39
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-39-1]]
+
+^<<v23-39-1,1>>^ Naquele tempo, Merodaque-Baladã, filho de Baladã, rei de Babilônia,^&#42;1^ enviou cartas e um presente a Ezequias, depois de ter ouvido que este estivera doente, mas estava novamente forte.
+
+[NOTE]
+====
+. “Babilônia”, LXXVg; MTSy: “Babel”.
+====
+
+[[v23-39-2]]
+
+^<<v23-39-2,2>>^ Assim, Ezequias começou a alegrar-se com eles e passou a mostrar-lhes sua casa do tesouro, a prata e o ouro, e o óleo de bálsamo, e o óleo bom, e todo o seu arsenal, e tudo o que se podia achar nos seus tesouros. Não se mostrou haver nada que Ezequias não lhes mostrasse na sua própria casa e em todo o seu domínio.
+
+[[v23-39-3]]
+
+^<<v23-39-3,3>>^ Depois disso entrou Isaías, o profeta, até o Rei Ezequias e lhe disse: “Que disseram estes homens e donde vieram para chegar a ti?” Ezequias disse, pois: “Vieram a mim duma terra distante, de Babilônia.”
+
+[[v23-39-4]]
+
+^<<v23-39-4,4>>^ E ele prosseguiu, dizendo: “Que viram na tua casa?” A isto Ezequias disse: “Viram tudo o que há na minha casa. Não se mostrou haver nada nos meus tesouros que não lhes mostrasse.”
+
+[[v23-39-5]]
+
+^<<v23-39-5,5>>^ Isaías disse então a Ezequias: “Ouve a palavra de Jeová dos exércitos:
+
+[[v23-39-6]]
+
+^<<v23-39-6,6>>^ ‘Eis que vêm dias, e tudo o que há na tua própria casa e o que os teus antepassados armazenaram até o dia de hoje será realmente levado a Babilônia.’ ‘Não sobrará nada’, disse Jeová.
+
+[[v23-39-7]]
+
+^<<v23-39-7,7>>^ ‘E alguns dos teus próprios filhos que procederão de ti, dos quais te tornarás pai, serão eles próprios tomados e se tornarão realmente oficiais da corte no palácio do rei de Babilônia.’”
+
+[[v23-39-8]]
+
+^<<v23-39-8,8>>^ Então disse Ezequias a Isaías: “É boa a palavra de Jeová que falaste.” E prosseguiu, dizendo: “Porque a paz e a verdade continuarão nos meus próprios dias.”
+
+'''
+
+xref:023-isaias/023-isaias-038.adoc#v23-38-0[&#60; Capítulo Anterior] | <<v23-39-0,Topo>> | xref:023-isaias/023-isaias-040.adoc#v23-40-0[Próximo Capítulo &#62;]

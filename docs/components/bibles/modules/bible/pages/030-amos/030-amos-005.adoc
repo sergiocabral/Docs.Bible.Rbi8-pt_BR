@@ -1,0 +1,160 @@
+include::./index.adoc[]
+
+[[v30-5-0]]
+=== Amós, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v30-5-1]]
+
+^<<v30-5-1,1>>^ “Ouvi esta palavra que levanto sobre vós como endecha, ó casa de Israel:
+
+[[v30-5-2]]
+
+^<<v30-5-2,2>>^ “Caiu a virgem, Israel;
+Ela não se pode levantar mais.
+Foi abandonada sobre o seu próprio solo;
+Não há quem a levante.
+
+[[v30-5-3]]
+
+^<<v30-5-3,3>>^ “Pois assim disse o Soberano Senhor Jeová: ‘A própria cidade que saía com mil terá cem restando; e aquela que saía com cem terá dez restando, para a casa de Israel.’
+
+[[v30-5-4]]
+
+^<<v30-5-4,4>>^ “Pois assim disse Jeová à casa de Israel: ‘Buscai-me e continuai vivendo.
+
+[[v30-5-5]]
+
+^<<v30-5-5,5>>^ E não busqueis Betel e não deveis chegar a Gilgal, e não deveis passar para Berseba; porque a própria Gilgal irá sem falta para o exílio; e quanto a Betel, tornar-se-á algo mágico.
+
+[[v30-5-6]]
+
+^<<v30-5-6,6>>^ Buscai a Jeová e continuai vivendo, para que não se torne ativo como o fogo, ó casa de José, e para que não devore realmente e Betel^&#42;1^ não fique sem alguém para [o] apagar,
+
+[NOTE]
+====
+. “Betel”, MTSyVg; LXX: “a casa de Israel”.
+====
+
+[[v30-5-7]]
+
+^<<v30-5-7,7>>^ ó vós os que transformais o juízo em mero absinto e que lançastes por terra a própria justiça.
+
+[[v30-5-8]]
+
+^<<v30-5-8,8>>^ Aquele que fez a constelação de Quima^&#42;1^ e a constelação de Quesil,^&#42;2^ e Aquele que transforma a sombra tenebrosa na própria manhã, e Aquele que escurece o próprio dia como a noite, Aquele que chama as águas do mar, para derramá-las sobre a superfície da terra — Jeová é seu nome;
+
+[NOTE]
+====
+. Veja Jó 9:9 n.: “constelação de Quima”.
+. Veja Jó 9:9 n.: “constelação de Quesil”.
+====
+
+[[v30-5-9]]
+
+^<<v30-5-9,9>>^ aquele que faz aparecer subitamente a assolação sobre alguém que é forte, para que a própria assolação venha mesmo sobre uma praça forte.
+
+[[v30-5-10]]
+
+^<<v30-5-10,10>>^ “‘No portão odiaram o repreendedor e detestaram o orador de coisas perfeitas.
+
+[[v30-5-11]]
+
+^<<v30-5-11,11>>^ Portanto, visto que exigis a renda agrícola daquele que é de condição humilde e continuais a tirar dele o tributo de cereais, construístes casas de pedras lavradas, mas não continuareis a morar nelas; e plantastes vinhedos desejáveis, mas não continuareis a beber seu vinho.
+
+[[v30-5-12]]
+
+^<<v30-5-12,12>>^ Porque sei quantas são as vossas revoltas e quão fortes são os vossos pecados, vós os que sois hostis ao justo, vós os que aceitais peita^&#42;1^ e que tendes afastado os pobres até mesmo no portão.
+
+[NOTE]
+====
+. Ou “resgate”. Hebr.: khó·fer.
+====
+
+[[v30-5-13]]
+
+^<<v30-5-13,13>>^ Portanto, aquele que tiver perspicácia ficará quieto naquele tempo, porque será um tempo calamitoso.
+
+[[v30-5-14]]
+
+^<<v30-5-14,14>>^ “‘Buscai o que é bom e não o que é mau, para que possais continuar a viver; e para que assim venha a estar convosco Jeová, o Deus dos exércitos,^&#42;1^ assim como dissestes.
+
+[NOTE]
+====
+. “O Deus dos exércitos.” Hebr.: ’Elo·heh-tseva·’óhth.
+====
+
+[[v30-5-15]]
+
+^<<v30-5-15,15>>^ Odiai o que é mau e amai o que é bom, e dai à justiça um lugar no portão. Talvez Jeová, o Deus dos exércitos, mostre favor aos remanescentes de José.’
+
+[[v30-5-16]]
+
+^<<v30-5-16,16>>^ “Portanto, assim disse Jeová, o Deus dos exércitos, Jeová:^&#42;1^ ‘Em todas as praças públicas haverá lamento e em todas as ruas as pessoas dirão: “Ai! Ai!” E terão de chamar o lavrador para o pranto e os experientes em lamentação para o lamento.’
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v30-5-17]]
+
+^<<v30-5-17,17>>^ ‘E em todos os vinhedos haverá lamento; pois passarei pelo teu meio’, disse Jeová.
+
+[[v30-5-18]]
+
+^<<v30-5-18,18>>^ “‘Ai dos que almejam o dia de Jeová! Então, que significará para vós o dia de Jeová? Será escuridão, e não luz,
+
+[[v30-5-19]]
+
+^<<v30-5-19,19>>^ assim como quando algum homem^&#42;1^ foge do leão e o urso realmente vem ao seu encontro; e [como quando] ele entrou na casa e apoiou sua mão na parede e a serpente o mordeu.
+
+[NOTE]
+====
+. “Algum homem.” Hebr.: ’ish.
+====
+
+[[v30-5-20]]
+
+^<<v30-5-20,20>>^ Não será o dia de Jeová escuridão, e não luz; e não terá trevas, e não claridade?
+
+[[v30-5-21]]
+
+^<<v30-5-21,21>>^ Odiei, rejeitei as vossas festividades e não terei prazer no cheiro das vossas assembléias solenes.
+
+[[v30-5-22]]
+
+^<<v30-5-22,22>>^ Mas, se me oferecerdes holocaustos, mesmo nas vossas oferendas não terei prazer e não olharei para os vossos sacrifícios de participação em comum, de [animais] cevados.
+
+[[v30-5-23]]
+
+^<<v30-5-23,23>>^ Afastai de mim o tumulto dos vossos cânticos; e não ouça eu o som melodioso dos vossos instrumentos de cordas.
+
+[[v30-5-24]]
+
+^<<v30-5-24,24>>^ E saia o juízo rolando como águas e a justiça como torrente de fluxo contínuo.
+
+[[v30-5-25]]
+
+^<<v30-5-25,25>>^ Trouxestes a mim sacrifícios e oferendas no ermo por quarenta anos, ó casa de Israel?
+
+[[v30-5-26]]
+
+^<<v30-5-26,26>>^ E certamente carregareis^&#42;1^ Sacute,^&#42;2^ vosso rei,^&#42;3^ e Caivã,^&#42;4^ vossas imagens, a estrela de vosso deus,^&#42;5^ que fizestes para vós mesmos.
+
+[NOTE]
+====
+. Ou “carregastes”.
+. “Sacute.” Hebr.: Sik·kúth. Este nome foi em hebr. propositadamente vocalizado para corresponder a shiq·qúts, “coisa repugnante”. É possível que se refira a um deus-estrela, porque é colocado em paralelismo com “a estrela de vosso deus”, no mesmo v. LXXSy: “a tenda”; lat.: ta·ber·ná·cu·lum.
+. “Vosso rei.” Hebr.: mal·kekhém; gr.: Mo·lókh; sir.: deMal·kum; lat.: Mó·loch.
+. “Caivã.” Ou “Quevã”. Hebr.: Ki·yún, marcado intencionalmente com sinais vocálicos para corresponder a shiq·qúts, “coisa repugnante”. A referência é evidentemente à estrela acadiana Kai·má·nu, ou Kai·wá·nu, porque esta ocorre em inscrições acadianas como nome de Saturno (deus-estrela). Gr.: Rhai·fán; em At 7:43, na citação de Estêvão: Rhom·fá.
+. “Vosso deus.” Hebr.: ’elo·heh·khém, referindo-se a um deus falso.
+====
+
+[[v30-5-27]]
+
+^<<v30-5-27,27>>^ E eu vou fazer que vades para o exílio além de Damasco’, disse aquele cujo nome é Jeová, o Deus dos exércitos.”
+
+'''
+
+xref:030-amos/030-amos-004.adoc#v30-4-0[&#60; Capítulo Anterior] | <<v30-5-0,Topo>> | xref:030-amos/030-amos-006.adoc#v30-6-0[Próximo Capítulo &#62;]

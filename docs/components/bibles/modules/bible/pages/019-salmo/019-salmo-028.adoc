@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v19-28-0]]
+=== Salmos, 28
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_De Davi._
+
+[[v19-28-1]]
+
+^<<v19-28-1,1>>^ A ti, ó Jeová, continuo a chamar.
+Rocha minha, não sejas surdo para comigo,^&#42;1^
+A fim de que não fiques quieto para comigo
+E eu não me torne semelhante aos que descem ao poço.
+
+[NOTE]
+====
+. Ou “não te desvies de mim em silêncio”.
+====
+
+[[v19-28-2]]
+
+^<<v19-28-2,2>>^ Ouve a voz dos meus rogos quando clamo a ti por ajuda,
+Quando levanto as mãos para o compartimento mais recôndito do teu lugar santo.
+
+[[v19-28-3]]
+
+^<<v19-28-3,3>>^ Não me arrastes junto com os iníquos e com os que praticam o que é prejudicial,
+Os que falam de paz com os seus companheiros, mas em cujos corações há o que é mau.
+
+[[v19-28-4]]
+
+^<<v19-28-4,4>>^ Dá-lhes segundo a sua atuação
+E segundo a ruindade das suas práticas.
+Dá-lhes segundo o trabalho das suas mãos.
+Paga-lhes de volta o seu próprio ato.
+
+[[v19-28-5]]
+
+^<<v19-28-5,5>>^ Pois eles não têm consideração para com as atividades de Jeová,
+Nem para com o trabalho das suas mãos.
+Ele os derrubará e não os edificará.
+
+[[v19-28-6]]
+
+^<<v19-28-6,6>>^ Bendito seja Jeová,^&#42;1^ porque ouviu a voz dos meus rogos.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+====
+
+[[v19-28-7]]
+
+^<<v19-28-7,7>>^ Jeová^&#42;1^ é a minha força e o meu escudo.
+Nele tem confiado meu coração
+E eu tenho sido ajudado, de modo que meu coração se rejubila
+E eu o elogiarei com o meu cântico.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+====
+
+[[v19-28-8]]
+
+^<<v19-28-8,8>>^ Jeová^&#42;1^ é uma força para seu povo,^&#42;2^
+E ele é baluarte da grandiosa salvação do seu ungido.^&#42;3^
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+. “Para seu povo”, LXXSyVg e oito mss. hebr.; M: “para eles”.
+. “Seu ungido.” Hebr.: meshi·hhóh; gr.: khri·stoú; sir.: meshi·hheh; lat.: chrí·sti.
+====
+
+[[v19-28-9]]
+
+^<<v19-28-9,9>>^ Salva deveras o teu povo e abençoa a tua herança;
+E pastoreia-os e carrega-os por tempo indefinido.
+
+'''
+
+xref:019-salmo/019-salmo-027.adoc#v19-27-0[&#60; Capítulo Anterior] | <<v19-28-0,Topo>> | xref:019-salmo/019-salmo-029.adoc#v19-29-0[Próximo Capítulo &#62;]

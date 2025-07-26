@@ -1,0 +1,96 @@
+include::./index.adoc[]
+
+[[v28-10-0]]
+=== Oseias, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v28-10-1]]
+
+^<<v28-10-1,1>>^ “Israel é uma videira em degeneração.^&#42;1^ Está produzindo fruto para si mesmo. Multiplicou os [seus] altares na proporção da abundância de seu fruto. Ergueram colunas boas na proporção da bondade de sua terra.
+
+[NOTE]
+====
+. “Luxuriante; extensa”, se derivar de outro verbo hebr. de forma igual.
+====
+
+[[v28-10-2]]
+
+^<<v28-10-2,2>>^ Seu coração tornou-se hipócrita;^&#42;1^ agora serão achados culpados.
+“Há um que quebrará os seus altares; ele assolará as suas colunas.
+
+[NOTE]
+====
+. Ou “liso; escorregadio”.
+====
+
+[[v28-10-3]]
+
+^<<v28-10-3,3>>^ Pois agora dirão: ‘Não temos rei, pois não tememos a Jeová. E quanto ao rei, que fará ele por nós?’
+
+[[v28-10-4]]
+
+^<<v28-10-4,4>>^ “Falam palavras, prestando juramentos falsos, concluindo um pacto; e o julgamento floresceu qual planta venenosa nos sulcos da campina.
+
+[[v28-10-5]]
+
+^<<v28-10-5,5>>^ Os residentes de Samaria temerão pelo [ídolo do] bezerro de Bete-Áven; porque certamente pranteará por ele seu povo bem como seus sacerdotes de deuses estrangeiros,^&#42;1^ [que] costumavam jubilar por causa dele, por causa da sua glória, porque terá ido ao exílio longe dele.
+
+[NOTE]
+====
+. “Bem como seus sacerdotes de deuses estrangeiros.” Hebr.: u·khema·ráv, “Chemarim”; Vg: “guardiães de templo”.
+====
+
+[[v28-10-6]]
+
+^<<v28-10-6,6>>^ Mesmo este será levado por alguém à própria Assíria como presente para um grande rei.^&#42;1^ Vergonha é o que o próprio Efraim terá e Israel se envergonhará do seu conselho.
+
+[NOTE]
+====
+. Ou “Rei Jarebe”. Veja 5:13 n.
+====
+
+[[v28-10-7]]
+
+^<<v28-10-7,7>>^ Samaria [e] seu rei hão de ser silenciados como o raminho quebrado na superfície das águas.
+
+[[v28-10-8]]
+
+^<<v28-10-8,8>>^ E os altos de [Bete-]Áven, o pecado de Israel, serão realmente aniquilados. Espinhos e abrolhos é que subirão aos seus altares. E, de fato, as pessoas dirão aos montes: ‘Cobri-nos!’ e aos morros: ‘Caí sobre nós!’
+
+[[v28-10-9]]
+
+^<<v28-10-9,9>>^ “Pois pecaste desde os dias de Gibeá, ó Israel. Ali ficaram parados. Em Gibeá não chegou a alcançá-los a guerra contra os filhos da injustiça.
+
+[[v28-10-10]]
+
+^<<v28-10-10,10>>^ Quando for meu almejo, também os disciplinarei. E contra eles hão de ajuntar-se povos quando forem atrelados aos seus dois erros.
+
+[[v28-10-11]]
+
+^<<v28-10-11,11>>^ “E Efraim era uma novilha treinada que gostava de trilhar; e eu, da minha parte, passei sobre o seu bem-parecido pescoço. Faço que [alguém] monte em Efraim. Judá está arando; Jacó está gradando para ele.
+
+[[v28-10-12]]
+
+^<<v28-10-12,12>>^ Semeai para vós mesmos em justiça; colhei segundo a benevolência. Lavrai para vós mesmos a terra de lavoura, quando há tempo para se buscar a Jeová, até ele vir e vos dar instrução em justiça.
+
+[[v28-10-13]]
+
+^<<v28-10-13,13>>^ “Vós lavrastes a iniqüidade. Ceifastes a injustiça. Comestes os frutos da impostura; pois confiaste no teu caminho, na multidão dos teus poderosos.
+
+[[v28-10-14]]
+
+^<<v28-10-14,14>>^ E levantou-se um rebuliço entre o teu povo, e tuas praças fortes serão todas assoladas, como que com a assolação por Salmã, da casa de Arbel, no dia da batalha, [quando] foram despedaçados a própria mãe ao lado dos [seus] próprios filhos.
+
+[[v28-10-15]]
+
+^<<v28-10-15,15>>^ Assim se há^&#42;1^ de fazer a vós, ó Betel,^&#42;2^ por causa da vossa extrema maldade. Na alva é que o rei de Israel terá de ser positivamente silenciado.”
+
+[NOTE]
+====
+. Ou “ele há”, MVg; LXX: “eu hei”; Sy: “eles hão”.
+. “Betel”, MSyVg; LXX: “casa de Israel”.
+====
+
+'''
+
+xref:028-oseias/028-oseias-009.adoc#v28-9-0[&#60; Capítulo Anterior] | <<v28-10-0,Topo>> | xref:028-oseias/028-oseias-011.adoc#v28-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,68 @@
+include::./index.adoc[]
+
+[[v66-15-0]]
+=== Apocalipse, 15
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v66-15-1]]
+
+^<<v66-15-1,1>>^ E eu vi no céu outro sinal, grande e maravilhoso: sete anjos com sete pragas. Estas são as últimas, porque por meio delas é levada a término a ira de Deus.
+
+[[v66-15-2]]
+
+^<<v66-15-2,2>>^ E eu vi o que parecia ser um mar vítreo misturado com fogo, e os que se saem vitoriosos [em face] da fera, e da sua imagem, e do número do seu nome, estar em pé junto^&#42;1^ ao mar vítreo, tendo harpas de Deus.
+
+[NOTE]
+====
+. Ou “sobre”.
+====
+
+[[v66-15-3]]
+
+^<<v66-15-3,3>>^ E estão cantando o cântico de Moisés, o escravo de Deus, e o cântico do Cordeiro, dizendo:
+“Grandes e maravilhosas são as tuas obras, Jeová^&#42;1^ Deus, o Todo-poderoso. Justos e verdadeiros são os teus caminhos, Rei da eternidade.^&#42;2^
+
+[NOTE]
+====
+. Veja Ap. 1D.
+. “Eternidade”, P47א°CVgSyh; A e ms. Minúsculo 046: “das nações”.
+====
+
+[[v66-15-4]]
+
+^<<v66-15-4,4>>^ Quem realmente não te temerá, Jeová,^&#42;1^ e glorificará o teu nome, porque só tu és leal? Pois virão todas as nações e adorarão perante ti, porque os teus justos decretos foram manifestos.”
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v66-15-5]]
+
+^<<v66-15-5,5>>^ E depois destas coisas eu vi, e foi aberto no céu o santuário da tenda do testemunho,^&#42;1^
+
+[NOTE]
+====
+. Ou “tabernáculo do testemunho”.
+====
+
+[[v66-15-6]]
+
+^<<v66-15-6,6>>^ e do santuário emergiram os sete anjos com as sete pragas, trajados de linho^&#42;1^ puro, resplandecente, e cingidos pelo peito com cintos de ouro.
+
+[NOTE]
+====
+. “Linho”, P47אVgcSyh; AC: “pedra”.
+====
+
+[[v66-15-7]]
+
+^<<v66-15-7,7>>^ E uma das quatro criaturas viventes deu aos sete anjos sete tigelas de ouro, cheias da ira de Deus, o qual vive para todo o sempre.
+
+[[v66-15-8]]
+
+^<<v66-15-8,8>>^ E o santuário ficou cheio de fumaça, por causa da glória de Deus e por causa do seu poder, e ninguém podia entrar no santuário até que terminaram as sete pragas dos sete anjos.
+
+'''
+
+xref:066-apocalipse/066-apocalipse-014.adoc#v66-14-0[&#60; Capítulo Anterior] | <<v66-15-0,Topo>> | xref:066-apocalipse/066-apocalipse-016.adoc#v66-16-0[Próximo Capítulo &#62;]

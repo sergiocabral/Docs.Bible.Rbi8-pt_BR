@@ -1,0 +1,142 @@
+include::./index.adoc[]
+
+[[v4-9-0]]
+=== Números, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-9-1]]
+
+^<<v4-9-1,1>>^ E Jeová passou a falar a Moisés no ermo de Sinai, no segundo ano de sua saída da terra do Egito, no primeiro mês, dizendo:
+
+[[v4-9-2]]
+
+^<<v4-9-2,2>>^ “Ora, os filhos de Israel devem preparar o sacrifício pascoal no seu tempo designado.
+
+[[v4-9-3]]
+
+^<<v4-9-3,3>>^ Deveis prepará-lo no dia quatorze deste mês, entre as duas noitinhas,^&#42;1^ no seu tempo designado. Deveis prepará-lo segundo todos os seus estatutos e todo o seu procedimento regular.”
+
+[NOTE]
+====
+. Veja Êx 12:6 n.
+====
+
+[[v4-9-4]]
+
+^<<v4-9-4,4>>^ De modo que Moisés falou aos filhos de Israel para que preparassem o sacrifício pascoal.
+
+[[v4-9-5]]
+
+^<<v4-9-5,5>>^ Prepararam então o sacrifício pascoal no primeiro mês, no dia quatorze do mês, entre as duas noitinhas, no ermo de Sinai. Os filhos de Israel fizeram segundo tudo o que Jeová ordenara a Moisés, assim fizeram os filhos de Israel.
+
+[[v4-9-6]]
+
+^<<v4-9-6,6>>^ Ora, aconteceu que havia homens que tinham ficado impuros por meio duma alma humana,^&#42;1^ de modo que não podiam preparar o sacrifício pascoal naquele dia. Por isso compareceram perante Moisés e Arão naquele dia.
+
+[NOTE]
+====
+. “Por meio duma alma humana”, isto é, uma alma falecida. MSam(hebr.): lené·fesh ’a·dhám; gr.: psy·kheí an·thró·pou; Sy: “alma de homens”; lat.: á·ni·mam hó·mi·nis.
+====
+
+[[v4-9-7]]
+
+^<<v4-9-7,7>>^ Estes homens disseram-lhe^&#42;1^ então: “Ficamos impuros por meio duma alma humana. Por que devíamos ficar impedidos de apresentar a Jeová a oferta no seu tempo designado, no meio dos filhos de Israel?”
+
+[NOTE]
+====
+. “Lhe”, MSamLXXB; LXXASyVg: “lhes”.
+====
+
+[[v4-9-8]]
+
+^<<v4-9-8,8>>^ A isso Moisés lhes disse: “Ficai ali de pé e ouça eu o que Jeová possa ordenar a vosso respeito.”
+
+[[v4-9-9]]
+
+^<<v4-9-9,9>>^ Jeová falou então a Moisés, dizendo:
+
+[[v4-9-10]]
+
+^<<v4-9-10,10>>^ “Fala aos filhos de Israel, dizendo: ‘Embora algum homem vosso ou das vossas gerações tenha ficado impuro por meio duma alma^&#42;1^ ou esteja numa viagem distante,^&#42;2^ ele também tem de preparar o sacrifício pascoal para Jeová.
+
+[NOTE]
+====
+. “Por meio duma alma”, isto é, uma alma falecida. Hebr.: la·né·fesh; gr.: psy·kheí an·thró·pou; lat.: á·ni·ma.
+. “Distante.” No M, a última letra desta palavra foi marcada com um ponto extraordinário pelos soferins, indicando que a leitura é duvidosa. Veja Ap. 2A.
+====
+
+[[v4-9-11]]
+
+^<<v4-9-11,11>>^ Devem prepará-lo no segundo mês, no dia quatorze, entre as duas noitinhas. Devem comê-lo com pães não fermentados e ervas amargas.
+
+[[v4-9-12]]
+
+^<<v4-9-12,12>>^ Nada devem deixar sobrar dele até à manhã e não lhe devem quebrar nenhum osso. Devem prepará-lo segundo todo o estatuto da páscoa.
+
+[[v4-9-13]]
+
+^<<v4-9-13,13>>^ Mas, quando o homem estava limpo e não veio a estar em viagem, e ele negligenciou preparar o sacrifício pascoal, então essa alma tem de ser decepada de seu povo, porque não apresentou a oferta de Jeová no seu tempo designado. Esse homem responderá pelo seu erro.
+
+[[v4-9-14]]
+
+^<<v4-9-14,14>>^ “‘E caso resida convosco um residente forasteiro, ele também tem de preparar o sacrifício pascoal para Jeová. Deve fazê-lo segundo o estatuto da páscoa e segundo o seu procedimento regular. Deve haver um só estatuto para vós, tanto para o residente forasteiro como para o natural do país.’”
+
+[[v4-9-15]]
+
+^<<v4-9-15,15>>^ Ora, no dia de se erigir o tabernáculo, a nuvem cobria o tabernáculo da tenda do Testemunho, mas à noitinha continuava sobre o tabernáculo o que parecia ser fogo, até à manhã.
+
+[[v4-9-16]]
+
+^<<v4-9-16,16>>^ Assim era de contínuo: A nuvem cobria-a de dia^&#42;1^ e o aspecto de fogo, de noite.
+
+[NOTE]
+====
+. “De dia”, TJLXXSyVg; MSam omitem isso.
+====
+
+[[v4-9-17]]
+
+^<<v4-9-17,17>>^ E sempre que a nuvem se elevava de cima da tenda, os filhos de Israel partiam^&#42;1^ logo após, e no lugar onde a nuvem se punha a residir, ali se acampavam os filhos de Israel.
+
+[NOTE]
+====
+. Ou “iam embora; levantavam acampamento”.
+====
+
+[[v4-9-18]]
+
+^<<v4-9-18,18>>^ Os filhos de Israel partiam por ordem de Jeová e acampavam-se por ordem de Jeová. Todos os dias em que a nuvem residia sobre o tabernáculo permaneciam acampados.
+
+[[v4-9-19]]
+
+^<<v4-9-19,19>>^ E quando a nuvem prolongava sua permanência sobre o tabernáculo por muitos dias, os filhos de Israel também cuidavam da sua obrigação para com Jeová, de não partirem.
+
+[[v4-9-20]]
+
+^<<v4-9-20,20>>^ E às vezes^&#42;1^ a nuvem continuava poucos dias sobre o tabernáculo. Permaneciam acampados por ordem de Jeová e partiam por ordem de Jeová.
+
+[NOTE]
+====
+. Lit.: “E ocorre que.”
+====
+
+[[v4-9-21]]
+
+^<<v4-9-21,21>>^ E às vezes a nuvem continuava da noitinha para a manhã; e a nuvem elevava-se de manhã e eles partiam. Quer fosse de dia quer de noite que a nuvem se elevava, eles também partiam.
+
+[[v4-9-22]]
+
+^<<v4-9-22,22>>^ Quer fosse dois dias quer um mês ou mais dias^&#42;1^ que a nuvem prolongava sua permanência sobre o tabernáculo por residir sobre ele, os filhos de Israel permaneciam acampados e não partiam, mas partiam quando ela se elevava.
+
+[NOTE]
+====
+. Lit.: “ou dias”. Vg: “ou um tempo mais longo”.
+====
+
+[[v4-9-23]]
+
+^<<v4-9-23,23>>^ Acampavam-se à ordem de Jeová e partiam à ordem de Jeová. Cuidavam da sua obrigação para com Jeová segundo a ordem de Jeová mediante Moisés.
+
+'''
+
+xref:004-numeros/004-numeros-008.adoc#v4-8-0[&#60; Capítulo Anterior] | <<v4-9-0,Topo>> | xref:004-numeros/004-numeros-010.adoc#v4-10-0[Próximo Capítulo &#62;]

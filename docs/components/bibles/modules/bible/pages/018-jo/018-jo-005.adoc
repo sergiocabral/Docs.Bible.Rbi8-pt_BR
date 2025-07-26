@@ -1,0 +1,186 @@
+include::./index.adoc[]
+
+[[v18-5-0]]
+=== Jó, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-5-1]]
+
+^<<v18-5-1,1>>^ “Chama, por favor! Há quem te responda?
+E para qual dos santos^&#42;1^ te virarás?
+
+[NOTE]
+====
+. “Qual dos santos anjos”, LXX.
+====
+
+[[v18-5-2]]
+
+^<<v18-5-2,2>>^ Pois ao tolo matará o vexame
+E ao facilmente engodado fará morrer a inveja.
+
+[[v18-5-3]]
+
+^<<v18-5-3,3>>^ Eu mesmo vi o tolo arraigar-se,
+Mas repentinamente comecei a maldizer seu lugar de permanência.
+
+[[v18-5-4]]
+
+^<<v18-5-4,4>>^ Seus filhos permanecem longe da salvação
+E são esmigalhados no portão sem que alguém [os] livre.
+
+[[v18-5-5]]
+
+^<<v18-5-5,5>>^ O que ele ceifa,^&#42;1^ o faminto come;
+E é tirado até mesmo dos ganchos do açougueiro,^&#42;2^
+E uma armadilha realmente abocanha os seus meios de subsistência.^&#42;3^
+
+[NOTE]
+====
+. Lit.: “Que [é] sua ceifa.”
+. Ou “até mesmo dos espinhos”.
+. “E [os] sedentos deveras [lhe] tiram seu leite”, mediante uma correção do M.
+====
+
+[[v18-5-6]]
+
+^<<v18-5-6,6>>^ Pois o que é prejudicial não sai do mero pó,
+E a desgraça não surge do mero solo.
+
+[[v18-5-7]]
+
+^<<v18-5-7,7>>^ Porque o próprio homem^&#42;1^ nasce para a desgraça,
+Como as próprias faíscas^&#42;2^ voam para cima.
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+. Lit.: “os filhos da chama”.
+====
+
+[[v18-5-8]]
+
+^<<v18-5-8,8>>^ No entanto, eu mesmo me dirigiria a Deus^&#42;1^
+E poria minha causa^&#42;2^ diante de Deus,^&#42;3^
+
+[NOTE]
+====
+. Ou “ao Divino”. Hebr.: ’El; LXX: “Jeová”.
+. Ou “pleito”.
+. “Deus.” Hebr.: ’Elo·hím, pl. de ’Elóh·ah, para denotar excelência e majestade; LXX: “Jeová”.
+====
+
+[[v18-5-9]]
+
+^<<v18-5-9,9>>^ Aquele que faz grandes coisas inescrutáveis,^&#42;1^
+Inúmeras coisas maravilhosas;
+
+[NOTE]
+====
+. Lit.: “e não se pode escrutá[-las]”.
+====
+
+[[v18-5-10]]
+
+^<<v18-5-10,10>>^ Aquele que dá chuva à superfície da terra
+E envia águas sobre os descampados;
+
+[[v18-5-11]]
+
+^<<v18-5-11,11>>^ Aquele que coloca os rebaixados em lugar alto,
+De modo que os entristecidos se acham elevados em salvação;
+
+[[v18-5-12]]
+
+^<<v18-5-12,12>>^ Aquele que frustra os ardis dos arguciosos,
+De modo que suas mãos não trabalham com eficiência;
+
+[[v18-5-13]]
+
+^<<v18-5-13,13>>^ Aquele que apanha os sábios na sua própria astúcia,
+De modo que o conselho dos astutos se precipita;
+
+[[v18-5-14]]
+
+^<<v18-5-14,14>>^ Encontram escuridão até mesmo de dia
+E andam às apalpadelas ao meio-dia como se fosse noite;
+
+[[v18-5-15]]
+
+^<<v18-5-15,15>>^ E Aquele que salva da espada que lhes sai da boca
+E da mão do forte, ao pobre,
+
+[[v18-5-16]]
+
+^<<v18-5-16,16>>^ De modo que vem a haver esperança para o de condição humilde,
+Mas a injustiça fecha realmente a boca.
+
+[[v18-5-17]]
+
+^<<v18-5-17,17>>^ Eis que feliz é o homem^&#42;1^ a quem Deus^&#42;2^ repreende;
+E não rejeites a disciplina do Todo-poderoso!
+
+[NOTE]
+====
+. Ou “homem mortal”, como em 4:17. Hebr.: ’enóhsh.
+. “Deus.” Hebr.: ’Elóh·ah.
+====
+
+[[v18-5-18]]
+
+^<<v18-5-18,18>>^ Pois ele mesmo causa dor, mas pensa [a ferida];
+Ele despedaça, mas as suas próprias mãos curam.
+
+[[v18-5-19]]
+
+^<<v18-5-19,19>>^ Em seis aflições te livrará,
+E em sete, nada de nocivo te tocará.
+
+[[v18-5-20]]
+
+^<<v18-5-20,20>>^ Durante a fome ele certamente te remirá da morte,
+E durante a guerra, do poder^&#42;1^ da espada.
+
+[NOTE]
+====
+. Lit.: “mãos”.
+====
+
+[[v18-5-21]]
+
+^<<v18-5-21,21>>^ Do chicote da língua ficarás escondido,
+E não terás medo da assolação, quando vier.
+
+[[v18-5-22]]
+
+^<<v18-5-22,22>>^ Tu te rirás da assolação e da fome,
+E não precisarás ter medo da fera da terra.
+
+[[v18-5-23]]
+
+^<<v18-5-23,23>>^ Pois o teu pacto será com as pedras do campo
+E se fará que a própria fera do campo viva em paz contigo.
+
+[[v18-5-24]]
+
+^<<v18-5-24,24>>^ E certamente saberás que a própria paz está na tua tenda,
+E forçosamente irás e verás o teu pastio, e não terás carência.
+
+[[v18-5-25]]
+
+^<<v18-5-25,25>>^ E hás de saber que a tua descendência é numerosa
+E teus descendentes são como a vegetação da terra.
+
+[[v18-5-26]]
+
+^<<v18-5-26,26>>^ Chegarás em vigor à sepultura,
+Como quando os feixes se empilham no seu tempo.
+
+[[v18-5-27]]
+
+^<<v18-5-27,27>>^ Eis que foi isto o que investigamos. Assim é.
+Ouve-o, e tu — saiba-o tu mesmo.”
+
+'''
+
+xref:018-jo/018-jo-004.adoc#v18-4-0[&#60; Capítulo Anterior] | <<v18-5-0,Topo>> | xref:018-jo/018-jo-006.adoc#v18-6-0[Próximo Capítulo &#62;]

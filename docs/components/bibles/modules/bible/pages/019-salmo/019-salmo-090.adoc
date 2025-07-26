@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v19-90-0]]
+=== Salmos, 90
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_LIVRO QUARTO_
+
+_(Salmos 90 - 106)_
+
+_Uma oração de Moisés, homem do [verdadeiro] Deus._
+
+[[v19-90-1]]
+
+^<<v19-90-1,1>>^ Ó Jeová,^&#42;1^ tu mesmo mostraste ser uma verdadeira habitação para nós
+Durante geração após geração.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-90-2]]
+
+^<<v19-90-2,2>>^ Antes de nascerem os próprios montes
+Ou de teres passado a produzir como que com dores de parto a terra e o solo produtivo,^&#42;1^
+Sim, de tempo indefinido a tempo indefinido, tu és Deus.^&#42;2^
+
+[NOTE]
+====
+. Ou “ou de a terra e o solo produtivo serem produzidos com dores de parto”, mediante uma mudança dos sinais vocálicos.
+. Ou “o Divino”. Hebr.: ’El; sir.: ’A·la·ha’; lat.: Dé·us.
+====
+
+[[v19-90-3]]
+
+^<<v19-90-3,3>>^ Fazes o homem mortal^&#42;1^ voltar à matéria quebrantada^&#42;2^
+E dizes: “Retornai, filhos dos homens.”^&#42;3^
+
+[NOTE]
+====
+. “Homem mortal.” Hebr.: ’enóhsh.
+. Ou “ao pó”, como terra triturada ou pulverizada.
+. Lit.: “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v19-90-4]]
+
+^<<v19-90-4,4>>^ Pois mil anos aos teus olhos são apenas como o ontem que passou
+E como uma vigília durante a noite.
+
+[[v19-90-5]]
+
+^<<v19-90-5,5>>^ Tu os levaste de enxurrada; tornaram-se mero sono;
+De manhã [são] como a erva verde que muda.
+
+[[v19-90-6]]
+
+^<<v19-90-6,6>>^ De manhã está florindo e tem de mudar;
+À noite murcha e certamente se resseca.
+
+[[v19-90-7]]
+
+^<<v19-90-7,7>>^ Pois chegamos ao fim, na tua ira,
+E fomos perturbados por teu furor.
+
+[[v19-90-8]]
+
+^<<v19-90-8,8>>^ Puseste os nossos erros bem na tua frente,
+Nossas coisas ocultas diante da tua face luminosa.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “do luzeiro da tua face”.
+====
+
+[[v19-90-9]]
+
+^<<v19-90-9,9>>^ Pois todos os nossos dias vieram a declinar na tua fúria;
+Findamos os nossos anos como um sussurro.
+
+[[v19-90-10]]
+
+^<<v19-90-10,10>>^ Os dias dos nossos anos são em si mesmos setenta anos;
+E se por motivo de potência especial são oitenta anos,
+Mesmo assim a sua insistência é em desgraça e em coisas prejudiciais;
+Pois tem de passar depressa, e lá saímos voando.
+
+[[v19-90-11]]
+
+^<<v19-90-11,11>>^ Quem é que conhece a força de tua ira
+E tua fúria segundo o temor de ti?
+
+[[v19-90-12]]
+
+^<<v19-90-12,12>>^ Mostra-nos como contar os nossos dias de tal modo
+Que possamos introduzir um coração de sabedoria.
+
+[[v19-90-13]]
+
+^<<v19-90-13,13>>^ Volta deveras, ó Jeová! Até quando será?
+E tem lástima dos teus servos.
+
+[[v19-90-14]]
+
+^<<v19-90-14,14>>^ Farta-nos de manhã com a tua benevolência,^&#42;1^
+Para que gritemos de júbilo e nos alegremos em todos os nossos dias.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-90-15]]
+
+^<<v19-90-15,15>>^ Alegra-nos por tantos dias quantos nos atribulaste,
+Os anos em que vimos calamidade.
+
+[[v19-90-16]]
+
+^<<v19-90-16,16>>^ Apareça a tua atuação aos teus próprios servos
+E o teu esplendor sobre os seus filhos.
+
+[[v19-90-17]]
+
+^<<v19-90-17,17>>^ E mostre estar sobre nós a afabilidade de Jeová,^&#42;1^ nosso Deus,
+E estabelece deveras firmemente sobre nós o trabalho das nossas mãos.
+Sim, estabelece deveras firmemente o trabalho das nossas mãos.
+
+[NOTE]
+====
+. Veja v. 1 n.
+====
+
+'''
+
+xref:019-salmo/019-salmo-089.adoc#v19-89-0[&#60; Capítulo Anterior] | <<v19-90-0,Topo>> | xref:019-salmo/019-salmo-091.adoc#v19-91-0[Próximo Capítulo &#62;]

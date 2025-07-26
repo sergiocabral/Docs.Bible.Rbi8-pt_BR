@@ -1,0 +1,134 @@
+include::./index.adoc[]
+
+[[v33-7-0]]
+=== Miqueias, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v33-7-1]]
+
+^<<v33-7-1,1>>^ Ai de mim, porque me tornei como o recolhimento de frutas de verão, como a rebusca da vindima! Não há cacho de uvas para comer, nem figo temporão que a minha alma almeje!
+
+[[v33-7-2]]
+
+^<<v33-7-2,2>>^ Pereceu da terra^&#42;1^ aquele que é leal^&#42;2^ e não há nenhum reto entre a humanidade.^&#42;3^ Todos eles estão de tocaia para derramar sangue. Caçam, cada um o seu próprio irmão, com uma rede de arrasto.
+
+[NOTE]
+====
+. “Da terra.” Hebr.: ha·’á·rets.
+. Ou “aquele de benevolência”. Hebr.: hha·sídh.
+. Ou “entre homens terrenos”. Hebr.: ba·’a·dhám.
+====
+
+[[v33-7-3]]
+
+^<<v33-7-3,3>>^ [Suas] mãos estão sobre o que é mau, para [o] fazer bem; o príncipe pede [algo] e aquele que julga [o faz] pela recompensa, e o grande profere a avidez da sua alma, da sua própria; e eles urdem a trama.
+
+[[v33-7-4]]
+
+^<<v33-7-4,4>>^ O melhor deles é como a sarça, o mais reto [deles] é pior do que uma sebe de espinhos. Tem de chegar o dia dos teus vigias, [de] se fixar a atenção em ti. Agora ocorrerá a sua consternação.
+
+[[v33-7-5]]
+
+^<<v33-7-5,5>>^ Não tenhais fé no companheiro. Não tenhais confiança no amigo íntimo. Guarda o abrir da tua boca diante daquela que se deita ao teu seio.
+
+[[v33-7-6]]
+
+^<<v33-7-6,6>>^ Pois o filho despreza o pai; a filha se levanta contra a sua mãe; a nora contra a sua sogra; os inimigos do homem são os homens^&#42;1^ da sua casa.
+
+[NOTE]
+====
+. “Homens da.” Hebr.: ’an·shéh, pl. de ’ish, que antes foi vertido nesta sentença por “do homem”.
+====
+
+[[v33-7-7]]
+
+^<<v33-7-7,7>>^ Mas, quanto a mim, ficarei à espreita de Jeová. Mostrarei uma atitude de espera pelo Deus da minha salvação. Meu Deus me ouvirá.
+
+[[v33-7-8]]
+
+^<<v33-7-8,8>>^ Não te alegres de mim, ó inimiga minha. Embora eu tenha caído, certamente me levantarei; embora eu more na escuridão, Jeová será para mim uma luz.
+
+[[v33-7-9]]
+
+^<<v33-7-9,9>>^ Suportarei a fúria de Jeová — pois pequei contra ele — até que ele pleiteie a minha causa e realmente execute justiça por mim. Ele me levará para fora à luz; olharei para a sua justiça.
+
+[[v33-7-10]]
+
+^<<v33-7-10,10>>^ E minha inimiga [o] verá e a vergonha cobrirá aquela que me dizia: “Onde está ele, Jeová, teu Deus?” Meus próprios olhos a verão. Agora ela se tornará um lugar pisado como a lama das ruas.
+
+[[v33-7-11]]
+
+^<<v33-7-11,11>>^ No dia da construção de teus^&#42;1^ muros de pedra, naquele dia [o] decreto^&#42;2^ estará longe.
+
+[NOTE]
+====
+. “Teus”, hebr. fem. sing.
+. Ou “limite prescrito”.
+====
+
+[[v33-7-12]]
+
+^<<v33-7-12,12>>^ Naquele dia virão^&#42;1^ até a ti desde a Assíria e das cidades do Egito,^&#42;2^ e desde o Egito até [o] Rio; e de mar a mar e [de] monte a monte.
+
+[NOTE]
+====
+. “Virão”, LXX; MSyVg: “virá”.
+. “Egito.” Hebr.: Ma·tsóhr.
+====
+
+[[v33-7-13]]
+
+^<<v33-7-13,13>>^ E a terra terá de tornar-se um baldio desolado por causa dos seus habitantes, por causa dos frutos das suas ações.
+
+[[v33-7-14]]
+
+^<<v33-7-14,14>>^ Pastoreia teu^&#42;1^ povo com a tua vara, o rebanho da tua herança, que residia sozinho numa floresta — no meio dum pomar. Apascentem-se de Basã e de Gileade como nos dias de há muito tempo.
+
+[NOTE]
+====
+. “Teu”, hebr. masc. sing.
+====
+
+[[v33-7-15]]
+
+^<<v33-7-15,15>>^ “Como nos dias em que saíste da terra do Egito, eu lhe mostrarei coisas maravilhosas.
+
+[[v33-7-16]]
+
+^<<v33-7-16,16>>^ As nações [o] verão e ficarão envergonhadas de toda a sua potência. Porão a mão sobre a boca; seus próprios ouvidos ficarão surdos.
+
+[[v33-7-17]]
+
+^<<v33-7-17,17>>^ Lamberão o pó como as serpentes; como os répteis da terra sairão agitadas de seus baluartes. Virão trêmulas a Jeová, nosso Deus,^&#42;1^ e terão medo de ti.”
+
+[NOTE]
+====
+. “Nosso Deus.” Hebr.: ’Elo·héh·nu.
+====
+
+[[v33-7-18]]
+
+^<<v33-7-18,18>>^ Quem é Deus^&#42;1^ como tu, perdoando o erro e passando por alto a transgressão do restante da sua herança? Certamente não se aferrará à sua ira para todo o sempre, pois se agrada na benevolência.^&#42;2^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El; gr.: The·ós; lat.: Dé·us.
+. Ou “amor leal”. Hebr.: hhé·sedh.
+====
+
+[[v33-7-19]]
+
+^<<v33-7-19,19>>^ Ele novamente mostrará misericórdia para conosco; subjugará os nossos erros. E a todos os seus^&#42;1^ pecados lançarás nas profundezas do mar.
+
+[NOTE]
+====
+. “Seus”, M; LXXSyVg: “nossos”; T: “de Israel”.
+====
+
+[[v33-7-20]]
+
+^<<v33-7-20,20>>^ Darás [a] veracidade [dada] a Jacó, [a] benevolência [dada] a Abraão, que juraste aos nossos antepassados desde os dias de outrora.
+
+'''
+
+xref:033-miqueias/033-miqueias-006.adoc#v33-6-0[&#60; Capítulo Anterior] | <<v33-7-0,Topo>> | xref:034-naum/034-naum-001.adoc#v34-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v30-2-0]]
+=== Amós, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v30-2-1]]
+
+^<<v30-2-1,1>>^ “Assim disse Jeová: ‘“Por causa de três revoltas de Moabe e por causa de quatro não o farei voltar atrás, por ele queimar os ossos do rei de Edom para cal.
+
+[[v30-2-2]]
+
+^<<v30-2-2,2>>^ E vou enviar fogo dentro de Moabe e terá de devorar as torres de habitação de Queriote; e Moabe terá de morrer com ruído, com rebate, com o som de buzina.^&#42;1^
+
+[NOTE]
+====
+. Ou “shofar”. Hebr.: shoh·fár.
+====
+
+[[v30-2-3]]
+
+^<<v30-2-3,3>>^ E vou decepar do seu meio [o] juiz, e com ele matarei todos os príncipes dela”, disse Jeová.’
+
+[[v30-2-4]]
+
+^<<v30-2-4,4>>^ “Assim disse Jeová: ‘Por causa de três revoltas de Judá e por causa de quatro não o farei voltar atrás, por eles rejeitarem a lei de Jeová e [por] não terem guardado os próprios regulamentos dele; porém, as suas mentiras, atrás das quais andaram os seus antepassados, os faziam transviar-se.
+
+[[v30-2-5]]
+
+^<<v30-2-5,5>>^ E vou enviar fogo dentro de Judá e terá de devorar as torres de habitação de Jerusalém.’
+
+[[v30-2-6]]
+
+^<<v30-2-6,6>>^ “Assim disse Jeová: ‘Por causa de três revoltas de Israel e por causa de quatro não o farei voltar atrás, por venderem o justo pela mera prata e o pobre pelo [preço de] um par de sandálias.
+
+[[v30-2-7]]
+
+^<<v30-2-7,7>>^ Estão suspirando pelo pó da terra na cabeça das pessoas de condição humilde; e mudam o rumo do caminho dos mansos; e um homem^&#42;1^ e seu próprio pai foram ter com a [mesma] moça para profanar meu santo nome.
+
+[NOTE]
+====
+. Ou “e um marido”. Hebr.: we’ísh.
+====
+
+[[v30-2-8]]
+
+^<<v30-2-8,8>>^ E estenderam-se sobre vestes tomadas em penhor, ao lado de todo altar; e na casa de seus deuses^&#42;1^ bebem o vinho dos que foram multados.’
+
+[NOTE]
+====
+. “Seus deuses.” Hebr.: ’elo·heh·hém.
+====
+
+[[v30-2-9]]
+
+^<<v30-2-9,9>>^ “‘Mas eu, por causa deles, tinha aniquilado o amorreu, cuja altura era como a altura dos cedros e que era vigoroso como as árvores maciças; e fui aniquilar seus frutos em cima e suas raízes embaixo.
+
+[[v30-2-10]]
+
+^<<v30-2-10,10>>^ E eu mesmo vos fiz subir da terra do Egito e vos fiz andar através do ermo por quarenta anos, para que tomásseis posse da terra^&#42;1^ do amorreu.
+
+[NOTE]
+====
+. “Terra.” Hebr.: ’é·rets.
+====
+
+[[v30-2-11]]
+
+^<<v30-2-11,11>>^ E continuei a suscitar alguns dos vossos filhos como profetas e alguns dos vossos jovens como nazireus. Não deve realmente ser assim, ó filhos de Israel?’ é a pronunciação de Jeová.
+
+[[v30-2-12]]
+
+^<<v30-2-12,12>>^ “‘Mas vós fostes dar de beber vinho aos nazireus e impusestes uma ordem aos profetas, dizendo: “Não deveis profetizar.”
+
+[[v30-2-13]]
+
+^<<v30-2-13,13>>^ Eis que faço balançar o que há debaixo de vós, assim como balança a carroça cheia de gavelas de cereal recém-segado.
+
+[[v30-2-14]]
+
+^<<v30-2-14,14>>^ E terá de findar para o ligeiro o lugar para onde fugir, e nenhum forte reforçará seu poder, e nenhum poderoso porá a sua alma^&#42;1^ a salvo.
+
+[NOTE]
+====
+. “Sua alma.” Hebr.: naf·shóh; gr.: psy·khén; lat.: á·ni·mam. Veja Ap. 4A.
+====
+
+[[v30-2-15]]
+
+^<<v30-2-15,15>>^ E nenhum que maneje o arco se manterá firme e ninguém de pés ligeiros escapará, e ninguém montado num cavalo porá a sua alma a salvo.
+
+[[v30-2-16]]
+
+^<<v30-2-16,16>>^ E quanto ao forte no seu coração entre os poderosos, fugirá nu naquele dia’, é a pronunciação de Jeová.”
+
+'''
+
+xref:030-amos/030-amos-001.adoc#v30-1-0[&#60; Capítulo Anterior] | <<v30-2-0,Topo>> | xref:030-amos/030-amos-003.adoc#v30-3-0[Próximo Capítulo &#62;]

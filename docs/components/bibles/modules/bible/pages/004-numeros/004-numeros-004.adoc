@@ -1,0 +1,246 @@
+include::./index.adoc[]
+
+[[v4-4-0]]
+=== Números, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-4-1]]
+
+^<<v4-4-1,1>>^ Jeová falou então a Moisés e a Arão, dizendo:
+
+[[v4-4-2]]
+
+^<<v4-4-2,2>>^ “Far-se-á^&#42;1^ a soma dos filhos de Coate dentre os filhos de Levi, segundo as suas famílias na casa de seus pais,
+
+[NOTE]
+====
+. “Far-se-á.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v4-4-3]]
+
+^<<v4-4-3,3>>^ da idade de trinta^&#42;1^ anos para cima até os cinqüenta anos de idade, todos os que entram no grupo de serviço^&#42;2^ para fazer a obra na tenda de reunião.
+
+[NOTE]
+====
+. “Trinta”, MSamSyVg; LXX: “vinte e cinco”. Veja 8:24.
+. “Todos os que entram para fazer serviço público”, LXX.
+====
+
+[[v4-4-4]]
+
+^<<v4-4-4,4>>^ “Este é o serviço dos filhos de Coate na tenda de reunião. É algo santíssimo:
+
+[[v4-4-5]]
+
+^<<v4-4-5,5>>^ E Arão e seus filhos têm de entrar, quando o acampamento estiver para partir, e têm de tirar a cortina do reposteiro e cobrir com ela a arca do testemunho.
+
+[[v4-4-6]]
+
+^<<v4-4-6,6>>^ E têm de pôr sobre ela uma cobertura de peles de focas e estender por cima um pano azul inteiro, e têm de colocar-lhe os varais.
+
+[[v4-4-7]]
+
+^<<v4-4-7,7>>^ “E estenderão um pano azul sobre a mesa dos pães da proposição, e têm de pôr sobre ela os pratos, e as taças, e as tigelas, e as bilhas da oferta de bebida; e o pão contínuo deve permanecer sobre ela.
+
+[[v4-4-8]]
+
+^<<v4-4-8,8>>^ E têm de estender sobre eles um pano carmíneo, e têm de cobri-la com uma cobertura de peles de focas e colocar-lhe os varais.
+
+[[v4-4-9]]
+
+^<<v4-4-9,9>>^ E têm de tomar um pano azul e cobrir o candelabro do luzeiro e suas lâmpadas, e suas espevitadeiras, e seus porta-lumes, e todos os seus vasos para o óleo que lhe ministram regularmente.
+
+[[v4-4-10]]
+
+^<<v4-4-10,10>>^ E têm de pôr tanto a ele como a todos os seus utensílios numa cobertura de peles de focas e pô-lo sobre uma barra.
+
+[[v4-4-11]]
+
+^<<v4-4-11,11>>^ E sobre o altar de ouro estenderão um pano azul, e têm de cobri-lo com uma cobertura de peles de focas e colocar-lhe os varais.
+
+[[v4-4-12]]
+
+^<<v4-4-12,12>>^ E têm de tomar todos os utensílios do ministério com que ministram regularmente no lugar santo, e têm de pô-los num pano azul e cobri-los com uma cobertura de peles de focas, e pô-los sobre uma barra.
+
+[[v4-4-13]]
+
+^<<v4-4-13,13>>^ “E têm de retirar do altar as cinzas gordurosas e estender sobre ele um pano de lã tingida de roxo.
+
+[[v4-4-14]]
+
+^<<v4-4-14,14>>^ E têm de pôr sobre ele todos os seus utensílios com que ministram regularmente junto a ele: os porta-lumes, os garfos e as pás, e as tigelas, todos os utensílios do altar; e têm de estender sobre ele uma cobertura de peles de focas e colocar-lhe os varais.^&#42;1^
+
+[NOTE]
+====
+. SamLXX acrescentam: “E tomarão um pano roxo e cobrirão a bacia e seu suporte, e colocá-los-ão numa cobertura de pele azul, e colocá[-los-]ão sobre varais.”
+====
+
+[[v4-4-15]]
+
+^<<v4-4-15,15>>^ “E Arão e seus filhos têm de acabar de cobrir o lugar santo e todos os utensílios do lugar santo quando o acampamento estiver para partir, e depois entrarão os filhos de Coate para carregá-los, mas não devem tocar no lugar santo de modo a terem de morrer. Estas coisas na tenda de reunião são a carga dos filhos de Coate.
+
+[[v4-4-16]]
+
+^<<v4-4-16,16>>^ “E Eleazar, filho de Arão, o sacerdote, tem a supervisão sobre o óleo do luzeiro e o incenso perfumado, e [sobre] a oferta contínua de cereais e o óleo de unção, a supervisão sobre todo o tabernáculo e tudo o que há nele, a saber, o lugar santo e seus utensílios.
+
+[[v4-4-17]]
+
+^<<v4-4-17,17>>^ E Jeová falou mais a Moisés e a Arão, dizendo:
+
+[[v4-4-18]]
+
+^<<v4-4-18,18>>^ “Não deixeis a tribo das famílias dos coatitas ser decepada dentre os levitas.
+
+[[v4-4-19]]
+
+^<<v4-4-19,19>>^ Mas fazei o seguinte para eles, para que deveras fiquem vivos e não morram por se aproximarem das coisas santíssimas. Arão e seus filhos entrarão, e eles terão de designar a cada um deles seu serviço e sua carga.
+
+[[v4-4-20]]
+
+^<<v4-4-20,20>>^ E não devem entrar para ver as coisas sagradas nem pelo mínimo instante de tempo^&#42;1^ e assim ter de morrer.”
+
+[NOTE]
+====
+. Lit.: “como engolir [saliva]”. Veja Jó 7:19 n.
+====
+
+[[v4-4-21]]
+
+^<<v4-4-21,21>>^ Jeová falou então a Moisés, dizendo:
+
+[[v4-4-22]]
+
+^<<v4-4-22,22>>^ “Far-se-á^&#42;1^ a soma dos filhos de Gérson, sim, deles, pela casa de seus pais, segundo as suas famílias.
+
+[NOTE]
+====
+. Veja v. 2 n.
+====
+
+[[v4-4-23]]
+
+^<<v4-4-23,23>>^ Registrá-los-ás da idade de trinta anos para cima até os cinqüenta anos, todos os que vêm para ingressar no grupo de serviço para prestar serviço na tenda de reunião.
+
+[[v4-4-24]]
+
+^<<v4-4-24,24>>^ Este é o serviço das famílias dos gersonitas quanto ao servir e quanto ao carregar.
+
+[[v4-4-25]]
+
+^<<v4-4-25,25>>^ E eles têm de carregar os panos de tenda do tabernáculo e a tenda de reunião, sua cobertura e a cobertura de peles de focas que há por cima dela, e o reposteiro da entrada da tenda de reunião,
+
+[[v4-4-26]]
+
+^<<v4-4-26,26>>^ e os cortinados do pátio e o reposteiro de entrada do portão do pátio que há ao redor do tabernáculo e do altar, e seus cordões de tenda e todos os seus utensílios de serviço, e todas as coisas com que^&#42;1^ se trabalha regularmente. Assim têm de servir.
+
+[NOTE]
+====
+. “Com que”, LXX; MSam: “para as (com respeito às) quais”.
+====
+
+[[v4-4-27]]
+
+^<<v4-4-27,27>>^ Todo o serviço dos filhos dos gersonitas deve dar-se por ordem de Arão e de seus filhos quanto a todas as suas cargas e todo o seu serviço, e tendes de determinar-lhes todas as suas cargas por obrigação.^&#42;1^
+
+[NOTE]
+====
+. “Por obrigação”, MSam; LXX: “segundo os nomes”, como no v. 32.
+====
+
+[[v4-4-28]]
+
+^<<v4-4-28,28>>^ Este é o serviço das famílias dos filhos dos gersonitas na tenda de reunião, e seu serviço obrigatório está sob a mão de Itamar, filho de Arão, o sacerdote.
+
+[[v4-4-29]]
+
+^<<v4-4-29,29>>^ “Quanto aos filhos de Merari, registrá-los-ás pelas suas famílias na casa de seus pais.
+
+[[v4-4-30]]
+
+^<<v4-4-30,30>>^ Registrá-los-ás da idade de trinta anos para cima até os cinqüenta anos, todos os que entram no grupo de serviço para fazer o serviço da tenda de reunião.
+
+[[v4-4-31]]
+
+^<<v4-4-31,31>>^ E esta é a sua obrigação, sua carga, segundo todo o seu serviço na tenda de reunião: as armações de painel do tabernáculo e suas trancas, e suas colunas, e seus pedestais de encaixe,
+
+[[v4-4-32]]
+
+^<<v4-4-32,32>>^ e as colunas do pátio ao redor e seus pedestais de encaixe, e suas estacas de tenda, e seus cordões de tenda junto com todo o seu equipamento e todo o seu serviço. E designar-lhes-eis, segundo os seus nomes, o equipamento que é sua obrigação como sua carga.
+
+[[v4-4-33]]
+
+^<<v4-4-33,33>>^ Este é o serviço das famílias dos filhos de Merari, segundo todo o seu serviço na tenda de reunião, sob a mão de Itamar, filho de Arão, o sacerdote.”
+
+[[v4-4-34]]
+
+^<<v4-4-34,34>>^ E Moisés e Arão, e os maiorais da assembléia, passaram a registrar os filhos dos coatitas pelas suas famílias e pela casa de seus pais,
+
+[[v4-4-35]]
+
+^<<v4-4-35,35>>^ da idade de trinta anos para cima até os cinqüenta anos, todos os que entraram no grupo de serviço para o serviço na tenda de reunião.
+
+[[v4-4-36]]
+
+^<<v4-4-36,36>>^ E os seus registrados pelas suas famílias vieram a ser dois mil setecentos e cinqüenta.
+
+[[v4-4-37]]
+
+^<<v4-4-37,37>>^ Estes são os registrados das famílias dos coatitas, todos servindo na tenda de reunião, os quais Moisés e Arão registraram segundo a ordem de Jeová [dada] mediante Moisés.
+
+[[v4-4-38]]
+
+^<<v4-4-38,38>>^ Quanto aos registrados dos filhos de Gérson, pelas suas famílias e pela casa de seus pais,
+
+[[v4-4-39]]
+
+^<<v4-4-39,39>>^ da idade de trinta anos para cima até os cinqüenta anos, todos os que entraram no grupo de serviço para o serviço na tenda de reunião,
+
+[[v4-4-40]]
+
+^<<v4-4-40,40>>^ os seus registrados pelas suas famílias, pela casa de seus pais, vieram a ser dois mil seiscentos e trinta.
+
+[[v4-4-41]]
+
+^<<v4-4-41,41>>^ Estes eram os registrados das famílias dos filhos de Gérson, todos os que serviam na tenda de reunião, os quais Moisés e Arão registraram por ordem de Jeová.
+
+[[v4-4-42]]
+
+^<<v4-4-42,42>>^ Quanto aos registrados das famílias dos filhos de Merari, pelas suas famílias, pela casa de seus pais,
+
+[[v4-4-43]]
+
+^<<v4-4-43,43>>^ da idade de trinta anos para cima até os cinqüenta anos de idade, todos os que entraram no grupo de serviço para o serviço na tenda de reunião,
+
+[[v4-4-44]]
+
+^<<v4-4-44,44>>^ os seus registrados, pelas suas famílias, vieram a ser três mil e duzentos.
+
+[[v4-4-45]]
+
+^<<v4-4-45,45>>^ Estes eram os registrados das famílias dos filhos de Merari, os quais Moisés e Arão registraram segundo a ordem de Jeová por meio de Moisés.
+
+[[v4-4-46]]
+
+^<<v4-4-46,46>>^ Todos os registrados que Moisés e Arão, e os maiorais de Israel, registraram como levitas pelas suas famílias e pela casa de seus pais,
+
+[[v4-4-47]]
+
+^<<v4-4-47,47>>^ de trinta anos de idade para cima até os cinqüenta anos de idade, todos os que vieram prestar serviço laborioso e o serviço de levar cargas na tenda de reunião,
+
+[[v4-4-48]]
+
+^<<v4-4-48,48>>^ os seus registrados vieram a ser oito mil quinhentos e oitenta.
+
+[[v4-4-49]]
+
+^<<v4-4-49,49>>^ Por ordem de Jeová, foram registrados^&#42;1^ por meio de Moisés, cada um segundo o seu serviço e a sua carga; e foram registrados assim como Jeová mandara a Moisés.
+
+[NOTE]
+====
+. Lit.: “Segundo a boca de Jeová, ele os registrou”, MSam.
+====
+
+'''
+
+xref:004-numeros/004-numeros-003.adoc#v4-3-0[&#60; Capítulo Anterior] | <<v4-4-0,Topo>> | xref:004-numeros/004-numeros-005.adoc#v4-5-0[Próximo Capítulo &#62;]

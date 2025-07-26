@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v14-21-0]]
+=== 2 Crônicas, 21
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v14-21-1]]
+
+^<<v14-21-1,1>>^ Por fim, Jeosafá deitou-se com os seus antepassados e foi enterrado com os seus antepassados na Cidade de Davi; e Jeorão, seu filho, começou a reinar em seu lugar.
+
+[[v14-21-2]]
+
+^<<v14-21-2,2>>^ E ele teve irmãos, filhos de Jeosafá: Azarias,^&#42;1^ e Jeiel, e Zacarias, e Azarias,^&#42;2^ e Micael, e Sefatias, todos estes sendo filhos de Jeosafá, rei de Israel.^&#42;3^
+
+[NOTE]
+====
+. “Azarias.” Hebr.: ‛Azar·yáh.
+. “E Azarias.” Hebr.: wa·‛Azar·yá·hu.
+. “Israel”, M(hebr.: Yis·ra·’él)Vg; LXXSyVgc e cerca de 40 mss. hebr.: “Judá”.
+====
+
+[[v14-21-3]]
+
+^<<v14-21-3,3>>^ Por conseguinte, seu pai lhes deu muitas dádivas de prata, e de ouro, e de coisas seletas, junto com cidades fortificadas em Judá; mas o reino ele deu a Jeorão, pois era o primogênito.
+
+[[v14-21-4]]
+
+^<<v14-21-4,4>>^ Quando Jeorão se levantou no reino de seu pai, passou a fortalecer a sua posição, e por isso matou todos os seus irmãos à espada, e também alguns dos príncipes de Israel.
+
+[[v14-21-5]]
+
+^<<v14-21-5,5>>^ Jeorão tinha trinta e dois anos de idade quando começou a reinar e reinou por oito anos em Jerusalém.
+
+[[v14-21-6]]
+
+^<<v14-21-6,6>>^ E ele andava no caminho dos reis de Israel, assim como fizeram os da casa de Acabe; porque a filha do próprio Acabe tornara-se sua esposa e ele fazia o que era mau aos olhos de Jeová.
+
+[[v14-21-7]]
+
+^<<v14-21-7,7>>^ E Jeová não quis arruinar a casa de Davi por causa do pacto que tinha concluído com Davi e conforme lhe dissera que daria a ele e a seus filhos uma lâmpada para sempre.
+
+[[v14-21-8]]
+
+^<<v14-21-8,8>>^ Nos seus dias se revoltou Edom debaixo da mão de Judá, e então fizeram um rei reinar sobre si.
+
+[[v14-21-9]]
+
+^<<v14-21-9,9>>^ Por conseguinte, Jeorão junto com os seus chefes passou [para lá] e também todos os seus carros com ele. E aconteceu que ele se levantou de noite e foi golpear os edomitas que o cercavam, e também os chefes dos carros.
+
+[[v14-21-10]]
+
+^<<v14-21-10,10>>^ Mas Edom tem continuado na sua revolta debaixo da mão de Judá até o dia de hoje. Foi então que Libna começou a revoltar-se ao mesmo tempo debaixo da sua mão, porque ele tinha abandonado a Jeová, o Deus de seus antepassados.
+
+[[v14-21-11]]
+
+^<<v14-21-11,11>>^ Ele mesmo também fizera altos nos montes de Judá, para fazer os habitantes de Jerusalém ter relações imorais e para expelir a Judá.
+
+[[v14-21-12]]
+
+^<<v14-21-12,12>>^ Por fim chegou a ele um escrito da parte de Elias,^&#42;1^ o profeta, dizendo: “Assim disse Jeová, o Deus de Davi, teu antepassado: ‘Visto que não andaste nos caminhos de Jeosafá, teu pai, nem nos caminhos de Asa, rei de Judá,
+
+[NOTE]
+====
+. “Da parte de Elias.” Hebr.: me·’E·li·yá·hu; esta é a única menção de Elias em Crônicas. Veja 1Rs 17:1 n.: “Elias”.
+====
+
+[[v14-21-13]]
+
+^<<v14-21-13,13>>^ mas andaste no caminho dos reis de Israel, e fizeste Judá e os habitantes de Jerusalém ter relações imorais, do mesmo modo como a casa de Acabe fez que houvesse relações imorais, e até mesmo mataste a teus próprios irmãos, os da casa de teu pai, que eram melhores do que tu,
+
+[[v14-21-14]]
+
+^<<v14-21-14,14>>^ eis que Jeová dá um grande golpe ao teu povo, e aos teus filhos, e às tuas esposas, e a todos os teus bens.
+
+[[v14-21-15]]
+
+^<<v14-21-15,15>>^ E terás muitas doenças, uma enfermidade dos teus intestinos, até que os teus intestinos saiam por causa da doença, dia após dia.’”
+
+[[v14-21-16]]
+
+^<<v14-21-16,16>>^ Por conseguinte, Jeová despertou contra Jeorão o espírito dos filisteus e dos árabes que estavam do lado^&#42;1^ dos etíopes.^&#42;2^
+
+[NOTE]
+====
+. Ou “estavam sob o controle”.
+. “Etíopes”, LXXVg; hebr.: Ku·shím, “cusitas”.
+====
+
+[[v14-21-17]]
+
+^<<v14-21-17,17>>^ Eles subiram, pois, a Judá e romperam por ele, e levaram cativos todos os bens que se achavam na casa do rei, bem como seus filhos e suas esposas, e não lhe restou filho, exceto Jeoacaz, seu filho mais moço.
+
+[[v14-21-18]]
+
+^<<v14-21-18,18>>^ E depois de tudo isso, Jeová o feriu nos intestinos com uma doença para a qual não havia cura.
+
+[[v14-21-19]]
+
+^<<v14-21-19,19>>^ E sucedeu nos dias que se seguiram, sim, ao expirarem dois anos completos, que lhe saíram os intestinos durante a sua doença e ele por fim morreu nas suas graves enfermidades; e seu povo não fez uma queima por ele igual à queima pelos seus antepassados.
+
+[[v14-21-20]]
+
+^<<v14-21-20,20>>^ Veio a ter trinta e dois anos de idade quando começou a reinar e reinou por oito anos em Jerusalém. Finalmente se foi sem ser desejado. Enterraram-no, pois, na Cidade de Davi, mas não nas sepulturas dos reis.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-020.adoc#v14-20-0[&#60; Capítulo Anterior] | <<v14-21-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-022.adoc#v14-22-0[Próximo Capítulo &#62;]

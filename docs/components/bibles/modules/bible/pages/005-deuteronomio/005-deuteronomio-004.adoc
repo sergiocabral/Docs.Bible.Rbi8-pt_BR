@@ -1,0 +1,287 @@
+include::./index.adoc[]
+
+[[v5-4-0]]
+=== Deuteronômio, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-4-1]]
+
+^<<v5-4-1,1>>^ “E agora, ó Israel, escuta os regulamentos e as decisões judiciais que vos ensino a cumprir, para que vivais e deveras entreis e tomeis posse da terra que Jeová, o Deus de vossos antepassados, vos dá.
+
+[[v5-4-2]]
+
+^<<v5-4-2,2>>^ Nada deveis acrescentar à palavra que vos ordeno e nada deveis tirar dela, para guardar os mandamentos de Jeová, vosso Deus, que vos ordeno.
+
+[[v5-4-3]]
+
+^<<v5-4-3,3>>^ “Vossos próprios olhos foram os que viram o que Jeová fez no caso de Baal de Peor,^&#42;1^ que todo homem que andou seguindo a Baal de Peor era quem foi aniquilado do teu meio por Jeová, teu Deus.
+
+[NOTE]
+====
+. Ou “Baal-Peor”.
+====
+
+[[v5-4-4]]
+
+^<<v5-4-4,4>>^ Mas vós que vos apegais a Jeová, vosso Deus, estais hoje todos vivos.
+
+[[v5-4-5]]
+
+^<<v5-4-5,5>>^ Vede, eu vos ensinei regulamentos e decisões judiciais, assim como me ordenou Jeová, meu Deus, para procederdes deste modo no meio da terra à qual ides para tomar posse dela.
+
+[[v5-4-6]]
+
+^<<v5-4-6,6>>^ E tereis de guardá-los e cumpri-los, porque isso é sabedoria da vossa parte e entendimento da vossa parte diante dos olhos dos povos que ouvirão [falar] destes regulamentos, e eles certamente dirão: ‘Esta grande nação é indubitavelmente um povo sábio e entendido.’
+
+[[v5-4-7]]
+
+^<<v5-4-7,7>>^ Pois, que grande nação há que tenha deuses^&#42;1^ perto de si do modo como Jeová, nosso Deus, está em todas as nossas invocações?
+
+[NOTE]
+====
+. “Deuses.” Hebr.: ’elo·hím; seguido pelo adjetivo no pl., qero·vím, “pertos” (Vg reza igual); LXX: “Deus; um deus”, seguido por um adjetivo no sing.
+====
+
+[[v5-4-8]]
+
+^<<v5-4-8,8>>^ E que grande nação há que tenha regulamentos justos e decisões judiciais semelhantes a toda esta lei que hoje ponho diante de vós?
+
+[[v5-4-9]]
+
+^<<v5-4-9,9>>^ “Apenas guarda-te e cuida bem da tua alma, para que não te esqueças das coisas que teus olhos viram e para que não se afastem de teu coração todos os dias da tua vida; e tens de dá-los a conhecer a teus filhos e a teus netos,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “os filhos dos teus filhos”.
+====
+
+[[v5-4-10]]
+
+^<<v5-4-10,10>>^ o dia em que estavas de pé diante de Jeová, teu Deus, em Horebe,^&#42;1^ quando Jeová me disse: ‘Congrega-me^&#42;2^ o povo, para que eu os deixe ouvir as minhas palavras, a fim de que aprendam a temer-me todos os dias em que estiverem vivos sobre o solo e para que ensinem seus filhos.’
+
+[NOTE]
+====
+. LXX acrescenta: “nos dias da assembléia [gr.: ek·kle·sí·as]”, sendo esta a primeira ocorrência desta palavra na LXX.
+. Ou “Reúne-me”. Gr.: Ek·kle·sí·a·son; lat.: cón·gre·ga.
+====
+
+[[v5-4-11]]
+
+^<<v5-4-11,11>>^ “Por isso vos chegastes e ficastes parados ao sopé do monte, e o monte ardia com fogo até o meio do céu;^&#42;1^ havia escuridão, nuvem e densas trevas.
+
+[NOTE]
+====
+. Lit.: “até o coração dos céus”.
+====
+
+[[v5-4-12]]
+
+^<<v5-4-12,12>>^ E Jeová começou a falar-vos do meio do fogo. Ouvistes o som de palavras, mas não vistes figura alguma — nada a não ser uma voz.
+
+[[v5-4-13]]
+
+^<<v5-4-13,13>>^ E ele passou a declarar-vos seu pacto que vos mandou cumprir — as Dez Palavras,^&#42;1^ escrevendo-as depois em duas tábuas de pedra.
+
+[NOTE]
+====
+. “As Dez Palavras (Decálogo)”, costumeiramente chamadas de Dez Mandamentos. Hebr.: ‛asé·reth had·deva·rím; gr.: dé·ka rhé·ma·ta, “Dez Dizeres”; lat.: dé·cem vér·ba. Veja 10:4 n.; Êx 34:28 n.: “Palavras”.
+====
+
+[[v5-4-14]]
+
+^<<v5-4-14,14>>^ E foi a mim que Jeová ordenou naquele tempo específico que vos ensinasse regulamentos e decisões judiciais para os cumprirdes na terra à qual estais passando para tomar posse dela.
+
+[[v5-4-15]]
+
+^<<v5-4-15,15>>^ “E tendes de cuidar bem das vossas almas, pois não vistes figura alguma no dia em que Jeová vos falou em Horebe do meio do fogo,
+
+[[v5-4-16]]
+
+^<<v5-4-16,16>>^ para não agirdes ruinosamente e não fazerdes realmente para vós uma imagem esculpida, a figura de qualquer símbolo, a representação dum macho ou duma fêmea,
+
+[[v5-4-17]]
+
+^<<v5-4-17,17>>^ a representação de qualquer animal que há na terra, a representação de qualquer ave de asas que voa nos céus,
+
+[[v5-4-18]]
+
+^<<v5-4-18,18>>^ a representação de algo que se move no solo, a representação de qualquer peixe que há nas águas abaixo da terra;
+
+[[v5-4-19]]
+
+^<<v5-4-19,19>>^ e para não levantares teus olhos para os céus e de fato veres o sol, e a lua, e as estrelas, todo o exército dos céus, e realmente seres seduzido e te curvares diante deles, e os servires,^&#42;1^ os quais Jeová, teu Deus, tem repartido a todos os povos debaixo dos céus inteiros.
+
+[NOTE]
+====
+. “E os servires (adorares).” Hebr.: wa·‛avadh·tám; gr.: la·treú·seis, “prestarás serviço sagrado”. Veja Êx 3:12 n.
+====
+
+[[v5-4-20]]
+
+^<<v5-4-20,20>>^ Mas foi a vós que Jeová tomou para vos fazer sair do forno de fundição de ferro, do Egito, para vos tornardes para ele um povo de propriedade particular,^&#42;1^ como no dia de hoje.
+
+[NOTE]
+====
+. Ou “povo de herança”.
+====
+
+[[v5-4-21]]
+
+^<<v5-4-21,21>>^ “E Jeová irou-se comigo por vossa causa, de modo que jurou que eu não passaria o Jordão, nem entraria na boa terra que Jeová, teu Deus, te dá por herança.
+
+[[v5-4-22]]
+
+^<<v5-4-22,22>>^ Pois, estou morrendo nesta terra. Não passarei o Jordão, mas vós passareis, e tereis de tomar posse desta boa terra.
+
+[[v5-4-23]]
+
+^<<v5-4-23,23>>^ Guardai-vos para que não vos esqueçais do pacto de Jeová, vosso Deus, que ele concluiu convosco, e para que não façais para vós uma imagem esculpida, a figura de alguma coisa a respeito da qual Jeová, teu Deus, te deu ordem.
+
+[[v5-4-24]]
+
+^<<v5-4-24,24>>^ Pois Jeová, teu Deus, é um fogo consumidor, um Deus que exige devoção exclusiva.^&#42;1^
+
+[NOTE]
+====
+. “Um Deus que exige devoção exclusiva.” MSam(hebr.): ’El qan·ná’; gr.: The·ós ze·lo·tés.
+====
+
+[[v5-4-25]]
+
+^<<v5-4-25,25>>^ “Se te tornares^&#42;1^ pai de filhos e de netos, e vós tiverdes residido muito tempo na terra, e deveras agirdes ruinosamente e fizerdes uma imagem esculpida, figura de uma coisa, e deveras cometerdes o mal aos olhos de Jeová, teu Deus, de modo a ofendê-lo,
+
+[NOTE]
+====
+. “Te tornares”, sing., MLXX; SamSyItVg: “vos tornardes”, pl.
+====
+
+[[v5-4-26]]
+
+^<<v5-4-26,26>>^ deveras tomo hoje os céus e a terra por testemunhas contra vós de que positivamente perecereis depressa da terra à qual estais passando o Jordão para tomar posse dela. Não prolongareis os vossos dias nela, porque positivamente sereis aniquilados.
+
+[[v5-4-27]]
+
+^<<v5-4-27,27>>^ E Jeová certamente vos espalhará entre os povos e sereis deveras deixados poucos em número entre as nações para as quais Jeová vos enxotará.
+
+[[v5-4-28]]
+
+^<<v5-4-28,28>>^ E lá tereis de servir a deuses, produto das mãos dum homem, madeira e pedra, que não podem ver, nem ouvir, nem comer, nem cheirar.
+
+[[v5-4-29]]
+
+^<<v5-4-29,29>>^ “Se de lá deveras procurardes a Jeová, teu Deus, certamente também o acharás, pois indagarás por ele com todo o teu coração e com toda a tua alma.
+
+[[v5-4-30]]
+
+^<<v5-4-30,30>>^ Quando estiveres num sério aperto e todas estas palavras te tiverem achado no fim dos dias, então terás de voltar a Jeová, teu Deus, e terás de escutar a sua voz.
+
+[[v5-4-31]]
+
+^<<v5-4-31,31>>^ Pois Jeová, teu Deus, é um Deus misericordioso. Não te desamparará, nem te arruinará, nem se esquecerá do pacto dos teus antepassados, que lhes jurou.
+
+[[v5-4-32]]
+
+^<<v5-4-32,32>>^ “Agora, por favor, pergunta a respeito dos dias anteriores que houve antes de ti, desde o dia em que Deus criou o homem^&#42;1^ na terra, e de uma extremidade dos céus à outra extremidade dos céus: Sucedeu jamais coisa tamanha como esta ou se ouviu algo igual a isto?
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’a·dhám.
+====
+
+[[v5-4-33]]
+
+^<<v5-4-33,33>>^ Ouviu outro povo a voz de Deus^&#42;1^ falar do meio do fogo assim como tu a ouviste, e continuou vivendo?
+
+[NOTE]
+====
+. “Deus”, MVg; SamLXX: “do Deus vivente”.
+====
+
+[[v5-4-34]]
+
+^<<v5-4-34,34>>^ Ou procurou Deus vir a fim de tomar para si uma nação do meio de outra nação, com provas, com sinais e com milagres, e com guerra, e com mão forte, e com braço estendido, e com coisa muito espantosa, igual a tudo o que Jeová, vosso Deus, fez para vós no Egito, diante dos teus olhos?
+
+[[v5-4-35]]
+
+^<<v5-4-35,35>>^ A ti é que se mostrou [isso], para que soubesses que Jeová é o [verdadeiro] Deus; não há outro além dele.
+
+[[v5-4-36]]
+
+^<<v5-4-36,36>>^ Desde os céus te fez ouvir a sua voz para te corrigir; e na terra te fez ver seu grande fogo, e ouviste suas palavras do meio do fogo.
+
+[[v5-4-37]]
+
+^<<v5-4-37,37>>^ “E [todavia continuas vivendo], pois^&#42;1^ ele amou os teus antepassados, de modo que escolheu sua descendência após eles^&#42;2^ e te fez sair do Egito à sua vista, com o seu grande poder,
+
+[NOTE]
+====
+. “E todavia continuas vivendo, pois”, é a versão provável do hebr., para concordar com o v. 33 e com 5:26; LXXVg: “Porque.”
+. “Sua descendência após eles”, SamLXXSyVg; M: “sua descendência após ele”.
+====
+
+[[v5-4-38]]
+
+^<<v5-4-38,38>>^ para expulsar diante de ti nações maiores e mais fortes do que tu, a fim de fazer-te entrar para dar-te a terra delas por herança, como no dia de hoje.
+
+[[v5-4-39]]
+
+^<<v5-4-39,39>>^ E hoje bem sabes e tens de recordar no teu coração^&#42;1^ que Jeová é o [verdadeiro] Deus nos céus em cima e na terra embaixo. Não há outro.
+
+[NOTE]
+====
+. Ou “tens de recordar na mente”.
+====
+
+[[v5-4-40]]
+
+^<<v5-4-40,40>>^ E tens de guardar seus regulamentos e seus mandamentos que hoje te ordeno, para que te vá bem a ti e a teus filhos depois de ti, e para que prolongues os teus dias no solo que Jeová, teu Deus, te dá, para sempre.”
+
+[[v5-4-41]]
+
+^<<v5-4-41,41>>^ Nesse tempo Moisés passou a separar três cidades do lado do Jordão que dá para o nascente do sol,
+
+[[v5-4-42]]
+
+^<<v5-4-42,42>>^ a fim de que fugisse para lá o homicida que sem saber matasse seu próximo, não o tendo odiado anteriormente; e ele tinha de fugir para uma destas cidades e viver,
+
+[[v5-4-43]]
+
+^<<v5-4-43,43>>^ a saber, Bezer, no ermo, no planalto, para os rubenitas, e Ramote em Gileade para os gaditas, e Golã em Basã para os manassitas.
+
+[[v5-4-44]]
+
+^<<v5-4-44,44>>^ Ora, esta é a lei que Moisés pôs diante dos filhos de Israel.
+
+[[v5-4-45]]
+
+^<<v5-4-45,45>>^ Estes são os testemunhos,^&#42;1^ e os regulamentos, e as decisões judiciais que Moisés falou aos filhos de Israel ao saírem do Egito,
+
+[NOTE]
+====
+. Ou “advertências; exortações”.
+====
+
+[[v5-4-46]]
+
+^<<v5-4-46,46>>^ na região do Jordão, no vale defronte de Bete-Peor, na terra de Síon, rei dos amorreus, que morava em Hésbon, a quem Moisés e os filhos de Israel derrotaram ao saírem do Egito.
+
+[[v5-4-47]]
+
+^<<v5-4-47,47>>^ E foram tomar posse da sua terra e da terra de Ogue, rei de Basã, os dois reis dos amorreus que estavam na região do Jordão que dá para o nascente do sol,
+
+[[v5-4-48]]
+
+^<<v5-4-48,48>>^ desde Aroer, que está à beira do vale da torrente do Árnon, até o monte Síon,^&#42;1^ quer dizer, Hermom,
+
+[NOTE]
+====
+. “Síon”, MSamLXXVg; Sy: “Sírion”. Veja 3:9 n.
+====
+
+[[v5-4-49]]
+
+^<<v5-4-49,49>>^ e todo o Arabá na região do Jordão que dá para o leste, e até o mar do Arabá, ao sopé das encostas do Pisga.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-003.adoc#v5-3-0[&#60; Capítulo Anterior] | <<v5-4-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-005.adoc#v5-5-0[Próximo Capítulo &#62;]

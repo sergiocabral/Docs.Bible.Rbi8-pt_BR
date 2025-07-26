@@ -1,0 +1,166 @@
+include::./index.adoc[]
+
+[[v2-38-0]]
+=== Êxodo, 38
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-38-1]]
+
+^<<v2-38-1,1>>^ E ele foi fazer o altar da oferta queimada de madeira de acácia. Cinco côvados era seu comprimento e cinco côvados sua largura, sendo quadrado, e três côvados era sua altura.
+
+[[v2-38-2]]
+
+^<<v2-38-2,2>>^ Fez então seus chifres nos seus quatro cantos. Seus chifres procediam dele. A seguir o revestiu de cobre.
+
+[[v2-38-3]]
+
+^<<v2-38-3,3>>^ Depois fez todos os utensílios do altar, os recipientes, e as pás, e as tigelas, os garfos e os porta-lumes. Todos os seus utensílios fez de cobre.
+
+[[v2-38-4]]
+
+^<<v2-38-4,4>>^ Fez além disso uma grelha para o altar, uma grade de cobre, abaixo da sua borda, embaixo, pelo seu meio.
+
+[[v2-38-5]]
+
+^<<v2-38-5,5>>^ Fundiu então quatro argolas, nas quatro extremidades, perto da grelha de cobre, como suportes para os varais.
+
+[[v2-38-6]]
+
+^<<v2-38-6,6>>^ Depois fez varais de madeira de acácia e os recobriu de cobre.
+
+[[v2-38-7]]
+
+^<<v2-38-7,7>>^ Então pôs os varais nas argolas nos lados do altar para que fosse carregado com eles. Fê-lo uma caixa oca de pranchas.
+
+[[v2-38-8]]
+
+^<<v2-38-8,8>>^ Fez então uma bacia^&#42;1^ de cobre e seu suporte de cobre, usando os espelhos^&#42;2^ das serventes que prestavam serviço organizado^&#42;3^ à entrada da tenda de reunião.
+
+[NOTE]
+====
+. Ou “lavatório”.
+. Espelhos de metal, altamente polidos para dar reflexo.
+. Lit.: “das serventes que serviam”. Aqui, os dois verbos hebr. têm a mesma raiz, tsa·vá’, como no caso de serviço militar, sugerindo um serviço organizado em grupos, para estas mulheres.
+====
+
+[[v2-38-9]]
+
+^<<v2-38-9,9>>^ E passou a fazer o pátio. Para o lado do Negebe, o meridional, os cortinados do pátio eram de linho fino retorcido, de cem côvados.
+
+[[v2-38-10]]
+
+^<<v2-38-10,10>>^ Suas vinte colunas e seus vinte pedestais de encaixe eram de cobre. Os pinos das colunas e suas ligações^&#42;1^ eram de prata.
+
+[NOTE]
+====
+. Ou “argolas; anéis; faixas; fitas”, para ligações.
+====
+
+[[v2-38-11]]
+
+^<<v2-38-11,11>>^ Também para o lado setentrional havia cem côvados. Suas vinte colunas e seus vinte pedestais de encaixe eram de cobre. Os pinos das colunas e suas ligações eram de prata.
+
+[[v2-38-12]]
+
+^<<v2-38-12,12>>^ Mas para o lado ocidental os cortinados eram de cinqüenta côvados. Suas colunas eram dez e seus pedestais de encaixe eram dez. Os pinos das colunas e suas ligações eram de prata.
+
+[[v2-38-13]]
+
+^<<v2-38-13,13>>^ E para o lado do leste, para o nascente, havia cinqüenta côvados.
+
+[[v2-38-14]]
+
+^<<v2-38-14,14>>^ Os cortinados eram de quinze côvados para uma ala.^&#42;1^ Suas colunas eram três e seus pedestais de encaixe eram três.
+
+[NOTE]
+====
+. Lit.: “ombro”.
+====
+
+[[v2-38-15]]
+
+^<<v2-38-15,15>>^ E para a outra ala, tanto deste como daquele lado do portão do pátio, os cortinados eram de quinze côvados. Suas colunas eram três e seus pedestais de encaixe eram três.
+
+[[v2-38-16]]
+
+^<<v2-38-16,16>>^ Todos os cortinados do pátio ao redor eram de linho fino retorcido.
+
+[[v2-38-17]]
+
+^<<v2-38-17,17>>^ E os pedestais de encaixe para as colunas eram de cobre. Os pinos das colunas e suas ligaduras eram de prata e o revestimento dos seus topos era de prata, e havia ligações de prata para todas as colunas do pátio.
+
+[[v2-38-18]]
+
+^<<v2-38-18,18>>^ E o reposteiro do portão do pátio era trabalho de tecelão, de linha azul, e de lã tingida de roxo, e de fibras carmíneas, e de linho fino retorcido, e seu comprimento era de vinte côvados e a altura em toda a sua extensão era de cinco côvados, igual à dos cortinados do pátio.
+
+[[v2-38-19]]
+
+^<<v2-38-19,19>>^ E suas quatro colunas e seus quatro pedestais de encaixe eram de cobre. Seus pinos eram de prata, e o revestimento das suas cabeças e suas ligações eram de prata.
+
+[[v2-38-20]]
+
+^<<v2-38-20,20>>^ E todas as estacas de tenda para o tabernáculo e para o pátio ao redor eram de cobre.
+
+[[v2-38-21]]
+
+^<<v2-38-21,21>>^ As seguintes são as coisas inventariadas do tabernáculo, o tabernáculo do Testemunho, que foi inventariado às ordens de Moisés, como serviço dos levitas sob a direção de Itamar, filho de Arão, o sacerdote.
+
+[[v2-38-22]]
+
+^<<v2-38-22,22>>^ E Bezalel, filho de Uri, filho de Hur, da tribo de Judá, fez tudo o que Jeová ordenara a Moisés.
+
+[[v2-38-23]]
+
+^<<v2-38-23,23>>^ E com ele estava Ooliabe, filho de Aisamaque, da tribo de Dã, artífice e bordador, e tecelão em linha azul e em lã tingida de roxo, e em fibras carmíneas, e em linho fino.
+
+[[v2-38-24]]
+
+^<<v2-38-24,24>>^ Todo o ouro^&#42;1^ usado para a obra em toda a obra do lugar santo veio a ser do montante do ouro da oferta movida: vinte e nove talentos e setecentos e trinta siclos, segundo o siclo do lugar santo.
+
+[NOTE]
+====
+. Só o ouro usado para o tabernáculo valeria uns US$ 11.269.000, calculando-se o valor de 1 grama de ouro a US$ 11,25. Veja 1Cr 29:7 n.: “talentos”.
+====
+
+[[v2-38-25]]
+
+^<<v2-38-25,25>>^ E a prata dos registrados da assembléia era de cem talentos e mil setecentos e setenta e cinco siclos, segundo o siclo do lugar santo.
+
+[[v2-38-26]]
+
+^<<v2-38-26,26>>^ O meio siclo^&#42;1^ para cada um^&#42;2^ era a metade de um siclo, segundo o siclo do lugar santo, para cada homem que passava para os registrados de vinte anos de idade e para cima, somando seiscentos e três mil quinhentos e cinqüenta.
+
+[NOTE]
+====
+. Lit.: “O beca”, de prata. LXX: “uma dracma”.
+. Lit.: “crânio”. A cabeça contada para o imposto do censo.
+====
+
+[[v2-38-27]]
+
+^<<v2-38-27,27>>^ E cem talentos de prata foram empregados na fundição dos pedestais de encaixe do lugar santo e dos pedestais de encaixe da cortina. Cem pedestais de encaixe eram iguais a cem talentos, um talento por pedestal de encaixe.
+
+[[v2-38-28]]
+
+^<<v2-38-28,28>>^ E dos mil setecentos e setenta e cinco siclos^&#42;1^ ele fez pinos para as colunas e recobriu seus topos e as ligou entre si.
+
+[NOTE]
+====
+. “Siclos”, LXX.
+====
+
+[[v2-38-29]]
+
+^<<v2-38-29,29>>^ E o cobre da oferta movida era de setenta talentos e dois mil e quatrocentos siclos.
+
+[[v2-38-30]]
+
+^<<v2-38-30,30>>^ E com este ele passou a fazer os pedestais de encaixe da entrada da tenda de reunião, e o altar de cobre, e a grelha de cobre que pertencia a ele, e todos os utensílios do altar,
+
+[[v2-38-31]]
+
+^<<v2-38-31,31>>^ e os pedestais de encaixe do pátio ao redor, e os pedestais de encaixe do portão do pátio, e todas as estacas de tenda do tabernáculo, e todas as estacas de tenda do pátio ao redor.
+
+'''
+
+xref:002-exodo/002-exodo-037.adoc#v2-37-0[&#60; Capítulo Anterior] | <<v2-38-0,Topo>> | xref:002-exodo/002-exodo-039.adoc#v2-39-0[Próximo Capítulo &#62;]

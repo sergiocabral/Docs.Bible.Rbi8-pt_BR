@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v66-10-0]]
+=== Apocalipse, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v66-10-1]]
+
+^<<v66-10-1,1>>^ E eu vi outro anjo forte descer do céu vestido duma nuvem, e havia um arco-íris sobre a sua cabeça, e o seu rosto era como o sol, e os seus pés eram como colunas ardentes,
+
+[[v66-10-2]]
+
+^<<v66-10-2,2>>^ e tinha na sua mão um pequeno rolo^&#42;1^ aberto. E ele pôs o seu pé direito sobre o mar, mas o seu esquerdo sobre a terra,
+
+[NOTE]
+====
+. Lit.: “livrinho; folheto”. Gr.: bi·bla·rí·di·on.
+====
+
+[[v66-10-3]]
+
+^<<v66-10-3,3>>^ e clamou com voz alta, assim como quando o leão ruge. E quando clamou, os sete trovões proferiram as suas próprias vozes.
+
+[[v66-10-4]]
+
+^<<v66-10-4,4>>^ Ora, ao falarem os sete trovões, eu ia escrever; mas ouvi uma voz do céu dizer: “Sela^&#42;1^ as coisas faladas pelos sete trovões, e não as escrevas.”
+
+[NOTE]
+====
+. Ou: “Mantém secretas.”
+====
+
+[[v66-10-5]]
+
+^<<v66-10-5,5>>^ E o anjo que vi em pé sobre o mar e sobre a terra ergueu a sua mão direita para o céu
+
+[[v66-10-6]]
+
+^<<v66-10-6,6>>^ e jurou por Aquele que vive para todo o sempre, que criou o céu e as coisas nele, e a terra e as coisas nela, e o mar e as coisas nele:^&#42;1^ “Não haverá mais demora;^&#42;2^
+
+[NOTE]
+====
+. “E o mar e as coisas nele”, P47אcCVg; א°A omitem isso.
+. Lit.: “tempo”. Gr.: khró·nos.
+====
+
+[[v66-10-7]]
+
+^<<v66-10-7,7>>^ mas nos dias do toque^&#42;1^ do sétimo anjo, quando estiver para tocar a sua trombeta, então, deveras, terá sido levado a término o segredo sagrado^&#42;2^ de Deus, segundo as boas novas que ele declarou aos seus próprios escravos, os profetas.”
+
+[NOTE]
+====
+. Ou “voz”. Gr.: fo·nés.
+. Ou “o mistério”. Gr.: to my·sté·ri·on.
+====
+
+[[v66-10-8]]
+
+^<<v66-10-8,8>>^ E a voz que ouvi sair do céu está falando novamente comigo e [está] dizendo: “Vai, toma o rolo aberto que está na mão do anjo que está em pé sobre o mar e sobre a terra.”
+
+[[v66-10-9]]
+
+^<<v66-10-9,9>>^ E fui ter com o anjo e disse-lhe que me desse o rolo pequeno. E ele me disse: “Toma-o e come-o, e ele fará o teu ventre amargo, mas na tua boca será doce como mel.”
+
+[[v66-10-10]]
+
+^<<v66-10-10,10>>^ E tomei o rolo pequeno da mão do anjo e o comi, e era doce como mel na minha boca; mas quando o comi, meu ventre ficou amargo.
+
+[[v66-10-11]]
+
+^<<v66-10-11,11>>^ E disseram-me: “Tens de profetizar novamente com respeito a povos, e nações, e línguas, e muitos reis.”
+
+'''
+
+xref:066-apocalipse/066-apocalipse-009.adoc#v66-9-0[&#60; Capítulo Anterior] | <<v66-10-0,Topo>> | xref:066-apocalipse/066-apocalipse-011.adoc#v66-11-0[Próximo Capítulo &#62;]

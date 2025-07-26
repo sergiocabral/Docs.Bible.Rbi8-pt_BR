@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v2-17-0]]
+=== Êxodo, 17
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-17-1]]
+
+^<<v2-17-1,1>>^ E a assembléia inteira dos filhos de Israel passou a partir do ermo de Sim, por etapas, que fizeram segundo a ordem^&#42;1^ de Jeová, e foram acampar-se em Refidim. Mas não havia ali água para o povo beber.
+
+[NOTE]
+====
+. Lit.: “boca”.
+====
+
+[[v2-17-2]]
+
+^<<v2-17-2,2>>^ E o povo foi altercar com Moisés e dizer: “Dá-nos água, para que bebamos.” Moisés, porém, disse-lhes: “Por que estais altercando comigo? Por que persistis em pôr Jeová à prova?”
+
+[[v2-17-3]]
+
+^<<v2-17-3,3>>^ E o povo tinha ali sede de água, e o povo resmungava contra Moisés e dizia: “Por que é que nos fizeste subir do Egito para fazer morrer de sede tanto a nós como nossos filhos, e nosso^&#42;1^ gado?”
+
+[NOTE]
+====
+. “Nós . . . nossos . . . nosso.” Lit.: “mim . . . meus . . . meu”, referindo-se ao “povo”.
+====
+
+[[v2-17-4]]
+
+^<<v2-17-4,4>>^ Por fim, Moisés clamou a Jeová, dizendo: “Que hei de fazer com este povo? Mais um pouco e eles me apedrejarão!”
+
+[[v2-17-5]]
+
+^<<v2-17-5,5>>^ Jeová disse então a Moisés: “Passa adiante do povo, e toma contigo alguns dos anciãos de Israel e teu bastão com que golpeaste o rio Nilo. Toma-o na tua mão, e tens de seguir andando.
+
+[[v2-17-6]]
+
+^<<v2-17-6,6>>^ Eis que estou em pé diante de ti ali na rocha em Horebe.^&#42;1^ E tens de golpear a rocha, e dela tem de sair água e o povo tem de beber dela.” A seguir, Moisés fez assim sob os olhares dos anciãos de Israel.
+
+[NOTE]
+====
+. “Horebe.” Aqui não se trata do monte em que foram dados os Dez Mandamentos, mas da região montanhosa em volta do monte Sinai, também chamada de Ermo de Sinai.
+====
+
+[[v2-17-7]]
+
+^<<v2-17-7,7>>^ De modo que chamou o lugar pelo nome de Massá^&#42;1^ e Meribá,^&#42;2^ por causa da altercação dos filhos de Israel e por terem posto Jeová à prova, dizendo: “Está Jeová no meio de nós, ou não?”
+
+[NOTE]
+====
+. Significando “Teste; Prova”.
+. Significando “Altercação; Luta; Contenda”.
+====
+
+[[v2-17-8]]
+
+^<<v2-17-8,8>>^ E os amalequitas^&#42;1^ passaram a vir e a lutar contra Israel em Refidim.
+
+[NOTE]
+====
+. Ou “Amaleque”, em sentido coletivo.
+====
+
+[[v2-17-9]]
+
+^<<v2-17-9,9>>^ Em vista disso, Moisés disse a Josué:^&#42;1^ “Escolhe para nós homens e sai, luta contra os amalequitas. Amanhã eu me postarei no cume do morro com o bastão do [verdadeiro] Deus na minha mão.”
+
+[NOTE]
+====
+. Lit.: “Jeosué”, significando “Jeová É Salvação”; gr.: ’Ιησοῦ (I·e·soú, “Jesus”).
+====
+
+[[v2-17-10]]
+
+^<<v2-17-10,10>>^ Josué fez então como Moisés lhe dissera, para lutar contra os amalequitas; e Moisés, Arão e Hur subiram ao cume do morro.
+
+[[v2-17-11]]
+
+^<<v2-17-11,11>>^ E deu-se que, assim que Moisés erguia sua mão, os israelitas mostravam-se superiores; mas assim que abaixava sua mão, os amalequitas mostravam-se superiores.
+
+[[v2-17-12]]
+
+^<<v2-17-12,12>>^ Quando as mãos de Moisés ficaram pesadas, então tomaram uma pedra e a puseram debaixo dele, e ele se sentou nela; e Arão e Hur seguraram-lhe as mãos, um deste lado e outro daquele lado, de modo que suas mãos se mantiveram firmes^&#42;1^ até o pôr do sol.
+
+[NOTE]
+====
+. Lit.: “mãos eram firmeza”.
+====
+
+[[v2-17-13]]
+
+^<<v2-17-13,13>>^ Josué desbaratou assim Amaleque e seu povo ao fio da espada.
+
+[[v2-17-14]]
+
+^<<v2-17-14,14>>^ Jeová disse então a Moisés: “Escreve isto como recordação no livro e expõe-no aos ouvidos de Josué: ‘Hei de extinguir completamente a recordação de Amaleque de debaixo dos céus.’”
+
+[[v2-17-15]]
+
+^<<v2-17-15,15>>^ E Moisés passou a construir um altar e a chamá-lo pelo nome de Jeová-Nissi,^&#42;1^
+
+[NOTE]
+====
+. “Jeová-Nissi”, significando “Jeová É Meu [poste; haste] de Sinal”, derivando-se nis·sí de nes, “haste de sinal”; LXX: “Jeová É Meu Refúgio”, derivando-se nis·sí de nus, “fugir para ter refúgio”; Vg: “Jeová É Minha Exaltação”, derivando-se nis·sí de na·sás, “içar; erguer”.
+====
+
+[[v2-17-16]]
+
+^<<v2-17-16,16>>^ dizendo: “Porquanto há uma mão contra o trono de Jah, Jeová terá guerra^&#42;1^ com Amaleque de geração em geração.”
+
+[NOTE]
+====
+. “Porque com mão secreta Jeová trava guerra”, LXX; Vgc: “Porquanto a mão do trono de Jeová, e a guerra de Jeová, será.”
+====
+
+'''
+
+xref:002-exodo/002-exodo-016.adoc#v2-16-0[&#60; Capítulo Anterior] | <<v2-17-0,Topo>> | xref:002-exodo/002-exodo-018.adoc#v2-18-0[Próximo Capítulo &#62;]

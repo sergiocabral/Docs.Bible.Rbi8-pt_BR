@@ -1,0 +1,241 @@
+include::./index.adoc[]
+
+[[v1-30-0]]
+=== Gênesis, 30
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-30-1]]
+
+^<<v1-30-1,1>>^ Quando Raquel chegou a ver que não dera à luz [filhos] a Jacó, Raquel ficou com ciúmes de sua irmã e começou a dizer a Jacó: “Dá-me filhos, senão serei uma mulher morta.”
+
+[[v1-30-2]]
+
+^<<v1-30-2,2>>^ Acendeu-se então a ira de Jacó contra Raquel e ele disse: “Estou eu no lugar de Deus, que te negou o fruto do ventre?”
+
+[[v1-30-3]]
+
+^<<v1-30-3,3>>^ De modo que ela disse: “Eis a minha escrava Bila. Tem relações com ela, para que dê à luz sobre os meus joelhos e para que eu, sim eu, obtenha dela filhos.”
+
+[[v1-30-4]]
+
+^<<v1-30-4,4>>^ Com isso lhe deu Bila, sua serva, por esposa, e Jacó teve relações com ela.
+
+[[v1-30-5]]
+
+^<<v1-30-5,5>>^ E Bila ficou grávida e a seu tempo deu à luz um filho a Jacó.
+
+[[v1-30-6]]
+
+^<<v1-30-6,6>>^ Raquel disse então: “Deus tem agido como meu juiz e tem também escutado a minha voz, de modo que me deu um filho.” É por isso que o chamou pelo nome de Dã.^&#42;1^
+
+[NOTE]
+====
+. Significando “Juiz”. Hebr.: Dan.
+====
+
+[[v1-30-7]]
+
+^<<v1-30-7,7>>^ E Bila, serva de Raquel, ficou mais uma vez grávida e a seu tempo deu à luz um segundo filho a Jacó.
+
+[[v1-30-8]]
+
+^<<v1-30-8,8>>^ Raquel disse então: “Com lutas árduas^&#42;1^ lutei com a minha irmã. Saí também vencedora!” De modo que o chamou pelo nome de Naftali.^&#42;2^
+
+[NOTE]
+====
+. Ou “sobre-humanas”. Lit.: “de Deus”. Hebr.: ’Elo·hím, sem o artigo definido.
+. Significando “Minhas Lutas”. Hebr.: Naf·ta·lí.
+====
+
+[[v1-30-9]]
+
+^<<v1-30-9,9>>^ Quando Léia chegou a ver que cessara de dar à luz, passou a tomar Zilpa, sua serva, e a deu a Jacó por esposa.
+
+[[v1-30-10]]
+
+^<<v1-30-10,10>>^ A seu tempo, Zilpa, serva de Léia, deu à luz um filho a Jacó.
+
+[[v1-30-11]]
+
+^<<v1-30-11,11>>^ Léia disse então: “Com boa sorte!”^&#42;1^ De modo que o chamou pelo nome de Gade.^&#42;2^
+
+[NOTE]
+====
+. “Veio a boa sorte!” Mmargem.
+. Significando “Boa Sorte”. Hebr.: Gadh.
+====
+
+[[v1-30-12]]
+
+^<<v1-30-12,12>>^ Depois Zilpa, serva de Léia, deu à luz um segundo filho a Jacó.
+
+[[v1-30-13]]
+
+^<<v1-30-13,13>>^ Léia disse então: “Com a minha felicidade! Pois as filhas certamente me chamarão feliz.” De modo que o chamou pelo nome de Aser.^&#42;1^
+
+[NOTE]
+====
+. Significando “Feliz; Felicidade”. Hebr.: ’A·shér.
+====
+
+[[v1-30-14]]
+
+^<<v1-30-14,14>>^ Ora, Rubem foi passear nos dias da sega do trigo e achou mandrágoras no campo. Trouxe-as assim a Léia, sua mãe. Raquel disse então a Léia: “Dá-me, por favor, algumas das mandrágoras de teu filho.”
+
+[[v1-30-15]]
+
+^<<v1-30-15,15>>^ A isso ela lhe disse: “É coisa pequena que me tens tomado o esposo, que agora tomas também as mandrágoras de meu filho?” Raquel disse então: “Por esta razão irá deitar-se contigo hoje à noite, em troca das mandrágoras de teu filho.”
+
+[[v1-30-16]]
+
+^<<v1-30-16,16>>^ Vindo Jacó do campo, à noitinha, saiu-lhe ao encontro Léia, e ela disse então: “É comigo que hás de ter relações, pois contratei-te de vez com as mandrágoras de meu filho.” Portanto, deitou-se com ela naquela noite.
+
+[[v1-30-17]]
+
+^<<v1-30-17,17>>^ E Deus atendeu Léia, e ela ficou grávida e a seu tempo deu à luz um quinto filho a Jacó.
+
+[[v1-30-18]]
+
+^<<v1-30-18,18>>^ Léia disse então: “Deus deu-me o salário dum contratado,^&#42;1^ porque dei a minha serva a meu esposo.” De modo que o chamou pelo nome de Issacar.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “deu meu salário [como contratada]”.
+. Significando “Ele É Salário; Ele Traz Salários”. Hebr.: Yis·sas·khár.
+====
+
+[[v1-30-19]]
+
+^<<v1-30-19,19>>^ E Léia ficou mais uma vez grávida e a seu tempo deu à luz um sexto filho a Jacó.
+
+[[v1-30-20]]
+
+^<<v1-30-20,20>>^ Léia disse então: “Deus dotou-me, sim, a mim, com um bom dote. Por fim há de tolerar-me^&#42;1^ meu esposo,^&#42;2^ pois lhe dei à luz seis filhos.” De modo que o chamou pelo nome de Zebulão.^&#42;3^
+
+[NOTE]
+====
+. Ou “morar (viver) comigo”.
+. Ou: “Por fim, meu marido me fará sua legítima esposa.” (Quanto a esta possível versão, veja VT, Vol. I, 1951, pp. 59, 60.) LXX: “Nesta ocasião me escolherá meu marido [como esposa].” O verbo assírio zabalu, relacionado com o verbo hebr. za·vál usado aqui, significa “arrastar (puxar); carregar fardos”, e tem o significado matrimonial de levar os presentes de casamento do marido à casa de seu sogro.
+. Significando “Habitação; Morada”; possivelmente: “Tolerância; Senhorio.” Hebr.: Zevu·lún.
+====
+
+[[v1-30-21]]
+
+^<<v1-30-21,21>>^ E depois deu à luz uma filha e chamou-a então pelo nome de Diná.^&#42;1^
+
+[NOTE]
+====
+. Significando “Julgada; Absolvida; Vindicada”. Hebr.: Di·náh.
+====
+
+[[v1-30-22]]
+
+^<<v1-30-22,22>>^ Finalmente, Deus lembrou-se de Raquel, e Deus a atendeu, abrindo-lhe a madre.
+
+[[v1-30-23]]
+
+^<<v1-30-23,23>>^ E ela ficou grávida e deu à luz um filho. Disse então: “Deus tirou o meu vitupério!”
+
+[[v1-30-24]]
+
+^<<v1-30-24,24>>^ De modo que o chamou pelo nome de José,^&#42;1^ dizendo: “Jeová me acrescenta outro filho.”
+
+[NOTE]
+====
+. Significando “Acrescentador; Aumentador”. Hebr.: Yoh·séf.
+====
+
+[[v1-30-25]]
+
+^<<v1-30-25,25>>^ E seguiu-se que, quando Raquel tinha dado à luz José, Jacó disse imediatamente a Labão: “Manda-me embora, a fim de que eu possa ir para o meu lugar e para o meu país.
+
+[[v1-30-26]]
+
+^<<v1-30-26,26>>^ Dá-me as minhas esposas e os meus filhos pelos quais te servi, para que eu vá; pois tu mesmo deves saber o serviço que te prestei.”
+
+[[v1-30-27]]
+
+^<<v1-30-27,27>>^ Labão disse então: “Ora, se eu tiver achado favor aos teus olhos — tomei os presságios como significando que Jeová me está abençoando devido a ti.”
+
+[[v1-30-28]]
+
+^<<v1-30-28,28>>^ E acrescentou: “Estipula-me teu salário e eu to darei.”
+
+[[v1-30-29]]
+
+^<<v1-30-29,29>>^ De modo que lhe disse: “Tu mesmo deves saber como te servi e como a tua manada tem passado comigo;
+
+[[v1-30-30]]
+
+^<<v1-30-30,30>>^ que era realmente pouco o que tinhas antes de eu vir, e que foi aumentando até [ser] uma multidão, por Jeová te abençoar desde que vim. Agora, pois, quando hei de fazer também algo para a minha própria casa?”
+
+[[v1-30-31]]
+
+^<<v1-30-31,31>>^ Ele disse então: “O que te hei de dar?” E Jacó prosseguiu, dizendo: “Não me darás absolutamente nada! Se fizeres esta coisa para mim, tornarei a pastorear o teu rebanho. Continuarei a cuidar dele.
+
+[[v1-30-32]]
+
+^<<v1-30-32,32>>^ Vou passar hoje entre o teu rebanho inteiro. Separa dali todo ovídeo salpicado e malhado, e todo ovídeo marrom-escuro entre os carneiros novos, e qualquer malhada e salpicada entre as cabras. Estes têm de ser doravante o meu salário.
+
+[[v1-30-33]]
+
+^<<v1-30-33,33>>^ E o meu proceder justo terá de responder por mim em qualquer dia futuro em que vieres para inspecionar o meu salário; todo o que não for salpicado e malhado entre as cabras, e marrom-escuro entre os carneiros novos será algo furtado se estiver comigo.”
+
+[[v1-30-34]]
+
+^<<v1-30-34,34>>^ A isso Labão disse: “Ora, isto é excelente!^&#42;1^ Seja segundo a tua palavra.”
+
+[NOTE]
+====
+. Lit.: “Labão disse: ‘Ora, que fosse [assim]!’”
+====
+
+[[v1-30-35]]
+
+^<<v1-30-35,35>>^ Então, naquele dia, pôs à parte os cabritos listrados e malhados, e todas as cabras salpicadas e malhadas, todo aquele em que havia algo de branco e todo o marrom-escuro entre os carneiros novos, mas entregou-os às mãos de seus filhos.
+
+[[v1-30-36]]
+
+^<<v1-30-36,36>>^ Depois pôs uma distância de três dias de jornada entre si e Jacó, e Jacó pastoreava os rebanhos remanescentes de Labão.
+
+[[v1-30-37]]
+
+^<<v1-30-37,37>>^ Jacó tomou então para seu uso varas^&#42;1^ ainda frescas de estoraque, e de amendoeira, e de plátano, e descascou nelas tiras brancas, deixando expostos os lugares brancos que havia nas varas.
+
+[NOTE]
+====
+. Ou “varetas; raminhos”.
+====
+
+[[v1-30-38]]
+
+^<<v1-30-38,38>>^ Por fim, colocou as varas descascadas diante do rebanho, nas calhas, nos bebedouros, aonde os rebanhos vinham beber, para que ficassem de cio^&#42;1^ diante delas quando vinham beber.
+
+[NOTE]
+====
+. “Para que concebessem”, Vg.
+====
+
+[[v1-30-39]]
+
+^<<v1-30-39,39>>^ Por conseguinte, os rebanhos ficavam de cio diante das varas e os rebanhos produziam listrados, salpicados e malhados.
+
+[[v1-30-40]]
+
+^<<v1-30-40,40>>^ E Jacó separou os carneiros novos e voltou então a face dos rebanhos para os listrados e para todos os marrom-escuros entre os rebanhos de Labão. Então pôs à parte as suas próprias greis e não as pôs junto aos rebanhos de Labão.
+
+[[v1-30-41]]
+
+^<<v1-30-41,41>>^ E sempre que os rebanhos robustos ficavam de cio, dava-se que Jacó colocava as varas nas calhas, diante dos olhos dos rebanhos, para que ficassem de cio pelas varas.
+
+[[v1-30-42]]
+
+^<<v1-30-42,42>>^ Mas, quando os rebanhos mostravam debilidade, não as colocava ali. De modo que os débeis sempre vinham a ser de Labão, mas os robustos, de Jacó.
+
+[[v1-30-43]]
+
+^<<v1-30-43,43>>^ E o homem foi prosperando mais e mais, e veio a ter grandes rebanhos, e servas, e servos, e camelos, e jumentos.
+
+'''
+
+xref:001-genesis/001-genesis-029.adoc#v1-29-0[&#60; Capítulo Anterior] | <<v1-30-0,Topo>> | xref:001-genesis/001-genesis-031.adoc#v1-31-0[Próximo Capítulo &#62;]

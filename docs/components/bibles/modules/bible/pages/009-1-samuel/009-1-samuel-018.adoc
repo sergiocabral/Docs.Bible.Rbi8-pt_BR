@@ -1,0 +1,176 @@
+include::./index.adoc[]
+
+[[v9-18-0]]
+=== 1 Samuel, 18
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-18-1]]
+
+^<<v9-18-1,1>>^ E sucedeu que, assim que acabou de falar a Saul, a própria alma de Jonatã^&#42;1^ se ligou à alma de Davi, e Jonatã começou a amá-lo como a sua própria alma.
+
+[NOTE]
+====
+. Lit.: “de Jeonatã”. Veja 19:1 n.
+====
+
+[[v9-18-2]]
+
+^<<v9-18-2,2>>^ Então Saul o tomou naquele dia e não lhe permitiu voltar à casa de seu pai.
+
+[[v9-18-3]]
+
+^<<v9-18-3,3>>^ E Jonatã e Davi passaram a concluir um pacto, porque o amava como a sua própria alma.
+
+[[v9-18-4]]
+
+^<<v9-18-4,4>>^ Além disso, Jonatã despiu-se da sua túnica sem mangas que usava e a deu a Davi, e também suas vestes, e até mesmo sua espada, e seu arco, e seu cinto.
+
+[[v9-18-5]]
+
+^<<v9-18-5,5>>^ E Davi começou a sair. Aonde quer que Saul o enviasse, ele agia com circunspecção, de modo que Saul o colocou sobre os homens de guerra; e isso parecia bom aos olhos de todo o povo e também aos olhos dos servos de Saul.
+
+[[v9-18-6]]
+
+^<<v9-18-6,6>>^ E sucedeu que, entrando eles quando Davi retornou de golpear os filisteus,^&#42;1^ as mulheres começaram a sair de todas as cidades de Israel com canções e com danças ao encontro de Saul, o rei, com pandeiros, com alegria e com alaúdes.
+
+[NOTE]
+====
+. Lit.: “o filisteu”, mas em sentido coletivo. LXXB omite o texto desde 17:55 até aqui.
+====
+
+[[v9-18-7]]
+
+^<<v9-18-7,7>>^ E as mulheres que festejavam respondiam e diziam:
+“Saul golpeou os seus milhares,
+E Davi as suas dezenas de milhares.”
+
+[[v9-18-8]]
+
+^<<v9-18-8,8>>^ E Saul começou a irar-se muito, e este ditado era mau do seu ponto de vista,^&#42;1^ de modo que ele disse: “A Davi deram dezenas de milhares, mas a mim me deram os milhares, e só falta dar-lhe ainda o reinado!”
+
+[NOTE]
+====
+. Lit.: “mau aos seus olhos”.
+====
+
+[[v9-18-9]]
+
+^<<v9-18-9,9>>^ E daquele dia em diante Saul olhava continuamente com suspeita para Davi.
+
+[[v9-18-10]]
+
+^<<v9-18-10,10>>^ E sucedeu, no dia seguinte, que o espírito mau da parte de Deus tornou-se ativo em Saul, de modo que se comportou como profeta dentro da casa, enquanto Davi tocava música com a sua mão, como nos dias anteriores; e Saul tinha a lança na mão.
+
+[[v9-18-11]]
+
+^<<v9-18-11,11>>^ E Saul passou a arremessar a lança e a dizer: “Vou cravar Davi na parede!” mas Davi se desviou duas vezes diante dele.
+
+[[v9-18-12]]
+
+^<<v9-18-12,12>>^ E Saul ficou com medo de Davi, porque Jeová mostrava estar com ele, mas se havia retirado de Saul.
+
+[[v9-18-13]]
+
+^<<v9-18-13,13>>^ Por conseguinte, Saul afastou-o da sua companhia e designou-o como chefe de mil para si; e ele saía e entrava regularmente diante do povo.
+
+[[v9-18-14]]
+
+^<<v9-18-14,14>>^ E Davi agia continuamente com circunspeção em todos os seus caminhos e Jeová estava com ele.
+
+[[v9-18-15]]
+
+^<<v9-18-15,15>>^ E Saul via que ele agia com muita circunspeção, de modo que se amedrontou com ele.
+
+[[v9-18-16]]
+
+^<<v9-18-16,16>>^ E todo o Israel e Judá amavam a Davi, pois ele saía e entrava diante deles.
+
+[[v9-18-17]]
+
+^<<v9-18-17,17>>^ Por fim, Saul disse a Davi: “Eis a minha filha mais velha, Merabe. Ela é quem eu te darei por esposa. Somente mostra-te a mim pessoa valente e trava as guerras^&#42;1^ de Jeová.” Mas, quanto a Saul, dizia para si: “Não venha a minha mão a estar sobre ele, mas venha a mão dos filisteus a estar sobre ele.”
+
+[NOTE]
+====
+. Ou “batalhas”.
+====
+
+[[v9-18-18]]
+
+^<<v9-18-18,18>>^ Então Davi disse a Saul: “Quem sou eu e quem é a minha gente, a família de meu pai, em Israel, para eu me tornar genro do rei?”
+
+[[v9-18-19]]
+
+^<<v9-18-19,19>>^ No entanto, sucedeu que na ocasião de se dar Merabe, filha de Saul, a Davi, ela mesma já tinha sido dada como esposa a Adriel, o meolatita.
+
+[[v9-18-20]]
+
+^<<v9-18-20,20>>^ Ora, Mical, filha de Saul, amava a Davi, e isso foi contado a Saul, e o assunto era do seu agrado.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “era direito aos seus olhos”.
+====
+
+[[v9-18-21]]
+
+^<<v9-18-21,21>>^ Portanto, Saul disse: “Dá-la-ei a ele para que lhe sirva de laço e para que venha a estar sobre ele a mão dos filisteus.” Por conseguinte, Saul disse a Davi: “Por [uma das] duas^&#42;1^ formarás hoje uma aliança matrimonial comigo.”
+
+[NOTE]
+====
+. “Por uma das duas”, T; M: “Por duas”, isto é, pela segunda vez.
+====
+
+[[v9-18-22]]
+
+^<<v9-18-22,22>>^ Outrossim, Saul ordenou aos seus servos: “Falai secretamente a Davi, dizendo: ‘Eis que o rei se agrada de ti e mesmo todos os seus servos vieram a amar-te. Portanto, forma agora uma aliança matrimonial com o rei.’”
+
+[[v9-18-23]]
+
+^<<v9-18-23,23>>^ E os servos de Saul começaram a falar estas palavras aos ouvidos de Davi, mas Davi disse: “É coisa fácil aos vossos olhos formar uma aliança matrimonial com o rei, sendo eu homem de poucos meios e de pouca estima?”
+
+[[v9-18-24]]
+
+^<<v9-18-24,24>>^ Os servos de Saul contaram-no então a ele, dizendo: “Foi com tais palavras que Davi falou.”
+
+[[v9-18-25]]
+
+^<<v9-18-25,25>>^ Portanto, Saul disse: “Isto é o que direis a Davi: ‘O rei não tem agrado em dinheiro matrimonial, mas em cem prepúcios dos filisteus, para se vingar dos inimigos do rei.’” Mas, no que tocava a Saul, maquinara fazer Davi cair pela mão dos filisteus.
+
+[[v9-18-26]]
+
+^<<v9-18-26,26>>^ Portanto, seus servos comunicaram estas palavras a Davi e o assunto era do agrado de Davi,^&#42;1^ formar uma aliança matrimonial com o rei, e os dias não haviam ainda expirado.
+
+[NOTE]
+====
+. Lit.: “era direito aos olhos de Davi”.
+====
+
+[[v9-18-27]]
+
+^<<v9-18-27,27>>^ Davi levantou-se, pois, e ele e seus homens foram e golpearam dentre os filisteus duzentos^&#42;1^ homens, e Davi veio trazer os seus prepúcios e dá-los ao rei no número total, para formar uma aliança matrimonial com o rei. Saul, por sua vez, deu-lhe Mical, sua filha, por esposa.
+
+[NOTE]
+====
+. “Duzentos”, MSyVg; LXX: “cem”.
+====
+
+[[v9-18-28]]
+
+^<<v9-18-28,28>>^ E Saul chegou a ver e saber que Jeová estava com Davi. Quanto a Mical, filha de Saul, ela o amava.^&#42;1^
+
+[NOTE]
+====
+. “Com Davi, e que todo o Israel o amava”, LXX.
+====
+
+[[v9-18-29]]
+
+^<<v9-18-29,29>>^ E novamente Saul sentiu ainda mais temor por causa de Davi, e Saul veio a ser para sempre inimigo de Davi.
+
+[[v9-18-30]]
+
+^<<v9-18-30,30>>^ E os príncipes dos filisteus costumavam sair, e sucedia que, quantas vezes saíssem, Davi agia com mais circunspeção dentre todos os servos de Saul; e seu nome veio a ser muito estimado.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-017.adoc#v9-17-0[&#60; Capítulo Anterior] | <<v9-18-0,Topo>> | xref:009-1-samuel/009-1-samuel-019.adoc#v9-19-0[Próximo Capítulo &#62;]

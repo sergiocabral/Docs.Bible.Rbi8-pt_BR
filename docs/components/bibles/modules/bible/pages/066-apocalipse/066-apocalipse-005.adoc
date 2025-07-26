@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v66-5-0]]
+=== Apocalipse, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v66-5-1]]
+
+^<<v66-5-1,1>>^ E eu vi na mão direita Daquele que estava sentado no trono um rolo escrito por dentro e pelo reverso, bem selado com sete selos.
+
+[[v66-5-2]]
+
+^<<v66-5-2,2>>^ E eu vi um forte anjo proclamar com voz alta:^&#42;1^ “Quem é digno de abrir o rolo e de soltar os seus selos?”
+
+[NOTE]
+====
+. Ou “grande”.
+====
+
+[[v66-5-3]]
+
+^<<v66-5-3,3>>^ Mas não havia ninguém, nem no céu, nem na terra, nem debaixo da terra, que pudesse abrir o rolo ou olhar dentro dele.
+
+[[v66-5-4]]
+
+^<<v66-5-4,4>>^ E eu passei a chorar muito, porque ninguém fora achado digno de abrir o rolo ou de olhar dentro dele.
+
+[[v66-5-5]]
+
+^<<v66-5-5,5>>^ Mas um dos anciãos diz-me: “Pára de chorar. Eis que o Leão que é da tribo de Judá, a raiz de Davi, venceu de modo a abrir o rolo e os seus sete selos.”
+
+[[v66-5-6]]
+
+^<<v66-5-6,6>>^ E eu vi no meio do trono e das quatro criaturas viventes, e no meio dos anciãos, um cordeiro em pé, como se tivesse sido morto, tendo sete chifres e sete olhos, [olhos] que significam^&#42;1^ os sete^&#42;2^ espíritos de Deus, os quais^&#42;3^ têm sido enviados à terra inteira.
+
+[NOTE]
+====
+. Ou “são”.
+. “Sete”, אVgcSyh; AVg omitem isso.
+. “Os quais”, אVg, referindo-se aos “sete espíritos”; A: “e que”, referindo-se aos “olhos”.
+====
+
+[[v66-5-7]]
+
+^<<v66-5-7,7>>^ E ele foi e [o] tirou imediatamente da mão direita Daquele sentado no trono.
+
+[[v66-5-8]]
+
+^<<v66-5-8,8>>^ E, ao tomar o rolo, as quatro criaturas viventes e os vinte e quatro anciãos prostraram-se diante do Cordeiro, cada um [deles] tendo uma harpa e tigelas de ouro cheias de incenso, e o [incenso] significa^&#42;1^ as orações dos santos.
+
+[NOTE]
+====
+. “O [incenso] significa”, א e ms. Minúsculo 046; A: “as [tigelas] significam”.
+====
+
+[[v66-5-9]]
+
+^<<v66-5-9,9>>^ E cantam um novo cântico, dizendo: “Digno és de tomar o rolo e de abrir os seus selos, porque foste morto e com o teu sangue compraste pessoas para Deus, dentre toda tribo, e língua, e povo, e nação,
+
+[[v66-5-10]]
+
+^<<v66-5-10,10>>^ e fizeste deles um reino e sacerdotes para o nosso Deus, e hão de reinar^&#42;1^ sobre^&#42;2^ a terra.”
+
+[NOTE]
+====
+. “Hão de reinar; reinam”, ASyh e ms. Minúsculo 046; אVg: “reinarão”.
+. “Sobre.” Gr.: e·pí, com o genitivo, como em 9:11; 11:6.
+====
+
+[[v66-5-11]]
+
+^<<v66-5-11,11>>^ E eu vi, e ouvi uma voz de muitos anjos em volta do trono, e das criaturas viventes, e dos anciãos, e o número deles era miríades de miríades^&#42;1^ e milhares de milhares,
+
+[NOTE]
+====
+. Ou “dez mil vezes dezenas de milhares”.
+====
+
+[[v66-5-12]]
+
+^<<v66-5-12,12>>^ dizendo com voz alta: “O Cordeiro que foi morto é digno de receber o poder, e as riquezas, e a sabedoria, e a força, e a honra, e a glória, e a bênção.”
+
+[[v66-5-13]]
+
+^<<v66-5-13,13>>^ E toda criatura que está no céu, e na terra, e debaixo da terra, e no mar, e todas as coisas neles, eu ouvi dizer: “Ao que está sentado no trono e ao Cordeiro seja a bênção, e a honra, e a glória, e o poderio para todo o sempre.”
+
+[[v66-5-14]]
+
+^<<v66-5-14,14>>^ E as quatro criaturas viventes diziam: “Amém!” e os anciãos prostraram-se e adoraram.
+
+'''
+
+xref:066-apocalipse/066-apocalipse-004.adoc#v66-4-0[&#60; Capítulo Anterior] | <<v66-5-0,Topo>> | xref:066-apocalipse/066-apocalipse-006.adoc#v66-6-0[Próximo Capítulo &#62;]

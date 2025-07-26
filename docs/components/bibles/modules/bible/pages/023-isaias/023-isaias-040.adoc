@@ -1,0 +1,196 @@
+include::./index.adoc[]
+
+[[v23-40-0]]
+=== Isaías, 40
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-40-1]]
+
+^<<v23-40-1,1>>^ “Consolai, consolai meu povo”, diz o vosso Deus.^&#42;1^
+
+[NOTE]
+====
+. “O vosso Deus.” Hebr.: ’Elo·heh·khém.
+====
+
+[[v23-40-2]]
+
+^<<v23-40-2,2>>^ “Falai ao coração de Jerusalém e clamai para ela que foi cumprido seu serviço militar,^&#42;1^ que o erro dela foi saldado. Pois ela recebeu da mão de Jeová o pleno montante^&#42;2^ por todos os seus pecados.”
+
+[NOTE]
+====
+. “Seu serviço militar.” Hebr.: tseva·’áh, sing. de tseva·’óhth, traduzido por “exércitos” em 39:5.
+. Ou “duplo montante”. Hebr.: kif·lá·yim, dual. Veja Jó 11:6 n.: “múltiplas”.
+====
+
+[[v23-40-3]]
+
+^<<v23-40-3,3>>^ Escutai! Alguém está clamando^&#42;1^ no ermo: “Desobstruí o caminho^&#42;2^ de Jeová! Fazei reta^&#42;3^ a estrada principal para nosso Deus através^&#42;4^ da planície desértica.
+
+[NOTE]
+====
+. Ou: “Uma voz! Há alguém clamando”; ou: “Há a voz de alguém clamando.”
+. Ou “clamando: ‘Através do (No) ermo desobstruí o caminho’”.
+. Ou “lisa”.
+. Ou “na”.
+====
+
+[[v23-40-4]]
+
+^<<v23-40-4,4>>^ Alteie-se todo vale e abaixe-se todo monte e [todo] morro. E o terreno acidentado terá de tornar-se terra plana e o terreno escabroso, um vale plano.
+
+[[v23-40-5]]
+
+^<<v23-40-5,5>>^ E certamente se revelará a glória de Jeová, e toda a carne, juntamente, terá de vê-la, pois a própria boca de Jeová falou [isso].”
+
+[[v23-40-6]]
+
+^<<v23-40-6,6>>^ Escuta! Alguém está dizendo:^&#42;1^ “Clama!” E um disse:^&#42;2^ “O que devo clamar?”
+“Toda a carne é erva verde, e toda a sua benevolência^&#42;3^ é igual à flor do campo.
+
+[NOTE]
+====
+. Ou: “Uma voz! Há alguém dizendo”; ou: “Há a voz de alguém dizendo.”
+. Ou “ele disse”. 1QIsaLXXVg: “eu disse”.
+. Ou “amor leal”. LXXVg: “glória”; Sy: “beleza”.
+====
+
+[[v23-40-7]]
+
+^<<v23-40-7,7>>^ Secou-se a erva verde, murchou a flor, porque soprou sobre ela o próprio espírito de Jeová. Decerto as pessoas são erva verde.
+
+[[v23-40-8]]
+
+^<<v23-40-8,8>>^ Secou-se a erva verde, murchou a flor; mas, quanto à palavra de nosso Deus, ela durará por tempo indefinido.”
+
+[[v23-40-9]]
+
+^<<v23-40-9,9>>^ Sobe tu a um monte alto, mulher portadora de boas novas para Sião. Eleva a tua voz mesmo com poder, mulher portadora de boas novas para Jerusalém. Eleva-a. Não tenhas medo. Dize às cidades de Judá: “Eis o vosso Deus.”^&#42;1^
+
+[NOTE]
+====
+. “Vosso Deus.” Hebr.: ’Elo·heh·khém.
+====
+
+[[v23-40-10]]
+
+^<<v23-40-10,10>>^ Eis que o próprio Soberano Senhor Jeová virá mesmo como alguém forte,^&#42;1^ e seu braço governará por ele. Eis que está com ele a sua recompensa e diante dele está o salário que paga.
+
+[NOTE]
+====
+. “Mesmo com força”, 1QIsaLXXSyVg.
+====
+
+[[v23-40-11]]
+
+^<<v23-40-11,11>>^ Qual pastor ele pastoreará a sua própria grei. Com o seu braço reunirá os cordeiros; e [os] carregará ao colo. Conduzirá [com cuidado] as que amamentam.
+
+[[v23-40-12]]
+
+^<<v23-40-12,12>>^ Quem mediu as águas na mera concavidade da sua mão, e mediu as proporções dos próprios céus com o mero palmo, e incluiu numa medida^&#42;1^ o pó da terra, ou pesou os montes com o fiel e os morros na balança?
+
+[NOTE]
+====
+. Lit.: “na terça parte”, duma medida agora desconhecida.
+====
+
+[[v23-40-13]]
+
+^<<v23-40-13,13>>^ Quem mediu as proporções do espírito de Jeová, e quem, como seu homem de conselho, pode fazê-lo saber alguma coisa?
+
+[[v23-40-14]]
+
+^<<v23-40-14,14>>^ Com quem se consultou ele para que o faça compreender ou quem o ensina na vereda da justiça, ou lhe ensina conhecimento, ou lhe faz saber o próprio caminho do verdadeiro entendimento?
+
+[[v23-40-15]]
+
+^<<v23-40-15,15>>^ Eis que as nações são como uma gota dum balde; e foram consideradas como a camada fina de pó na balança. Eis que ele levanta as próprias ilhas como se fossem apenas [pó] miúdo.
+
+[[v23-40-16]]
+
+^<<v23-40-16,16>>^ Até mesmo o Líbano não é suficiente para manter um fogo aceso, e seus animais selváticos não são suficientes para uma oferta queimada.
+
+[[v23-40-17]]
+
+^<<v23-40-17,17>>^ Todas as nações são diante dele como algo inexistente; foram consideradas como nada e como irrealidade para ele.
+
+[[v23-40-18]]
+
+^<<v23-40-18,18>>^ E a quem é que podeis assemelhar Deus^&#42;1^ e que semelhança podeis comparar com ele?
+
+[NOTE]
+====
+. “Deus”, M(hebr.: ’El)Vg; LXX: “Jeová”.
+====
+
+[[v23-40-19]]
+
+^<<v23-40-19,19>>^ O artífice fez apenas uma imagem fundida, e o trabalhador em metal a reveste de ouro e forja correntes de prata.
+
+[[v23-40-20]]
+
+^<<v23-40-20,20>>^ E ele escolhe certa árvore como contribuição, uma árvore não apodrecida. Procura para si um artífice hábil, para preparar uma imagem esculpida que não possa ser abalada.
+
+[[v23-40-21]]
+
+^<<v23-40-21,21>>^ Acaso não sabeis? Acaso não ouvis? Acaso não se vos informou desde o começo? Não aplicastes entendimento desde os alicerces da terra?
+
+[[v23-40-22]]
+
+^<<v23-40-22,22>>^ Há Um que mora acima do círculo da terra, cujos moradores são como gafanhotos, Aquele que estende os céus como uma gaze fina e que os estica como uma tenda em que morar,
+
+[[v23-40-23]]
+
+^<<v23-40-23,23>>^ Aquele que reduz dignitários a nada, que fez os próprios juízes da terra como mera irrealidade.
+
+[[v23-40-24]]
+
+^<<v23-40-24,24>>^ Ainda não foram plantados; ainda não foram semeados; seu toco ainda não se arraigou na terra. E só se precisa soprar sobre eles e [logo] ressecam; e o próprio vendaval os leva embora qual restolho.
+
+[[v23-40-25]]
+
+^<<v23-40-25,25>>^ “Mas a quem me podeis assemelhar de modo que eu deva ser feito igual a ele?” diz o Santo.
+
+[[v23-40-26]]
+
+^<<v23-40-26,26>>^ “Levantai ao alto os vossos olhos e vede. Quem criou estas coisas? Foi Aquele que faz sair o exército delas até mesmo por número, chamando a todas elas por nome. Devido à abundância de energia dinâmica,^&#42;1^ sendo ele também vigoroso em poder,^&#42;2^ não falta nem sequer uma [delas].
+
+[NOTE]
+====
+. “Energia dinâmica.” Hebr.: ’oh·ním, pl.; lat.: for·ti·tú·di·nis, “fortitude”.
+. “Poder.” Hebr.: kó·ahh.
+====
+
+[[v23-40-27]]
+
+^<<v23-40-27,27>>^ “Por que razão dizes, ó Jacó, e falas, ó Israel: ‘Meu caminho ficou escondido de Jeová e a justiça para comigo escapa ao meu próprio Deus’?^&#42;1^
+
+[NOTE]
+====
+. Lit.: “e . . . do meu Deus”. Hebr.: u·me·’Elo·haí.
+====
+
+[[v23-40-28]]
+
+^<<v23-40-28,28>>^ Acaso não vieste a saber ou não ouviste? Jeová, o Criador das extremidades^&#42;1^ da terra, é Deus por tempo indefinido. Ele não se cansa nem se fatiga. Não se esquadrinha o seu entendimento.
+
+[NOTE]
+====
+. Veja Je 25:31, 33 n.
+====
+
+[[v23-40-29]]
+
+^<<v23-40-29,29>>^ Ele dá poder ao cansado; e faz abundar a plena força para aquele que está sem energia dinâmica.
+
+[[v23-40-30]]
+
+^<<v23-40-30,30>>^ Rapazes tanto se cansarão como se fatigarão e os próprios jovens sem falta tropeçarão,
+
+[[v23-40-31]]
+
+^<<v23-40-31,31>>^ mas os que esperam em Jeová recuperarão poder. Ascenderão com asas quais águias. Correrão e não se fatigarão; andarão e não se cansarão.”
+
+'''
+
+xref:023-isaias/023-isaias-039.adoc#v23-39-0[&#60; Capítulo Anterior] | <<v23-40-0,Topo>> | xref:023-isaias/023-isaias-041.adoc#v23-41-0[Próximo Capítulo &#62;]

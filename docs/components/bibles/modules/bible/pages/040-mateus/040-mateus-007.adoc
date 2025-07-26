@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v40-7-0]]
+=== Mateus, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v40-7-1]]
+
+^<<v40-7-1,1>>^ “Parai de julgar, para que não sejais julgados;
+
+[[v40-7-2]]
+
+^<<v40-7-2,2>>^ pois, com o julgamento com que julgais, vós sereis julgados; e com a medida com que medis, medirão a vós.
+
+[[v40-7-3]]
+
+^<<v40-7-3,3>>^ Então, por que olhas para o argueiro no olho do teu irmão, mas não tomas em consideração a trave no teu próprio olho?
+
+[[v40-7-4]]
+
+^<<v40-7-4,4>>^ Ou, como podes dizer a teu irmão: ‘Permite-me tirar o argueiro do teu olho’, quando, eis que há uma trave no teu próprio olho?
+
+[[v40-7-5]]
+
+^<<v40-7-5,5>>^ Hipócrita! Tira primeiro a trave do teu próprio olho, e depois verás claramente como tirar o argueiro do olho do teu irmão.
+
+[[v40-7-6]]
+
+^<<v40-7-6,6>>^ “Não deis aos cães o que é santo, nem lanceis as vossas pérolas diante dos porcos, para que nunca as pisem debaixo dos seus pés, e, voltando-se, vos dilacerem.
+
+[[v40-7-7]]
+
+^<<v40-7-7,7>>^ “Persisti em pedir, e dar-se-vos-á; persisti em buscar, e achareis; persisti em bater, e abrir-se-vos-á.
+
+[[v40-7-8]]
+
+^<<v40-7-8,8>>^ Pois, todo o que [persistir em] pedir, receberá, e todo o que [persistir em] buscar, achará, e a todo o que [persistir em] bater, abrir-se-á.
+
+[[v40-7-9]]
+
+^<<v40-7-9,9>>^ Deveras, qual é o homem entre vós, cujo filho lhe peça pão — será que lhe entregará uma pedra?
+
+[[v40-7-10]]
+
+^<<v40-7-10,10>>^ Ou talvez lhe peça um peixe — será que lhe entregará uma serpente?
+
+[[v40-7-11]]
+
+^<<v40-7-11,11>>^ Portanto, se vós, embora iníquos, sabeis dar boas dádivas a vossos filhos, quanto mais o vosso Pai, que está nos céus, dará boas coisas aos que lhe pedirem!
+
+[[v40-7-12]]
+
+^<<v40-7-12,12>>^ “Todas as coisas, portanto, que quereis que os homens vos façam, vós também tendes de fazer do mesmo modo a eles; isto, de fato, é o que a Lei e os Profetas querem dizer.
+
+[[v40-7-13]]
+
+^<<v40-7-13,13>>^ “Entrai pelo portão estreito; porque larga e espaçosa é a estrada que conduz à destruição,^&#42;1^ e muitos são os que entram por ela;
+
+[NOTE]
+====
+. Ou “aniquilação”. Gr.: a·pó·lei·an.
+====
+
+[[v40-7-14]]
+
+^<<v40-7-14,14>>^ ao passo que estreito é o portão e apertada a estrada que conduz à vida, e poucos são os que o acham.
+
+[[v40-7-15]]
+
+^<<v40-7-15,15>>^ “Vigiai-vos dos falsos profetas que se chegam a vós em pele de ovelha, mas que por dentro são lobos vorazes.
+
+[[v40-7-16]]
+
+^<<v40-7-16,16>>^ Pelos seus frutos os reconhecereis. Será que se colhem uvas dos espinhos ou figos dos abrolhos?
+
+[[v40-7-17]]
+
+^<<v40-7-17,17>>^ Do mesmo modo, toda árvore boa produz fruto excelente, mas toda árvore podre produz fruto imprestável;
+
+[[v40-7-18]]
+
+^<<v40-7-18,18>>^ a árvore boa não pode dar fruto imprestável, nem pode a árvore podre produzir fruto excelente.
+
+[[v40-7-19]]
+
+^<<v40-7-19,19>>^ Toda árvore que não produz fruto excelente é cortada e lançada no fogo.
+
+[[v40-7-20]]
+
+^<<v40-7-20,20>>^ Realmente, pois, pelos seus frutos reconhecereis estes [homens].
+
+[[v40-7-21]]
+
+^<<v40-7-21,21>>^ “Nem todo o que me disser: ‘Senhor, Senhor’, entrará no reino dos céus, senão aquele que fizer a vontade de meu Pai, que está nos céus.
+
+[[v40-7-22]]
+
+^<<v40-7-22,22>>^ Muitos me dirão naquele dia: ‘Senhor, Senhor, não profetizamos em teu nome e não expulsamos demônios em teu nome, e não fizemos muitas obras poderosas^&#42;1^ em teu nome?’
+
+[NOTE]
+====
+. Ou “muitos milagres”.
+====
+
+[[v40-7-23]]
+
+^<<v40-7-23,23>>^ Contudo, eu lhes confessarei então: Nunca vos conheci! Afastai-vos de mim, vós obreiros do que é contra a lei.
+
+[[v40-7-24]]
+
+^<<v40-7-24,24>>^ “Portanto, todo aquele que ouve estas minhas palavras e as pratica será comparado a um homem discreto, que construiu a sua casa sobre a rocha.
+
+[[v40-7-25]]
+
+^<<v40-7-25,25>>^ E caiu a chuva, e vieram as inundações, e sopraram os ventos e açoitaram a casa, mas ela não se desmoronou, pois tinha sido fundada na rocha.
+
+[[v40-7-26]]
+
+^<<v40-7-26,26>>^ Além disso, todo aquele que ouve estas minhas palavras e não as pratica será comparado a um homem tolo, que construiu a sua casa sobre a areia.
+
+[[v40-7-27]]
+
+^<<v40-7-27,27>>^ E caiu a chuva, e vieram as inundações, e sopraram os ventos e bateram contra aquela casa, e ela se desmoronou, e foi grande a sua queda.”
+
+[[v40-7-28]]
+
+^<<v40-7-28,28>>^ Ora, quando Jesus tinha terminado com estas palavras, o efeito foi que as multidões ficaram assombradas com o seu modo de ensinar;
+
+[[v40-7-29]]
+
+^<<v40-7-29,29>>^ pois ele as ensinava como quem tinha autoridade, e não como seus escribas.
+
+'''
+
+xref:040-mateus/040-mateus-006.adoc#v40-6-0[&#60; Capítulo Anterior] | <<v40-7-0,Topo>> | xref:040-mateus/040-mateus-008.adoc#v40-8-0[Próximo Capítulo &#62;]

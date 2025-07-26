@@ -1,0 +1,64 @@
+include::./index.adoc[]
+
+[[v9-29-0]]
+=== 1 Samuel, 29
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-29-1]]
+
+^<<v9-29-1,1>>^ E os filisteus passaram a reunir todos os seus acampamentos em Afeque, ao passo que os israelitas se acamparam junto à fonte que havia em Jezreel.
+
+[[v9-29-2]]
+
+^<<v9-29-2,2>>^ E os senhores do eixo dos filisteus estavam passando segundo as centenas e segundo os milhares, e Davi e seus homens passavam depois com Aquis.
+
+[[v9-29-3]]
+
+^<<v9-29-3,3>>^ E os príncipes dos filisteus começaram a dizer: “Que significam estes hebreus?” Então Aquis disse aos príncipes dos filisteus: “Não é este Davi, servo de Saul, rei de Israel, que sucede estar comigo aqui há um ou dois anos,^&#42;1^ e não achei nele nem uma única coisa, desde o dia em que desertou [a mim] até o dia de hoje?”
+
+[NOTE]
+====
+. “Dias, este segundo ano”, LXX; M: “estes dias ou estes anos”; Vg: “muitos dias ou anos”.
+====
+
+[[v9-29-4]]
+
+^<<v9-29-4,4>>^ E os príncipes dos filisteus se indignaram com ele; e os príncipes dos filisteus prosseguiram, dizendo-lhe: “Faze o homem voltar, e retorne ele ao seu lugar que lhe determinaste; e não o deixes descer conosco à batalha, para que não se nos torne opositor^&#42;1^ na batalha. E com que se poria esta pessoa no favor do seu senhor?^&#42;2^ Não é com as cabeças destes homens [nossos]?
+
+[NOTE]
+====
+. “Opositor.” Hebr.: lesa·tán; lat.: ad·ver·sá·ri·us.
+. “Seu senhor.” Hebr.: ’adho·náv. Veja 20:38 n.
+====
+
+[[v9-29-5]]
+
+^<<v9-29-5,5>>^ Não é este o Davi a quem respondiam nas danças, dizendo: ‘Saul golpeou os seus milhares e Davi as suas dezenas de milhares’?”
+
+[[v9-29-6]]
+
+^<<v9-29-6,6>>^ Conseqüentemente, Aquis chamou a Davi e disse-lhe: “Por Jeová que vive, tu és reto, e tua saída e tua entrada comigo no acampamento têm sido boas aos meus olhos; pois não achei maldade em ti, desde o dia em que vieste a mim até o dia de hoje. Mas aos olhos dos senhores do eixo não és bom.
+
+[[v9-29-7]]
+
+^<<v9-29-7,7>>^ E agora, volta e vai em paz, para que não faças nada mau aos olhos dos senhores do eixo dos filisteus.”
+
+[[v9-29-8]]
+
+^<<v9-29-8,8>>^ Todavia, Davi disse a Aquis: “Por que, que fiz eu e o que achaste no teu servo, desde o dia em que vim a estar diante de ti até o dia de hoje, que eu não deva ir e realmente lutar contra os inimigos de meu senhor, o rei?”
+
+[[v9-29-9]]
+
+^<<v9-29-9,9>>^ A isto respondeu Aquis e disse a Davi: “Bem sei que tens sido bom aos meus próprios olhos, igual a um anjo de Deus. É só que os príncipes dos filisteus disseram: ‘Não suba ele conosco à batalha.’
+
+[[v9-29-10]]
+
+^<<v9-29-10,10>>^ E agora, levanta-te de manhã cedo com os servos do teu senhor que vieram contigo; e tereis de levantar-vos de manhã cedo, quando clarear para vós. Então ide.”
+
+[[v9-29-11]]
+
+^<<v9-29-11,11>>^ Conseqüentemente, Davi se levantou cedo, ele e seus homens, para irem de manhã e voltarem à terra dos filisteus; e os próprios filisteus subiram a Jezreel.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-028.adoc#v9-28-0[&#60; Capítulo Anterior] | <<v9-29-0,Topo>> | xref:009-1-samuel/009-1-samuel-030.adoc#v9-30-0[Próximo Capítulo &#62;]

@@ -1,0 +1,241 @@
+include::./index.adoc[]
+
+[[v15-10-0]]
+=== Esdras, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v15-10-1]]
+
+^<<v15-10-1,1>>^ Ora, assim que Esdras tinha orado e feito confissão, enquanto chorava e jazia prostrado diante da casa do [verdadeiro] Deus, reuniram-se a ele os de Israel, uma congregação muito grande, homens e mulheres, e crianças, porque o povo havia chorado muito.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “havia chorado um grande choro”.
+====
+
+[[v15-10-2]]
+
+^<<v15-10-2,2>>^ Então respondeu Secanias, filho de Jeiel, dos filhos de Elão, e disse a Esdras: “Nós é que agimos de modo infiel contra o nosso Deus, de modo que demos morada a esposas estrangeiras dos povos da terra. Todavia, há agora uma esperança para Israel neste respeito.
+
+[[v15-10-3]]
+
+^<<v15-10-3,3>>^ E agora, concluamos um pacto com o nosso Deus para despedirmos todas as esposas e os que delas nasceram, segundo o conselho de Jeová^&#42;1^ e dos que tremem diante do mandamento de nosso Deus, para que se proceda segundo a lei.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v15-10-4]]
+
+^<<v15-10-4,4>>^ Levanta-te, porque o assunto cabe a ti, e nós estamos contigo. Sê forte e age.”
+
+[[v15-10-5]]
+
+^<<v15-10-5,5>>^ Então se levantou Esdras e fez os chefes dos sacerdotes, os levitas e todo o povo fazer um juramento, de proceder segundo esta palavra. Por conseguinte, fizeram o juramento.
+
+[[v15-10-6]]
+
+^<<v15-10-6,6>>^ Esdras levantou-se então de diante da casa do [verdadeiro] Deus e foi ao refeitório de Jeoanã, filho de Eliasibe. Embora fosse para lá, não comeu pão nem bebeu água, porque pranteava a infidelidade do povo exilado.
+
+[[v15-10-7]]
+
+^<<v15-10-7,7>>^ Fizeram então passar uma proclamação através de Judá e de Jerusalém, para que todos os anteriores exilados se reunissem em Jerusalém;
+
+[[v15-10-8]]
+
+^<<v15-10-8,8>>^ e todo aquele que não chegasse no prazo de três dias, segundo o conselho dos príncipes e dos anciãos — todos os seus bens seriam interditos e ele mesmo seria separado da congregação do povo exilado.
+
+[[v15-10-9]]
+
+^<<v15-10-9,9>>^ De modo que todos os homens de Judá e de Benjamim se reuniram em Jerusalém em três dias, isto é, no nono mês, no vigésimo [dia] do mês, e todo o povo ficou sentado na praça da casa do [verdadeiro] Deus, tiritando por causa do assunto e por causa das chuvadas.
+
+[[v15-10-10]]
+
+^<<v15-10-10,10>>^ Por fim se levantou Esdras, o sacerdote, e disse-lhes: “Vós mesmos agistes de modo infiel, visto que destes morada a esposas estrangeiras, de modo a acrescentar à culpa de Israel.
+
+[[v15-10-11]]
+
+^<<v15-10-11,11>>^ E agora, fazei confissão a Jeová, o Deus de vossos antepassados, e fazei o seu bel-prazer, e separai-vos dos povos da terra e das esposas estrangeiras.”
+
+[[v15-10-12]]
+
+^<<v15-10-12,12>>^ A isto respondeu toda a congregação e disse com alta voz: “Cabe-nos fazer exatamente conforme a tua palavra.
+
+[[v15-10-13]]
+
+^<<v15-10-13,13>>^ No entanto, o povo é muito, e é a época das chuvadas e não é possível ficar de pé do lado de fora; e o negócio não levará [só] um ou dois dias, pois nos rebelamos grandemente neste assunto.
+
+[[v15-10-14]]
+
+^<<v15-10-14,14>>^ Portanto, por favor, atuem os nossos príncipes de modo representativo para toda a congregação; e quanto a todos os que estão nas nossas cidades, os quais deram morada a esposas estrangeiras, venham eles nos tempos marcados e junto com eles os anciãos de cada cidade respectiva, bem como seus juízes, até termos feito recuar de nós a ira ardente de nosso Deus por causa deste assunto.”
+
+[[v15-10-15]]
+
+^<<v15-10-15,15>>^ (No entanto, o próprio Jonatã, filho de Asael, e Jazeías, filho de Ticvá, levantaram-se contra isso,^&#42;1^ e Mesulão e Sabetai, os levitas, foram os que os ajudaram.)
+
+[NOTE]
+====
+. Ou: “Especialmente Jonatã, filho de Asael, e Jazeías, filho de Ticvá, eram os que agiam de modo representativo neste respeito [LXX: “estavam comigo neste assunto”].”
+====
+
+[[v15-10-16]]
+
+^<<v15-10-16,16>>^ E os anteriores exilados^&#42;1^ passaram a fazer assim; e Esdras, o sacerdote, [e] os homens que eram os cabeças dos pais para a sua casa paterna, sim, todos eles por nomes, separaram-se então e começaram a sentar-se no primeiro dia do décimo mês para investigar o assunto;
+
+[NOTE]
+====
+. Lit.: “os filhos do Exílio”.
+====
+
+[[v15-10-17]]
+
+^<<v15-10-17,17>>^ e aos poucos terminaram com todos os homens que tinham dado morada a esposas estrangeiras, no primeiro dia do primeiro mês.
+
+[[v15-10-18]]
+
+^<<v15-10-18,18>>^ E vieram achar-se alguns dos filhos dos sacerdotes que tinham dado morada a esposas estrangeiras; dos filhos de Jesua, filho de Jeozadaque,^&#42;1^ e seus irmãos: Maaséias, e Eliézer, e Jaribe, e Gedalias.
+
+[NOTE]
+====
+. Lit.: “Jozadaque”. Veja 3:2 n.: “Jeozadaque”.
+====
+
+[[v15-10-19]]
+
+^<<v15-10-19,19>>^ Mas eles prometeram, por aperto de mão,^&#42;1^ despedir as suas esposas, e que, sendo culpados, dariam um carneiro do rebanho pela sua culpa.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “deram sua mão”.
+. “E sua oferta pela culpa foi um carneiro do rebanho pela sua culpabilidade”, mediante uma emenda.
+====
+
+[[v15-10-20]]
+
+^<<v15-10-20,20>>^ E dos filhos de Imer havia Hanani e Zebadias;
+
+[[v15-10-21]]
+
+^<<v15-10-21,21>>^ e dos filhos de Harim: Maaséias, e Elias, e Semaías, e Jeiel, e Uzias;
+
+[[v15-10-22]]
+
+^<<v15-10-22,22>>^ e dos filhos de Pasur: Elioenai, Maaséias, Ismael, Netanel, Jozabade e Eleasá.
+
+[[v15-10-23]]
+
+^<<v15-10-23,23>>^ E dos levitas: Jozabade, e Simei, e Quelaías (isto é, Quelita), Petaías, Judá e Eliézer;
+
+[[v15-10-24]]
+
+^<<v15-10-24,24>>^ e dos cantores: Eliasibe; e dos porteiros: Salum, e Telém, e Uri.
+
+[[v15-10-25]]
+
+^<<v15-10-25,25>>^ E de Israel, dos filhos de Parós, havia Ramias, e Izias, e Malquijá, e Mijamim, e Eleazar, e Malquijá,^&#42;1^ e Benaia;
+
+[NOTE]
+====
+. “Hasabias”, LXX.
+====
+
+[[v15-10-26]]
+
+^<<v15-10-26,26>>^ e dos filhos de Elão: Matanias, Zacarias, e Jeiel, e Abdi, e Jeremote, e Elias;
+
+[[v15-10-27]]
+
+^<<v15-10-27,27>>^ e dos filhos de Zatu: Elioenai, Eliasibe, Matanias, e Jeremote, e Zabade, e Aziza;
+
+[[v15-10-28]]
+
+^<<v15-10-28,28>>^ e dos filhos de Bebai: Jeoanã, Hananias, Zebai, Atlai;
+
+[[v15-10-29]]
+
+^<<v15-10-29,29>>^ e dos filhos de Bani: Mesulão, Maluque, e Adaías, Jasube, e Seal, [e] Jeremote;^&#42;1^
+
+[NOTE]
+====
+. “E Ramote”, MmargemVg.
+====
+
+[[v15-10-30]]
+
+^<<v15-10-30,30>>^ e dos filhos de Paate-Moabe: Adna, e Quelal, Benaia, Maaséias, Matanias, Bezalel, e Binui, e Manassés;
+
+[[v15-10-31]]
+
+^<<v15-10-31,31>>^ e [dos] filhos de Harim, Eliézer, Issias, Malquijá, Semaías, Simeão,
+
+[[v15-10-32]]
+
+^<<v15-10-32,32>>^ Benjamim, Maluque [e] Semarias;
+
+[[v15-10-33]]
+
+^<<v15-10-33,33>>^ dos filhos de Hasum: Matenai, Matatá, Zabade, Elifelete, Jeremai, Manassés [e] Simei;
+
+[[v15-10-34]]
+
+^<<v15-10-34,34>>^ dos filhos de Bani: Maadai, Anrão e Uel,
+
+[[v15-10-35]]
+
+^<<v15-10-35,35>>^ Benaia, Bedéias, Queluí,
+
+[[v15-10-36]]
+
+^<<v15-10-36,36>>^ Vanias, Meremote, Eliasibe,
+
+[[v15-10-37]]
+
+^<<v15-10-37,37>>^ Matanias, Matenai e Jaasu;
+
+[[v15-10-38]]
+
+^<<v15-10-38,38>>^ e dos filhos de Binui:^&#42;1^ Simei,
+
+[NOTE]
+====
+. “E dos filhos de Binui”, mediante uma correção do M; LXX: “os filhos de Binui”; MVg: “e Bani e Binui”.
+====
+
+[[v15-10-39]]
+
+^<<v15-10-39,39>>^ e Selemias, e Natã, e Adaías,
+
+[[v15-10-40]]
+
+^<<v15-10-40,40>>^ Macnadebai, Sasai, Sarai,
+
+[[v15-10-41]]
+
+^<<v15-10-41,41>>^ Azarel e Selemias,^&#42;1^ Semarias,
+
+[NOTE]
+====
+. “E Selemias.” Hebr.: weShe·lem·yá·hu.
+====
+
+[[v15-10-42]]
+
+^<<v15-10-42,42>>^ Salum, Amarias, José;
+
+[[v15-10-43]]
+
+^<<v15-10-43,43>>^ dos filhos de Nebo: Jeiel, Matitias, Zabade, Zebina, Jadai e Joel, [e] Benaia.
+
+[[v15-10-44]]
+
+^<<v15-10-44,44>>^ Todos estes tinham aceitado esposas estrangeiras, e eles passaram a despedir as esposas junto com os filhos.^&#42;1^
+
+[NOTE]
+====
+. “E eles passaram a despedir as esposas junto com os filhos”, em harmonia com LXX no Primeiro de Esdras 9:36; M possivelmente: “e deles havia esposas e puseram filhos [no mundo]”.
+====
+
+'''
+
+xref:015-esdras/015-esdras-009.adoc#v15-9-0[&#60; Capítulo Anterior] | <<v15-10-0,Topo>> | xref:016-neemias/016-neemias-001.adoc#v16-1-0[Próximo Capítulo &#62;]

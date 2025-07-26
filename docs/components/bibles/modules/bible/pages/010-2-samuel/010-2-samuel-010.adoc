@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v10-10-0]]
+=== 2 Samuel, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v10-10-1]]
+
+^<<v10-10-1,1>>^ E sucedeu, depois, que veio a falecer o rei dos filhos de Amom, e Hanum, seu filho, começou a reinar em seu lugar.
+
+[[v10-10-2]]
+
+^<<v10-10-2,2>>^ Então disse Davi: “Usarei de benevolência para com Hanum, filho de Naás, assim como seu pai usou de benevolência para comigo.” Por conseguinte, Davi mandou por intermédio dos seus servos consolá-lo pelo seu pai, e os servos de Davi passaram a entrar na terra dos filhos de Amom.
+
+[[v10-10-3]]
+
+^<<v10-10-3,3>>^ No entanto, os príncipes dos filhos de Amom disseram a Hanum, seu senhor: “Está Davi honrando teu pai aos teus olhos, enviando-te consoladores? Não é para reconhecer a cidade^&#42;1^ e espioná-la, e para subvertê-la que Davi te enviou os seus servos?”
+
+[NOTE]
+====
+. “Cidade”, MLXXSyVg; em 1Cr 19:3: “país”.
+====
+
+[[v10-10-4]]
+
+^<<v10-10-4,4>>^ Hanum tomou, pois, os servos de Davi e raspou-lhes metade das suas barbas e cortou-lhes as roupas pelo meio, até às suas nádegas, e mandou-os embora.
+
+[[v10-10-5]]
+
+^<<v10-10-5,5>>^ Mais tarde se contou isso a Davi, e ele enviou imediatamente [alguém] ao encontro deles, porque os homens chegaram a sentir-se muito humilhados; e o rei passou a dizer: “Morai em Jericó até que as vossas barbas tenham crescido abundantemente. Então tereis de retornar.”
+
+[[v10-10-6]]
+
+^<<v10-10-6,6>>^ Com o tempo, os filhos de Amom viram que se tornaram malcheirosos para Davi, e os filhos de Amom passaram a mandar contratar sírios de Bete-Reobe e sírios de Zobá, vinte mil homens a pé, e o rei de Maacá, mil homens, e Istobe,^&#42;1^ doze mil homens.
+
+[NOTE]
+====
+. Ou “homens de Tobe”.
+====
+
+[[v10-10-7]]
+
+^<<v10-10-7,7>>^ Quando Davi ouviu isso, então enviou Joabe e todo o exército, [e] os poderosos.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “todo o exército — os poderosos”. Veja 16:6; 20:7; 23:8.
+====
+
+[[v10-10-8]]
+
+^<<v10-10-8,8>>^ E os filhos de Amom começaram a sair e a pôr-se em formação de batalha à entrada do portão,^&#42;1^ também os sírios de Zobá e de Reobe, e Istobe e Maacá à parte, no campo aberto.
+
+[NOTE]
+====
+. “Portão”, MLXXSyVg; em 1Cr 19:9: “cidade”.
+====
+
+[[v10-10-9]]
+
+^<<v10-10-9,9>>^ Quando Joabe viu que as cargas da batalha vieram a ser contra ele da frente e da retaguarda, escolheu imediatamente alguns dentre todos os homens seletos de Israel e os pôs em formação para enfrentar os sírios.
+
+[[v10-10-10]]
+
+^<<v10-10-10,10>>^ E o resto do povo ele entregou na mão de Abisai, seu irmão, para que os pusesse em formação para enfrentar os filhos de Amom.
+
+[[v10-10-11]]
+
+^<<v10-10-11,11>>^ E prosseguiu, dizendo: “Se os sírios se tornarem fortes demais para mim, então terás de servir-me de salvação; mas, se os próprios filhos de Amom se tornarem fortes demais para ti, então eu terei de ir salvar-te.
+
+[[v10-10-12]]
+
+^<<v10-10-12,12>>^ Sê forte, para que nos mostremos corajosos a favor do nosso povo e a favor das cidades de nosso Deus; e quanto a Jeová, fará o que for bom aos seus próprios olhos.”
+
+[[v10-10-13]]
+
+^<<v10-10-13,13>>^ Então Joabe e o povo com ele avançaram para a batalha contra os sírios, e estes se puseram em fuga diante dele.
+
+[[v10-10-14]]
+
+^<<v10-10-14,14>>^ Quanto aos filhos de Amom, viram que os sírios haviam fugido e se puseram em fuga diante de Abisai, e assim entraram na cidade. Depois, Joabe voltou dos filhos de Amom e veio a Jerusalém.
+
+[[v10-10-15]]
+
+^<<v10-10-15,15>>^ Quando os sírios viram que tinham sido derrotados diante de Israel, passaram a ajuntar-se.
+
+[[v10-10-16]]
+
+^<<v10-10-16,16>>^ Portanto, Hadadezer mandou trazer os sírios que havia na região do Rio; e eles vieram então a Helão,^&#42;1^ tendo na sua frente Sobaque, o chefe do exército de Hadadezer.
+
+[NOTE]
+====
+. “Eles vieram então a Helão”, MLXXSy; Vg: “conduziu o exército deles para lá”.
+====
+
+[[v10-10-17]]
+
+^<<v10-10-17,17>>^ Quando Davi foi informado disso, ajuntou imediatamente todo o Israel, e atravessou o Jordão e chegou a Helão. Os sírios puseram-se então em formação para enfrentar Davi e começaram a lutar contra ele.
+
+[[v10-10-18]]
+
+^<<v10-10-18,18>>^ E os sírios puseram-se em fuga diante de Israel; e Davi chegou a matar dos sírios setecentos condutores de carros e quarenta mil cavaleiros, e a Sobaque, chefe do exército deles, ele golpeou de modo que morreu ali.
+
+[[v10-10-19]]
+
+^<<v10-10-19,19>>^ Quando todos os reis, servos de Hadadezer, viram que tinham sido derrotados diante de Israel, fizeram prontamente paz com Israel e começaram a servi-los; e os sírios tinham medo de salvar novamente os filhos de Amom.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-009.adoc#v10-9-0[&#60; Capítulo Anterior] | <<v10-10-0,Topo>> | xref:010-2-samuel/010-2-samuel-011.adoc#v10-11-0[Próximo Capítulo &#62;]

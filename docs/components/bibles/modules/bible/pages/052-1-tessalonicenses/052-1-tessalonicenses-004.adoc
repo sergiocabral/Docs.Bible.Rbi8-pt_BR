@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v52-4-0]]
+=== 1 Tessalonicenses, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v52-4-1]]
+
+^<<v52-4-1,1>>^ Finalmente, irmãos, solicitamo-vos e exortamo-vos pelo Senhor Jesus, assim como recebestes [instrução] de nós quanto a como deveis andar e agradar a Deus, como de fato estais andando, que persistais em fazê-lo ainda mais plenamente.
+
+[[v52-4-2]]
+
+^<<v52-4-2,2>>^ Pois conheceis as ordens que vos demos por intermédio do Senhor Jesus.
+
+[[v52-4-3]]
+
+^<<v52-4-3,3>>^ Pois isto é o que Deus quer, a vossa santificação,^&#42;1^ que vos abstenhais de fornicação;^&#42;2^
+
+[NOTE]
+====
+. Ou “tenhais por sagrados (trateis como santos)”. Gr.: ho ha·gi·a·smós; lat.: sanc·ti·fi·cá·ti·o.
+. Veja Ap. 5A.
+====
+
+[[v52-4-4]]
+
+^<<v52-4-4,4>>^ que cada um de vós saiba obter posse do seu próprio vaso em santificação e honra,
+
+[[v52-4-5]]
+
+^<<v52-4-5,5>>^ não em cobiçoso apetite sexual,^&#42;1^ tal como também têm as nações que não conhecem a Deus;
+
+[NOTE]
+====
+. Lit.: “não na paixão do desejo”.
+====
+
+[[v52-4-6]]
+
+^<<v52-4-6,6>>^ que ninguém vá ao ponto de prejudicar e de usurpar os direitos de seu irmão neste assunto, pois Jeová^&#42;1^ é quem exige punição por todas estas coisas, assim como vos dissemos de antemão e também vos demos testemunho cabal.
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v52-4-7]]
+
+^<<v52-4-7,7>>^ Pois Deus nos chamou, não com uma concessão para a impureza,^&#42;1^ mas em conexão com a santificação.
+
+[NOTE]
+====
+. Ou “imundícia; depravação; lascívia”. Gr.: a·ka·thar·sí·ai; dativo, sing.; J22(hebr.): letum·’áh, “para a impureza”.
+====
+
+[[v52-4-8]]
+
+^<<v52-4-8,8>>^ Assim, pois, quem mostra falta de consideração, não desconsidera o homem, mas a Deus, que pôs em vós o seu espírito santo.
+
+[[v52-4-9]]
+
+^<<v52-4-9,9>>^ No entanto, com referência ao amor fraternal, não necessitais de que vos escrevamos, porque vós mesmos sois ensinados por Deus^&#42;1^ a vos amardes uns aos outros;
+
+[NOTE]
+====
+. “Deus”, אABVg; J17: “Jeová”.
+====
+
+[[v52-4-10]]
+
+^<<v52-4-10,10>>^ e, de fato, vós o estais fazendo para com todos os irmãos, em toda a Macedônia. Exortamo-vos, porém, irmãos, a que prossigais fazendo isso em medida mais plena,
+
+[[v52-4-11]]
+
+^<<v52-4-11,11>>^ e que tomeis por vosso alvo viver sossegadamente, e que cuideis de vossos próprios negócios e trabalheis com as vossas mãos, assim como vos ordenamos,
+
+[[v52-4-12]]
+
+^<<v52-4-12,12>>^ a fim de que andeis decentemente para com os de fora e não necessiteis de nada.
+
+[[v52-4-13]]
+
+^<<v52-4-13,13>>^ Além disso, irmãos, não queremos que sejais ignorantes no que se refere aos que estão dormindo [na morte], para que não estejais pesarosos como os demais que não têm esperança.
+
+[[v52-4-14]]
+
+^<<v52-4-14,14>>^ Pois, se a nossa fé é que Jesus morreu e foi levantado de novo, então, também, Deus trará com ele os que adormeceram [na morte] por intermédio de Jesus.
+
+[[v52-4-15]]
+
+^<<v52-4-15,15>>^ Pois, nós vos dizemos pela palavra de Jeová^&#42;1^ o seguinte: que nós, os viventes, que sobrevivermos até a presença do Senhor,^&#42;2^ de modo algum precederemos os que adormeceram [na morte];
+
+[NOTE]
+====
+. Veja Ap. 1D.
+. “Do Senhor”, אAVg; B: “de Jesus”.
+====
+
+[[v52-4-16]]
+
+^<<v52-4-16,16>>^ porque o próprio Senhor^&#42;1^ descerá do céu com uma chamada dominante, com voz de arcanjo e com a trombeta de Deus, e os que estão mortos em união com Cristo se levantarão primeiro.
+
+[NOTE]
+====
+. “O . . . Senhor”, אABVg; J7,8,13,14: “Jeová”.
+====
+
+[[v52-4-17]]
+
+^<<v52-4-17,17>>^ Depois nós, os viventes, que sobrevivermos,^&#42;1^ seremos juntamente^&#42;2^ com eles arrebatados em nuvens, para encontrar o Senhor^&#42;3^ no ar; e assim estaremos sempre com [o] Senhor.^&#42;4^
+
+[NOTE]
+====
+. Lit.: “os (que) sobrarmos”. Veja Ap. 5D.
+. Ou “ao mesmo tempo”.
+. “O Senhor”, אABVg; J7,8: “Jeová”.
+. “Senhor”, אABVg; J7,8,13,14,24: “Jeová”.
+====
+
+[[v52-4-18]]
+
+^<<v52-4-18,18>>^ Conseqüentemente, persisti em consolar-vos uns aos outros com estas palavras.
+
+'''
+
+xref:052-1-tessalonicenses/052-1-tessalonicenses-003.adoc#v52-3-0[&#60; Capítulo Anterior] | <<v52-4-0,Topo>> | xref:052-1-tessalonicenses/052-1-tessalonicenses-005.adoc#v52-5-0[Próximo Capítulo &#62;]

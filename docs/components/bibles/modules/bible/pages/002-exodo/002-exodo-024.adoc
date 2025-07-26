@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v2-24-0]]
+=== Êxodo, 24
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-24-1]]
+
+^<<v2-24-1,1>>^ E a Moisés ele disse: “Sobe até Jeová, tu e Arão, Nadabe e Abiú, e setenta dos anciãos de Israel, e tendes de curvar-vos^&#42;1^ à distância.
+
+[NOTE]
+====
+. Ou “tendes de adorar”.
+====
+
+[[v2-24-2]]
+
+^<<v2-24-2,2>>^ E Moisés tem de aproximar-se sozinho de Jeová; mas eles não se devem aproximar e o povo não deve subir com ele.”
+
+[[v2-24-3]]
+
+^<<v2-24-3,3>>^ Moisés foi então e relatou ao povo todas as palavras de Jeová e todas as decisões judiciais, e todo o povo respondeu de uma só voz e disse: “Todas as palavras que Jeová falou estamos dispostos a fazer.”
+
+[[v2-24-4]]
+
+^<<v2-24-4,4>>^ Concordemente, Moisés assentou por escrito todas as palavras de Jeová. Levantou-se então de manhã cedo e construiu um altar ao pé do monte, e doze colunas correspondentes às doze tribos de Israel.
+
+[[v2-24-5]]
+
+^<<v2-24-5,5>>^ Depois enviou jovens dos filhos de Israel e eles ofereceram ofertas queimadas e sacrificaram novilhos como sacrifícios, como sacrifícios de participação em comum, para Jeová.
+
+[[v2-24-6]]
+
+^<<v2-24-6,6>>^ Moisés tomou então metade do sangue e o pôs em tigelas, e metade do sangue aspergiu sobre o altar.
+
+[[v2-24-7]]
+
+^<<v2-24-7,7>>^ Por fim tomou o livro do pacto^&#42;1^ e o leu aos ouvidos do povo. Disseram então: “Tudo o que Jeová falou estamos dispostos a fazer e a ser obedientes.”
+
+[NOTE]
+====
+. “Livro do pacto.” Este, sem dúvida, continha a legislação apresentada em 20:22–23:33.
+====
+
+[[v2-24-8]]
+
+^<<v2-24-8,8>>^ Portanto, Moisés tomou o sangue e aspergiu com ele o povo, e disse: “Eis o sangue do pacto que Jeová concluiu convosco com respeito a todas estas palavras.”
+
+[[v2-24-9]]
+
+^<<v2-24-9,9>>^ E Moisés e Arão, Nadabe e Abiú, e setenta dos anciãos de Israel passaram a subir,
+
+[[v2-24-10]]
+
+^<<v2-24-10,10>>^ e chegaram a ver o Deus de Israel. E sob os pés dele havia o que se parecia a um trabalho de lajes de safira e aos próprios céus quanto à pureza.
+
+[[v2-24-11]]
+
+^<<v2-24-11,11>>^ E ele não estendeu sua mão contra os homens distintos dos filhos de Israel, mas tiveram uma visão do [verdadeiro] Deus, e comeram e beberam.
+
+[[v2-24-12]]
+
+^<<v2-24-12,12>>^ Jeová disse então a Moisés: “Sobe a mim no monte e fica ali, pois quero dar-te as tábuas de pedra, e a lei e o mandamento que tenho de escrever para ensiná-los.”
+
+[[v2-24-13]]
+
+^<<v2-24-13,13>>^ Moisés e Josué,^&#42;1^ seu ministro,^&#42;2^ levantaram-se então e Moisés foi subindo ao monte do [verdadeiro] Deus.
+
+[NOTE]
+====
+. Veja 17:9 n.
+. “Seu ministro (ajudante; garção; servo).” Hebr.: meshor·thóh; lat.: mi·ní·ster.
+====
+
+[[v2-24-14]]
+
+^<<v2-24-14,14>>^ Mas havia dito aos anciãos: “Esperai por nós neste lugar até voltarmos a vós. E eis que estão convosco Arão e Hur. Quem tiver uma questão em juízo,^&#42;1^ chegue-se a eles.”
+
+[NOTE]
+====
+. Lit.: “Quem for dono de palavras”, quer dizer, litigante ou controversista.
+====
+
+[[v2-24-15]]
+
+^<<v2-24-15,15>>^ Assim, Moisés subiu ao monte enquanto a nuvem cobria o monte.
+
+[[v2-24-16]]
+
+^<<v2-24-16,16>>^ E a glória de Jeová continuava a residir^&#42;1^ no monte Sinai e a nuvem continuava a cobri-lo por seis dias. Por fim, no sétimo dia, ele chamou a Moisés do meio da nuvem.
+
+[NOTE]
+====
+. Ou “estender-se como tenda”.
+====
+
+[[v2-24-17]]
+
+^<<v2-24-17,17>>^ E, aos olhos dos filhos de Israel, o aspecto da glória de Jeová era como um fogo devorador no cume do monte.
+
+[[v2-24-18]]
+
+^<<v2-24-18,18>>^ Moisés penetrou então no meio da nuvem e foi subir ao monte. E Moisés continuou no monte quarenta dias e quarenta noites.
+
+'''
+
+xref:002-exodo/002-exodo-023.adoc#v2-23-0[&#60; Capítulo Anterior] | <<v2-24-0,Topo>> | xref:002-exodo/002-exodo-025.adoc#v2-25-0[Próximo Capítulo &#62;]

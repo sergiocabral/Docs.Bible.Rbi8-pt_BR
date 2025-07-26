@@ -1,0 +1,194 @@
+include::./index.adoc[]
+
+[[v18-12-0]]
+=== Jó, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-12-1]]
+
+^<<v18-12-1,1>>^ E Jó passou a responder e a dizer:
+
+[[v18-12-2]]
+
+^<<v18-12-2,2>>^ “De fato, vós sois o povo,
+E a sabedoria morrerá convosco!
+
+[[v18-12-3]]
+
+^<<v18-12-3,3>>^ Também eu tenho um coração igual a vós.
+Não sou inferior a vós,^&#42;1^
+E com quem não há coisas como estas?
+
+[NOTE]
+====
+. Lit.: “Não caio atrás de vós.”
+====
+
+[[v18-12-4]]
+
+^<<v18-12-4,4>>^ Torno-me^&#42;1^ [alguém que é] alvo de riso para o seu próximo,
+Invocando a Deus^&#42;2^ para que lhe responda.
+O justo, o inculpável, é alvo de riso.
+
+[NOTE]
+====
+. “Torno-me”, MVg; LXXSy: “Torna-se”.
+. “A Deus.” Hebr.: le·’Elóh·ah.
+====
+
+[[v18-12-5]]
+
+^<<v18-12-5,5>>^ Em pensamento, o despreocupado tem desprezo pela extinção;
+Ela é preparada para os que têm pés vacilantes.
+
+[[v18-12-6]]
+
+^<<v18-12-6,6>>^ As tendas dos assoladores estão despreocupadas,
+E os que enfurecem a Deus^&#42;1^ têm a segurança
+Pertencente àquele que trouxe um deus^&#42;2^ na sua mão.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+. “Um deus.” Hebr.: ’elóh·ah.
+====
+
+[[v18-12-7]]
+
+^<<v18-12-7,7>>^ No entanto, pergunta, por favor, aos animais domésticos, e eles te instruirão;
+Também às criaturas aladas dos céus, e elas te informarão.
+
+[[v18-12-8]]
+
+^<<v18-12-8,8>>^ Ou mostra à terra a tua preocupação,^&#42;1^ e ela te instruirá;
+E os peixes do mar to declararão.
+
+[NOTE]
+====
+. Ou: “Ou fala refletidamente à terra.” Mediante uma correção: “Ou aos répteis [ou: às feras] da terra.”
+====
+
+[[v18-12-9]]
+
+^<<v18-12-9,9>>^ Qual entre todos estes não sabe muito bem
+Que a própria mão de Jeová^&#42;1^ fez isso,
+
+[NOTE]
+====
+. “Jeová”, MLXXSyVg; T(aram.): Yai.
+====
+
+[[v18-12-10]]
+
+^<<v18-12-10,10>>^ Tendo ele na mão a alma de todo o vivente
+E o espírito^&#42;1^ de toda a carne de homem?^&#42;2^
+
+[NOTE]
+====
+. “E o espírito (fôlego) de.” Hebr.: werú·ahh; gr.: pneú·ma; sir.: weru·hha’; lat.: spí·ri·tus.
+. “Homem.” Hebr.: ’ish.
+====
+
+[[v18-12-11]]
+
+^<<v18-12-11,11>>^ Não faz o próprio ouvido a prova das palavras
+Assim como o paladar saboreia a comida?
+
+[[v18-12-12]]
+
+^<<v18-12-12,12>>^ Não há sabedoria entre os idosos
+E entendimento [na] extensão dos dias?^&#42;1^
+
+[NOTE]
+====
+. Ou: “E não significa entendimento a extensão de dias?”
+====
+
+[[v18-12-13]]
+
+^<<v18-12-13,13>>^ Com ele há sabedoria e potência;
+Ele tem conselho e entendimento.
+
+[[v18-12-14]]
+
+^<<v18-12-14,14>>^ Eis que ele derruba para que não se construa;
+Fecha-o ao homem para que não se abra.
+
+[[v18-12-15]]
+
+^<<v18-12-15,15>>^ Eis que ele retém as águas e elas se secam;
+E envia-as, e elas transformam a terra.
+
+[[v18-12-16]]
+
+^<<v18-12-16,16>>^ Com ele há força e sabedoria prática;
+A ele pertence quem comete engano e quem transvia;
+
+[[v18-12-17]]
+
+^<<v18-12-17,17>>^ Faz os conselheiros ir descalços,^&#42;1^
+E faz os próprios juízes endoidecer.
+
+[NOTE]
+====
+. “Aquele que leva cativos os conselheiros”, LXX; Vg: “ele leva os conselheiros a um fim tolo”.
+====
+
+[[v18-12-18]]
+
+^<<v18-12-18,18>>^ Solta realmente as ligaduras^&#42;1^ de reis,
+E prende um cinto sobre os seus quadris.
+
+[NOTE]
+====
+. Mediante a mudança dos sinais vocálicos. Lit.: “disciplina”.
+====
+
+[[v18-12-19]]
+
+^<<v18-12-19,19>>^ Faz os sacerdotes andar descalços,
+E transtorna os assentados permanentemente;^&#42;1^
+
+[NOTE]
+====
+. Ou “e faz rios perenes secar-se”.
+====
+
+[[v18-12-20]]
+
+^<<v18-12-20,20>>^ Remove dos fiéis a fala,^&#42;1^
+E tira de homens idosos a sensatez;
+
+[NOTE]
+====
+. Lit.: “lábio”.
+====
+
+[[v18-12-21]]
+
+^<<v18-12-21,21>>^ Derrama desprezo sobre os nobres,
+E realmente enfraquece a cinta dos potentes;
+
+[[v18-12-22]]
+
+^<<v18-12-22,22>>^ Da escuridão desvenda coisas profundas,
+E traz à luz a sombra tenebrosa;
+
+[[v18-12-23]]
+
+^<<v18-12-23,23>>^ Fazendo as nações tornar-se grandes, para as destruir;
+Estendendo as nações, para levá-las embora;
+
+[[v18-12-24]]
+
+^<<v18-12-24,24>>^ Retirando o coração dos cabeças do povo da terra,
+Para fazê-los vagar num lugar deserto onde não há caminho.
+
+[[v18-12-25]]
+
+^<<v18-12-25,25>>^ Andam às apalpadelas na escuridão onde não há luz,
+Para que ele os faça vagar como um bêbedo.
+
+'''
+
+xref:018-jo/018-jo-011.adoc#v18-11-0[&#60; Capítulo Anterior] | <<v18-12-0,Topo>> | xref:018-jo/018-jo-013.adoc#v18-13-0[Próximo Capítulo &#62;]

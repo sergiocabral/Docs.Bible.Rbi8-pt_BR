@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v23-58-0]]
+=== Isaías, 58
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-58-1]]
+
+^<<v23-58-1,1>>^ “Clama à plena garganta; não te refreies. Eleva a tua voz qual buzina^&#42;1^ e informa meu povo sobre a sua revolta e a casa de Jacó sobre os seus pecados.
+
+[NOTE]
+====
+. Ou “shofar”.
+====
+
+[[v23-58-2]]
+
+^<<v23-58-2,2>>^ No entanto, dia após dia fui eu a quem buscavam, e era no conhecimento dos meus caminhos que expressavam seu agrado, qual nação que praticava a própria justiça e que não abandonava o próprio juízo de seu Deus, visto que me pediam julgamentos justos, chegando-se ao Deus^&#42;1^ em quem se agradavam:
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v23-58-3]]
+
+^<<v23-58-3,3>>^ “‘Por que razão jejuamos e tu não [o] viste, e atribulamos a nossa alma e tu não [o] notavas?’
+“Deveras, vós vos agradastes do próprio dia de vosso jejum, quando havia todos os vossos labutadores que vós impelíeis a trabalhar.
+
+[[v23-58-4]]
+
+^<<v23-58-4,4>>^ Deveras, jejuáveis para altercação e para rixa, e para socar com o punho da iniqüidade. Não continuastes a jejuar como no dia para se fazer ouvir a vossa voz na altura?
+
+[[v23-58-5]]
+
+^<<v23-58-5,5>>^ Acaso deve o jejum que eu escolho tornar-se assim, como um dia em que o homem terreno atribula a sua alma? Para encurvar a sua cabeça como o junco e para que estenda apenas serapilheira e cinzas como o seu leito? É isto o que chamais de jejum e de dia aceitável para Jeová?
+
+[[v23-58-6]]
+
+^<<v23-58-6,6>>^ “Não é este o jejum que escolhi? Soltar os grilhões da iniqüidade, desatar as brochas da canga e deixar ir livres os esmagados, e que rompais toda canga?
+
+[[v23-58-7]]
+
+^<<v23-58-7,7>>^ Não é partilhares o teu pão ao faminto e introduzires na [tua] casa pessoas atribuladas, sem lar? Que, caso vejas alguém nu, tu o tenhas de cobrir, e que não te ocultes da tua própria carne?
+
+[[v23-58-8]]
+
+^<<v23-58-8,8>>^ “Neste caso romperia a tua luz como a alva; e rapidamente surgiria para ti o restabelecimento. E certamente andaria diante de ti a tua justiça; a própria glória de Jeová seria a tua retaguarda.
+
+[[v23-58-9]]
+
+^<<v23-58-9,9>>^ Neste caso chamarias e o próprio Jeová te responderia; clamarias por ajuda e ele diria: ‘Eis-me aqui!’
+“Se removeres do teu meio a canga, o apontar com o dedo e falar o que é prejudicial,
+
+[[v23-58-10]]
+
+^<<v23-58-10,10>>^ e concederes ao faminto o teu próprio [desejo da] alma e fartares a alma atribulada, então certamente raiará a tua luz mesmo na escuridão e as tuas trevas serão como o meio-dia.
+
+[[v23-58-11]]
+
+^<<v23-58-11,11>>^ E Jeová forçosamente te guiará constantemente e fartará a tua alma mesmo numa terra abrasada e revigorará os próprios ossos teus; e terás de tornar-te igual a um jardim bem regado e como nascente de água, cujas águas não mentem.
+
+[[v23-58-12]]
+
+^<<v23-58-12,12>>^ E às tuas instâncias, homens certamente^&#42;1^ edificarão os lugares há muito devastados;^&#42;2^ erigirás até mesmo os alicerces de gerações contínuas. E serás realmente chamado consertador da brecha, restaurador de sendas junto às quais [se pode] morar.^&#42;3^
+
+[NOTE]
+====
+. “E teus filhos certamente”, mediante uma correção.
+. Ou “devastados por tempo indefinido”.
+. Ou “sendas para a morada [de alguém]”, isto é, para casa.
+====
+
+[[v23-58-13]]
+
+^<<v23-58-13,13>>^ “Se em vista do sábado fizeres teu pé retornar de fazer os teus próprios agrados no meu dia santo e realmente chamares o sábado de deleite, [dia] santo de Jeová, um que se glorifica, e tu realmente o glorificares em vez de seguires os teus próprios caminhos, em vez de achares o que te agrada e falares uma palavra,
+
+[[v23-58-14]]
+
+^<<v23-58-14,14>>^ neste caso te deleitarás em Jeová e eu vou fazer-te cavalgar sobre os altos da terra; e eu vou fazer-te comer da propriedade hereditária de Jacó, teu antepassado, porque a própria boca de Jeová falou [isso].”
+
+'''
+
+xref:023-isaias/023-isaias-057.adoc#v23-57-0[&#60; Capítulo Anterior] | <<v23-58-0,Topo>> | xref:023-isaias/023-isaias-059.adoc#v23-59-0[Próximo Capítulo &#62;]

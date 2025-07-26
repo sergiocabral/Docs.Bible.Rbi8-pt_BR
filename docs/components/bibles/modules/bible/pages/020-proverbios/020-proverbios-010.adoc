@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v20-10-0]]
+=== Provérbios, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-10-1]]
+
+^<<v20-10-1,1>>^ Provérbios de Salomão.
+Filho sábio é aquele que alegra o pai, e o filho estúpido é o pesar de sua mãe.
+
+[[v20-10-2]]
+
+^<<v20-10-2,2>>^ Os tesouros do iníquo de nada aproveitarão, mas é a justiça que livrará da morte.
+
+[[v20-10-3]]
+
+^<<v20-10-3,3>>^ Jeová não fará que a alma do justo passe fome, mas repelirá a avidez dos iníquos.
+
+[[v20-10-4]]
+
+^<<v20-10-4,4>>^ Quem trabalha com mão indolente será de poucos meios, mas a mão do diligente é a que enriquecerá a pessoa.
+
+[[v20-10-5]]
+
+^<<v20-10-5,5>>^ O filho que age com perspicácia recolhe durante o verão; o filho que age vergonhosamente está profundamente adormecido durante a colheita.
+
+[[v20-10-6]]
+
+^<<v20-10-6,6>>^ As bênçãos são para a cabeça do justo, mas quanto à boca dos iníquos, ela encobre a violência.^&#42;1^
+
+[NOTE]
+====
+. Ou “violência cobrirá a própria boca dos iníquos”. Veja v. 11.
+====
+
+[[v20-10-7]]
+
+^<<v20-10-7,7>>^ A recordação do justo está para ser abençoada, mas o próprio nome dos iníquos apodrecerá.
+
+[[v20-10-8]]
+
+^<<v20-10-8,8>>^ O sábio no coração aceitará mandamentos, mas o que é tolo com os seus lábios será pisoteado.
+
+[[v20-10-9]]
+
+^<<v20-10-9,9>>^ Quem anda em integridade andará em segurança, mas aquele que perverte os seus caminhos dar-se-á a conhecer.
+
+[[v20-10-10]]
+
+^<<v20-10-10,10>>^ Aquele que pisca o olho causará dor, e aquele que é tolo com os seus lábios será pisoteado.
+
+[[v20-10-11]]
+
+^<<v20-10-11,11>>^ A boca do justo é fonte^&#42;1^ de vida; mas, quanto à boca dos iníquos, ela encobre a violência.
+
+[NOTE]
+====
+. Ou “manancial”. Hebr.: meqóhr.
+====
+
+[[v20-10-12]]
+
+^<<v20-10-12,12>>^ O ódio é o que incita contendas, mas o amor encobre mesmo todas as transgressões.
+
+[[v20-10-13]]
+
+^<<v20-10-13,13>>^ Sobre os lábios do entendido acha-se sabedoria, mas a vara é para as costas do falto de coração.^&#42;1^
+
+[NOTE]
+====
+. Ou “quem for falto de boa motivação”. Hebr.: hhasar-lév.
+====
+
+[[v20-10-14]]
+
+^<<v20-10-14,14>>^ Os sábios são os que entesouram conhecimento, mas a boca do tolo está perto da própria ruína.
+
+[[v20-10-15]]
+
+^<<v20-10-15,15>>^ As coisas valiosas dum rico são a sua vila fortificada. A ruína dos de condição humilde é a sua pobreza.
+
+[[v20-10-16]]
+
+^<<v20-10-16,16>>^ A atividade do justo resulta em vida; o produto do iníquo resulta em pecado.
+
+[[v20-10-17]]
+
+^<<v20-10-17,17>>^ Quem se atém à disciplina é uma vereda para a vida,^&#42;1^ mas aquele que abandona a repreensão faz que se vagueie.
+
+[NOTE]
+====
+. “Está na vereda para a vida”, pela alteração dos sinais vocálicos do M.
+====
+
+[[v20-10-18]]
+
+^<<v20-10-18,18>>^ Onde há quem encobre o ódio há lábios de falsidade, e quem divulga um relato mau é estúpido.
+
+[[v20-10-19]]
+
+^<<v20-10-19,19>>^ Na abundância de palavras não falta transgressão, mas quem refreia seus lábios age com discrição.
+
+[[v20-10-20]]
+
+^<<v20-10-20,20>>^ A língua do justo é prata escolhida; o coração do iníquo pouco vale.
+
+[[v20-10-21]]
+
+^<<v20-10-21,21>>^ Os próprios lábios do justo estão apascentando^&#42;1^ a muitos, mas os próprios tolos estão morrendo por serem faltos de coração.^&#42;2^
+
+[NOTE]
+====
+. “Estão apascentando (pastoreando).” Hebr.: yir·‛ú.
+. Ou “por serem faltos de boa motivação”. Hebr.: ba·hhasar-lév.
+====
+
+[[v20-10-22]]
+
+^<<v20-10-22,22>>^ A bênção de Jeová — esta é o que enriquece, e ele não lhe acrescenta dor alguma.^&#42;1^
+
+[NOTE]
+====
+. Ou “e [um esforço] dol[oroso] não lhe acrescenta nada”.
+====
+
+[[v20-10-23]]
+
+^<<v20-10-23,23>>^ Para o estúpido, empenhar-se em conduta desenfreada^&#42;1^ é como um divertimento, mas a sabedoria é para o homem^&#42;2^ de discernimento.
+
+[NOTE]
+====
+. “Conduta desenfreada.” Hebr.: zim·máh. Veja Gál 5:19 n.: “desenfreada”.
+. “Para o homem de.” Hebr.: le·’ísh.
+====
+
+[[v20-10-24]]
+
+^<<v20-10-24,24>>^ O que amedronta ao iníquo — isto é o que chegará a ele; mas o desejo dos justos será concedido.
+
+[[v20-10-25]]
+
+^<<v20-10-25,25>>^ Como quando passou o tufão, assim não existe mais o iníquo; mas o justo é um alicerce por tempo indefinido.
+
+[[v20-10-26]]
+
+^<<v20-10-26,26>>^ Como o vinagre para os dentes e como a fumaça para os olhos, assim é o preguiçoso para os que o enviam.
+
+[[v20-10-27]]
+
+^<<v20-10-27,27>>^ O próprio temor de Jeová acrescentará dias, mas os próprios anos dos iníquos serão encurtados.
+
+[[v20-10-28]]
+
+^<<v20-10-28,28>>^ A expectativa dos justos é alegria, mas a própria esperança dos iníquos perecerá.
+
+[[v20-10-29]]
+
+^<<v20-10-29,29>>^ O caminho de Jeová é um baluarte para o inculpe, mas a ruína é para os que praticam o que é prejudicial.
+
+[[v20-10-30]]
+
+^<<v20-10-30,30>>^ Quanto ao justo, por tempo indefinido não será abalado; mas, quanto aos iníquos, não continuarão a residir na terra.
+
+[[v20-10-31]]
+
+^<<v20-10-31,31>>^ A boca do justo — ela produz fruto de sabedoria, mas a língua de perversidade será decepada.
+
+[[v20-10-32]]
+
+^<<v20-10-32,32>>^ Os lábios do justo — eles chegam a conhecer a boa vontade, mas a boca dos iníquos é perversidade.
+
+'''
+
+xref:020-proverbios/020-proverbios-009.adoc#v20-9-0[&#60; Capítulo Anterior] | <<v20-10-0,Topo>> | xref:020-proverbios/020-proverbios-011.adoc#v20-11-0[Próximo Capítulo &#62;]

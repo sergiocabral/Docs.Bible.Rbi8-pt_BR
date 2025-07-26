@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v33-2-0]]
+=== Miqueias, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v33-2-1]]
+
+^<<v33-2-1,1>>^ “Ai dos que maquinam o que é prejudicial e dos que praticam o que é mau, sobre as suas camas! Passam a fazê-lo à luz da manhã, porque está no poder da sua mão.
+
+[[v33-2-2]]
+
+^<<v33-2-2,2>>^ E desejaram campos e [os] arrebataram; também casas, e [as] tomaram; e defraudaram o varão vigoroso^&#42;1^ e os da sua casa, o homem^&#42;2^ e sua propriedade hereditária.
+
+[NOTE]
+====
+. “O varão vigoroso.” Hebr.: gé·ver.
+. Lit.: “e . . . um homem”. Hebr.: we’ísh.
+====
+
+[[v33-2-3]]
+
+^<<v33-2-3,3>>^ “Portanto, assim disse Jeová: ‘Eis que cogito contra esta família uma calamidade da qual não removereis os vossos pescoços, de modo que não andareis altaneiramente; porque é um tempo de calamidade.
+
+[[v33-2-4]]
+
+^<<v33-2-4,4>>^ Naquele tempo se encetará a vosso respeito uma expressão proverbial e se fará certamente uma lamentação, sim, uma lamentação. Terá de dizer-se: “Positivamente, nós fomos assolados! Ele modifica até o quinhão de meu povo. Como [o] afasta de mim! Reparte os nossos próprios campos ao infiel.”
+
+[[v33-2-5]]
+
+^<<v33-2-5,5>>^ Por isso não terás ninguém que lance a corda, por sortes, na congregação^&#42;1^ de Jeová.
+
+[NOTE]
+====
+. “Na congregação de.” Hebr.: biq·hál; gr.: ek·kle·sí·ai. Veja De 4:10 n.
+====
+
+[[v33-2-6]]
+
+^<<v33-2-6,6>>^ Não solteis [palavras]. Soltam [palavras]. Não soltarão [palavras] a respeito destas [coisas]. As humilhações não se afastarão.
+
+[[v33-2-7]]
+
+^<<v33-2-7,7>>^ “‘Diz-se, ó casa de Jacó: “Ficou descontente o espírito de Jeová^&#42;1^ ou são estas as suas ações?” Não fazem bem as minhas próprias palavras no caso daquele que anda em retidão?
+
+[NOTE]
+====
+. Ou “a força ativa de Jeová”. Hebr.: rú·ahh Yehwáh. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v33-2-8]]
+
+^<<v33-2-8,8>>^ “‘E ontem o meu próprio povo passou a levantar-se como inimigo direto. Arrancais da frente do manto o adorno majestoso, daqueles que passam confiantemente [como] os que retornam da guerra.
+
+[[v33-2-9]]
+
+^<<v33-2-9,9>>^ As mulheres do meu povo expulsais da casa que é a delícia da mulher.^&#42;1^ Tirais dos filhos dela o meu esplendor, por tempo indefinido.
+
+[NOTE]
+====
+. Lit.: “dela”.
+====
+
+[[v33-2-10]]
+
+^<<v33-2-10,10>>^ Levantai-vos e ide, porque este não é um lugar de descanso. Visto que ela se tornou impura, haverá demolição; e [o] trabalho de demolição é penoso.
+
+[[v33-2-11]]
+
+^<<v33-2-11,11>>^ Se um homem,^&#42;1^ andando pelo vento^&#42;2^ e pela falsidade, tiver mentido: “Soltarei para ti [palavras] a respeito de vinho e de bebida inebriante”, então ele certamente se tornará para este povo aquele que solta [palavras].
+
+[NOTE]
+====
+. Hebr.: ’ish.
+. “Vento.” Hebr.: rú·ahh. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v33-2-12]]
+
+^<<v33-2-12,12>>^ “‘Positivamente ajuntarei Jacó, na tua inteireza; sem falta reunirei os remanescentes^&#42;1^ de Israel. Pô-los-ei em união, como o rebanho no redil,^&#42;2^ como a grei no meio do seu prado; serão barulhentos com homens.’^&#42;3^
+
+[NOTE]
+====
+. Ou “o restante”.
+. “No redil”, mediante uma mudança dos sinais vocálicos, em harmonia com TVg; M: “Bozra”.
+. “Com homens.” Hebr.: me·’a·dhám.
+====
+
+[[v33-2-13]]
+
+^<<v33-2-13,13>>^ “Aquele que faz o irrompimento certamente subirá diante deles: realmente irromperão. E passarão pelo portão e sairão por ele. E seu rei passará na sua frente, com Jeová à cabeça deles.”
+
+'''
+
+xref:033-miqueias/033-miqueias-001.adoc#v33-1-0[&#60; Capítulo Anterior] | <<v33-2-0,Topo>> | xref:033-miqueias/033-miqueias-003.adoc#v33-3-0[Próximo Capítulo &#62;]

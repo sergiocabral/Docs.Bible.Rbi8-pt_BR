@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v21-6-0]]
+=== Eclesiastes, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v21-6-1]]
+
+^<<v21-6-1,1>>^ Há uma calamidade que tenho visto debaixo do sol, e ela é freqüente entre a humanidade:
+
+[[v21-6-2]]
+
+^<<v21-6-2,2>>^ um homem^&#42;1^ a quem o [verdadeiro] Deus dá riquezas, e bens materiais, e glória, e que, para a sua alma, não carece de nada de que se mostre almejante, contudo, o [verdadeiro] Deus não o habilita a comê-lo, embora o mero estrangeiro o possa comer. Isto é vaidade e é uma séria doença.
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’ish.
+====
+
+[[v21-6-3]]
+
+^<<v21-6-3,3>>^ Se um homem se tornasse pai cem vezes e vivesse muitos anos, ainda que se tornassem numerosos os dias dos seus anos, contudo, a sua própria alma não se fartasse de coisas boas e mesmo o sepulcro não se tornasse seu, tenho de dizer que o nascido prematuramente é melhor do que ele.
+
+[[v21-6-4]]
+
+^<<v21-6-4,4>>^ Pois este veio em vão e se vai em escuridão, e seu próprio nome será coberto com escuridão.
+
+[[v21-6-5]]
+
+^<<v21-6-5,5>>^ Não viu nem o próprio sol, nem [o] conheceu. Este é que tem descanso em vez de o outro.
+
+[[v21-6-6]]
+
+^<<v21-6-6,6>>^ Mesmo supondo-se que ele vivesse mil anos duas vezes e ainda assim não visse o que é bom, não é apenas para um só lugar que todos vão?
+
+[[v21-6-7]]
+
+^<<v21-6-7,7>>^ Todo o trabalho árduo da humanidade^&#42;1^ é para a sua boca, porém, nem mesmo a sua própria alma se enche.
+
+[NOTE]
+====
+. Lit.: “do homem terreno”. Hebr.: ha·’a·dhám.
+====
+
+[[v21-6-8]]
+
+^<<v21-6-8,8>>^ Pois, que vantagem tem o sábio sobre o estúpido? Que tem o atribulado por saber como andar diante dos viventes?
+
+[[v21-6-9]]
+
+^<<v21-6-9,9>>^ Melhor é a vista dos olhos do que as perambulações da alma.^&#42;1^ Também isto é vaidade e um esforço para alcançar o vento.
+
+[NOTE]
+====
+. Ou “desejo de alma; almejo”.
+====
+
+[[v21-6-10]]
+
+^<<v21-6-10,10>>^ O que veio a ser, seu nome já foi pronunciado, e tornou-se conhecido o que o homem^&#42;1^ é; e ele não pode pleitear a sua causa com alguém mais poderoso do que ele.
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v21-6-11]]
+
+^<<v21-6-11,11>>^ Visto que há muitas coisas que causam muita vaidade, que vantagem tem o homem?
+
+[[v21-6-12]]
+
+^<<v21-6-12,12>>^ Pois, quem é que conhece o bem que o homem tem na vida durante o número dos dias da sua vida vã, sendo que os gasta como a sombra? Pois, quem pode informar o homem sobre o que acontecerá após ele debaixo do sol?
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-005.adoc#v21-5-0[&#60; Capítulo Anterior] | <<v21-6-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-007.adoc#v21-7-0[Próximo Capítulo &#62;]

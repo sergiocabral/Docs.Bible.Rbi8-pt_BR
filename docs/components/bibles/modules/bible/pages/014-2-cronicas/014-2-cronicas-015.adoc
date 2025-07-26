@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v14-15-0]]
+=== 2 Crônicas, 15
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v14-15-1]]
+
+^<<v14-15-1,1>>^ Ora, quanto a Azarias,^&#42;1^ filho de Odede, veio a haver sobre ele o espírito de Deus.
+
+[NOTE]
+====
+. “Ora, quanto a Azarias.” Hebr.: wa·‛Azar·yá·hu, significando “Jeová Ajudou”.
+====
+
+[[v14-15-2]]
+
+^<<v14-15-2,2>>^ Por conseguinte, saiu diante de Asa e disse-lhe: “Ouvi-me, ó Asa, e todo o Judá e Benjamim! Jeová está convosco enquanto mostrardes estar com ele; e se o buscardes, deixar-se-á achar por vós, mas se o abandonardes, ele vos abandonará.
+
+[[v14-15-3]]
+
+^<<v14-15-3,3>>^ E foram muitos os dias que Israel estava sem Deus verdadeiro^&#42;1^ e sem sacerdote para ensinar, e sem Lei.
+
+[NOTE]
+====
+. Ou “Deus de verdade (fidelidade)”. Hebr.: ’Elo·héh ’eméth.
+====
+
+[[v14-15-4]]
+
+^<<v14-15-4,4>>^ Mas, quando na sua aflição retornaram a Jeová, o Deus de Israel, e o procuraram, então se deixou achar por eles.
+
+[[v14-15-5]]
+
+^<<v14-15-5,5>>^ E naqueles tempos não havia paz para quem saísse ou para quem entrasse, porque havia muitas desordens entre todos os habitantes das terras.
+
+[[v14-15-6]]
+
+^<<v14-15-6,6>>^ E foram esmiuçados, nação contra nação e cidade contra cidade, porque o próprio Deus os manteve em confusão com toda sorte de aflição.
+
+[[v14-15-7]]
+
+^<<v14-15-7,7>>^ E vós, sede corajosos e não deixeis que as vossas mãos se abaixem, porque há uma recompensa pela vossa atividade.”
+
+[[v14-15-8]]
+
+^<<v14-15-8,8>>^ E assim que Asa ouviu estas palavras e a profecia de Odede, o profeta, tomou coragem e passou a fazer sumir as coisas repugnantes de toda a terra de Judá e de Benjamim, e das cidades que tinha capturado da região montanhosa de Efraim, e a renovar o altar de Jeová que estava diante do pórtico de Jeová.
+
+[[v14-15-9]]
+
+^<<v14-15-9,9>>^ E começou a reunir todo o Judá e Benjamim, e os residentes forasteiros^&#42;1^ com eles, de Efraim, e de Manassés, e de Simeão, pois tinham desertado a ele de Israel em grande número ao verem que Jeová, seu Deus, estava com ele.
+
+[NOTE]
+====
+. Ou “e os residentes temporários”. Hebr.: wehag·ga·rím; gr.: pro·se·lý·tous, “prosélitos”.
+====
+
+[[v14-15-10]]
+
+^<<v14-15-10,10>>^ Foram assim reunidos em Jerusalém no terceiro mês do décimo quinto ano do reinado de Asa.
+
+[[v14-15-11]]
+
+^<<v14-15-11,11>>^ Então, naquele dia, ofereceram sacrifícios a Jeová do despojo que trouxeram, setecentas cabeças de gado vacum e sete mil ovelhas.
+
+[[v14-15-12]]
+
+^<<v14-15-12,12>>^ Além disso, entraram num pacto para buscar a Jeová, o Deus de seus antepassados, de todo o seu coração e de toda a sua alma;
+
+[[v14-15-13]]
+
+^<<v14-15-13,13>>^ que fosse morto todo aquele que não buscasse a Jeová, o Deus de Israel, quer pequeno quer grande, quer homem quer mulher.
+
+[[v14-15-14]]
+
+^<<v14-15-14,14>>^ Assim juraram a Jeová com alta voz, e com gritos de alegria, e com trombetas, e com buzinas.^&#42;1^
+
+[NOTE]
+====
+. “E com buzinas (shofares).” Hebr.: u·veshoh·fa·róhth, chifres curvos de animais.
+====
+
+[[v14-15-15]]
+
+^<<v14-15-15,15>>^ E todo o Judá se alegrava por causa do que se jurou; porque tinham jurado de todo o seu coração e o tinham procurado com pleno bel-prazer da sua parte, de modo que se deixou achar por eles; e Jeová continuou a dar-lhes descanso em todo o redor.
+
+[[v14-15-16]]
+
+^<<v14-15-16,16>>^ Até mesmo quanto a Maacá, [sua] avó,^&#42;1^ o próprio Asa, o rei, removeu-a de [ser] senhora, porque ela tinha feito um ídolo horrível para o poste sagrado; e então Asa decepou o ídolo horrível dela e pulverizou-o, e queimou-o no vale da torrente do Cédron.
+
+[NOTE]
+====
+. Lit.: “mãe”. Ela era rainha-mãe.
+====
+
+[[v14-15-17]]
+
+^<<v14-15-17,17>>^ E os próprios altos não desapareceram de Israel. Somente o próprio coração de Asa mostrou ser pleno em todos os seus dias.
+
+[[v14-15-18]]
+
+^<<v14-15-18,18>>^ E ele passou a levar as coisas tornadas sagradas por seu pai e as coisas tornadas sagradas por ele mesmo para dentro da casa do [verdadeiro] Deus, prata e ouro, e utensílios.
+
+[[v14-15-19]]
+
+^<<v14-15-19,19>>^ Quanto a uma guerra, não ocorreu até o trigésimo quinto ano do reinado de Asa.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-014.adoc#v14-14-0[&#60; Capítulo Anterior] | <<v14-15-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-016.adoc#v14-16-0[Próximo Capítulo &#62;]

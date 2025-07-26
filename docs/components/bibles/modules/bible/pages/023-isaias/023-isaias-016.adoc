@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v23-16-0]]
+=== Isaías, 16
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-16-1]]
+
+^<<v23-16-1,1>>^ Enviai um carneiro ao governante do país, de Sela na direção do ermo, ao monte da filha de Sião.
+
+[[v23-16-2]]
+
+^<<v23-16-2,2>>^ E terá de acontecer [que], iguais à criatura voadora que foge, espantada do [seu] ninho, tornar-se-ão as filhas de Moabe, junto aos vaus do Árnon.
+
+[[v23-16-3]]
+
+^<<v23-16-3,3>>^ “Introduzi^&#42;1^ conselho, executai a decisão.
+“Faze^&#42;2^ a tua sombra em pleno meio-dia igual à noite. Esconde os dispersos; não traias a ninguém que foge.
+
+[NOTE]
+====
+. “Introduzi”, hebr. masc. pl. em 1QIsaM, mas em Mmargem e em 11 mss. hebr. é fem. sing.
+. “Faze”, hebr. fem. sing.
+====
+
+[[v23-16-4]]
+
+^<<v23-16-4,4>>^ Residam os meus dispersos como forasteiros mesmo em ti, ó Moabe. Torna-te para eles um esconderijo por causa do assolador. Porque o opressor^&#42;1^ chegou ao seu fim; a assolação acabou; deu-se cabo na terra dos que pisam [os outros].
+
+[NOTE]
+====
+. “O opressor”, mediante uma ligeira correção; M: “o espremedor”.
+====
+
+[[v23-16-5]]
+
+^<<v23-16-5,5>>^ “E certamente se estabelecerá firmemente um trono em benevolência;^&#42;1^ e um terá de assentar-se nele em veracidade^&#42;2^ na tenda de Davi, julgando e buscando o juízo, e diligente na justiça.”
+
+[NOTE]
+====
+. Ou “em amor leal”. Hebr.: ba·hhé·sedh.
+. Ou “em verdade”. Hebr.: be·’eméth.
+====
+
+[[v23-16-6]]
+
+^<<v23-16-6,6>>^ Ouvimos [falar] do orgulho de Moabe, que ele é muito orgulhoso; sua altivez, e seu orgulho, e sua fúria — seu palavreado oco não será assim.
+
+[[v23-16-7]]
+
+^<<v23-16-7,7>>^ Por isso, Moabe uivará por Moabe; sim, todo ele uivará. Pois, os golpeados deveras carpirão os bolos de passas de Quir-Haresete,
+
+[[v23-16-8]]
+
+^<<v23-16-8,8>>^ porque murcharam os próprios socalcos de Hésbon. A videira de Sibma — os próprios donos^&#42;1^ das nações abateram seus [sarmentos]^&#42;2^ encarnados. Estenderam-se até Jázer; andaram vagueando pelo ermo. Seus próprios rebentos tinham sido deixados para vegetar sozinhos; tinham passado para o mar.
+
+[NOTE]
+====
+. Ou “grandioso dono”. Hebr.: ba·‛aléh, uma forma pl. de bá·‛al, possivelmente para expressar grandiosidade.
+. Ou “[uvas]”.
+====
+
+[[v23-16-9]]
+
+^<<v23-16-9,9>>^ Por isso é que chorarei com o choro de Jázer pela vide de Sibma. Com as minhas lágrimas te encharcarei, ó Hésbon, e Eleale, porque decaiu até mesmo a exclamação por teu verão e por tua colheita.^&#42;1^
+
+[NOTE]
+====
+. Ou “porque sobre as tuas frutas de verão e sobre a tua colheita caiu o grito [de batalha]”.
+====
+
+[[v23-16-10]]
+
+^<<v23-16-10,10>>^ E tiraram-se do pomar a alegria e o júbilo; e nos vinhedos não há gritos de júbilo, não se brada. O pisador não pisa nenhum vinho no lagar. Eu fiz cessar a exclamação.
+
+[[v23-16-11]]
+
+^<<v23-16-11,11>>^ Por isso é que as minhas próprias entranhas estão turbulentas qual harpa mesmo por Moabe, e o meu íntimo, por Quir-Haresete.^&#42;1^
+
+[NOTE]
+====
+. “Por Quir-Haresete”, mediante uma emenda; M(hebr.): leQír hhá·res.
+====
+
+[[v23-16-12]]
+
+^<<v23-16-12,12>>^ E aconteceu que se viu que Moabe foi afadigado sobre o alto; e ele chegou ao seu santuário para orar, e não pôde conseguir nada.
+
+[[v23-16-13]]
+
+^<<v23-16-13,13>>^ Esta é a palavra que Jeová falou anteriormente a respeito de Moabe.
+
+[[v23-16-14]]
+
+^<<v23-16-14,14>>^ E agora Jeová falou, dizendo: “Dentro de três anos, segundo os anos de um trabalhador contratado, a glória de Moabe também terá de ser degradada com muita comoção de toda sorte, e os que restarem serão extremamente poucos, nada fortes.”
+
+'''
+
+xref:023-isaias/023-isaias-015.adoc#v23-15-0[&#60; Capítulo Anterior] | <<v23-16-0,Topo>> | xref:023-isaias/023-isaias-017.adoc#v23-17-0[Próximo Capítulo &#62;]

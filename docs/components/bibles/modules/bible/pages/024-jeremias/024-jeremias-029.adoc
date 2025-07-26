@@ -1,0 +1,162 @@
+include::./index.adoc[]
+
+[[v24-29-0]]
+=== Jeremias, 29
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-29-1]]
+
+^<<v24-29-1,1>>^ E estas são as palavras da carta que Jeremias, o profeta, enviou de Jerusalém ao resto dos anciãos do povo exilado, e aos sacerdotes, e aos profetas, e a todo o povo que Nabucodonosor levara ao exílio, de Jerusalém a Babilônia,
+
+[[v24-29-2]]
+
+^<<v24-29-2,2>>^ depois de Jeconias, o rei, e a senhora, e os oficiais da corte, os príncipes de Judá e de Jerusalém, e os artífices e os construtores de baluartes terem saído de Jerusalém.
+
+[[v24-29-3]]
+
+^<<v24-29-3,3>>^ Foi pela mão de Elasá, filho de Safã, e Gemarias, filho de Hilquias, que Zedequias, rei de Judá, enviou a Babilônia, a Nabucodonosor, rei de Babilônia, dizendo:
+
+[[v24-29-4]]
+
+^<<v24-29-4,4>>^ “Assim disse Jeová dos exércitos, o Deus de Israel, a todo o povo exilado que fiz ir ao exílio, de Jerusalém a Babilônia:
+
+[[v24-29-5]]
+
+^<<v24-29-5,5>>^ ‘Construí casas e habitai [nelas], e plantai jardins e comei dos seus frutos.
+
+[[v24-29-6]]
+
+^<<v24-29-6,6>>^ Tomai esposas e tornai-vos pais de filhos e de filhas; e tomai esposas para os vossos próprios filhos e dai as vossas próprias filhas a maridos, para que dêem à luz filhos e filhas; e tornai-vos ali muitos e não vos torneis poucos.
+
+[[v24-29-7]]
+
+^<<v24-29-7,7>>^ Também, buscai a paz da cidade à qual vos exilei e orai por ela a Jeová, porque na sua paz se mostrará haver paz para vós mesmos.
+
+[[v24-29-8]]
+
+^<<v24-29-8,8>>^ Pois assim disse Jeová dos exércitos, o Deus de Israel: “Não vos enganem os vossos profetas que estão no vosso meio, nem os vossos adivinhos, e não escuteis os seus^&#42;1^ sonhos que estão^&#42;2^ sonhando.
+
+[NOTE]
+====
+. “Vossos”, MTLXXSyVg. Veja 27:9.
+. “Estais”, MTLXXSyVg.
+====
+
+[[v24-29-9]]
+
+^<<v24-29-9,9>>^ Pois ‘é em falsidade que vos profetizam em meu nome. Não os enviei’, é a pronunciação de Jeová.”’”
+
+[[v24-29-10]]
+
+^<<v24-29-10,10>>^ “Pois assim disse Jeová: ‘De acordo com o cumprimento de setenta anos em Babilônia, voltarei minha atenção para vós, e vou confirmar para convosco a minha boa palavra por trazer-vos de volta a este lugar.’
+
+[[v24-29-11]]
+
+^<<v24-29-11,11>>^ “‘Pois eu mesmo conheço bem os pensamentos que tenho a vosso respeito’, é a pronunciação de Jeová, ‘pensamentos de paz, e não de calamidade, para dar-vos um futuro e esperança.
+
+[[v24-29-12]]
+
+^<<v24-29-12,12>>^ E certamente me chamareis, e vireis, e orareis a mim, e eu vou escutar-vos.’
+
+[[v24-29-13]]
+
+^<<v24-29-13,13>>^ “‘E vós realmente me procurareis e [me] achareis, porque me buscareis de todo o vosso coração.
+
+[[v24-29-14]]
+
+^<<v24-29-14,14>>^ E eu vou deixar-me achar por vós’, é a pronunciação de Jeová. ‘E vou recolher vosso grupo de cativos e reunir-vos dentre todas as nações e dentre todos os lugares aos quais vos dispersei’, é a pronunciação de Jeová. ‘E vou trazer-vos de volta ao lugar do qual vos exilei.’
+
+[[v24-29-15]]
+
+^<<v24-29-15,15>>^ “Mas vós dissestes: ‘Jeová suscitou para nós profetas em Babilônia.’
+
+[[v24-29-16]]
+
+^<<v24-29-16,16>>^ “Pois assim disse Jeová ao rei que está sentado no trono de Davi e a todo o povo que mora nesta cidade, vossos irmãos que não saíram convosco ao exílio:
+
+[[v24-29-17]]
+
+^<<v24-29-17,17>>^ ‘Assim disse Jeová dos exércitos: “Eis que envio contra eles a espada, a fome e a pestilência, e vou fazê-los iguais a figos rebentados que não podem ser comidos de ruins [que são].”’
+
+[[v24-29-18]]
+
+^<<v24-29-18,18>>^ “‘E vou persegui-los com a espada, com a fome e com a pestilência, e vou dá-los para tremor a todos os reinos da terra, para maldição, e para assombro, e para [serem] objeto de assobio, e para vitupério entre todas as nações às quais certamente os dispersarei,
+
+[[v24-29-19]]
+
+^<<v24-29-19,19>>^ pelo fato de que não escutaram as minhas palavras’, é a pronunciação de Jeová, ‘que lhes enviei com os meus servos, os profetas, levantando-me cedo e enviando-os’.
+“‘Mas vós não escutastes’, é a pronunciação de Jeová.
+
+[[v24-29-20]]
+
+^<<v24-29-20,20>>^ “E quanto a vós, ouvi a palavra de Jeová, todos vós, povo exilado, que mandei embora de Jerusalém para Babilônia.
+
+[[v24-29-21]]
+
+^<<v24-29-21,21>>^ Assim disse Jeová dos exércitos, o Deus de Israel, a respeito de Acabe, filho de Colaías, e a Zedequias, filho de Maaséias, que vos profetizam falsidade em meu próprio nome: ‘Eis que os entrego na mão de Nabucodorosor, rei de Babilônia, e ele terá de golpeá-los perante os vossos olhos.
+
+[[v24-29-22]]
+
+^<<v24-29-22,22>>^ E certamente se tomará deles uma invocação do mal, por parte do grupo inteiro dos exilados de Judá, que está em Babilônia, dizendo: “Faça-te Jeová igual a Zedequias e igual a Acabe, que o rei de Babilônia assou no fogo!”,
+
+[[v24-29-23]]
+
+^<<v24-29-23,23>>^ visto que praticaram a insensatez em Israel, e continuam a cometer adultério com as esposas de seus companheiros e continuam a falar falsamente em meu próprio nome a palavra que não lhes ordenei.
+“‘“E eu sou Aquele que sabe e sou testemunha”, é a pronunciação de Jeová.’”
+
+[[v24-29-24]]
+
+^<<v24-29-24,24>>^ “E a Semaías^&#42;1^ de Neelão dirás:
+
+[NOTE]
+====
+. Significando “Jeová Ouviu”. Hebr.: Shema‛·yá·hu.
+====
+
+[[v24-29-25]]
+
+^<<v24-29-25,25>>^ ‘Assim disse Jeová dos exércitos, o Deus de Israel: “Visto que tu mesmo enviaste em teu nome cartas a todo o povo que está em Jerusalém e a Sofonias, filho de Maaséias, o sacerdote, e a todos os sacerdotes, dizendo:
+
+[[v24-29-26]]
+
+^<<v24-29-26,26>>^ ‘O próprio Jeová te constituiu sacerdote em lugar de Jeoiada, o sacerdote, a fim de que te tornasses o grandioso superintendente^&#42;1^ da casa de Jeová para com qualquer homem^&#42;2^ enlouquecido e que se comporte como profeta, e tens de pô-lo no tronco e ao pelourinho;
+
+[NOTE]
+====
+. “O grandioso superintendente.” Lit.: “superintendentes”. Hebr.: peqi·dhím, pl. para denotar grandiosidade.
+. “Homem.” Hebr.: ’ish.
+====
+
+[[v24-29-27]]
+
+^<<v24-29-27,27>>^ agora, pois, por que não censuraste Jeremias de Anatote, que se comporta como profeta para vós?
+
+[[v24-29-28]]
+
+^<<v24-29-28,28>>^ Pois, por isso nos enviou [mensagem] a Babilônia, dizendo: “É^&#42;1^ muito prolongado! Construí casas e habitai [nelas], e plantai jardins e comei dos seus frutos. —”’”’”
+
+[NOTE]
+====
+. “É”, evidentemente referindo-se ao “exílio” no v. 16.
+====
+
+[[v24-29-29]]
+
+^<<v24-29-29,29>>^ E Sofonias, o sacerdote, passou a ler esta carta aos ouvidos de Jeremias, o profeta.
+
+[[v24-29-30]]
+
+^<<v24-29-30,30>>^ Então veio a haver para Jeremias a palavra de Jeová, dizendo:
+
+[[v24-29-31]]
+
+^<<v24-29-31,31>>^ “Manda dizer a todo o povo exilado: ‘Assim disse Jeová a respeito de Semaías de Neelão: “Visto que Semaías profetizou para vós, mas eu mesmo não o enviei, e ele tentou fazer-vos confiar numa falsidade,
+
+[[v24-29-32]]
+
+^<<v24-29-32,32>>^ portanto, assim disse Jeová: ‘Eis que volto a minha atenção para Semaías de Neelão e para a sua descendência.’
+“‘“‘Ele não virá a ter um homem morando no meio deste povo; e não olhará para o bem que faço para meu povo’, é a pronunciação de Jeová, ‘porque falou em franca revolta contra Jeová’.”’”
+
+'''
+
+xref:024-jeremias/024-jeremias-028.adoc#v24-28-0[&#60; Capítulo Anterior] | <<v24-29-0,Topo>> | xref:024-jeremias/024-jeremias-030.adoc#v24-30-0[Próximo Capítulo &#62;]

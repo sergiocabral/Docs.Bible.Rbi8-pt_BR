@@ -1,0 +1,90 @@
+include::./index.adoc[]
+
+[[v26-9-0]]
+=== Ezequiel, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v26-9-1]]
+
+^<<v26-9-1,1>>^ E ele passou a clamar em alta voz aos meus ouvidos, dizendo: “Cheguem-se os que fixam sua atenção na cidade, cada um com a sua arma na mão para arruinar!”
+
+[[v26-9-2]]
+
+^<<v26-9-2,2>>^ E eis que vieram seis homens^&#42;1^ da direção do portão superior que dá para o norte, cada um com a sua arma maçadora na mão; e havia entre eles um homem^&#42;2^ vestido de linho, com um tinteiro^&#42;3^ de secretário sobre os quadris, e eles passaram a entrar e a ficar de pé junto ao altar de cobre.
+
+[NOTE]
+====
+. “Homens.” Hebr.: ’ana·shím, pl. de ’ish.
+. “E havia . . . um homem.” Hebr.: we’ish-’e·hhádh.
+. Ou “estojo com material de escrita”.
+====
+
+[[v26-9-3]]
+
+^<<v26-9-3,3>>^ E no que se referia à glória do Deus^&#42;1^ de Israel, foi retirada de cima dos querubins^&#42;2^ sobre os quais viera a estar [e levada] para o limiar da casa, e ele começou a chamar o homem^&#42;3^ vestido de linho, sobre cujos quadris havia o tinteiro de secretário.
+
+[NOTE]
+====
+. “Deus de.” Hebr.: ’Elo·héh.
+. Lit.: “do querubim”. Hebr.: hak·kerúv, hebr. sing., mas provavelmente em sentido coletivo. Esta é a primeira ocorrência desta palavra em Ez. Veja 1:22-28.
+. “O homem.” Hebr.: ha·’ísh.
+====
+
+[[v26-9-4]]
+
+^<<v26-9-4,4>>^ E Jeová prosseguiu, dizendo-lhe: “Passa pelo meio da cidade, pelo meio de Jerusalém, e tens de marcar com um sinal^&#42;1^ as testas dos homens que suspiram e gemem por causa de todas as coisas detestáveis que se fazem no meio dela.”
+
+[NOTE]
+====
+. Lit.: “tens de assinalar um sinal”. A palavra hebr. para o substantivo “sinal” é Tau (taw), a última letra do alfabeto hebr., que antigamente era um sinal de “x” . Veja Jó 31:35, onde Tau é traduzido por “assinatura”.
+====
+
+[[v26-9-5]]
+
+^<<v26-9-5,5>>^ E àqueles [outros] ele disse aos meus ouvidos: “Passai pela cidade, atrás dele, e golpeai. Não deixeis o vosso olho ter dó e não tenhais compaixão.
+
+[[v26-9-6]]
+
+^<<v26-9-6,6>>^ Deveis matar o idoso, o jovem, e a virgem, e a criancinha, e as mulheres — para a ruína. Mas não vos aproximeis de nenhum homem em quem haja o sinal, e deveis principiar desde o meu santuário.” De modo que principiaram com os homens idosos^&#42;1^ que estavam diante da casa.
+
+[NOTE]
+====
+. “Com os homens idosos.” Hebr.: ba·’ana·shím haz·zeqe·ním.
+====
+
+[[v26-9-7]]
+
+^<<v26-9-7,7>>^ E ele lhes disse mais: “Aviltai a casa e enchei de mortos os pátios. Saí!” E eles saíram e golpearam na cidade.
+
+[[v26-9-8]]
+
+^<<v26-9-8,8>>^ E aconteceu que, enquanto golpeavam e eu ficava remanescendo, passei a lançar-me com a minha face [por terra] e a clamar e a dizer: “Ai! Soberano Senhor Jeová! Arruínas a todos os que restam de Israel, derramando o teu furor sobre Jerusalém?”
+
+[[v26-9-9]]
+
+^<<v26-9-9,9>>^ De modo que ele me disse: “O erro da casa de Israel e de Judá é muito, muito grande, e o país está cheio de derramamento de sangue^&#42;1^ e a cidade está cheia de deturpação; pois disseram: ‘Jeová deixou o país^&#42;2^ e Jeová não vê.’^&#42;3^
+
+[NOTE]
+====
+. Ou “atos de sangue”. Lit.: “sangues”. Hebr.: da·mím.
+. Ou “a terra”. Hebr.: ha·’á·rets.
+. Ou “e não há Jeová que veja”. Veja 8:12 n.: “nos vê”.
+====
+
+[[v26-9-10]]
+
+^<<v26-9-10,10>>^ E também, no que se refere a mim, meu olho não terá dó, nem terei compaixão. Hei de trazer o procedimento deles sobre a sua própria cabeça.”
+
+[[v26-9-11]]
+
+^<<v26-9-11,11>>^ E eis que o homem^&#42;1^ vestido de linho, sobre cujos quadris havia o tinteiro,^&#42;2^ trazia de volta a palavra, dizendo: “Fiz exatamente como me ordenaste.”
+
+[NOTE]
+====
+. “O homem.” Hebr.: ha·’ísh.
+. Ou “estojo com material de escrita”.
+====
+
+'''
+
+xref:026-ezequiel/026-ezequiel-008.adoc#v26-8-0[&#60; Capítulo Anterior] | <<v26-9-0,Topo>> | xref:026-ezequiel/026-ezequiel-010.adoc#v26-10-0[Próximo Capítulo &#62;]

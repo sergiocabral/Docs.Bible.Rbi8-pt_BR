@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v13-3-0]]
+=== 1 Crônicas, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v13-3-1]]
+
+^<<v13-3-1,1>>^ E estes vieram a ser os filhos de Davi que lhe nasceram em Hébron: o primogênito, Amnom, de Ainoã, a jezreelita, o segundo, Daniel, de Abigail, a carmelita,
+
+[[v13-3-2]]
+
+^<<v13-3-2,2>>^ o terceiro, Absalão, filho de Maacá, filha de Talmai, rei de Gesur, o quarto, Adonias, filho de Hagite,
+
+[[v13-3-3]]
+
+^<<v13-3-3,3>>^ o quinto, Sefatias, de Abital, o sexto, Itreão, de Eglá, sua esposa.
+
+[[v13-3-4]]
+
+^<<v13-3-4,4>>^ Seis lhe nasceram em Hébron; e ele continuou a reinar ali por sete anos e seis meses, e reinou por trinta e três anos em Jerusalém.
+
+[[v13-3-5]]
+
+^<<v13-3-5,5>>^ E os seguintes lhe nasceram em Jerusalém: Siméia, e Sobabe, e Natã, e Salomão, quatro de Bate-Seba,^&#42;1^ filha de Amiel,
+
+[NOTE]
+====
+. “Bate-Seba”, Vg; M: “Bate-Sua”.
+====
+
+[[v13-3-6]]
+
+^<<v13-3-6,6>>^ e Ibar, e Elisama,^&#42;1^ e Elifelete,
+
+[NOTE]
+====
+. “Elisama”, MLXXSyVg; dois mss. hebr., 14:5 e 2Sa 5:15: “Elisua”.
+====
+
+[[v13-3-7]]
+
+^<<v13-3-7,7>>^ e Nogá, e Nefegue, e Jafia,
+
+[[v13-3-8]]
+
+^<<v13-3-8,8>>^ e Elisama, e Eliada, e Elifelete, nove,
+
+[[v13-3-9]]
+
+^<<v13-3-9,9>>^ todos filhos de Davi, além dos filhos das concubinas, e Tamar, irmã deles.
+
+[[v13-3-10]]
+
+^<<v13-3-10,10>>^ E o filho de Salomão foi Roboão, Abias, seu filho, Asa, seu filho, Jeosafá, seu filho,
+
+[[v13-3-11]]
+
+^<<v13-3-11,11>>^ Jeorão,^&#42;1^ seu filho, Acazias, seu filho, Jeoás,^&#42;2^ seu filho,
+
+[NOTE]
+====
+. “Jeorão”, como em 2Rs 1:17. Lit.: “Jorão”.
+. “Jeoás”, como em 2Rs 11:21. Lit.: “Joás”.
+====
+
+[[v13-3-12]]
+
+^<<v13-3-12,12>>^ Amazias, seu filho, Azarias, seu filho, Jotão, seu filho,
+
+[[v13-3-13]]
+
+^<<v13-3-13,13>>^ Acaz, seu filho, Ezequias, seu filho, Manassés, seu filho,
+
+[[v13-3-14]]
+
+^<<v13-3-14,14>>^ Amom, seu filho, Josias, seu filho.
+
+[[v13-3-15]]
+
+^<<v13-3-15,15>>^ E os filhos de Josias foram o primogênito, Joanã,^&#42;1^ o segundo, Jeoiaquim, o terceiro, Zedequias, o quarto, Salum.
+
+[NOTE]
+====
+. “Joanã”, MLXXSyVg; LXXL: “Joacaz”.
+====
+
+[[v13-3-16]]
+
+^<<v13-3-16,16>>^ E os filhos de Jeoiaquim foram Jeconias, seu filho, Zedequias, seu filho.
+
+[[v13-3-17]]
+
+^<<v13-3-17,17>>^ E os filhos de Jeconias, como prisioneiro, foram Sealtiel, seu filho,
+
+[[v13-3-18]]
+
+^<<v13-3-18,18>>^ e Malquirão, e Pedaías, e Senazar, Jecamias, Hosama e Nedabias.
+
+[[v13-3-19]]
+
+^<<v13-3-19,19>>^ E os filhos de Pedaías foram Zorobabel e Simei; e os filhos de Zorobabel foram Mesulão e Hananias (e Selomite foi a irmã deles);
+
+[[v13-3-20]]
+
+^<<v13-3-20,20>>^ e Hasubá, e Oel, e Berequias, e Hasadias, Jusabe-Hesede, cinco.
+
+[[v13-3-21]]
+
+^<<v13-3-21,21>>^ E os filhos de Hananias foram Pelatias e Jesaías, os filhos de [Jesaías:] Refaías, os filhos de [Refaías:] Arnã, os filhos de [Arnã:] Obadias, os filhos de [Obadias:] Secanias;
+
+[[v13-3-22]]
+
+^<<v13-3-22,22>>^ e os filhos de Secanias, Semaías, e os filhos de Semaías, Hatus, e Igal, e Barias, e Nearias, e Safate, seis.
+
+[[v13-3-23]]
+
+^<<v13-3-23,23>>^ E os filhos de Nearias foram Elioenai, e Hisquias, e Azricão, três.
+
+[[v13-3-24]]
+
+^<<v13-3-24,24>>^ E os filhos de Elioenai foram Hodavias, e Eliasibe, e Pelaías, e Acube, e Joanã, e Delaías, e Anani, sete.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-002.adoc#v13-2-0[&#60; Capítulo Anterior] | <<v13-3-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-004.adoc#v13-4-0[Próximo Capítulo &#62;]

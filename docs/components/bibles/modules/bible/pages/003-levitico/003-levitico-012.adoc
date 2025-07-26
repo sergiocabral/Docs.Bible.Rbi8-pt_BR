@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v3-12-0]]
+=== Levítico, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-12-1]]
+
+^<<v3-12-1,1>>^ E Jeová prosseguiu falando a Moisés, dizendo:
+
+[[v3-12-2]]
+
+^<<v3-12-2,2>>^ “Fala aos filhos de Israel, dizendo: ‘Caso uma mulher conceba descendente e dê à luz um macho, ela terá de ser impura por sete dias; será impura como nos dias da impureza, em que menstrua.
+
+[[v3-12-3]]
+
+^<<v3-12-3,3>>^ E no oitavo dia circuncidar-se-á a carne do prepúcio dele.
+
+[[v3-12-4]]
+
+^<<v3-12-4,4>>^ Ela ficará por mais trinta e três dias no sangue da purificação. Não deve tocar em nada santo e não deve entrar no lugar santo até se cumprirem os dias da sua purificação.
+
+[[v3-12-5]]
+
+^<<v3-12-5,5>>^ “‘Ora, se ela der à luz uma fêmea, então terá de ser impura por quatorze dias,^&#42;1^ como durante a sua menstruação. Ficará por mais sessenta e seis dias com o sangue da purificação.
+
+[NOTE]
+====
+. Lit.: “duas semanas”.
+====
+
+[[v3-12-6]]
+
+^<<v3-12-6,6>>^ Então, ao se cumprirem os dias da sua purificação por um filho ou por uma filha, trará à entrada da tenda de reunião, ao sacerdote, um carneirinho no seu primeiro ano, como oferta queimada, e um pombo novo^&#42;1^ ou uma rola, como oferta pelo pecado.
+
+[NOTE]
+====
+. Lit.: “filhote de pombo”.
+====
+
+[[v3-12-7]]
+
+^<<v3-12-7,7>>^ E ele terá de apresentá-lo perante Jeová e fazer expiação por ela, e ela terá de ser limpa da fonte do seu sangue. Esta é a lei a respeito daquela que dá à luz quer um macho quer uma fêmea.
+
+[[v3-12-8]]
+
+^<<v3-12-8,8>>^ Mas, se ela não tiver recursos^&#42;1^ suficientes para um ovídeo, então terá de tomar duas rolas ou dois pombos novos,^&#42;2^ um como oferta queimada e outro como oferta pelo pecado, e o sacerdote terá de fazer expiação por ela, e ela terá de ser limpa.’”
+
+[NOTE]
+====
+. Lit.: “se a sua mão não puder alcançar”.
+. Lit.: “filhotes de pombo”.
+====
+
+'''
+
+xref:003-levitico/003-levitico-011.adoc#v3-11-0[&#60; Capítulo Anterior] | <<v3-12-0,Topo>> | xref:003-levitico/003-levitico-013.adoc#v3-13-0[Próximo Capítulo &#62;]

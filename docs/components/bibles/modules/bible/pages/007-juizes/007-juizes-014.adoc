@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v7-14-0]]
+=== Juízes, 14
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v7-14-1]]
+
+^<<v7-14-1,1>>^ Sansão desceu então a Timná e viu em Timná uma mulher das filhas dos filisteus.
+
+[[v7-14-2]]
+
+^<<v7-14-2,2>>^ Por isso subiu e o contou a seu pai e a sua mãe, e disse: “Há uma mulher que vi em Timná, das filhas dos filisteus, e agora obtende-a para mim por esposa.”
+
+[[v7-14-3]]
+
+^<<v7-14-3,3>>^ Seu pai e sua mãe disseram-lhe, porém: “Não há mulher entre as filhas dos teus irmãos e entre todo o meu povo, que vás tomar esposa dentre os filisteus incircuncisos?” Contudo, Sansão disse a seu pai: “Obtém-me só esta, porque ela é que está direita aos meus olhos.”
+
+[[v7-14-4]]
+
+^<<v7-14-4,4>>^ Quanto a seu pai e sua mãe, não sabiam que isto era da parte de Jeová, que ele estava procurando uma oportunidade contra os filisteus, visto que naquele tempo específico os filisteus dominavam sobre Israel.
+
+[[v7-14-5]]
+
+^<<v7-14-5,5>>^ Concordemente, Sansão foi descer a Timná com seu pai e sua mãe. Quando chegou^&#42;1^ aos vinhedos de Timná, ora, eis um leão novo, jubado, bramindo ao se encontrar com ele.
+
+[NOTE]
+====
+. “Chegou”, LXX; MVg: “chegaram”.
+====
+
+[[v7-14-6]]
+
+^<<v7-14-6,6>>^ Então, o espírito de Jeová se tornou ativo nele, de modo que ele o rasgou em dois, assim como se rasga um cabritinho em dois, e não havia absolutamente nada na sua mão. E não contou a seu pai nem a sua mãe o que havia feito.
+
+[[v7-14-7]]
+
+^<<v7-14-7,7>>^ E seguiu descendo e começou a falar à mulher; e ela ainda era direita aos olhos de Sansão.
+
+[[v7-14-8]]
+
+^<<v7-14-8,8>>^ Ora, depois de um tempo voltou para levá-la para casa. Enquanto isso, desviou-se a fim de olhar para a carcaça do leão,^&#42;1^ e eis que havia um enxame de abelhas no cadáver do leão, bem como mel.
+
+[NOTE]
+====
+. “Do leão.” Hebr.: ha·’ar·yéh, o leão africano.
+====
+
+[[v7-14-9]]
+
+^<<v7-14-9,9>>^ De modo que o raspou fora, pondo-o nas suas palmas, e seguiu andando, comendo ao caminhar.^&#42;1^ E chegando^&#42;2^ a seu pai e sua mãe, deu-lhes imediatamente um pouco dele e eles começaram a comer. E não lhes contou que raspara o mel do cadáver do leão.
+
+[NOTE]
+====
+. Lit.: “caminhando e comendo”. No hebr., estes verbos estão no infinitivo absoluto, indefinido quanto ao tempo.
+. Lit.: “caminhou até”.
+====
+
+[[v7-14-10]]
+
+^<<v7-14-10,10>>^ E seu pai seguiu descendo até a mulher, e Sansão passou a realizar ali um banquete, pois era assim que os jovens costumavam fazer.
+
+[[v7-14-11]]
+
+^<<v7-14-11,11>>^ E sucedeu que, quando o viram, tomaram imediatamente trinta padrinhos para ficarem com ele.
+
+[[v7-14-12]]
+
+^<<v7-14-12,12>>^ Sansão disse-lhes então: “Por favor, deixai-me propor-vos um enigma. Se sem falta mo declarardes durante os sete dias do banquete e deveras o decifrardes, neste caso vos terei de dar trinta peças de roupa interior e trinta mudas de roupa.
+
+[[v7-14-13]]
+
+^<<v7-14-13,13>>^ Mas, se não mo puderdes declarar, então sois vós os que tereis de dar-me trinta peças de roupa interior e trinta mudas de roupa.” Nisso lhe disseram: “Proponha-nos o enigma e ouçamo-lo.”
+
+[[v7-14-14]]
+
+^<<v7-14-14,14>>^ Assim, ele lhes disse:
+“Do comedor saiu comida,
+E do forte saiu o doce.”
+E por três dias não puderam declarar o enigma.
+
+[[v7-14-15]]
+
+^<<v7-14-15,15>>^ Sucedeu então, no quarto^&#42;1^ dia, que começaram a dizer à esposa de Sansão: “Logra teu esposo para que nos declare o enigma. De outro modo queimaremos tanto a ti como a casa de teu pai com fogo. Foi para tirar-nos as posses que nos convidastes para cá?”
+
+[NOTE]
+====
+. “Quarto”, LXXSy; MVg: “sétimo”.
+====
+
+[[v7-14-16]]
+
+^<<v7-14-16,16>>^ Por conseguinte, a esposa de Sansão começou a chorar junto dele e a dizer: “Tu deveras somente me odeias e não me amas. Propuseste um enigma aos filhos do meu povo, mas não mo declaraste.” A isto ele lhe disse: “Ora, não o declarei nem ao meu próprio pai nem à minha própria mãe, e devia eu declará-lo a ti?”
+
+[[v7-14-17]]
+
+^<<v7-14-17,17>>^ Mas ela chorava junto dele durante os sete dias que o banquete durou para eles, e sucedeu que no sétimo dia por fim lho declarou, porque ela o havia assediado. Ela declarou então o enigma aos filhos do seu povo.
+
+[[v7-14-18]]
+
+^<<v7-14-18,18>>^ Assim, os homens da cidade disseram-lhe no sétimo dia, antes de ele poder entrar no quarto interior:^&#42;1^
+“O que é mais doce do que o mel
+E o que é mais forte do que o leão?”
+Ele lhes disse por sua vez:
+“Se não tivésseis lavrado com a minha novilha,
+Não teríeis decifrado meu enigma.”
+
+[NOTE]
+====
+. “Antes de ele poder entrar no quarto interior”, mediante uma emenda do texto; Sy: “antes de ele poder ir ao banquete”; MLXXAVg: “antes de se pôr o sol”; LXXB: “antes de o sol nascer”. Veja 15:1.
+====
+
+[[v7-14-19]]
+
+^<<v7-14-19,19>>^ Então, o espírito de Jeová se tornou ativo nele, de modo que desceu a Ascalom e golpeou trinta homens deles, e tomou aquilo de que os despiu e deu as mudas [de roupa] aos que declararam o enigma. E sua ira continuou acesa, e ele se foi embora, subindo para a casa de seu pai.
+
+[[v7-14-20]]
+
+^<<v7-14-20,20>>^ E a esposa de Sansão veio a pertencer a um padrinho seu que se associara com ele.
+
+'''
+
+xref:007-juizes/007-juizes-013.adoc#v7-13-0[&#60; Capítulo Anterior] | <<v7-14-0,Topo>> | xref:007-juizes/007-juizes-015.adoc#v7-15-0[Próximo Capítulo &#62;]

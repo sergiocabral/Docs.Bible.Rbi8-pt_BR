@@ -1,0 +1,72 @@
+include::./index.adoc[]
+
+[[v23-31-0]]
+=== Isaías, 31
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-31-1]]
+
+^<<v23-31-1,1>>^ Ai dos que descem ao Egito por auxílio, os que confiam em meros cavalos e os que põem a sua confiança em carros de guerra, por serem numerosos, e em corcéis,^&#42;1^ por serem muito fortes, mas que não atentaram para o Santo de Israel e que não buscaram o próprio Jeová.
+
+[NOTE]
+====
+. Ou “cavaleiros”.
+====
+
+[[v23-31-2]]
+
+^<<v23-31-2,2>>^ E ele é também sábio e introduzirá o que é calamitoso, e não revogou as suas próprias palavras; e ele se há de levantar contra a casa dos malfeitores e contra o auxílio dos que praticam o que é prejudicial.
+
+[[v23-31-3]]
+
+^<<v23-31-3,3>>^ Os egípcios, porém, são homens terrenos,^&#42;1^ e não Deus;^&#42;2^ e seus cavalos são carne, e não espírito. E o próprio Jeová estenderá a sua mão, e terá de tropeçar aquele que oferece ajuda, e terá de cair aquele que está sendo ajudado, e ao mesmo tempo todos eles chegarão ao fim.
+
+[NOTE]
+====
+. Ou “humanos”. Hebr.: ’a·dhám.
+. “Deus.” Hebr.: ’El.
+====
+
+[[v23-31-4]]
+
+^<<v23-31-4,4>>^ Pois assim me disse Jeová: “Assim como o leão ruge, sim, o leão novo jubado, sobre a sua presa, quando se convoca contra ele o pleno número de pastores, [e] apesar da voz deles não se aterroriza e apesar da comoção deles não se agacha, assim Jeová dos exércitos descerá para travar guerra pelo monte Sião e pelo seu morro.
+
+[[v23-31-5]]
+
+^<<v23-31-5,5>>^ Como aves voando, assim Jeová dos exércitos defenderá Jerusalém. Defendendo-a, também [a] há de livrar. Poupando-a,^&#42;1^ também terá de fazê-la escapar.”
+
+[NOTE]
+====
+. Ou: “Passando-a por alto.” Hebr.: pa·só·ahh, uma forma de pa·sáhh, da qual se deriva Páscoa (Pé·sahh).
+====
+
+[[v23-31-6]]
+
+^<<v23-31-6,6>>^ “Retornai Àquele contra quem os filhos de Israel se revoltaram profundamente.
+
+[[v23-31-7]]
+
+^<<v23-31-7,7>>^ Pois naquele dia rejeitarão, cada um, os seus deuses de prata que nada valem e os seus deuses de ouro que nada valem, que as vossas mãos fizeram para vós mesmos como pecado.
+
+[[v23-31-8]]
+
+^<<v23-31-8,8>>^ E o assírio terá de cair à espada, não [a de] um homem;^&#42;1^ e a espada, não [a do] homem terreno,^&#42;2^ o devorará. E ele terá de fugir por causa da espada e seus próprios jovens virão a ser para o próprio trabalho forçado.
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’ish.
+. “Homem terreno.” Hebr.: ’a·dhám.
+====
+
+[[v23-31-9]]
+
+^<<v23-31-9,9>>^ E seu próprio rochedo passará de puro horror, e por causa do sinal de aviso^&#42;1^ seus príncipes terão de ficar aterrorizados”, é a pronunciação de Jeová, cuja luz está em Sião e cuja fornalha está em Jerusalém.
+
+[NOTE]
+====
+. “Por causa do sinal de aviso.” Hebr.: min·nés.
+====
+
+'''
+
+xref:023-isaias/023-isaias-030.adoc#v23-30-0[&#60; Capítulo Anterior] | <<v23-31-0,Topo>> | xref:023-isaias/023-isaias-032.adoc#v23-32-0[Próximo Capítulo &#62;]

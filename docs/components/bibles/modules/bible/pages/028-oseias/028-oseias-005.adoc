@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v28-5-0]]
+=== Oseias, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v28-5-1]]
+
+^<<v28-5-1,1>>^ “Ouvi isto, ó sacerdotes, e prestai atenção, ó casa de Israel, e dai ouvidos, ó casa do rei, pois é convosco que tem que ver o julgamento; pois vós vos tornastes uma armadilha para Mispá e como uma rede estendida sobre Tabor.
+
+[[v28-5-2]]
+
+^<<v28-5-2,2>>^ E os desencaminhados aprofundaram-se na matança, e eu fui uma exortação para todos eles.
+
+[[v28-5-3]]
+
+^<<v28-5-3,3>>^ Conheci pessoalmente a Efraim e o próprio Israel não ficou oculto de mim. Pois agora, ó Efraim, trataste [as mulheres] como meretrizes; Israel se aviltou.
+
+[[v28-5-4]]
+
+^<<v28-5-4,4>>^ Suas ações não permitem o retorno a seu Deus,^&#42;1^ porque há no meio deles um espírito de fornicação; e não reconheceram nem ao próprio Jeová.
+
+[NOTE]
+====
+. “Seu Deus.” Hebr.: ’Elo·heh·hém.
+====
+
+[[v28-5-5]]
+
+^<<v28-5-5,5>>^ E o orgulho de Israel testificou-lhe na face; e faz-se que mesmo Israel e Efraim tropecem no seu erro. Judá também tropeçou junto com eles.
+
+[[v28-5-6]]
+
+^<<v28-5-6,6>>^ Passaram a ir com seu rebanho e com sua manada e a procurar a Jeová, mas não [o] puderam achar. Retirara-se deles.
+
+[[v28-5-7]]
+
+^<<v28-5-7,7>>^ Agiram traiçoeiramente com o próprio Jeová, pois tornaram-se pais de filhos estranhos. Agora um mês os devorará junto com os seus quinhões.
+
+[[v28-5-8]]
+
+^<<v28-5-8,8>>^ “Tocai a buzina^&#42;1^ em Gibeá, a trombeta^&#42;2^ em Ramá! Dai um grito de guerra em Bete-Áven — atrás de ti, ó Benjamim!
+
+[NOTE]
+====
+. Ou “shofar”. Hebr.: shoh·fár.
+. Isto é, uma trombeta reta. Hebr.: hhatso·tseráh; não o shofar, que era um chifre curvo de carneiro. Veja Núm 10:2.
+====
+
+[[v28-5-9]]
+
+^<<v28-5-9,9>>^ Ó Efraim, tornar-te-ás um mero assombro no dia da repreensão. Fiz saber palavras fidedignas entre as tribos de Israel.
+
+[[v28-5-10]]
+
+^<<v28-5-10,10>>^ Os príncipes de Judá tornaram-se como os que recuam o [marco] divisório. Derramarei sobre eles a minha fúria qual água.
+
+[[v28-5-11]]
+
+^<<v28-5-11,11>>^ Efraim está oprimido, esmagado em justiça, pois resolveu andar atrás do seu adversário.^&#42;1^
+
+[NOTE]
+====
+. “Seu adversário”, mediante uma correção; M: “dum mandamento”; LXXSy: “de vaidades”; Vg: “de imundície”.
+====
+
+[[v28-5-12]]
+
+^<<v28-5-12,12>>^ E eu era qual traça^&#42;1^ para Efraim e qual podridão para a casa de Judá.
+
+[NOTE]
+====
+. Possivelmente “putrefação”. LXX: “perturbação”.
+====
+
+[[v28-5-13]]
+
+^<<v28-5-13,13>>^ “E Efraim chegou a ver a sua doença, e Judá a sua úlcera. E Efraim passou a ir à Assíria e a enviar [mensageiros] a um grande rei.^&#42;1^ Mas este mesmo era incapaz de vos curar, e não podia retirar de vós a úlcera com qualquer cura.
+
+[NOTE]
+====
+. Ou “Rei Jarebe”. Lit.: “um rei [que] devia contender”.
+====
+
+[[v28-5-14]]
+
+^<<v28-5-14,14>>^ Pois eu serei qual leão novo para Efraim e qual leão novo jubado para a casa de Judá. Eu mesmo é que dilacerarei, e irei [e] levarei embora, e não haverá libertador.
+
+[[v28-5-15]]
+
+^<<v28-5-15,15>>^ Irei, [e] vou retornar ao meu lugar até que tenham levado a sua culpa; e eles certamente procurarão a minha face. Quando estiverem em sério aperto, estarão à minha procura.”
+
+'''
+
+xref:028-oseias/028-oseias-004.adoc#v28-4-0[&#60; Capítulo Anterior] | <<v28-5-0,Topo>> | xref:028-oseias/028-oseias-006.adoc#v28-6-0[Próximo Capítulo &#62;]

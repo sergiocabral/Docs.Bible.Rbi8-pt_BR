@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v5-20-0]]
+=== Deuteronômio, 20
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-20-1]]
+
+^<<v5-20-1,1>>^ “Caso fores à batalha contra os teus inimigos e realmente vires cavalos e carros de guerra, um povo mais numeroso do que tu, não deves ter medo deles, pois contigo está Jeová, teu Deus, que te fez sair da terra do Egito.
+
+[[v5-20-2]]
+
+^<<v5-20-2,2>>^ E quando vos tiverdes chegado à batalha, então tem de suceder que o sacerdote tem de aproximar-se e falar ao povo.
+
+[[v5-20-3]]
+
+^<<v5-20-3,3>>^ E tem de dizer-lhes: ‘Ouve, ó Israel, hoje vos estais chegando à batalha contra os vossos inimigos. Não se intimidem os vossos corações. Não tenhais medo e não corrais tomados de pânico, nem tremais por causa deles,
+
+[[v5-20-4]]
+
+^<<v5-20-4,4>>^ pois Jeová,^&#42;1^ vosso Deus, está marchando convosco para lutar por vós contra os vossos inimigos, a fim de vos salvar.’
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-20-5]]
+
+^<<v5-20-5,5>>^ “Também os oficiais têm de falar ao povo, dizendo: ‘Qual é o homem que construiu uma casa nova e não a inaugurou? Vá e retorne à sua casa, para que não morra na batalha e outro homem a inaugure.
+
+[[v5-20-6]]
+
+^<<v5-20-6,6>>^ E qual é o homem que plantou um vinhedo e não começou a fazer uso dele? Vá e retorne à sua casa, para que não morra na batalha e outro homem comece a fazer uso dele.
+
+[[v5-20-7]]
+
+^<<v5-20-7,7>>^ E qual é o homem que ficou noivo duma mulher e não a tomou? Vá e retorne à sua casa, para que não morra na batalha e outro homem a tome.’
+
+[[v5-20-8]]
+
+^<<v5-20-8,8>>^ E os oficiais têm de falar mais ao povo e dizer: ‘Qual é o homem que é temeroso e receoso de coração? Vá e retorne à sua casa, para que não faça os corações dos seus irmãos derreter-se como o seu próprio coração.’
+
+[[v5-20-9]]
+
+^<<v5-20-9,9>>^ E tem de dar-se que, quando os oficiais acabarem de falar ao povo, então eles têm de designar chefes^&#42;1^ dos exércitos à testa do povo.^&#42;2^
+
+[NOTE]
+====
+. “Chefes dos.” Hebr.: sa·réh.
+. “Então cada um preparará suas divisões, em formatura de cunha, para travar batalha”, Vg.
+====
+
+[[v5-20-10]]
+
+^<<v5-20-10,10>>^ “Caso te chegues a uma cidade para lutar contra ela, então tens de anunciar-lhe termos de paz.
+
+[[v5-20-11]]
+
+^<<v5-20-11,11>>^ E tem de suceder que, se te der uma resposta pacífica e se abrir para ti, então tem de acontecer que todo o povo encontrado nela deve tornar-se teu para trabalho forçado, e eles têm de servir-te.
+
+[[v5-20-12]]
+
+^<<v5-20-12,12>>^ Mas, se não fizer paz contigo e realmente te fizer guerra, e tu a tiveres de sitiar,
+
+[[v5-20-13]]
+
+^<<v5-20-13,13>>^ então Jeová,^&#42;1^ teu Deus, certamente a entregará na tua mão e terás de golpear todo macho nela com o fio da espada.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-20-14]]
+
+^<<v5-20-14,14>>^ Somente as mulheres e as criancinhas, e os animais domésticos, e tudo o que houver na cidade, todo o seu despojo, saquearás para ti; e terás de comer do despojo dos teus inimigos que Jeová, teu Deus, te entregou.
+
+[[v5-20-15]]
+
+^<<v5-20-15,15>>^ “Assim farás com todas as cidades muito longe de ti, que não forem das cidades destas nações.
+
+[[v5-20-16]]
+
+^<<v5-20-16,16>>^ É somente das cidades destes povos que Jeová, teu Deus, te dá por herança, que não deves preservar viva nenhuma coisa que respira,^&#42;1^
+
+[NOTE]
+====
+. “Nenhuma coisa que respira”, LXX. Lit.: “nenhum fôlego”, MSamSy.
+====
+
+[[v5-20-17]]
+
+^<<v5-20-17,17>>^ porque deves impreterivelmente devotá-los à destruição: os hititas e os amorreus, os cananeus e os perizeus, os heveus e os jebuseus, assim como te mandou Jeová, teu Deus;
+
+[[v5-20-18]]
+
+^<<v5-20-18,18>>^ a fim de que não te ensinem fazer segundo todas as suas coisas detestáveis que fizeram com os seus deuses e deveras pequeis contra Jeová,^&#42;1^ vosso Deus.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-20-19]]
+
+^<<v5-20-19,19>>^ “Caso sities uma cidade por muitos dias, lutando contra ela de modo a capturá-la, não deves arruinar as suas árvores por brandir contra elas um machado; porque deves comer delas e não as deves cortar, pois é a árvore do campo algum homem a ser sitiado por ti?^&#42;1^
+
+[NOTE]
+====
+. Lit.: “vir a estar em sítio diante de ti?”
+====
+
+[[v5-20-20]]
+
+^<<v5-20-20,20>>^ Somente a árvore de que souberes que ela não é árvore para alimento é a que deves arruinar, e tens de cortá-la e construir obras de sítio contra a cidade que te faz guerra, até ela cair.^&#42;1^
+
+[NOTE]
+====
+. Ou “tombar”.
+====
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-019.adoc#v5-19-0[&#60; Capítulo Anterior] | <<v5-20-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-021.adoc#v5-21-0[Próximo Capítulo &#62;]

@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v19-48-0]]
+=== Salmos, 48
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Um cântico. Uma melodia dos filhos de Corá._
+
+[[v19-48-1]]
+
+^<<v19-48-1,1>>^ Jeová é grande e para ser louvado muito
+Na cidade de nosso Deus, [no] seu santo monte.
+
+[[v19-48-2]]
+
+^<<v19-48-2,2>>^ Bonito pela elevação, a exultação da terra inteira,
+É o monte Sião nos lados remotos do norte,
+A vila do grandioso Rei.
+
+[[v19-48-3]]
+
+^<<v19-48-3,3>>^ Nas suas torres de habitação, o próprio Deus ficou conhecido como altura protetora.
+
+[[v19-48-4]]
+
+^<<v19-48-4,4>>^ Pois, eis que os próprios reis se encontraram por combinação,
+Passaram juntos.
+
+[[v19-48-5]]
+
+^<<v19-48-5,5>>^ Eles mesmos viram; por isso ficaram pasmados.
+Ficaram perturbados, foram postos a correr em pânico.
+
+[[v19-48-6]]
+
+^<<v19-48-6,6>>^ Ali se apoderou deles o próprio tremor,
+Dores de parto como as da mulher que dá à luz.
+
+[[v19-48-7]]
+
+^<<v19-48-7,7>>^ Com um vento oriental destroças os navios de Társis.
+
+[[v19-48-8]]
+
+^<<v19-48-8,8>>^ Assim como ouvimos, assim vimos
+Na cidade de Jeová dos exércitos, na cidade de nosso Deus.
+O próprio Deus a^&#42;1^ estabelecerá firmemente por tempo indefinido. Selá.
+
+[NOTE]
+====
+. “A”, hebr. fem., referindo-se à “cidade”.
+====
+
+[[v19-48-9]]
+
+^<<v19-48-9,9>>^ Ponderamos, ó Deus, a tua benevolência
+No meio do teu templo.
+
+[[v19-48-10]]
+
+^<<v19-48-10,10>>^ Igual ao teu nome, ó Deus, assim é teu louvor
+Até os limites da terra.
+Tua direita está cheia da própria justiça.
+
+[[v19-48-11]]
+
+^<<v19-48-11,11>>^ Alegre-se o monte Sião,
+Jubilem as aldeias dependentes^&#42;1^ de Judá por causa das tuas decisões judiciais.
+
+[NOTE]
+====
+. Lit.: “as filhas”. Veja Núm 21:25 n.
+====
+
+[[v19-48-12]]
+
+^<<v19-48-12,12>>^ Marchai ao redor de Sião e rodeai-a,
+Contai suas torres.
+
+[[v19-48-13]]
+
+^<<v19-48-13,13>>^ Fixai os vossos corações na sua escarpa.
+Inspecionai^&#42;1^ suas torres de habitação,
+A fim de que o possais narrar à geração futura.
+
+[NOTE]
+====
+. “Inspecionai”, mediante uma correção; hebr.: pas·seghú, de significado incerto; LXXVg: “Distribuí.”
+====
+
+[[v19-48-14]]
+
+^<<v19-48-14,14>>^ Porque este Deus é o nosso Deus por tempo indefinido, para todo o sempre.
+Ele mesmo nos guiará até morrermos.^&#42;1^
+
+[NOTE]
+====
+. M é incerto; LXXVg: “para sempre”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-047.adoc#v19-47-0[&#60; Capítulo Anterior] | <<v19-48-0,Topo>> | xref:019-salmo/019-salmo-049.adoc#v19-49-0[Próximo Capítulo &#62;]

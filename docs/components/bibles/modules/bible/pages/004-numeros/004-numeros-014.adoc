@@ -1,0 +1,221 @@
+include::./index.adoc[]
+
+[[v4-14-0]]
+=== Números, 14
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-14-1]]
+
+^<<v4-14-1,1>>^ Então toda a assembléia levantou a sua voz, e o povo continuou a vozear e a chorar toda aquela noite.
+
+[[v4-14-2]]
+
+^<<v4-14-2,2>>^ E todos os filhos de Israel começaram a murmurar contra Moisés e Arão, e toda a assembléia começou a dizer contra eles: “Se tão-somente tivéssemos morrido na terra do Egito ou se tão-somente tivéssemos morrido neste ermo!
+
+[[v4-14-3]]
+
+^<<v4-14-3,3>>^ E por que nos leva Jeová a esta terra para cairmos pela espada? Nossas esposas e nossos pequeninos ficarão por saque. Não é melhor voltarmos ao Egito?”
+
+[[v4-14-4]]
+
+^<<v4-14-4,4>>^ Foram até dizer uns aos outros: “Designemos um cabeça e voltemos ao Egito!”
+
+[[v4-14-5]]
+
+^<<v4-14-5,5>>^ Em vista disso, Moisés e Arão lançaram-se com as faces [por terra] diante de toda a congregação da assembléia dos filhos de Israel.
+
+[[v4-14-6]]
+
+^<<v4-14-6,6>>^ E Josué, filho de Num, e Calebe, filho de Jefuné, que eram dos que haviam espiado o país, rasgaram as suas vestes
+
+[[v4-14-7]]
+
+^<<v4-14-7,7>>^ e passaram a dizer o seguinte a toda a assembléia dos filhos de Israel: “A terra que percorremos para espiar é uma terra muitíssimo boa.
+
+[[v4-14-8]]
+
+^<<v4-14-8,8>>^ Se Jeová se agradou de nós, então nos levará certamente a esta terra e no-la dará, uma terra que mana leite e mel.
+
+[[v4-14-9]]
+
+^<<v4-14-9,9>>^ Somente não vos rebeleis contra Jeová; e vós, não temais o povo da terra, pois eles são para nós pão. Seu abrigo se retirou de cima deles e Jeová está conosco. Não os temais.”
+
+[[v4-14-10]]
+
+^<<v4-14-10,10>>^ No entanto, toda a assembléia falava em atirar pedras neles. E a glória de Jeová apareceu na tenda de reunião a todos os filhos de Israel.
+
+[[v4-14-11]]
+
+^<<v4-14-11,11>>^ Por fim, Jeová disse a Moisés: “Até quando me tratará este povo sem respeito e até quando não depositarão fé em mim, em vista de todos os sinais que realizei entre eles?
+
+[[v4-14-12]]
+
+^<<v4-14-12,12>>^ Deixa-me golpeá-los com pestilência e desalojá-los, e deixa-me fazer de ti uma nação maior e mais forte do que eles.”
+
+[[v4-14-13]]
+
+^<<v4-14-13,13>>^ Moisés, porém, disse a Jeová: “Então os egípcios forçosamente ouvirão que tu, pelo teu poder, fizeste este povo subir do meio deles.
+
+[[v4-14-14]]
+
+^<<v4-14-14,14>>^ E forçosamente o contarão aos habitantes desta terra. Ouviram que tu és Jeová no meio deste povo, tendo aparecido face a face.^&#42;1^ Tu és Jeová e a tua nuvem está posta por cima deles, e de dia vais na frente deles na coluna de nuvem, e de noite, na coluna de fogo.
+
+[NOTE]
+====
+. Lit.: “olho a olho”. Hebr.: ‛á·yin be‛á·yin.
+====
+
+[[v4-14-15]]
+
+^<<v4-14-15,15>>^ Se entregasses este povo à morte como se fosse um só homem, então as nações que ouviram [falar] da tua fama certamente diriam:
+
+[[v4-14-16]]
+
+^<<v4-14-16,16>>^ ‘Visto que Jeová não foi capaz de levar este povo à terra que lhes jurou, ele passou a matá-los no ermo.’
+
+[[v4-14-17]]
+
+^<<v4-14-17,17>>^ E agora, por favor, torne-se grande o teu poder,^&#42;1^ ó Jeová,^&#42;2^ assim como falaste, dizendo:
+
+[NOTE]
+====
+. “Teu poder”, LXXSy; M: “poder”.
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v4-14-18]]
+
+^<<v4-14-18,18>>^ ‘Jeová, vagaroso em irar-se e abundante em benevolência,^&#42;1^ perdoando erro e transgressão, mas ele de modo algum eximirá da punição, trazendo punição pelo erro dos pais sobre os filhos, sobre a terceira geração e sobre a quarta geração.’
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v4-14-19]]
+
+^<<v4-14-19,19>>^ Por favor, perdoa o erro deste povo segundo a grandeza da tua benevolência e assim como perdoaste a este povo desde o Egito até agora.”
+
+[[v4-14-20]]
+
+^<<v4-14-20,20>>^ Jeová disse então: “Deveras perdôo segundo a tua palavra.
+
+[[v4-14-21]]
+
+^<<v4-14-21,21>>^ E, por outro lado, assim como vivo, toda a terra se encherá da glória de Jeová.
+
+[[v4-14-22]]
+
+^<<v4-14-22,22>>^ Mas todos os homens que têm visto a minha glória e os meus sinais que realizei no Egito e no ermo, e que ainda assim persistiram em pôr-me à prova estas dez vezes e não escutaram a minha voz,
+
+[[v4-14-23]]
+
+^<<v4-14-23,23>>^ nunca verão^&#42;1^ a terra que jurei aos seus pais, sim, todos os que me tratam sem respeito não a verão.
+
+[NOTE]
+====
+. Lit.: “[juro] se é que verão”.
+====
+
+[[v4-14-24]]
+
+^<<v4-14-24,24>>^ Quanto a meu servo Calebe, porque se mostrou haver com ele um espírito diferente e ele persistiu em seguir-me integralmente, certamente o levarei à terra a que ele foi, e sua descendência tomará posse dela.
+
+[[v4-14-25]]
+
+^<<v4-14-25,25>>^ Sendo que os amalequitas e os cananeus moram na baixada, virai-vos amanhã e parti, a fim de marchar para o ermo pelo caminho do Mar Vermelho.”
+
+[[v4-14-26]]
+
+^<<v4-14-26,26>>^ E Jeová prosseguiu, falando a Moisés e a Arão, dizendo:
+
+[[v4-14-27]]
+
+^<<v4-14-27,27>>^ “Até quando fará esta assembléia má tais resmungos contra mim? Ouvi os resmungos dos filhos de Israel com que resmungam contra mim.
+
+[[v4-14-28]]
+
+^<<v4-14-28,28>>^ Dize-lhes: ‘“Assim como vivo”, é a pronunciação de Jeová, “se não vos farei exatamente assim como falastes aos meus ouvidos!
+
+[[v4-14-29]]
+
+^<<v4-14-29,29>>^ Neste ermo cairão os vossos cadáveres, sim, todos os vossos registrados de todo o vosso número, da idade de vinte anos para cima, vós os que resmungastes contra mim.
+
+[[v4-14-30]]
+
+^<<v4-14-30,30>>^ Quanto a vós, não entrareis na terra a respeito da qual ergui minha mão [em juramento] para residir convosco, com exceção de Calebe, filho de Jefuné, e Josué, filho de Num.
+
+[[v4-14-31]]
+
+^<<v4-14-31,31>>^ “‘“E vossos pequeninos, que dissestes ficariam por saque — a estes também hei de fazer entrar e hão de conhecer a terra que rejeitastes.
+
+[[v4-14-32]]
+
+^<<v4-14-32,32>>^ Mas os vossos próprios cadáveres cairão neste ermo.
+
+[[v4-14-33]]
+
+^<<v4-14-33,33>>^ E vossos filhos se tornarão pastores^&#42;1^ no ermo, por quarenta anos, e terão de responder pelos vossos atos de fornicação,^&#42;2^ até que os vossos cadáveres cheguem ao seu fim neste ermo.
+
+[NOTE]
+====
+. “Pastores”, M; lat.: vá·gi, “vagabundos; errantes”.
+. “Vossos atos de fornicação.” Hebr.: zenu·theh·khém; gr.: por·neí·an; lat.: for·ni·ca·ti·ó·nem. Veja Ap. 5A.
+====
+
+[[v4-14-34]]
+
+^<<v4-14-34,34>>^ Segundo o número dos dias em que espiastes o país, quarenta dias, um dia por um ano, um dia por um ano, respondereis pelos vossos erros por quarenta anos, pois tereis de saber o que significa eu estar alheado.
+
+[[v4-14-35]]
+
+^<<v4-14-35,35>>^ “‘“Eu, Jeová, falei, se não é isto o que farei a toda esta assembléia má, estes que se combinaram contra mim: Neste ermo chegarão ao seu fim e ali morrerão.
+
+[[v4-14-36]]
+
+^<<v4-14-36,36>>^ E os homens que Moisés enviou para espiar o país e que, quando voltaram, começaram a fazer toda a assembléia resmungar contra ele,^&#42;1^ dando um relato mau sobre o país,
+
+[NOTE]
+====
+. “Fizeram toda a multidão murmurar contra ele”, Vg.
+====
+
+[[v4-14-37]]
+
+^<<v4-14-37,37>>^ sim, os homens que deram o relato mau sobre o país morrerão pelo flagelo diante de Jeová.
+
+[[v4-14-38]]
+
+^<<v4-14-38,38>>^ Mas Josué, filho de Num, e Calebe, filho de Jefuné, é que continuarão a viver dentre esses homens que foram espiar o país.”’”
+
+[[v4-14-39]]
+
+^<<v4-14-39,39>>^ Quando Moisés passou a falar estas palavras a todos os filhos de Israel, então o povo começou a prantear muito.
+
+[[v4-14-40]]
+
+^<<v4-14-40,40>>^ Além disso, levantaram-se de manhã cedo e tentaram subir ao cume do monte, dizendo: “Eis-nos aqui, e temos de subir ao lugar que Jeová mencionou. Pois pecamos.”
+
+[[v4-14-41]]
+
+^<<v4-14-41,41>>^ Moisés, porém, disse: “Por que é que infringis a ordem de Jeová? Mas isso não será bem sucedido.
+
+[[v4-14-42]]
+
+^<<v4-14-42,42>>^ Não subais, porque Jeová não está no vosso meio, para que não sejais derrotados diante dos vossos inimigos.
+
+[[v4-14-43]]
+
+^<<v4-14-43,43>>^ Pois os amalequitas e os cananeus estão ali diante de vós; e haveis de cair pela espada, pois, por terdes recuado de seguir a Jeová, Jeová não continuará convosco.”
+
+[[v4-14-44]]
+
+^<<v4-14-44,44>>^ No entanto, subiram presunçosamente ao cume do monte, mas a arca do pacto de Jeová e Moisés não se afastaram do meio do acampamento.
+
+[[v4-14-45]]
+
+^<<v4-14-45,45>>^ Desceram então os amalequitas e os cananeus que moravam naquele monte e começaram a golpeá-los e foram desbaratá-los até Hormá.
+
+'''
+
+xref:004-numeros/004-numeros-013.adoc#v4-13-0[&#60; Capítulo Anterior] | <<v4-14-0,Topo>> | xref:004-numeros/004-numeros-015.adoc#v4-15-0[Próximo Capítulo &#62;]

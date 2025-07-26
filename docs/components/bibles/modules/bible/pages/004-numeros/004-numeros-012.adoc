@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v4-12-0]]
+=== Números, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-12-1]]
+
+^<<v4-12-1,1>>^ Miriã e Arão começaram então a falar contra Moisés por causa da esposa cusita^&#42;1^ que tomara, porque havia tomado uma esposa cusita.
+
+[NOTE]
+====
+. “Etíope”, LXXVg.
+====
+
+[[v4-12-2]]
+
+^<<v4-12-2,2>>^ E diziam: “É somente por meio de Moisés que Jeová falou? Não falou também por meio de nós?” E Jeová estava escutando.
+
+[[v4-12-3]]
+
+^<<v4-12-3,3>>^ E o homem Moisés era em muito o mais manso^&#42;1^ de todos os homens na superfície do solo.
+
+[NOTE]
+====
+. Ou “o de temperamento mais brando”.
+====
+
+[[v4-12-4]]
+
+^<<v4-12-4,4>>^ Jeová disse então repentinamente a Moisés, e a Arão e Miriã: “Saí, vós três, para a tenda de reunião.” De modo que os três saíram.
+
+[[v4-12-5]]
+
+^<<v4-12-5,5>>^ Depois, Jeová desceu na coluna de nuvem e ficou à entrada da tenda, e chamou Arão e Miriã. Em vista disso, ambos saíram.
+
+[[v4-12-6]]
+
+^<<v4-12-6,6>>^ E ele prosseguiu, dizendo: “Ouvi as minhas palavras, por favor. Se houvesse um profeta vosso para Jeová, seria numa visão que eu me daria a conhecer a ele. Falar-lhe-ia num sonho.
+
+[[v4-12-7]]
+
+^<<v4-12-7,7>>^ Não assim com meu servo Moisés! Ele está sendo incumbido de toda a minha casa.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Em toda a minha casa ele se está mostrando fiel.” LXX: “Em toda a minha casa ele é fiel”; Vg: “[Moisés,] que em toda a minha casa é muitíssimo fiel.” Veja He 3:5.
+====
+
+[[v4-12-8]]
+
+^<<v4-12-8,8>>^ Boca a boca falo com ele, mostrando-lhe assim, e não por enigmas; e a aparência de Jeová é o que ele contempla. Por que, pois, não temestes falar contra meu servo, contra Moisés?”
+
+[[v4-12-9]]
+
+^<<v4-12-9,9>>^ E a ira de Jeová se acendeu contra eles, e ele seguiu caminho.
+
+[[v4-12-10]]
+
+^<<v4-12-10,10>>^ E a nuvem retirou-se de cima da tenda, e eis que Miriã estava atacada de lepra branca como a neve. Arão virou-se então para Miriã, e eis que ela estava atacada de lepra.
+
+[[v4-12-11]]
+
+^<<v4-12-11,11>>^ Arão disse imediatamente a Moisés: “Perdão, meu senhor! Por favor, não nos atribuas o pecado em que agimos tolamente e que cometemos!
+
+[[v4-12-12]]
+
+^<<v4-12-12,12>>^ Por favor, não a deixes continuar como alguém morto, cuja carne já é metade consumida ao sair da madre de sua mãe!”^&#42;1^
+
+[NOTE]
+====
+. “Cuja carne . . . ao sair da madre de sua mãe.” Os soferins emendaram este texto para não refletir mal sobre Arão, o sumo sacerdote, sendo que o texto original rezava: “nossa carne” e “da madre de nossa mãe”. Esta é uma das Dezoito Emendas dos soferins. Veja Ap. 2B.
+====
+
+[[v4-12-13]]
+
+^<<v4-12-13,13>>^ E Moisés começou a clamar a Jeová, dizendo: “Ó Deus,^&#42;1^ por favor! Sara-a, por favor!”
+
+[NOTE]
+====
+. “Ó Deus”, M(hebr.: ’El)SamLXXSyVg; mas uma versão sugerida numa n. de BHK e de BHS é ’al, “Não”.
+====
+
+[[v4-12-14]]
+
+^<<v4-12-14,14>>^ Jeová disse então a Moisés: “Se o seu pai lhe cuspisse diretamente na face, não ficaria ela humilhada por sete dias? Seja posta de quarentena por sete dias fora do acampamento e seja depois recolhida.”
+
+[[v4-12-15]]
+
+^<<v4-12-15,15>>^ Concordemente, Miriã foi posta de quarentena por sete dias fora do acampamento e o povo não partiu até que Miriã foi recolhida.
+
+[[v4-12-16]]
+
+^<<v4-12-16,16>>^ E depois disso o povo partiu de Hazerote e foi acampar-se no ermo de Parã.
+
+'''
+
+xref:004-numeros/004-numeros-011.adoc#v4-11-0[&#60; Capítulo Anterior] | <<v4-12-0,Topo>> | xref:004-numeros/004-numeros-013.adoc#v4-13-0[Próximo Capítulo &#62;]

@@ -1,0 +1,187 @@
+include::./index.adoc[]
+
+[[v16-13-0]]
+=== Neemias, 13
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v16-13-1]]
+
+^<<v16-13-1,1>>^ Naquele dia houve uma leitura do livro de Moisés aos ouvidos do povo; e achava-se escrito nele que os amonitas e os moabitas não deviam entrar na congregação^&#42;1^ do [verdadeiro] Deus, por tempo indefinido,
+
+[NOTE]
+====
+. “Na congregação do.” Hebr.: biq·hál; gr.: ek·kle·sí·ai; lat.: ec·clé·si·am.
+====
+
+[[v16-13-2]]
+
+^<<v16-13-2,2>>^ pois não tinham ido ao encontro dos filhos de Israel com pão e com água, mas tinham contratado contra eles Balaão, para invocar sobre eles o mal. No entanto, nosso Deus transformou a invocação do mal numa bênção.
+
+[[v16-13-3]]
+
+^<<v16-13-3,3>>^ Portanto, sucedeu que, assim que ouviram a lei, começaram a separar de Israel toda a mistura de gente.
+
+[[v16-13-4]]
+
+^<<v16-13-4,4>>^ Ora, antes disso, Eliasibe, o sacerdote encarregado dum refeitório da casa de nosso Deus, era parente de Tobias;
+
+[[v16-13-5]]
+
+^<<v16-13-5,5>>^ e passara a fazer para ele um amplo refeitório onde antes se pusera regularmente a oferta de cereais, o olíbano e os utensílios, bem como o décimo^&#42;1^ dos cereais, do vinho novo e do azeite, que de direito cabe aos levitas, e aos cantores, e aos porteiros,^&#42;2^ bem como a contribuição para os sacerdotes.
+
+[NOTE]
+====
+. Ou “dízimo”.
+. Lit.: “do azeite, o mandamento dos levitas, e dos cantores, e dos porteiros”.
+====
+
+[[v16-13-6]]
+
+^<<v16-13-6,6>>^ E durante todo este [tempo] aconteceu que eu não estava em Jerusalém, pois no trigésimo segundo ano de Artaxerxes, rei de Babilônia,^&#42;1^ cheguei ao rei e algum tempo depois^&#42;2^ pedi licença ao rei.
+
+[NOTE]
+====
+. “Babilônia”, LXXVg; MSy: “Babel”.
+. Lit.: “e no fim de dias”.
+====
+
+[[v16-13-7]]
+
+^<<v16-13-7,7>>^ Cheguei então a Jerusalém e passei a observar a maldade praticada por Eliasibe em prol de Tobias, fazendo-lhe uma sala no pátio da casa do [verdadeiro] Deus.
+
+[[v16-13-8]]
+
+^<<v16-13-8,8>>^ E isso me pareceu muito mal. Por isso lancei toda a mobília da casa de Tobias para fora do refeitório.
+
+[[v16-13-9]]
+
+^<<v16-13-9,9>>^ Depois eu disse [a palavra] e eles purificaram os refeitórios; e passei a pôr de volta ali os utensílios da casa do [verdadeiro] Deus, com a oferta de cereais e o olíbano.
+
+[[v16-13-10]]
+
+^<<v16-13-10,10>>^ E fiquei sabendo que as próprias porções dos levitas não [lhes] tinham sido dadas, de modo que os levitas e os cantores que faziam a obra foram correr cada um para o seu próprio campo.
+
+[[v16-13-11]]
+
+^<<v16-13-11,11>>^ E comecei a ralhar com os delegados governantes e a dizer: “Por que se negligenciou a casa do [verdadeiro] Deus?” Portanto, reuni-os e coloquei-os nos seus postos.
+
+[[v16-13-12]]
+
+^<<v16-13-12,12>>^ E todo o Judá, da sua parte, trouxe o décimo dos cereais, e do vinho novo, e do azeite aos depósitos.
+
+[[v16-13-13]]
+
+^<<v16-13-13,13>>^ Então incumbi^&#42;1^ dos depósitos a Selemias, o sacerdote, e a Zadoque, o copista, e a Pedaías, dos levitas; e sob o controle deles estava Hanã, filho de Zacur, filho de Matanias, pois eram considerados fiéis; e cabia-lhes fazer a distribuição a seus irmãos.
+
+[NOTE]
+====
+. “Então incumbi”, LXXLSy.
+====
+
+[[v16-13-14]]
+
+^<<v16-13-14,14>>^ Lembra-te deveras de mim, ó meu Deus, quanto a isso, e não extingas os meus atos de benevolência^&#42;1^ que realizei em conexão com a casa de meu Deus e a guarda dela.
+
+[NOTE]
+====
+. Ou “atos de amor leal”.
+====
+
+[[v16-13-15]]
+
+^<<v16-13-15,15>>^ Naqueles dias vi em Judá gente pisando lagares de vinho no sábado e trazendo para dentro montes de cereais, e carregando jumentos [com eles] e também com vinho, uvas e figos, e com toda sorte de carga, e trazendo-os a Jerusalém no dia de sábado; e passei a testificar [contra eles] no dia em que vendiam provisões.
+
+[[v16-13-16]]
+
+^<<v16-13-16,16>>^ E os próprios tírios moravam na [cidade],^&#42;1^ trazendo peixe e toda sorte de mercadoria, e vendendo no sábado aos filhos de Judá e em Jerusalém.
+
+[NOTE]
+====
+. Lit.: “nela”, hebr. fem., referindo-se a Jerusalém.
+====
+
+[[v16-13-17]]
+
+^<<v16-13-17,17>>^ De modo que comecei a ralhar com os nobres de Judá e a dizer-lhes: “Que é esta coisa má que estais fazendo, profanando até mesmo o dia de sábado?
+
+[[v16-13-18]]
+
+^<<v16-13-18,18>>^ Não foi assim que fizeram os vossos antepassados, de modo que nosso Deus trouxe toda esta calamidade sobre nós e também sobre esta cidade? Contudo, acrescentais à ira ardente contra Israel, profanando o sábado.”
+
+[[v16-13-19]]
+
+^<<v16-13-19,19>>^ E aconteceu que, assim que os portões^&#42;1^ de Jerusalém tinham ficado sombrios antes do sábado, eu disse imediatamente [a palavra] e as portas começaram a ser fechadas. Eu disse mais que não as abrissem até depois do sábado; e coloquei alguns dos meus próprios ajudantes junto aos portões para que não entrasse nenhuma carga no dia de sábado.
+
+[NOTE]
+====
+. Neemias completa a evidência de que a cidade literal de Jerusalém tinha 12 portões, assim como a santa cidade celestial é descrita pelo apóstolo João como tendo 12 portões — três encarando cada uma das quatro direções — conforme registrado em Re 21:12, 13. Os 12 portões da Jerusalém terrestre são alistados em sentido contrário aos ponteiros do relógio, do ponto em que Neemias iniciou seu circuito de inspeção. SETOR MERIDIONAL: o Portão do Vale (2:13), o Portão dos Montes de Cinzas (2:13) e o Portão da Fonte (2:14); SETOR ORIENTAL: o Portão das Águas (3:26), o Portão dos Cavalos (3:28) e o Portão de Inspeção (3:31); SETOR SETENTRIONAL: o Portão da Guarda (12:39), o Portão das Ovelhas (3:32) e o Portão do Peixe (3:3); SETOR OCIDENTAL: o Portão da [Cidade] Antiga (3:6), o Portão de Efraim (12:39) e o Portão da Esquina (2Cr 25:23; Za 14:10).
+====
+
+[[v16-13-20]]
+
+^<<v16-13-20,20>>^ Por conseguinte, os negociantes e os vendedores de toda sorte de mercadoria pernoitaram fora de Jerusalém, uma vez e uma segunda vez.
+
+[[v16-13-21]]
+
+^<<v16-13-21,21>>^ Então passei a testificar contra eles e a dizer-lhes: “Por que estais pernoitando diante da muralha? Se o fizerdes de novo, deitarei mão em vós.” Daquele tempo em diante não vieram [mais] no sábado.
+
+[[v16-13-22]]
+
+^<<v16-13-22,22>>^ E prossegui, dizendo aos levitas que se purificassem regularmente e que entrassem, montando guarda nos portões para santificar^&#42;1^ o dia de sábado. Lembra-te também disso a meu favor, ó meu Deus, e tem dó de mim segundo a abundância da tua benevolência.
+
+[NOTE]
+====
+. “Para santificar (ter por sagrado; tratar como santo).” Hebr.: leqad·désh; gr.: Ha·gi·á·zein; lat.: sanc·ti·fi·cán·dum.
+====
+
+[[v16-13-23]]
+
+^<<v16-13-23,23>>^ Vi também naqueles dias os judeus que tinham dado morada a esposas asdoditas, amonitas [e] moabitas.
+
+[[v16-13-24]]
+
+^<<v16-13-24,24>>^ E quanto aos seus filhos, metade falava asdodita, e não havia nenhum deles que soubesse falar judaico, senão na língua dos diversos povos.
+
+[[v16-13-25]]
+
+^<<v16-13-25,25>>^ E comecei a ralhar com eles, e a invocar o mal sobre eles, e a golpear alguns homens deles, e a arrancar seu cabelo, e a fazê-los jurar por Deus: “Não deveis dar vossas filhas a seus filhos, e não deveis aceitar nenhumas das suas filhas para os vossos filhos ou para vós mesmos.
+
+[[v16-13-26]]
+
+^<<v16-13-26,26>>^ Não foi por causa destas que Salomão, rei de Israel, pecou? E entre as muitas nações mostrou-se não haver rei igual a ele; e veio a ser amado por seu Deus, de modo que Deus o constituiu rei sobre todo o Israel. Até mesmo a ele fizeram pecar as esposas estrangeiras.
+
+[[v16-13-27]]
+
+^<<v16-13-27,27>>^ E não é algo nunca ouvido, cometerdes toda esta grande maldade ao agirdes infielmente contra o nosso Deus, dando morada a esposas estrangeiras?”
+
+[[v16-13-28]]
+
+^<<v16-13-28,28>>^ E um dos filhos de Joiada, filho de Eliasibe, o sumo sacerdote, era genro de Sambalá, o horonita. De modo que o enxotei de mim.
+
+[[v16-13-29]]
+
+^<<v16-13-29,29>>^ Lembra-te deveras deles, ó meu Deus, por causa do aviltamento do sacerdócio, e do pacto^&#42;1^ do sacerdócio^&#42;2^ e dos levitas.
+
+[NOTE]
+====
+. “E do pacto do.” Hebr.: u·veríth; gr.: di·a·thé·kes.
+. “Sacerdócio”, M; LXXLSy e um ms. hebr.: “sacerdotes”.
+====
+
+[[v16-13-30]]
+
+^<<v16-13-30,30>>^ E purifiquei-os de tudo o que era estrangeiro e passei a designar deveres aos sacerdotes e aos levitas, cada um na sua própria obra,
+
+[[v16-13-31]]
+
+^<<v16-13-31,31>>^ até mesmo para o suprimento^&#42;1^ de lenha nos tempos marcados e para os primeiros frutos maduros.
+Lembra-te deveras de mim, ó meu Deus, para o bem.
+
+[NOTE]
+====
+. “Até mesmo para o suprimento [ou: a oferta] de.” Hebr.: u·lequr·bán. Veja “corbã” em Mr 7:11.
+====
+
+'''
+
+xref:016-neemias/016-neemias-012.adoc#v16-12-0[&#60; Capítulo Anterior] | <<v16-13-0,Topo>> | xref:017-ester/017-ester-001.adoc#v17-1-0[Próximo Capítulo &#62;]

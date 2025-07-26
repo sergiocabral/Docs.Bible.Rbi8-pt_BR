@@ -1,0 +1,186 @@
+include::./index.adoc[]
+
+[[v1-9-0]]
+=== Gênesis, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-9-1]]
+
+^<<v1-9-1,1>>^ E Deus prosseguiu abençoando Noé e seus filhos, e dizendo-lhes: “Sede fecundos e tornai-vos muitos, e enchei a terra.
+
+[[v1-9-2]]
+
+^<<v1-9-2,2>>^ E o medo de vós e o terror de vós continuará sobre toda criatura vivente da terra e sobre toda criatura voadora dos céus, sobre tudo o que se está movendo no solo, e sobre todos os peixes do mar. Na vossa mão estão agora entregues.
+
+[[v1-9-3]]
+
+^<<v1-9-3,3>>^ Todo animal movente que está vivo pode servir-vos de alimento. Como no caso da vegetação verde, deveras vos dou tudo.
+
+[[v1-9-4]]
+
+^<<v1-9-4,4>>^ Somente a carne com a sua alma^&#42;1^ — seu sangue — não deveis comer.
+
+[NOTE]
+====
+. Ou “vida”. Veja 1:30 n.
+====
+
+[[v1-9-5]]
+
+^<<v1-9-5,5>>^ E, além disso, exigirei de volta vosso sangue das vossas almas.^&#42;1^ Da mão de cada criatura vivente o exigirei de volta; e da mão do homem,^&#42;2^ da mão de cada um^&#42;3^ que é seu irmão exigirei de volta a alma^&#42;4^ do homem.
+
+[NOTE]
+====
+. Ou “vidas”.
+. Ou “humanidade”. Hebr.: ha·’a·dhám.
+. Lit.: “um homem”. Hebr.: ’ish.
+. Hebr.: né·fesh, como em 2:7; gr.: psy·khén.
+====
+
+[[v1-9-6]]
+
+^<<v1-9-6,6>>^ Quem derramar o sangue do homem, pelo homem será derramado o seu próprio sangue, pois à imagem de Deus fez ele o homem.
+
+[[v1-9-7]]
+
+^<<v1-9-7,7>>^ E quanto a vós, homens, sede fecundos e tornai-vos muitos, fazei a terra pulular de vós e tornai-vos muitos nela.”
+
+[[v1-9-8]]
+
+^<<v1-9-8,8>>^ E Deus prosseguiu, dizendo a Noé e aos seus filhos com ele:
+
+[[v1-9-9]]
+
+^<<v1-9-9,9>>^ “E quanto a mim, eis que estabeleço o meu pacto convosco e com a vossa descendência^&#42;1^ depois de vós,
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-9-10]]
+
+^<<v1-9-10,10>>^ e com toda alma vivente que está convosco, dentre as aves, dentre os animais e dentre todas as criaturas viventes da terra convosco, de todos os que saem da arca até toda criatura vivente da terra.
+
+[[v1-9-11]]
+
+^<<v1-9-11,11>>^ Sim, deveras estabeleço o meu pacto convosco: Não mais será toda a carne decepada pelas águas dum dilúvio e não mais virá a haver dilúvio para arruinar a terra.”
+
+[[v1-9-12]]
+
+^<<v1-9-12,12>>^ E Deus acrescentou: “Este é o sinal do pacto que dou entre mim e vós, e toda alma vivente que está convosco, para as gerações por tempo indefinido.
+
+[[v1-9-13]]
+
+^<<v1-9-13,13>>^ Dou deveras^&#42;1^ o meu arco-íris na nuvem, e ele terá de servir de sinal do pacto entre mim e a terra.
+
+[NOTE]
+====
+. Ou: “Certamente darei.”
+====
+
+[[v1-9-14]]
+
+^<<v1-9-14,14>>^ E acontecerá que, quando eu trouxer uma nuvem sobre a terra, então é que aparecerá o arco-íris na nuvem.
+
+[[v1-9-15]]
+
+^<<v1-9-15,15>>^ E hei de lembrar-me do meu pacto entre mim e vós, e toda alma vivente dentre toda a carne; e as águas não se tornarão mais um dilúvio para arruinar toda a carne.
+
+[[v1-9-16]]
+
+^<<v1-9-16,16>>^ E terá de vir a haver o arco-íris na nuvem, e eu certamente o verei para me lembrar do pacto por tempo indefinido entre Deus e toda alma vivente dentre toda a carne que há na terra.”
+
+[[v1-9-17]]
+
+^<<v1-9-17,17>>^ E Deus repetiu a Noé: “Este é o sinal do pacto que deveras estabeleço entre mim e toda a carne que há na terra.”
+
+[[v1-9-18]]
+
+^<<v1-9-18,18>>^ E os filhos de Noé que saíram da arca foram Sem, e Cã, e Jafé. Mais tarde, Cã foi o pai de Canaã.
+
+[[v1-9-19]]
+
+^<<v1-9-19,19>>^ Estes três foram os filhos de Noé e destes se dispersou toda a população^&#42;1^ da terra.
+
+[NOTE]
+====
+. Lit.: “toda a terra”.
+====
+
+[[v1-9-20]]
+
+^<<v1-9-20,20>>^ Então, Noé principiou como lavrador^&#42;1^ e passou a plantar um vinhedo.
+
+[NOTE]
+====
+. Lit.: “homem do solo”.
+====
+
+[[v1-9-21]]
+
+^<<v1-9-21,21>>^ E começou a beber do vinho e ficou embriagado, e deste modo se descobriu no meio da sua tenda.
+
+[[v1-9-22]]
+
+^<<v1-9-22,22>>^ Mais tarde, Cã, pai de Canaã, viu a nudez de seu pai e foi contá-lo aos seus dois irmãos lá fora.
+
+[[v1-9-23]]
+
+^<<v1-9-23,23>>^ Sem e Jafé tomaram então uma^&#42;1^ capa e a puseram sobre ambos os seus ombros, e entraram andando de costas. Assim cobriram a nudez de seu pai, com as faces viradas,^&#42;2^ e não viram a nudez de seu pai.
+
+[NOTE]
+====
+. Lit.: “a”.
+. Lit.: “estavam virados”.
+====
+
+[[v1-9-24]]
+
+^<<v1-9-24,24>>^ Por fim, Noé acordou do seu vinho e soube o que lhe havia feito seu filho mais moço.
+
+[[v1-9-25]]
+
+^<<v1-9-25,25>>^ Ele disse então:
+“Maldito seja Canaã.
+Torne-se ele o escravo mais baixo^&#42;1^ de seus irmãos.”
+
+[NOTE]
+====
+. Lit.: “o escravo de escravos”.
+====
+
+[[v1-9-26]]
+
+^<<v1-9-26,26>>^ E acrescentou:
+“Bendito seja Jeová,^&#42;1^ Deus de Sem,
+E torne-se Canaã escravo^&#42;2^ dele.
+
+[NOTE]
+====
+. Hebr.: Yeho·wáh. Veja 3:14 n.: “Jeová.”
+. Ou “servo”.
+====
+
+[[v1-9-27]]
+
+^<<v1-9-27,27>>^ Conceda Deus amplo espaço a Jafé,
+E resida^&#42;1^ ele nas tendas de Sem.
+Torne-se Canaã também escravo dele.”
+
+[NOTE]
+====
+. Ou “morar em tenda, tabernáculo”.
+====
+
+[[v1-9-28]]
+
+^<<v1-9-28,28>>^ E Noé continuou vivendo por trezentos e cinqüenta anos depois do dilúvio.
+
+[[v1-9-29]]
+
+^<<v1-9-29,29>>^ De modo que todos os dias de Noé somaram novecentos e cinqüenta anos, e morreu.
+
+'''
+
+xref:001-genesis/001-genesis-008.adoc#v1-8-0[&#60; Capítulo Anterior] | <<v1-9-0,Topo>> | xref:001-genesis/001-genesis-010.adoc#v1-10-0[Próximo Capítulo &#62;]

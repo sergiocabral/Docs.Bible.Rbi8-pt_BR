@@ -1,0 +1,138 @@
+include::./index.adoc[]
+
+[[v18-7-0]]
+=== Jó, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-7-1]]
+
+^<<v18-7-1,1>>^ “Não há trabalho compulsório para o homem mortal na terra,
+E não são os seus dias como os dias dum trabalhador contratado?
+
+[[v18-7-2]]
+
+^<<v18-7-2,2>>^ Como o escravo ele está suspirando pela sombra,
+E como o trabalhador contratado aguarda ele a sua remuneração.
+
+[[v18-7-3]]
+
+^<<v18-7-3,3>>^ Assim se fez que eu tivesse meses lunares fúteis,
+E proporcionaram-me noites de desgraça.
+
+[[v18-7-4]]
+
+^<<v18-7-4,4>>^ Ao deitar-me, eu disse também: ‘Quando me levantarei?’
+E [quando] a noitinha realmente completou a sua medida, eu também me fartei de desassossego até o crepúsculo matutino.
+
+[[v18-7-5]]
+
+^<<v18-7-5,5>>^ Minha carne ficou revestida de gusanos e de pó encrostado;
+Minha própria pele tem formado crostas e se dissolve.
+
+[[v18-7-6]]
+
+^<<v18-7-6,6>>^ Os meus próprios dias ficaram mais velozes do que a lançadeira do tecelão
+E se acabam sem esperança.
+
+[[v18-7-7]]
+
+^<<v18-7-7,7>>^ Lembra-te de que a minha vida é vento;
+Que meu olho não verá mais o que é bom.
+
+[[v18-7-8]]
+
+^<<v18-7-8,8>>^ O olho daquele que me vê não me avistará;
+Teus olhos estarão [fixos] em mim, mas eu não existirei.
+
+[[v18-7-9]]
+
+^<<v18-7-9,9>>^ A nuvem certamente acaba e vai embora;
+Assim não subirá aquele que desce ao Seol.
+
+[[v18-7-10]]
+
+^<<v18-7-10,10>>^ Não mais retornará à sua casa,
+E seu lugar não mais o reconhecerá.
+
+[[v18-7-11]]
+
+^<<v18-7-11,11>>^ Tampouco eu refrearei a minha boca.
+Vou falar na aflição do meu espírito;^&#42;1^
+Vou ocupar-me com a amargura da minha alma!
+
+[NOTE]
+====
+. “Meu espírito.” Hebr.: ru·hhí; lat.: spí·ri·tus.
+====
+
+[[v18-7-12]]
+
+^<<v18-7-12,12>>^ Sou eu algum mar ou um monstro marinho,
+Que ponhas uma guarda sobre mim?
+
+[[v18-7-13]]
+
+^<<v18-7-13,13>>^ Quando eu disse: ‘Meu divã me consolará,
+Minha cama ajudará a carregar a minha preocupação’,
+
+[[v18-7-14]]
+
+^<<v18-7-14,14>>^ Tu até mesmo me aterrorizaste com sonhos,
+E por meio de visões me assustas,
+
+[[v18-7-15]]
+
+^<<v18-7-15,15>>^ De modo que a minha alma escolhe a sufocação,
+A morte em vez de meus ossos.
+
+[[v18-7-16]]
+
+^<<v18-7-16,16>>^ Eu rejeitei [isso]; não viveria por tempo indefinido.
+Deixa-me, porque os meus dias são uma exalação.
+
+[[v18-7-17]]
+
+^<<v18-7-17,17>>^ Que é o homem mortal, que o faças crescer,^&#42;1^
+E que fixes nele teu coração,
+
+[NOTE]
+====
+. Ou “faças muito [caso] dele”.
+====
+
+[[v18-7-18]]
+
+^<<v18-7-18,18>>^ E cada manhã voltes a atenção para ele,
+Para o provares a cada instante?
+
+[[v18-7-19]]
+
+^<<v18-7-19,19>>^ Por que não deixas de atentar em mim,
+Nem me deixas sozinho até eu engolir a minha saliva?^&#42;1^
+
+[NOTE]
+====
+. Isto é, não estar nem por um instantinho sozinho. Veja Núm 4:20 n.
+====
+
+[[v18-7-20]]
+
+^<<v18-7-20,20>>^ Se pequei, que posso conseguir contra ti, o Observador da humanidade?^&#42;1^
+Por que me tomaste por teu alvo, para que eu me tornasse uma carga para ti?^&#42;2^
+
+[NOTE]
+====
+. “Humanidade.” Hebr.: ha·’a·dhám.
+. “Ti”, LXX e o texto original hebr.; M: “mim”. Esta é uma das Dezoito Emendas feitas pelos soferins judaicos. Veja Ap. 2B.
+====
+
+[[v18-7-21]]
+
+^<<v18-7-21,21>>^ E por que não me perdoas a transgressão
+E passas por alto o meu erro?
+Pois agora me deitarei no pó;
+E certamente estarás à minha procura, mas não existirei.”
+
+'''
+
+xref:018-jo/018-jo-006.adoc#v18-6-0[&#60; Capítulo Anterior] | <<v18-7-0,Topo>> | xref:018-jo/018-jo-008.adoc#v18-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v23-61-0]]
+=== Isaías, 61
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-61-1]]
+
+^<<v23-61-1,1>>^ O espírito do Soberano Senhor Jeová está sobre mim, visto que Jeová me ungiu para anunciar boas novas aos mansos. Enviou-me para pensar os quebrantados de coração, para proclamar liberdade^&#42;1^ aos que foram levados cativos e ampla abertura [dos olhos] aos próprios presos;
+
+[NOTE]
+====
+. Ou “alforria; manumissão [de escravos]”.
+====
+
+[[v23-61-2]]
+
+^<<v23-61-2,2>>^ para proclamar o ano de boa vontade da parte de Jeová e o dia de vingança da parte de nosso Deus;^&#42;1^ para consolar a todos os que pranteiam;
+
+[NOTE]
+====
+. “Da parte de nosso Deus.” Hebr.: lE’·lo·héh·nu.
+====
+
+[[v23-61-3]]
+
+^<<v23-61-3,3>>^ para designar aos que pranteiam por Sião, para dar-lhes uma cobertura para a cabeça em lugar de cinzas, o óleo de exultação em vez de luto, o manto de louvor em vez de um espírito desanimado; e terão de ser chamados de grandes árvores de justiça, plantação de Jeová, para [ele] ser embelezado.
+
+[[v23-61-4]]
+
+^<<v23-61-4,4>>^ E eles terão de reconstruir os lugares há muito devastados; erigirão até mesmo os lugares desolados de outrora e certamente renovarão as cidades devastadas, os lugares desolados de geração em geração.
+
+[[v23-61-5]]
+
+^<<v23-61-5,5>>^ “E estranhos estarão realmente de pé e pastorearão os vossos rebanhos, e estrangeiros^&#42;1^ serão os vossos lavradores e os vossos vinhateiros.
+
+[NOTE]
+====
+. Lit.: “filhos dum (país) estrangeiro”.
+====
+
+[[v23-61-6]]
+
+^<<v23-61-6,6>>^ E quanto a vós, sereis chamados de sacerdotes de Jeová; dir-se-á que sois ministros^&#42;1^ de nosso Deus.^&#42;2^ Comereis os recursos das nações e na glória delas falareis exultantemente de vós mesmos.
+
+[NOTE]
+====
+. “Ministros de.” Hebr.: meshor·théh; gr.: lei·tour·goí; lat.: mi·ní·stri.
+. “Nosso Deus.” Hebr.: ’Elo·héh·nu.
+====
+
+[[v23-61-7]]
+
+^<<v23-61-7,7>>^ Em vez de vossa vergonha haverá uma porção dupla, e em vez de humilhação gritarão de júbilo por causa de seu quinhão. Portanto, na terra deles tomarão posse mesmo de uma porção dupla. A alegria tornar-se-á sua por tempo indefinido.
+
+[[v23-61-8]]
+
+^<<v23-61-8,8>>^ Pois eu, Jeová, amo a justiça, odiando o roubo junto com a injustiça.^&#42;1^ E vou dar-lhes o seu salário em veracidade e concluirei para com eles um pacto de duração indefinida.
+
+[NOTE]
+====
+. “Junto com a injustiça”, mediante uma ligeira mudança dos sinais vocálicos do M, em harmonia com LXX e cinco mss. hebr.; Sy: “e a injustiça”; MVg: “em holocausto”.
+====
+
+[[v23-61-9]]
+
+^<<v23-61-9,9>>^ E sua descendência^&#42;1^ há de ser conhecida mesmo entre as nações, e seus descendentes, entre os povos. Todos os que os virem os reconhecerão, que são a descendência que Jeová tem abençoado.”
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v23-61-10]]
+
+^<<v23-61-10,10>>^ Sem falta, exultarei em Jeová. Minha alma jubilará em meu Deus. Pois ele me trajou das vestes de salvação; envolveu-me na túnica sem mangas da justiça, igual ao noivo que, à maneira sacerdotal, põe uma cobertura para a cabeça, e igual à noiva que se atavia com os seus adornos.
+
+[[v23-61-11]]
+
+^<<v23-61-11,11>>^ Pois assim como a própria terra produz o seu renovo e assim como o próprio jardim faz as coisas semeadas nele brotar, assim o Soberano Senhor Jeová^&#42;1^ fará brotar a justiça e o louvor na frente de todas as nações.
+
+[NOTE]
+====
+. “O Soberano Senhor Jeová.” Hebr.: ’Adho·naí Yehwíh; 1QIsaTSyVg: “Jeová Deus”; LXX: “Jeová”. Veja Ap. 1E.
+====
+
+'''
+
+xref:023-isaias/023-isaias-060.adoc#v23-60-0[&#60; Capítulo Anterior] | <<v23-61-0,Topo>> | xref:023-isaias/023-isaias-062.adoc#v23-62-0[Próximo Capítulo &#62;]

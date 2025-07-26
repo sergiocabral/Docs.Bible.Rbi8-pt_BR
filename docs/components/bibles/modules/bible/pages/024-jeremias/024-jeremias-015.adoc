@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v24-15-0]]
+=== Jeremias, 15
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-15-1]]
+
+^<<v24-15-1,1>>^ E Jeová passou a dizer-me: “Se Moisés e Samuel estivessem de pé diante de mim, minha alma não seria para com este povo. Seriam mandados embora de diante da minha face para que saíssem.
+
+[[v24-15-2]]
+
+^<<v24-15-2,2>>^ E terá de se dar que, caso te digam: ‘Para onde sairemos?’, então terás de dizer-lhes: ‘Assim disse Jeová: “Quem for para a praga mortífera, para a praga mortífera! E quem for para a espada, para a espada! E quem for para a fome, para a fome! E quem for para o cativeiro, para o cativeiro!”’
+
+[[v24-15-3]]
+
+^<<v24-15-3,3>>^ “‘E eu vou comissionar sobre eles quatro famílias’, é a pronunciação de Jeová, ‘a espada para matar, e os cães para arrastar, e as criaturas voadoras dos céus e os animais da terra para comer e para arruinar.
+
+[[v24-15-4]]
+
+^<<v24-15-4,4>>^ E vou dá-los para tremor a todos os reinos da terra, por causa de Manassés, filho de Ezequias,^&#42;1^ rei de Judá, pelo que ele fez em Jerusalém.
+
+[NOTE]
+====
+. Veja Is 1:1 n.: “Ezequias”.
+====
+
+[[v24-15-5]]
+
+^<<v24-15-5,5>>^ Pois, quem terá compaixão de ti, ó Jerusalém, e quem se compadecerá de ti, e quem se desviará para perguntar pelo teu bem-estar?’
+
+[[v24-15-6]]
+
+^<<v24-15-6,6>>^ “‘És tu que me abandonaste’, é a pronunciação de Jeová. ‘É para trás que estás andando. E eu estenderei contra ti a minha mão e te arruinarei. Fatiguei-me de sentir lástima.
+
+[[v24-15-7]]
+
+^<<v24-15-7,7>>^ E eu os joeirarei com um forcado nos portões do país. Certamente [os] privarei de filhos. Vou destruir meu povo, [visto que] não recuaram de seus próprios caminhos.
+
+[[v24-15-8]]
+
+^<<v24-15-8,8>>^ Para mim, as suas^&#42;1^ viúvas tornaram-se mais numerosas do que os grãos de areia dos mares. Vou trazer-lhes o assolador, sobre a mãe, sobre o jovem, ao meio-dia. Vou fazer cair sobre eles^&#42;2^ repentinamente excitação e perturbações.
+
+[NOTE]
+====
+. “Suas (deles)”, TLXXSy; MVg: “suas (dele)”.
+. “Eles”, TSy; M: “ela”; Vg: “cidades”.
+====
+
+[[v24-15-9]]
+
+^<<v24-15-9,9>>^ A mulher que deu à luz sete [filhos] definhou; sua alma lutou por fôlego. Seu sol se pôs enquanto ainda era dia; ficou envergonhado e encabulado.’ ‘E entregarei o mero restante deles à espada perante seus inimigos’, é a pronunciação de Jeová.”
+
+[[v24-15-10]]
+
+^<<v24-15-10,10>>^ Ai de mim, ó minha mãe, porque me deste à luz, homem sujeito à altercação e homem sujeito à contenda com toda a terra. Eu não dei empréstimo e eles não me deram empréstimo. Todos eles^&#42;1^ invocam o mal sobre mim.
+
+[NOTE]
+====
+. “Eles”, mediante uma correção no M.
+====
+
+[[v24-15-11]]
+
+^<<v24-15-11,11>>^ Jeová disse: “Seguramente vou ministrar a ti para bem. Seguramente vou interceder por ti no tempo da calamidade e no tempo da aflição, contra o inimigo.
+
+[[v24-15-12]]
+
+^<<v24-15-12,12>>^ Pode-se quebrantar ferro, ferro procedente do norte, e cobre?
+
+[[v24-15-13]]
+
+^<<v24-15-13,13>>^ Entregarei teus recursos e teus tesouros ao mero saque, não por um preço, mas por todos os teus pecados, sim, em todos os teus territórios.
+
+[[v24-15-14]]
+
+^<<v24-15-14,14>>^ E eu vou fazê-los passar com os teus inimigos a uma terra que não conheceste. Pois, acendeu-se até mesmo um fogo na minha ira. Contra vós é que foi aceso.”
+
+[[v24-15-15]]
+
+^<<v24-15-15,15>>^ Tu mesmo [o] soubeste. Ó Jeová, lembra-te de mim e volta tua atenção para mim, e vinga-me dos meus perseguidores. Na tua vagarosidade em irar-te, não me tires. Nota como suporto vitupério por tua própria causa.
+
+[[v24-15-16]]
+
+^<<v24-15-16,16>>^ Acharam-se as tuas palavras e eu passei a comê-las; e tua palavra torna-se para mim a exultação e a alegria do meu coração; pois o teu nome foi invocado sobre mim, ó Jeová, Deus dos exércitos.
+
+[[v24-15-17]]
+
+^<<v24-15-17,17>>^ Não me sentei no [meio do] grupo íntimo dos que fazem pilhérias, nem comecei a rejubilar. Por causa da tua mão, sentei-me inteiramente à parte, pois me encheste de verberação.
+
+[[v24-15-18]]
+
+^<<v24-15-18,18>>^ Por que se tornou crônica a minha dor e incurável o meu golpe? Negou-se a sarar. Decididamente, tu te tornas para mim como algo enganoso, como águas que não mostraram ser de confiança.
+
+[[v24-15-19]]
+
+^<<v24-15-19,19>>^ Portanto, assim disse Jeová: “Se voltares, então te trarei de volta. Estarás de pé diante de mim. E se produzires de coisas sem valor aquilo que é precioso, tornar-te-ás como a minha própria boca. Eles é que voltarão a ti, mas tu mesmo não voltarás a eles.”
+
+[[v24-15-20]]
+
+^<<v24-15-20,20>>^ “E eu fiz de ti para este povo uma muralha fortificada de cobre; e hão de lutar contra ti, mas não prevalecerão contra ti. Porque estou contigo para te salvar e para te livrar”, é a pronunciação de Jeová.
+
+[[v24-15-21]]
+
+^<<v24-15-21,21>>^ “E vou livrar-te da mão dos maus e vou remir-te da palma da mão dos tirânicos.”
+
+'''
+
+xref:024-jeremias/024-jeremias-014.adoc#v24-14-0[&#60; Capítulo Anterior] | <<v24-15-0,Topo>> | xref:024-jeremias/024-jeremias-016.adoc#v24-16-0[Próximo Capítulo &#62;]

@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v28-9-0]]
+=== Oseias, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v28-9-1]]
+
+^<<v28-9-1,1>>^ “Não te alegres, ó Israel. Não jubiles como os povos. Pois pela fornicação te afastaste de teu Deus. Amaste os presentes da paga em todas as eiras de cereais.
+
+[[v28-9-2]]
+
+^<<v28-9-2,2>>^ A eira e o lagar não os alimentam, e o próprio vinho doce se mostra desapontador para ela.
+
+[[v28-9-3]]
+
+^<<v28-9-3,3>>^ Não continuarão a morar na terra de Jeová, e Efraim terá de voltar ao Egito, e na Assíria comerão o que é impuro.
+
+[[v28-9-4]]
+
+^<<v28-9-4,4>>^ Não continuarão a derramar vinho para Jeová. E seus sacrifícios não lhe darão satisfação; são para eles como o pão dos tempos de luto; todos os que o comerem se aviltarão. Porque o seu pão é para a sua própria alma;^&#42;1^ não entrará na casa de Jeová.
+
+[NOTE]
+====
+. Ou “para a sua própria pessoa”. Hebr.: lenaf·shám; gr.: tais psy·khaís au·tón; lat.: á·ni·mae i·psó·rum. Veja Ap. 4A.
+====
+
+[[v28-9-5]]
+
+^<<v28-9-5,5>>^ Que fareis vós no dia da reunião e no dia da festividade de Jeová?
+
+[[v28-9-6]]
+
+^<<v28-9-6,6>>^ Pois, eis que terão de ir por causa da assolação. O próprio Egito os reunirá; Mênfis,^&#42;1^ da sua parte, os sepultará. Quanto às suas coisas desejáveis de prata, apossar-se-ão delas as próprias urtigas; haverá moitas espinhosas nas suas tendas.
+
+[NOTE]
+====
+. “Mênfis.” Gr. e lat.: Mém·fis; hebr.: Mof; T(aram.): leMa·féhs; sir.: u·Ma·fes.
+====
+
+[[v28-9-7]]
+
+^<<v28-9-7,7>>^ “Terão de vir os dias de se receber atenção; terão de vir os dias da devida retribuição. Os de Israel [o] saberão. O profeta será tolo, o homem da expressão inspirada^&#42;1^ ficará enlouquecido por causa da abundância do teu erro, sendo abundante até mesmo a hostilidade.”
+
+[NOTE]
+====
+. Ou “homem de inspiração”. Lit.: “homem do espírito”. Hebr.: ’ish ha·rú·ahh; gr.: án·thro·pos ho pneu·ma·to·fó·ros, “homem portador de espírito; homem inspirado”; Vgc(lat.): ví·rum spi·ri·tu·á·lem.
+====
+
+[[v28-9-8]]
+
+^<<v28-9-8,8>>^ O vigia de Efraim estava com o meu Deus.^&#42;1^ Quanto ao profeta, há uma armadilha de passarinheiro em todos os seus caminhos; há hostilidade na casa de seu Deus.
+
+[NOTE]
+====
+. “Meu Deus.” Hebr.: ’Elo·haí.
+====
+
+[[v28-9-9]]
+
+^<<v28-9-9,9>>^ Aprofundaram-se em trazer a ruína,^&#42;1^ como nos dias de Gibeá. Ele se lembrará de seu erro; voltará a atenção para os seus pecados.
+
+[NOTE]
+====
+. Lit.: “Aprofundaram, arruinaram”, M; possivelmente, mediante uma correção: “Fizeram funda a cova dele.”
+====
+
+[[v28-9-10]]
+
+^<<v28-9-10,10>>^ “Achei Israel como uvas no ermo. Como o figo temporão numa figueira no seu princípio vi os vossos antepassados. Eles mesmos entraram até Baal de Peor^&#42;1^ e passaram a dedicar-se à^&#42;2^ coisa vergonhosa, e tornaram-se repugnantes como [a coisa de] seu amor.
+
+[NOTE]
+====
+. Ou “Baal-Peor”.
+. Ou “a recolher-se à; a manter-se separados para a”.
+====
+
+[[v28-9-11]]
+
+^<<v28-9-11,11>>^ Quanto a Efraim, sua glória voa embora como a criatura voadora, de modo que não se dá à luz, e não há ventre [grávido] e não há concepção.
+
+[[v28-9-12]]
+
+^<<v28-9-12,12>>^ Pois, embora criem seus filhos, vou também privá-los de filhos para que não haja homem; pois — ai também deles quando eu me desviar deles!
+
+[[v28-9-13]]
+
+^<<v28-9-13,13>>^ Efraim, a quem vi plantado numa pastagem, semelhante a Tiro, sim, Efraim está destinado a se levarem seus filhos para fora ao matador.”
+
+[[v28-9-14]]
+
+^<<v28-9-14,14>>^ Dá-lhes, ó Jeová, o que deves dar. Dá-lhes uma madre que sofre aborto e peitos murchos.
+
+[[v28-9-15]]
+
+^<<v28-9-15,15>>^ “Toda a sua maldade estava em Gilgal, pois ali tive de odiá-los. Por causa da ruindade das suas ações expulsá-los-ei da minha própria casa. Não vou continuar a amá-los. Todos os seus príncipes estão agindo com obstinação.
+
+[[v28-9-16]]
+
+^<<v28-9-16,16>>^ Efraim terá de ser golpeado. Sua própria raiz terá de secar-se. Não haverá fruto produzido por eles. Também, caso derem à luz, vou até mesmo entregar à morte as coisas desejáveis de seu ventre.”
+
+[[v28-9-17]]
+
+^<<v28-9-17,17>>^ Meu Deus^&#42;1^ os rejeitará por não o terem escutado, e tornar-se-ão fugitivos entre as nações.
+
+[NOTE]
+====
+. “Meu Deus.” Hebr.: ’Elo·haí.
+====
+
+'''
+
+xref:028-oseias/028-oseias-008.adoc#v28-8-0[&#60; Capítulo Anterior] | <<v28-9-0,Topo>> | xref:028-oseias/028-oseias-010.adoc#v28-10-0[Próximo Capítulo &#62;]

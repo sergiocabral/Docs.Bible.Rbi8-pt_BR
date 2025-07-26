@@ -1,0 +1,271 @@
+include::./index.adoc[]
+
+[[v18-34-0]]
+=== Jó, 34
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-34-1]]
+
+^<<v18-34-1,1>>^ E Eliú continuou a responder e a dizer:
+
+[[v18-34-2]]
+
+^<<v18-34-2,2>>^ “Escutai, vós sábios, as minhas palavras;
+E vós sabedores, dai-me ouvidos.
+
+[[v18-34-3]]
+
+^<<v18-34-3,3>>^ Pois o próprio ouvido prova as palavras
+Assim como o paladar saboreia quando se come.
+
+[[v18-34-4]]
+
+^<<v18-34-4,4>>^ Escolhemos para nós o julgamento;
+Saibamos entre nós mesmos o que é bom.
+
+[[v18-34-5]]
+
+^<<v18-34-5,5>>^ Porque Jó disse: ‘Eu certamente tenho razão,
+Mas o próprio Deus^&#42;1^ é que desviou meu julgamento.
+
+[NOTE]
+====
+. “Mas . . . Deus.” Hebr.: we’Él.
+====
+
+[[v18-34-6]]
+
+^<<v18-34-6,6>>^ Acaso digo mentiras contra o meu próprio julgamento?
+Meu ferimento sério é incurável, embora não haja transgressão.’
+
+[[v18-34-7]]
+
+^<<v18-34-7,7>>^ Que varão vigoroso^&#42;1^ é como Jó,
+[Que] ingere a caçoada como água?
+
+[NOTE]
+====
+. “Varão vigoroso.” Hebr.: ghé·ver.
+====
+
+[[v18-34-8]]
+
+^<<v18-34-8,8>>^ E ele certamente está a caminho do companheirismo com os que praticam o que é prejudicial
+E de andar com homens de iniqüidade.
+
+[[v18-34-9]]
+
+^<<v18-34-9,9>>^ Pois ele disse: ‘De nada aproveita ao varão vigoroso
+Ter prazer em Deus.’^&#42;1^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím; LXX: “Jeová”.
+====
+
+[[v18-34-10]]
+
+^<<v18-34-10,10>>^ Portanto, vós homens de coração, escutai-me.
+Longe está do [verdadeiro] Deus^&#42;1^ agir ele iniquamente,
+E do Todo-poderoso agir injustamente!
+
+[NOTE]
+====
+. “Do [verdadeiro] Deus.” Hebr.: la·’Él; LXX: “Jeová”. Veja Ap. 1G.
+====
+
+[[v18-34-11]]
+
+^<<v18-34-11,11>>^ Pois [é segundo] a atuação do homem terreno^&#42;1^ que ele o recompensará,
+E segundo a vereda do homem^&#42;2^ que o fará vir sobre ele.
+
+[NOTE]
+====
+. “Homem terreno.” Hebr.: ’a·dhám.
+. “Homem.” Hebr.: ’ish.
+====
+
+[[v18-34-12]]
+
+^<<v18-34-12,12>>^ Sim, de fato, o próprio Deus^&#42;1^ não age iniquamente,
+E o próprio Todo-poderoso não perverte o juízo.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El; LXX: “Jeová”.
+====
+
+[[v18-34-13]]
+
+^<<v18-34-13,13>>^ Quem o encarregou da terra
+E quem [lhe] designou o solo produtivo,^&#42;1^ sim, todo ele?
+
+[NOTE]
+====
+. “Solo produtivo.” Hebr.: te·vél; lat.: ór·bem, “círculo”, isto é, da terra.
+====
+
+[[v18-34-14]]
+
+^<<v18-34-14,14>>^ Se ele fixar seu coração em alguém,
+[Se] ajuntar a si o espírito e o fôlego do tal,
+
+[[v18-34-15]]
+
+^<<v18-34-15,15>>^ Toda a carne expirará juntamente,
+E o próprio homem terreno^&#42;1^ retornará mesmo ao pó.
+
+[NOTE]
+====
+. “E o . . . homem terreno.” Hebr.: we’a·dhám.
+====
+
+[[v18-34-16]]
+
+^<<v18-34-16,16>>^ Portanto, se [tiveres] compreensão, escuta deveras isto;
+Dá ouvidos ao som das minhas palavras.
+
+[[v18-34-17]]
+
+^<<v18-34-17,17>>^ Realmente, exercerá controle aquele que odeia a justiça,
+E se alguém forte for justo, acaso [o] pronunciarás iníquo?
+
+[[v18-34-18]]
+
+^<<v18-34-18,18>>^ Dir-se-á^&#42;1^ ao rei: ‘Não prestas para nada’?^&#42;2^
+Aos nobres: ‘Sois iníquos’?
+
+[NOTE]
+====
+. “Dir-se-á.” No hebr., este verbo está no infinitivo construto, indefinido quanto ao tempo e impessoal.
+. Lit.: “rei: ‘Belial!’?”
+====
+
+[[v18-34-19]]
+
+^<<v18-34-19,19>>^ [Há Um] que não tem mostrado parcialidade para com príncipes
+E não tem dado mais consideração ao nobre do que ao de condição humilde,
+Porque todos eles são trabalho das suas mãos.
+
+[[v18-34-20]]
+
+^<<v18-34-20,20>>^ Morrem num instante, sim, no meio da noite;
+O povo sacode-se e falece,
+E os possantes somem sem mão alguma.
+
+[[v18-34-21]]
+
+^<<v18-34-21,21>>^ Pois os seus olhos estão sobre os caminhos do homem^&#42;1^
+E ele vê todos os seus passos.
+
+[NOTE]
+====
+. Ou “de cada um”. Hebr.: ’ish, como no v. 23.
+====
+
+[[v18-34-22]]
+
+^<<v18-34-22,22>>^ Não há escuridão nem sombra tenebrosa
+Para nelas se esconderem os que praticam o que é prejudicial.
+
+[[v18-34-23]]
+
+^<<v18-34-23,23>>^ Porque ele não fixa um tempo designado para o homem
+Ir a Deus^&#42;1^ em julgamento.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v18-34-24]]
+
+^<<v18-34-24,24>>^ Quebranta os fortes sem investigação
+E faz outros ficar de pé em lugar deles.
+
+[[v18-34-25]]
+
+^<<v18-34-25,25>>^ Por isso reconhece como são as obras deles,
+E ele deveras [os] subverte de noite, e ficam esmigalhados.
+
+[[v18-34-26]]
+
+^<<v18-34-26,26>>^ Sendo eles iníquos, bate neles
+No lugar dos espectadores;
+
+[[v18-34-27]]
+
+^<<v18-34-27,27>>^ Visto que se desviaram de segui-lo
+E não consideraram nenhum dos seus caminhos,
+
+[[v18-34-28]]
+
+^<<v18-34-28,28>>^ De modo a fazer chegar a ele o clamor do de condição humilde;
+E por isso ele ouve o clamor dos atribulados.
+
+[[v18-34-29]]
+
+^<<v18-34-29,29>>^ Quando ele mesmo faz que haja sossego, então, quem pode condenar?
+E quando ele esconde a face, quem o pode avistar,
+Sendo a mesma coisa quer para com uma nação quer para com um homem?^&#42;1^
+
+[NOTE]
+====
+. Ou “um homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v18-34-30]]
+
+^<<v18-34-30,30>>^ Para que não reine um homem apóstata,
+Nem haja laços do povo.
+
+[[v18-34-31]]
+
+^<<v18-34-31,31>>^ Pois, dirá alguém realmente ao próprio Deus:
+‘Suportei [isso], embora não agisse de modo corrupto;
+
+[[v18-34-32]]
+
+^<<v18-34-32,32>>^ Embora eu não observe nada, instrui-me tu mesmo;
+Se cometi qualquer injustiça,
+Não [a] farei de novo’?
+
+[[v18-34-33]]
+
+^<<v18-34-33,33>>^ Acaso fará compensação por ela, do teu ponto de vista, por deveras recusares [o julgamento],
+Por tu mesmo escolheres, e não eu?
+Fala, sim, aquilo que tu bem sabes.
+
+[[v18-34-34]]
+
+^<<v18-34-34,34>>^ Os próprios homens de coração me dirão —
+Sim, um varão vigoroso, sábio, que me escuta:
+
+[[v18-34-35]]
+
+^<<v18-34-35,35>>^ ‘O próprio Jó fala sem conhecimento
+E suas palavras são sem [ele] ter perspicácia.’
+
+[[v18-34-36]]
+
+^<<v18-34-36,36>>^ Meu pai, seja Jó provado^&#42;1^ até o limite
+Pelas suas réplicas entre homens prejudiciais.
+
+[NOTE]
+====
+. Ou: “Oh! que Jó seja provado.”
+====
+
+[[v18-34-37]]
+
+^<<v18-34-37,37>>^ Pois acrescenta ao seu pecado a revolta;
+Bate [palmas] entre nós e multiplica as suas declarações contra o [verdadeiro] Deus!”^&#42;1^
+
+[NOTE]
+====
+. “Contra o [verdadeiro] Deus.” Hebr.: la·’Él. Veja Ap. 1G.
+====
+
+'''
+
+xref:018-jo/018-jo-033.adoc#v18-33-0[&#60; Capítulo Anterior] | <<v18-34-0,Topo>> | xref:018-jo/018-jo-035.adoc#v18-35-0[Próximo Capítulo &#62;]

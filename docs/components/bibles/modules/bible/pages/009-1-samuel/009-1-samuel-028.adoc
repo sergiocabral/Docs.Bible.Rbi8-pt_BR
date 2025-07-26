@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v9-28-0]]
+=== 1 Samuel, 28
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-28-1]]
+
+^<<v9-28-1,1>>^ E naqueles dias sucedeu que os filisteus começaram a reunir seus acampamentos num exército para travar guerra contra Israel. Por isso Aquis disse a Davi: “Sem dúvida sabes que é comigo que deves sair ao acampamento, tu e os teus homens.”
+
+[[v9-28-2]]
+
+^<<v9-28-2,2>>^ Então Davi disse a Aquis: “É por isso que tu mesmo^&#42;1^ sabes o que o teu servo deve fazer.” Por conseguinte, Aquis disse a Davi: “É por isso que te designo guardião da minha cabeça para sempre.”
+
+[NOTE]
+====
+. “Tu mesmo”, MSy; LXXVg: “agora”.
+====
+
+[[v9-28-3]]
+
+^<<v9-28-3,3>>^ Ora, o próprio Samuel havia morrido, e todo o Israel passara a lamentá-lo e a enterrá-lo em Ramá, sua própria cidade. Quanto a Saul, tinha removido do país os médiuns espíritas^&#42;1^ e os prognosticadores profissionais de eventos.
+
+[NOTE]
+====
+. “Médiuns espíritas.” Agentes humanos usados por um demônio de adivinhação. LXX: “ventríloquos”; lat.: má·gos, “astrólogos”. Veja At 16:16.
+====
+
+[[v9-28-4]]
+
+^<<v9-28-4,4>>^ Subseqüentemente, os filisteus reuniram-se, e vieram e acamparam-se em Suném. Portanto, Saul reuniu todo o Israel, e acamparam-se em Gilboa.
+
+[[v9-28-5]]
+
+^<<v9-28-5,5>>^ Quando Saul chegou a ver o acampamento dos filisteus, ficou com medo e seu coração começou a tremer muito.
+
+[[v9-28-6]]
+
+^<<v9-28-6,6>>^ Embora Saul indagasse de Jeová, Jeová nunca lhe respondia, nem por sonhos, nem por Urim, nem pelos profetas.
+
+[[v9-28-7]]
+
+^<<v9-28-7,7>>^ Finalmente, Saul disse aos seus servos: “Procurai-me uma mulher que seja dona de mediunidade espírita, e eu irei ter com ela e a consultarei.” Seus servos disseram-lhe então: “Eis que há em En-Dor uma mulher que é dona de mediunidade espírita.”
+
+[[v9-28-8]]
+
+^<<v9-28-8,8>>^ Saul disfarçou-se, portanto, e vestiu-se de outras roupas e foi, ele e dois homens com ele; e foram ter com a mulher à noite. Ele disse então: “Por favor, use de adivinhação para mim por meio da mediunidade espírita e faze-me subir aquele que eu te indicar.”
+
+[[v9-28-9]]
+
+^<<v9-28-9,9>>^ A mulher, porém, disse-lhe: “Eis que sabes muito bem o que Saul fez, como ele decepou do país os médiuns espíritas e os prognosticadores profissionais de eventos. Por que ages então como quem arma laços contra a minha alma para me fazer morrer?”
+
+[[v9-28-10]]
+
+^<<v9-28-10,10>>^ Saul jurou-lhe imediatamente por Jeová, dizendo: “Por Jeová que vive, não recairá sobre ti culpa pelo erro neste assunto!”
+
+[[v9-28-11]]
+
+^<<v9-28-11,11>>^ A isto a mulher disse: “Quem te farei subir?” Então ele disse: “Faze-me subir Samuel.”
+
+[[v9-28-12]]
+
+^<<v9-28-12,12>>^ Quando a mulher viu “Samuel”, começou a clamar ao máximo da sua voz;^&#42;1^ e a mulher prosseguiu, dizendo a Saul: “Por que me lograste, sendo tu o próprio Saul?”
+
+[NOTE]
+====
+. Lit.: “com grande voz”.
+====
+
+[[v9-28-13]]
+
+^<<v9-28-13,13>>^ Mas o rei lhe disse: “Não tenhas medo; mas o que vês?” E a mulher prosseguiu, dizendo a Saul: “Vejo um deus^&#42;1^ subir da terra.”
+
+[NOTE]
+====
+. “Um deus.” Hebr.: ’elo·hím, pl., evidentemente para denotar excelência e aplicado a uma pessoa, embora o verbo “subir”, no hebr., esteja no pl., porque a mulher viu apenas a forma dum homem idoso subir. Veja 5:7 n.
+====
+
+[[v9-28-14]]
+
+^<<v9-28-14,14>>^ Ele lhe disse imediatamente: “Qual é a sua figura?” a que ela disse: “É um homem idoso^&#42;1^ que está subindo, e ele mesmo se cobriu com uma túnica sem mangas.” Em vista disso, Saul reconheceu que era “Samuel”, e ele passou a inclinar-se com o seu rosto para a terra e a prostrar-se.
+
+[NOTE]
+====
+. “Idoso”, MSyVg; LXXItLegiºnensis(margem), “ereto”.
+====
+
+[[v9-28-15]]
+
+^<<v9-28-15,15>>^ E “Samuel” começou a dizer a Saul: “Por que me inquietaste, fazendo-me subir?” A isso Saul disse: “Estou num sério aperto, visto que os filisteus estão lutando contra mim, e o próprio Deus^&#42;1^ se retirou de mim e não me respondeu mais, nem por meio dos profetas nem por sonhos; de modo que te estou chamando para que me deixes saber o que devo fazer.”
+
+[NOTE]
+====
+. “E . . . Deus.” Hebr.: wE’·lo·hím, pl., para denotar excelência, com o verbo “retirou” no sing.
+====
+
+[[v9-28-16]]
+
+^<<v9-28-16,16>>^ E “Samuel” prosseguiu, dizendo: “Então por que indagas de mim, quando o próprio Jeová se retirou de ti e mostra ser teu adversário?^&#42;1^
+
+[NOTE]
+====
+. “Teu adversário”, MVg; LXXSy: “[estar] com o teu próximo”.
+====
+
+[[v9-28-17]]
+
+^<<v9-28-17,17>>^ E Jeová fará para si^&#42;1^ exatamente como falou por meu intermédio, e Jeová arrancará o reino da tua mão e o dará ao teu próximo, a Davi.
+
+[NOTE]
+====
+. “Para si”, M; LXXVg e cinco mss. hebr.: “a ti”.
+====
+
+[[v9-28-18]]
+
+^<<v9-28-18,18>>^ Visto que não obedeceste à voz de Jeová e não executaste a sua ira ardente contra Amaleque, por isso é esta a coisa que Jeová te fará certamente neste dia.
+
+[[v9-28-19]]
+
+^<<v9-28-19,19>>^ E Jeová entregará também Israel contigo na mão dos filisteus, e amanhã tu e teus filhos estareis comigo.^&#42;1^ Até mesmo o acampamento de Israel entregará Jeová na mão dos filisteus.”
+
+[NOTE]
+====
+. Segundo MSyVg; LXX: “amanhã tu e teus filhos contigo cairão”.
+====
+
+[[v9-28-20]]
+
+^<<v9-28-20,20>>^ Nisso Saul caiu prontamente estendido por terra e ficou com muito medo por causa das palavras de “Samuel”. Também, sucedeu não haver mais poder nele, porque não tinha comido alimento o dia inteiro e a noite inteira.
+
+[[v9-28-21]]
+
+^<<v9-28-21,21>>^ A mulher chegou então a Saul e viu que ele estava grandemente perturbado. Por isso lhe disse: “Eis que a tua serva obedeceu à tua voz, e passei a pôr a minha alma na palma da minha mão e a obedecer às palavras que me falaste.
+
+[[v9-28-22]]
+
+^<<v9-28-22,22>>^ E agora, por favor, por tua vez, obedece à voz da tua serva e deixa-me pôr diante de ti um pedaço de pão, e come, para que venha a haver poder em ti, porque seguirás o teu caminho.”
+
+[[v9-28-23]]
+
+^<<v9-28-23,23>>^ Mas ele se negou a isso e disse: “Não vou comer.” Contudo, seus servos e também a mulher continuaram a instar com ele. Por fim, obedeceu à voz deles e se levantou da terra e se sentou no leito.
+
+[[v9-28-24]]
+
+^<<v9-28-24,24>>^ Ora, a mulher tinha um bezerro cevado na casa. Assim, ela foi rapidamente sacrificá-lo,^&#42;1^ e tomou farinha e amassou-a, e cozeu dela pães não fermentados.
+
+[NOTE]
+====
+. “Sacrificá-lo”, MLXX.
+====
+
+[[v9-28-25]]
+
+^<<v9-28-25,25>>^ Serviu-os então a Saul e aos seus servos, e eles comeram. Depois se levantaram e foram embora durante aquela noite.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-027.adoc#v9-27-0[&#60; Capítulo Anterior] | <<v9-28-0,Topo>> | xref:009-1-samuel/009-1-samuel-029.adoc#v9-29-0[Próximo Capítulo &#62;]

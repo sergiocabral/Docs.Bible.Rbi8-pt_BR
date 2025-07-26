@@ -1,0 +1,174 @@
+include::./index.adoc[]
+
+[[v1-5-0]]
+=== Gênesis, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-5-1]]
+
+^<<v1-5-1,1>>^ Este é o livro da história^&#42;1^ de Adão. No dia em que Deus criou Adão, ele o fez à semelhança de Deus.
+
+[NOTE]
+====
+. Ou “origens históricas”. Veja 2:4 e Mt 1:1 n.: “história”.
+====
+
+[[v1-5-2]]
+
+^<<v1-5-2,2>>^ Macho e fêmea os criou. Depois os abençoou e os chamou pelo nome de Homem,^&#42;1^ no dia em que foram criados.
+
+[NOTE]
+====
+. Ou “Adão”; ou: “Humanidade.” Hebr.: ’a·dhám.
+====
+
+[[v1-5-3]]
+
+^<<v1-5-3,3>>^ E Adão viveu cento e trinta anos. Tornou-se então pai dum filho à sua semelhança, à sua imagem, e chamou-o pelo nome de Sete.
+
+[[v1-5-4]]
+
+^<<v1-5-4,4>>^ E os dias de Adão, depois de gerar Sete, vieram a ser oitocentos anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-5-5]]
+
+^<<v1-5-5,5>>^ De modo que todos os dias que Adão viveu somaram^&#42;1^ novecentos e trinta anos, e morreu.
+
+[NOTE]
+====
+. Ou “vieram a ser”.
+====
+
+[[v1-5-6]]
+
+^<<v1-5-6,6>>^ E Sete viveu cento e cinco anos. Tornou-se então pai de Enos.
+
+[[v1-5-7]]
+
+^<<v1-5-7,7>>^ E depois de gerar Enos, Sete continuou a viver oitocentos e sete anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-5-8]]
+
+^<<v1-5-8,8>>^ De modo que todos os dias de Sete somaram novecentos e doze anos, e morreu.
+
+[[v1-5-9]]
+
+^<<v1-5-9,9>>^ E Enos viveu noventa anos. Tornou-se então pai de Quenã.
+
+[[v1-5-10]]
+
+^<<v1-5-10,10>>^ E depois de gerar Quenã, Enos continuou a viver oitocentos e quinze anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-5-11]]
+
+^<<v1-5-11,11>>^ De modo que todos os dias de Enos somaram novecentos e cinco anos, e morreu.
+
+[[v1-5-12]]
+
+^<<v1-5-12,12>>^ E Quenã viveu setenta anos. Tornou-se então pai de Malalel.
+
+[[v1-5-13]]
+
+^<<v1-5-13,13>>^ E depois de gerar Malalel, Quenã continuou a viver oitocentos e quarenta anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-5-14]]
+
+^<<v1-5-14,14>>^ De modo que todos os dias de Quenã somaram novecentos e dez anos, e morreu.
+
+[[v1-5-15]]
+
+^<<v1-5-15,15>>^ E Malalel viveu sessenta e cinco anos. Tornou-se então pai de Jarede.
+
+[[v1-5-16]]
+
+^<<v1-5-16,16>>^ E depois de gerar Jarede, Malalel continuou a viver oitocentos e trinta anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-5-17]]
+
+^<<v1-5-17,17>>^ De modo que todos os dias de Malalel somaram oitocentos e noventa e cinco anos, e morreu.
+
+[[v1-5-18]]
+
+^<<v1-5-18,18>>^ E Jarede viveu cento e sessenta e dois anos. Tornou-se então pai de Enoque.^&#42;1^
+
+[NOTE]
+====
+. Significando “Dedicado; Iniciado”. Hebr.: Hhanóhkh.
+====
+
+[[v1-5-19]]
+
+^<<v1-5-19,19>>^ E depois de gerar Enoque, Jarede continuou a viver oitocentos anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-5-20]]
+
+^<<v1-5-20,20>>^ De modo que todos os dias de Jarede somaram novecentos e sessenta e dois anos, e morreu.
+
+[[v1-5-21]]
+
+^<<v1-5-21,21>>^ E Enoque viveu sessenta e cinco anos. Tornou-se então pai de Metusalém.
+
+[[v1-5-22]]
+
+^<<v1-5-22,22>>^ E depois de gerar Metusalém, Enoque prosseguiu andando com^&#42;1^ o [verdadeiro] Deus^&#42;2^ trezentos anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[NOTE]
+====
+. “Enoque agradava bem a”, LXX. Veja He 11:5.
+. “O [verdadeiro] Deus.” Hebr.: ha·’Elo·hím, o primeiro caso em que ’Elo·hím, “Deus”, é precedido pelo artigo definido ha, sendo por isso traduzido por “o [verdadeiro] Deus”. GK, sec. 126 e, declara: “הָאֱלהִים ou הָאֵל ὁ θεός, o único Deus verdadeiro.” Veja Ap. 1F.
+====
+
+[[v1-5-23]]
+
+^<<v1-5-23,23>>^ De modo que todos os dias de Enoque somaram trezentos e sessenta e cinco anos.
+
+[[v1-5-24]]
+
+^<<v1-5-24,24>>^ E Enoque andou com o [verdadeiro] Deus. Depois não era mais, porque Deus^&#42;1^ o tomou.^&#42;2^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím, sem o artigo definido.
+. “Porque Deus o transferiu”, LXX. Veja He 11:5.
+====
+
+[[v1-5-25]]
+
+^<<v1-5-25,25>>^ E Metusalém viveu cento e oitenta e sete anos. Tornou-se então pai de Lameque.
+
+[[v1-5-26]]
+
+^<<v1-5-26,26>>^ E depois de gerar Lameque, Metusalém continuou a viver setecentos e oitenta e dois anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-5-27]]
+
+^<<v1-5-27,27>>^ De modo que todos os dias de Metusalém somaram novecentos e sessenta e nove anos, e morreu.
+
+[[v1-5-28]]
+
+^<<v1-5-28,28>>^ E Lameque viveu cento e oitenta e dois anos. Tornou-se então pai dum filho.
+
+[[v1-5-29]]
+
+^<<v1-5-29,29>>^ E passou a chamá-lo pelo nome de Noé,^&#42;1^ dizendo: “Este nos trará consolo do nosso trabalho e da dor das nossas mãos, que resulta do solo que Jeová amaldiçoou.”
+
+[NOTE]
+====
+. Significando “Descanso; Consolo”.
+====
+
+[[v1-5-30]]
+
+^<<v1-5-30,30>>^ E depois de gerar Noé, Lameque continuou a viver quinhentos e noventa e cinco anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-5-31]]
+
+^<<v1-5-31,31>>^ De modo que todos os dias de Lameque somaram setecentos e setenta e sete anos, e morreu.
+
+[[v1-5-32]]
+
+^<<v1-5-32,32>>^ E Noé veio a ter quinhentos anos de idade. Depois, Noé se tornou pai de Sem, Cã e Jafé.
+
+'''
+
+xref:001-genesis/001-genesis-004.adoc#v1-4-0[&#60; Capítulo Anterior] | <<v1-5-0,Topo>> | xref:001-genesis/001-genesis-006.adoc#v1-6-0[Próximo Capítulo &#62;]

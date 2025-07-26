@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v22-5-0]]
+=== Cântico de Salomão, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v22-5-1]]
+
+^<<v22-5-1,1>>^ “Entrei no meu jardim, ó minha irmã, noiva [minha]. Já colhi a minha mirra junto com a minha especiaria. Comi o meu favo de mel junto com o meu mel; bebi o meu vinho junto com o meu leite.”
+“Comei, companheiros! Bebei e embriagai-vos com expressões de afeto!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “embriagai-vos, ó queridos!”
+====
+
+[[v22-5-2]]
+
+^<<v22-5-2,2>>^ “Estou adormecida, mas o meu coração está desperto. Há o som de meu querido batendo!”
+“Abre-me, ó minha irmã, minha companheira, minha pomba, minha inculpe! Pois a minha cabeça está cheia de orvalho, os cachos de meu cabelo, das gotas da noite.”
+
+[[v22-5-3]]
+
+^<<v22-5-3,3>>^ “‘Tirei a minha veste comprida. Como é que a posso vestir outra vez? Lavei os pés. Como é que os posso sujar?’
+
+[[v22-5-4]]
+
+^<<v22-5-4,4>>^ Meu querido é que retirou a sua mão do buraco [da porta], e minhas entranhas ficaram alvoroçadas no meu íntimo.^&#42;1^
+
+[NOTE]
+====
+. “No meu íntimo”, mais de 50 mss. hebr. e algumas ed. hebr. impressas; MLXXSy: “por causa dele”.
+====
+
+[[v22-5-5]]
+
+^<<v22-5-5,5>>^ Levantei-me, sim, eu, para abrir a meu querido, e minhas próprias mãos gotejaram mirra, e meus dedos, mirra líquida^&#42;1^ sobre as concavidades do fecho.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “corrente (que passa)”.
+. Isto é, a concavidade na qual se faz entrar o ferrolho.
+====
+
+[[v22-5-6]]
+
+^<<v22-5-6,6>>^ Abri, sim, eu, ao meu querido, mas o meu querido é que se tinha afastado, tinha passado adiante. Minha própria alma saíra [de mim] quando ele falou. Procurei-o, mas não o achei. Chamei-o, mas ele não me respondeu.
+
+[[v22-5-7]]
+
+^<<v22-5-7,7>>^ Acharam-me os vigias que faziam a ronda da cidade. Golpearam-me, feriram-me. Os vigias das muralhas levantaram a minha manta larga de cima de mim.
+
+[[v22-5-8]]
+
+^<<v22-5-8,8>>^ “Eu vos pus sob juramento, ó filhas de Jerusalém, que, se achardes o meu querido, deveis informá-lo de que desfaleço de amor.”
+
+[[v22-5-9]]
+
+^<<v22-5-9,9>>^ “Como é que o teu querido é mais do que qualquer outro querido, ó mais bela entre as mulheres? Como é que o teu querido é mais do que qualquer outro querido, que nos puseste sob tal juramento?”
+
+[[v22-5-10]]
+
+^<<v22-5-10,10>>^ “Meu querido é deslumbrante e corado, o mais conspícuo^&#42;1^ de dez mil.
+
+[NOTE]
+====
+. Lit.: “erguido como estandarte”.
+====
+
+[[v22-5-11]]
+
+^<<v22-5-11,11>>^ Sua cabeça é ouro, ouro refinado. Os cachos de seu cabelo são cachos de tâmaras. Seu [cabelo] preto é como o corvo.
+
+[[v22-5-12]]
+
+^<<v22-5-12,12>>^ Seus olhos são como pombas junto aos regos de água, banhando-se em leite, assentados dentro dos aros.
+
+[[v22-5-13]]
+
+^<<v22-5-13,13>>^ Suas faces são como canteiro de especiarias, torres de ervas aromáticas. Seus lábios são lírios, gotejando mirra líquida.
+
+[[v22-5-14]]
+
+^<<v22-5-14,14>>^ Suas mãos são cilindros de ouro, cheios de crisólito.^&#42;1^ Seu abdome é uma placa de marfim, coberta de safiras.
+
+[NOTE]
+====
+. “De crisólito.” Hebr.: bat·tar·shísh.
+====
+
+[[v22-5-15]]
+
+^<<v22-5-15,15>>^ Suas pernas são colunas de mármore, fundadas em pedestais de encaixe de ouro refinado. Seu aspecto é como o do Líbano, seleto como os cedros.
+
+[[v22-5-16]]
+
+^<<v22-5-16,16>>^ Seu palato é pura doçura, e tudo a respeito dele é inteiramente desejável. Este é meu querido e este é meu companheiro, ó filhas de Jerusalém.”
+
+'''
+
+xref:022-cantico-de-salomao/022-cantico-de-salomao-004.adoc#v22-4-0[&#60; Capítulo Anterior] | <<v22-5-0,Topo>> | xref:022-cantico-de-salomao/022-cantico-de-salomao-006.adoc#v22-6-0[Próximo Capítulo &#62;]

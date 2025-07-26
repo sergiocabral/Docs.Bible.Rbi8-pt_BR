@@ -1,0 +1,207 @@
+include::./index.adoc[]
+
+[[v11-6-0]]
+=== 1 Reis, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v11-6-1]]
+
+^<<v11-6-1,1>>^ E sucedeu no quadringentésimo octogésimo ano^&#42;1^ depois da saída dos filhos de Israel da terra do Egito, no quarto ano, no mês de zive, que é o segundo mês, depois de Salomão se ter tornado rei sobre Israel, que ele passou a construir a casa a Jeová.
+
+[NOTE]
+====
+. “Quadringentésimo octogésimo ano”, MSyVg; LXX: “quadringentésimo quadragésimo ano”.
+====
+
+[[v11-6-2]]
+
+^<<v11-6-2,2>>^ E a casa que o Rei Salomão construiu a Jeová tinha sessenta côvados^&#42;1^ de comprimento e vinte de largura, e trinta côvados de altura.
+
+[NOTE]
+====
+. Veja Ap. 8A.
+====
+
+[[v11-6-3]]
+
+^<<v11-6-3,3>>^ E o pórtico na frente do templo^&#42;1^ da casa tinha vinte côvados de comprimento, na frente da largura da casa. Sua profundidade era de dez côvados na frente da casa.
+
+[NOTE]
+====
+. “Templo da.” Hebr.: heh·khál; gr.: na·oú; lat.: tém·plum. Compare isso com 2Rs 20:18 n. Veja Mt 23:16 n.
+====
+
+[[v11-6-4]]
+
+^<<v11-6-4,4>>^ E ele prosseguiu, fazendo para a casa janelas de vãos que se estreitavam.
+
+[[v11-6-5]]
+
+^<<v11-6-5,5>>^ Além disso construiu contra a parede da casa um edifício lateral em toda a volta, [contra] as paredes da casa, em toda a volta do templo e do compartimento mais recôndito,^&#42;1^ e fez câmaras laterais, em toda a volta.
+
+[NOTE]
+====
+. Ou “e até a câmara mais para trás”. Hebr.: welad·devír; gr.: da·bír; Sy: “casa da tampa propiciatória”, isto é, o Santíssimo; lat.: o·rá·cu·li, “o oráculo”, baseado na teoria incorreta de que o substantivo hebr. devír se derivasse do verbo da·vár, “falar”. Compare isso com o cóptico ta·bir, “mais recôndito”; também com o árabe dub(u)r, “atrás (fundo)”.
+====
+
+[[v11-6-6]]
+
+^<<v11-6-6,6>>^ A câmara lateral^&#42;1^ mais inferior tinha cinco côvados de largura, e a do meio tinha seis côvados de largura, e a terceira tinha sete côvados de largura; pois, por fora ele deu à casa reentrâncias em toda a volta, para que não ficasse segura às paredes da casa.
+
+[NOTE]
+====
+. “Câmara lateral”, LXX; M: “construção lateral”.
+====
+
+[[v11-6-7]]
+
+^<<v11-6-7,7>>^ Quanto à casa, enquanto estava sendo construída, construía-se com pedra de cantaria já acabada; e quanto a martelos e machados, ou a quaisquer outros instrumentos de ferro, não eram ouvidos na casa, enquanto estava sendo construída.
+
+[[v11-6-8]]
+
+^<<v11-6-8,8>>^ A entrada da câmara lateral mais inferior^&#42;1^ estava ao lado direito^&#42;2^ da casa, e subia-se por uma escada de caracol até à do meio, e da do meio até à terceira.
+
+[NOTE]
+====
+. “Mais inferior”, TLXX; MSyVg: “do meio”.
+. “Direito”, isto é, o sul, quando se encara o leste.
+====
+
+[[v11-6-9]]
+
+^<<v11-6-9,9>>^ Outrossim, prosseguiu construindo a casa para a acabar, e ele forrou a casa de vigas e de fileiras em pau de cedro.
+
+[[v11-6-10]]
+
+^<<v11-6-10,10>>^ Além disso, construiu as câmaras laterais contra a casa toda com cinco côvados de altura, e elas estavam seguras à casa por meio de madeiras de cedro.
+
+[[v11-6-11]]
+
+^<<v11-6-11,11>>^ Entrementes veio a palavra de Jeová a Salomão, dizendo:
+
+[[v11-6-12]]
+
+^<<v11-6-12,12>>^ “No que se refere a esta casa que estás construindo, se andares nos meus estatutos e cumprires as minhas decisões judiciais, e realmente guardares todos os meus mandamentos por andares neles, eu também hei de cumprir a minha palavra para contigo, que falei a Davi, teu pai;
+
+[[v11-6-13]]
+
+^<<v11-6-13,13>>^ e deveras residirei no meio dos filhos de Israel e não deixarei o meu povo Israel.”
+
+[[v11-6-14]]
+
+^<<v11-6-14,14>>^ E Salomão prosseguiu construindo a casa para a acabar.
+
+[[v11-6-15]]
+
+^<<v11-6-15,15>>^ E ele passou a construir as paredes da casa, por dentro, com tábuas de cedro. Desde o soalho da casa até o vigamento^&#42;1^ do teto ele a recobriu por dentro de madeira; e foi recobrir o soalho da casa com tábuas de junípero.
+
+[NOTE]
+====
+. “Vigamento”, mediante uma ligeira correção; M: “paredes”.
+====
+
+[[v11-6-16]]
+
+^<<v11-6-16,16>>^ Ademais, construiu nos fundos da casa vinte côvados com tábuas de cedro, desde o soalho até o vigamento, e por dentro construiu para ela o compartimento mais recôndito, o Santíssimo.
+
+[[v11-6-17]]
+
+^<<v11-6-17,17>>^ E a casa mostrava ter quarenta côvados, isto é, o templo na parte da frente dela.^&#42;1^
+
+[NOTE]
+====
+. “O templo na parte da frente das portas do oráculo (compartimento mais recôndito)”, Vg.
+====
+
+[[v11-6-18]]
+
+^<<v11-6-18,18>>^ E [a] madeira de cedro na casa, por dentro, tinha esculturas de ornamentos em forma de bagas e grinaldas de flores. Tudo era de cedro; não se via pedra.
+
+[[v11-6-19]]
+
+^<<v11-6-19,19>>^ E o compartimento mais recôndito, no interior da casa, ele preparou lá dentro, para pôr lá a arca do pacto de Jeová.
+
+[[v11-6-20]]
+
+^<<v11-6-20,20>>^ E o compartimento mais recôndito tinha vinte côvados de comprimento e vinte côvados de largura, e vinte côvados na sua altura; e ele passou a recobri-lo de ouro puro e a recobrir o altar de cedro.
+
+[[v11-6-21]]
+
+^<<v11-6-21,21>>^ E Salomão foi recobrir a casa por dentro de ouro puro e a fazer passar cadeias de ouro na frente do compartimento mais recôndito, e foi recobri-lo de ouro.
+
+[[v11-6-22]]
+
+^<<v11-6-22,22>>^ E recobriu a casa inteira de ouro, até que toda a casa ficou completa; e o altar inteiro, do lado do compartimento mais recôndito, ele recobriu de ouro.
+
+[[v11-6-23]]
+
+^<<v11-6-23,23>>^ Além disso, fez no compartimento mais recôndito dois querubins de madeira de oleastro, cada um tendo a altura de dez côvados.
+
+[[v11-6-24]]
+
+^<<v11-6-24,24>>^ E uma asa do querubim tinha cinco côvados e a outra asa do querubim tinha cinco côvados. Eram dez côvados da ponta da sua asa à ponta da sua [outra] asa.
+
+[[v11-6-25]]
+
+^<<v11-6-25,25>>^ E o segundo querubim tinha dez côvados. Os dois querubins tinham a mesma medida e a mesma forma.
+
+[[v11-6-26]]
+
+^<<v11-6-26,26>>^ A altura de um querubim era de dez côvados, e assim era com o outro querubim.
+
+[[v11-6-27]]
+
+^<<v11-6-27,27>>^ Ele pôs então os querubins dentro da casa interna, de modo que se estenderam as asas dos querubins. Assim, a asa de um tocava numa parede e a asa do outro querubim tocava na outra parede; e suas asas iam para o centro da casa, asa tocando asa.
+
+[[v11-6-28]]
+
+^<<v11-6-28,28>>^ Além disso, recobriu os querubins de ouro.
+
+[[v11-6-29]]
+
+^<<v11-6-29,29>>^ E todas as paredes da casa, ao redor, ele esculpiu com esculturas entalhadas de querubins e de figuras de palmeiras, e com entalhes de flores, por dentro e por fora;
+
+[[v11-6-30]]
+
+^<<v11-6-30,30>>^ e revestiu de ouro o soalho da casa, por dentro e por fora.
+
+[[v11-6-31]]
+
+^<<v11-6-31,31>>^ E fez a entrada do compartimento mais recôndito com [batentes de] porta de madeira de oleastro: pilastras laterais, ombreiras [e] uma quinta.
+
+[[v11-6-32]]
+
+^<<v11-6-32,32>>^ E os dois [batentes da] porta eram de madeira de oleastro, e ele esculpiu neles esculturas de querubins e figuras de palmeiras, e entalhes de flores, e recobriu-as de ouro; e passou a folhear de ouro os querubins e as figuras de palmeiras.
+
+[[v11-6-33]]
+
+^<<v11-6-33,33>>^ E assim fez para a entrada do templo, as ombreiras de madeira de oleastro, quadradas.
+
+[[v11-6-34]]
+
+^<<v11-6-34,34>>^ E os dois [batentes da] porta eram de madeira de junípero. As duas folhas de um [batente da] porta giravam sobre dobradiças e as duas folhas do outro [batente da] porta giravam sobre dobradiças.
+
+[[v11-6-35]]
+
+^<<v11-6-35,35>>^ E ele esculpiu querubins e figuras de palmeiras, e entalhes de flores, e as representações ele recobriu de folheado de ouro.
+
+[[v11-6-36]]
+
+^<<v11-6-36,36>>^ E prosseguiu, construindo o pátio interno com três fileiras de pedras lavradas e uma fileira de barrotes de cedro.
+
+[[v11-6-37]]
+
+^<<v11-6-37,37>>^ No quarto ano lançou-se o alicerce da casa de Jeová, no mês lunar de zive;
+
+[[v11-6-38]]
+
+^<<v11-6-38,38>>^ e no décimo primeiro ano, no mês lunar de bul,^&#42;1^ isto é, no oitavo mês, a casa estava acabada no que se referia a todos os seus pormenores e todo o seu plano; de modo que levou sete anos para construí-la.
+
+[NOTE]
+====
+. Veja Ap. 8B.
+====
+
+'''
+
+xref:011-1-reis/011-1-reis-005.adoc#v11-5-0[&#60; Capítulo Anterior] | <<v11-6-0,Topo>> | xref:011-1-reis/011-1-reis-007.adoc#v11-7-0[Próximo Capítulo &#62;]

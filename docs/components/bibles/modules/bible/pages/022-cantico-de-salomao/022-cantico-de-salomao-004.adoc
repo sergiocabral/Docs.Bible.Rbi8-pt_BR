@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v22-4-0]]
+=== Cântico de Salomão, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v22-4-1]]
+
+^<<v22-4-1,1>>^ “Eis que és bela, ó companheira minha. Eis que és bela. Teus olhos são [os das] pombas, atrás do teu véu. Teu cabelo é como uma grei de caprídeos que desceram pulando da região montanhosa de Gileade.
+
+[[v22-4-2]]
+
+^<<v22-4-2,2>>^ Teus dentes são como uma grei de [ovelhas] recém-tosquiadas que subiram da lavagem, todas elas tendo gêmeos, nenhuma dentre elas tendo perdido a sua cria.
+
+[[v22-4-3]]
+
+^<<v22-4-3,3>>^ Teus lábios são como fio escarlate e tua fala é deleitável. Como fatia de romã são as tuas têmporas atrás do teu véu.
+
+[[v22-4-4]]
+
+^<<v22-4-4,4>>^ Teu pescoço é como a torre de Davi, construída em camadas de pedras, em que se penduram mil escudos, todos os escudos redondos dos poderosos.^&#42;1^
+
+[NOTE]
+====
+. “Dos poderosos.” Hebr.: hag·gib·boh·rím.
+====
+
+[[v22-4-5]]
+
+^<<v22-4-5,5>>^ Teus dois peitos são como duas crias, gêmeas duma fêmea de gazela, que pastam entre os lírios.”
+
+[[v22-4-6]]
+
+^<<v22-4-6,6>>^ “Até a aragem do dia e até que tenham fugido as sombras seguirei meu caminho ao monte de mirra e ao morro de olíbano.”
+
+[[v22-4-7]]
+
+^<<v22-4-7,7>>^ “Tu és inteiramente bela, ó companheira minha, e não há defeito em ti.
+
+[[v22-4-8]]
+
+^<<v22-4-8,8>>^ Que venhas comigo do Líbano, ó noiva, [que venhas] comigo do Líbano. Que desças do cume do Antilíbano,^&#42;1^ do cume de Senir, sim, do Hermom, das guaridas dos leões, das montanhas dos leopardos.
+
+[NOTE]
+====
+. Lit.: “Amana”.
+====
+
+[[v22-4-9]]
+
+^<<v22-4-9,9>>^ Fizeste meu coração palpitar, minha irmã, noiva [minha], fizeste meu coração palpitar^&#42;1^ com um só dos teus olhos, com um só pendente do teu colar.
+
+[NOTE]
+====
+. Ou “incentivaste-me”.
+====
+
+[[v22-4-10]]
+
+^<<v22-4-10,10>>^ Quão belas são as tuas expressões de afeto, minha irmã, noiva [minha]! Quanto melhores são as tuas expressões de afeto do que o vinho, e a fragrância dos teus óleos do que toda sorte de perfume!
+
+[[v22-4-11]]
+
+^<<v22-4-11,11>>^ Teus lábios estão gotejando mel de favo, noiva [minha]. Mel e leite estão debaixo da tua língua, e a fragrância dos teus mantos é como a fragrância do Líbano.
+
+[[v22-4-12]]
+
+^<<v22-4-12,12>>^ Um jardim trancado é minha irmã, [minha] noiva, um jardim^&#42;1^ trancado, manancial selado.
+
+[NOTE]
+====
+. “Jardim”, LXXSyVg e muitos mss. hebr.; M: “onda”.
+====
+
+[[v22-4-13]]
+
+^<<v22-4-13,13>>^ Tua pele é um paraíso^&#42;1^ de romãs,^&#42;2^ com as frutas mais seletas, plantas de hena junto com plantas de nardo;
+
+[NOTE]
+====
+. Lit.: “parque [reserva]”. Hebr.: par·dés; LXXVg: “paraíso”; sir.: par·dai·sa’.
+. Lit.: “romãzeiras”.
+====
+
+[[v22-4-14]]
+
+^<<v22-4-14,14>>^ nardo e açafrão, cálamo e canela, junto com toda sorte de árvores de olíbano, mirra e aloés, junto com todos os perfumes mais finos;
+
+[[v22-4-15]]
+
+^<<v22-4-15,15>>^ [e] manancial de jardins, poço de água fresca^&#42;1^ e regatos do Líbano.
+
+[NOTE]
+====
+. Lit.: “águas viventes (vivas)”. Hebr.: má·yim hhai·yím.
+====
+
+[[v22-4-16]]
+
+^<<v22-4-16,16>>^ Desperta, ó vento do norte, e entra, ó vento do sul. Bufa sobre o meu jardim. Escorram em filetes os seus perfumes.”
+“Entre meu querido no seu jardim e coma dos seus frutos seletos.”
+
+'''
+
+xref:022-cantico-de-salomao/022-cantico-de-salomao-003.adoc#v22-3-0[&#60; Capítulo Anterior] | <<v22-4-0,Topo>> | xref:022-cantico-de-salomao/022-cantico-de-salomao-005.adoc#v22-5-0[Próximo Capítulo &#62;]

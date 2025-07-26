@@ -1,0 +1,270 @@
+include::./index.adoc[]
+
+[[v3-13-0]]
+=== Levítico, 13
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-13-1]]
+
+^<<v3-13-1,1>>^ E Jeová passou a falar a Moisés e a Arão, dizendo:
+
+[[v3-13-2]]
+
+^<<v3-13-2,2>>^ “Caso um homem venha a ter na pele de sua carne uma erupção, ou uma escara, ou uma mancha, e deveras venha a haver a praga da lepra^&#42;1^ na pele de sua carne, então tem de ser levado a Arão, o sacerdote, ou a um dos seus filhos, os sacerdotes.
+
+[NOTE]
+====
+. O termo bíblico para “lepra” inclui o que hoje é clinicamente chamado de mal de Hansen (hanseníase).
+====
+
+[[v3-13-3]]
+
+^<<v3-13-3,3>>^ E o sacerdote tem de ver a praga na pele da carne. Se o pêlo na praga tiver ficado branco e a praga tiver aspecto de ser mais profunda do que a pele de sua carne, é a praga da lepra. E o sacerdote terá de vê-la e terá de declará-lo impuro.
+
+[[v3-13-4]]
+
+^<<v3-13-4,4>>^ Mas, se a mancha for branca na pele de sua carne e não tiver aspecto de ser mais profunda do que a pele, e o pêlo dela não tiver ficado branco, então o sacerdote terá de pôr de quarentena [aquele que tem] a praga por sete dias.
+
+[[v3-13-5]]
+
+^<<v3-13-5,5>>^ E o sacerdote terá de vê-lo no sétimo dia, e se a praga, pelo aspecto, tiver parado, se a praga não se tiver espalhado na pele, então o sacerdote terá de pô-lo de quarentena por mais sete dias.
+
+[[v3-13-6]]
+
+^<<v3-13-6,6>>^ “E o sacerdote terá de vê-lo pela segunda vez, no sétimo dia, e se a praga tiver ficado baça e a praga não se tiver espalhado na pele, então o sacerdote terá de declará-lo limpo. Foi uma escara. E ele terá de lavar suas vestes e ser limpo.
+
+[[v3-13-7]]
+
+^<<v3-13-7,7>>^ Mas, se a escara se tiver indubitavelmente espalhado na pele, depois de ele ter comparecido perante o sacerdote para a efetivação da sua purificação, então terá de comparecer pela segunda vez perante o sacerdote,
+
+[[v3-13-8]]
+
+^<<v3-13-8,8>>^ e o sacerdote terá de ver; e se a escara se tiver espalhado na pele, então o sacerdote terá de declará-lo impuro. É lepra.
+
+[[v3-13-9]]
+
+^<<v3-13-9,9>>^ “Caso um homem venha a ter a praga da lepra, então tem de ser levado ao sacerdote.
+
+[[v3-13-10]]
+
+^<<v3-13-10,10>>^ E o sacerdote tem de ver; e se houver uma erupção branca na pele e ela tiver tornado branco o pêlo, e se houver carne viva na erupção,
+
+[[v3-13-11]]
+
+^<<v3-13-11,11>>^ é lepra crônica na pele de sua carne; e o sacerdote terá de declará-lo impuro. Não o deve pôr de quarentena, pois ele é impuro.
+
+[[v3-13-12]]
+
+^<<v3-13-12,12>>^ Ora, se a lepra irromper indubitavelmente na pele e a lepra deveras cobrir toda a pele daquele que tiver a praga, desde a sua cabeça até os seus pés, à plena vista dos olhos do sacerdote,
+
+[[v3-13-13]]
+
+^<<v3-13-13,13>>^ e o sacerdote viu, e eis que a lepra cobriu toda a sua carne, então terá de declarar limpa^&#42;1^ a praga. Toda ela se tornou branca. Ele é limpo.
+
+[NOTE]
+====
+. Ou “não contagiosa”.
+====
+
+[[v3-13-14]]
+
+^<<v3-13-14,14>>^ Mas no dia em que aparecer nela carne viva, ele será impuro.
+
+[[v3-13-15]]
+
+^<<v3-13-15,15>>^ E o sacerdote terá de ver a carne viva e terá de declará-lo impuro. A carne viva é impura. É lepra.
+
+[[v3-13-16]]
+
+^<<v3-13-16,16>>^ Ou, caso a carne viva retroceda e deveras se torne branca, então ele terá de chegar-se ao sacerdote.
+
+[[v3-13-17]]
+
+^<<v3-13-17,17>>^ E o sacerdote terá de vê-lo, e se a praga se tornou branca, então o sacerdote terá de declarar a praga limpa. Ele é limpo.
+
+[[v3-13-18]]
+
+^<<v3-13-18,18>>^ “Quanto à carne, caso venha a haver um furúnculo na sua pele e este deveras sare,
+
+[[v3-13-19]]
+
+^<<v3-13-19,19>>^ e no lugar do furúnculo venha a haver uma erupção branca ou uma mancha de um branco avermelhado, então terá de mostrar-se ao sacerdote.
+
+[[v3-13-20]]
+
+^<<v3-13-20,20>>^ E o sacerdote terá de ver, e se tiver aspecto de ser mais profunda do que a pele e seu pêlo se tiver tornado branco, então o sacerdote terá de declará-lo impuro. É a praga da lepra. Ela irrompeu no furúnculo.
+
+[[v3-13-21]]
+
+^<<v3-13-21,21>>^ Mas, se o sacerdote a vir, e agora, eis que não há pêlo branco nela e ela não é mais profunda do que a pele, e é baça, então o sacerdote terá de pô-lo de quarentena por sete dias.
+
+[[v3-13-22]]
+
+^<<v3-13-22,22>>^ E se ela inconfundivelmente se espalhar na pele, então o sacerdote terá de declará-lo impuro. É uma praga.
+
+[[v3-13-23]]
+
+^<<v3-13-23,23>>^ Mas, se a mancha ficou no seu lugar, não se tendo espalhado, é a inflamação do furúnculo; e o sacerdote terá de declará-lo limpo.
+
+[[v3-13-24]]
+
+^<<v3-13-24,24>>^ “Ou, caso venha a haver na pele da carne uma queimadura de fogo e a carne viva da queimadura se torne uma mancha de um branco avermelhado ou branca,
+
+[[v3-13-25]]
+
+^<<v3-13-25,25>>^ então o sacerdote tem de vê-la; e se o pêlo se tiver tornado branco na mancha e ela tiver o aspecto de ser mais profunda do que a pele, é lepra. Ela irrompeu na queimadura, e o sacerdote tem de declará-lo impuro. É a praga da lepra.
+
+[[v3-13-26]]
+
+^<<v3-13-26,26>>^ Mas, se o sacerdote a vir, e agora, eis que não há pêlo branco na mancha e ela não é mais profunda do que a pele, e é baça, então o sacerdote tem de pô-lo de quarentena por sete dias.
+
+[[v3-13-27]]
+
+^<<v3-13-27,27>>^ E o sacerdote tem de vê-lo no sétimo dia. Se ela se espalhar inconfundivelmente na pele, então o sacerdote terá de declará-lo impuro. É a praga da lepra.
+
+[[v3-13-28]]
+
+^<<v3-13-28,28>>^ Mas, se a mancha ficou no seu lugar, não se tendo espalhado na pele, e é baça, é uma erupção da queimadura; e o sacerdote tem de declará-lo limpo, porque é uma inflamação da queimadura.
+
+[[v3-13-29]]
+
+^<<v3-13-29,29>>^ “Quanto a um homem ou a uma mulher, caso venha a haver em tal uma praga na cabeça ou no queixo,
+
+[[v3-13-30]]
+
+^<<v3-13-30,30>>^ então o sacerdote tem de ver a praga; e se tiver aspecto de ser mais profunda do que a pele e o cabelo nela for amarelo ou escasso, então o sacerdote tem de declarar impuro a tal. É uma queda anormal do cabelo. É lepra da cabeça ou do queixo.
+
+[[v3-13-31]]
+
+^<<v3-13-31,31>>^ Mas, caso o sacerdote veja a praga da queda anormal do cabelo, e eis que não tem aspecto de ser mais profunda do que a pele e não há nela cabelo preto, então o sacerdote tem de pôr de quarentena [aquele que tem] a praga da queda anormal do cabelo, por sete dias.
+
+[[v3-13-32]]
+
+^<<v3-13-32,32>>^ E o sacerdote tem de ver a praga no sétimo dia; e se não se tiver espalhado a queda anormal do cabelo e não houver nela cabelo amarelo, e a queda anormal do cabelo não tiver aspecto de ser mais profunda do que a pele,
+
+[[v3-13-33]]
+
+^<<v3-13-33,33>>^ então terá de fazer-se rapar, mas não fará rapar [o lugar da] queda anormal do cabelo; e o sacerdote terá de pôr de quarentena [aquele que tem] a queda anormal do cabelo, novamente por sete dias.
+
+[[v3-13-34]]
+
+^<<v3-13-34,34>>^ “E o sacerdote terá de ver a queda anormal do cabelo no sétimo dia; e se a queda anormal do cabelo não se tiver espalhado na pele e não tiver aspecto de ser mais profunda do que a pele, então o sacerdote terá de declará-lo limpo, e ele terá de lavar suas vestes e ser limpo.
+
+[[v3-13-35]]
+
+^<<v3-13-35,35>>^ Mas, se a queda anormal do cabelo se espalhar inconfundivelmente na pele depois da efetivação de sua purificação,
+
+[[v3-13-36]]
+
+^<<v3-13-36,36>>^ então o sacerdote terá de vê-lo; e se a queda anormal do cabelo se tiver espalhado na pele, o sacerdote não precisará procurar cabelo amarelo; ele é impuro.
+
+[[v3-13-37]]
+
+^<<v3-13-37,37>>^ Mas, se pelo seu aspecto a queda anormal do cabelo tiver parado e tiver crescido nela cabelo preto, sarou a queda anormal do cabelo. Ele é limpo e o sacerdote terá de declará-lo limpo.
+
+[[v3-13-38]]
+
+^<<v3-13-38,38>>^ “Quanto a um homem ou a uma mulher, caso venha a haver manchas na pele de sua carne, manchas brancas,
+
+[[v3-13-39]]
+
+^<<v3-13-39,39>>^ então o sacerdote tem de ver; e se as manchas na pele de sua carne forem de um branco baço, é uma erupção inócua. Irrompeu na pele. Ele é limpo.
+
+[[v3-13-40]]
+
+^<<v3-13-40,40>>^ “Quanto a um homem, caso sua cabeça fique calva, é calvície. Ele é limpo.
+
+[[v3-13-41]]
+
+^<<v3-13-41,41>>^ E se a sua cabeça ficar calva na frente,^&#42;1^ é calvície da testa. Ele é limpo.
+
+[NOTE]
+====
+. Lit.: “calva desde a extremidade de seu rosto”.
+====
+
+[[v3-13-42]]
+
+^<<v3-13-42,42>>^ Mas, caso surja uma praga de um branco avermelhado na calva da coroa ou da testa, é lepra que irrompe na calva de sua coroa ou de sua testa.
+
+[[v3-13-43]]
+
+^<<v3-13-43,43>>^ E o sacerdote tem de vê-lo; e se houver uma erupção da praga de um branco avermelhado na calva de sua coroa ou de sua testa, igual ao aspecto da lepra na pele da carne,
+
+[[v3-13-44]]
+
+^<<v3-13-44,44>>^ ele é leproso.^&#42;1^ Ele é impuro. O sacerdote deve declará-lo impuro. Sua praga está sobre a sua cabeça.
+
+[NOTE]
+====
+. Lit.: “homem leproso”.
+====
+
+[[v3-13-45]]
+
+^<<v3-13-45,45>>^ Quanto ao leproso em quem houver a praga, devem-se rasgar as suas vestes e sua cabeça deve ficar desgrenhada, e ele deve encobrir o bigode^&#42;1^ e clamar: ‘Impuro, impuro!’
+
+[NOTE]
+====
+. Ou “lábio superior”.
+====
+
+[[v3-13-46]]
+
+^<<v3-13-46,46>>^ Será impuro todos os dias em que a praga estiver nele. Ele é impuro. Deve morar isolado. Seu lugar de morada é fora do acampamento.
+
+[[v3-13-47]]
+
+^<<v3-13-47,47>>^ “Quanto a uma veste, caso venha a haver nela a praga da lepra, quer numa veste de lã, quer numa veste de linho,
+
+[[v3-13-48]]
+
+^<<v3-13-48,48>>^ quer na urdidura, quer na trama do linho e da lã, quer numa pele, quer em alguma coisa feita de pele,
+
+[[v3-13-49]]
+
+^<<v3-13-49,49>>^ e deveras venha a haver a praga verde-amarelada ou avermelhada na veste, ou na pele, ou na urdidura, ou na trama, ou em qualquer objeto de pele, é a praga da lepra, e tem de ser mostrada ao sacerdote.
+
+[[v3-13-50]]
+
+^<<v3-13-50,50>>^ E o sacerdote tem de ver a praga e tem de pôr de quarentena [aquilo que tem] a praga, por sete dias.
+
+[[v3-13-51]]
+
+^<<v3-13-51,51>>^ Tendo visto a praga no sétimo dia, que a praga se espalhou na veste, ou na urdidura, ou na trama, ou na pele, qualquer que seja o uso para que a pele tenha sido feita, a praga é lepra maligna. É impura.
+
+[[v3-13-52]]
+
+^<<v3-13-52,52>>^ E ele tem de queimar a veste, ou a urdidura, ou a trama na lã ou no linho, ou qualquer objeto de pele em que haja a praga, porque é lepra maligna. Deve ser queimada no fogo.
+
+[[v3-13-53]]
+
+^<<v3-13-53,53>>^ “Mas, se o sacerdote for ver, e eis que agora a praga não se espalhou na veste, ou na urdidura, ou na trama, ou em qualquer objeto de pele,
+
+[[v3-13-54]]
+
+^<<v3-13-54,54>>^ então o sacerdote tem de mandar que lavem aquilo em que há a praga, e ele tem de pô-lo de quarentena por mais sete dias.
+
+[[v3-13-55]]
+
+^<<v3-13-55,55>>^ E o sacerdote tem de ver a praga, depois de ter sido lavada, e se a praga não tiver mudado de aspecto, contudo, a praga não se tiver espalhado, ela é impura. Deves queimá-la no fogo. É uma depressão num trecho puído, quer do seu lado de baixo, quer do seu lado de fora.
+
+[[v3-13-56]]
+
+^<<v3-13-56,56>>^ “Mas, se o sacerdote for ver, e eis que agora a praga é baça, depois de ter sido lavada, então tem de arrancá-la da veste, ou da pele, ou da urdidura, ou da trama.
+
+[[v3-13-57]]
+
+^<<v3-13-57,57>>^ No entanto, se ainda aparecer na roupa, ou na urdidura, ou na trama, ou em qualquer objeto de pele, ela está irrompendo. Deves queimar no fogo aquilo em que houver a praga.
+
+[[v3-13-58]]
+
+^<<v3-13-58,58>>^ Quanto à veste, ou à urdidura, ou à trama, ou a qualquer objeto de pele que lavares quando a praga tiver desaparecido deles, tem de ser lavado então pela segunda vez; e tem de ser limpo.
+
+[[v3-13-59]]
+
+^<<v3-13-59,59>>^ “Esta é a lei da praga da lepra numa veste de lã ou de linho, ou na urdidura, ou na trama, ou num objeto de pele, a fim de declará-lo limpo ou declará-lo impuro.”
+
+'''
+
+xref:003-levitico/003-levitico-012.adoc#v3-12-0[&#60; Capítulo Anterior] | <<v3-13-0,Topo>> | xref:003-levitico/003-levitico-014.adoc#v3-14-0[Próximo Capítulo &#62;]

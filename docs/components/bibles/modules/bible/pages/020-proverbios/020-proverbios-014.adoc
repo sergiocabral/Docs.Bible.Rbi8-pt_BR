@@ -1,0 +1,180 @@
+include::./index.adoc[]
+
+[[v20-14-0]]
+=== Provérbios, 14
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-14-1]]
+
+^<<v20-14-1,1>>^ A mulher realmente sábia edificou a sua casa, mas a tola a derruba com as suas próprias mãos.
+
+[[v20-14-2]]
+
+^<<v20-14-2,2>>^ Quem anda na sua retidão teme a Jeová, mas quem é sinuoso nos seus caminhos O despreza.
+
+[[v20-14-3]]
+
+^<<v20-14-3,3>>^ A verga da altivez está na boca do tolo, mas os próprios lábios dos sábios os guardarão.
+
+[[v20-14-4]]
+
+^<<v20-14-4,4>>^ Onde não há reses, a manjedoura está limpa, mas a safra é abundante por causa do poder do touro.
+
+[[v20-14-5]]
+
+^<<v20-14-5,5>>^ Testemunha fiel é quem não mente, mas a testemunha falsa profere apenas mentiras.
+
+[[v20-14-6]]
+
+^<<v20-14-6,6>>^ O zombador procurou achar sabedoria, e não há nenhuma; mas, para o entendido o conhecimento é coisa fácil.
+
+[[v20-14-7]]
+
+^<<v20-14-7,7>>^ Vai-te embora de diante do homem estúpido, pois certamente não notarás lábios de conhecimento.
+
+[[v20-14-8]]
+
+^<<v20-14-8,8>>^ A sabedoria do argucioso é entender seu caminho, mas a tolice dos estúpidos é a fraude.
+
+[[v20-14-9]]
+
+^<<v20-14-9,9>>^ Tolos são os que caçoam da culpa, mas há acordo^&#42;1^ entre os retos.
+
+[NOTE]
+====
+. Ou “aprovação”.
+====
+
+[[v20-14-10]]
+
+^<<v20-14-10,10>>^ O coração se apercebe da amargura da alma, e nenhum estranho se meterá na sua alegria.
+
+[[v20-14-11]]
+
+^<<v20-14-11,11>>^ A casa dos iníquos será aniquilada, mas a tenda dos retos florescerá.
+
+[[v20-14-12]]
+
+^<<v20-14-12,12>>^ Há um caminho que é reto diante do homem, mas o fim posterior dele são os caminhos da morte.
+
+[[v20-14-13]]
+
+^<<v20-14-13,13>>^ Mesmo no riso o coração talvez sinta dor; e é em pesar que acaba a alegria.
+
+[[v20-14-14]]
+
+^<<v20-14-14,14>>^ O renegado no coração estará satisfeito com os resultados dos seus próprios caminhos, mas o homem bom, com os resultados das suas ações.
+
+[[v20-14-15]]
+
+^<<v20-14-15,15>>^ Qualquer inexperiente põe fé em cada palavra,^&#42;1^ mas o argucioso considera os seus passos.
+
+[NOTE]
+====
+. Ou “coisa”. Hebr.: da·vár.
+====
+
+[[v20-14-16]]
+
+^<<v20-14-16,16>>^ O sábio teme e se desvia do mal, mas o estúpido fica furioso e confiante em si próprio.
+
+[[v20-14-17]]
+
+^<<v20-14-17,17>>^ Quem prontamente se irar cometerá tolice, mas o homem de raciocínios é odiado.
+
+[[v20-14-18]]
+
+^<<v20-14-18,18>>^ Os inexperientes certamente tomarão posse da tolice, mas os arguciosos usarão o conhecimento como um toucado.
+
+[[v20-14-19]]
+
+^<<v20-14-19,19>>^ Os maus terão de encurvar-se diante dos bons, e os iníquos junto aos portões do justo.
+
+[[v20-14-20]]
+
+^<<v20-14-20,20>>^ Aquele que é de poucos meios é objeto de ódio mesmo para o seu próximo, porém, muitos são os amigos do rico.
+
+[[v20-14-21]]
+
+^<<v20-14-21,21>>^ Quem despreza ao seu próprio próximo está pecando, mas feliz é aquele que mostra favor aos atribulados.
+
+[[v20-14-22]]
+
+^<<v20-14-22,22>>^ Não andarão vagueando os que projetam maldade? Mas há benevolência^&#42;1^ e veracidade com respeito aos que projetam o bem.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v20-14-23]]
+
+^<<v20-14-23,23>>^ Por todo tipo de labor vem a haver alguma vantagem, porém, a mera palavra da boca [tende a produzir] carência.
+
+[[v20-14-24]]
+
+^<<v20-14-24,24>>^ A coroa dos sábios são as suas riquezas; a tolice dos estúpidos é tolice.
+
+[[v20-14-25]]
+
+^<<v20-14-25,25>>^ A testemunha verdadeira^&#42;1^ livra almas, mas a enganosa^&#42;2^ profere apenas mentiras.
+
+[NOTE]
+====
+. Lit.: “A testemunha da verdade.” Hebr.: ‛edh ’eméth.
+. Lit.: “um engano”, isto é, uma testemunha enganosa. Hebr.: mir·máh.
+====
+
+[[v20-14-26]]
+
+^<<v20-14-26,26>>^ No temor de Jeová há forte confiança, e para os seus filhos virá a haver um refúgio.
+
+[[v20-14-27]]
+
+^<<v20-14-27,27>>^ O temor de Jeová é fonte de vida para se desviar dos laços da morte.
+
+[[v20-14-28]]
+
+^<<v20-14-28,28>>^ Na multidão do povo está o adorno do rei, mas na falta de população está a ruína do dignitário.
+
+[[v20-14-29]]
+
+^<<v20-14-29,29>>^ Quem é vagaroso em irar-se é abundante em discernimento, mas aquele que é impaciente^&#42;1^ exalta a tolice.
+
+[NOTE]
+====
+. Lit.: “mas aquele que é curto de espírito”. Hebr.: u·qetsar-rú·ahh.
+====
+
+[[v20-14-30]]
+
+^<<v20-14-30,30>>^ O coração calmo é a vida do organismo carnal, mas o ciúme é podridão para os ossos.
+
+[[v20-14-31]]
+
+^<<v20-14-31,31>>^ Quem defrauda o de condição humilde tem vituperado Aquele que o fez, mas aquele que mostra favor ao pobre O está glorificando.
+
+[[v20-14-32]]
+
+^<<v20-14-32,32>>^ Por causa da sua maldade, o iníquo será empurrado para baixo, mas o justo achará refúgio na sua integridade.^&#42;1^
+
+[NOTE]
+====
+. “Integridade”, mediante uma ligeira correção do M para concordar com LXXSy; M: “morte”.
+====
+
+[[v20-14-33]]
+
+^<<v20-14-33,33>>^ No coração do entendido descansa a sabedoria, e ela se torna conhecida no meio dos estúpidos.
+
+[[v20-14-34]]
+
+^<<v20-14-34,34>>^ A justiça é o que enaltece uma nação, mas o pecado é uma ignomínia para os grupos nacionais.
+
+[[v20-14-35]]
+
+^<<v20-14-35,35>>^ O prazer do rei está no servo que age com perspicácia, mas a sua fúria vem a ser para com aquele que age vergonhosamente.
+
+'''
+
+xref:020-proverbios/020-proverbios-013.adoc#v20-13-0[&#60; Capítulo Anterior] | <<v20-14-0,Topo>> | xref:020-proverbios/020-proverbios-015.adoc#v20-15-0[Próximo Capítulo &#62;]

@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v12-24-0]]
+=== 2 Reis, 24
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v12-24-1]]
+
+^<<v12-24-1,1>>^ Nos seus dias subiu Nabucodonosor, rei de Babilônia,^&#42;1^ e Jeoiaquim tornou-se assim seu servo por três anos. No entanto, recuou e se rebelou contra ele.
+
+[NOTE]
+====
+. “Babilônia”, LXXVg; MSy: “Babel”.
+====
+
+[[v12-24-2]]
+
+^<<v12-24-2,2>>^ E Jeová começou a enviar contra ele guerrilhas de caldeus, e guerrilhas de sírios,^&#42;1^ e guerrilhas de moabitas, e guerrilhas dos filhos de Amom, e continuou a enviá-las contra Judá para o destruir, segundo a palavra de Jeová, que ele falara por intermédio dos seus servos, os profetas.
+
+[NOTE]
+====
+. “Sírios”, MLXXVg; Sy: “edomitas”.
+====
+
+[[v12-24-3]]
+
+^<<v12-24-3,3>>^ Foi somente pela ordem de Jeová que isto sucedeu a Judá, a fim de removê-lo da sua vista por causa dos pecados de Manassés, conforme tudo o que tinha feito;
+
+[[v12-24-4]]
+
+^<<v12-24-4,4>>^ e também [por causa do] sangue inocente que tinha derramado de modo a encher Jerusalém de sangue inocente, e Jeová não consentiu em dar perdão.
+
+[[v12-24-5]]
+
+^<<v12-24-5,5>>^ Quanto ao resto dos assuntos de Jeoiaquim e tudo o que ele fez, não estão escritos no livro dos assuntos dos dias dos reis de Judá?
+
+[[v12-24-6]]
+
+^<<v12-24-6,6>>^ Por fim, Jeoiaquim deitou-se com os seus antepassados, e Joaquim, seu filho, começou a reinar em seu lugar.
+
+[[v12-24-7]]
+
+^<<v12-24-7,7>>^ E o rei do Egito nunca mais saiu da sua terra, porque o rei de Babilônia tinha tomado tudo o que viera a pertencer ao rei do Egito, desde o vale da torrente do Egito até o rio Eufrates.
+
+[[v12-24-8]]
+
+^<<v12-24-8,8>>^ Joaquim tinha dezoito anos de idade quando começou a reinar e reinou por três meses em Jerusalém. E o nome de sua mãe era Neusta, filha de Elnatã, de Jerusalém.
+
+[[v12-24-9]]
+
+^<<v12-24-9,9>>^ E ele fazia o que era mau aos olhos de Jeová, segundo tudo o que seu pai tinha feito.
+
+[[v12-24-10]]
+
+^<<v12-24-10,10>>^ Durante esse tempo subiram a Jerusalém os servos de Nabucodonosor, rei de Babilônia, de modo que a cidade ficou sitiada.
+
+[[v12-24-11]]
+
+^<<v12-24-11,11>>^ E Nabucodonosor, rei de Babilônia, passou a vir contra a cidade enquanto seus servos a sitiavam.
+
+[[v12-24-12]]
+
+^<<v12-24-12,12>>^ Finalmente saiu Joaquim, rei de Judá, ao rei de Babilônia, ele com sua mãe e com seus servos, e seus príncipes, e seus oficiais da corte; e o rei de Babilônia foi tomá-lo no seu oitavo ano de rei.
+
+[[v12-24-13]]
+
+^<<v12-24-13,13>>^ Então tirou dali todos os tesouros da casa de Jeová e os tesouros da casa do rei, e foi retalhar todos os utensílios de ouro que Salomão, rei de Israel, tinha feito no templo de Jeová, assim como Jeová falara.
+
+[[v12-24-14]]
+
+^<<v12-24-14,14>>^ E levou ao exílio toda a Jerusalém, e todos os príncipes, e todos os poderosos, valentes — levando dez mil ao exílio — e também todo artífice e construtor de baluartes. Não se deixou ficar ninguém, exceto a classe de condição humilde do povo da terra.
+
+[[v12-24-15]]
+
+^<<v12-24-15,15>>^ Assim levou Joaquim ao exílio, a Babilônia; e a mãe do rei, e as esposas do rei, e seus oficiais da corte, e os principais homens do país ele levou como povo exilado de Jerusalém a Babilônia.
+
+[[v12-24-16]]
+
+^<<v12-24-16,16>>^ Quanto a todos os homens valentes, sete mil, e os artífices e os construtores de baluartes, mil, todos os poderosos que travavam guerra, o rei de Babilônia os passou a levar como povo exilado a Babilônia.
+
+[[v12-24-17]]
+
+^<<v12-24-17,17>>^ Outrossim, o rei de Babilônia fez rei a Matanias, tio daquele, em seu lugar. Mudou-lhe então o nome para Zedequias.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Seu nome foi então mudado para Zedequias.”
+====
+
+[[v12-24-18]]
+
+^<<v12-24-18,18>>^ Zedequias^&#42;1^ tinha vinte e um anos de idade quando começou a reinar e reinou por onze anos em Jerusalém. E o nome de sua mãe era Hamutal, filha de Jeremias,^&#42;2^ de Libna.
+
+[NOTE]
+====
+. Significando “Jeová É Justiça”. Hebr.: Tsidh·qi·yá·hu.
+. Hebr.: Yir·meyá·hu. Veja Je 1:1 n.: “Jeremias”.
+====
+
+[[v12-24-19]]
+
+^<<v12-24-19,19>>^ E fazia o que era mau aos olhos de Jeová, segundo tudo o que Jeoiaquim tinha feito.
+
+[[v12-24-20]]
+
+^<<v12-24-20,20>>^ Pois isto se deu em Jerusalém e em Judá por causa da ira de Jeová, até que os tinha lançado fora da sua vista. E Zedequias começou a rebelar-se contra o rei de Babilônia.
+
+'''
+
+xref:012-2-reis/012-2-reis-023.adoc#v12-23-0[&#60; Capítulo Anterior] | <<v12-24-0,Topo>> | xref:012-2-reis/012-2-reis-025.adoc#v12-25-0[Próximo Capítulo &#62;]

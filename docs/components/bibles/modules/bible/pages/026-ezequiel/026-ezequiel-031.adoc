@@ -1,0 +1,138 @@
+include::./index.adoc[]
+
+[[v26-31-0]]
+=== Ezequiel, 31
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v26-31-1]]
+
+^<<v26-31-1,1>>^ E aconteceu mais, naquele décimo primeiro ano, no terceiro [mês], no primeiro [dia] do mês, que veio a haver para mim a palavra de Jeová, dizendo:
+
+[[v26-31-2]]
+
+^<<v26-31-2,2>>^ “Filho do homem, dize a Faraó, rei do Egito, e à sua massa de gente:
+“‘A quem vieste assemelhar-te na tua grandeza?
+
+[[v26-31-3]]
+
+^<<v26-31-3,3>>^ Eis! Um assírio,^&#42;1^ cedro do Líbano, bonito de galho, tendo mata que oferece sombra, e de alta estatura, de modo que a sua copa veio a estar entre as nuvens.^&#42;2^
+
+[NOTE]
+====
+. “Um assírio”, MTLXXSyVg; mediante uma correção: “Diferencio-te como”; mediante outra correção: “Um cipreste.”
+. “Nuvens”, LXX e árabe; MSyVg: “ramos”.
+====
+
+[[v26-31-4]]
+
+^<<v26-31-4,4>>^ Foram as águas que fizeram que se tornasse grande; a água de profundeza^&#42;1^ fez que crescesse alto. Ela foi com os seus^&#42;2^ rios em volta do lugar em que estava plantado; e enviou seus canais a todas as árvores do campo.
+
+[NOTE]
+====
+. Ou “águas empoladas”. Hebr.: tehóhm; LXXVg: “o abismo”. Veja Gên 1:2 n.: “profundeza”.
+. “Seus”, hebr. fem., referindo-se à “água de profundeza”.
+====
+
+[[v26-31-5]]
+
+^<<v26-31-5,5>>^ Por isso é que cresceu mais alto na sua estatura do que todas as [outras] árvores do campo.
+“‘E seus galhos se multiplicavam e seus ramos continuavam a ficar mais compridos por haver muita água nos seus cursos de água.^&#42;1^
+
+[NOTE]
+====
+. “Nos seus cursos de água”, mediante uma correção; M: “por manar”.
+====
+
+[[v26-31-6]]
+
+^<<v26-31-6,6>>^ Todas as criaturas voadoras dos céus faziam seus ninhos nos seus galhos e todos os animais selváticos do campo tinham cria debaixo dos seus ramos, e todas as nações populosas moravam à sua sombra.
+
+[[v26-31-7]]
+
+^<<v26-31-7,7>>^ E veio a ser bonito na sua grandeza, no comprimento da sua folhagem, porque o conjunto das suas raízes mostrou estar sobre muitas águas.
+
+[[v26-31-8]]
+
+^<<v26-31-8,8>>^ Os [outros] cedros não se lhe igualavam no jardim de Deus.^&#42;1^ Quanto aos juníperos, em nada se assemelhavam com respeito aos seus galhos. E os próprios plátanos não se lhe mostravam iguais em ramos. Nenhuma [outra] árvore no jardim de Deus assemelhava-se a ele na sua lindeza.
+
+[NOTE]
+====
+. “No jardim de Deus.” Hebr.: beghan-’Elo·hím; LXXSyVg: “no paraíso de Deus”. Veja v. 9.
+====
+
+[[v26-31-9]]
+
+^<<v26-31-9,9>>^ Bonito foi como o fiz na abundância da sua folhagem, e todas as [outras] árvores do Éden^&#42;1^ que estavam no jardim do [verdadeiro] Deus^&#42;2^ o invejavam.’
+
+[NOTE]
+====
+. Ou “agradabilidade”, em harmonia com LXXVg. Veja Gên 2:8 n.: “Éden”.
+. “Do [verdadeiro] Deus.” Hebr.: ha·’Elo·hím. Veja Ap. 1F.
+====
+
+[[v26-31-10]]
+
+^<<v26-31-10,10>>^ “Portanto, assim disse o Soberano Senhor Jeová: ‘Visto que ficaste^&#42;1^ alto em estatura, de modo que pôs a sua copa até mesmo entre as nuvens,^&#42;2^ e seu coração ficou enaltecido por causa da sua altura,
+
+[NOTE]
+====
+. “Ficaste”, MTLXX; SyVg: “ficou”.
+. “Nuvens”, LXX e árabe; M: “ramos”.
+====
+
+[[v26-31-11]]
+
+^<<v26-31-11,11>>^ eu também o entregarei na mão do déspota das nações. Sem falta este agirá contra ele. Vou expulsá-lo segundo a sua iniqüidade.
+
+[[v26-31-12]]
+
+^<<v26-31-12,12>>^ E estranhos, os tiranos das nações, o cortarão, e o povo o abandonará sobre os montes; e sua folhagem há de cair em todos os vales, e seus ramos serão quebrados entre todos os regos da terra. E todos os povos da terra descerão da sua sombra e o abandonarão.
+
+[[v26-31-13]]
+
+^<<v26-31-13,13>>^ Todas as criaturas voadoras dos céus residirão sobre o seu tronco caído e certamente virá a haver sobre os seus ramos todos os animais selváticos do campo;
+
+[[v26-31-14]]
+
+^<<v26-31-14,14>>^ para que nenhumas das árvores regadas fiquem altas na sua estatura, nem ponham suas copas entre as próprias nuvens, e para que nenhumas das que bebem água se ergam contra elas na sua altura, porque todas elas hão de ser entregues à morte, à terra lá embaixo, no meio dos filhos da humanidade,^&#42;1^ aos que descem ao poço.’
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v26-31-15]]
+
+^<<v26-31-15,15>>^ “Assim disse o Soberano Senhor Jeová: ‘No dia em que descer ao Seol eu hei de causar luto. Por sua causa vou cobrir a água de profundeza, para reter os seus rios e [para] conter as muitas águas; e por sua causa enegrecerei o Líbano, e por sua causa desmaiarão todas as árvores do campo.
+
+[[v26-31-16]]
+
+^<<v26-31-16,16>>^ Hei de fazer as nações tremer diante do ruído da sua queda, quando eu o fizer descer ao Seol com os que descem ao poço, e na terra lá embaixo serão consoladas todas as árvores do Éden,^&#42;1^ as mais seletas e as melhores do Líbano, todas as que bebem água.
+
+[NOTE]
+====
+. Veja v. 9 n. “Éden”.
+====
+
+[[v26-31-17]]
+
+^<<v26-31-17,17>>^ Elas mesmas desceram junto com ele ao Seol,^&#42;1^ aos mortos pela espada, bem como os que como sua descendência^&#42;2^ têm morado à sua sombra no meio de nações.’
+
+[NOTE]
+====
+. Ou “à sepultura”. Hebr.: she’óh·lah; gr.: haí·dou; lat.: in·fér·num. Veja Ap. 4B.
+. “Descendência”, mediante uma correção em harmonia com LXXSy; MVg: “braço”.
+====
+
+[[v26-31-18]]
+
+^<<v26-31-18,18>>^ “‘A quem vieste a assemelhar-te assim em glória e em grandeza entre as árvores do Éden? Mas, certamente se fará que desças com as árvores do Éden^&#42;1^ à terra lá embaixo. Deitar-te-ás no meio dos incircuncisos com os que foram mortos pela espada. Este é Faraó e toda a sua massa de gente’, é a pronunciação do Soberano Senhor Jeová.”
+
+[NOTE]
+====
+. Ou “agradabilidade”, em harmonia com LXXVg.
+====
+
+'''
+
+xref:026-ezequiel/026-ezequiel-030.adoc#v26-30-0[&#60; Capítulo Anterior] | <<v26-31-0,Topo>> | xref:026-ezequiel/026-ezequiel-032.adoc#v26-32-0[Próximo Capítulo &#62;]

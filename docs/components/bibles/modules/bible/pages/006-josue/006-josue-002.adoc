@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v6-2-0]]
+=== Josué, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-2-1]]
+
+^<<v6-2-1,1>>^ Josué, filho de Num, enviou então secretamente de Sitim^&#42;1^ dois homens como espiões, dizendo: “Ide ver o país e Jericó.” Eles foram, pois, e chegaram à casa duma mulher prostituta, cujo nome era Raabe, e foram alojar-se ali.
+
+[NOTE]
+====
+. Ou “as acácias”.
+====
+
+[[v6-2-2]]
+
+^<<v6-2-2,2>>^ Mais tarde foi dito ao rei de Jericó: “Eis que esta noite entraram aqui homens dos filhos de Israel para fazer o reconhecimento do país.”
+
+[[v6-2-3]]
+
+^<<v6-2-3,3>>^ Em vista disso, o rei de Jericó mandou dizer a Raabe: “Traze para fora os homens que vieram a ti, que entraram na tua casa, pois vieram para fazer o reconhecimento de todo o país.”
+
+[[v6-2-4]]
+
+^<<v6-2-4,4>>^ A mulher, entrementes, havia tomado os dois homens e os havia escondido. E ela passou a dizer: “Sim, os homens vieram a mim e eu não sabia donde eram.
+
+[[v6-2-5]]
+
+^<<v6-2-5,5>>^ E sucedeu que os homens saíram quando se fechou o portão ao escurecer. Eu simplesmente não sei para onde os homens foram. Ide depressa no encalço deles, pois os alcançareis.”
+
+[[v6-2-6]]
+
+^<<v6-2-6,6>>^ (Ela, porém, os havia levado para cima ao terraço e os mantinha fora da vista entre as hastes de linho, dispostas para ela em camadas sobre o terraço.)
+
+[[v6-2-7]]
+
+^<<v6-2-7,7>>^ E os homens foram no encalço deles na direção do Jordão, até os vaus, e fechou-se imediatamente o portão após a saída dos que foram no encalço deles.
+
+[[v6-2-8]]
+
+^<<v6-2-8,8>>^ Quanto a estes, antes de se poderem deitar, veio ela mesma ter com eles no terraço.
+
+[[v6-2-9]]
+
+^<<v6-2-9,9>>^ E ela passou a dizer aos homens: “Sei deveras que Jeová certamente vos dará o país e que caiu sobre nós o horror de vós, e que por vossa causa todos os habitantes do país ficaram esmorecidos.
+
+[[v6-2-10]]
+
+^<<v6-2-10,10>>^ Pois temos ouvido como Jeová secou as águas do Mar Vermelho diante de vós ao sairdes do Egito e o que fizestes aos dois reis dos amorreus que estavam do outro lado do Jordão, a saber, a Síon e a Ogue, que devotastes à destruição.
+
+[[v6-2-11]]
+
+^<<v6-2-11,11>>^ Quando chegamos a ouvir isso, então os nossos corações começaram a derreter-se e em ninguém se levantou ainda espírito^&#42;1^ por vossa causa, porque Jeová, vosso Deus, é Deus nos céus em cima e na terra embaixo.
+
+[NOTE]
+====
+. Ou “coragem”. Hebr.: rú·ahh; gr.: pneú·ma; lat.: spí·ri·tus.
+====
+
+[[v6-2-12]]
+
+^<<v6-2-12,12>>^ E agora, por favor, jurai-me por Jeová que, por eu ter usado de benevolência^&#42;1^ para convosco, também vós certamente usareis de benevolência para com os da casa de meu pai, e tereis de dar-me um sinal fidedigno.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v6-2-13]]
+
+^<<v6-2-13,13>>^ E tereis de preservar vivos meu pai e minha mãe, e meus irmãos, e minhas irmãs, e todos os que lhes pertencem, e tereis de livrar as nossas almas da morte.”
+
+[[v6-2-14]]
+
+^<<v6-2-14,14>>^ A isto lhe disseram os homens: “Nossas almas hão de morrer em vosso lugar! Se não contardes este assunto nosso, então terá de dar-se que, quando Jeová nos der o país, também nós certamente usaremos de benevolência e de fidedignidade^&#42;1^ para contigo.”
+
+[NOTE]
+====
+. Ou “e verdade (fidelidade)”. Hebr.: we·’eméth.
+====
+
+[[v6-2-15]]
+
+^<<v6-2-15,15>>^ Depois ela os fez descer por uma corda pela janela, porque a sua casa se achava num lado da muralha e ela morava sobre a muralha.
+
+[[v6-2-16]]
+
+^<<v6-2-16,16>>^ E ela passou a dizer-lhes: “Ide à região montanhosa, para que os que vos perseguem não se encontrem convosco, e lá tereis de esconder-vos por três dias, até voltarem os que [vos] perseguem, e depois podeis seguir vosso próprio rumo.”
+
+[[v6-2-17]]
+
+^<<v6-2-17,17>>^ Os homens, por sua vez, disseram-lhe: “Estamos livres de culpa quanto a este juramento teu que nos fizeste jurar.
+
+[[v6-2-18]]
+
+^<<v6-2-18,18>>^ Eis que vamos entrar no país. Deves atar este cordão de fio escarlate à janela pela qual nos fizeste descer e deves recolher à casa, contigo, teu pai e tua mãe, e teus irmãos e todos os da casa de teu pai.
+
+[[v6-2-19]]
+
+^<<v6-2-19,19>>^ E tem de dar-se que aquele que sair fora das portas da tua casa, o sangue deste estará sobre a sua própria cabeça e nós estaremos livres de culpa; e todo aquele que permanecer contigo na casa, o sangue deste estará sobre a nossa cabeça, se qualquer mão vier a estar sobre ele.
+
+[[v6-2-20]]
+
+^<<v6-2-20,20>>^ E se tu deres parte deste assunto nosso, então ficaremos livres de culpa quanto a este juramento teu que nos fizeste jurar.”
+
+[[v6-2-21]]
+
+^<<v6-2-21,21>>^ A isso ela disse: “Seja segundo as vossas palavras.”
+Com isso os mandou embora e eles seguiram seu caminho. Depois ela atou o cordão escarlate à janela.
+
+[[v6-2-22]]
+
+^<<v6-2-22,22>>^ Foram, pois, e chegaram à região montanhosa, e lá ficaram morando por três dias, até que os perseguidores tinham voltado. Ora, os perseguidores procuravam-nos em cada estrada, e não os acharam.
+
+[[v6-2-23]]
+
+^<<v6-2-23,23>>^ E os dois homens passaram a descer novamente da região montanhosa e a atravessar [o rio], e foram ter com Josué, filho de Num, e começaram a relatar-lhe todas as coisas que lhes aconteceram.
+
+[[v6-2-24]]
+
+^<<v6-2-24,24>>^ E prosseguiram, dizendo a Josué: “Jeová deu todo o país na nossa mão. Por conseguinte, todos os habitantes do país ficaram também esmorecidos por nossa causa.”
+
+'''
+
+xref:006-josue/006-josue-001.adoc#v6-1-0[&#60; Capítulo Anterior] | <<v6-2-0,Topo>> | xref:006-josue/006-josue-003.adoc#v6-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v6-1-0]]
+=== Josué, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-1-1]]
+
+^<<v6-1-1,1>>^ E sucedeu, depois da morte de Moisés, servo^&#42;1^ de Jeová, que Jeová passou a dizer a Josué,^&#42;2^ filho de Num, ministro^&#42;3^ de Moisés:
+
+[NOTE]
+====
+. Ou “escravo”.
+. “Josué.” Hebr.: Yehoh·shú·a‛, “Jeosué”, significando “Jeová É Salvação”; gr.: ’Ιησοῖ (I·e·soí, “Jesus”); Sy: “Jesua”; Vgc: “Josué”. Veja Gên 49:18 n.: “ti”; He 4:8 n.: “Josué”.
+. Ou “ajudante”. Hebr.: mesha·réth; lat.: mi·ní·strum.
+====
+
+[[v6-1-2]]
+
+^<<v6-1-2,2>>^ “Moisés, meu servo, morreu; e agora levanta-te, atravessa este Jordão, tu e todo este povo, para a terra que dou a eles, aos filhos de Israel.
+
+[[v6-1-3]]
+
+^<<v6-1-3,3>>^ Todo lugar em que pisar a sola de vosso pé, a vós é que o hei de dar, assim como prometi a Moisés.
+
+[[v6-1-4]]
+
+^<<v6-1-4,4>>^ Vosso território virá a ser desde o ermo e^&#42;1^ este Líbano até o grande rio, o rio Eufrates, isto é, toda a terra dos hititas, e até o Grande Mar, na direção do pôr do sol.
+
+[NOTE]
+====
+. Possivelmente: “até”.
+====
+
+[[v6-1-5]]
+
+^<<v6-1-5,5>>^ Ninguém se manterá firme diante de ti em todos os dias da tua vida. Assim como mostrei estar com Moisés, mostrarei estar contigo. Não te desampararei, nem te deixarei completamente.
+
+[[v6-1-6]]
+
+^<<v6-1-6,6>>^ Sê corajoso e forte, porque és tu que farás este povo herdar a terra de que jurei aos seus antepassados que lhes havia de dar.
+
+[[v6-1-7]]
+
+^<<v6-1-7,7>>^ “Somente sê corajoso e muito forte para cuidar em fazer segundo toda a lei que Moisés, meu servo, te ordenou. Não te desvies dela nem para a direita nem para a esquerda, a fim de agires sabiamente onde quer que andares.
+
+[[v6-1-8]]
+
+^<<v6-1-8,8>>^ Este livro da lei não se deve afastar da tua boca e tu o tens de ler em voz baixa dia e noite, para cuidar em fazer segundo tudo o que está escrito nele; pois então farás bem sucedido o teu caminho e então agirás sabiamente.
+
+[[v6-1-9]]
+
+^<<v6-1-9,9>>^ Não te dei ordem? Sê corajoso e forte. Não fiques assustado nem aterrorizado, pois Jeová, teu Deus, está contigo onde quer que andares.”
+
+[[v6-1-10]]
+
+^<<v6-1-10,10>>^ E Josué passou a ordenar aos oficiais do povo, dizendo:
+
+[[v6-1-11]]
+
+^<<v6-1-11,11>>^ “Passai pelo meio do acampamento e ordenai ao povo, dizendo: ‘Aprontai para vós provisões, porque daqui a três dias atravessareis este Jordão para entrar e tomar posse da terra que Jeová, vosso Deus, vos dá para tomardes posse dela.’”
+
+[[v6-1-12]]
+
+^<<v6-1-12,12>>^ E aos rubenitas e aos gaditas, e à meia tribo de Manassés, Josué disse:
+
+[[v6-1-13]]
+
+^<<v6-1-13,13>>^ “Haja lembrança^&#42;1^ da palavra que Moisés, servo de Jeová, vos ordenou, dizendo: ‘Jeová, vosso Deus, vos dá descanso e vos deu esta terra.
+
+[NOTE]
+====
+. “Haja lembrança.” No hebr., esta frase é um verbo no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v6-1-14]]
+
+^<<v6-1-14,14>>^ Vossas esposas, vossos pequeninos e vosso gado morarão na terra que Moisés vos deu deste lado do Jordão; mas vós, todos os homens poderosos, valentes, atravessareis em formação de batalha na frente dos vossos irmãos e tereis de ajudá-los.
+
+[[v6-1-15]]
+
+^<<v6-1-15,15>>^ Só quando Jeová der descanso aos vossos irmãos assim como a vós e eles também tiverem tomado posse da terra que Jeová, vosso Deus, lhes está dando, então tereis de voltar à terra da vossa posse e tereis de apossar-vos dela, daquela que Moisés, servo de Jeová, vos deu do lado do Jordão que dá para o nascente do sol.’”
+
+[[v6-1-16]]
+
+^<<v6-1-16,16>>^ Conseqüentemente, responderam a Josué, dizendo: “Faremos tudo o que nos ordenaste e iremos aonde quer que nos enviares.
+
+[[v6-1-17]]
+
+^<<v6-1-17,17>>^ Assim como em tudo escutamos a Moisés, também escutaremos a ti. Que Jeová, teu Deus, tão-somente mostre estar contigo assim como mostrou estar com Moisés.
+
+[[v6-1-18]]
+
+^<<v6-1-18,18>>^ Qualquer homem que se comportar rebeldemente contra a tua ordem e que não escutar as tuas palavras em tudo o que lhe ordenares será morto. Somente sê corajoso e forte.”
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-034.adoc#v5-34-0[&#60; Capítulo Anterior] | <<v6-1-0,Topo>> | xref:006-josue/006-josue-002.adoc#v6-2-0[Próximo Capítulo &#62;]

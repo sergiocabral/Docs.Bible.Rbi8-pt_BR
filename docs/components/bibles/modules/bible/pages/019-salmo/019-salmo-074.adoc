@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v19-74-0]]
+=== Salmos, 74
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Masquil.^&#42;1^ De Asafe._
+
+[[v19-74-1]]
+
+^<<v19-74-1,1>>^ Por que, ó Deus, [nos] deitaste fora para sempre?
+Por que continua a tua ira fumegando contra o rebanho do teu pasto?
+
+[[v19-74-2]]
+
+^<<v19-74-2,2>>^ Lembra-te da tua assembléia que outrora adquiriste,
+Da tribo que resgataste como a tua herança,
+Este monte Sião em que tens residido.
+
+[[v19-74-3]]
+
+^<<v19-74-3,3>>^ Ergue deveras os teus passos para as desolações de longa duração.
+O inimigo tratou mal a tudo no lugar santo.
+
+[[v19-74-4]]
+
+^<<v19-74-4,4>>^ Os que te são hostis têm bramido no meio do teu lugar de reunião.
+Puseram seus próprios sinais por sinais.
+
+[[v19-74-5]]
+
+^<<v19-74-5,5>>^ A pessoa se torna notória ao ser igual àquele que leva para cima machados contra um bosque cerrado de árvores.
+
+[[v19-74-6]]
+
+^<<v19-74-6,6>>^ E agora batem nas próprias gravuras dele, em todas elas, sim, com machadinha e com barras de ponta de ferro.
+
+[[v19-74-7]]
+
+^<<v19-74-7,7>>^ Meteram o teu santuário no próprio fogo.
+Profanaram o tabernáculo do teu nome até o próprio chão.
+
+[[v19-74-8]]
+
+^<<v19-74-8,8>>^ Eles, sim, a descendência deles, disseram juntos no seu próprio coração:
+“Todos os lugares de reunião de Deus^&#42;1^ têm de ser queimados no país.”
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v19-74-9]]
+
+^<<v19-74-9,9>>^ Não vimos os nossos sinais; não há mais nenhum profeta,
+E ninguém conosco sabe por quanto tempo.
+
+[[v19-74-10]]
+
+^<<v19-74-10,10>>^ Até quando, ó Deus, continuará a vituperar o adversário?
+Acaso o inimigo continuará para sempre a tratar teu nome com desrespeito?
+
+[[v19-74-11]]
+
+^<<v19-74-11,11>>^ Por que manténs a tua mão, sim, a tua direita, retirada
+De dentro do teu seio, para acabar [conosco]?
+
+[[v19-74-12]]
+
+^<<v19-74-12,12>>^ E ainda assim, Deus é meu Rei desde outrora,
+Aquele que realiza uma grandiosa salvação no meio da terra.
+
+[[v19-74-13]]
+
+^<<v19-74-13,13>>^ Tu mesmo comoveste o mar com a tua própria força;
+Quebraste as cabeças dos monstros marinhos nas águas.
+
+[[v19-74-14]]
+
+^<<v19-74-14,14>>^ Tu mesmo esmagaste as cabeças do leviatã.^&#42;1^
+Passaste a dá-lo como comida ao povo, aos que habitam nas regiões áridas.
+
+[NOTE]
+====
+. “Leviatã”, MSy; T: “dos fortes de Faraó”; LXXVg: “do dragão”.
+====
+
+[[v19-74-15]]
+
+^<<v19-74-15,15>>^ Foste tu quem partiste o manancial e a torrente;
+Tu mesmo secaste rios de fluxo contínuo.
+
+[[v19-74-16]]
+
+^<<v19-74-16,16>>^ A ti pertence o dia; a ti, também, pertence a noite.
+Tu mesmo preparaste o luzeiro, sim, o sol.
+
+[[v19-74-17]]
+
+^<<v19-74-17,17>>^ Foste tu quem fixaste todos os termos da terra;
+Verão e inverno — tu mesmo os formaste.
+
+[[v19-74-18]]
+
+^<<v19-74-18,18>>^ Lembra-te disso: O próprio inimigo tem vituperado, ó Jeová,
+E um povo insensato tem tratado teu nome com desrespeito.
+
+[[v19-74-19]]
+
+^<<v19-74-19,19>>^ Não dês à fera a alma da tua rola.
+Não te esqueças para sempre da própria vida dos teus atribulados.
+
+[[v19-74-20]]
+
+^<<v19-74-20,20>>^ Olha para o teu pacto,
+Porque os lugares escuros da terra ficaram cheios de moradias de violência.
+
+[[v19-74-21]]
+
+^<<v19-74-21,21>>^ Oh! que o esmagado não volte humilhado.
+Louvem o teu nome o atribulado e o pobre.
+
+[[v19-74-22]]
+
+^<<v19-74-22,22>>^ Levanta-te deveras, ó Deus, pleiteia deveras a tua própria causa.
+Lembra-te do teu vitupério por parte do insensato o dia inteiro.
+
+[[v19-74-23]]
+
+^<<v19-74-23,23>>^ Não te esqueças da voz dos que te são hostis.
+O barulho dos que se levantam contra ti ascende constantemente.
+
+'''
+
+xref:019-salmo/019-salmo-073.adoc#v19-73-0[&#60; Capítulo Anterior] | <<v19-74-0,Topo>> | xref:019-salmo/019-salmo-075.adoc#v19-75-0[Próximo Capítulo &#62;]

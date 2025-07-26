@@ -1,0 +1,172 @@
+include::./index.adoc[]
+
+[[v20-15-0]]
+=== Provérbios, 15
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-15-1]]
+
+^<<v20-15-1,1>>^ Uma resposta, quando branda, faz recuar o furor, mas a palavra que causa dor faz subir a ira.
+
+[[v20-15-2]]
+
+^<<v20-15-2,2>>^ A língua dos sábios faz bem com o conhecimento, mas a boca dos estúpidos borbulha com tolice.
+
+[[v20-15-3]]
+
+^<<v20-15-3,3>>^ Os olhos de Jeová estão em todo lugar, vigiando os maus e os bons.
+
+[[v20-15-4]]
+
+^<<v20-15-4,4>>^ A calma da língua é árvore de vida, mas a deturpação nela significa quebrantamento do espírito.
+
+[[v20-15-5]]
+
+^<<v20-15-5,5>>^ Quem é tolo desrespeita a disciplina de seu pai, mas quem considera a repreensão é argucioso.
+
+[[v20-15-6]]
+
+^<<v20-15-6,6>>^ Na casa^&#42;1^ do justo há provisão abundante, mas na safra do iníquo há o banimento.
+
+[NOTE]
+====
+. “Na(s) casa(s)”, TLXXSy; MVg: “A casa.”
+====
+
+[[v20-15-7]]
+
+^<<v20-15-7,7>>^ Os lábios dos sábios estão difundindo conhecimento, mas o coração dos estúpidos não é assim.
+
+[[v20-15-8]]
+
+^<<v20-15-8,8>>^ O sacrifício dos iníquos é algo detestável para Jeová, mas a oração dos retos é um prazer para ele.
+
+[[v20-15-9]]
+
+^<<v20-15-9,9>>^ O caminho do iníquo é algo detestável para Jeová, mas ele ama aquele que se empenha pela justiça.
+
+[[v20-15-10]]
+
+^<<v20-15-10,10>>^ A disciplina é má para quem deixa a vereda; quem odiar a repreensão morrerá.
+
+[[v20-15-11]]
+
+^<<v20-15-11,11>>^ O Seol e [o lugar de] destruição^&#42;1^ estão diante de Jeová. Quanto mais os corações dos filhos da humanidade!^&#42;2^
+
+[NOTE]
+====
+. “E [o lugar de] destruição.” Hebr.: wa·’avad·dóhn, “Abadon”. Veja Jó 26:6 n.
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v20-15-12]]
+
+^<<v20-15-12,12>>^ O zombador não ama aquele que o repreende. Não vai ter com os sábios.
+
+[[v20-15-13]]
+
+^<<v20-15-13,13>>^ O coração alegre tem bom efeito sobre o semblante, mas por causa da dor de coração há um espírito abatido.
+
+[[v20-15-14]]
+
+^<<v20-15-14,14>>^ O coração entendido é o que procura conhecimento, mas a boca de gente estúpida é a que aspira à tolice.
+
+[[v20-15-15]]
+
+^<<v20-15-15,15>>^ Todos os dias do atribulado são maus; mas aquele que é bom de coração^&#42;1^ [tem] constantemente um banquete.
+
+[NOTE]
+====
+. “Mas . . . bom (alegre) de coração.” Hebr.: wetohv-lév.
+====
+
+[[v20-15-16]]
+
+^<<v20-15-16,16>>^ Melhor o pouco no temor de Jeová, do que suprimento abundante e com ele confusão.
+
+[[v20-15-17]]
+
+^<<v20-15-17,17>>^ Melhor um prato de verduras onde há amor, do que um touro cevado e com ele ódio.
+
+[[v20-15-18]]
+
+^<<v20-15-18,18>>^ O homem enfurecido suscita contenda, mas aquele que é vagaroso em irar-se sossega a altercação.
+
+[[v20-15-19]]
+
+^<<v20-15-19,19>>^ O caminho do preguiçoso é como uma sebe de sarça, mas a vereda dos retos é um caminho aterrado.
+
+[[v20-15-20]]
+
+^<<v20-15-20,20>>^ Filho sábio é aquele que alegra ao pai, mas o homem estúpido despreza a sua mãe.
+
+[[v20-15-21]]
+
+^<<v20-15-21,21>>^ A tolice é a alegria do falto de coração,^&#42;1^ mas homem de discernimento é aquele que vai diretamente para a frente.
+
+[NOTE]
+====
+. Ou “do falto de boa motivação”. Hebr.: la·hhasar-lév.
+====
+
+[[v20-15-22]]
+
+^<<v20-15-22,22>>^ Há frustração de planos quando não há palestra confidencial, mas na multidão de conselheiros há consecução.
+
+[[v20-15-23]]
+
+^<<v20-15-23,23>>^ O homem tem alegria na resposta da sua boca, e uma palavra no tempo certo, oh! quão boa ela é!
+
+[[v20-15-24]]
+
+^<<v20-15-24,24>>^ A vereda da vida vai para cima para aquele que age com perspicácia, a fim de desviar do Seol lá embaixo.
+
+[[v20-15-25]]
+
+^<<v20-15-25,25>>^ A casa dos que se enaltecem, Jeová a derrubará, mas ele fixará o termo da viúva.
+
+[[v20-15-26]]
+
+^<<v20-15-26,26>>^ Os ardis do mau são algo detestável para Jeová, mas as declarações afáveis são limpas.
+
+[[v20-15-27]]
+
+^<<v20-15-27,27>>^ Quem obtém lucro injusto traz o banimento sobre a sua própria casa, mas aquele que odeia dádivas é quem continuará vivendo.
+
+[[v20-15-28]]
+
+^<<v20-15-28,28>>^ O coração do justo medita^&#42;1^ a fim de responder, mas a boca dos iníquos borbulha com coisas más.
+
+[NOTE]
+====
+. Ou “cogita murmurando”.
+====
+
+[[v20-15-29]]
+
+^<<v20-15-29,29>>^ Jeová está longe dos iníquos, mas ouve a oração dos justos.
+
+[[v20-15-30]]
+
+^<<v20-15-30,30>>^ A luminosidade dos olhos alegra o coração; uma notícia boa engorda os ossos.
+
+[[v20-15-31]]
+
+^<<v20-15-31,31>>^ O ouvido que escuta a repreensão da vida pousa bem no meio de gente sábia.
+
+[[v20-15-32]]
+
+^<<v20-15-32,32>>^ Quem se esquiva da disciplina rejeita a sua própria alma, mas aquele que escuta a repreensão adquire coração.^&#42;1^
+
+[NOTE]
+====
+. Ou “adquire boa motivação”. Hebr.: qóh·neh lev.
+====
+
+[[v20-15-33]]
+
+^<<v20-15-33,33>>^ O temor de Jeová é uma disciplina para a sabedoria, e antes da glória há humildade.
+
+'''
+
+xref:020-proverbios/020-proverbios-014.adoc#v20-14-0[&#60; Capítulo Anterior] | <<v20-15-0,Topo>> | xref:020-proverbios/020-proverbios-016.adoc#v20-16-0[Próximo Capítulo &#62;]

@@ -1,0 +1,124 @@
+include::./index.adoc[]
+
+[[v2-27-0]]
+=== Êxodo, 27
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-27-1]]
+
+^<<v2-27-1,1>>^ “E tens de fazer o altar de madeira de acácia, de cinco côvados de comprimento e cinco côvados de largura. O altar deve ser quadrado e sua altura três côvados.
+
+[[v2-27-2]]
+
+^<<v2-27-2,2>>^ E tens de fazer-lhe chifres nos seus quatro cantos. Seus chifres procederão dele, e tens de recobri-lo de cobre.
+
+[[v2-27-3]]
+
+^<<v2-27-3,3>>^ E tens de fazer seus recipientes para a retirada das cinzas gordurosas,^&#42;1^ e suas pás, e suas tigelas, e seus garfos, e seus porta-lumes; e todos os seus utensílios^&#42;2^ farás de cobre.
+
+[NOTE]
+====
+. “Cinzas gordurosas”, isto é, da lenha queimada no altar, impregnada de gordura animal.
+. “E todos os seus utensílios”, LXXSy.
+====
+
+[[v2-27-4]]
+
+^<<v2-27-4,4>>^ E tens de fazer-lhe uma grelha, uma grade de cobre; e tens de fazer na grade quatro argolas de cobre, nas suas quatro extremidades.
+
+[[v2-27-5]]
+
+^<<v2-27-5,5>>^ E tens de pô-la abaixo da borda do altar, por dentro, e a grade tem de ficar pelo meio do altar.
+
+[[v2-27-6]]
+
+^<<v2-27-6,6>>^ E tens de fazer varais para o altar, seus varais sendo de madeira de acácia, e tens de recobri-los de cobre.
+
+[[v2-27-7]]
+
+^<<v2-27-7,7>>^ E seus varais têm de ser postos nas argolas, e os varais devem estar nos dois lados do altar quando é carregado.
+
+[[v2-27-8]]
+
+^<<v2-27-8,8>>^ Fá-lo-ás uma caixa oca de pranchas. Conforme ele te mostrou^&#42;1^ no monte, assim o farão.
+
+[NOTE]
+====
+. “Conforme ele te mostrou”, MSam; LXX: “Segundo o que se te mostrou”; Vg: “Assim como se te mostrou.”
+====
+
+[[v2-27-9]]
+
+^<<v2-27-9,9>>^ “E tens de fazer o pátio do tabernáculo. Para o lado do Negebe, o meridional, o pátio tem cortinados de linho fino retorcido, o comprimento deste um lado sendo de cem côvados.
+
+[[v2-27-10]]
+
+^<<v2-27-10,10>>^ E suas vinte colunas e seus vinte pedestais de encaixe são de cobre. Os pinos das colunas e suas ligações^&#42;1^ são de prata.
+
+[NOTE]
+====
+. Ou “anéis; argolas; faixas; fitas”, para ligações.
+====
+
+[[v2-27-11]]
+
+^<<v2-27-11,11>>^ Assim também é o comprimento do lado setentrional, os cortinados sendo de cem côvados de comprimento, e suas vinte colunas e seus vinte pedestais de encaixe sendo de cobre, os pinos das colunas e suas ligações sendo de prata.
+
+[[v2-27-12]]
+
+^<<v2-27-12,12>>^ Quanto à largura do pátio, do lado ocidental, os cortinados são de cinqüenta côvados, sendo dez as suas colunas e dez os seus pedestais de encaixe.
+
+[[v2-27-13]]
+
+^<<v2-27-13,13>>^ E a largura do pátio, do lado do leste, para o nascente, é de cinqüenta côvados.
+
+[[v2-27-14]]
+
+^<<v2-27-14,14>>^ E de um lado^&#42;1^ há quinze côvados de cortinados, sendo três as suas colunas e três os seus pedestais de encaixe.
+
+[NOTE]
+====
+. Lit.: “ombro”.
+====
+
+[[v2-27-15]]
+
+^<<v2-27-15,15>>^ E para o outro lado há quinze côvados de cortinados, sendo três as suas colunas e três os seus pedestais de encaixe.
+
+[[v2-27-16]]
+
+^<<v2-27-16,16>>^ “E para o portão do pátio há um reposteiro de vinte côvados de comprimento, de linha azul, e de lã tingida de roxo, e de fibras carmíneas, e de linho fino retorcido, trabalho de tecelão, sendo quatro as suas colunas e quatro os seus pedestais de encaixe.
+
+[[v2-27-17]]
+
+^<<v2-27-17,17>>^ Todas as colunas ao redor do pátio têm ligações de prata e seus pinos são de prata, mas os seus pedestais de encaixe [são] de cobre.
+
+[[v2-27-18]]
+
+^<<v2-27-18,18>>^ O comprimento do pátio é de cem côvados, e a largura é de cinqüenta côvados,^&#42;1^ e a altura é de cinco côvados, de linho fino retorcido, e seus pedestais de encaixe são de cobre.
+
+[NOTE]
+====
+. “Cinqüenta côvados”, Sam; MLXXSy: “cinqüenta por cinqüenta”; Vg: “cinqüenta [côvados]”. Veja Ap. 8A.
+====
+
+[[v2-27-19]]
+
+^<<v2-27-19,19>>^ E todos os utensílios^&#42;1^ do tabernáculo, em todo o seu serviço, e todas as suas estacas de tenda e todas as estacas do pátio são de cobre.
+
+[NOTE]
+====
+. Ou “mobília; móveis”.
+====
+
+[[v2-27-20]]
+
+^<<v2-27-20,20>>^ “E quanto a ti, deves mandar aos filhos de Israel que obtenham para ti azeite puro de oliveira, batido, para o luzeiro, para manter as lâmpadas continuamente acesas.
+
+[[v2-27-21]]
+
+^<<v2-27-21,21>>^ Na tenda de reunião, fora da cortina que está junto ao Testemunho, Arão e seus filhos pô-lo-ão em ordem diante de Jeová, desde a noitinha até à manhã. É um estatuto por tempo indefinido para as suas gerações, a ser cumprido pelos filhos de Israel.
+
+'''
+
+xref:002-exodo/002-exodo-026.adoc#v2-26-0[&#60; Capítulo Anterior] | <<v2-27-0,Topo>> | xref:002-exodo/002-exodo-028.adoc#v2-28-0[Próximo Capítulo &#62;]

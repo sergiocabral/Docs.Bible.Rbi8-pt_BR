@@ -1,0 +1,201 @@
+include::./index.adoc[]
+
+[[v23-5-0]]
+=== Isaías, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-5-1]]
+
+^<<v23-5-1,1>>^ Por favor, cante eu ao meu amado uma canção de meu amado a respeito de seu vinhedo. Havia um vinhedo que meu amado veio a ter numa ladeira fértil.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “um chifre, filho de óleo”.
+====
+
+[[v23-5-2]]
+
+^<<v23-5-2,2>>^ E ele passou a arroteá-lo e a livrá-lo de pedras, e passou a plantar nele uma videira seleta de casta tinta, e a construir uma torre no meio dele. E havia também um lagar que ele escavara. E esperava que produzisse uvas, mas produziu aos poucos uvas bravas.^&#42;1^
+
+[NOTE]
+====
+. Ou “coisas malcheirosas”; ou: “frutinhas fétidas (podres)”.
+====
+
+[[v23-5-3]]
+
+^<<v23-5-3,3>>^ “E agora, ó habitantes^&#42;1^ de Jerusalém e homens^&#42;2^ de Judá, por favor, julgai entre mim e meu vinhedo.
+
+[NOTE]
+====
+. Lit.: “ó habitante”, hebr. sing., mas em sentido coletivo.
+. “E homens de.” Hebr.: we’ísh, hebr. sing., mas em sentido coletivo.
+====
+
+[[v23-5-4]]
+
+^<<v23-5-4,4>>^ Que se pode ainda fazer por meu vinhedo que eu já não tenha feito nele? Por que é que esperei que produzisse uvas, mas ele produziu aos poucos uvas bravas?
+
+[[v23-5-5]]
+
+^<<v23-5-5,5>>^ E agora, por favor, faça-vos eu saber o que estou fazendo ao meu vinhedo: Haverá a remoção de sua sebe e terá de destinar-se à queima. Terá de haver uma derrocada de seu muro de pedras, e terá de tornar-se um lugar pisado.
+
+[[v23-5-6]]
+
+^<<v23-5-6,6>>^ E eu o porei qual coisa destruída. Não será podado, nem será capinado. E terão de surgir nele o espinheiro e ervas daninhas; e darei ordem às nuvens para que se abstenham de lançar chuva sobre ele.
+
+[[v23-5-7]]
+
+^<<v23-5-7,7>>^ Porque o vinhedo de Jeová dos exércitos é a casa de Israel, e os homens de Judá são a plantação de que gostava. E ele ficou esperando o julgamento, mas eis a violação da lei!^&#42;1^ A justiça, mas eis um clamor!”
+
+[NOTE]
+====
+. Ou: “eis um desvio!”; ou: “eis derramamento [de sangue]!”
+====
+
+[[v23-5-8]]
+
+^<<v23-5-8,8>>^ Ai dos que juntam casa a casa, [e] dos que anexam campo a campo, até não haver mais espaço e se ter feito que vós moreis sozinhos no meio da terra!
+
+[[v23-5-9]]
+
+^<<v23-5-9,9>>^ Aos meus ouvidos, Jeová dos exércitos [jurou que] muitas casas, embora grandes e boas, tornar-se-ão francamente um assombro, sem habitante.
+
+[[v23-5-10]]
+
+^<<v23-5-10,10>>^ Pois, mesmo dez jeiras de vinhedo produzirão apenas [a medida de] um bato,^&#42;1^ e mesmo um ômer^&#42;2^ de semente produzirá apenas [a medida de] um efa.^&#42;3^
+
+[NOTE]
+====
+. Cerca de 22 l. Veja Ap. 8A.
+. Cerca de 220 l.
+. Cerca de 22 l.
+====
+
+[[v23-5-11]]
+
+^<<v23-5-11,11>>^ Ai dos que se levantam de manhã cedo somente à procura de bebida inebriante, que ficam até tarde no crepúsculo vespertino, de modo que o próprio vinho os inflama!
+
+[[v23-5-12]]
+
+^<<v23-5-12,12>>^ E terá de mostrar-se haver harpa e instrumento de cordas, pandeiro e flauta, bem como vinho nos seus banquetes; mas eles não olham para a atividade de Jeová e não viram o trabalho das suas mãos.
+
+[[v23-5-13]]
+
+^<<v23-5-13,13>>^ Por isso, meu povo terá de ir ao exílio por falta de conhecimento; e sua glória serão homens famintos^&#42;1^ e sua massa de gente ficará ressequida de sede.
+
+[NOTE]
+====
+. “Os mortos pela fome”, TSy e dois mss. hebr.
+====
+
+[[v23-5-14]]
+
+^<<v23-5-14,14>>^ Por isso, o Seol^&#42;1^ ampliou a sua alma^&#42;2^ e escancarou a sua boca além de medida; e o que é esplêndido nela,^&#42;3^ também a sua massa de gente, e seu rebuliço, e o rejubilante, certamente descerão a ele.
+
+[NOTE]
+====
+. “Seol”, M(hebr.: she’óhl)T; gr.: haí·des; sir.: shiul; lat.: in·fér·nus. Veja Ap. 4B.
+. “Sua alma.” Hebr.: naf·sháh; gr.: psy·khén; lat.: á·ni·mam. Veja Ap. 4A.
+. “Nela”, hebr. fem. sing., referindo-se a Jerusalém. Veja v. 3.
+====
+
+[[v23-5-15]]
+
+^<<v23-5-15,15>>^ E o homem terreno se encurvará, e o homem ficará rebaixado, e até mesmo os olhos dos altos ficarão abaixados.
+
+[[v23-5-16]]
+
+^<<v23-5-16,16>>^ E Jeová dos exércitos ficará alto por meio do julgamento, e o [verdadeiro] Deus,^&#42;1^ o Santo, certamente se santificará por meio da justiça.
+
+[NOTE]
+====
+. “E o [verdadeiro] Deus.” Hebr.: weha·’Él. Veja Ap. 1G.
+====
+
+[[v23-5-17]]
+
+^<<v23-5-17,17>>^ E os cordeiros realmente pastarão como que no seu prado; e os lugares desolados de animais cevados os residentes forasteiros^&#42;1^ comerão.
+
+[NOTE]
+====
+. Ou “residentes temporários”.
+====
+
+[[v23-5-18]]
+
+^<<v23-5-18,18>>^ Ai dos que puxam o erro com cordas de inveracidade, e o pecado como que com cordas de carroça;
+
+[[v23-5-19]]
+
+^<<v23-5-19,19>>^ os que dizem: “Acelere-se o seu trabalho; que venha depressa,^&#42;1^ a fim de que [o] vejamos; e chegue-se e venha o conselho do Santo de Israel, para que [o] conheçamos!”
+
+[NOTE]
+====
+. “Dizem: ‘Acelere Jeová depressa as suas obras’”, Sy.
+====
+
+[[v23-5-20]]
+
+^<<v23-5-20,20>>^ Ai dos que dizem que o bom é mau e que o mau é bom, os que põem a escuridão por luz e a luz por escuridão, os que colocam o amargo pelo doce e o doce pelo amargo!
+
+[[v23-5-21]]
+
+^<<v23-5-21,21>>^ Ai dos que são sábios aos seus próprios olhos e discretos mesmo diante das suas próprias faces!
+
+[[v23-5-22]]
+
+^<<v23-5-22,22>>^ Ai dos que são poderosos em beber vinho e dos homens de energia vital para misturar bebida inebriante,
+
+[[v23-5-23]]
+
+^<<v23-5-23,23>>^ os que declaram justo ao iníquo em troca de suborno e que até mesmo ao justo^&#42;1^ tiram a sua justiça!^&#42;2^
+
+[NOTE]
+====
+. “Ao justo”, LXXSyVg e alguns mss. hebr.; 1QIsaM: “aos justos”.
+. Ou “inocência”.
+====
+
+[[v23-5-24]]
+
+^<<v23-5-24,24>>^ Por isso, assim como a língua de fogo consome o restolho e nas chamas sucumbe a mera grama seca, sua própria raiz se tornará igual ao cheiro de mofo, e a própria flor deles subirá como poeira, por terem rejeitado a lei de Jeová dos exércitos e terem desrespeitado a declaração do Santo de Israel.
+
+[[v23-5-25]]
+
+^<<v23-5-25,25>>^ Por isso é que se acendeu a ira de Jeová contra o seu povo, e ele estenderá contra eles a sua mão e os golpeará. E os montes se agitarão, e seus cadáveres ficarão como carniça no meio das ruas.
+Sua ira não recuou em vista de tudo isso, mas a sua mão ainda está estendida.
+
+[[v23-5-26]]
+
+^<<v23-5-26,26>>^ E ele levantou um sinal de aviso para uma grande nação^&#42;1^ longínqua e assobiou para ela na extremidade da terra; e eis que ela se apressará a entrar velozmente.
+
+[NOTE]
+====
+. “Para uma grande nação.” Hebr.: lag·goh·yím, pl., para denotar grandeza, mas com um pronome (“ela”) no sing, e com um verbo no sing., a saber: “ela . . . a entrar”. Veja v. 27 n.
+====
+
+[[v23-5-27]]
+
+^<<v23-5-27,27>>^ Não há entre eles^&#42;1^ nenhum cansado, nem qualquer que tropece. Ninguém está sonolento e ninguém dorme. E o cinto em volta dos seus lombos certamente não será solto, nem se romperão os cordões de suas sandálias;
+
+[NOTE]
+====
+. Lit.: “ela”, isto é, a “nação”, hebr. sing., mas em sentido coletivo.
+====
+
+[[v23-5-28]]
+
+^<<v23-5-28,28>>^ porque suas flechas estão afiadas e todos os seus arcos estão entesados. Até os cascos dos seus cavalos terão de ser considerados como a própria pederneira, e suas rodas como o tufão.
+
+[[v23-5-29]]
+
+^<<v23-5-29,29>>^ Seu bramido é como o do leão, e bramem como leões novos, jubados. E rugirão e apoderar-se-ão da presa, e [a] levarão em segurança, e não haverá livrador.
+
+[[v23-5-30]]
+
+^<<v23-5-30,30>>^ E naquele dia rugirão sobre ela como que com o rugido do mar. E olhar-se-á realmente para a terra, e eis que há uma aflitiva escuridão; e até mesmo a luz escureceu por causa das gotas que caem sobre ela.
+
+'''
+
+xref:023-isaias/023-isaias-004.adoc#v23-4-0[&#60; Capítulo Anterior] | <<v23-5-0,Topo>> | xref:023-isaias/023-isaias-006.adoc#v23-6-0[Próximo Capítulo &#62;]

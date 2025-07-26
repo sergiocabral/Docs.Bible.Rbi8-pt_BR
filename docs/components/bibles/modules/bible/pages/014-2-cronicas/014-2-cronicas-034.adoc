@@ -1,0 +1,178 @@
+include::./index.adoc[]
+
+[[v14-34-0]]
+=== 2 Crônicas, 34
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v14-34-1]]
+
+^<<v14-34-1,1>>^ Josias tinha oito anos de idade quando começou a reinar e reinou por trinta e um anos em Jerusalém.
+
+[[v14-34-2]]
+
+^<<v14-34-2,2>>^ E passou a fazer o que era direito aos olhos de Jeová e a andar nos caminhos de Davi, seu antepassado; e não se desviou nem para a direita nem para a esquerda.
+
+[[v14-34-3]]
+
+^<<v14-34-3,3>>^ E no oitavo ano do seu reinado, quando ainda era rapaz, principiou a buscar o Deus de Davi, seu antepassado; e no décimo segundo ano principiou a limpar Judá e Jerusalém dos altos, e dos postes sagrados, e das imagens entalhadas, e das estátuas fundidas.
+
+[[v14-34-4]]
+
+^<<v14-34-4,4>>^ Além disso, demoliram diante dele os altares dos Baalins; e ele cortou deles os pedestais-incensários que havia por cima; e destroçou os postes sagrados, e as imagens entalhadas, e as estátuas fundidas, e os reduziu a pó e [o] esparramou sobre a superfície das sepulturas dos que costumavam oferecer sacrifícios a eles.
+
+[[v14-34-5]]
+
+^<<v14-34-5,5>>^ E queimou ossos de sacerdotes sobre os seus altares. Assim limpou Judá e Jerusalém.
+
+[[v14-34-6]]
+
+^<<v14-34-6,6>>^ Também, nas cidades de Manassés, e de Efraim, e de Simeão, e até Naftali, nos seus lugares desolados em todo o redor,
+
+[[v14-34-7]]
+
+^<<v14-34-7,7>>^ ele foi até mesmo demolir os altares e os postes sagrados, e esmiuçou e pulverizou as imagens entalhadas; e cortou em toda a terra de Israel todos os pedestais-incensários, retornando depois a Jerusalém.
+
+[[v14-34-8]]
+
+^<<v14-34-8,8>>^ E no décimo oitavo ano do seu reinado, tendo purificado o país e a casa, enviou Safã, filho de Azalias, e Maaséias, chefe da cidade, e Joá, filho de Joacaz, o cronista, para consertar a casa de Jeová, seu Deus.
+
+[[v14-34-9]]
+
+^<<v14-34-9,9>>^ E eles passaram a chegar a Hilquias,^&#42;1^ o sumo sacerdote,^&#42;2^ e a entregar o dinheiro que se trazia à casa de Deus, que os levitas, os guardas das portas, haviam ajuntado da mão de Manassés e de Efraim, e de todo o restante de Israel, e de todo o Judá e Benjamim, e dos habitantes de Jerusalém.^&#42;3^
+
+[NOTE]
+====
+. Significando “Meu Quinhão É Jeová”. Hebr.: Hhil·qi·yá·hu.
+. Lit.: “o grande sacerdote”, MLXXVg.
+. “Dos habitantes de Jerusalém”, MTLXXSyVg; Mmargem e muitos mss. hebr.: “retornaram a Jerusalém”.
+====
+
+[[v14-34-10]]
+
+^<<v14-34-10,10>>^ Entregaram-no então à mão dos que faziam^&#42;1^ a obra, os quais estavam encarregados da^&#42;2^ casa de Jeová. Por sua vez, os que faziam a obra, que estavam ativos na casa de Jeová, usavam-no para reparar e consertar a casa.
+
+[NOTE]
+====
+. “Dos que faziam”, LXXSyVg e muitos mss. hebr.; M: “do que fazia”.
+. Ou “na”.
+====
+
+[[v14-34-11]]
+
+^<<v14-34-11,11>>^ Deram-no, pois, aos artífices e aos construtores, a fim de comprarem pedras lavradas e madeiras para cavilhas, e para construir com vigas as casas que os reis de Judá tinham arruinado.
+
+[[v14-34-12]]
+
+^<<v14-34-12,12>>^ E os homens agiam em fidelidade na obra; e deles foram encarregados Jaate e Obadias, os levitas, dos filhos de Merari, e Zacarias e Mesulão, dos filhos dos coatitas, para atuarem como supervisores. E os levitas, cada um dos quais era perito com instrumentos de canto,
+
+[[v14-34-13]]
+
+^<<v14-34-13,13>>^ estavam sobre os carregadores e os supervisores de todos os que faziam a obra para os diversos serviços; e dentre os levitas havia secretários, e oficiais, e porteiros.
+
+[[v14-34-14]]
+
+^<<v14-34-14,14>>^ Ora, quando traziam para fora o dinheiro que se levava à casa de Jeová, Hilquias, o sacerdote, achou o livro da lei de Jeová pela mão de Moisés.
+
+[[v14-34-15]]
+
+^<<v14-34-15,15>>^ De modo que Hilquias respondeu e disse a Safã, o secretário: “Achei na casa de Jeová o próprio livro da lei.” Com isto Hilquias deu o livro a Safã.
+
+[[v14-34-16]]
+
+^<<v14-34-16,16>>^ Então Safã levou o livro ao rei e replicou mais ao rei, dizendo: “Tudo o que se colocou na mão dos teus servos eles estão fazendo.
+
+[[v14-34-17]]
+
+^<<v14-34-17,17>>^ E despejam o dinheiro que se acha na casa de Jeová e o dão na mão dos encarregados e na mão dos que fazem a obra.”
+
+[[v14-34-18]]
+
+^<<v14-34-18,18>>^ E Safã, o secretário, prosseguiu, informando o rei, dizendo: “Hilquias, o sacerdote, deu-me um livro.” E Safã começou a lê-lo perante o rei.
+
+[[v14-34-19]]
+
+^<<v14-34-19,19>>^ E aconteceu que, assim que o rei ouviu as palavras da lei, rasgou imediatamente as suas vestes.
+
+[[v14-34-20]]
+
+^<<v14-34-20,20>>^ Então o rei ordenou a Hilquias e a Aicão, filho de Safã, e a Abdom, filho de Micá, e a Safã, o secretário, e a Asaías, servo do rei, dizendo:
+
+[[v14-34-21]]
+
+^<<v14-34-21,21>>^ “Ide, consultai a Jeová por mim e pelo que resta em Israel e em Judá com respeito às palavras do livro que se achou, pois grande é o furor de Jeová que se tem de derramar contra nós pelo fato de que os nossos antepassados não guardaram a palavra de Jeová, fazendo segundo tudo o que está escrito neste livro.”
+
+[[v14-34-22]]
+
+^<<v14-34-22,22>>^ Por conseguinte, Hilquias junto com os que o rei [designara]^&#42;1^ foram ter com Hulda, a profetisa, esposa de Salum, filho de Ticvá,^&#42;2^ filho de Harás,^&#42;3^ o guarda-roupa, morando ela em Jerusalém, no segundo bairro; e passaram a falar-lhe neste sentido.
+
+[NOTE]
+====
+. “Designara”, LXX; M omite isso.
+. Lit.: “Tocate”.
+. Lit.: “Hasrá”. Mas veja 2Rs 22:14.
+====
+
+[[v14-34-23]]
+
+^<<v14-34-23,23>>^ Por sua vez, ela lhes disse:
+“Assim disse Jeová, o Deus de Israel: ‘Dizei^&#42;1^ ao homem que vos enviou a mim:
+
+[NOTE]
+====
+. “Dizei”, no hebr., imperativo, masc., pl.
+====
+
+[[v14-34-24]]
+
+^<<v14-34-24,24>>^ “Assim disse Jeová: ‘Eis que estou trazendo calamidade sobre este lugar e sobre os seus habitantes, todas as maldições que estão escritas no livro que se lê diante do rei de Judá,
+
+[[v14-34-25]]
+
+^<<v14-34-25,25>>^ pelo fato de que me abandonaram e foram fazer fumaça sacrificial a outros deuses, para me ofender com todos os feitos das suas mãos e para que meu furor se derrame sobre este lugar e não se apague.’”
+
+[[v14-34-26]]
+
+^<<v14-34-26,26>>^ E ao rei de Judá, que vos manda consultar a Jeová, deveis dizer o seguinte: “Assim disse Jeová, o Deus de Israel: ‘No que se refere às palavras que ouviste,
+
+[[v14-34-27]]
+
+^<<v14-34-27,27>>^ visto que o teu coração se amoleceu de modo que te humilhaste por causa de Deus,^&#42;1^ quando ouviste as suas palavras referentes a este lugar e seus habitantes, e te humilhaste diante de mim, e rasgaste a tua roupa e choraste diante de mim, eu, sim, eu tenho ouvido, é a pronunciação de Jeová.
+
+[NOTE]
+====
+. “Deus”, MVg; Sy: “Jeová”; LXX: “mim”.
+====
+
+[[v14-34-28]]
+
+^<<v14-34-28,28>>^ Eis que te ajunto aos teus antepassados e serás certamente recolhido ao teu cemitério^&#42;1^ em paz, e teus olhos não olharão para toda a calamidade que estou trazendo sobre este lugar e sobre os seus habitantes.’”’”
+Levaram então a resposta ao rei.
+
+[NOTE]
+====
+. Lit.: “sepulturas”.
+====
+
+[[v14-34-29]]
+
+^<<v14-34-29,29>>^ E o rei passou a mandar ajuntar todos os anciãos de Judá e de Jerusalém.
+
+[[v14-34-30]]
+
+^<<v14-34-30,30>>^ O rei subiu então à casa de Jeová com todos os homens de Judá, e com os habitantes de Jerusalém, e com os sacerdotes, e com os levitas, e com todo o povo, tanto o grande como o pequeno; e começou a ler aos ouvidos deles todas as palavras do livro do pacto, que fora achado na casa de Jeová.
+
+[[v14-34-31]]
+
+^<<v14-34-31,31>>^ E o rei ficou de pé no seu lugar e passou a concluir o pacto perante Jeová, para ir seguindo a Jeová e para guardar os seus mandamentos, e seus testemunhos, e seus regulamentos, de todo o seu coração e de toda a sua alma, cumprindo as palavras do pacto, que estavam escritas neste livro.
+
+[[v14-34-32]]
+
+^<<v14-34-32,32>>^ Ademais, fez todos os que se achavam em Jerusalém e em Benjamim tomar a sua posição [em relação ao mesmo]. E os habitantes de Jerusalém passaram a fazer segundo o pacto de Deus, o Deus de seus antepassados.
+
+[[v14-34-33]]
+
+^<<v14-34-33,33>>^ Depois Josias removeu todas as coisas detestáveis de todas as terras que pertenciam aos filhos de Israel e fez todos os que se achavam em Israel prestar serviço, para servirem a Jeová, seu Deus. Em todos os seus dias, não se desviaram de seguir a Jeová, o Deus de seus antepassados.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-033.adoc#v14-33-0[&#60; Capítulo Anterior] | <<v14-34-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-035.adoc#v14-35-0[Próximo Capítulo &#62;]

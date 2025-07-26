@@ -1,0 +1,215 @@
+include::./index.adoc[]
+
+[[v5-5-0]]
+=== Deuteronômio, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-5-1]]
+
+^<<v5-5-1,1>>^ E Moisés passou a chamar todo o Israel e a dizer-lhes: “Ouve, ó Israel, os regulamentos e as decisões judiciais que hoje falo aos vossos ouvidos, e tendes de aprendê-los e cuidar em cumpri-los.
+
+[[v5-5-2]]
+
+^<<v5-5-2,2>>^ Jeová, nosso Deus, concluiu conosco um pacto em Horebe.
+
+[[v5-5-3]]
+
+^<<v5-5-3,3>>^ Não foi com os nossos antepassados que Jeová concluiu este pacto, mas conosco, todos os que hoje aqui estamos vivos.
+
+[[v5-5-4]]
+
+^<<v5-5-4,4>>^ Face a face vos falou Jeová no monte do meio do fogo.
+
+[[v5-5-5]]
+
+^<<v5-5-5,5>>^ Naquele tempo específico eu estava de pé entre Jeová e vós para vos declarar a palavra^&#42;1^ de Jeová, (porque tínheis medo por causa do fogo e não subistes ao monte,) dizendo:
+
+[NOTE]
+====
+. “Palavra”, M; SamLXXSyVg: “palavras”.
+====
+
+[[v5-5-6]]
+
+^<<v5-5-6,6>>^ “‘Eu sou Jeová, teu Deus, que te fiz sair da terra do Egito, da casa dos escravos.
+
+[[v5-5-7]]
+
+^<<v5-5-7,7>>^ Nunca deves ter quaisquer outros deuses em oposição à minha pessoa.^&#42;1^
+
+[NOTE]
+====
+. Ou “deuses em desafio a mim”.
+====
+
+[[v5-5-8]]
+
+^<<v5-5-8,8>>^ “‘Não deves fazer para ti imagem esculpida, semelhança alguma^&#42;1^ do que há nos céus em cima ou do que há na terra embaixo, ou do que há nas águas abaixo da terra.
+
+[NOTE]
+====
+. “Semelhança alguma”, M; SamTJLXXSyVg, 61 mss. hebr. e Êx 20:4: “nem semelhança”.
+====
+
+[[v5-5-9]]
+
+^<<v5-5-9,9>>^ Não te deves curvar diante delas, nem ser induzido a servi-las,^&#42;1^ porque eu, Jeová, teu Deus, sou um Deus que exige devoção exclusiva,^&#42;2^ trazendo punição pelo erro dos pais sobre os filhos, e^&#42;3^ sobre a terceira geração e sobre a quarta geração,^&#42;4^ no caso dos que me odeiam,
+
+[NOTE]
+====
+. Ou “ser induzido a adorá-las; ser induzido a prestar-lhes serviço sagrado”. Hebr.: tho·‛ov·dhém; gr.: la·treú·seis au·toís.
+. Ou “um Deus que é ciumento (zeloso); um Deus que não tolera rivalidade”. Veja 4:24 n.
+. “E”, M; SamTJLXXSyVg, 57 mss. hebr. e Êx 20:5 omitem a palavra.
+. Lit.: “sobre os terceiros e os quartos [gerados]”. Veja Gên 50:23 n.
+====
+
+[[v5-5-10]]
+
+^<<v5-5-10,10>>^ mas usando de benevolência^&#42;1^ para com a milésima geração no caso dos que me amam e que guardam os meus mandamentos.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v5-5-11]]
+
+^<<v5-5-11,11>>^ “‘Não deves tomar^&#42;1^ o nome de Jeová, teu Deus, dum modo fútil,^&#42;2^ pois Jeová não deixará impune aquele que tomar seu nome dum modo fútil.
+
+[NOTE]
+====
+. Ou “não proferir”, ou: “não erguer (carregar)”.
+. Ou “para uma falsidade”, como no v. 20. Ou “em vão”.
+====
+
+[[v5-5-12]]
+
+^<<v5-5-12,12>>^ “‘Guardando^&#42;1^ o dia de sábado para o manteres sagrado, assim como Jeová, teu Deus, te mandou,
+
+[NOTE]
+====
+. “Guardando.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo, não estando no imperativo.
+====
+
+[[v5-5-13]]
+
+^<<v5-5-13,13>>^ deves prestar serviço^&#42;1^ e tens de fazer toda a tua obra por seis dias.
+
+[NOTE]
+====
+. Ou “deves trabalhar”. Gr.: er·gaí.
+====
+
+[[v5-5-14]]
+
+^<<v5-5-14,14>>^ Mas o sétimo dia é um sábado para Jeová, teu Deus. Não deves fazer nenhuma obra, nem tu, nem teu filho, nem tua filha, nem teu escravo, nem tua escrava, nem teu touro, nem teu jumento, nem qualquer animal doméstico teu, nem teu residente forasteiro que está dentro dos teus portões, a fim de que teu escravo e tua escrava descansem como tu.
+
+[[v5-5-15]]
+
+^<<v5-5-15,15>>^ E tens de lembrar-te de que te tornaste escravo na terra do Egito e que Jeová, teu Deus, passou a fazer-te sair de lá com mão forte e braço estendido. É por isso que Jeová, teu Deus, te mandou observar o dia de sábado.
+
+[[v5-5-16]]
+
+^<<v5-5-16,16>>^ “‘Honra a teu pai e a tua mãe, assim como te mandou Jeová, teu Deus, a fim de que os teus dias se prolonguem e te vá bem sobre o solo que Jeová, teu Deus, te dá.
+
+[[v5-5-17]]
+
+^<<v5-5-17,17>>^ “‘Não deves assassinar.
+
+[[v5-5-18]]
+
+^<<v5-5-18,18>>^ “‘Nem deves^&#42;1^ cometer adultério.
+
+[NOTE]
+====
+. “Nem deves”, MVg; SamLXXSy e Êx 20:14-17: “Não deves.”
+====
+
+[[v5-5-19]]
+
+^<<v5-5-19,19>>^ “‘Nem deves furtar.
+
+[[v5-5-20]]
+
+^<<v5-5-20,20>>^ “‘Nem deves testificar uma inverdade contra o teu próximo.^&#42;1^
+
+[NOTE]
+====
+. Ou “teu companheiro”. LXXVg: “teu próximo”.
+====
+
+[[v5-5-21]]
+
+^<<v5-5-21,21>>^ “‘Nem deves desejar a esposa do teu próximo. Nem deves almejar egoistamente^&#42;1^ a casa do teu próximo, seu campo ou seu escravo, ou sua escrava, seu touro ou seu jumento, ou qualquer coisa que pertença ao teu próximo.’
+
+[NOTE]
+====
+. “Desejar [hebr.: thahh·módh] . . . almejar egoistamente [hebr.: thith·’aw·wéh].” Neste décimo mandamento usam-se dois verbos hebr. diferentes, mas em Êx 20:17 usa-se apenas o primeiro. Agostinho baseava-se nesses verbos diferentes para fazer aqui dois mandamentos, compensando assim a fusão dos primeiros dois mandamentos. Veja Êx 20:17 n.
+====
+
+[[v5-5-22]]
+
+^<<v5-5-22,22>>^ “Estas Palavras^&#42;1^ Jeová falou no monte a toda a vossa congregação, do meio do fogo, da nuvem e das densas trevas, com voz alta, e não acrescentou nada; após isso as escreveu em duas tábuas de pedra e mas deu.
+
+[NOTE]
+====
+. “Palavras”, isto é, palavras de ordem, mandamentos. Veja 4:13; 10:4.
+====
+
+[[v5-5-23]]
+
+^<<v5-5-23,23>>^ “E sucedeu que, assim que ouvistes a voz do meio da escuridão, enquanto o monte ardia com fogo, passastes a chegar-vos a mim, todos os cabeças das vossas tribos e todos os vossos anciãos.
+
+[[v5-5-24]]
+
+^<<v5-5-24,24>>^ Então dissestes: ‘Eis que Jeová, nosso Deus, nos mostrou a sua glória e a sua grandeza, e ouvimos a sua voz do meio do fogo. Neste dia vimos que Deus pode falar com o homem e que este realmente pode continuar vivendo.
+
+[[v5-5-25]]
+
+^<<v5-5-25,25>>^ E agora, por que devíamos morrer, visto que este grande fogo nos pode consumir? Se novamente ouvirmos ainda mais a voz de Jeová, nosso Deus, então certamente morreremos.
+
+[[v5-5-26]]
+
+^<<v5-5-26,26>>^ Pois, quem há de toda a carne, que tenha ouvido a voz do Deus vivente^&#42;1^ falar do meio do fogo, assim como nós, e ainda continue vivendo?
+
+[NOTE]
+====
+. “Deus vivente.” Hebr.: ’Elo·hím, seguido pelo adjetivo no pl. hhai·yím, “viventes”; em 2Rs 19:4, 16, e Isa 37:4, 17, “Deus” é seguido pelo adjetivo no sing., hhai. Esta é a primeira ocorrência deste título.
+====
+
+[[v5-5-27]]
+
+^<<v5-5-27,27>>^ Chega-te tu e ouve tudo o que Jeová, nosso Deus, disser; e serás tu quem nos falará tudo o que Jeová, nosso Deus, te falar, e certamente escutaremos e [o] faremos.’
+
+[[v5-5-28]]
+
+^<<v5-5-28,28>>^ “Assim, Jeová ouviu a voz das vossas palavras quando me falastes e Jeová prosseguiu, dizendo-me: ‘Ouvi a voz das palavras deste povo, as quais te falaram. Fizeram bem em tudo o que falaram.
+
+[[v5-5-29]]
+
+^<<v5-5-29,29>>^ Se somente^&#42;1^ desenvolvessem este coração seu para me temerem e para guardarem sempre todos os meus mandamentos, para que lhes fosse bem a eles e a seus filhos, por tempo indefinido!
+
+[NOTE]
+====
+. Lit.: “Quem dará e . . .?”
+====
+
+[[v5-5-30]]
+
+^<<v5-5-30,30>>^ Vai dizer-lhes: “Voltai às vossas tendas.”
+
+[[v5-5-31]]
+
+^<<v5-5-31,31>>^ E fica aqui comigo e deixa-me falar-te todo o mandamento, e os regulamentos, e as decisões judiciais que lhes deves ensinar e que eles têm de cumprir na terra que lhes dou para tomarem posse dela.’
+
+[[v5-5-32]]
+
+^<<v5-5-32,32>>^ E tendes de cuidar em fazer assim como Jeová, vosso Deus, vos ordenou. Não vos deveis desviar nem para a direita nem para a esquerda.
+
+[[v5-5-33]]
+
+^<<v5-5-33,33>>^ Deveis andar em todo o caminho que Jeová, vosso Deus, vos ordenou, para que vivais e vos vá bem, e deveras prolongueis os vossos dias na terra de que tomareis posse.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-004.adoc#v5-4-0[&#60; Capítulo Anterior] | <<v5-5-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-006.adoc#v5-6-0[Próximo Capítulo &#62;]

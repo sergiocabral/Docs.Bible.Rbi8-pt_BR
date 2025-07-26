@@ -1,0 +1,114 @@
+include::./index.adoc[]
+
+[[v13-28-0]]
+=== 1 Crônicas, 28
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v13-28-1]]
+
+^<<v13-28-1,1>>^ E Davi passou a congregar em Jerusalém todos os príncipes de Israel, os príncipes das tribos e os príncipes das turmas dos que ministravam ao rei, e os chefes^&#42;1^ de mil, e os chefes de cem, e os chefes de todos os bens e do gado do rei e dos seus filhos, junto com os oficiais da corte e os homens poderosos, sim, todo homem poderoso, valente.
+
+[NOTE]
+====
+. Ou “e os príncipes”. Hebr.: wesa·réh.
+====
+
+[[v13-28-2]]
+
+^<<v13-28-2,2>>^ Então Davi, o rei, se pôs de pé e disse:
+“Ouvi-me, meus irmãos e meu povo. Quanto a mim, estava achegado ao meu coração construir uma casa de descanso para a arca do pacto de Jeová e como o escabelo de nosso Deus, e eu havia feito preparativos para a construção.
+
+[[v13-28-3]]
+
+^<<v13-28-3,3>>^ E o próprio [verdadeiro] Deus disse-me: ‘Não construirás uma casa ao meu nome; pois és homem de guerras e derramaste sangue.’
+
+[[v13-28-4]]
+
+^<<v13-28-4,4>>^ Por conseguinte, Jeová, o Deus de Israel, escolheu-me dentre toda a casa de meu pai para tornar-me rei sobre Israel por tempo indefinido; porque havia escolhido a Judá como líder, e na casa de Judá, a casa de meu pai, e dentre os filhos de meu pai fui eu quem ele aprovou para fazer-me rei sobre todo o Israel;
+
+[[v13-28-5]]
+
+^<<v13-28-5,5>>^ e dentre todos os meus filhos (pois são muitos os filhos que Jeová me deu) escolheu então a Salomão, meu filho, para assentar-se no trono do reinado de Jeová sobre Israel.
+
+[[v13-28-6]]
+
+^<<v13-28-6,6>>^ “Outrossim, ele me disse: ‘Salomão, teu filho, é quem construirá a minha casa e os meus pátios; pois eu o escolhi como meu filho e eu mesmo me tornarei seu pai.
+
+[[v13-28-7]]
+
+^<<v13-28-7,7>>^ E hei de estabelecer firmemente o seu reinado por tempo indefinido, se ele estiver firmemente resolvido a cumprir os meus mandamentos e as minhas decisões judiciais como neste dia.’
+
+[[v13-28-8]]
+
+^<<v13-28-8,8>>^ E agora, diante dos olhos de todo o Israel, a congregação^&#42;1^ de Jeová, e aos ouvidos de nosso Deus, tomai cuidado e buscai todos os mandamentos de Jeová, vosso Deus, a fim de possuirdes a boa terra e certamente a poderdes dar em herança aos vossos filhos depois de vós, por tempo indefinido.
+
+[NOTE]
+====
+. “Congregação.” Hebr.: qehál; gr.: ek·kle·sí·as.
+====
+
+[[v13-28-9]]
+
+^<<v13-28-9,9>>^ “E tu, Salomão, meu filho, conhece o Deus de teu pai e serve-o de pleno coração e de alma agradável; porque Jeová sonda todos os corações e discerne toda inclinação dos pensamentos. Se o buscares, deixar-se-á achar por ti; mas, se o deixares, deitar-te-á fora para sempre.
+
+[[v13-28-10]]
+
+^<<v13-28-10,10>>^ Vê agora, porque o próprio Jeová te escolheu para construíres uma casa como santuário. Sê corajoso e age.”
+
+[[v13-28-11]]
+
+^<<v13-28-11,11>>^ E Davi passou a dar a Salomão, seu filho, o plano arquitetônico do pórtico, e das suas casas, e das suas despensas, e dos seus quartos de terraço, e dos seus escuros quartos interiores, e da casa da tampa propiciatória;^&#42;1^
+
+[NOTE]
+====
+. Ou “do trono de misericórdia”. Hebr.: hak·kap·pó·reth; lat.: pro·pi·ti·a·ti·ó·nis. Veja Êx 25:17; Le 16:2; He 9:5.
+====
+
+[[v13-28-12]]
+
+^<<v13-28-12,12>>^ até mesmo o plano arquitetônico de tudo o que viera a estar com ele por inspiração,^&#42;1^ para os pátios da casa de Jeová e para todos os refeitórios ao redor, para os tesouros da casa do [verdadeiro] Deus e para os tesouros das coisas tornadas sagradas;
+
+[NOTE]
+====
+. Lit.: “pelo espírito”. Veja Mt 22:43; Re 1:10.
+====
+
+[[v13-28-13]]
+
+^<<v13-28-13,13>>^ e para as turmas dos sacerdotes e dos levitas, e para toda a obra do serviço da casa de Jeová e para todos os utensílios do serviço da casa de Jeová;
+
+[[v13-28-14]]
+
+^<<v13-28-14,14>>^ para o ouro por peso, o ouro para todos os utensílios dos diversos serviços, para todos os utensílios de prata por peso, para todos os utensílios dos diversos serviços;
+
+[[v13-28-15]]
+
+^<<v13-28-15,15>>^ e o peso para o candelabro de ouro e suas lâmpadas de ouro, pelo peso dos diversos candelabros e das suas lâmpadas, e para os candelabros de prata, por peso, para o candelabro e suas lâmpadas segundo o serviço dos diversos candelabros;
+
+[[v13-28-16]]
+
+^<<v13-28-16,16>>^ e o ouro, por peso, para as mesas do pão de pilha, para as diversas mesas, e prata para as mesas de prata;
+
+[[v13-28-17]]
+
+^<<v13-28-17,17>>^ e os garfos, e as tigelas, e as bilhas de ouro puro, e para as tigelinhas de ouro, por peso, para as diversas tigelinhas, e para as tigelinhas de prata, por peso, para as diversas tigelinhas;
+
+[[v13-28-18]]
+
+^<<v13-28-18,18>>^ e para o altar do incenso de ouro refinado, por peso, e para a representação do carro, a saber, os querubins de ouro para estenderem [suas asas] e abrigarem a arca do pacto de Jeová.
+
+[[v13-28-19]]
+
+^<<v13-28-19,19>>^ “Ele deu perspicácia para a coisa inteira, por escrito, da parte da mão de Jeová sobre mim, sim, para todas as obras do plano arquitetônico.”
+
+[[v13-28-20]]
+
+^<<v13-28-20,20>>^ E Davi prosseguiu, dizendo a Salomão, seu filho: “Sê corajoso e forte, e age. Não tenhas medo nem fiques aterrorizado, porque Jeová Deus, meu Deus, está contigo. Não te desamparará nem te deixará até que se acabe toda a obra do serviço da casa de Jeová.
+
+[[v13-28-21]]
+
+^<<v13-28-21,21>>^ E aqui estão as turmas dos sacerdotes e dos levitas para todo o serviço da casa do [verdadeiro] Deus; e em toda a obra há contigo todo aquele que está disposto, com perícia para todo o serviço, e também os príncipes e todo o povo, para todas as tuas palavras.”
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-027.adoc#v13-27-0[&#60; Capítulo Anterior] | <<v13-28-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-029.adoc#v13-29-0[Próximo Capítulo &#62;]

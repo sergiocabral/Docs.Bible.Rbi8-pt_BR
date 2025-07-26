@@ -1,0 +1,142 @@
+include::./index.adoc[]
+
+[[v3-1-0]]
+=== Levítico, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-1-1]]
+
+^<<v3-1-1,1>>^ E Jeová passou a chamar^&#42;1^ Moisés e a falar-lhe desde a tenda de reunião, dizendo:
+
+[NOTE]
+====
+. Lit.: “E . . . passou a chamar.” Hebr.: Wai·yiq·rá’. Em hebr., este terceiro livro de Moisés deriva seu nome desta expressão inicial. LXXVg chamam este livro de “Levítico” (gr.: Leu·i·ti·kón; lat.: Le·ví·ti·cus, “Referente a Levita [Levitas]”).
+====
+
+[[v3-1-2]]
+
+^<<v3-1-2,2>>^ “Fala aos filhos de Israel, e tens de dizer-lhes: ‘Caso algum homem^&#42;1^ vosso apresente^&#42;2^ a Jeová uma oferta^&#42;3^ dentre os animais domésticos, deveis apresentar a vossa oferta^&#42;4^ dentre a manada e dentre o rebanho.
+
+[NOTE]
+====
+. Ou “qualquer homem”. Hebr.: ’a·dhám.
+. Ou “oferte”.
+. “Oferta.” Hebr.: qor·bán; gr.: dó·ra, “dádivas”. Veja Mr 7:11.
+. “Oferta”, M; SamLXXSy: “ofertas”.
+====
+
+[[v3-1-3]]
+
+^<<v3-1-3,3>>^ “‘Se a sua oferta for uma oferta queimada^&#42;1^ da manada, deve apresentar um macho sadio. Deve apresentá-la de sua própria vontade à entrada da tenda de reunião perante Jeová.
+
+[NOTE]
+====
+. “Oferta queimada.” Hebr.: ‛o·láh; gr.: ho·lo·kaú·to·ma; lat.: ho·lo·caú·stum, “holocausto”, um sacrifício consumido pelo fogo.
+====
+
+[[v3-1-4]]
+
+^<<v3-1-4,4>>^ E tem de pôr sua mão sobre a cabeça da oferta queimada e ela tem de ser favoravelmente aceita em prol dele, para fazer expiação por ele.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “fazer cobertura sobre ele”.
+====
+
+[[v3-1-5]]
+
+^<<v3-1-5,5>>^ “‘Então tem de se abater o vitelo^&#42;1^ perante Jeová; e os filhos de Arão, os sacerdotes, têm de apresentar o sangue e aspergir o sangue ao redor sobre o altar que está à entrada da tenda de reunião.
+
+[NOTE]
+====
+. Ou: “E ele tem de abater o vitelo.” LXX: “E eles abaterão o vitelo.”
+====
+
+[[v3-1-6]]
+
+^<<v3-1-6,6>>^ E a oferta queimada tem de ser esfolada e cortada nos seus pedaços.
+
+[[v3-1-7]]
+
+^<<v3-1-7,7>>^ E os filhos de Arão, os sacerdotes,^&#42;1^ têm de pôr fogo sobre o altar e colocar a lenha em ordem sobre o fogo.
+
+[NOTE]
+====
+. “Sacerdotes”, SamLXX e cinco mss. hebr.; M: “sacerdote”. Veja vv. 5, 8.
+====
+
+[[v3-1-8]]
+
+^<<v3-1-8,8>>^ E os filhos de Arão, os sacerdotes,^&#42;1^ têm de colocar os pedaços em ordem, com a cabeça e o sebo, por cima da lenha que está sobre o fogo que há no altar.
+
+[NOTE]
+====
+. “Sacerdotes”, MLXXSy.
+====
+
+[[v3-1-9]]
+
+^<<v3-1-9,9>>^ E seus intestinos e suas pernas serão lavados^&#42;1^ com água; e o sacerdote tem de fazer toda ela fumegar sobre o altar, como oferta queimada, uma oferta feita por fogo,^&#42;2^ de cheiro repousante para Jeová.
+
+[NOTE]
+====
+. Ou: “E ele lhe lavará os intestinos e as pernas.”
+. Veja Êx 29:18 n.
+====
+
+[[v3-1-10]]
+
+^<<v3-1-10,10>>^ “‘E se a sua oferta como oferta queimada for do rebanho, dos carneirinhos ou dos caprídeos, apresentará um macho, um sadio.
+
+[[v3-1-11]]
+
+^<<v3-1-11,11>>^ E ela tem de ser abatida^&#42;1^ ao lado setentrional do altar, perante Jeová, e os filhos de Arão, os sacerdotes, têm de aspergir seu sangue ao redor sobre o altar.
+
+[NOTE]
+====
+. Ou: “E ele terá de abatê-la.”
+====
+
+[[v3-1-12]]
+
+^<<v3-1-12,12>>^ E ele tem de cortá-la nos seus pedaços, e sua cabeça e seu sebo, e o sacerdote tem de colocá-los em ordem por cima da lenha que está sobre o fogo que há no altar.
+
+[[v3-1-13]]
+
+^<<v3-1-13,13>>^ E lavará os intestinos e as pernas com água; e o sacerdote terá de apresentar toda ela e fazê-la fumegar sobre o altar. É uma oferta queimada, uma oferta feita por fogo, de cheiro repousante para Jeová.
+
+[[v3-1-14]]
+
+^<<v3-1-14,14>>^ “‘No entanto, se a sua oferta a Jeová como oferta queimada for das aves, então tem de apresentar sua oferta dentre as rolas ou dentre os pombos novos.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “filhotes do pombo”.
+====
+
+[[v3-1-15]]
+
+^<<v3-1-15,15>>^ E o sacerdote tem de apresentá-la no altar e truncar-lhe a cabeça com a unha, e fazê-la fumegar sobre o altar, mas o sangue dela tem de deixar escorrer^&#42;1^ pelo lado do altar.
+
+[NOTE]
+====
+. Ou “de se espremer (premer)”.
+====
+
+[[v3-1-16]]
+
+^<<v3-1-16,16>>^ E tem de tirar-lhe o papo com as suas penas^&#42;1^ e lançá-lo ao lado do altar, ao leste, no lugar das cinzas gordurosas.^&#42;2^
+
+[NOTE]
+====
+. “Suas penas”, LXX; SymTh: “suas penas finas (penugem)”; possivelmente: “sua imundície (excremento)”.
+. Veja Êx 27:3 n.: “gordurosas”.
+====
+
+[[v3-1-17]]
+
+^<<v3-1-17,17>>^ E tem de fendê-la nas suas asas. Não a deve partir. Então o sacerdote tem de fazê-la fumegar sobre o altar, por cima da lenha que está sobre o fogo. É uma oferta queimada, uma oferta feita por fogo, de cheiro repousante para Jeová.
+
+'''
+
+xref:002-exodo/002-exodo-040.adoc#v2-40-0[&#60; Capítulo Anterior] | <<v3-1-0,Topo>> | xref:003-levitico/003-levitico-002.adoc#v3-2-0[Próximo Capítulo &#62;]

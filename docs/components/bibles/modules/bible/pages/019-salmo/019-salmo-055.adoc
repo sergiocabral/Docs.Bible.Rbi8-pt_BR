@@ -1,0 +1,170 @@
+include::./index.adoc[]
+
+[[v19-55-0]]
+=== Salmos, 55
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, em instrumentos de cordas. Masquil.^&#42;1^ De Davi._
+
+[[v19-55-1]]
+
+^<<v19-55-1,1>>^ Dá deveras ouvidos à minha oração, ó Deus;
+E não te ocultes diante do meu pedido de favor.
+
+[[v19-55-2]]
+
+^<<v19-55-2,2>>^ Presta deveras atenção a mim e responde-me.
+Sou impelido incansavelmente pela minha preocupação
+E só posso mostrar desassossego,
+
+[[v19-55-3]]
+
+^<<v19-55-3,3>>^ Devido à voz do inimigo, por causa da pressão do iníquo.
+Pois deixam cair sobre mim o que é prejudicial
+E em ira eles me têm rancor.
+
+[[v19-55-4]]
+
+^<<v19-55-4,4>>^ Meu próprio coração está em severas dores dentro de mim,
+E os horrores da própria morte caíram sobre mim.
+
+[[v19-55-5]]
+
+^<<v19-55-5,5>>^ Temor, sim, o próprio tremor me penetra,
+E cobre-me um estremecimento.
+
+[[v19-55-6]]
+
+^<<v19-55-6,6>>^ E continuo a dizer: “Quem me dera ter asas como a pomba!
+Eu sairia voando e ficaria residindo.
+
+[[v19-55-7]]
+
+^<<v19-55-7,7>>^ Eis que eu fugiria para longe;
+Hospedar-me-ia no ermo. — Selá —
+
+[[v19-55-8]]
+
+^<<v19-55-8,8>>^ Eu me apressaria a um lugar de escape para mim
+Do vento impetuoso,^&#42;1^ da tormenta.”
+
+[NOTE]
+====
+. “Caluniador”, segundo outra derivação do particípio hebr.
+====
+
+[[v19-55-9]]
+
+^<<v19-55-9,9>>^ Confunde, ó Jeová,^&#42;1^ divide a sua língua,
+Porque vi violência e disputa na cidade.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-55-10]]
+
+^<<v19-55-10,10>>^ Dia e noite fazem a ronda sobre as suas muralhas;
+E dentro dela há o que é prejudicial e a desgraça.
+
+[[v19-55-11]]
+
+^<<v19-55-11,11>>^ Dentro dela há adversidades;
+E da sua praça pública não se afastaram a opressão e o engano.
+
+[[v19-55-12]]
+
+^<<v19-55-12,12>>^ Porque não foi um inimigo quem passou a vituperar-me;
+Senão eu o poderia suportar.
+Não foi alguém que me odeia intensamente que assumiu ares de grandeza contra mim;
+Senão eu poderia esconder-me dele.
+
+[[v19-55-13]]
+
+^<<v19-55-13,13>>^ Mas foste tu, um homem mortal que era como meu igual,
+Um que me era familiar e meu conhecido,
+
+[[v19-55-14]]
+
+^<<v19-55-14,14>>^ Porque costumávamos desfrutar juntos de doce intimidade;
+Costumávamos andar para a casa de Deus com a multidão.
+
+[[v19-55-15]]
+
+^<<v19-55-15,15>>^ [Venham] sobre eles desolações!
+Desçam vivos ao Seol;
+Porque durante a sua residência como forasteiros houve neles coisas más.
+
+[[v19-55-16]]
+
+^<<v19-55-16,16>>^ Quanto a mim, clamarei a Deus;
+E o próprio Jeová me salvará.
+
+[[v19-55-17]]
+
+^<<v19-55-17,17>>^ À noitinha e de manhã, bem como ao meio-dia, somente me preocupo e solto gemidos,
+E ele ouve a minha voz.
+
+[[v19-55-18]]
+
+^<<v19-55-18,18>>^ Certamente remirá a minha alma [e lhe dará] paz da peleja contra mim,
+Pois vieram a ser contra mim em multidões.
+
+[[v19-55-19]]
+
+^<<v19-55-19,19>>^ Deus^&#42;1^ ouvirá e lhes responderá,
+Sim, Aquele que está sentado [entronizado] como no passado — Selá —
+Aos com quem não há mudanças^&#42;2^
+E que não temeram a Deus.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+. Ou “vicissitudes”; ou: “responsabilidades mútuas”.
+====
+
+[[v19-55-20]]
+
+^<<v19-55-20,20>>^ Estendeu as suas mãos contra os que estão em paz com ele;
+Profanou o seu pacto.
+
+[[v19-55-21]]
+
+^<<v19-55-21,21>>^ Mais macias do que a manteiga^&#42;1^ são [as palavras de] sua boca,
+Mas o seu coração está disposto à peleja.^&#42;2^
+Suas palavras são mais suaves do que o óleo,
+Mas são espadas desembainhadas.
+
+[NOTE]
+====
+. “Do que a manteiga”, mediante uma correção do M.
+. Lit.: “é peleja (guerra)”.
+====
+
+[[v19-55-22]]
+
+^<<v19-55-22,22>>^ Lança teu fardo^&#42;1^ sobre o próprio Jeová,
+E ele mesmo te susterá.
+Nunca permitirá que o justo seja abalado.
+
+[NOTE]
+====
+. Ou “quinhão” (aquilo que é dado).
+====
+
+[[v19-55-23]]
+
+^<<v19-55-23,23>>^ Mas tu mesmo, ó Deus, os farás descer ao poço mais baixo.
+Quanto aos homens culpados de sangue e enganosos,^&#42;1^ não viverão metade^&#42;2^ dos seus dias.
+Eu, porém, confiarei em ti.
+
+[NOTE]
+====
+. Lit.: “homens de sangues e de engano”.
+. Lit.: “não mearão”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-054.adoc#v19-54-0[&#60; Capítulo Anterior] | <<v19-55-0,Topo>> | xref:019-salmo/019-salmo-056.adoc#v19-56-0[Próximo Capítulo &#62;]

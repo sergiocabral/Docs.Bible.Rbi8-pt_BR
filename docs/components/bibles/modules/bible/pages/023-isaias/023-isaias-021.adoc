@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v23-21-0]]
+=== Isaías, 21
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-21-1]]
+
+^<<v23-21-1,1>>^ A pronúncia contra o ermo do mar: Avançando como os tufões no sul,^&#42;1^ está chegando desde o ermo, de uma terra atemorizante.
+
+[NOTE]
+====
+. Ou “Negebe”.
+====
+
+[[v23-21-2]]
+
+^<<v23-21-2,2>>^ Comunicou-se-me uma visão dura: O traiçoeiro age traiçoeiramente e o assolador assola. Sobe, ó Elão! Sitia, ó Média! Fiz cessar todos os suspiros devidos a ela.
+
+[[v23-21-3]]
+
+^<<v23-21-3,3>>^ Por isso é que meus quadris ficaram cheios de dores agudas. Apoderaram-se de mim as próprias convulsões, como as convulsões de uma mulher que está dando à luz. Fiquei desconcertado, de modo que nada ouço; fiquei perturbado, de modo que nada vejo.
+
+[[v23-21-4]]
+
+^<<v23-21-4,4>>^ Meu coração ficou vagueando; o próprio estremecimento me aterrorizou. O crepúsculo a que eu me afeiçoara constituiu-se para mim em tremor.
+
+[[v23-21-5]]
+
+^<<v23-21-5,5>>^ Ponha-se a mesa em ordem, arranje-se o lugar dos assentos, coma-se, beba-se!^&#42;1^ Levantai-vos, ó príncipes, ungi o escudo.
+
+[NOTE]
+====
+. No hebr., os quatro verbos aqui estão no infinitivo absoluto, indefinidos quanto ao tempo e impessoais.
+====
+
+[[v23-21-6]]
+
+^<<v23-21-6,6>>^ Pois assim me disse Jeová:^&#42;1^
+“Vai, coloca um atalaia para que informe o que vê.”
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v23-21-7]]
+
+^<<v23-21-7,7>>^ E ele viu um carro de guerra [com] uma parelha de corcéis,^&#42;1^ um carro de guerra de jumentos, um carro de guerra de camelos. E ele deu detida atenção,^&#42;2^ estando muito atento.
+
+[NOTE]
+====
+. Ou “um par de cavaleiros”.
+. Lit.: “prestou atenção com atenção”.
+====
+
+[[v23-21-8]]
+
+^<<v23-21-8,8>>^ E passou a clamar como leão:^&#42;1^ “Ó Jeová,^&#42;2^ sobre a torre de vigia^&#42;3^ estou de pé continuamente, de dia, e no meu posto de vigilância estou postado todas as noites.
+
+[NOTE]
+====
+. “Leão”, M; 1QIsa: “vidente”.
+. Veja v. 6 n.
+. Ou “mirante”. Hebr.: mits·péh.
+====
+
+[[v23-21-9]]
+
+^<<v23-21-9,9>>^ E eis que agora está chegando um carro de guerra de homens,^&#42;1^ [com] uma parelha de corcéis!”
+E ele começou a responder e a dizer: “Ela caiu! Babilônia caiu, e todas as imagens entalhadas dos seus deuses^&#42;2^ ele destroçou no chão!”
+
+[NOTE]
+====
+. “Homens.” Hebr.: ’ish, sing., mas em sentido coletivo.
+. “Seus deuses.” Hebr.: ’elo·heí·ha.
+====
+
+[[v23-21-10]]
+
+^<<v23-21-10,10>>^ Ó meus trilhados^&#42;1^ e filho da minha eira,^&#42;2^ aquilo que ouvi da parte de Jeová dos exércitos, o Deus^&#42;3^ de Israel, eu vos comuniquei.
+
+[NOTE]
+====
+. Lit.: “Ó aquilo que é trilhado [na debulha] pertencente a mim!”
+. Ou: “e meu trilhado!”
+. “O Deus de.” Hebr.: ’Elo·héh.
+====
+
+[[v23-21-11]]
+
+^<<v23-21-11,11>>^ A pronúncia contra Dumá:^&#42;1^ Há um chamando-me desde Seir: “Vigia, como está a noite? Vigia, como está a noite?”
+
+[NOTE]
+====
+. “Dumá” (significando “Silêncio”), MTSyVg; LXX: “Iduméia”, isto é, a terra dos edomitas (ou idumeus).
+====
+
+[[v23-21-12]]
+
+^<<v23-21-12,12>>^ O vigia disse: “A manhã tem de vir, e também a noite. Se quiserdes indagar, indagai. Chegai outra vez!”
+
+[[v23-21-13]]
+
+^<<v23-21-13,13>>^ A pronúncia contra a planície desértica:^&#42;1^ Passareis a noite na floresta na planície desértica, ó caravanas de homens de Dedã.
+
+[NOTE]
+====
+. “Contra a planície desértica.” Hebr.: ba‛·ráv (‛aráv corresponde a ‛ara·váh, segundo KB, p. 733); SyVg: “Arábia”.
+====
+
+[[v23-21-14]]
+
+^<<v23-21-14,14>>^ Trazei água ao encontro do sedento. Ó vós habitantes da terra de Tema, confrontai aquele que foge com pão para ele.
+
+[[v23-21-15]]
+
+^<<v23-21-15,15>>^ Pois fugiram por causa das espadas, por causa da espada desembainhada, e por causa do arco retesado, e por causa do peso da guerra.
+
+[[v23-21-16]]
+
+^<<v23-21-16,16>>^ Pois assim me disse Jeová:^&#42;1^ “Ainda dentro de um ano, segundo os anos de um trabalhador contratado, toda a glória de Quedar terá mesmo de chegar ao seu fim.
+
+[NOTE]
+====
+. Veja v. 6 n.
+====
+
+[[v23-21-17]]
+
+^<<v23-21-17,17>>^ E os restantes do número dos arqueiros, os poderosos dos filhos de Quedar, tornar-se-ão poucos, pois o próprio Jeová, o Deus de Israel, falou [isso].”
+
+'''
+
+xref:023-isaias/023-isaias-020.adoc#v23-20-0[&#60; Capítulo Anterior] | <<v23-21-0,Topo>> | xref:023-isaias/023-isaias-022.adoc#v23-22-0[Próximo Capítulo &#62;]

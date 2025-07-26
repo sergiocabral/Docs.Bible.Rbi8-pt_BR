@@ -1,0 +1,70 @@
+include::./index.adoc[]
+
+[[v19-64-0]]
+=== Salmos, 64
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Uma melodia de Davi._
+
+[[v19-64-1]]
+
+^<<v19-64-1,1>>^ Ouve, ó Deus, minha voz na minha preocupação.
+Resguarda a minha vida do pavor do inimigo.
+
+[[v19-64-2]]
+
+^<<v19-64-2,2>>^ Que tu me escondas da palestra confidencial dos malfeitores,
+Do tumulto dos que praticam o que é prejudicial,
+
+[[v19-64-3]]
+
+^<<v19-64-3,3>>^ Que afiaram a sua língua como uma espada,
+Que apontaram suas flechas, a fala amarga,
+
+[[v19-64-4]]
+
+^<<v19-64-4,4>>^ Para atirar de esconderijos sobre alguém inculpe.
+De repente atiram contra ele e não temem.
+
+[[v19-64-5]]
+
+^<<v19-64-5,5>>^ Atêm-se à má fala;
+Fazem declarações sobre encobrir laços.
+Disseram: “Quem os^&#42;1^ vê?”
+
+[NOTE]
+====
+. “Os”, MTLXXVg; Sy: “nos”.
+====
+
+[[v19-64-6]]
+
+^<<v19-64-6,6>>^ Continuam a pesquisar coisas injustas;
+Encobriram um ardil astucioso bem pesquisado,
+E o íntimo de cada um, sim, [seu] coração, é profundo.
+
+[[v19-64-7]]
+
+^<<v19-64-7,7>>^ Mas, de repente, Deus atirará contra eles com uma flecha.
+Resultaram-lhes feridas,
+
+[[v19-64-8]]
+
+^<<v19-64-8,8>>^ E fazem tropeçar.
+[Mas] a sua língua é contra eles mesmos.
+Todos os que olharem para eles menearão a cabeça,
+
+[[v19-64-9]]
+
+^<<v19-64-9,9>>^ E todos os homens terrenos ficarão com medo;
+E contarão a atividade de Deus,
+E certamente terão perspicácia quanto ao Seu trabalho.
+
+[[v19-64-10]]
+
+^<<v19-64-10,10>>^ E o justo se alegrará em Jeová e deveras se refugiará nele;
+E jactar-se-ão todos os retos no coração.
+
+'''
+
+xref:019-salmo/019-salmo-063.adoc#v19-63-0[&#60; Capítulo Anterior] | <<v19-64-0,Topo>> | xref:019-salmo/019-salmo-065.adoc#v19-65-0[Próximo Capítulo &#62;]

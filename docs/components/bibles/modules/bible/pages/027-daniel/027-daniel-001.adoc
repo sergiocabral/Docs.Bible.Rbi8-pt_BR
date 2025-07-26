@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v27-1-0]]
+=== Daniel, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v27-1-1]]
+
+^<<v27-1-1,1>>^ No terceiro ano do reinado de Jeoiaquim, rei de Judá, chegou a Jerusalém Nabucodonosor, rei de Babilônia,^&#42;1^ e passou a sitiá-la.
+
+[NOTE]
+====
+. “Babilônia”, LXXVg; MSy: “Babel”.
+====
+
+[[v27-1-2]]
+
+^<<v27-1-2,2>>^ Com o tempo, Jeová^&#42;1^ entregou-lhe na mão Jeoiaquim, rei de Judá, e parte dos utensílios da casa do [verdadeiro] Deus,^&#42;2^ de modo que os levou à terra de Sinear,^&#42;3^ à casa de seu deus; e levou os utensílios à casa do tesouro de seu deus.^&#42;4^
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+. “Do [verdadeiro] Deus.” Hebr.: ha·’Elo·hím; LXXBagster(gr.): tou The·oú; Sy: “Jeová”. Veja Ap. 1F.
+. “À terra de Sinear”, MLXXBagsterThVg; LXX: “a Babilônia”.
+. “Seu deus.” Hebr.: ’elo·háv, pl. de ’elóh·ah, evidentemente para denotar grandiosidade.
+====
+
+[[v27-1-3]]
+
+^<<v27-1-3,3>>^ O rei disse então a Aspenaz, seu principal oficial da corte,^&#42;1^ que trouxesse alguns dos filhos de Israel, e da descendência real,^&#42;2^ e dos nobres,
+
+[NOTE]
+====
+. “Seu . . . oficial da corte.” Hebr.: sa·ri·sáv; lat.: eu·nu·chó·rum su·ó·rum, “dos seus eunucos”.
+. Lit.: “da semente do reinado”.
+====
+
+[[v27-1-4]]
+
+^<<v27-1-4,4>>^ mancebos em que não houvesse nenhum defeito, mas que fossem de boa aparência, e que tivessem perspicácia em toda a sabedoria, e que estivessem familiarizados com o conhecimento, e que tivessem discernimento daquilo que se sabe, em que houvesse também a capacidade de estar de pé no palácio do rei; e que se lhes ensinasse a escrita e a língua dos caldeus.
+
+[[v27-1-5]]
+
+^<<v27-1-5,5>>^ Além disso, o rei estipulou-lhes uma ração diária das iguarias do rei e do vinho que bebia, sim, para que fossem nutridos por três anos, para que no fim destes pudessem estar de pé perante o rei.
+
+[[v27-1-6]]
+
+^<<v27-1-6,6>>^ Ora, aconteceu que havia entre eles alguns dos filhos de Judá: Daniel, Hananias, Misael e Azarias.
+
+[[v27-1-7]]
+
+^<<v27-1-7,7>>^ E o principal oficial da corte foi designar-lhes nomes. De modo que designou a Daniel [o nome de] Beltessazar; e a Hananias, Sadraque; e a Misael, Mesaque; e a Azarias, Abednego.
+
+[[v27-1-8]]
+
+^<<v27-1-8,8>>^ Mas, Daniel decidiu no coração não se poluir com as iguarias do rei e com o vinho que bebia. E ele persistiu em solicitar do principal oficial da corte que lhe [permitisse] não se poluir.
+
+[[v27-1-9]]
+
+^<<v27-1-9,9>>^ Por conseguinte, o [verdadeiro] Deus entregou Daniel à benevolência^&#42;1^ e à misericórdia perante o principal oficial da corte.
+
+[NOTE]
+====
+. Ou “ao amor leal”. Hebr.: lehhé·sedh.
+====
+
+[[v27-1-10]]
+
+^<<v27-1-10,10>>^ De modo que o principal oficial da corte disse a Daniel: “Temo meu senhor,^&#42;1^ o rei, que estipulou vosso alimento e vossa bebida. Então, por que devia ele ver as vossas faces abatidas em comparação com os mancebos que são da mesma idade que vós, e [por que] devíeis tornar a minha cabeça culpada perante o rei?”
+
+[NOTE]
+====
+. “Meu senhor.” Hebr.: ’adho·ní; gr.: ký·ri·ón; lat.: dó·mi·num.
+====
+
+[[v27-1-11]]
+
+^<<v27-1-11,11>>^ Mas, Daniel disse ao encarregado a quem o principal oficial da corte incumbira Daniel, Hananias, Misael e Azarias:
+
+[[v27-1-12]]
+
+^<<v27-1-12,12>>^ “Por favor, põe os teus servos à prova por dez dias, e dêem-se-nos alguns legumes para comer e água para beber;
+
+[[v27-1-13]]
+
+^<<v27-1-13,13>>^ e compareçam perante ti nossos semblantes e o semblante dos mancebos que comem as iguarias do rei, e faze com os teus servos segundo o que vires.”
+
+[[v27-1-14]]
+
+^<<v27-1-14,14>>^ Por fim os escutou com respeito a este assunto e os pôs à prova por dez dias.
+
+[[v27-1-15]]
+
+^<<v27-1-15,15>>^ E ao fim dos dez dias seus semblantes tinham aspecto melhor e mais cheio de carne do que todos os mancebos que comiam as iguarias do rei.
+
+[[v27-1-16]]
+
+^<<v27-1-16,16>>^ Portanto, o encarregado continuou a retirar deles as suas iguarias e seu vinho que se bebia e a dar-lhes legumes.
+
+[[v27-1-17]]
+
+^<<v27-1-17,17>>^ E no que se referia a estes mancebos, os quatro deles, a estes o [verdadeiro] Deus deu conhecimento e perspicácia em toda a escrita e sabedoria; e o próprio Daniel tinha entendimento de toda sorte de visões e sonhos.
+
+[[v27-1-18]]
+
+^<<v27-1-18,18>>^ E ao fim dos dias que o rei dissera que os trouxessem para dentro, o principal oficial da corte também os fez chegar perante Nabucodonosor.
+
+[[v27-1-19]]
+
+^<<v27-1-19,19>>^ E o rei começou a falar com eles, e dentre todos eles não se achou nenhum igual a Daniel, Hananias, Misael e Azarias; e eles continuaram de pé perante o rei.
+
+[[v27-1-20]]
+
+^<<v27-1-20,20>>^ E quanto a todo assunto de sabedoria [e] de compreensão sobre que o rei os consultou, ele até chegou a achá-los dez vezes melhores do que todos os sacerdotes-magos [e] os conjuradores que havia em todo o seu domínio real.
+
+[[v27-1-21]]
+
+^<<v27-1-21,21>>^ E Daniel continuou até o primeiro ano de Ciro,^&#42;1^ o rei.
+
+[NOTE]
+====
+. “De Ciro.” Hebr.: leKhóh·resh; gr.: Ký·rou; sir.: deKu·resh; lat.: Cý·ri.
+====
+
+'''
+
+xref:026-ezequiel/026-ezequiel-048.adoc#v26-48-0[&#60; Capítulo Anterior] | <<v27-1-0,Topo>> | xref:027-daniel/027-daniel-002.adoc#v27-2-0[Próximo Capítulo &#62;]

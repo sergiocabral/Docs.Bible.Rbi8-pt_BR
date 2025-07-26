@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v21-12-0]]
+=== Eclesiastes, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v21-12-1]]
+
+^<<v21-12-1,1>>^ Lembra-te, pois, do teu Grandioso Criador^&#42;1^ nos dias da tua idade viril,^&#42;2^ antes que passem a vir os dias calamitosos ou cheguem os anos em que dirás: “Não tenho agrado neles”;
+
+[NOTE]
+====
+. “Teu Grandioso Criador.” Hebr.: Boh·re’eí·kha. No hebr., é o particípio do verbo “criar” no pl., para denotar grandiosidade ou excelência.
+. Ou “juventude”.
+====
+
+[[v21-12-2]]
+
+^<<v21-12-2,2>>^ antes que escureçam o sol, e a luz, e a lua, e as estrelas, e retornem as nuvens, depois o aguaceiro;
+
+[[v21-12-3]]
+
+^<<v21-12-3,3>>^ no dia em que trepidam os guardiães da casa, e se tiverem dobrado os homens de energia vital e tiverem cessado de trabalhar as moedoras^&#42;1^ por se terem tornado poucas, e as damas olhando^&#42;2^ pelas janelas o acharem escuro;
+
+[NOTE]
+====
+. “As moedoras.” No hebr., este é um particípio no fem. pl., por se referir a dentes, hebr. fem., e porque as mulheres faziam a moagem.
+. “As damas olhando”, hebr. fem., referindo-se a olhos, hebr. fem.
+====
+
+[[v21-12-4]]
+
+^<<v21-12-4,4>>^ e as portas que dão à rua tiverem sido fechadas, quando o ruído da moenda fica baixo e a pessoa se levanta ao som de um pássaro, e todas as filhas do cântico soam baixo.
+
+[[v21-12-5]]
+
+^<<v21-12-5,5>>^ Também, ficaram com medo do que é meramente alto, e há terrores no caminho. E a amendoeira carrega flores, e o gafanhoto se arrasta, e o fruto da alcaparra rebenta, porque o homem^&#42;1^ caminha para a sua casa de longa duração e os lamentadores têm marchado em volta na rua;
+
+[NOTE]
+====
+. Lit.: “o homem terreno”. Hebr.: ha·’a·dhám.
+====
+
+[[v21-12-6]]
+
+^<<v21-12-6,6>>^ antes que se remova a corda de prata, e se esmague a tigela de ouro, e se quebre o cântaro junto à fonte, e tenha sido esmagada a roda de água para a cisterna.
+
+[[v21-12-7]]
+
+^<<v21-12-7,7>>^ Então o pó retorna à terra, assim como veio a ser, e o próprio espírito retorna ao [verdadeiro] Deus que o deu.
+
+[[v21-12-8]]
+
+^<<v21-12-8,8>>^ “A maior das vaidades!”^&#42;1^ disse o congregante:^&#42;2^ “Tudo é vaidade.”
+
+[NOTE]
+====
+. Lit.: “Vaidade das vaidades!” M(hebr.: havél hava·lím)LXXSyVg.
+. Veja 1:1 n.
+====
+
+[[v21-12-9]]
+
+^<<v21-12-9,9>>^ E além do fato de que o congregante se tornara sábio, ele ensinou também ao povo continuamente o conhecimento, e ponderou e fez uma investigação cabal, a fim de pôr em ordem muitos provérbios.
+
+[[v21-12-10]]
+
+^<<v21-12-10,10>>^ O congregante procurou achar palavras deleitosas e a escrita de palavras corretas de verdade.
+
+[[v21-12-11]]
+
+^<<v21-12-11,11>>^ As palavras dos sábios são como aguilhadas, e como pregos bem fixos^&#42;1^ são os que se entregam a fazer coleções^&#42;2^ [de sentenças]; foram dadas por um só pastor.
+
+[NOTE]
+====
+. Lit.: “plantados”, como que implantados numa casa.
+. “Coleções.” Hebr.: ’asup·póhth (de ’a·sáf, “colecionar; reunir”).
+====
+
+[[v21-12-12]]
+
+^<<v21-12-12,12>>^ No que se refere a qualquer coisa além delas, filho meu, sê avisado: De se fazer muitos livros não há fim, e muita devoção [a eles] é fadiga para a carne.
+
+[[v21-12-13]]
+
+^<<v21-12-13,13>>^ A conclusão do assunto, tudo tendo sido ouvido, é: Teme o [verdadeiro] Deus e guarda os seus mandamentos. Pois esta é toda [a obrigação] do homem.^&#42;1^
+
+[NOTE]
+====
+. Ou “humanidade”. Hebr.: ha·’a·dhám.
+====
+
+[[v21-12-14]]
+
+^<<v21-12-14,14>>^ Pois o próprio [verdadeiro] Deus levará toda sorte de trabalho a julgamento com relação a toda coisa oculta, quanto a se é bom ou mau.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-011.adoc#v21-11-0[&#60; Capítulo Anterior] | <<v21-12-0,Topo>> | xref:022-cantico-de-salomao/022-cantico-de-salomao-001.adoc#v22-1-0[Próximo Capítulo &#62;]

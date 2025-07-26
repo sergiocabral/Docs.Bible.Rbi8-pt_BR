@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v24-47-0]]
+=== Jeremias, 47
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-47-1]]
+
+^<<v24-47-1,1>>^ Esta mostrou ser a palavra de Jeová a Jeremias, o profeta, sobre os filisteus, antes de Faraó passar a golpear Gaza.
+
+[[v24-47-2]]
+
+^<<v24-47-2,2>>^ Assim disse Jeová:
+“Eis que sobem águas desde o norte e tornam-se uma torrente inundante. E inundarão o país e o que o enche, a cidade e os que nela habitam. E os homens^&#42;1^ certamente clamarão, e quem morar no país terá de uivar.
+
+[NOTE]
+====
+. Ou “os homens terrenos”. Hebr.: ha·’a·dhám.
+====
+
+[[v24-47-3]]
+
+^<<v24-47-3,3>>^ Ao som da batida dos cascos dos seus garanhões, ao retinir dos seus carros de guerra, ao rebuliço das suas rodas, os pais realmente não se virarão para os filhos, por causa da frouxidão das [suas] mãos,
+
+[[v24-47-4]]
+
+^<<v24-47-4,4>>^ em razão do dia que está chegando para assolar todos os filisteus, para decepar de Tiro e de Sídon todo sobrevivente que ajudava. Porque Jeová está assolando os filisteus que são os que restam da ilha de Caftor.
+
+[[v24-47-5]]
+
+^<<v24-47-5,5>>^ A calvície tem de chegar a Gaza. Ascalom foi silenciada. Ó restante da sua baixada, até quando continuarás a fazer cortes em ti mesmo?
+
+[[v24-47-6]]
+
+^<<v24-47-6,6>>^ “Ah! a espada de Jeová! Até quando não sossegarás? Sê embainhada!^&#42;1^ Repousa e fica quieta.
+
+[NOTE]
+====
+. Lit.: “Sê ajuntada.”
+====
+
+[[v24-47-7]]
+
+^<<v24-47-7,7>>^ “Como pode sossegar, se o próprio Jeová lhe deu ordem? É para Ascalom e para a costa do mar. Para lá é que ele a^&#42;1^ designou.”
+
+[NOTE]
+====
+. “A”, hebr. fem. sing., referindo-se à “espada”.
+====
+
+'''
+
+xref:024-jeremias/024-jeremias-046.adoc#v24-46-0[&#60; Capítulo Anterior] | <<v24-47-0,Topo>> | xref:024-jeremias/024-jeremias-048.adoc#v24-48-0[Próximo Capítulo &#62;]

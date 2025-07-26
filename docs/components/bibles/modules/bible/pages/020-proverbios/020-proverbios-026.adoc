@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v20-26-0]]
+=== Provérbios, 26
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-26-1]]
+
+^<<v20-26-1,1>>^ Como a neve no verão e como a chuva na colheita, assim a glória não é apropriada para o estúpido.
+
+[[v20-26-2]]
+
+^<<v20-26-2,2>>^ Assim como o pássaro tem razão para fugir [e] assim como a andorinha tem para voar, assim a invocação do mal não vem sem causa real.
+
+[[v20-26-3]]
+
+^<<v20-26-3,3>>^ O chicote é para o cavalo, o freio é para o jumento e a vara é para as costas de gente estúpida.
+
+[[v20-26-4]]
+
+^<<v20-26-4,4>>^ Não respondas ao estúpido segundo a sua tolice, para que tu mesmo não te tornes igual a ele.
+
+[[v20-26-5]]
+
+^<<v20-26-5,5>>^ Responde ao estúpido segundo a sua tolice, para que não se torne alguém sábio aos seus próprios olhos.
+
+[[v20-26-6]]
+
+^<<v20-26-6,6>>^ Como alguém que mutila [seus] pés, como alguém que bebe apenas violência, é aquele que confia assuntos à mão de um estúpido.
+
+[[v20-26-7]]
+
+^<<v20-26-7,7>>^ Acaso as pernas do coxo puxaram água? Então há um provérbio na boca de gente estúpida.
+
+[[v20-26-8]]
+
+^<<v20-26-8,8>>^ Como alguém que mete uma pedra num monte de pedras é aquele que dá glória a quem é apenas estúpido.
+
+[[v20-26-9]]
+
+^<<v20-26-9,9>>^ Como a planta espinhosa que subiu à mão dum ébrio, assim é um provérbio na boca de gente estúpida.
+
+[[v20-26-10]]
+
+^<<v20-26-10,10>>^ Como o arqueiro que traspassa tudo é aquele que contrata alguém estúpido ou aquele que contrata transeuntes.
+
+[[v20-26-11]]
+
+^<<v20-26-11,11>>^ Igual ao cão que volta ao seu vômito, o estúpido repete a sua tolice.
+
+[[v20-26-12]]
+
+^<<v20-26-12,12>>^ Viste um homem sábio aos seus próprios olhos? Há mais esperança para o estúpido do que para ele.
+
+[[v20-26-13]]
+
+^<<v20-26-13,13>>^ O preguiçoso disse: “Há um leãozinho no caminho, um leão no meio das praças públicas.”
+
+[[v20-26-14]]
+
+^<<v20-26-14,14>>^ A porta gira nos seus gonzos e o preguiçoso no seu leito.
+
+[[v20-26-15]]
+
+^<<v20-26-15,15>>^ O preguiçoso encobriu a sua mão no tacho de banquete; ficou fatigado demais para trazê-la de volta à boca.
+
+[[v20-26-16]]
+
+^<<v20-26-16,16>>^ O preguiçoso é mais sábio aos seus próprios olhos do que sete que dão uma resposta sensata.
+
+[[v20-26-17]]
+
+^<<v20-26-17,17>>^ Como alguém que agarra as orelhas de um cão é aquele que, estando de passagem, fica furioso com uma altercação que não é dele.
+
+[[v20-26-18]]
+
+^<<v20-26-18,18>>^ Igual a um louco que atira projéteis ardentes, flechas e morte,
+
+[[v20-26-19]]
+
+^<<v20-26-19,19>>^ assim é o homem que logrou seu próximo e que disse: “Não me diverti?”
+
+[[v20-26-20]]
+
+^<<v20-26-20,20>>^ Onde não há lenha, apaga-se o fogo, e onde não há caluniador, aquieta-se a contenda.
+
+[[v20-26-21]]
+
+^<<v20-26-21,21>>^ Como o carvão de lenha para as brasas e a lenha para o fogo, assim é o homem contencioso por tornar acesa a altercação.
+
+[[v20-26-22]]
+
+^<<v20-26-22,22>>^ As palavras do caluniador são como coisas que se engolem avidamente, que descem até as partes mais íntimas do ventre.
+
+[[v20-26-23]]
+
+^<<v20-26-23,23>>^ Como um revestimento de prata recobrindo um caco são os lábios fervorosos com um coração mau.
+
+[[v20-26-24]]
+
+^<<v20-26-24,24>>^ O odiador faz-se irreconhecível com os seus lábios, mas para dentro de si põe o engano.
+
+[[v20-26-25]]
+
+^<<v20-26-25,25>>^ Embora ele faça a sua voz graciosa, não lhe acredites, pois há sete coisas detestáveis no seu coração.
+
+[[v20-26-26]]
+
+^<<v20-26-26,26>>^ O ódio está encoberto pelo engano. Sua maldade será descoberta na congregação.
+
+[[v20-26-27]]
+
+^<<v20-26-27,27>>^ Quem escava uma cova cairá na mesma, e quem revolve uma pedra — sobre este ela retornará.
+
+[[v20-26-28]]
+
+^<<v20-26-28,28>>^ A língua falsa odeia o esmagado por ela e a boca lisonjeira^&#42;1^ causa a derrubada.
+
+[NOTE]
+====
+. Lit.: “e uma boca macia”.
+====
+
+'''
+
+xref:020-proverbios/020-proverbios-025.adoc#v20-25-0[&#60; Capítulo Anterior] | <<v20-26-0,Topo>> | xref:020-proverbios/020-proverbios-027.adoc#v20-27-0[Próximo Capítulo &#62;]

@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v19-47-0]]
+=== Salmos, 47
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Dos filhos de Corá. Uma melodia._
+
+[[v19-47-1]]
+
+^<<v19-47-1,1>>^ Vós, todos os povos, batei palmas.^&#42;1^
+Bradai em triunfo a Deus com o som dum clamor jubilante.
+
+[NOTE]
+====
+. Lit.: “palma”.
+====
+
+[[v19-47-2]]
+
+^<<v19-47-2,2>>^ Porque Jeová, o Altíssimo, é atemorizante,
+Um grande Rei sobre toda a terra.
+
+[[v19-47-3]]
+
+^<<v19-47-3,3>>^ Ele sujeitará povos a nós
+E grupos nacionais aos nossos pés.
+
+[[v19-47-4]]
+
+^<<v19-47-4,4>>^ Escolherá para nós a nossa herança,
+O orgulho de Jacó, a quem amou. Selá.
+
+[[v19-47-5]]
+
+^<<v19-47-5,5>>^ Deus subiu com gritos de alegria,
+Jeová, com o som da buzina.^&#42;1^
+
+[NOTE]
+====
+. Ou “shofar”. Um chifre de carneiro usado como trombeta.
+====
+
+[[v19-47-6]]
+
+^<<v19-47-6,6>>^ Entoai melodias a Deus, entoai melodias.
+Entoai melodias ao nosso Rei, entoai melodias.
+
+[[v19-47-7]]
+
+^<<v19-47-7,7>>^ Pois Deus é o Rei de toda a terra;
+Entoai melodias, agindo com discrição.^&#42;1^
+
+[NOTE]
+====
+. “Agindo com discrição”, por se verter o particípio hebr. no pl. Hebr.: mas·kíl, sing. Veja 53:2 n.: “perspicácia”.
+====
+
+[[v19-47-8]]
+
+^<<v19-47-8,8>>^ Deus tornou-se rei sobre as nações.
+O próprio Deus se assentou no seu santo trono.
+
+[[v19-47-9]]
+
+^<<v19-47-9,9>>^ Ajuntaram-se os nobres dos próprios povos
+[Com] o povo do Deus^&#42;1^ de Abraão.
+Pois a Deus pertencem os escudos^&#42;2^ da terra.
+Ele está bem alto na sua subida.
+
+[NOTE]
+====
+. “O povo do Deus”, M; LXXSyVg: “com o Deus”.
+. “Escudos”, MT; LXX: “poderosos”; Sy: “domínios (impérios)”; Vg: “fortes”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-046.adoc#v19-46-0[&#60; Capítulo Anterior] | <<v19-47-0,Topo>> | xref:019-salmo/019-salmo-048.adoc#v19-48-0[Próximo Capítulo &#62;]

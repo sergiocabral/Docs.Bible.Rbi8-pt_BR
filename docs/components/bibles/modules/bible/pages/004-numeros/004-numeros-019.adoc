@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v4-19-0]]
+=== Números, 19
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-19-1]]
+
+^<<v4-19-1,1>>^ E Jeová passou a falar a Moisés e a Arão, dizendo:
+
+[[v4-19-2]]
+
+^<<v4-19-2,2>>^ “Este é um estatuto da lei que Jeová ordenou, dizendo: ‘Fala aos filhos de Israel que tomem para ti uma vaca vermelha,^&#42;1^ sadia, em que não haja defeito e sobre a qual não tenha vindo jugo.
+
+[NOTE]
+====
+. Ou “novilha vermelha”, isto é, uma vaca nova que ainda não teve cria.
+====
+
+[[v4-19-3]]
+
+^<<v4-19-3,3>>^ E tendes de dá-la a Eleazar, o sacerdote, e ele tem de conduzi-la para fora do acampamento e ela tem de ser abatida^&#42;1^ diante dele.
+
+[NOTE]
+====
+. Lit.: “e ele (alguém) tem de abatê-la”, M; LXX: “e a abaterão”.
+====
+
+[[v4-19-4]]
+
+^<<v4-19-4,4>>^ Então Eleazar, o sacerdote, tem de tomar com o seu dedo um pouco do sangue dela e tem de espargir um pouco do sangue dela sete vezes em direção à frente da tenda de reunião.
+
+[[v4-19-5]]
+
+^<<v4-19-5,5>>^ E a vaca tem de ser queimada^&#42;1^ sob o seu olhar. Sua pele e sua carne, e seu sangue junto com seu esterco serão queimados.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “E ele (alguém) tem de queimar a vaca nova”, M; LXX: “E queimá-la-ão.”
+. Lit.: “junto com seu esterco ele (alguém) queimará”, M; LXX: “com o seu esterco será queimada”.
+====
+
+[[v4-19-6]]
+
+^<<v4-19-6,6>>^ E o sacerdote tem de tomar lenha de cedro, e hissopo, e fibras carmíneas, e lançá-los no meio da queima da vaca.
+
+[[v4-19-7]]
+
+^<<v4-19-7,7>>^ E o sacerdote tem de lavar suas vestes e banhar sua carne em água, e depois pode entrar no acampamento; mas o sacerdote tem de ser impuro até à noitinha.
+
+[[v4-19-8]]
+
+^<<v4-19-8,8>>^ “‘E aquele que a queimou lavará suas vestes em água e terá de banhar sua carne em água, e terá de ser impuro até à noitinha.
+
+[[v4-19-9]]
+
+^<<v4-19-9,9>>^ “‘E um homem limpo tem de recolher as cinzas da vaca e depositá-las fora do acampamento num lugar limpo; e elas têm de servir à assembléia dos filhos de Israel como algo a ser guardado para a água da purificação.^&#42;1^ É uma oferta pelo pecado.
+
+[NOTE]
+====
+. Ou “água usada em caso de menstruação”.
+====
+
+[[v4-19-10]]
+
+^<<v4-19-10,10>>^ E quem ajuntar as cinzas da vaca terá de lavar suas vestes e ser impuro até à noitinha.
+“‘E isso tem de servir de estatuto por tempo indefinido para os filhos de Israel e para o residente forasteiro que reside no seu meio.
+
+[[v4-19-11]]
+
+^<<v4-19-11,11>>^ Quem tocar no cadáver de qualquer alma humana^&#42;1^ também terá de ser impuro por sete dias.
+
+[NOTE]
+====
+. “Alma humana.” Lit.: “alma de um homem terreno”. Hebr.: né·fesh ’a·dhám; gr.: psy·khés an·thró·pou.
+====
+
+[[v4-19-12]]
+
+^<<v4-19-12,12>>^ Ele deve purificar-se com ela no terceiro dia, e no sétimo dia será limpo. Mas, se não se purificar no terceiro dia, então não será limpo no sétimo dia.
+
+[[v4-19-13]]
+
+^<<v4-19-13,13>>^ Todo aquele que tocar num cadáver, a alma^&#42;1^ de qualquer homem que tenha morrido, e não se purificar, profanou o tabernáculo de Jeová, e essa alma^&#42;2^ terá de ser decepada de Israel. Visto que não se aspergiu sobre ele a água da purificação, continua impuro. Sua impureza ainda está sobre ele.
+
+[NOTE]
+====
+. “A alma de”, evidentemente uma alma falecida. Hebr.: bené·fesh; gr.: psy·khés; lat.: á·ni·mae.
+. “Alma”, evidentemente uma alma viva. Hebr.: han·né·fesh; gr.: psy·khé; sir.: naf·sha’.
+====
+
+[[v4-19-14]]
+
+^<<v4-19-14,14>>^ “‘Esta é a lei no caso de um homem morrer numa tenda: Quem entrar na tenda e quem estiver na tenda será impuro por sete dias.
+
+[[v4-19-15]]
+
+^<<v4-19-15,15>>^ E todo vaso aberto em que não haja tampa amarrada^&#42;1^ será impuro.
+
+[NOTE]
+====
+. “Amarrada”, LXX; M: “com um cordão”.
+====
+
+[[v4-19-16]]
+
+^<<v4-19-16,16>>^ E quem no campo aberto tocar em alguém que foi morto com a espada ou num cadáver ou osso de homem, ou numa sepultura, será impuro por sete dias.
+
+[[v4-19-17]]
+
+^<<v4-19-17,17>>^ E eles terão de tomar para o impuro um pouco de pó da queima da oferta pelo pecado e pôr num vaso água corrente sobre ele.
+
+[[v4-19-18]]
+
+^<<v4-19-18,18>>^ Um homem limpo terá de tomar então hissopo e mergulhá-lo na água, e terá de espargi-la sobre a tenda e sobre todos os vasos e as almas que lá estiverem, e sobre aquele que tocou no osso, ou naquele que foi morto, ou no cadáver, ou na sepultura.
+
+[[v4-19-19]]
+
+^<<v4-19-19,19>>^ E o limpo terá de espargi-la sobre o impuro, no terceiro dia e no sétimo dia, e no sétimo dia terá de purificá-lo de pecado; e ele terá de lavar suas vestes e banhar-se em água, e à noitinha terá de ser limpo.
+
+[[v4-19-20]]
+
+^<<v4-19-20,20>>^ “‘Mas o homem que estiver impuro e que não se purificar, ora, esta alma terá de ser decepada do meio da congregação, visto que profanou o santuário de Jeová. Não se aspergiu sobre ele a água da purificação. Ele é impuro.
+
+[[v4-19-21]]
+
+^<<v4-19-21,21>>^ “‘E tem de servir-lhes de estatuto por tempo indefinido, que tanto aquele que asperge a água da purificação como aquele que toca na água da purificação deve lavar suas vestes. Será impuro até à noitinha.
+
+[[v4-19-22]]
+
+^<<v4-19-22,22>>^ E tudo o que o impuro tocar será impuro e a alma que tocar isso será impura até à noitinha.’”
+
+'''
+
+xref:004-numeros/004-numeros-018.adoc#v4-18-0[&#60; Capítulo Anterior] | <<v4-19-0,Topo>> | xref:004-numeros/004-numeros-020.adoc#v4-20-0[Próximo Capítulo &#62;]

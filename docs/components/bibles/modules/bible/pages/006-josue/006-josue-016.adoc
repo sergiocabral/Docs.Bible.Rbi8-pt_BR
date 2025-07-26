@@ -1,0 +1,54 @@
+include::./index.adoc[]
+
+[[v6-16-0]]
+=== Josué, 16
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-16-1]]
+
+^<<v6-16-1,1>>^ E para os filhos de José saiu a sorte desde o Jordão [na altura] de Jericó, até as águas de Jericó ao leste, o ermo subindo de Jericó à região montanhosa de Betel.
+
+[[v6-16-2]]
+
+^<<v6-16-2,2>>^ E saía de Betel, que pertence a Luz, e passava para o termo dos arquitas em Atarote,
+
+[[v6-16-3]]
+
+^<<v6-16-3,3>>^ e descia para o oeste, para o termo dos jafletitas, até o termo de Bete-Horom Baixa e Gezer, e seu ponto final mostrou ser o mar.
+
+[[v6-16-4]]
+
+^<<v6-16-4,4>>^ E os filhos de José, Manassés e Efraim, passaram a tomar posse de terras.
+
+[[v6-16-5]]
+
+^<<v6-16-5,5>>^ E o termo dos filhos de Efraim, segundo as suas famílias, veio a ser, sim, o termo da sua herança, para o leste, veio a ser Atarote-Adar, até Bete-Horom Alta;
+
+[[v6-16-6]]
+
+^<<v6-16-6,6>>^ e o termo saía até o mar. Micmetate se achava ao norte, e o termo dava volta para o leste até Taanate-Silo e passava para o leste até Janoa.
+
+[[v6-16-7]]
+
+^<<v6-16-7,7>>^ E descia de Janoa para Atarote e Naará, e atingia Jericó e saía até o Jordão.
+
+[[v6-16-8]]
+
+^<<v6-16-8,8>>^ De Tapua o termo avançava para o oeste até o vale da torrente de Cana, e seu ponto final mostrou ser o mar. Esta foi a herança da tribo dos filhos de Efraim, segundo as suas famílias.
+
+[[v6-16-9]]
+
+^<<v6-16-9,9>>^ E os filhos de Efraim possuíam cidades encravadas^&#42;1^ no meio da herança dos filhos de Manassés, todas as cidades e seus povoados.
+
+[NOTE]
+====
+. Alternativa: “separadas; isoladas”.
+====
+
+[[v6-16-10]]
+
+^<<v6-16-10,10>>^ E não desalojaram os cananeus que moravam em Gezer, e os cananeus continuam morando no meio de Efraim até o dia de hoje e ficaram sujeitos a trabalho forçado de escravo.
+
+'''
+
+xref:006-josue/006-josue-015.adoc#v6-15-0[&#60; Capítulo Anterior] | <<v6-16-0,Topo>> | xref:006-josue/006-josue-017.adoc#v6-17-0[Próximo Capítulo &#62;]

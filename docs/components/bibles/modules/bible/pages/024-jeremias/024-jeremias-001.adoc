@@ -1,0 +1,130 @@
+include::./index.adoc[]
+
+[[v24-1-0]]
+=== Jeremias, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-1-1]]
+
+^<<v24-1-1,1>>^ As palavras de Jeremias,^&#42;1^ filho de Hilquias,^&#42;2^ um dos sacerdotes que estavam em Anatote, na terra de Benjamim;
+
+[NOTE]
+====
+. Significando “Jeová Solta [a madre]”; ou: “Jeová Exalta”. Hebr.: Yir·meyá·hu.
+. Significando “Meu Quinhão É Jeová”. Hebr.: Hhil·qi·yá·hu.
+====
+
+[[v24-1-2]]
+
+^<<v24-1-2,2>>^ para quem veio a haver a palavra de Jeová nos dias de Josias, filho de Amom, rei de Judá, no décimo terceiro ano do seu reinado.
+
+[[v24-1-3]]
+
+^<<v24-1-3,3>>^ E continuou a ocorrer nos dias de Jeoiaquim, filho de Josias, rei de Judá, até o término do décimo primeiro ano de Zedequias,^&#42;1^ filho de Josias, rei de Judá, até que Jerusalém foi ao exílio, no quinto mês.
+
+[NOTE]
+====
+. “De Zedequias.” Hebr.: leTsidh·qi·yá·hu, significando “Jeová É Justiça”.
+====
+
+[[v24-1-4]]
+
+^<<v24-1-4,4>>^ E começou a vir a haver para mim a palavra de Jeová, dizendo:
+
+[[v24-1-5]]
+
+^<<v24-1-5,5>>^ “Antes de formar-te no ventre, eu te conheci, e antes de saíres da madre, eu te santifiquei. Eu te constituí profeta para as nações.”
+
+[[v24-1-6]]
+
+^<<v24-1-6,6>>^ Mas eu disse: “Ai! Soberano Senhor Jeová! Eis que realmente nem sei falar, pois sou apenas rapaz.”^&#42;1^
+
+[NOTE]
+====
+. Ou “pessoa jovem”. Hebr.: ná·‛ar.
+====
+
+[[v24-1-7]]
+
+^<<v24-1-7,7>>^ E Jeová prosseguiu, dizendo-me: “Não digas: ‘Sou apenas rapaz.’ Mas, deves ir a todos a quem eu te enviar; e deves falar tudo o que eu te ordenar.
+
+[[v24-1-8]]
+
+^<<v24-1-8,8>>^ Não tenhas medo das suas faces, pois ‘eu estou contigo para te livrar’, é a pronunciação de Jeová.”
+
+[[v24-1-9]]
+
+^<<v24-1-9,9>>^ Então, Jeová estendeu a sua mão e fez que me tocasse na boca. Jeová disse-me então: “Eis que pus as minhas palavras na tua boca.
+
+[[v24-1-10]]
+
+^<<v24-1-10,10>>^ Vê, comissionei-te no dia de hoje para estares sobre as nações e sobre os reinos, para desarraigares, e para demolires, e para destruíres, e para derrubares, para construíres e para plantares.”
+
+[[v24-1-11]]
+
+^<<v24-1-11,11>>^ E continuou a vir a haver para mim a palavra de Jeová, dizendo: “Que estás vendo, Jeremias?”
+De modo que eu disse: “A vergôntea^&#42;1^ duma amendoeira^&#42;2^ é o que estou vendo.”
+
+[NOTE]
+====
+. Ou “bastão; vara”. Veja 1Sa 17:40, 43.
+. “Amendoeira.” Hebr.: sha·qédh, “acordador”; uma das primeiras árvores a florescer na primavera.
+====
+
+[[v24-1-12]]
+
+^<<v24-1-12,12>>^ E Jeová prosseguiu, dizendo-me: “Viste bem, pois mantenho-me alerta^&#42;1^ quanto à minha palavra, a fim de cumpri-la.”
+
+[NOTE]
+====
+. “Mantenho-me alerta.” Hebr.: sho·qédh, correspondendo a sha·qédh no v. 11.
+====
+
+[[v24-1-13]]
+
+^<<v24-1-13,13>>^ E passou a vir a haver para mim a palavra de Jeová pela segunda vez, dizendo: “Que estás vendo?”
+De modo que eu disse: “Uma panela de boca larga sobre a qual se sopra^&#42;1^ é o que estou vendo, e sua boca^&#42;2^ está afastada do norte.”
+
+[NOTE]
+====
+. “Sobre a qual se sopra”, com respeito ao fogo por baixo. Ou “acesa”, sugerindo uma fornalha.
+. Mediante uma correção; M: “face”. Veja Za 5:8.
+====
+
+[[v24-1-14]]
+
+^<<v24-1-14,14>>^ Portanto, Jeová me disse: “Do norte será solta a calamidade contra todos os habitantes da terra.
+
+[[v24-1-15]]
+
+^<<v24-1-15,15>>^ Pois ‘eis que convoco todas as famílias dos reinos do norte’, é a pronunciação de Jeová; ‘e certamente virão e colocarão cada um o seu trono à entrada dos portões de Jerusalém, e contra todas as suas muralhas ao redor e contra todas as cidades de Judá.
+
+[[v24-1-16]]
+
+^<<v24-1-16,16>>^ E eu vou proferir-lhes meus julgamentos por toda a sua maldade, visto que me abandonaram e continuam a fazer fumaça sacrificial a outros deuses^&#42;1^ e a curvar-se diante dos trabalhos das suas próprias mãos.’
+
+[NOTE]
+====
+. “A . . . deuses.” Hebr.: le’·lo·hím.
+====
+
+[[v24-1-17]]
+
+^<<v24-1-17,17>>^ “E quanto a ti, deves cingir teus quadris, e tens de levantar-te e falar-lhes tudo o que eu mesmo te ordeno. Não fiques aterrorizado por causa deles, para que eu não te aterrorize diante deles.
+
+[[v24-1-18]]
+
+^<<v24-1-18,18>>^ Mas, quanto a mim, eis que te fiz hoje uma cidade fortificada, e uma coluna de ferro, e muralhas de cobre contra toda a terra, para com os reis de Judá, para com os príncipes dela, para com os sacerdotes dela e para com o povo da terra.^&#42;1^
+
+[NOTE]
+====
+. “E para com o povo da terra.” Hebr.: u·le‛ám ha·’á·rets. Posteriormente usado em sentido depreciativo. Veja Jo 7:47-49.
+====
+
+[[v24-1-19]]
+
+^<<v24-1-19,19>>^ E por certo lutarão contra ti, mas não prevalecerão contra ti, pois ‘eu estou contigo’, é a pronunciação de Jeová, ‘para te livrar’.”
+
+'''
+
+xref:023-isaias/023-isaias-066.adoc#v23-66-0[&#60; Capítulo Anterior] | <<v24-1-0,Topo>> | xref:024-jeremias/024-jeremias-002.adoc#v24-2-0[Próximo Capítulo &#62;]

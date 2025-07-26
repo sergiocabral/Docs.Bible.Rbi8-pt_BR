@@ -1,0 +1,303 @@
+include::./index.adoc[]
+
+[[v5-33-0]]
+=== Deuteronômio, 33
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-33-1]]
+
+^<<v5-33-1,1>>^ Ora, esta é a bênção com que Moisés, o homem do [verdadeiro] Deus, abençoou os filhos de Israel antes da sua morte.
+
+[[v5-33-2]]
+
+^<<v5-33-2,2>>^ E ele passou a dizer:
+“Jeová — de Sinai ele veio,
+E raiou sobre eles desde Seir.
+Reluziu desde a região montanhosa de Parã,
+E com ele havia santas miríades,^&#42;1^
+À sua direita, guerreiros pertencentes a eles.^&#42;2^
+
+[NOTE]
+====
+. Ou “dezenas de milhares de santos”.
+. Ou “e com ele havia miríades de Cades, à sua mão direita guerreiros [ou: anjos] dela”. Veja JTS, Vol. 2, 1951, pp. 30, 31. LXX: “com [as] miríades de Cades; à sua mão direita [havia] com ele anjos”; Vg: “e com ele milhares de santos. Na destra dele [havia] uma lei ardente”. Mmargem divide a palavra hebr. em duas, ’esh (fogo) e dath (lei), para rezar: “o fogo duma lei”; ou: “uma lei ardente”. Mas isso introduziria no Pentateuco um estrangeirismo persa, dath (lei), que no hebr. só ocorre ainda em Esdras e em Ester. Veja Esd 8:36; Est 1:8.
+====
+
+[[v5-33-3]]
+
+^<<v5-33-3,3>>^ Também queria bem ao seu povo;^&#42;1^
+Todos os santos deles^&#42;2^ estão na tua mão.
+E eles — eles se recostavam aos teus pés;^&#42;3^
+Começavam a acolher algumas das tuas palavras.
+
+[NOTE]
+====
+. “Seu povo”, LXX; MSamSyVg: “povos”, referindo-se às tribos israelitas ou a seus antepassados.
+. Lit.: “dele”, em sentido coletivo, possivelmente referindo-se a “seu povo”, que está no pl. no M (hebr.: ‛am·mím).
+. Possivelmente: “E eles — eles seguiam aos teus pés.” O significado do verbo hebr. é incerto. LXX: “E estes estão debaixo de ti”; Vg: “E os que se aproximam dos pés dele.”
+====
+
+[[v5-33-4]]
+
+^<<v5-33-4,4>>^ (Moisés nos ordenou uma lei,^&#42;1^
+Possessão da congregação de Jacó.)
+
+[NOTE]
+====
+. “Moisés nos ordenou uma lei.” Alguns consideram estas palavras como uma glosa tirada da margem e assim as eliminariam.
+====
+
+[[v5-33-5]]
+
+^<<v5-33-5,5>>^ E ele veio a ser rei em Jesurum^&#42;1^
+Quando se ajuntaram os cabeças do povo,
+O número inteiro das tribos de Israel.
+
+[NOTE]
+====
+. Significando “Aquele Que É Reto”; título honorário de Israel.
+====
+
+[[v5-33-6]]
+
+^<<v5-33-6,6>>^ Viva Rubem e não morra,
+E [não] se tornem poucos os seus homens.”^&#42;1^
+
+[NOTE]
+====
+. “E fique seu número completo (perfeito)”, por meio duma correção proposta em BHK e BHS; LXX: “e seja grande em número”; Vg: “e seja pequeno em número”.
+====
+
+[[v5-33-7]]
+
+^<<v5-33-7,7>>^ E esta era a [bênção]^&#42;1^ de Judá, prosseguindo ele a dizer:
+“Ouve, ó Jeová, a voz de Judá,
+E seja por ti trazido ao seu povo.
+Seus braços contenderam pelo que é seu,^&#42;2^
+E que tu te mostres ajudador contra seus adversários.”
+
+[NOTE]
+====
+. “Bênção.” Palavra inserida para dar sentido, em harmonia com o v. 1.
+. Ou “contenderam por ele”.
+====
+
+[[v5-33-8]]
+
+^<<v5-33-8,8>>^ E quanto a Levi ele disse:
+“Teu Tumim^&#42;1^ e teu Urim pertencem ao homem que te é leal,^&#42;2^
+A quem puseste à prova em Massá.
+Começaste a contender com ele junto às águas de Meribá,
+
+[NOTE]
+====
+. Veja Êx 28:30 n.: “Tumim”.
+. Possivelmente: “teu homem de amor leal”.
+====
+
+[[v5-33-9]]
+
+^<<v5-33-9,9>>^ O homem que disse a seu pai e à sua mãe: ‘Não o vi.’
+Não reconheceu nem seus irmãos,
+E não conheceu seus filhos.
+Pois guardaram a tua declaração,
+E continuaram a observar o teu pacto.
+
+[[v5-33-10]]
+
+^<<v5-33-10,10>>^ Instruam eles a Jacó nas tuas decisões judiciais,
+E a Israel na tua lei.
+Ofertem incenso diante das tuas narinas,
+E uma oferta inteira no teu altar.
+
+[[v5-33-11]]
+
+^<<v5-33-11,11>>^ Abençoa, ó Jeová, a sua energia vital,
+E que mostres ter prazer na atuação das suas mãos.
+Fere seriamente nos seus quadris os que se levantam contra ele
+E os que o odeiam intensamente, para que não se levantem.”
+
+[[v5-33-12]]
+
+^<<v5-33-12,12>>^ Quanto a Benjamim ele disse:
+“O amado de Jeová resida em segurança junto dele,
+Enquanto o abriga o dia inteiro,
+E ele tem de residir entre os seus ombros.”
+
+[[v5-33-13]]
+
+^<<v5-33-13,13>>^ E quanto a José ele disse:
+“Seja sua terra continuamente abençoada da parte de Jeová
+Com as coisas seletas do céu, com orvalho,^&#42;1^
+E com a água de profundeza jazendo embaixo,
+
+[NOTE]
+====
+. “Do céu acima”, em dois mss. hebr. Em TO, esta linha reza: “com orvalho do céu de cima”. Veja Gên 49:25.
+====
+
+[[v5-33-14]]
+
+^<<v5-33-14,14>>^ E com as coisas seletas, os produtos do sol,
+E com as coisas seletas, a produção dos meses lunares,
+
+[[v5-33-15]]
+
+^<<v5-33-15,15>>^ E com o mais seleto [procedente] das montanhas do oriente,
+E com as coisas seletas dos morros que duram indefinidamente,
+
+[[v5-33-16]]
+
+^<<v5-33-16,16>>^ E com as coisas seletas da terra e da sua plenitude,
+E com a aprovação Daquele que reside no espinheiro.
+Que venham sobre a cabeça de José
+E sobre o alto da cabeça do selecionado^&#42;1^ dentre os seus irmãos.
+
+[NOTE]
+====
+. “Selecionado.” MSam(hebr.): nezír, traduzido por “nazireu” (significando: “Selecionado; Dedicado; Separado”) em Núm 6:2, 13 ,18-20.
+====
+
+[[v5-33-17]]
+
+^<<v5-33-17,17>>^ Seu esplendor é como o do primogênito do touro,
+E seus chifres são os chifres dum touro selvagem.^&#42;1^
+Com estes marrará povos,
+Juntos até os confins da terra,
+E eles são as dezenas de milhares de Efraim
+E são os milhares de Manassés.”
+
+[NOTE]
+====
+. Ou “búfalo”.
+====
+
+[[v5-33-18]]
+
+^<<v5-33-18,18>>^ E quanto a Zebulão ele disse:
+“Alegra-te, ó Zebulão, na tua saída,
+E [tu], Issacar, nas tuas tendas.
+
+[[v5-33-19]]
+
+^<<v5-33-19,19>>^ Convocarão povos ao monte.
+Ali oferecerão os sacrifícios da justiça.
+Pois sugarão a riqueza abundante dos mares
+E o pecúlio encoberto da areia.”^&#42;1^
+
+[NOTE]
+====
+. “E os tesouros encobertos das areias”, Vg; LXX: “e o comércio dos habitantes do litoral”.
+====
+
+[[v5-33-20]]
+
+^<<v5-33-20,20>>^ E quanto a Gade ele disse:
+“Bendito é aquele que alarga as fronteiras de Gade.
+Tem de residir como leão,^&#42;1^
+E tem de dilacerar o braço, sim, o alto da cabeça.
+
+[NOTE]
+====
+. “Como leão.” Hebr.: kela·ví’, o leão asiático.
+====
+
+[[v5-33-21]]
+
+^<<v5-33-21,21>>^ E selecionará para si a primeira parte,^&#42;1^
+Pois ali se reserva o lote dum legislador.
+E os cabeças do povo se ajuntarão.^&#42;2^
+Ele certamente executará a justiça de Jeová
+E suas decisões judiciais para com Israel.”
+
+[NOTE]
+====
+. Lit.: “E ele verá que a primeira parte é dele.” Vg: “E ele viu que o primeiro lugar (proeminência) era dele.”
+. Lit.: “pois havia encoberto o lote (parte) dum comandante [seu lote prescrito, por meio duma emenda]. E ele passou a vir [com] os cabeças do povo”, M; Vg: “pois na sua parte o instrutor foi guardado (reservado) . . .”
+====
+
+[[v5-33-22]]
+
+^<<v5-33-22,22>>^ E quanto a Dã ele disse:
+“Dã é filhote de leão.
+Saltará de Basã.”
+
+[[v5-33-23]]
+
+^<<v5-33-23,23>>^ E quanto a Naftali ele disse:
+“Naftali está satisfeito com a aprovação
+E cheio da bênção de Jeová.
+Toma deveras posse do oeste e do sul.”^&#42;1^
+
+[NOTE]
+====
+. Possivelmente: “O mar e seus peixes são a sua posse.” LXXSyVg: “O mar (oeste) e o sul ele herdará (tomará posse).”
+====
+
+[[v5-33-24]]
+
+^<<v5-33-24,24>>^ E quanto a Aser ele disse:
+“Aser é abençoado com filhos.
+Torne-se ele alguém aprovado pelos seus irmãos
+E alguém que mergulha seu pé em azeite.
+
+[[v5-33-25]]
+
+^<<v5-33-25,25>>^ Ferro e cobre são os fechos do teu portão,
+E teu passo folgado^&#42;1^ é proporcional aos teus dias.
+
+[NOTE]
+====
+. “Passo folgado.” Ou “modo de andar”. Segundo KB3, p. 199: “força”.
+====
+
+[[v5-33-26]]
+
+^<<v5-33-26,26>>^ Não há quem seja como o [verdadeiro] Deus^&#42;1^ de Jesurum,
+Que cavalga sobre o céu em tua ajuda
+E sobre o céu nublado na sua alteza.^&#42;2^
+
+[NOTE]
+====
+. “Como o [verdadeiro] Deus de.” Hebr.: ka·’Él. Aqui, o artigo definido ha, “o”, é indicado pelo sinal vocálico sob a preposição hebr. Kaf, “k”, para formar ka, “como o”. Esta introdução dá ênfase especial ao substantivo “Deus”, aqui vertido “o [verdadeiro] Deus”. Veja gramáticas hebr. sob “preposições”; Ap. 1G.
+. “E o magnífico do firmamento”, LXX; Vg: “pela sua magnificência as nuvens correm de um lado para outro”.
+====
+
+[[v5-33-27]]
+
+^<<v5-33-27,27>>^ O Deus da antiguidade é um esconderijo,
+E por baixo há os braços que duram indefinidamente.
+E ele expulsará o inimigo diante de ti
+E dirá: ‘Aniquila[-os]!’
+
+[[v5-33-28]]
+
+^<<v5-33-28,28>>^ E Israel residirá em segurança,
+A fonte de Jacó, a sós,
+Numa^&#42;1^ terra de cereais e de vinho novo.
+Sim, os céus dele deixarão gotejar o orvalho.
+
+[NOTE]
+====
+. “Numa”, Sam; M: “a (para)”.
+====
+
+[[v5-33-29]]
+
+^<<v5-33-29,29>>^ Feliz és, ó Israel!
+Quem é semelhante a ti,
+Um povo usufruindo salvação em Jeová,
+O escudo para a tua ajuda
+E Aquele que é tua espada de alteza?
+Assim, teus inimigos se encolherão servilmente diante de ti^&#42;1^
+E tu — tu pisarás sobre os seus altos.”^&#42;2^
+
+[NOTE]
+====
+. Ou “fingirão ser obedientes a ti”.
+. A tribo de Simeão não é mencionada na bênção sobre todo o Israel, mas por se mencionar Levi, bem como as tribos de Efraim e Manassés, que descendiam de José, o número das tribos permanece 12.
+====
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-032.adoc#v5-32-0[&#60; Capítulo Anterior] | <<v5-33-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-034.adoc#v5-34-0[Próximo Capítulo &#62;]

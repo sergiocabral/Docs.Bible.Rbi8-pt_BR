@@ -1,0 +1,211 @@
+include::./index.adoc[]
+
+[[v2-23-0]]
+=== Êxodo, 23
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-23-1]]
+
+^<<v2-23-1,1>>^ “Não deves propagar uma notícia inverídica. Não cooperes com o iníquo por te tornares testemunha que trama violência.
+
+[[v2-23-2]]
+
+^<<v2-23-2,2>>^ Não deves acompanhar a multidão^&#42;1^ para maus objetivos; e não deves testificar a respeito duma controvérsia de modo a te desviares com a multidão, para perverter a justiça.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “muitos”.
+. “Para excluir a justiça (o julgamento)”, LXX; M omite “justiça”; mas veja De 24:17.
+====
+
+[[v2-23-3]]
+
+^<<v2-23-3,3>>^ Quanto ao de condição humilde, não deves mostrar preferência numa controvérsia sua.
+
+[[v2-23-4]]
+
+^<<v2-23-4,4>>^ “Se encontrares o touro do teu inimigo ou seu jumento andando perdido, sem falta lho deves restituir.
+
+[[v2-23-5]]
+
+^<<v2-23-5,5>>^ Se vires o jumento de alguém que te odeia deitado sob a sua carga, então tens de refrear-te de abandoná-lo. Sem falta deves conseguir soltá-lo junto com ele.
+
+[[v2-23-6]]
+
+^<<v2-23-6,6>>^ “Não deves desvirtuar a decisão judicial do teu pobre na sua controvérsia.
+
+[[v2-23-7]]
+
+^<<v2-23-7,7>>^ “Deves manter-te longe duma palavra falsa. E não mates o inocente e o justo, pois não declararei justo o iníquo.
+
+[[v2-23-8]]
+
+^<<v2-23-8,8>>^ “Não deves aceitar suborno,^&#42;1^ pois o suborno cega os perspicazes e pode deturpar as palavras dos justos.
+
+[NOTE]
+====
+. Ou “dádiva; presente”.
+====
+
+[[v2-23-9]]
+
+^<<v2-23-9,9>>^ “E não deves oprimir o residente forasteiro, visto que vós mesmos conhecestes a alma^&#42;1^ do residente forasteiro,^&#42;2^ porque vos tornastes residentes forasteiros na terra do Egito.
+
+[NOTE]
+====
+. Ou “o estado de existência”. Hebr.: né·fesh; gr.: psy·khén.
+. “Residente forasteiro.” Gr.: pro·se·lý·tou.
+====
+
+[[v2-23-10]]
+
+^<<v2-23-10,10>>^ “E por seis anos deves semear a tua terra e tens de recolher os seus produtos.
+
+[[v2-23-11]]
+
+^<<v2-23-11,11>>^ Mas no sétimo ano deves deixá-la sem cultivo e tens de deixá-la de pousio, e os pobres do teu povo têm de comer dela; e o que for deixado por eles deve ser comido pelos animais selváticos do campo. É assim que deves fazer com o teu vinhedo e com o teu olival.
+
+[[v2-23-12]]
+
+^<<v2-23-12,12>>^ “Seis dias deves fazer teu trabalho; mas no sétimo dia deves desistir,^&#42;1^ para que teu touro e teu jumento descansem, e o filho da tua escrava e o residente forasteiro tomem fôlego.
+
+[NOTE]
+====
+. Ou “repousar; guardar o sábado”.
+====
+
+[[v2-23-13]]
+
+^<<v2-23-13,13>>^ “E deves guardar-te quanto a tudo o que eu te disse; e não deves mencionar o nome de outros deuses. Não deve ser ouvido da tua boca.
+
+[[v2-23-14]]
+
+^<<v2-23-14,14>>^ “Três vezes no ano deves celebrar-me uma festividade.
+
+[[v2-23-15]]
+
+^<<v2-23-15,15>>^ Guardarás a festividade dos pães não fermentados. Por sete dias comerás pães não fermentados, assim como te mandei, no tempo designado, no mês de abibe, porque nele saíste do Egito. E eles não devem comparecer^&#42;1^ diante de mim de mãos vazias.
+
+[NOTE]
+====
+. “Não deveis comparecer”, LXXVg.
+====
+
+[[v2-23-16]]
+
+^<<v2-23-16,16>>^ Também a festividade da colheita dos primeiros frutos maduros dos teus trabalhos, daquilo que semeias no campo; e a festividade do recolhimento, à saída do ano, quando recolheres dos campos os teus trabalhos.
+
+[[v2-23-17]]
+
+^<<v2-23-17,17>>^ Três vezes por ano, todo macho teu comparecerá perante a face do [verdadeiro] Senhor^&#42;1^ Jeová.^&#42;2^
+
+[NOTE]
+====
+. “Do [verdadeiro] Senhor.” Hebr.: ha·’A·dhón; gr.: Ky·rí·ou. Veja Ap. 1H.
+. “Jeová”, MSam; LXXSyVgc: “teu Deus”.
+====
+
+[[v2-23-18]]
+
+^<<v2-23-18,18>>^ “Não deves oferecer o sangue do meu sacrifício junto com o que é levedado. E a gordura da minha festividade não deve ficar a noite toda até à manhã.
+
+[[v2-23-19]]
+
+^<<v2-23-19,19>>^ “Deves trazer à casa de Jeová, teu Deus, o melhor^&#42;1^ dos primeiros frutos maduros do teu solo.
+“Não deves cozinhar o cabritinho no leite de sua mãe.
+
+[NOTE]
+====
+. Ou “seleto; principal”. Lit.: “princípio”.
+====
+
+[[v2-23-20]]
+
+^<<v2-23-20,20>>^ “Eis que envio um anjo diante de ti para guardar-te pela estrada e para introduzir-te no lugar que preparei.
+
+[[v2-23-21]]
+
+^<<v2-23-21,21>>^ Guarda-te por causa dele e obedece à sua voz. Não te comportes rebeldemente contra ele, pois não perdoará a vossa transgressão; porque meu nome está nele.^&#42;1^
+
+[NOTE]
+====
+. Isto é, o “anjo” como representante de Jeová, para agir em Seu nome.
+====
+
+[[v2-23-22]]
+
+^<<v2-23-22,22>>^ No entanto, se obedeceres estritamente à sua voz e realmente fizeres tudo o que eu falar, então hei de ser hostil aos teus inimigos e hostilizarei os que te hostilizarem.
+
+[[v2-23-23]]
+
+^<<v2-23-23,23>>^ Pois meu anjo irá adiante de ti e deveras te levará aos amorreus, e aos hititas, e aos perizeus, e aos cananeus, aos heveus e aos jebuseus, e eu certamente os eliminarei.
+
+[[v2-23-24]]
+
+^<<v2-23-24,24>>^ Não te deves curvar diante dos seus deuses, nem ser induzido a servi-los, e não deves fazer nada semelhante aos trabalhos deles, mas, sem falta os derrubarás e sem falta destroçarás as suas colunas sagradas.
+
+[[v2-23-25]]
+
+^<<v2-23-25,25>>^ E tereis de servir a Jeová, vosso Deus, e ele certamente abençoará teu pão e tua água; e deveras afastarei do teu meio a enfermidade.
+
+[[v2-23-26]]
+
+^<<v2-23-26,26>>^ Não existirá na tua terra nenhuma mulher que sofra aborto,^&#42;1^ nem mulher estéril. Encherei o número dos teus dias.
+
+[NOTE]
+====
+. Ou “expulsão de seus filhos”.
+====
+
+[[v2-23-27]]
+
+^<<v2-23-27,27>>^ “E enviarei o horror de mim na tua frente e certamente lançarei em confusão todo o povo entre o qual virás [a estar], e deveras te darei a cerviz de todos os teus inimigos.^&#42;1^
+
+[NOTE]
+====
+. Ou “deveras farei com que todos os teus inimigos virem as costas diante de ti”.
+====
+
+[[v2-23-28]]
+
+^<<v2-23-28,28>>^ E vou enviar na tua frente o sentimento de desânimo,^&#42;1^ e este simplesmente expulsará de diante de ti os heveus, os cananeus e os hititas.
+
+[NOTE]
+====
+. “Sentimento de desânimo.” Gr.: sfe·kí·as; lat.: cra·bró·nes, “vespões”. Kleine Lichter, de Koehler, Zurique, 1945, mostra que a palavra hebr. hats·tsir·‛áh corresponde à palavra árabe que significa “desânimo; desalento; rebaixamento”. Mas no passado, os eruditos entendiam esta palavra hebr. como metáfora para indicar “males e calamidades”. Veja De 7:20 e Jos 24:12, que são os únicos outros lugares em que esta expressão ocorre no M.
+====
+
+[[v2-23-29]]
+
+^<<v2-23-29,29>>^ Não os expulsarei de diante de ti num só ano, para que o país não se torne um baldio desolado e os animais selváticos realmente [não] se multipliquem contra ti.
+
+[[v2-23-30]]
+
+^<<v2-23-30,30>>^ Pouco a pouco os expulsarei de diante de ti, até que te tornes fecundo e realmente tomes posse do país.
+
+[[v2-23-31]]
+
+^<<v2-23-31,31>>^ “E vou fixar o teu termo desde o Mar Vermelho até o mar dos filisteus, e desde o ermo até o Rio;^&#42;1^ porque entregarei na vossa mão os habitantes do país, e certamente os expulsarás^&#42;2^ de diante de ti.
+
+[NOTE]
+====
+. LXX acrescenta “Eufrates”.
+. “Expulsarás”, MSy; SamLXXVg: “expulsarei”.
+====
+
+[[v2-23-32]]
+
+^<<v2-23-32,32>>^ Não concluirás pacto algum com eles ou com os seus deuses.
+
+[[v2-23-33]]
+
+^<<v2-23-33,33>>^ Não devem morar na tua terra, para que não te façam pecar contra mim. Caso servisses^&#42;1^ os seus deuses, tornar-se-ia para ti um laço.”
+
+[NOTE]
+====
+. Ou “adorasses”. Hebr.: tha·‛avódh.
+====
+
+'''
+
+xref:002-exodo/002-exodo-022.adoc#v2-22-0[&#60; Capítulo Anterior] | <<v2-23-0,Topo>> | xref:002-exodo/002-exodo-024.adoc#v2-24-0[Próximo Capítulo &#62;]

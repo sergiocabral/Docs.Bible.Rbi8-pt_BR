@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v19-13-0]]
+=== Salmos, 13
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Uma melodia de Davi._
+
+[[v19-13-1]]
+
+^<<v19-13-1,1>>^ Até quando te esquecerás de mim, ó Jeová? Para sempre?
+Até quando esconderás de mim a tua face?
+
+[[v19-13-2]]
+
+^<<v19-13-2,2>>^ Até quando devo pôr resistência na minha alma,
+Pesar no meu coração, de dia?
+Até quando ficará meu inimigo enaltecido sobre mim?
+
+[[v19-13-3]]
+
+^<<v19-13-3,3>>^ Olha deveras [para mim]; responde-me, ó Jeová, meu Deus.
+Faze deveras meus olhos brilhar, para que eu não adormeça na morte,
+
+[[v19-13-4]]
+
+^<<v19-13-4,4>>^ A fim de que meu inimigo não diga: “Saí vencedor sobre ele!”
+[Para que] os próprios adversários meus [não] jubilem por se fazer que eu seja abalado.
+
+[[v19-13-5]]
+
+^<<v19-13-5,5>>^ Quanto a mim, confiei na tua benevolência;^&#42;1^
+Jubile meu coração na tua salvação.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-13-6]]
+
+^<<v19-13-6,6>>^ Vou cantar a Jeová, pois lidou comigo de modo recompensador.^&#42;1^
+
+[NOTE]
+====
+. LXXVg acrescentam: “E vou entoar melodias ao nome de Jeová, o Altíssimo.” Veja 7:17.
+====
+
+'''
+
+xref:019-salmo/019-salmo-012.adoc#v19-12-0[&#60; Capítulo Anterior] | <<v19-13-0,Topo>> | xref:019-salmo/019-salmo-014.adoc#v19-14-0[Próximo Capítulo &#62;]

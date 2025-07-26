@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v30-6-0]]
+=== Amós, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v30-6-1]]
+
+^<<v30-6-1,1>>^ “Ai dos despreocupados em Sião e dos que confiam no monte de Samaria! São os distintos da parte principal das nações e a eles é que chegou a casa de Israel.
+
+[[v30-6-2]]
+
+^<<v30-6-2,2>>^ Segui vosso caminho para Calné e vede; e de lá ide à populosa Hamate e descei a Gate dos filisteus. São eles melhores do que estes reinos ou é seu território maior do que o vosso território?
+
+[[v30-6-3]]
+
+^<<v30-6-3,3>>^ [Estais] tirando da mente o dia calamitoso e trazeis perto a morada da violência?
+
+[[v30-6-4]]
+
+^<<v30-6-4,4>>^ [Vós, que sois homens] que se deitam em leitos de marfim e se estiram sobre os seus divãs, e que comem os carneiros dentre o rebanho e os novilhos dentre os bezerros cevados;
+
+[[v30-6-5]]
+
+^<<v30-6-5,5>>^ que improvisam segundo o som^&#42;1^ do instrumento de cordas; que, como Davi, inventaram para si instrumentos para canto;
+
+[NOTE]
+====
+. Lit.: “a boca”.
+====
+
+[[v30-6-6]]
+
+^<<v30-6-6,6>>^ que bebem em tigelas de vinho, e que fazem a sua unção com os óleos mais seletos, e que não adoeceram diante da catástrofe de José.
+
+[[v30-6-7]]
+
+^<<v30-6-7,7>>^ “Portanto, agora serão exilados à cabeça dos que vão para o exílio e terá de desaparecer a festança dos que [jazem] estirados.
+
+[[v30-6-8]]
+
+^<<v30-6-8,8>>^ “‘O Soberano Senhor Jeová jurou pela sua própria alma’, é a pronunciação de Jeová, o Deus dos exércitos: ‘“Detesto o orgulho de Jacó, e odiei as suas torres de habitação, e vou entregar [a] cidade e o que a enche.
+
+[[v30-6-9]]
+
+^<<v30-6-9,9>>^ E terá de acontecer que, se numa casa sobrarem dez homens,^&#42;1^ eles também terão de morrer.
+
+[NOTE]
+====
+. “Homens.” Hebr.: ’ana·shím, pl. de ’ish.
+====
+
+[[v30-6-10]]
+
+^<<v30-6-10,10>>^ E o irmão de seu pai terá de carregá-los para fora um por um e os queimará um por um, a fim de retirar da casa [os] ossos. E terá de dizer a quem estiver nas partes mais recônditas da casa: ‘Há mais alguém contigo?’ E ele certamente dirá: ‘Não há ninguém!’ E terá de dizer: ‘Fica calado! Pois não é a ocasião para se mencionar o nome de Jeová.’”
+
+[[v30-6-11]]
+
+^<<v30-6-11,11>>^ “‘Pois eis que Jeová está dando ordens e ele certamente golpeará a casa grande [até ficar] em escombros e a casa pequena, em destroços.
+
+[[v30-6-12]]
+
+^<<v30-6-12,12>>^ “‘Porventura correm os cavalos sobre um rochedo ou se ara [ali] com o gado vacum? Pois transformastes o juízo numa planta venenosa e os frutos da justiça em absinto,
+
+[[v30-6-13]]
+
+^<<v30-6-13,13>>^ [vós os que] vos alegrais numa coisa que não existe; que dizeis: “Não tomamos para nós chifres em nossa força?”
+
+[[v30-6-14]]
+
+^<<v30-6-14,14>>^ Eis que suscito contra vós uma nação, ó casa de Israel’, é a pronunciação de Jeová, o Deus dos exércitos, ‘e eles terão de oprimir-vos desde a entrada de Hamate^&#42;1^ até o vale da torrente do Arabá’.”^&#42;2^
+
+[NOTE]
+====
+. Possivelmente: “desde Lebi-Hamate (Leão de Hamate)”. Veja Jos 13:5 n.: “Hamate”.
+. Ou “da planície desértica”. Veja De 1:1 n.: “desérticas”.
+====
+
+'''
+
+xref:030-amos/030-amos-005.adoc#v30-5-0[&#60; Capítulo Anterior] | <<v30-6-0,Topo>> | xref:030-amos/030-amos-007.adoc#v30-7-0[Próximo Capítulo &#62;]

@@ -1,0 +1,178 @@
+include::./index.adoc[]
+
+[[v1-11-0]]
+=== Gênesis, 11
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-11-1]]
+
+^<<v1-11-1,1>>^ Ora, toda a terra continuava a ter um só idioma^&#42;1^ e um só grupo de palavras.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “um só lábio”, MLXXVg.
+. Ou “um só vocabulário”.
+====
+
+[[v1-11-2]]
+
+^<<v1-11-2,2>>^ E sucedeu que na sua viagem para o oriente descobriram, por fim, uma planície na terra de Sinear, e passaram a morar ali.
+
+[[v1-11-3]]
+
+^<<v1-11-3,3>>^ E começaram a dizer, cada um ao próximo: “Vamos! Façamos tijolos e cozamo-los por um processo de queima.” O tijolo servia-lhes assim de pedra, mas o betume servia-lhes de argamassa.
+
+[[v1-11-4]]
+
+^<<v1-11-4,4>>^ Disseram então: “Vamos! Construamos para nós uma cidade e também uma torre^&#42;1^ com o seu topo nos céus, e façamos para nós um nome célebre,^&#42;2^ para que não sejamos espalhados por toda a superfície da terra.”
+
+[NOTE]
+====
+. “E também uma torre.” Hebr.: u·migh·dál; gr.: pýr·gon; lat.: túr·rem.
+. Ou “façamos um monumento”.
+====
+
+[[v1-11-5]]
+
+^<<v1-11-5,5>>^ E Jeová passou a descer para ver a cidade e a torre que os filhos dos homens tinham construído.
+
+[[v1-11-6]]
+
+^<<v1-11-6,6>>^ Depois Jeová disse: “Eis que são um só povo e há um só idioma para todos eles, e isto é o que principiam a fazer. Ora, nada do que intentem fazer lhes será agora inalcançável.
+
+[[v1-11-7]]
+
+^<<v1-11-7,7>>^ Vamos! Desçamos e confundamos o seu idioma, para que não escutem^&#42;1^ o idioma um do outro.”
+
+[NOTE]
+====
+. Ou “entendam”.
+====
+
+[[v1-11-8]]
+
+^<<v1-11-8,8>>^ Concordemente, Jeová os espalhou dali por toda a superfície da terra, e gradualmente eles deixaram de construir a cidade.
+
+[[v1-11-9]]
+
+^<<v1-11-9,9>>^ É por isso que foi chamada pelo nome de Babel,^&#42;1^ porque Jeová confundiu ali o idioma de toda a terra,^&#42;2^ e Jeová os espalhou dali por toda a superfície da terra.
+
+[NOTE]
+====
+. “Babel.” Hebr.: Ba·vél. Moisés derivou “Babel” da raiz do verbo ba·lál, “confundir; desconcertar”, dando assim a “Babel” o significado de “Confusão”. SyVg: “Babel”; gr.: Sýg·khy·sis, “Confusão”. Em acadiano: Bab-ilu. Os cidadãos locais afirmavam que Bab significava “Portão”, e ilu, “Deus” (’El em hebr.), significando assim “Portão de Deus”.
+. Ou “a população da terra”.
+====
+
+[[v1-11-10]]
+
+^<<v1-11-10,10>>^ Esta é a história de Sem.
+Sem tinha cem anos de idade quando se tornou pai de Arpaxade, dois anos após o dilúvio.
+
+[[v1-11-11]]
+
+^<<v1-11-11,11>>^ E depois de gerar Arpaxade, Sem continuou a viver quinhentos anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-11-12]]
+
+^<<v1-11-12,12>>^ E Arpaxade^&#42;1^ viveu trinta e cinco anos. Tornou-se então pai de Selá.
+
+[NOTE]
+====
+. LXX, vv. 12 e 13, reza: (12) “E Arpaxade viveu cento e trinta e cinco anos, e tornou-se pai de Cainã. (13) E depois de produzir Cainã, Arpaxade viveu quatrocentos e trinta anos, e tornou-se pai de filhos e de filhas, e morreu. E Cainã viveu cento e trinta anos e tornou-se pai de Selá. E depois de produzir Selá, Cainã viveu trezentos e trinta anos, e tornou-se pai de filhos e de filhas, e morreu.” Esta fonte insere o nome Cainã entre os nomes Selá e Arpaxade. Veja Lu 3:36.
+====
+
+[[v1-11-13]]
+
+^<<v1-11-13,13>>^ E depois de gerar Selá, Arpaxade continuou a viver quatrocentos e três anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-11-14]]
+
+^<<v1-11-14,14>>^ E Selá viveu trinta anos. Tornou-se então pai de Éber.
+
+[[v1-11-15]]
+
+^<<v1-11-15,15>>^ E depois de gerar Éber, Selá continuou a viver quatrocentos e três anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-11-16]]
+
+^<<v1-11-16,16>>^ E Éber viveu trinta e quatro anos. Tornou-se então pai de Pelegue.
+
+[[v1-11-17]]
+
+^<<v1-11-17,17>>^ E depois de gerar Pelegue, Éber continuou a viver quatrocentos e trinta anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-11-18]]
+
+^<<v1-11-18,18>>^ E Pelegue viveu trinta anos. Tornou-se então pai de Reú.
+
+[[v1-11-19]]
+
+^<<v1-11-19,19>>^ E depois de gerar Reú, Pelegue continuou a viver duzentos e nove anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-11-20]]
+
+^<<v1-11-20,20>>^ E Reú viveu trinta e dois anos. Tornou-se então pai de Serugue.
+
+[[v1-11-21]]
+
+^<<v1-11-21,21>>^ E depois de gerar Serugue, Reú continuou a viver duzentos e sete anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-11-22]]
+
+^<<v1-11-22,22>>^ E Serugue viveu trinta anos. Tornou-se então pai de Naor.
+
+[[v1-11-23]]
+
+^<<v1-11-23,23>>^ E depois de gerar Naor, Serugue continuou a viver duzentos anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-11-24]]
+
+^<<v1-11-24,24>>^ E Naor viveu vinte e nove anos. Tornou-se então pai de Tera.
+
+[[v1-11-25]]
+
+^<<v1-11-25,25>>^ E depois de gerar Tera, Naor continuou a viver cento e dezenove anos. Entrementes ele se tornou pai de filhos e de filhas.
+
+[[v1-11-26]]
+
+^<<v1-11-26,26>>^ E Tera viveu setenta anos, sendo que depois se tornou pai de Abrão, Naor e Harã.
+
+[[v1-11-27]]
+
+^<<v1-11-27,27>>^ E esta é a história de Tera.
+Tera tornou-se pai de Abrão, Naor e Harã; e Harã tornou-se pai de Ló.
+
+[[v1-11-28]]
+
+^<<v1-11-28,28>>^ Mais tarde, Harã morreu enquanto estava em companhia de Tera,^&#42;1^ seu pai, na sua terra natal, em Ur dos Caldeus.^&#42;2^
+
+[NOTE]
+====
+. Ou “enquanto Tera ainda vivia”. Lit.: “perante a face de Tera”.
+. Ou “Ur da Caldéia”.
+====
+
+[[v1-11-29]]
+
+^<<v1-11-29,29>>^ E Abrão e Naor passaram a tomar para si esposas. O nome da esposa de Abrão era Sarai, ao passo que o nome da esposa de Naor era Milca, filha de Harã, pai de Milca e pai de Iscá.
+
+[[v1-11-30]]
+
+^<<v1-11-30,30>>^ Mas Sarai continuava estéril; não tinha filho.
+
+[[v1-11-31]]
+
+^<<v1-11-31,31>>^ Tera tomou depois Abrão, seu filho, e Ló, filho de Harã, seu neto, e Sarai, sua nora, esposa de Abrão, seu filho, e estes saíram com ele^&#42;1^ de Ur dos Caldeus, a fim de irem para a terra de Canaã. Com o tempo chegaram a Harã e passaram a morar ali.
+
+[NOTE]
+====
+. Lit.: “saíram com eles”, M; Sy: “saiu com eles”; SamLXXVg: “ele os conduziu para fora”.
+====
+
+[[v1-11-32]]
+
+^<<v1-11-32,32>>^ E os dias de Tera vieram a ser duzentos e cinco anos. Tera morreu então em Harã.
+
+'''
+
+xref:001-genesis/001-genesis-010.adoc#v1-10-0[&#60; Capítulo Anterior] | <<v1-11-0,Topo>> | xref:001-genesis/001-genesis-012.adoc#v1-12-0[Próximo Capítulo &#62;]

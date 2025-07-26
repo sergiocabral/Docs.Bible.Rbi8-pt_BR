@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v38-7-0]]
+=== Zacarias, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v38-7-1]]
+
+^<<v38-7-1,1>>^ Além disso, sucedeu no quarto ano de Dario, o rei, que veio a haver a palavra de Jeová para Zacarias, no quarto [dia] do nono mês, [quer dizer,] em quisleu.^&#42;1^
+
+[NOTE]
+====
+. Este é o nome pós-exílico do nono mês lunar judaico, que cai em novembro e dezembro. Veja Ap. 8B.
+====
+
+[[v38-7-2]]
+
+^<<v38-7-2,2>>^ E Betel passou a enviar Sarezer e Regem-Meleque, e seus homens,^&#42;1^ para abrandar a face de Jeová,
+
+[NOTE]
+====
+. “E seus homens.” Hebr.: wa·’ana·sháv, pl. de ’ish.
+====
+
+[[v38-7-3]]
+
+^<<v38-7-3,3>>^ dizendo aos sacerdotes que pertenciam à casa de Jeová dos exércitos, e aos profetas, sim, dizendo: “Chorarei no quinto mês, observando abstinência,^&#42;1^ assim como fiz, oh! por tantos anos?”
+
+[NOTE]
+====
+. “Observando abstinência.” Hebr.: hin·na·zér, no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v38-7-4]]
+
+^<<v38-7-4,4>>^ E continuou a vir a haver para mim a palavra de Jeová dos exércitos, dizendo:
+
+[[v38-7-5]]
+
+^<<v38-7-5,5>>^ “Dize a todo o povo da terra^&#42;1^ e aos sacerdotes: ‘Quando jejuastes e houve lamentação no quinto [mês] e no sétimo [mês], e isto por setenta anos, jejuastes realmente para mim, sim, para mim?
+
+[NOTE]
+====
+. “Povo da terra.” Hebr.: ‛am ha·’á·rets. Veja Ag 2:4 n.
+====
+
+[[v38-7-6]]
+
+^<<v38-7-6,6>>^ E quando estáveis comendo e quando estáveis bebendo, não fostes vós que comíeis e não fostes vós que bebíeis?
+
+[[v38-7-7]]
+
+^<<v38-7-7,7>>^ Não [devíeis obedecer] às palavras que Jeová clamou por intermédio dos profetas anteriores, enquanto aconteceu que Jerusalém estava habitada e tranqüila, com as suas cidades em sua volta, e [enquanto] o Negebe^&#42;1^ e a Sefelá^&#42;2^ estavam habitados?’”
+
+[NOTE]
+====
+. Ou “o sul”, isto é, a parte sulina da Terra da Promessa.
+. Ou “a terra baixa”.
+====
+
+[[v38-7-8]]
+
+^<<v38-7-8,8>>^ E continuou a vir a haver a palavra de Jeová para Zacarias, dizendo:
+
+[[v38-7-9]]
+
+^<<v38-7-9,9>>^ “Assim disse Jeová dos exércitos: ‘Fazei o vosso julgamento com verdadeira justiça;^&#42;1^ e praticai mutuamente benevolência^&#42;2^ e misericórdias;
+
+[NOTE]
+====
+. Lit.: “[com] o julgamento de verdade”.
+. Ou “e . . . amor leal”. Hebr.: wehhé·sedh.
+====
+
+[[v38-7-10]]
+
+^<<v38-7-10,10>>^ e não defraudeis nem viúva, nem menino órfão de pai, nem residente forasteiro, nem atribulado, e não maquineis nada de mal um contra o outro nos vossos corações.’
+
+[[v38-7-11]]
+
+^<<v38-7-11,11>>^ Mas, persistiram em negar-se a prestar atenção e continuaram a oferecer um ombro obstinado, e fizeram seus ouvidos demasiadamente irresponsivos para ouvir.
+
+[[v38-7-12]]
+
+^<<v38-7-12,12>>^ E tornaram seu coração como pedra de esmeril para não obedecer à lei e às palavras que Jeová dos exércitos enviara por meio de seu espírito, por intermédio dos profetas anteriores; de modo que ocorreu grande indignação da parte de Jeová dos exércitos.”
+
+[[v38-7-13]]
+
+^<<v38-7-13,13>>^ “‘E por isso aconteceu que, assim como ele chamou e não escutaram, assim eles chamavam e eu não escutava’, disse Jeová dos exércitos.
+
+[[v38-7-14]]
+
+^<<v38-7-14,14>>^ ‘E eu, tempestuosamente, passei a lançá-los por todas as nações que não conheceram; e a própria terra ficou desolada atrás deles, sem haver quem passasse [por ela] e sem haver quem retornasse; e passaram a fazer da terra desejável um assombro.’”
+
+'''
+
+xref:038-zacarias/038-zacarias-006.adoc#v38-6-0[&#60; Capítulo Anterior] | <<v38-7-0,Topo>> | xref:038-zacarias/038-zacarias-008.adoc#v38-8-0[Próximo Capítulo &#62;]

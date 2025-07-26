@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v15-5-0]]
+=== Esdras, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v15-5-1]]
+
+^<<v15-5-1,1>>^ E Ageu, o profeta, e Zacarias, neto de Ido, o profeta, profetizaram aos judeus que estavam em Judá e em Jerusalém em nome do Deus de Israel [que estava] sobre eles.
+
+[[v15-5-2]]
+
+^<<v15-5-2,2>>^ Foi então que se levantaram Zorobabel, filho de Sealtiel,^&#42;1^ e Jesua, filho de Jeozadaque, e principiaram a reconstruir a casa de Deus, que estava em Jerusalém; e com eles estavam os profetas de Deus para auxiliá-los.
+
+[NOTE]
+====
+. “Filho de Sealtiel.” Aram.: bar-She’al·ti·’él. Veja Mt 16:17 n.
+====
+
+[[v15-5-3]]
+
+^<<v15-5-3,3>>^ Naquele tempo chegaram a eles Tatenai, governador de além do Rio, e Setar-Bozenai, e seus confrades, e o seguinte é o que lhes disseram: “Quem vos deu ordem para construir esta casa e terminar esta estrutura de vigas?”^&#42;1^
+
+[NOTE]
+====
+. “Esta preparação”, LXX; Vg: “estas paredes”.
+====
+
+[[v15-5-4]]
+
+^<<v15-5-4,4>>^ Então lhes disseram^&#42;1^ o seguinte: “Quais são os nomes dos varões vigorosos que constroem este edifício?”
+
+[NOTE]
+====
+. “Disseram”, LXXSy; MVg: “dissemos”. Veja v. 10.
+====
+
+[[v15-5-5]]
+
+^<<v15-5-5,5>>^ E o olho de seu Deus mostrou estar sobre os anciãos dos judeus, e não os fizeram parar até que o relatório pudesse chegar a Dario e então se enviasse de volta um documento oficial a este respeito.
+
+[[v15-5-6]]
+
+^<<v15-5-6,6>>^ [Aqui] está uma cópia da carta que Tatenai, governador de além do Rio, e Setar-Bozenai e seus confrades, os governadores menores que havia além do Rio,^&#42;1^ enviaram a Dario, o rei;
+
+[NOTE]
+====
+. Isto é, o Eufrates.
+====
+
+[[v15-5-7]]
+
+^<<v15-5-7,7>>^ enviaram-lhe a comunicação, e a escrita nela foi da seguinte maneira:
+“A Dario, o rei:
+“Toda a paz!
+
+[[v15-5-8]]
+
+^<<v15-5-8,8>>^ Torne-se do conhecimento do rei que fomos ao distrito jurisdicional de Judá, à casa do grande Deus, e ela está sendo construída com pedras roladas^&#42;1^ [ao lugar], e colocam-se madeiras nas paredes; e esta obra está sendo feita ansiosamente e faz progresso nas suas mãos.
+
+[NOTE]
+====
+. Isto é, pedras pesadas demais para serem carregadas.
+====
+
+[[v15-5-9]]
+
+^<<v15-5-9,9>>^ Fizemos então perguntas a estes anciãos. Isto é o que lhes dissemos: ‘Quem vos deu ordem para construir esta casa e terminar esta estrutura de vigas?’
+
+[[v15-5-10]]
+
+^<<v15-5-10,10>>^ E também lhes perguntamos pelos seus nomes, para te deixar saber, a fim de que pudéssemos escrever os nomes dos varões vigorosos que estão à sua cabeça.
+
+[[v15-5-11]]
+
+^<<v15-5-11,11>>^ “E esta é a palavra que nos replicaram, dizendo: ‘Somos os servos do Deus dos céus e da terra e estamos reconstruindo a casa que se construíra muitos anos antes, construída e terminada por um grande rei de Israel.
+
+[[v15-5-12]]
+
+^<<v15-5-12,12>>^ No entanto, visto que os nossos pais irritaram o Deus dos céus, ele os entregou na mão de Nabucodonosor, rei de Babilônia, o caldeu, e ele demoliu esta casa e levou o povo ao exílio em Babilônia.
+
+[[v15-5-13]]
+
+^<<v15-5-13,13>>^ Não obstante, no primeiro ano de Ciro, rei de Babilônia,^&#42;1^ Ciro, o rei, deu ordem para que se reconstruísse esta casa de Deus.
+
+[NOTE]
+====
+. “Babilônia”, Vg; M: “Babel”; Sy: “Pérsia”.
+====
+
+[[v15-5-14]]
+
+^<<v15-5-14,14>>^ E também os vasos de ouro e de prata da casa de Deus, que Nabucodonosor tinha retirado do templo que havia em Jerusalém e levado ao templo de Babilônia,^&#42;1^ a estes Ciro, o rei, retirou do templo de Babilônia e eles foram entregues a Sesbazar,^&#42;2^ nome daquele a quem fez governador.
+
+[NOTE]
+====
+. “Ao templo de Babilônia.” Aram.: leheh·khelá’ di Va·vél; LXX: “ao templo do rei”.
+. “Zorobabel” em 2:2; 3:8.
+====
+
+[[v15-5-15]]
+
+^<<v15-5-15,15>>^ E disse-lhe: “Toma estes vasos. Vai, deposita-os no templo que há em Jerusalém e reconstrua-se a casa de Deus no seu lugar.”
+
+[[v15-5-16]]
+
+^<<v15-5-16,16>>^ Então, chegando este Sesbazar, lançou os alicerces da casa de Deus, que está em Jerusalém; e desde então até agora está sendo reconstruída, mas não foi completada.’
+
+[[v15-5-17]]
+
+^<<v15-5-17,17>>^ “E agora, se parecer bem ao rei, faça-se uma investigação na casa dos tesouros do rei, que está lá em Babilônia, [para ver] se é assim, que foi dada uma ordem por Ciro, o rei, para que se reconstruísse esta casa de Deus em Jerusalém; e envie-nos o rei a decisão a respeito disso.”
+
+'''
+
+xref:015-esdras/015-esdras-004.adoc#v15-4-0[&#60; Capítulo Anterior] | <<v15-5-0,Topo>> | xref:015-esdras/015-esdras-006.adoc#v15-6-0[Próximo Capítulo &#62;]

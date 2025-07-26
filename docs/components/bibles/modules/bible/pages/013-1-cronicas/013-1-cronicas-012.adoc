@@ -1,0 +1,216 @@
+include::./index.adoc[]
+
+[[v13-12-0]]
+=== 1 Crônicas, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v13-12-1]]
+
+^<<v13-12-1,1>>^ E estes são os que vieram a Davi em Ziclague, enquanto se achava ainda restrito por causa de Saul, filho de Quis; e eles estavam entre os poderosos, os ajudantes na guerra,
+
+[[v13-12-2]]
+
+^<<v13-12-2,2>>^ armados de arco, usando a direita ou a esquerda com pedras ou com flechas no arco. Eram dos irmãos de Saul, de Benjamim.
+
+[[v13-12-3]]
+
+^<<v13-12-3,3>>^ Havia o cabeça, Aiezer, e Joás, filhos de Semaá, o gibeatita, e Jeziel e Pelete, filhos de Asmavete, e Beraca e Jeú, o anatotita,
+
+[[v13-12-4]]
+
+^<<v13-12-4,4>>^ e Ismaías, o gibeonita, homem poderoso entre os trinta e sobre os trinta; e Jeremias, e Jaaziel, e Joanã, e Jozabade, o gederatita,
+
+[[v13-12-5]]
+
+^<<v13-12-5,5>>^ Eluzai, e Jerimote, e Bealias, e Semarias, e Sefatias, o harifita,
+
+[[v13-12-6]]
+
+^<<v13-12-6,6>>^ Elcana, e Issias, e Azarel, e Joezer, e Jasobeão, os coraítas,
+
+[[v13-12-7]]
+
+^<<v13-12-7,7>>^ e Joela e Zebadias, filhos de Jeroão de Gedor.
+
+[[v13-12-8]]
+
+^<<v13-12-8,8>>^ E havia alguns dos gaditas que se separaram para o lado de Davi no lugar de difícil acesso, no ermo, homens poderosos, valentes, homens do exército, para a guerra, prontos com o escudo grande e a lança, cujas faces eram faces de leões, e eles eram iguais às gazelas nos montes em velocidade.
+
+[[v13-12-9]]
+
+^<<v13-12-9,9>>^ Ezer era o cabeça, Obadias, o segundo, Eliabe, o terceiro,
+
+[[v13-12-10]]
+
+^<<v13-12-10,10>>^ Mismana, o quarto, Jeremias,^&#42;1^ o quinto,
+
+[NOTE]
+====
+. “Jeremias.” Hebr.: Yir·meyáh.
+====
+
+[[v13-12-11]]
+
+^<<v13-12-11,11>>^ Attai, o sexto, Eliel, o sétimo,
+
+[[v13-12-12]]
+
+^<<v13-12-12,12>>^ Joanã, o oitavo, Elzabade, o nono,
+
+[[v13-12-13]]
+
+^<<v13-12-13,13>>^ Jeremias,^&#42;1^ o décimo, Macbanai, o décimo primeiro.
+
+[NOTE]
+====
+. “Jeremias.” Hebr.: Yir·meyá·hu.
+====
+
+[[v13-12-14]]
+
+^<<v13-12-14,14>>^ Estes eram dos filhos de Gade, cabeças do exército. O mínimo era igual a cem e o maior [igual] a mil.
+
+[[v13-12-15]]
+
+^<<v13-12-15,15>>^ Estes são os que atravessaram o Jordão no primeiro mês quando transbordava por todas as suas ribanceiras, e então puseram em fuga todos os das baixadas ao leste e ao oeste.
+
+[[v13-12-16]]
+
+^<<v13-12-16,16>>^ E alguns dos filhos de Benjamim e de Judá passaram a chegar até o lugar de difícil acesso, a Davi.
+
+[[v13-12-17]]
+
+^<<v13-12-17,17>>^ Então Davi saiu diante deles e respondeu, e disse-lhes: “Se foi para a paz que viestes a mim para me ajudar, meu próprio coração ficará em união convosco. Mas, se foi para me trairdes aos meus adversários, não havendo agravo nas palmas das minhas mãos, veja isso o Deus de nossos antepassados e endireite-o ele.”
+
+[[v13-12-18]]
+
+^<<v13-12-18,18>>^ E o próprio espírito envolveu^&#42;1^ a Amasai, cabeça dos trinta:
+“Teus [somos], ó Davi, e contigo [estamos], ó filho de Jessé.
+Paz, paz seja contigo, e paz com aquele que te ajuda,
+Pois o teu Deus te ajudou.”
+Portanto, Davi recebeu-os e os pôs entre os cabeças das tropas.
+
+[NOTE]
+====
+. Lit.: “revestiu”.
+====
+
+[[v13-12-19]]
+
+^<<v13-12-19,19>>^ E houve alguns de Manassés que desertaram^&#42;1^ a Davi quando ele veio com os filisteus contra Saul para a batalha; mas ele^&#42;2^ não os ajudou, porque os senhores do eixo dos filisteus, a conselho, mandaram-no embora, dizendo: “Arriscando as nossas próprias cabeças desertará a seu senhor^&#42;3^ Saul.”
+
+[NOTE]
+====
+. Lit.: “caíram [fora para; bandearam-se]”.
+. Lit.: “ele”, LXXA,LVg; MLXXא,B: “eles”.
+. “Seu senhor.” Hebr.: ’a·dho·náv, pl. de ’a·dhóhn, para denotar excelência.
+====
+
+[[v13-12-20]]
+
+^<<v13-12-20,20>>^ Quando chegou a Ziclague, desertaram a ele de Manassés: Adná, e Jozabade, e Jediael, e Micael, e Jozabade, e Eliú, e Ziletai, cabeças de mil dos que pertenciam a Manassés.
+
+[[v13-12-21]]
+
+^<<v13-12-21,21>>^ E eles, da sua parte, foram ajudar Davi contra a guerrilha, porque todos eles eram homens poderosos de valor, e vieram a ser chefes no exército;
+
+[[v13-12-22]]
+
+^<<v13-12-22,22>>^ pois dia a dia chegavam pessoas a Davi para o ajudar, até que era um grande acampamento, como o acampamento de Deus.
+
+[[v13-12-23]]
+
+^<<v13-12-23,23>>^ E estes eram os números dos cabeças dos equipados para o exército que chegaram a Davi em Hébron para transferir a ele o reinado de Saul, de acordo com a ordem de Jeová.
+
+[[v13-12-24]]
+
+^<<v13-12-24,24>>^ Os filhos de Judá que carregavam o escudo grande e a lança eram seis mil e oitocentos equipados para o exército.
+
+[[v13-12-25]]
+
+^<<v13-12-25,25>>^ Dos filhos de Simeão, os homens poderosos de valor do exército eram sete mil e cem.
+
+[[v13-12-26]]
+
+^<<v13-12-26,26>>^ Dos filhos dos levitas, quatro mil e seiscentos.
+
+[[v13-12-27]]
+
+^<<v13-12-27,27>>^ E Jeoiada era o líder [dos filhos]^&#42;1^ de Arão, e com ele havia três mil e setecentos.
+
+[NOTE]
+====
+. Ou “[da casa]”. LXXL: “dos filhos”; M omite isso.
+====
+
+[[v13-12-28]]
+
+^<<v13-12-28,28>>^ Também Zadoque, um moço, poderoso em valor, e a casa de seus antepassados, vinte e dois chefes.
+
+[[v13-12-29]]
+
+^<<v13-12-29,29>>^ E dos filhos de Benjamim, os irmãos de Saul, havia três mil, e até então a maior parte deles mantinha estrita vigilância sobre a casa de Saul.
+
+[[v13-12-30]]
+
+^<<v13-12-30,30>>^ E dos filhos de Efraim havia vinte mil e oitocentos, homens poderosos de valor, homens de fama,^&#42;1^ segundo a casa dos seus antepassados.
+
+[NOTE]
+====
+. Lit.: “homens de nomes”.
+====
+
+[[v13-12-31]]
+
+^<<v13-12-31,31>>^ E da meia tribo de Manassés havia dezoito mil que foram designados por nome para irem fazer Davi rei.
+
+[[v13-12-32]]
+
+^<<v13-12-32,32>>^ E dos filhos de Issacar, tendo conhecimento para discernir os tempos, para saber o que Israel devia fazer, havia duzentos cabeças deles, e todos os seus irmãos estavam sob as suas ordens.
+
+[[v13-12-33]]
+
+^<<v13-12-33,33>>^ De Zebulão, os que saíam para o exército, pondo-se em formação de batalha com todas as suas armas de guerra, havia cinqüenta mil, e para se reunirem [a Davi]^&#42;1^ não foram de coração dúplice.^&#42;2^
+
+[NOTE]
+====
+. “Para ajudarem Davi”, LXX.
+. Veja também Sal 12:2 n.
+====
+
+[[v13-12-34]]
+
+^<<v13-12-34,34>>^ E de Naftali havia mil chefes, e com eles, com escudo grande e lança, trinta e sete mil.
+
+[[v13-12-35]]
+
+^<<v13-12-35,35>>^ E dos danitas, os que se punham em formação de batalha eram vinte e oito mil e seiscentos.
+
+[[v13-12-36]]
+
+^<<v13-12-36,36>>^ E de Aser, os que saíam para o exército para se porem em formação de batalha eram quarenta mil.
+
+[[v13-12-37]]
+
+^<<v13-12-37,37>>^ E do outro lado do Jordão, dos rubenitas e dos gaditas, bem como da meia tribo de Manassés, com todas as armas da força militar, havia cento e vinte mil.
+
+[[v13-12-38]]
+
+^<<v13-12-38,38>>^ Todos estes eram homens de guerra, reunindo-se em fileira combatente; chegaram a Hébron de pleno coração para fazerem a Davi rei sobre todo o Israel; e também o restante de Israel era de um só coração para fazer Davi rei.
+
+[[v13-12-39]]
+
+^<<v13-12-39,39>>^ E continuaram ali com Davi por três dias, comendo e bebendo, pois os seus irmãos tinham feito preparativos para eles.
+
+[[v13-12-40]]
+
+^<<v13-12-40,40>>^ E também os perto deles, de tão longe quanto Issacar, e Zebulão, e Naftali, traziam comida^&#42;1^ sobre jumentos, e sobre camelos, e sobre mulos, e sobre gado vacum, comestíveis de farinha, tortas de figos prensados e tortas de passas, e vinho, e azeite, e gado vacum, e ovelhas em grande quantidade, pois havia alegria em Israel.
+
+[NOTE]
+====
+. Lit.: “pão”.
+====
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-011.adoc#v13-11-0[&#60; Capítulo Anterior] | <<v13-12-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-013.adoc#v13-13-0[Próximo Capítulo &#62;]

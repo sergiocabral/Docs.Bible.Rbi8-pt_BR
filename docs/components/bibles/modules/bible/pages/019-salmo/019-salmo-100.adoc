@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v19-100-0]]
+=== Salmos, 100
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma melodia de agradecimento._
+
+[[v19-100-1]]
+
+^<<v19-100-1,1>>^ Bradai em triunfo a Jeová, todos [vós da] terra.^&#42;1^
+
+[NOTE]
+====
+. Veja 96:1 n.: “terra”.
+====
+
+[[v19-100-2]]
+
+^<<v19-100-2,2>>^ Servi^&#42;1^ a Jeová com alegria.
+Entrai perante ele com grito jubiloso.
+
+[NOTE]
+====
+. Lit.: “Que adoreis (presteis serviço sagrado).” Hebr.: ‛iv·dhú, pl.
+====
+
+[[v19-100-3]]
+
+^<<v19-100-3,3>>^ Sabei que Jeová é Deus.^&#42;1^
+Foi ele quem nos fez, e não nós a nós mesmos.^&#42;2^
+[Somos] seu povo e ovelhas do seu pasto.
+
+[NOTE]
+====
+. Lit.: “ele [é] Deus”, M(hebr.: hu’ ’Elo·hím)T; gr.: ho The·ós; Sy: “nosso Deus”.
+. Segundo MLXXSyVg; MmargemTAq e muitos mss. hebr.: “e nós somos dele”.
+====
+
+[[v19-100-4]]
+
+^<<v19-100-4,4>>^ Entrai nos seus portões com agradecimento,
+E nos seus pátios com louvor.
+Dai-lhe graças, bendizei o seu nome.
+
+[[v19-100-5]]
+
+^<<v19-100-5,5>>^ Pois Jeová é bom;
+Sua benevolência é por tempo indefinido
+E sua fidelidade de geração em geração.^&#42;1^
+
+[NOTE]
+====
+. Ou “para todas as gerações”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-099.adoc#v19-99-0[&#60; Capítulo Anterior] | <<v19-100-0,Topo>> | xref:019-salmo/019-salmo-101.adoc#v19-101-0[Próximo Capítulo &#62;]

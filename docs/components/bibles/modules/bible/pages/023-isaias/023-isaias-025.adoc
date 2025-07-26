@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v23-25-0]]
+=== Isaías, 25
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-25-1]]
+
+^<<v23-25-1,1>>^ Ó Jeová, tu és o meu Deus.^&#42;1^ Eu te exalto, elogio o teu nome, pois fizeste maravilhas, conselhos desde tempos anteriores, em fidelidade, em fidedignidade.
+
+[NOTE]
+====
+. “Meu Deus.” Hebr.: ’Elo·haí.
+====
+
+[[v23-25-2]]
+
+^<<v23-25-2,2>>^ Pois fizeste uma cidade em um montão de pedras, uma vila fortificada, em uma ruína desmoronada, uma torre de habitação de estranhos, para não ser cidade, que não será reconstruída mesmo por tempo indefinido.
+
+[[v23-25-3]]
+
+^<<v23-25-3,3>>^ Por isso é que te glorificarão os que são um povo forte; a vila das nações tirânicas, eles te temerão.
+
+[[v23-25-4]]
+
+^<<v23-25-4,4>>^ Pois tornaste-te um baluarte para o de condição humilde, um baluarte para o pobre na aflição que tem, um refúgio contra o temporal,^&#42;1^ uma sombra contra o calor, quando o sopro^&#42;2^ dos tirânicos é como o temporal contra o muro.
+
+[NOTE]
+====
+. “Tu os livrarás dos iníquos”, LXX. Veja 2Te 3:2.
+. Ou “espírito”. Hebr.: rú·ahh; gr.: pneú·ma; lat.: spí·ri·tus. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v23-25-5]]
+
+^<<v23-25-5,5>>^ Como o calor numa terra árida, reprimes o barulho dos estranhos, o calor, com a sombra duma nuvem. A própria melodia dos tirânicos fica suprimida.
+
+[[v23-25-6]]
+
+^<<v23-25-6,6>>^ E Jeová dos exércitos há de fazer para todos os povos, neste monte, um banquete de pratos bem azeitados, um banquete de [vinhos guardados com a] borra, de pratos bem azeitados, cheios de tutano, de [vinhos guardados com a] borra, filtrados.
+
+[[v23-25-7]]
+
+^<<v23-25-7,7>>^ E neste monte ele há de tragar a face do envoltório que envolve todos os povos e o trabalho tecido que está entretecido sobre todas as nações.
+
+[[v23-25-8]]
+
+^<<v23-25-8,8>>^ Ele realmente tragará a morte para sempre, e o Soberano Senhor Jeová certamente enxugará as lágrimas de todas as faces. E de toda a terra^&#42;1^ ele tirará o vitupério de seu povo, pois o próprio Jeová falou [isso].
+
+[NOTE]
+====
+. “A terra.” Hebr.: ha·’á·rets.
+====
+
+[[v23-25-9]]
+
+^<<v23-25-9,9>>^ E naquele dia certamente se dirá: “Eis! Este é o nosso Deus.^&#42;1^ Pusemos nossa esperança nele, e ele nos salvará. Este é Jeová. Pusemos nossa esperança nele. Jubilemos e alegremo-nos na salvação por ele.”^&#42;2^
+
+[NOTE]
+====
+. “Nosso Deus.” Hebr.: ’Elo·héh·nu.
+. Lit.: “na sua salvação”.
+====
+
+[[v23-25-10]]
+
+^<<v23-25-10,10>>^ Pois a mão de Jeová pousará sobre este monte e Moabe terá de ser trilhado no seu lugar, como quando se trilha um monte de palha na estrumeira.
+
+[[v23-25-11]]
+
+^<<v23-25-11,11>>^ E ele terá de bater^&#42;1^ com as suas mãos no meio dele,^&#42;2^ assim como quando o nadador bate [com elas] para nadar, e terá de rebaixar a sua altivez com os movimentos intricados das suas mãos.
+
+[NOTE]
+====
+. Lit.: “estender [as mãos]”.
+. “Dele”, isto é, “Moabe”.
+====
+
+[[v23-25-12]]
+
+^<<v23-25-12,12>>^ E a praça forte, com as tuas altas muralhas de proteção, ele terá de pôr abaixo; terá de rebaixá-la, de pô-la em contato com a terra, ao pó.
+
+'''
+
+xref:023-isaias/023-isaias-024.adoc#v23-24-0[&#60; Capítulo Anterior] | <<v23-25-0,Topo>> | xref:023-isaias/023-isaias-026.adoc#v23-26-0[Próximo Capítulo &#62;]

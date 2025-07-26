@@ -1,0 +1,176 @@
+include::./index.adoc[]
+
+[[v11-13-0]]
+=== 1 Reis, 13
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v11-13-1]]
+
+^<<v11-13-1,1>>^ E eis que havia um homem de Deus^&#42;1^ que pela palavra de Jeová saíra de Judá para Betel, enquanto Jeroboão estava de pé junto ao altar, fazendo fumaça sacrificial.
+
+[NOTE]
+====
+. “Um homem de Deus.” Hebr.: ’ish ’Elo·hím, sem o artigo definido ha. Veja o v. 4 n.
+====
+
+[[v11-13-2]]
+
+^<<v11-13-2,2>>^ Ele clamou então contra o altar, pela palavra de Jeová, e disse: “Ó altar, altar, assim disse Jeová: ‘Eis que nasceu à casa de Davi um filho, cujo nome é Josias! E ele há de sacrificar sobre ti os sacerdotes dos altos, que estão fazendo fumaça sacrificial sobre ti, e queimará^&#42;1^ sobre ti os ossos de homens.’”
+
+[NOTE]
+====
+. “Queimará”, LXXSyVg; M: “queimarão”.
+====
+
+[[v11-13-3]]
+
+^<<v11-13-3,3>>^ E naquele dia ele deu um portento, dizendo: “Este é o portento de que Jeová falou: Eis que se fenderá o altar, e as cinzas gordurosas que há sobre ele certamente se derramarão.”
+
+[[v11-13-4]]
+
+^<<v11-13-4,4>>^ E sucedeu que, assim que o rei ouviu a palavra do homem do [verdadeiro] Deus,^&#42;1^ que ele havia clamado contra o altar em Betel, Jeroboão estendeu imediatamente a sua mão, tirando-a do altar, dizendo: “Pegai-o!” Secou-se-lhe imediatamente a mão que estendera contra ele e não a pôde mais recolher a si.
+
+[NOTE]
+====
+. “Do homem do [verdadeiro] Deus.” Hebr.: ’ish-ha·’Elo·hím.
+====
+
+[[v11-13-5]]
+
+^<<v11-13-5,5>>^ E o próprio altar se fendeu, de modo que as cinzas gordurosas se derramaram do altar, segundo o portento que o homem do [verdadeiro] Deus dera pela palavra de Jeová.
+
+[[v11-13-6]]
+
+^<<v11-13-6,6>>^ O rei respondeu então e disse ao homem do [verdadeiro] Deus: “Por favor, abranda a face de Jeová, teu Deus, e ora por mim para que se me restitua a minha mão.” Em vista disso, o homem do [verdadeiro] Deus abrandou a face de Jeová, de modo que a mão do rei lhe foi restituída e ela veio a ficar como no princípio.
+
+[[v11-13-7]]
+
+^<<v11-13-7,7>>^ E o rei prosseguiu, dizendo ao homem do [verdadeiro] Deus: “Vem deveras comigo à casa e fortifica-te, e deixa-me dar-te uma dádiva.”
+
+[[v11-13-8]]
+
+^<<v11-13-8,8>>^ Mas o homem do [verdadeiro] Deus disse ao rei: “Se me desses metade da tua casa não iria contigo, nem comeria pão, nem beberia água neste lugar.
+
+[[v11-13-9]]
+
+^<<v11-13-9,9>>^ Pois assim se me ordenou pela palavra de Jeová, dizendo: ‘Não deves comer pão nem beber água, e não deves voltar pelo caminho em que foste.’”
+
+[[v11-13-10]]
+
+^<<v11-13-10,10>>^ E ele começou a ir por outro caminho e não voltou pelo caminho em que viera a Betel.
+
+[[v11-13-11]]
+
+^<<v11-13-11,11>>^ E em Betel morava certo profeta idoso, e seus filhos^&#42;1^ entraram então e relataram-lhe todo o trabalho feito naquele dia pelo homem do [verdadeiro] Deus em Betel [e] as palavras que falara ao rei, e foram relatá-las a seu pai.
+
+[NOTE]
+====
+. “Filhos”, LXXSyItVgc; MVg: “filho”.
+====
+
+[[v11-13-12]]
+
+^<<v11-13-12,12>>^ Seu pai falou então com eles: “Então, por que caminho foi ele?” Portanto, seus filhos mostraram-lhe o caminho pelo qual havia ido o homem do [verdadeiro] Deus, que saíra de Judá.
+
+[[v11-13-13]]
+
+^<<v11-13-13,13>>^ Ele disse então aos seus filhos: “Selai-me o jumento.” Portanto, selaram-lhe o jumento e ele se foi montado nele.
+
+[[v11-13-14]]
+
+^<<v11-13-14,14>>^ E ele seguia o homem do [verdadeiro] Deus e foi achá-lo sentado debaixo da árvore grande. Disse-lhe então: “És tu o homem do [verdadeiro] Deus, que saiu de Judá?” a que ele disse: “Sou eu.”
+
+[[v11-13-15]]
+
+^<<v11-13-15,15>>^ E ele prosseguiu, dizendo-lhe: “Vem comigo à casa e come pão.”
+
+[[v11-13-16]]
+
+^<<v11-13-16,16>>^ Mas ele disse: “Não posso voltar contigo nem entrar contigo, e não posso comer pão nem beber água contigo neste lugar.
+
+[[v11-13-17]]
+
+^<<v11-13-17,17>>^ Porque me foi falado pela palavra de Jeová: ‘Não deves comer pão nem beber água ali. Não deves voltar pelo caminho em que foste.’”
+
+[[v11-13-18]]
+
+^<<v11-13-18,18>>^ A isto ele lhe disse: “Eu também sou profeta igual a ti, e um anjo é que falou comigo pela palavra de Jeová, dizendo: ‘Faze-o voltar contigo à tua casa, para que coma pão e beba água.’” (Enganou-o.)
+
+[[v11-13-19]]
+
+^<<v11-13-19,19>>^ De modo que voltou com ele para comer pão na sua casa e para beber água.
+
+[[v11-13-20]]
+
+^<<v11-13-20,20>>^ E sucedeu, enquanto estavam sentados à mesa, que a palavra de Jeová veio ao profeta que o tinha trazido de volta;
+
+[[v11-13-21]]
+
+^<<v11-13-21,21>>^ e ele começou a clamar para o homem do [verdadeiro] Deus, que saíra de Judá, dizendo: “Assim disse Jeová: ‘Visto que te rebelaste contra a ordem de Jeová e não guardaste o mandamento que Jeová, teu Deus, te ordenou,
+
+[[v11-13-22]]
+
+^<<v11-13-22,22>>^ mas voltaste para comer pão e beber água no lugar de que te falou: “Não comas pão nem bebas água”, teu cadáver não entrará na sepultura dos teus antepassados.’”
+
+[[v11-13-23]]
+
+^<<v11-13-23,23>>^ E sucedeu que, depois de ele comer pão e depois de beber água, selou para ele imediatamente o jumento, isto é, para o profeta a quem tinha trazido de volta.
+
+[[v11-13-24]]
+
+^<<v11-13-24,24>>^ E ele se pôs a caminho. Mais tarde um leão o achou na estrada e o entregou à morte, e seu cadáver ficou lançado na estrada. E o jumento estava parado ao lado dele e o leão estava parado ao lado do cadáver.
+
+[[v11-13-25]]
+
+^<<v11-13-25,25>>^ E eis que passavam homens, de modo que chegaram a ver o cadáver lançado na estrada e o leão parado ao lado do cadáver. Entraram então e falaram disso na cidade em que morava o profeta idoso.
+
+[[v11-13-26]]
+
+^<<v11-13-26,26>>^ Quando o profeta que o tinha trazido de volta do caminho ouviu isso, disse imediatamente: “É o homem do [verdadeiro] Deus que se rebelou contra a ordem de Jeová; e por isso Jeová o entregou ao leão, para que o esmagasse e entregasse à morte, segundo a palavra de Jeová, que ele lhe falou.”
+
+[[v11-13-27]]
+
+^<<v11-13-27,27>>^ E seguiu falando aos seus filhos, dizendo: “Selai-me o jumento.” Selaram-no, pois.
+
+[[v11-13-28]]
+
+^<<v11-13-28,28>>^ Então se pôs a caminho e achou seu cadáver lançado na estrada, com o jumento e o leão parados ao lado do cadáver. O leão não tinha devorado o cadáver, nem tinha esmagado o jumento.
+
+[[v11-13-29]]
+
+^<<v11-13-29,29>>^ E o profeta passou a levantar o cadáver do homem do [verdadeiro] Deus, e a colocá-lo sobre o jumento, e a levá-lo de volta. Entrou assim na cidade do profeta idoso para lamentá-lo e para enterrá-lo.
+
+[[v11-13-30]]
+
+^<<v11-13-30,30>>^ Conseqüentemente, colocou o cadáver dele na sua própria sepultura; e eles continuaram a lamentá-lo: “Ai, meu irmão!”
+
+[[v11-13-31]]
+
+^<<v11-13-31,31>>^ E sucedeu, depois de o ter enterrado, que foi dizer aos seus filhos: “Quando eu morrer, tereis de enterrar-me na sepultura em que o homem do [verdadeiro] Deus está enterrado. Colocai os meus próprios ossos ao lado dos ossos dele.^&#42;1^
+
+[NOTE]
+====
+. “Colocai-me para que os meus ossos sejam salvos junto com os ossos dele”, LXX.
+====
+
+[[v11-13-32]]
+
+^<<v11-13-32,32>>^ Pois a palavra que ele clamou segundo a palavra de Jeová contra o altar que está em Betel e contra todas as casas dos altos que há nas cidades de Samaria sucederá sem falta.”
+
+[[v11-13-33]]
+
+^<<v11-13-33,33>>^ Depois desta coisa, Jeroboão não recuou do seu mau caminho, mas foi novamente constituir sacerdotes de altos dentre o povo em geral. Quanto a qualquer que se agradasse disso, enchia-lhe a mão de poder,^&#42;1^ [dizendo]: “E torne-se ele [um dos] sacerdotes^&#42;2^ de altos.”
+
+[NOTE]
+====
+. Ou “instalava-o”.
+. “[Um dos] sacerdotes”, M; LXXSyItVg: “um sacerdote”.
+====
+
+[[v11-13-34]]
+
+^<<v11-13-34,34>>^ E nesta coisa veio a haver uma causa para pecado da parte dos da casa de Jeroboão e um motivo para eliminá-los e aniquilá-los da superfície do solo.
+
+'''
+
+xref:011-1-reis/011-1-reis-012.adoc#v11-12-0[&#60; Capítulo Anterior] | <<v11-13-0,Topo>> | xref:011-1-reis/011-1-reis-014.adoc#v11-14-0[Próximo Capítulo &#62;]

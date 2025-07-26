@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v2-1-0]]
+=== Êxodo, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-1-1]]
+
+^<<v2-1-1,1>>^ Ora, estes são os nomes^&#42;1^ dos filhos de Israel, que entraram com Jacó no Egito; entrou cada homem e os da sua casa:
+
+[NOTE]
+====
+. “Ora, estes são os nomes.” Hebr.: We’él·leh shemóhth. No hebr., este segundo livro da Bíblia deriva seu nome destas palavras iniciais; às vezes é abreviado para Shemóhth. LXXVg chamam este livro de “Êxodo” (gr.: É·xo·dos; lat.: Éx·o·dus).
+====
+
+[[v2-1-2]]
+
+^<<v2-1-2,2>>^ Rubem, Simeão, Levi e Judá,
+
+[[v2-1-3]]
+
+^<<v2-1-3,3>>^ Issacar, Zebulão e Benjamim,
+
+[[v2-1-4]]
+
+^<<v2-1-4,4>>^ Dã e Naftali, Gade e Aser.
+
+[[v2-1-5]]
+
+^<<v2-1-5,5>>^ E todas as almas que procederam da parte superior da coxa de Jacó vieram a ser setenta almas,^&#42;1^ mas José já estava no Egito.
+
+[NOTE]
+====
+. “Setenta almas”, MVg; LXX: “setenta e cinco”. Veja Gên 46:20, 27 n.
+====
+
+[[v2-1-6]]
+
+^<<v2-1-6,6>>^ Por fim morreu José e também todos os seus irmãos, e toda aquela geração.
+
+[[v2-1-7]]
+
+^<<v2-1-7,7>>^ E os filhos de Israel tornaram-se fecundos e começaram a pulular; e multiplicavam-se e tornavam-se mais fortes numa proporção extraordinariamente grande, de modo que o país ficou cheio deles.
+
+[[v2-1-8]]
+
+^<<v2-1-8,8>>^ Com o tempo se levantou um novo rei sobre o Egito, que não conhecia a José.
+
+[[v2-1-9]]
+
+^<<v2-1-9,9>>^ E ele passou a dizer a seu povo: “Eis que o povo dos filhos de Israel é mais numeroso e mais forte do que nós.
+
+[[v2-1-10]]
+
+^<<v2-1-10,10>>^ Vamos! Lidemos com eles^&#42;1^ astutamente, para que não se multipliquem e suceda que, caso nos^&#42;2^ sobrevenha uma guerra, eles certamente sejam também acrescentados aos que nos odeiam e lutem contra nós, e subam, saindo do país.”
+
+[NOTE]
+====
+. Lit.: “ele”, isto é, o povo israelita.
+. “Nos”, SamLXXSyVg; M omite.
+====
+
+[[v2-1-11]]
+
+^<<v2-1-11,11>>^ Por isso puseram sobre eles chefes de trabalho forçado, com o objetivo de oprimi-los nos seus fardos; e eles foram construir cidades como lugares de armazenagem para Faraó, a saber, Pitom e Ramsés.
+
+[[v2-1-12]]
+
+^<<v2-1-12,12>>^ Mas, quanto mais os oprimiam, tanto mais se multiplicavam e tanto mais se espalhavam, de modo que sentiam um pavor mórbido por causa dos filhos de Israel.
+
+[[v2-1-13]]
+
+^<<v2-1-13,13>>^ Por conseguinte, os egípcios fizeram os filhos de Israel trabalhar como escravos sob tirania.
+
+[[v2-1-14]]
+
+^<<v2-1-14,14>>^ E amarguravam-lhes a vida com dura escravidão, em argamassa argilosa e em tijolos,^&#42;1^ e com toda forma de escravidão no campo, sim, com toda sua forma de escravidão em que os usavam como escravos sob tirania.
+
+[NOTE]
+====
+. Isto é, tijolos secos ao sol.
+====
+
+[[v2-1-15]]
+
+^<<v2-1-15,15>>^ Mais tarde, o rei do Egito disse às parteiras hebréias, o nome de uma sendo Sifrá e o nome da outra Puá,
+
+[[v2-1-16]]
+
+^<<v2-1-16,16>>^ sim, foi ao ponto de dizer: “Quando ajudardes às mulheres hebréias a dar à luz e as virdes no assento do parto, se for filho, então o tereis de entregar à morte; mas, se for filha, então terá de viver.”
+
+[[v2-1-17]]
+
+^<<v2-1-17,17>>^ No entanto, as parteiras temiam o [verdadeiro] Deus e não fizeram como o rei do Egito lhes falara, mas preservavam vivos os meninos.
+
+[[v2-1-18]]
+
+^<<v2-1-18,18>>^ Com o tempo, o rei do Egito chamou as parteiras e disse-lhes: “Por que é que fizestes esta coisa, preservando vivos os meninos?”
+
+[[v2-1-19]]
+
+^<<v2-1-19,19>>^ As parteiras, por sua vez, disseram a Faraó: “Porque as mulheres hebréias não são como as mulheres egípcias. Visto que estão cheias de vida, já deram à luz antes de a parteira poder chegar a elas.”
+
+[[v2-1-20]]
+
+^<<v2-1-20,20>>^ De modo que Deus tratou bem as parteiras; e o povo tornava-se cada vez mais numeroso e tornava-se muito forte.
+
+[[v2-1-21]]
+
+^<<v2-1-21,21>>^ E sucedeu que, por terem as parteiras temido o [verdadeiro] Deus, ele as presenteou mais tarde com famílias.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “e fez casas para elas”.
+====
+
+[[v2-1-22]]
+
+^<<v2-1-22,22>>^ Por fim, Faraó ordenou a todo o seu povo, dizendo: “Todo filho recém-nascido deveis lançar no rio Nilo, mas toda filha deveis preservar viva.”
+
+'''
+
+xref:001-genesis/001-genesis-050.adoc#v1-50-0[&#60; Capítulo Anterior] | <<v2-1-0,Topo>> | xref:002-exodo/002-exodo-002.adoc#v2-2-0[Próximo Capítulo &#62;]

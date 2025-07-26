@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v9-11-0]]
+=== 1 Samuel, 11
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-11-1]]
+
+^<<v9-11-1,1>>^ E Naás, o amonita, passou a subir e a acampar-se contra Jabes de Gileade.^&#42;1^ Em vista disso, todos os homens de Jabes disseram a Naás: “Conclui conosco um pacto para que te sirvamos.”
+
+[NOTE]
+====
+. Ou “Jabes-Gileade”.
+====
+
+[[v9-11-2]]
+
+^<<v9-11-2,2>>^ Naás, o amonita, disse-lhes então: “Nesta condição o concluirei convosco, na condição de se furar todo olho direito vosso, e terei de pô-lo como vitupério sobre todo o Israel.”
+
+[[v9-11-3]]
+
+^<<v9-11-3,3>>^ Os anciãos de Jabes, por sua vez, disseram-lhe: “Dá-nos um prazo de sete dias e enviaremos mensageiros a todo o território de Israel, e se não houver quem nos salve, então teremos de sair a ti.”
+
+[[v9-11-4]]
+
+^<<v9-11-4,4>>^ Então os mensageiros vieram a Gibeá de Saul e falaram as palavras aos ouvidos do povo, e todo o povo começou a levantar a sua voz e a chorar.
+
+[[v9-11-5]]
+
+^<<v9-11-5,5>>^ Mas, eis que vinha Saul do campo, atrás da manada, e Saul passou a dizer: “Que há com o povo, que eles estão chorando?” E começaram a relatar-lhe as palavras dos homens de Jabes.
+
+[[v9-11-6]]
+
+^<<v9-11-6,6>>^ E o espírito de Deus^&#42;1^ tornou-se ativo em Saul ao ouvir ele estas palavras e acendeu-se muito a sua ira.
+
+[NOTE]
+====
+. “Espírito de Deus.” Hebr.: ru·ahh-’Elo·hím; TLXXVg e dois mss. hebr.: “espírito de Jeová”.
+====
+
+[[v9-11-7]]
+
+^<<v9-11-7,7>>^ De modo que tomou uma junta de touros e os cortou em pedaços, e enviou estes a todo o território de Israel pela mão dos mensageiros, dizendo: “Quem de nós não sair como seguidor de Saul e de Samuel, assim se fará ao seu gado vacum!” E o pavor de Jeová começou a cair sobre o povo, de modo que saíram como um só homem.
+
+[[v9-11-8]]
+
+^<<v9-11-8,8>>^ Ele fez então a soma deles em Bezeque e os filhos de Israel somaram trezentos mil, e os homens de Judá, trinta mil.
+
+[[v9-11-9]]
+
+^<<v9-11-9,9>>^ Disseram^&#42;1^ então aos mensageiros que tinham vindo: “Isto é o que direis aos homens de Jabes de Gileade: ‘Amanhã, quando esquentar o sol, haverá salvação para vós.’” Com isso, os mensageiros foram e o comunicaram aos homens de Jabes, e estes passaram a alegrar-se.
+
+[NOTE]
+====
+. “Disseram”, MVg; LXXSy: “Disse”.
+====
+
+[[v9-11-10]]
+
+^<<v9-11-10,10>>^ Conseqüentemente, os homens de Jabes disseram: “Amanhã sairemos a vós e tereis de fazer conosco de acordo com tudo o que for bom aos vossos olhos.”
+
+[[v9-11-11]]
+
+^<<v9-11-11,11>>^ E sucedeu, no dia seguinte, que Saul passou a pôr o povo em três companhias; e abriram caminho até o meio do acampamento, durante a vigília da madrugada,^&#42;1^ e foram golpear os amonitas^&#42;2^ até o dia esquentar. Quando se mostrou haver alguns que restaram, então foram espalhados e não restaram entre eles dois juntos.
+
+[NOTE]
+====
+. Veja Êx 14:24 n.
+. “Amom”, MVg; TLXXSy e três mss. hebr.: “os filhos de Amom”.
+====
+
+[[v9-11-12]]
+
+^<<v9-11-12,12>>^ E o povo começou a dizer a Samuel: “Quem é que diz: ‘É Saul quem há de ser rei^&#42;1^ sobre nós?’ Entregai os homens para que os entreguemos à morte.”
+
+[NOTE]
+====
+. “É Saul quem há de ser rei?” MVgc; LXXSy: “Saul — ele não devia ser rei.”
+====
+
+[[v9-11-13]]
+
+^<<v9-11-13,13>>^ No entanto, Saul^&#42;1^ disse: “Homem algum deve ser morto no dia de hoje, porque hoje Jeová realizou uma salvação em Israel.”
+
+[NOTE]
+====
+. “Saul”, MSyVg; LXXB e outros mss. gr.: “Samuel”.
+====
+
+[[v9-11-14]]
+
+^<<v9-11-14,14>>^ Mais tarde, Samuel disse ao povo: “Vinde e vamos a Gilgal para renovarmos ali o reinado.”
+
+[[v9-11-15]]
+
+^<<v9-11-15,15>>^ Portanto, todo o povo foi a Gilgal, e ali passaram a fazer Saul rei^&#42;1^ perante Jeová em Gilgal. Ofertaram então sacrifícios de participação em comum ali perante Jeová, e ali Saul e todos os homens de Israel continuaram a alegrar-se sobremaneira.
+
+[NOTE]
+====
+. “E ali Samuel ungiu Saul para ser rei”, LXX.
+====
+
+'''
+
+xref:009-1-samuel/009-1-samuel-010.adoc#v9-10-0[&#60; Capítulo Anterior] | <<v9-11-0,Topo>> | xref:009-1-samuel/009-1-samuel-012.adoc#v9-12-0[Próximo Capítulo &#62;]

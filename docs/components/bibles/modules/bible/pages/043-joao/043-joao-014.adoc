@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v43-14-0]]
+=== João, 14
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v43-14-1]]
+
+^<<v43-14-1,1>>^ “Não se aflijam os vossos corações. Exercei fé em Deus, exercei fé também em mim.
+
+[[v43-14-2]]
+
+^<<v43-14-2,2>>^ Na casa de meu Pai há muitas moradas. Se não, eu vos teria dito, porque vou embora para vos preparar um lugar.
+
+[[v43-14-3]]
+
+^<<v43-14-3,3>>^ Também, se eu for embora e vos preparar um lugar, virei novamente e vos acolherei a mim, para que, onde eu estiver, vós também estejais.
+
+[[v43-14-4]]
+
+^<<v43-14-4,4>>^ E sabeis o caminho para onde vou.”
+
+[[v43-14-5]]
+
+^<<v43-14-5,5>>^ Tomé disse-lhe: “Senhor,^&#42;1^ não sabemos para onde vais. Como sabemos o caminho?”
+
+[NOTE]
+====
+. Ou “Amo”.
+====
+
+[[v43-14-6]]
+
+^<<v43-14-6,6>>^ Jesus disse-lhe: “Eu sou o caminho, e a verdade, e a vida. Ninguém vem ao Pai senão por mim.
+
+[[v43-14-7]]
+
+^<<v43-14-7,7>>^ Se vós me tivésseis conhecido, teríeis também conhecido meu Pai; deste momento em diante vós o conheceis e o tendes visto.”
+
+[[v43-14-8]]
+
+^<<v43-14-8,8>>^ Filipe disse-lhe: “Senhor, mostra-nos o Pai, e isso chega para nós.”
+
+[[v43-14-9]]
+
+^<<v43-14-9,9>>^ Jesus disse-lhe: “Tenho estado tanto tempo convosco e ainda não vieste a conhecer-me, Filipe? Quem me tem visto, tem visto [também] o Pai. Como é que dizes: ‘Mostra-nos o Pai’?
+
+[[v43-14-10]]
+
+^<<v43-14-10,10>>^ Não acreditas que eu esteja em união com o Pai e que o Pai esteja em união comigo? As coisas que vos digo não falo da minha própria iniciativa;^&#42;1^ mas o Pai, que permanece em união comigo, está fazendo as suas obras.
+
+[NOTE]
+====
+. Lit.: “de mim mesmo”.
+====
+
+[[v43-14-11]]
+
+^<<v43-14-11,11>>^ Acreditai-me que estou em união com o Pai e que o Pai está em união comigo; senão, acreditai por causa das próprias obras.
+
+[[v43-14-12]]
+
+^<<v43-14-12,12>>^ Digo-vos em toda a verdade: Quem exercer fé em mim, esse fará também as obras que eu faço; e ele fará obras maiores do que estas, porque eu vou embora para o Pai.
+
+[[v43-14-13]]
+
+^<<v43-14-13,13>>^ Também, o que for que pedirdes em meu nome, eu farei isso, a fim de que o Pai seja glorificado em conexão com o Filho.
+
+[[v43-14-14]]
+
+^<<v43-14-14,14>>^ Se pedirdes^&#42;1^ algo em meu nome, eu o farei.
+
+[NOTE]
+====
+. “Pedirdes”, ADIt e em harmonia com 15:16 e 16:23; P66אBWVgSyh,p: “me pedirdes”.
+====
+
+[[v43-14-15]]
+
+^<<v43-14-15,15>>^ “Se me amardes, observareis os meus mandamentos;
+
+[[v43-14-16]]
+
+^<<v43-14-16,16>>^ e eu solicitarei ao Pai e ele vos dará outro ajudador^&#42;1^ para estar convosco para sempre,
+
+[NOTE]
+====
+. Ou “outro paracleto (consolador)”. Gr.: ál·lon pa·rá·kle·ton, masc.
+====
+
+[[v43-14-17]]
+
+^<<v43-14-17,17>>^ o espírito^&#42;1^ da verdade, que o mundo não pode receber, porque nem o observa nem o conhece. Vós o conheceis,^&#42;2^ porque permanece convosco e está em vós.
+
+[NOTE]
+====
+. Ou “a força ativa”. Gr.: to pneú·ma, neutro. Veja Gên 1:2 n.: “ativa”.
+. “O observa . . . . Vós o conheceis.” “O” (gr.: au·tó, neutro) refere-se a “o espírito” (to pneú·ma, neutro).
+====
+
+[[v43-14-18]]
+
+^<<v43-14-18,18>>^ Não vos deixarei orfanados.^&#42;1^ Vou ter convosco.
+
+[NOTE]
+====
+. Ou “órfãos”. Gr.: or·fa·noús; lat.: ór·fa·nos.
+====
+
+[[v43-14-19]]
+
+^<<v43-14-19,19>>^ Mais um pouco e o mundo não me observará mais, mas vós me observareis, porque eu vivo e vós vivereis.
+
+[[v43-14-20]]
+
+^<<v43-14-20,20>>^ Naquele dia sabereis que estou em união com o meu Pai, e vós estais em união comigo, e eu estou em união convosco.
+
+[[v43-14-21]]
+
+^<<v43-14-21,21>>^ Quem tem os meus mandamentos e os observa, este é o que me ama. Por sua vez, quem me ama, será amado por meu Pai, e eu o amarei e me mostrarei claramente a ele.”
+
+[[v43-14-22]]
+
+^<<v43-14-22,22>>^ Judas, não Iscariotes, disse-lhe: “Senhor, o que tem acontecido que pretendes mostrar-te claramente a nós e não ao mundo?”
+
+[[v43-14-23]]
+
+^<<v43-14-23,23>>^ Em resposta, Jesus disse-lhe: “Se alguém me amar, observará a minha palavra, e meu Pai o amará, e nós iremos a ele e faremos a nossa residência com ele.
+
+[[v43-14-24]]
+
+^<<v43-14-24,24>>^ Quem não me ama, não observa as minhas palavras; e a palavra que estais ouvindo não é minha, mas pertence ao Pai que me enviou.
+
+[[v43-14-25]]
+
+^<<v43-14-25,25>>^ “Enquanto permaneci convosco, falei-vos destas coisas.
+
+[[v43-14-26]]
+
+^<<v43-14-26,26>>^ Mas o ajudador,^&#42;1^ o espírito santo, que o Pai enviará em meu nome, esse^&#42;2^ vos ensinará todas as coisas e vos fará lembrar todas as coisas que eu vos disse.
+
+[NOTE]
+====
+. Ou “o paracleto (consolador)”. Gr.: ho . . . pa·rá·kle·tos, masc.
+. “Esse”, gr. masc., referindo-se ao “ajudador”, gr. masc.
+====
+
+[[v43-14-27]]
+
+^<<v43-14-27,27>>^ Deixo-vos a paz, dou-vos a minha paz. Não a dou a vós do modo como o mundo a dá. Não se aflijam os vossos corações, nem se encolham de temor.
+
+[[v43-14-28]]
+
+^<<v43-14-28,28>>^ Ouvistes que eu vos disse: Vou embora e venho [de volta] a vós. Se me amásseis, alegrar-vos-íeis de que vou embora para o Pai, porque o Pai é maior do que eu.
+
+[[v43-14-29]]
+
+^<<v43-14-29,29>>^ De modo que eu vos tenho dito isso antes que ocorra, a fim de que, quando ocorrer, acrediteis.
+
+[[v43-14-30]]
+
+^<<v43-14-30,30>>^ Não mais falarei muito^&#42;1^ convosco, pois o governante do mundo está chegando. E ele não tem nenhum [poder] sobre mim,
+
+[NOTE]
+====
+. Lit.: “muitas (coisas)”.
+====
+
+[[v43-14-31]]
+
+^<<v43-14-31,31>>^ mas, a fim de que o mundo saiba que eu amo o Pai, assim como o Pai me tem dado mandamento, assim faço. Levantai-vos, vamos embora daqui.
+
+'''
+
+xref:043-joao/043-joao-013.adoc#v43-13-0[&#60; Capítulo Anterior] | <<v43-14-0,Topo>> | xref:043-joao/043-joao-015.adoc#v43-15-0[Próximo Capítulo &#62;]

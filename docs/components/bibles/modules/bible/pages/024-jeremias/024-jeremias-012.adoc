@@ -1,0 +1,108 @@
+include::./index.adoc[]
+
+[[v24-12-0]]
+=== Jeremias, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-12-1]]
+
+^<<v24-12-1,1>>^ Tu és justo, ó Jeová, quando faço a minha queixa a ti, deveras, mesmo quando falo contigo sobre assuntos de julgamento. Por que é que o caminho dos iníquos é bem sucedido, que todos os traiçoeiros são os despreocupados?
+
+[[v24-12-2]]
+
+^<<v24-12-2,2>>^ Tu os plantaste; também criaram raízes. Continuam progredindo; também produziram fruto. Estás perto na sua boca, mas longe dos seus rins.^&#42;1^
+
+[NOTE]
+====
+. Veja 11:20 n.
+====
+
+[[v24-12-3]]
+
+^<<v24-12-3,3>>^ E tu mesmo, ó Jeová, me conheces bem; tu me vês, e examinaste meu coração em união contigo. Seleciona-os quais ovelhas para o abate e põe-nos à parte^&#42;1^ para o dia da matança.
+
+[NOTE]
+====
+. Ou “santifica-os”.
+====
+
+[[v24-12-4]]
+
+^<<v24-12-4,4>>^ Até quando deve a terra continuar a definhar-se e a própria vegetação de todo o campo secar-se? Por causa da maldade dos que moram nela foram arrasados os animais e as criaturas voadoras. Pois disseram: “Ele não vê o nosso futuro.”
+
+[[v24-12-5]]
+
+^<<v24-12-5,5>>^ Visto que correste com os que vão a pé e eles te fatigavam, então, como podes competir com cavalos numa corrida? E estás confiante^&#42;1^ na terra de paz? Então, como agirás entre as [moitas] orgulhosas ao longo do Jordão?
+
+[NOTE]
+====
+. Ou “estás confiante”, não em forma de pergunta. LXXא,B, “não estás confiante”.
+====
+
+[[v24-12-6]]
+
+^<<v24-12-6,6>>^ Pois até mesmo os teus próprios irmãos e os da casa de teu próprio pai, até mesmo eles têm agido traiçoeiramente contigo. Até mesmo eles clamaram alto atrás de ti. Não tenhas fé neles, só porque te falam coisas boas.
+
+[[v24-12-7]]
+
+^<<v24-12-7,7>>^ “Deixei a minha casa; abandonei a minha herança; entreguei a amada da minha alma na palma da mão dos seus inimigos.
+
+[[v24-12-8]]
+
+^<<v24-12-8,8>>^ Minha herança tornou-se para mim qual leão na floresta. Ela deu vazão à sua voz até mesmo contra mim. Por isso é que a odiei.
+
+[[v24-12-9]]
+
+^<<v24-12-9,9>>^ Minha herança é para mim como uma ave de rapina de cores variadas; as aves de rapina estão sobre ela em redor. Vinde, ajuntai-vos, todas as feras do campo; trazei-as para comer.
+
+[[v24-12-10]]
+
+^<<v24-12-10,10>>^ Muitos dos próprios pastores arruinaram o meu vinhedo; calcaram o meu quinhão. Fizeram do meu quinhão desejável o ermo dum baldio desolado.
+
+[[v24-12-11]]
+
+^<<v24-12-11,11>>^ Fez-se dele um baldio desolado; definhou-se;^&#42;1^ para mim está desolado. O país inteiro está desolado, porque não há homem^&#42;2^ que [o] tenha fixado no coração.
+
+[NOTE]
+====
+. Ou “lamentou”.
+. “Homem.” Hebr.: ’ish.
+====
+
+[[v24-12-12]]
+
+^<<v24-12-12,12>>^ Os assoladores vieram em todas as veredas batidas através do ermo. Porque a espada pertencente a Jeová está devorando de uma extremidade do país à outra extremidade do país. Não há paz para carne alguma.
+
+[[v24-12-13]]
+
+^<<v24-12-13,13>>^ Semearam trigo, mas ceifaram espinhos. Adoeceram de tanto trabalhar; não serão de proveito algum. E certamente se envergonharão^&#42;1^ dos vossos produtos por causa da ira ardente de Jeová.”
+
+[NOTE]
+====
+. Ou: “E envergonhem-se”, imperativo pl.
+====
+
+[[v24-12-14]]
+
+^<<v24-12-14,14>>^ Assim disse Jeová contra todos os meus maus vizinhos^&#42;1^ que tocam na propriedade hereditária que fiz que meu povo, sim, Israel, possuísse: “Eis que os desarraígo do seu solo; e desarraigarei a casa de Judá do meio deles.
+
+[NOTE]
+====
+. “Vizinhos”, evidentemente nações ou povos vizinhos.
+====
+
+[[v24-12-15]]
+
+^<<v24-12-15,15>>^ E terá de acontecer que, depois de eu os desarraigar, hei de ter de novo misericórdia com eles e vou trazê-los de volta, cada um à sua propriedade hereditária e cada um à sua terra.”
+
+[[v24-12-16]]
+
+^<<v24-12-16,16>>^ “E terá de acontecer que, se sem falta aprenderem os caminhos do meu povo, jurando pelo meu nome: ‘Por Jeová que vive!’ assim como ensinaram ao meu povo a jurar por Baal, serão também edificados no meio do meu povo.
+
+[[v24-12-17]]
+
+^<<v24-12-17,17>>^ Mas, se não obedecerem, então vou desarraigar essa nação, desarraigando-a e destruindo-a”, é a pronunciação de Jeová.
+
+'''
+
+xref:024-jeremias/024-jeremias-011.adoc#v24-11-0[&#60; Capítulo Anterior] | <<v24-12-0,Topo>> | xref:024-jeremias/024-jeremias-013.adoc#v24-13-0[Próximo Capítulo &#62;]

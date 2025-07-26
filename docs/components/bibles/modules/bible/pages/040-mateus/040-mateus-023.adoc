@@ -1,0 +1,230 @@
+include::./index.adoc[]
+
+[[v40-23-0]]
+=== Mateus, 23
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v40-23-1]]
+
+^<<v40-23-1,1>>^ Jesus falou então às multidões e aos seus discípulos, dizendo:
+
+[[v40-23-2]]
+
+^<<v40-23-2,2>>^ “Os escribas e os fariseus sentaram-se no assento de Moisés.
+
+[[v40-23-3]]
+
+^<<v40-23-3,3>>^ Portanto, todas as coisas que eles vos dizem, fazei e observai, mas não façais segundo as ações deles, pois dizem, mas não realizam.
+
+[[v40-23-4]]
+
+^<<v40-23-4,4>>^ Amarram cargas pesadas e as põem nos ombros dos homens, mas eles mesmos não estão dispostos nem a movê-las com o dedo.
+
+[[v40-23-5]]
+
+^<<v40-23-5,5>>^ Fazem todas as suas obras para serem observados pelos homens; pois ampliam as suas caixinhas [com textos], que usam como proteção,^&#42;1^ e alargam as orlas^&#42;2^ [de suas vestes].
+
+[NOTE]
+====
+. Ou “ampliam seus filactérios”.
+. Ou “bainhas; borlas”.
+====
+
+[[v40-23-6]]
+
+^<<v40-23-6,6>>^ Gostam dos lugares mais destacados nas refeições noturnas e dos primeiros assentos nas sinagogas,
+
+[[v40-23-7]]
+
+^<<v40-23-7,7>>^ e dos cumprimentos nas feiras,^&#42;1^ e de ser chamados Rabi^&#42;2^ pelos homens.
+
+[NOTE]
+====
+. Ou “nos lugares de reunião”.
+. Ou “Meu Grande (Excelente)”. Gr.: Rhab·beí; lat.: ráb·bi; J17(hebr.): Rab·bí Rab·bí.
+====
+
+[[v40-23-8]]
+
+^<<v40-23-8,8>>^ Mas vós, não sejais chamados Rabi, pois um só é o vosso instrutor, ao passo que todos vós sois irmãos.
+
+[[v40-23-9]]
+
+^<<v40-23-9,9>>^ Além disso, não chameis a ninguém na terra de vosso pai, pois um só é o vosso Pai, o Celestial.
+
+[[v40-23-10]]
+
+^<<v40-23-10,10>>^ Tampouco sejais chamados ‘líderes’, pois o vosso Líder^&#42;1^ é um só, o Cristo.
+
+[NOTE]
+====
+. “Líder.” Gr.: ka·the·ge·tés; lat.: ma·gí·ster.
+====
+
+[[v40-23-11]]
+
+^<<v40-23-11,11>>^ Mas o maior dentre vós tem de ser o vosso ministro.^&#42;1^
+
+[NOTE]
+====
+. Ou “servo”. Gr.: di·á·ko·nos; lat.: mi·ní·ster; J17,18(hebr.): lim·sha·réth, “como ajudante”.
+====
+
+[[v40-23-12]]
+
+^<<v40-23-12,12>>^ Quem se enaltecer, será humilhado, e quem se humilhar, será enaltecido.
+
+[[v40-23-13]]
+
+^<<v40-23-13,13>>^ “Ai de vós, escribas e fariseus, hipócritas! porque fechais o reino dos céus diante dos homens; pois, vós mesmos não entrais, nem deixais entrar os que estão em caminho para entrar.
+
+[[v40-23-14]]
+
+^<<v40-23-14,14>>^ ^&#42;1^ ——
+
+[NOTE]
+====
+. אBDVgSysArm omitem isso; VgcSyc: “Ai de vós, escribas e fariseus, hipócritas! porque devorais as casas das viúvas e como pretexto fazeis longas orações; por isso recebereis julgamento mais abundante.” (Veja Mr 12:40.)
+====
+
+[[v40-23-15]]
+
+^<<v40-23-15,15>>^ “Ai de vós, escribas e fariseus, hipócritas! porque percorreis o mar e a terra seca para fazer um prosélito,^&#42;1^ e, quando se torna tal, fazeis dele objeto para^&#42;2^ a Geena^&#42;3^ duas vezes mais do que vós mesmos.
+
+[NOTE]
+====
+. Ou “converso”. Gr.: pro·sé·ly·ton; lat.: pro·sé·ly·tum.
+. “Objeto para.” Lit.: “filho da”.
+. Veja Ap. 4C.
+====
+
+[[v40-23-16]]
+
+^<<v40-23-16,16>>^ “Ai de vós, guias cegos, que dizeis: ‘Se alguém jurar pelo templo,^&#42;1^ isto não é nada; mas, se alguém jurar pelo ouro do templo, ele está sob obrigação.’
+
+[NOTE]
+====
+. Ou “habitação (morada) divina”. Gr.: na·oí, no dativo, sing.; lat.: tém·plum; J17,18,22(hebr.): ba·heh·khál, “pelo palácio”. Veja 1Sa 1:9 n.: “templo”.
+====
+
+[[v40-23-17]]
+
+^<<v40-23-17,17>>^ Tolos e cegos! O que, de fato, é maior, o ouro ou o templo que santifica o ouro?
+
+[[v40-23-18]]
+
+^<<v40-23-18,18>>^ Também: ‘Se alguém jurar pelo altar, isso não é nada; mas, se alguém jurar pela dádiva nele, ele está sob obrigação.’
+
+[[v40-23-19]]
+
+^<<v40-23-19,19>>^ Cegos! O que, de fato, é maior, a dádiva ou o altar que santifica a dádiva?
+
+[[v40-23-20]]
+
+^<<v40-23-20,20>>^ Portanto, quem jurar pelo altar, está jurando por ele e por todas as coisas sobre ele;
+
+[[v40-23-21]]
+
+^<<v40-23-21,21>>^ e quem jurar pelo templo, está jurando por ele e por aquele que habita nele;
+
+[[v40-23-22]]
+
+^<<v40-23-22,22>>^ e quem jurar pelo céu, está jurando pelo trono de Deus e por aquele que está sentado nele.
+
+[[v40-23-23]]
+
+^<<v40-23-23,23>>^ “Ai de vós, escribas e fariseus, hipócritas! porque dais o décimo da hortelã, e do endro, e do cominho, mas desconsiderastes os assuntos mais importantes da Lei, a saber, a justiça, a misericórdia e a fidelidade.^&#42;1^ Estas eram as coisas obrigatórias a fazer, sem, contudo, desconsiderar as outras.
+
+[NOTE]
+====
+. Ou “fé”.
+====
+
+[[v40-23-24]]
+
+^<<v40-23-24,24>>^ Guias cegos, que coais o mosquito, mas engolis o camelo!
+
+[[v40-23-25]]
+
+^<<v40-23-25,25>>^ “Ai de vós, escribas e fariseus, hipócritas! porque limpais por fora o copo e o prato, mas por dentro estão cheios de saque e de intemperança.
+
+[[v40-23-26]]
+
+^<<v40-23-26,26>>^ Fariseu cego, limpa primeiro por dentro o copo e o prato, para que também por fora se torne limpo.
+
+[[v40-23-27]]
+
+^<<v40-23-27,27>>^ “Ai de vós, escribas e fariseus, hipócritas! porque vos assemelhais a sepulcros caiados, que por fora, deveras, parecem belos, mas que por dentro estão cheios de ossos de mortos e de toda sorte de impureza.
+
+[[v40-23-28]]
+
+^<<v40-23-28,28>>^ Do mesmo modo, vós também, deveras, pareceis por fora justos aos homens, mas por dentro estais cheios de hipocrisia e do que é contra a lei.
+
+[[v40-23-29]]
+
+^<<v40-23-29,29>>^ “Ai de vós, escribas e fariseus, hipócritas! porque construís os sepulcros dos profetas e decorais os túmulos memoriais dos justos,
+
+[[v40-23-30]]
+
+^<<v40-23-30,30>>^ e dizeis: ‘Se nós estivéssemos nos dias de nossos antepassados, não seríamos parceiros deles no sangue dos profetas.’
+
+[[v40-23-31]]
+
+^<<v40-23-31,31>>^ Portanto dais testemunho contra vós mesmos de que sois filhos daqueles que assassinaram os profetas.
+
+[[v40-23-32]]
+
+^<<v40-23-32,32>>^ Pois bem, enchei a medida de vossos antepassados.^&#42;1^
+
+[NOTE]
+====
+. Ou “estai na plena medida de vossos antepassados”. B: “enchereis a medida de vossos antepassados”.
+====
+
+[[v40-23-33]]
+
+^<<v40-23-33,33>>^ “Serpentes, descendência de víboras, como haveis de fugir do julgamento da Geena?^&#42;1^
+
+[NOTE]
+====
+. Veja Ap. 4C.
+====
+
+[[v40-23-34]]
+
+^<<v40-23-34,34>>^ Por esta razão eu vos estou enviando profetas, e sábios, e instrutores públicos.^&#42;1^ A alguns deles matareis e pregareis em estacas,^&#42;2^ e a outros deles açoitareis nas vossas sinagogas e perseguireis de cidade em cidade;
+
+[NOTE]
+====
+. Ou “pessoas instruídas; escribas”.
+. Ou “fixareis em estacas (postes)”. Veja Ap. 5C.
+====
+
+[[v40-23-35]]
+
+^<<v40-23-35,35>>^ para que venha sobre vós todo o sangue justo derramado na terra, desde o sangue do justo Abel até o sangue de Zacarias, filho de Baraquias, a quem assassinastes entre o santuário e o altar.
+
+[[v40-23-36]]
+
+^<<v40-23-36,36>>^ Deveras, eu vos digo: Todas essas coisas virão sobre esta geração.
+
+[[v40-23-37]]
+
+^<<v40-23-37,37>>^ “Jerusalém, Jerusalém, matadora dos profetas e apedrejadora dos que lhe são enviados — quantas vezes quis eu ajuntar os teus filhos, assim como a galinha ajunta os seus pintinhos debaixo de suas asas! Mas vós não o quisestes.
+
+[[v40-23-38]]
+
+^<<v40-23-38,38>>^ Eis que a vossa casa vos fica abandonada.
+
+[[v40-23-39]]
+
+^<<v40-23-39,39>>^ Pois eu vos digo: De modo algum me vereis doravante, até que digais: ‘Bendito aquele que vem em nome de Jeová!’”^&#42;1^
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+'''
+
+xref:040-mateus/040-mateus-022.adoc#v40-22-0[&#60; Capítulo Anterior] | <<v40-23-0,Topo>> | xref:040-mateus/040-mateus-024.adoc#v40-24-0[Próximo Capítulo &#62;]

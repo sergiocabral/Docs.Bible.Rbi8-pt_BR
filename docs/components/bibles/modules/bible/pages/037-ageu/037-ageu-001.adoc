@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v37-1-0]]
+=== Ageu, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v37-1-1]]
+
+^<<v37-1-1,1>>^ No segundo ano de Dario, o rei, no sexto mês, no primeiro dia do mês, veio a haver a palavra de Jeová por intermédio de Ageu, o profeta, para Zorobabel, filho de Sealtiel, governador de Judá, e para Josué,^&#42;1^ filho de Jeozadaque, sumo^&#42;2^ sacerdote, dizendo:
+
+[NOTE]
+====
+. “Josué”, significando “Jeová É Salvação”. Lit.: “Jeosué”, M; Sy: “Jesua”; LXXVg: “Jesus”. Veja He 4:8 n.: “Josué”.
+. Ou “principal”. Lit.: “grande”, MLXXVg.
+====
+
+[[v37-1-2]]
+
+^<<v37-1-2,2>>^ “Assim disse Jeová dos exércitos:^&#42;1^ ‘Quanto a este povo, disseram: “Não chegou o tempo, o tempo de se construir a casa de Jeová.”’”
+
+[NOTE]
+====
+. “Jeová dos exércitos.” Hebr.: Yehwáh tseva·’óhth; gr.: Ký·ri·os pan·to·krá·tor, “Jeová Todo-poderoso”; Lutero (em alemão, ed. de 1964): der HERR Zé·ba·oth. Esta expressão ocorre 14 vezes na profecia de Ageu.
+====
+
+[[v37-1-3]]
+
+^<<v37-1-3,3>>^ E a palavra de Jeová continuou a vir por intermédio de Ageu, o profeta, dizendo:
+
+[[v37-1-4]]
+
+^<<v37-1-4,4>>^ “É tempo de vós mesmos morardes nas vossas casas apaineladas enquanto esta casa está devastada?
+
+[[v37-1-5]]
+
+^<<v37-1-5,5>>^ E agora, assim disse Jeová dos exércitos: ‘Fixai o vosso coração nos vossos caminhos.
+
+[[v37-1-6]]
+
+^<<v37-1-6,6>>^ Semeastes muita semente, mas pouco se recolhe. Come-se, mas não é até à saciedade. Bebe-se, mas não a ponto de se ficar embriagado. Põe-se roupa, mas ninguém se aquece; e quem se assalaria, assalaria-se por uma bolsa furada.’”
+
+[[v37-1-7]]
+
+^<<v37-1-7,7>>^ “Assim disse Jeová dos exércitos: ‘Fixai vosso coração nos vossos caminhos.’
+
+[[v37-1-8]]
+
+^<<v37-1-8,8>>^ “‘Subi ao monte,^&#42;1^ e tereis de trazer madeira. E construí a casa, para que eu tenha prazer nela e eu seja glorificado’, disse Jeová.”
+
+[NOTE]
+====
+. Ou “à região montanhosa”.
+====
+
+[[v37-1-9]]
+
+^<<v37-1-9,9>>^ “‘Contava-se com muito, mas eis que havia apenas um pouco; e vós [o] trouxestes para dentro da casa e eu soprei sobre ele — por que razão?’ é a pronunciação de Jeová dos exércitos. ‘Em razão de minha casa que está devastada, enquanto vós estais correndo, cada um em prol de sua própria casa.
+
+[[v37-1-10]]
+
+^<<v37-1-10,10>>^ Por isso, [os] céus acima de vós retiveram [seu] orvalho e a própria terra reprimiu a sua produção.
+
+[[v37-1-11]]
+
+^<<v37-1-11,11>>^ E eu clamava pela secura sobre a terra,^&#42;1^ e sobre os montes, e sobre o cereal, e sobre o vinho novo, e sobre o azeite, e sobre o que o solo produz, e sobre o homem terreno,^&#42;2^ e sobre o animal doméstico, e sobre todo o fruto da labuta das mãos.’”
+
+[NOTE]
+====
+. “A terra.” Hebr.: ha·’á·rets.
+. Ou “humanidade”. Hebr.: ha·’a·dhám.
+====
+
+[[v37-1-12]]
+
+^<<v37-1-12,12>>^ E Zorobabel, filho de Sealtiel, e Josué, filho de Jeozadaque, o sumo sacerdote,^&#42;1^ e todos os remanescentes do povo começaram a escutar a voz de Jeová, seu Deus,^&#42;2^ e as palavras de Ageu, o profeta, visto que Jeová, seu Deus, o enviara; e o povo começou a temer por causa de Jeová.
+
+[NOTE]
+====
+. Lit.: “o grande sacerdote”.
+. “Seu Deus.” Hebr.: ’Elo·heh·hém.
+====
+
+[[v37-1-13]]
+
+^<<v37-1-13,13>>^ E Ageu, o mensageiro^&#42;1^ de Jeová, prosseguiu dizendo ao povo de acordo com a comissão de mensageiro da parte de Jeová, dizendo: “‘Eu estou convosco’, é a pronunciação de Jeová.”
+
+[NOTE]
+====
+. Ou “anjo de”. Hebr.: mal·’ákh; gr.: ág·ge·los; lat.: nún·ti·us, “mensageiro”.
+====
+
+[[v37-1-14]]
+
+^<<v37-1-14,14>>^ E Jeová passou a despertar o espírito de Zorobabel, filho de Sealtiel, governador de Judá, e o espírito^&#42;1^ de Josué, filho de Jeozadaque, o sumo sacerdote, e o espírito de todos os remanescentes do povo; e começaram a entrar e a fazer a obra na casa de Jeová dos exércitos, seu Deus.
+
+[NOTE]
+====
+. “Espírito de.” Hebr.: rú·ahh; gr.: pneú·ma; lat.: spí·ri·tum.
+====
+
+[[v37-1-15]]
+
+^<<v37-1-15,15>>^ Isso foi no vigésimo quarto dia do sexto mês no segundo ano de Dario, o rei.
+
+'''
+
+xref:036-sofonias/036-sofonias-003.adoc#v36-3-0[&#60; Capítulo Anterior] | <<v37-1-0,Topo>> | xref:037-ageu/037-ageu-002.adoc#v37-2-0[Próximo Capítulo &#62;]

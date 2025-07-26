@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v24-27-0]]
+=== Jeremias, 27
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-27-1]]
+
+^<<v24-27-1,1>>^ No princípio do reinado de Jeoiaquim,^&#42;1^ filho de Josias, rei de Judá, veio a haver para Jeremias^&#42;2^ esta palavra de Jeová, dizendo:
+
+[NOTE]
+====
+. “Jeoiaquim”, MTVg; Sy, a versão árabe e três mss. hebr.: “Zedequias”, como nos vv. 3, 12.
+. Hebr.: Yir·meyáh.
+====
+
+[[v24-27-2]]
+
+^<<v24-27-2,2>>^ “Assim me disse Jeová: ‘Faze para ti ligaduras e cangas e põe-nas sobre o teu pescoço.
+
+[[v24-27-3]]
+
+^<<v24-27-3,3>>^ E tens de enviá-las ao rei de Edom, e ao rei de Moabe, e ao rei dos filhos de Amom, e ao rei de Tiro, e ao rei de Sídon, pela mão dos mensageiros que estão chegando a Jerusalém, a Zedequias,^&#42;1^ rei de Judá.
+
+[NOTE]
+====
+. Significando “Jeová É Justiça”. Hebr.: Tsidh·qi·yá·hu.
+====
+
+[[v24-27-4]]
+
+^<<v24-27-4,4>>^ E tens de dar-lhes uma ordem para os seus amos,^&#42;1^ dizendo:
+“‘“Assim disse Jeová dos exércitos, o Deus de Israel; isto é o que deveis dizer aos vossos amos:
+
+[NOTE]
+====
+. “Seus amos.” Hebr.: ’adho·neh·hém, pl. de ’a·dhóhn, para denotar mais de um.
+====
+
+[[v24-27-5]]
+
+^<<v24-27-5,5>>^ ‘Eu mesmo fiz a terra, o gênero humano^&#42;1^ e os animais que há na superfície da terra, pelo meu grande poder e pelo meu braço estendido; e entreguei-a a quem mostrou ser direito aos meus olhos [entregá-la].
+
+[NOTE]
+====
+. Ou “homens”. Hebr.: ha·’a·dhám.
+====
+
+[[v24-27-6]]
+
+^<<v24-27-6,6>>^ E agora, eu mesmo dei todas estas terras na mão de Nabucodonosor,^&#42;1^ rei de Babilônia,^&#42;2^ meu servo; e até mesmo lhe entreguei os animais selváticos do campo para que o servissem.
+
+[NOTE]
+====
+. “Nabucodonosor”, em 27:6–29:3; em 21:2 e no restante do livro: “Nabucodorosor”.
+. “Babilônia”, LXXVg; MTSy: “Babel”.
+====
+
+[[v24-27-7]]
+
+^<<v24-27-7,7>>^ E todas as nações terão de servir mesmo a ele, e a seu filho, e a seu neto, até que venha mesmo o tempo da sua própria terra, e muitas nações e grandes reis terão de explorá-lo como servo.’
+
+[[v24-27-8]]
+
+^<<v24-27-8,8>>^ “‘“‘E terá de acontecer que a nação e o reino que não o servirem, sim, a Nabucodonosor, rei de Babilônia, e aquela que não puser seu pescoço sob o jugo do rei de Babilônia, para tal nação voltarei a minha atenção com a espada, e com a fome, e com a pestilência’, é a pronunciação de Jeová, ‘até que eu tenha dado cabo deles pela sua mão’.
+
+[[v24-27-9]]
+
+^<<v24-27-9,9>>^ “‘“‘E quanto a vós, não escuteis os vossos profetas, e os vossos adivinhos, e os vossos sonhadores,^&#42;1^ e os vossos praticantes da magia, e os vossos feiticeiros, que vos dizem: “Vós não servireis o rei de Babilônia.”
+
+[NOTE]
+====
+. “Sonhadores”, TLXXSyVg; M: “sonhos”.
+====
+
+[[v24-27-10]]
+
+^<<v24-27-10,10>>^ Pois o que vos profetizam é falsidade, com o fim de que sejais levados para longe do vosso solo; e terei de dispersar-vos e tereis de perecer.
+
+[[v24-27-11]]
+
+^<<v24-27-11,11>>^ “‘“‘E quanto à nação que puser seu pescoço sob o jugo do rei de Babilônia e realmente o servir, também eu vou deixá-la descansar sobre o seu solo’, é a pronunciação de Jeová, ‘e ela o cultivará e morará sobre ele’.”’”
+
+[[v24-27-12]]
+
+^<<v24-27-12,12>>^ Até mesmo a Zedequias,^&#42;1^ o rei de Judá, falei segundo todas estas palavras, dizendo: “Trazei vosso pescoço sob o jugo do rei de Babilônia e servi a ele e ao seu povo, e continuai vivendo.
+
+[NOTE]
+====
+. “Zedequias.” Hebr.: Tsidh·qi·yáh. Veja v. 3 n.
+====
+
+[[v24-27-13]]
+
+^<<v24-27-13,13>>^ Por que devias tu mesmo e o teu povo morrer pela espada, pela fome e pela pestilência, segundo o que Jeová falou à nação que não servir o rei de Babilônia?
+
+[[v24-27-14]]
+
+^<<v24-27-14,14>>^ E não escuteis as palavras dos profetas que vos dizem: ‘Não servireis o rei de Babilônia’, porque é falsidade o que vos profetizam.
+
+[[v24-27-15]]
+
+^<<v24-27-15,15>>^ “‘Pois não os enviei’, é a pronunciação de Jeová, ‘mas estão profetizando falsamente em meu nome, a fim de que eu vos disperse e tenhais de perecer, vós e os profetas que vos profetizam’.”
+
+[[v24-27-16]]
+
+^<<v24-27-16,16>>^ E aos sacerdotes e a todo este povo falei, dizendo: “Assim disse Jeová: ‘Não escuteis as palavras dos vossos profetas que vos profetizam, dizendo: “Eis que os utensílios da casa de Jeová serão agora em breve trazidos de volta de Babilônia!” Pois é falsidade o que vos profetizam.
+
+[[v24-27-17]]
+
+^<<v24-27-17,17>>^ Não os escuteis. Servi o rei de Babilônia e continuai vivendo. Por que se devia esta cidade tornar um lugar devastado?
+
+[[v24-27-18]]
+
+^<<v24-27-18,18>>^ Mas, se são profetas e se é que a palavra de Jeová está com eles, por favor, que instem com Jeová dos exércitos para que os utensílios que sobram na casa de Jeová e na casa do rei de Judá, e em Jerusalém, não entrem em Babilônia.’
+
+[[v24-27-19]]
+
+^<<v24-27-19,19>>^ “Pois assim disse Jeová dos exércitos a respeito das colunas, e a respeito do mar, e a respeito dos carrocins, e a respeito do resto dos utensílios que sobram nesta cidade,
+
+[[v24-27-20]]
+
+^<<v24-27-20,20>>^ que Nabucodonosor, rei de Babilônia, não tomou quando levou ao exílio Jeconias,^&#42;1^ filho de Jeoiaquim, rei de Judá, de Jerusalém a Babilônia, junto com todos os nobres de Judá e de Jerusalém;
+
+[NOTE]
+====
+. Veja Est 2:6 n.: “Jeconias”.
+====
+
+[[v24-27-21]]
+
+^<<v24-27-21,21>>^ pois assim disse Jeová dos exércitos, o Deus^&#42;1^ de Israel, a respeito dos utensílios que sobram na casa de Jeová e na casa do rei de Judá, e em Jerusalém:
+
+[NOTE]
+====
+. “O Deus de.” Hebr.: ’Elo·héh.
+====
+
+[[v24-27-22]]
+
+^<<v24-27-22,22>>^ ‘“A Babilônia é que serão levados e ali ficarão até o dia em que eu voltar a minha atenção para eles”, é a pronunciação de Jeová. “E vou trazê-los para cima e restituí-los a este lugar.”’”
+
+'''
+
+xref:024-jeremias/024-jeremias-026.adoc#v24-26-0[&#60; Capítulo Anterior] | <<v24-27-0,Topo>> | xref:024-jeremias/024-jeremias-028.adoc#v24-28-0[Próximo Capítulo &#62;]

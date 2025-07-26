@@ -1,0 +1,285 @@
+include::./index.adoc[]
+
+[[v3-25-0]]
+=== Levítico, 25
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-25-1]]
+
+^<<v3-25-1,1>>^ E Jeová falou mais a Moisés no monte Sinai, dizendo:
+
+[[v3-25-2]]
+
+^<<v3-25-2,2>>^ “Fala aos filhos de Israel, e tens de dizer-lhes: ‘Quando por fim entrardes na terra que vos dou, então a terra terá de observar um sábado para Jeová.
+
+[[v3-25-3]]
+
+^<<v3-25-3,3>>^ Seis anos deves semear teu campo e seis anos deves podar teu vinhedo, e tens de recolher os produtos da terra.
+
+[[v3-25-4]]
+
+^<<v3-25-4,4>>^ Mas no sétimo ano deve haver um sábado de completo repouso para a terra, um sábado para Jeová. Não deves semear teu campo e não deves podar teu vinhedo.
+
+[[v3-25-5]]
+
+^<<v3-25-5,5>>^ Não deves ceifar o que crescer de grãos caídos na tua colheita e não deves colher as uvas da tua videira não podada. Deve haver um ano de completo repouso para a terra.
+
+[[v3-25-6]]
+
+^<<v3-25-6,6>>^ E o sábado da terra tem de servir-vos de alimento, para ti e para teu escravo, e para tua escrava, e para teu trabalhador contratado, e para o colono contigo, os que residem contigo como forasteiros,
+
+[[v3-25-7]]
+
+^<<v3-25-7,7>>^ e para teu animal doméstico e para o animal selvático que há na tua terra. Todos os seus produtos devem servir para comer.
+
+[[v3-25-8]]
+
+^<<v3-25-8,8>>^ “‘E tens de contar para ti sete sábados^&#42;1^ de anos, sete vezes sete anos, e os dias dos sete sábados de anos^&#42;2^ têm de somar para ti quarenta e nove anos.
+
+[NOTE]
+====
+. “Sábados de.” Hebr.: shab·bethóth; lat.: eb·dó·ma·des, “semanas”.
+. “Sábados de anos.” Gr.: he·bdo·má·des e·tón, “semanas de anos”. Veja Da 9:24 n.: “semanas”.
+====
+
+[[v3-25-9]]
+
+^<<v3-25-9,9>>^ E no sétimo mês, no décimo [dia] do mês, tens de fazer soar^&#42;1^ a buzina^&#42;2^ sonora; no dia da expiação deveis fazer soar a buzina em toda a vossa terra.
+
+[NOTE]
+====
+. Lit.: “passar”.
+. “Buzina.” Hebr.: shoh·fár.
+====
+
+[[v3-25-10]]
+
+^<<v3-25-10,10>>^ E tendes de santificar^&#42;1^ o qüinquagésimo ano e proclamar liberdade^&#42;2^ no país, a todos os seus habitantes. Tornar-se-á para vós um jubileu,^&#42;3^ e tendes de retornar cada um à sua propriedade e deveis retornar cada um à sua família.
+
+[NOTE]
+====
+. Ou “tornar (ter por) sagrado”.
+. Ou “alforria; manumissão [de escravos]”.
+. “Jubileu.” Hebr.: yoh·vél; Vgc(lat.): iu·bi·laé·us; LXX: “ano de livramento”. Em Êx 19:13, yoh·vél é traduzido por “buzina de carneiro”.
+====
+
+[[v3-25-11]]
+
+^<<v3-25-11,11>>^ Um jubileu é que se tornará para vós este qüinquagésimo ano. Não deveis semear, nem deveis ceifar o que na terra crescer de grãos caídos, nem colher as uvas de suas videiras não podadas.
+
+[[v3-25-12]]
+
+^<<v3-25-12,12>>^ Pois é um jubileu. Deve tornar-se algo sagrado para vós. Do campo podeis comer o que a terra produzir.
+
+[[v3-25-13]]
+
+^<<v3-25-13,13>>^ “‘Neste ano do jubileu deveis retornar cada um à sua propriedade.
+
+[[v3-25-14]]
+
+^<<v3-25-14,14>>^ Ora, caso vendais mercadoria ao teu colega ou estejais comprando^&#42;1^ da mão do teu colega, não leseis um ao outro.
+
+[NOTE]
+====
+. “Estejais comprando.” No hebr., este é um verbo no infinitivo absoluto. Veja Êx 20:8 n.
+====
+
+[[v3-25-15]]
+
+^<<v3-25-15,15>>^ Segundo o número de anos depois do jubileu deves comprar do teu colega; segundo o número de anos das safras deve vender a ti.
+
+[[v3-25-16]]
+
+^<<v3-25-16,16>>^ Proporcional ao grande número de anos deve aumentar seu valor de compra e proporcional ao pequeno número de anos deve reduzir seu valor de compra, porque te está vendendo o número de safras.
+
+[[v3-25-17]]
+
+^<<v3-25-17,17>>^ E nenhum de vós deve lesar seu colega, e tens de ter temor de teu Deus, porque eu sou Jeová,^&#42;1^ vosso Deus.
+
+[NOTE]
+====
+. Hebr.: Yeho·wáh. Veja Ap. 1A.
+====
+
+[[v3-25-18]]
+
+^<<v3-25-18,18>>^ Assim tendes de cumprir os meus estatutos, e deveis guardar as minhas decisões judiciais e tendes de cumpri-las. Então haveis de morar em segurança na terra.
+
+[[v3-25-19]]
+
+^<<v3-25-19,19>>^ E a terra deveras dará os seus frutos, e certamente comereis a fartar e morareis nela em segurança.
+
+[[v3-25-20]]
+
+^<<v3-25-20,20>>^ “‘Mas, caso digais: “Que havemos de comer no sétimo ano, visto que não podemos semear, nem recolher as nossas safras?”
+
+[[v3-25-21]]
+
+^<<v3-25-21,21>>^ neste caso, hei de ordenar a minha bênção para vós, no sexto ano, e ela tem de dar a sua safra por três anos.
+
+[[v3-25-22]]
+
+^<<v3-25-22,22>>^ E tendes de semear no oitavo ano e tendes de comer da safra antiga até o nono ano. Até a vinda da sua safra comereis da antiga.
+
+[[v3-25-23]]
+
+^<<v3-25-23,23>>^ “‘De modo que a terra não deve ser vendida em perpetuidade, porque a terra é minha. Pois, do meu ponto de vista sois residentes forasteiros e colonos.
+
+[[v3-25-24]]
+
+^<<v3-25-24,24>>^ E em toda a terra de vossa propriedade deveis conceder à terra o direito de ser resgatada.
+
+[[v3-25-25]]
+
+^<<v3-25-25,25>>^ “‘Caso teu irmão fique pobre e tenha de vender parte de sua propriedade, então tem de vir um resgatador, intimamente aparentado com ele, e comprar de volta o que seu irmão vendeu.
+
+[[v3-25-26]]
+
+^<<v3-25-26,26>>^ E caso alguém não tenha resgatador e sua própria mão produza lucro, e ele ache o suficiente para resgatá-la,
+
+[[v3-25-27]]
+
+^<<v3-25-27,27>>^ então tem de calcular os anos desde que a vendeu e tem de devolver o dinheiro que sobrar ao homem a quem fez a venda, e ele tem de retornar à sua propriedade.
+
+[[v3-25-28]]
+
+^<<v3-25-28,28>>^ “‘Mas, se a sua mão não achar o suficiente para lhe devolver, então aquilo que vendeu tem de continuar na mão do seu comprador até o ano do jubileu; e tem de sair [livre] no jubileu, e ele tem de retornar à sua propriedade.
+
+[[v3-25-29]]
+
+^<<v3-25-29,29>>^ “‘Ora, caso um homem venda uma casa de moradia numa cidade murada, então seu direito de resgatá-la tem de continuar até terminar o ano desde o tempo da sua venda; seu direito de resgatá-la deve continuar por um ano inteiro.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “dias”. Veja v. 30.
+====
+
+[[v3-25-30]]
+
+^<<v3-25-30,30>>^ Mas, se não for resgatada antes de se lhe ter completado o ano, então a casa que está na cidade que tem muralha tem de ficar em perpetuidade como propriedade de seu comprador nas suas gerações. Não deve sair [livre] no jubileu.
+
+[[v3-25-31]]
+
+^<<v3-25-31,31>>^ No entanto, as casas dos povoados que não têm muralha em volta devem ser consideradas como parte do campo do país. O direito de resgate deve continuar para ela e no jubileu deve sair [livre].
+
+[[v3-25-32]]
+
+^<<v3-25-32,32>>^ “‘Quanto às cidades dos levitas, com as casas das cidades de sua propriedade, o direito de resgate deve continuar por tempo indefinido para os levitas.
+
+[[v3-25-33]]
+
+^<<v3-25-33,33>>^ E quando a propriedade dos levitas não é resgatada,^&#42;1^ então a casa vendida na cidade^&#42;2^ de sua propriedade terá de sair [livre] no jubileu, porque as casas das cidades dos levitas são propriedade deles no meio dos filhos de Israel.
+
+[NOTE]
+====
+. “Não é resgatada”, Vg, o que concorda com o sentido desta passagem; MSam omitem “não”.
+. “A casa vendida na cidade”, de acordo com LXX; M: “a venda da casa e da cidade”.
+====
+
+[[v3-25-34]]
+
+^<<v3-25-34,34>>^ Além disso, o campo de pastio das suas cidades não pode ser vendido, porque é para eles uma propriedade por tempo indefinido.
+
+[[v3-25-35]]
+
+^<<v3-25-35,35>>^ “‘E caso teu irmão fique pobre e assim esteja financeiramente fraco^&#42;1^ ao teu lado, então tens de ampará-lo. Como residente forasteiro e colono tem de ficar vivo contigo.
+
+[NOTE]
+====
+. Lit.: “e sua mão vacilou”.
+====
+
+[[v3-25-36]]
+
+^<<v3-25-36,36>>^ Não cobres dele juros e usura, mas tens de ter temor de teu Deus; e teu irmão tem de ficar vivo contigo.
+
+[[v3-25-37]]
+
+^<<v3-25-37,37>>^ Não deves dar-lhe teu dinheiro [cobrando] juros e não deves dar teu alimento por usura.
+
+[[v3-25-38]]
+
+^<<v3-25-38,38>>^ Eu sou Jeová, vosso Deus, que vos fiz sair da terra do Egito para dar-vos a terra de Canaã, para mostrar-me vosso Deus.
+
+[[v3-25-39]]
+
+^<<v3-25-39,39>>^ “‘E caso teu irmão fique pobre ao teu lado e tenha de vender-se a ti, não o deves usar como trabalhador em serviço de escravo.
+
+[[v3-25-40]]
+
+^<<v3-25-40,40>>^ Deve vir a estar contigo como trabalhador contratado, como colono. Deve servir contigo até o ano do jubileu.
+
+[[v3-25-41]]
+
+^<<v3-25-41,41>>^ E ele tem de sair de ti [livre], ele e seus filhos com ele, e tem de retornar à sua família e deve retornar à propriedade dos seus antepassados.
+
+[[v3-25-42]]
+
+^<<v3-25-42,42>>^ Pois, são os meus escravos que fiz sair da terra do Egito. Não se devem vender assim como se vende um escravo.
+
+[[v3-25-43]]
+
+^<<v3-25-43,43>>^ Não deves espezinhá-lo com tirania e tens de ter temor de teu Deus.
+
+[[v3-25-44]]
+
+^<<v3-25-44,44>>^ Quanto a teu escravo ou tua escrava que se tornam teus dentre as nações que há em volta de vós, delas podeis comprar um escravo ou uma escrava.
+
+[[v3-25-45]]
+
+^<<v3-25-45,45>>^ E também dos filhos dos colonos que residem convosco como forasteiros podeis comprar deles e das suas famílias que estão convosco, que lhes nasceram na vossa terra; e eles têm de tornar-se vossa propriedade.
+
+[[v3-25-46]]
+
+^<<v3-25-46,46>>^ E tendes de transmiti-los como herança aos vossos filhos depois de vós, para [os] herdarem como propriedade por tempo indefinido. Podeis usá-los como trabalhadores, mas vossos irmãos, os filhos de Israel, não deves espezinhar, um ao outro, com tirania.
+
+[[v3-25-47]]
+
+^<<v3-25-47,47>>^ “‘Mas, caso a mão do residente forasteiro ou do colono^&#42;1^ contigo fique abastada e teu irmão tenha ficado pobre ao lado dele e tenha de vender-se ao residente forasteiro ou ao colono contigo, ou a um membro da família do residente forasteiro,
+
+[NOTE]
+====
+. “Do residente forasteiro ou do colono”, SamLXXSy e dez mss. hebr.; M omite “ou”.
+====
+
+[[v3-25-48]]
+
+^<<v3-25-48,48>>^ depois de se ter vendido continuará no seu caso o direito de resgate. Um dos seus irmãos pode resgatá-lo.
+
+[[v3-25-49]]
+
+^<<v3-25-49,49>>^ Ou seu tio ou o filho de seu tio pode resgatá-lo, ou qualquer parente consangüíneo de sua carne, um de sua família, pode resgatá-lo.
+“‘Ou se a sua própria mão tiver ficado abastada, então tem de resgatar a si mesmo.
+
+[[v3-25-50]]
+
+^<<v3-25-50,50>>^ E tem de calcular com o seu comprador desde o ano em que se vendeu a ele até o ano do jubileu, e o dinheiro de sua venda tem de corresponder ao número de anos. Deve continuar^&#42;1^ com ele do modo como se calculam os dias de trabalho dum trabalhador contratado.
+
+[NOTE]
+====
+. Isto é, continuar no serviço.
+====
+
+[[v3-25-51]]
+
+^<<v3-25-51,51>>^ Se faltarem ainda muitos anos, deve restituir proporcional a eles o preço para ser resgatado, proveniente do dinheiro da sua compra.
+
+[[v3-25-52]]
+
+^<<v3-25-52,52>>^ Mas, se restarem apenas poucos anos até o ano do jubileu, então tem de fazer para si um cálculo. Deve restituir proporcional aos seus anos o preço para ser resgatado.
+
+[[v3-25-53]]
+
+^<<v3-25-53,53>>^ Deve continuar com ele de ano em ano como trabalhador contratado. Não o pode espezinhar com tirania diante dos teus olhos.
+
+[[v3-25-54]]
+
+^<<v3-25-54,54>>^ No entanto, se ele não se puder resgatar nestes termos, então tem de sair [livre] no ano do jubileu, ele e seus filhos com ele.
+
+[[v3-25-55]]
+
+^<<v3-25-55,55>>^ “‘Pois os filhos de Israel são escravos para mim. São meus escravos que fiz sair da terra do Egito. Eu sou Jeová, vosso Deus.
+
+'''
+
+xref:003-levitico/003-levitico-024.adoc#v3-24-0[&#60; Capítulo Anterior] | <<v3-25-0,Topo>> | xref:003-levitico/003-levitico-026.adoc#v3-26-0[Próximo Capítulo &#62;]

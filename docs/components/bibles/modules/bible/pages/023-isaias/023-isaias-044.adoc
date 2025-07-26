@@ -1,0 +1,208 @@
+include::./index.adoc[]
+
+[[v23-44-0]]
+=== Isaías, 44
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-44-1]]
+
+^<<v23-44-1,1>>^ “E agora escuta, ó Jacó, meu servo, e tu, ó Israel, a quem escolhi.
+
+[[v23-44-2]]
+
+^<<v23-44-2,2>>^ Assim disse Jeová, Aquele que te fez e Aquele que te formou, que te estava ajudando mesmo desde o ventre:^&#42;1^ ‘Não tenhas medo, ó meu servo Jacó, e tu, Jesurum,^&#42;2^ a quem escolhi.
+
+[NOTE]
+====
+. Isto é, o ventre da mãe.
+. “Jesurum” (significando “Aquele Que É Reto”; título honorário de Israel), M; Vg: “Retíssimo”; LXX: “amado Israel”; TSy: “Israel”.
+====
+
+[[v23-44-3]]
+
+^<<v23-44-3,3>>^ Pois despejarei água sobre o sedento e regatos sobre o lugar seco. Despejarei meu espírito sobre a tua descendência^&#42;1^ e minha bênção sobre os teus descendentes.
+
+[NOTE]
+====
+. Ou “prole”.
+====
+
+[[v23-44-4]]
+
+^<<v23-44-4,4>>^ E eles certamente brotarão como entre a grama verde, como os choupos junto às valas de água.
+
+[[v23-44-5]]
+
+^<<v23-44-5,5>>^ Este dirá: “Pertenço a Jeová.” E aquele [se] chamará pelo nome de Jacó, e outro escreverá na sua mão: “Pertencente a Jeová.”^&#42;1^ E assumir-se-á por título o nome de Israel.’
+
+[NOTE]
+====
+. Ou “na sua mão: ‘De Jeová’”.
+====
+
+[[v23-44-6]]
+
+^<<v23-44-6,6>>^ “Assim disse Jeová, o Rei de Israel e seu Resgatador, Jeová dos exércitos: ‘Sou o primeiro e sou o último, e além de mim não há Deus.^&#42;1^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v23-44-7]]
+
+^<<v23-44-7,7>>^ E quem é semelhante a mim? Que clame,^&#42;1^ para contá-lo e para apresentá-lo a mim. Desde que designei o povo de há muito tempo, tanto as coisas vindouras como as coisas que chegarão, contem-no da sua parte.
+
+[NOTE]
+====
+. “Que se levante, que clame”, LXX.
+====
+
+[[v23-44-8]]
+
+^<<v23-44-8,8>>^ Não fiqueis apavorados e não fiqueis estupefatos. Não fiz que ouvisses individualmente e [não o] contei daquele tempo em diante? E vós sois as minhas testemunhas. Acaso existe outro Deus^&#42;1^ além de mim? Não, não há nenhuma Rocha.^&#42;2^ Não reconheci nenhuma.’”
+
+[NOTE]
+====
+. “Deus”. Hebr.: ’Elóh·ah.
+. “Rocha.” Hebr.: Tsur; TSy: “Forte”.
+====
+
+[[v23-44-9]]
+
+^<<v23-44-9,9>>^ Os formadores da imagem esculpida são todos uma irrealidade, e seus próprios queridinhos^&#42;1^ não serão de proveito algum; e como suas testemunhas^&#42;2^ não vêem nada e não sabem de nada, para que fiquem envergonhados.
+
+[NOTE]
+====
+. Ou “coisas desejadas”.
+. “E como suas testemunhas.” Hebr.: we‛e·dheh·hém. A próxima palavra no texto hebr. é um pronome (hém·mah, “eles [são]”), que foi marcado pelos soferins com pontos extraordinários, indicando que deveria ser cancelado por ser apenas uma ditografia da terminação pronominal (hem, “suas”) da palavra que o precede. O pronome “eles” falta também no Sy. Concordemente, a passagem deve rezar: “e como suas testemunhas [os queridinhos; as imagens esculpidas] não vêem nada e não sabem de nada, para que [os que fizeram as imagens esculpidas] fiquem envergonhados”. Não se tomando em conta os pontos extraordinários, a passagem rezaria: “e eles [hebr.: hém·mah] são suas testemunhas que não vêem nada e que não sabem de nada, para que sejam envergonhados”. Veja Ap. 2A.
+====
+
+[[v23-44-10]]
+
+^<<v23-44-10,10>>^ Quem é que formou um deus^&#42;1^ ou fez uma mera imagem fundida? Foi de absolutamente nenhum proveito.
+
+[NOTE]
+====
+. “Um deus.” Hebr.: ’el.
+====
+
+[[v23-44-11]]
+
+^<<v23-44-11,11>>^ Eis que mesmo todos os seus associados ficarão envergonhados, e os artífices são dos homens terrenos.^&#42;1^ Todos eles se reunirão. Ficarão parados. Estarão apavorados. Ao mesmo tempo estarão envergonhados.
+
+[NOTE]
+====
+. Ou “da humanidade”. Hebr.: me·’a·dhám.
+====
+
+[[v23-44-12]]
+
+^<<v23-44-12,12>>^ Quanto ao escultor de ferro, com o podão, tem estado ocupado [nisso] com os carvões; e passa a formá-lo com martelos e mantém-se ocupado nisso com seu poderoso braço. Também fica com fome e assim sem poder. Não bebeu água; de modo que se cansa.
+
+[[v23-44-13]]
+
+^<<v23-44-13,13>>^ Quanto ao escultor de madeira, estendeu o cordel de medir; demarca-a com giz vermelho; trabalha-a com a raspadeira; e continua a demarcá-la com o compasso, e aos poucos a faz semelhante à representação de um homem,^&#42;1^ semelhante à beleza da humanidade,^&#42;2^ para ficar assentada numa casa.
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’ish.
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v23-44-14]]
+
+^<<v23-44-14,14>>^ Há um cujo negócio é cortar cedros; e ele toma certa espécie de árvore, mesmo uma árvore maciça, e deixa-a ficar forte para si entre as árvores da floresta. Plantou o loureiro, e a própria chuvada o faz crescer.
+
+[[v23-44-15]]
+
+^<<v23-44-15,15>>^ E este se tornou [algo] para o homem^&#42;1^ manter o fogo aceso. De modo que toma parte dele para se aquecer. De fato, faz um fogo e realmente coze pão. Também trabalha num deus^&#42;2^ diante do qual se possa curvar. Fez dele uma imagem esculpida e se prostra diante dele.
+
+[NOTE]
+====
+. Ou “para o homem terreno”. Hebr.: le’a·dhám.
+. Lit.: “Também faz um deus [hebr.: ’el].”
+====
+
+[[v23-44-16]]
+
+^<<v23-44-16,16>>^ Metade^&#42;1^ realmente queima no fogo. Sobre metade assa bem a carne que come e fica satisfeito. Também se aquece e diz: “Ah! Aqueci-me. Vi a luz do fogo.”
+
+[NOTE]
+====
+. Isto é, do combustível; possivelmente galhos de árvores.
+====
+
+[[v23-44-17]]
+
+^<<v23-44-17,17>>^ Mas do restante é que faz mesmo um deus, sua imagem esculpida. Prostra-se diante dele e curva-se, e ora para ele e diz: “Livra-me, pois tu és o meu deus.”
+
+[[v23-44-18]]
+
+^<<v23-44-18,18>>^ Não chegaram a saber nem entendem, porque os seus olhos foram untados para não verem, seu coração, para não terem perspicácia.
+
+[[v23-44-19]]
+
+^<<v23-44-19,19>>^ E ninguém revoca ao coração, ou tem conhecimento ou entendimento, dizendo: “Metade queimei no fogo e também cozi pão sobre as suas brasas; assei carne e comi. Mas, farei do resto apenas uma coisa detestável? Prostrar-me-ei diante da madeira ressequida duma árvore?”
+
+[[v23-44-20]]
+
+^<<v23-44-20,20>>^ Ele se alimenta de cinzas. Seu próprio coração ludibriado o desencaminhou. E ele não livra a sua alma, nem diz: “Não há falsidade na minha direita?”
+
+[[v23-44-21]]
+
+^<<v23-44-21,21>>^ “Lembra-te destas coisas, ó Jacó, e tu, ó Israel, porque és meu servo. Eu te formei. Tu és um servo que me pertence. Ó Israel, da minha parte não serás esquecido.
+
+[[v23-44-22]]
+
+^<<v23-44-22,22>>^ Vou obliterar as tuas transgressões como que com uma nuvem, e teus pecados como que com uma massa de nuvens. Volta deveras a mim, porque vou resgatar-te.
+
+[[v23-44-23]]
+
+^<<v23-44-23,23>>^ “Gritai de júbilo, ó céus, pois Jeová tomou ação! Bradai em triunfo, partes mais baixas^&#42;1^ da terra! Ficai animados, ó montes, com clamor jubilante, ó floresta e todas as árvores nela! Porque Jeová resgatou a Jacó e mostra a sua beleza em Israel.”
+
+[NOTE]
+====
+. “As partes mais baixas”, M; LXXSy: “alicerces”; Vg: “partes extremas”. Veja Sal 63:9 n.
+====
+
+[[v23-44-24]]
+
+^<<v23-44-24,24>>^ Assim disse Jeová, teu Resgatador e Aquele que te formou desde o ventre:^&#42;1^ “Eu, Jeová, faço tudo, estendendo os céus por mim mesmo, estirando a terra. Quem estava comigo?
+
+[NOTE]
+====
+. Isto é, do ventre da mãe.
+====
+
+[[v23-44-25]]
+
+^<<v23-44-25,25>>^ [Eu] frustro os sinais dos paroleiros^&#42;1^ e [eu sou] Aquele que faz os próprios adivinhos agir como doidos; Aquele que torna os sábios para trás e Aquele que transforma até mesmo seu conhecimento em estultícia;
+
+[NOTE]
+====
+. Lit.: “da parola”, mas personalizada.
+====
+
+[[v23-44-26]]
+
+^<<v23-44-26,26>>^ Aquele que faz que se efetue a palavra de seu servo e Aquele que executa completamente o conselho dos seus próprios mensageiros; Aquele que diz de Jerusalém: ‘Ela será habitada’, e das cidades de Judá: ‘Serão reconstruídas, e erigirei os seus lugares desolados’;
+
+[[v23-44-27]]
+
+^<<v23-44-27,27>>^ Aquele que diz à água de profundeza: ‘Evapora-te, e secarei todos os teus rios’;
+
+[[v23-44-28]]
+
+^<<v23-44-28,28>>^ Aquele que diz a respeito de Ciro:^&#42;1^ ‘Ele é meu pastor e executará completamente tudo aquilo em que me agrado’; dizendo [eu]^&#42;2^ de Jerusalém: ‘Ela será reconstruída’,^&#42;3^ e do templo: ‘Lançar-se-á teu alicerce.’”
+
+[NOTE]
+====
+. “De Ciro”, M(hebr.: leKhóh·resh)TLXXVg.
+. “Dizendo [eu]”, M(Sy); LXX: “Aquele que diz”, Vg: “Eu, que digo”.
+. “A Jerusalém: ‘Serás reconstruída’”, TLXXVg.
+====
+
+'''
+
+xref:023-isaias/023-isaias-043.adoc#v23-43-0[&#60; Capítulo Anterior] | <<v23-44-0,Topo>> | xref:023-isaias/023-isaias-045.adoc#v23-45-0[Próximo Capítulo &#62;]

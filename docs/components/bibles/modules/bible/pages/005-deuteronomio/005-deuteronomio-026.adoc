@@ -1,0 +1,122 @@
+include::./index.adoc[]
+
+[[v5-26-0]]
+=== Deuteronômio, 26
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-26-1]]
+
+^<<v5-26-1,1>>^ “E tem de suceder que, quando por fim entrares na terra que Jeová, teu Deus, te dá por herança, e tiveres tomado posse dela e morado nela,
+
+[[v5-26-2]]
+
+^<<v5-26-2,2>>^ então terás de tomar algumas das primícias de todos os frutos do solo, que recolherás da tua terra que Jeová, teu Deus, te dá, e terás de pô-las num cesto e ir ao lugar que Jeová,^&#42;1^ teu Deus, escolher para que ali resida seu nome.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-26-3]]
+
+^<<v5-26-3,3>>^ E terás de chegar-te ao sacerdote que estiver em exercício naqueles dias e dizer-lhe: ‘Tenho de comunicar hoje a Jeová, teu^&#42;1^ Deus, que entrei na terra de que Jeová jurou aos nossos antepassados que nos havia de dar.’
+
+[NOTE]
+====
+. “Teu”, MSamSyVg; LXX: “meu”.
+====
+
+[[v5-26-4]]
+
+^<<v5-26-4,4>>^ “E o sacerdote tem de tirar-te da mão o cesto e depositá-lo perante o altar de Jeová, teu Deus.
+
+[[v5-26-5]]
+
+^<<v5-26-5,5>>^ E tens de responder e dizer perante Jeová, teu Deus: ‘Meu pai era sírio em vias de perecer;^&#42;1^ e ele passou a descer ao Egito e a residir lá como forasteiro, sendo muito poucos em número; porém, lá se tornou uma nação grande, forte e numerosa.
+
+[NOTE]
+====
+. Lit.: “Meu pai era arameu em vias de perecer”, MSam; Sy: “Meu pai foi conduzido a Arã”; LXX: “Meu pai renegou a Síria.”
+====
+
+[[v5-26-6]]
+
+^<<v5-26-6,6>>^ E os egípcios nos tratavam mal e nos atribulavam, e nos impunham uma dura escravidão.
+
+[[v5-26-7]]
+
+^<<v5-26-7,7>>^ E começamos a clamar a Jeová,^&#42;1^ o Deus de nossos antepassados, e Jeová passou a ouvir a nossa voz e a olhar para a nossa tribulação, e para a nossa desgraça, e para a nossa opressão.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-26-8]]
+
+^<<v5-26-8,8>>^ Por fim, Jeová^&#42;1^ nos fez sair do Egito com mão forte e braço estendido, e com coisa muito espantosa, e com sinais e milagres.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-26-9]]
+
+^<<v5-26-9,9>>^ Trouxe-nos então a este lugar e deu-nos esta terra, uma terra que mana leite e mel.
+
+[[v5-26-10]]
+
+^<<v5-26-10,10>>^ E agora, eis que eu trouxe as primícias do fruto do solo que Jeová me deu.’
+“Então tens de depositá-lo perante Jeová, teu Deus, e tens de curvar-te diante de Jeová, teu Deus.
+
+[[v5-26-11]]
+
+^<<v5-26-11,11>>^ E tens de alegrar-te com todo o bem que Jeová, teu Deus, deu a ti e à tua família, a ti e ao levita, e ao residente forasteiro que está no teu meio.
+
+[[v5-26-12]]
+
+^<<v5-26-12,12>>^ “Acabando de pagar o dízimo de todo o décimo dos teus produtos no terceiro ano, o ano do décimo, tens de dá-lo^&#42;1^ então ao levita, ao residente forasteiro, ao menino órfão de pai e à viúva, e eles têm de comê-lo dentro dos teus portões e fartar-se.
+
+[NOTE]
+====
+. “O ano do décimo, tens de dá-lo então”, MSamSyVg; LXX: “darás o segundo décimo”.
+====
+
+[[v5-26-13]]
+
+^<<v5-26-13,13>>^ E tens de dizer perante Jeová, teu Deus: ‘Tirei da casa o que é sagrado e o dei então ao levita e ao residente forasteiro, ao menino órfão de pai e à viúva, segundo todo o teu mandamento que me ordenaste. Não infringi os teus mandamentos nem me esqueci.
+
+[[v5-26-14]]
+
+^<<v5-26-14,14>>^ Não o comi durante meu luto,^&#42;1^ nem removi coisa alguma dele enquanto eu estava impuro, nem dei nada dele por algum morto. Escutei a voz de Jeová,^&#42;2^ meu Deus. Fiz de acordo com tudo o que me mandaste.
+
+[NOTE]
+====
+. Ou “dele no meu estado de tabu”.
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-26-15]]
+
+^<<v5-26-15,15>>^ Olha deveras para baixo desde a tua santa habitação, os céus, e abençoa teu povo Israel e o solo que nos deste, assim como juraste aos nossos antepassados, a terra que mana leite e mel.’
+
+[[v5-26-16]]
+
+^<<v5-26-16,16>>^ “Neste dia Jeová, teu Deus, te manda cumprir estes regulamentos e decisões judiciais; e tens de observá-los e cumpri-los de todo o teu coração e de toda a tua alma.
+
+[[v5-26-17]]
+
+^<<v5-26-17,17>>^ Induziste Jeová a dizer hoje que ele se tornará teu Deus enquanto andares nos seus caminhos e observares os seus regulamentos, e os seus mandamentos, e as suas decisões judiciais, e enquanto escutares a sua voz.
+
+[[v5-26-18]]
+
+^<<v5-26-18,18>>^ Quanto a Jeová, ele te induziu a dizer hoje que te tornarás seu povo, uma propriedade especial, assim como te prometeu, e que observarás todos os seus mandamentos,
+
+[[v5-26-19]]
+
+^<<v5-26-19,19>>^ e que ele te porá alto acima de todas as outras nações que fez, resultando em louvor, e em fama, e em beleza, ao passo que te mostres um povo santo para Jeová, teu Deus, assim como ele prometeu.”
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-025.adoc#v5-25-0[&#60; Capítulo Anterior] | <<v5-26-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-027.adoc#v5-27-0[Próximo Capítulo &#62;]

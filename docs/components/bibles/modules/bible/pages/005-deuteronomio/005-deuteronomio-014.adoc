@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v5-14-0]]
+=== Deuteronômio, 14
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-14-1]]
+
+^<<v5-14-1,1>>^ “Sois filhos de Jeová, vosso Deus. Não deveis fazer cortes em vós mesmos, nem impor calvície às vossas testas^&#42;1^ por causa dum morto.
+
+[NOTE]
+====
+. Lit.: “entre os vossos olhos”, isto é, por rapar as sobrancelhas.
+====
+
+[[v5-14-2]]
+
+^<<v5-14-2,2>>^ Porque és um povo santo para Jeová, teu Deus, e Jeová te escolheu para te tornares seu povo, uma propriedade especial dentre todos os povos que há na superfície do solo.
+
+[[v5-14-3]]
+
+^<<v5-14-3,3>>^ “Não deves comer coisa alguma detestável.
+
+[[v5-14-4]]
+
+^<<v5-14-4,4>>^ Esta é a sorte de animal que podeis comer: o touro, a ovelha e a cabra,
+
+[[v5-14-5]]
+
+^<<v5-14-5,5>>^ o veado e a gazela, e o corço, e o cabrito montês, e o antílope,^&#42;1^ e a ovelha selvática, e a camurça;^&#42;2^
+
+[NOTE]
+====
+. “E o antílope.” Hebr.: wedhi·shón. Alguns identificariam este animal com o bisão.
+. “E a camurça.” Hebr.: wa·zá·mer, um animal pulante, saltante, provavelmente algum tipo de gazela.
+====
+
+[[v5-14-6]]
+
+^<<v5-14-6,6>>^ e todo animal de casco partido e de casco fendido em dois, que rumina^&#42;1^ entre os animais. Este podeis comer.
+
+[NOTE]
+====
+. Lit.: “faz subir [regurgita]”.
+====
+
+[[v5-14-7]]
+
+^<<v5-14-7,7>>^ Somente da seguinte sorte não deveis comer dentre os ruminantes ou os de casco partido, fendido: o camelo e a lebre, e o procávia, porque são ruminantes, mas não têm casco partido. São impuros para vós.
+
+[[v5-14-8]]
+
+^<<v5-14-8,8>>^ Também o porco, porque tem casco partido, mas não rumina. É impuro para vós. Não deveis comer nenhuma carne sua e não deveis tocar nos seus cadáveres.
+
+[[v5-14-9]]
+
+^<<v5-14-9,9>>^ “Da seguinte sorte podeis comer dentre tudo o que há nas águas: Podeis comer tudo o que tem barbatanas e escamas.
+
+[[v5-14-10]]
+
+^<<v5-14-10,10>>^ E tudo o que não tem barbatanas nem escamas não deveis comer. É impuro para vós.
+
+[[v5-14-11]]
+
+^<<v5-14-11,11>>^ “Toda ave limpa podeis comer.
+
+[[v5-14-12]]
+
+^<<v5-14-12,12>>^ Mas estas são as de que não deveis comer: a águia e o brita-ossos,^&#42;1^ e o abutre-fusco,
+
+[NOTE]
+====
+. Lit.: “o britador”, uma espécie de ave de rapina.
+====
+
+[[v5-14-13]]
+
+^<<v5-14-13,13>>^ e o milhafre vermelho,^&#42;1^ e o milhafre-preto, e o mioto^&#42;2^ segundo a sua espécie;^&#42;3^
+
+[NOTE]
+====
+. “O milhafre vermelho”, SamLXX, para concordar com Le 11:14; M: “o vidente”, uma espécie de ave voraz, chamada assim por causa da sua vista aguda.
+. “E o mioto (milhafre).” Hebr.: wehad·dai·yáh, uma ave impura, não identificada.
+. “Segundo a sua espécie.” Hebr.: lemi·náh. Veja Gên 1:11 n.
+====
+
+[[v5-14-14]]
+
+^<<v5-14-14,14>>^ e todo corvo segundo a sua espécie;
+
+[[v5-14-15]]
+
+^<<v5-14-15,15>>^ e a avestruz,^&#42;1^ e a coruja,^&#42;2^ e a gaivota, e o falcão segundo a sua espécie;
+
+[NOTE]
+====
+. “Avestruz.” Hebr.: bath hai·ya·‛anáh, entendido como significando “filha do ganancioso” ou “filha do solo árido”.
+. “Coruja”, LXXVg.
+====
+
+[[v5-14-16]]
+
+^<<v5-14-16,16>>^ e o mocho, e o mocho-orelhudo, e o cisne,^&#42;1^
+
+[NOTE]
+====
+. “Íbis”, LXXVg.
+====
+
+[[v5-14-17]]
+
+^<<v5-14-17,17>>^ e o pelicano, e o abutre, e o corvo-marinho,
+
+[[v5-14-18]]
+
+^<<v5-14-18,18>>^ e a cegonha, e a garça segundo a sua espécie, e a poupa e o morcego.
+
+[[v5-14-19]]
+
+^<<v5-14-19,19>>^ E toda criatura pululante alada é impura para vós. Não devem ser comidas.
+
+[[v5-14-20]]
+
+^<<v5-14-20,20>>^ Podeis comer qualquer criatura voadora limpa.
+
+[[v5-14-21]]
+
+^<<v5-14-21,21>>^ “Não deveis comer nenhum corpo [já] morto.^&#42;1^ Podes dá-lo ao residente forasteiro que está dentro dos teus portões, e ele tem de comê-lo; ou pode ser vendido^&#42;2^ a um estrangeiro, porque és um povo santo para Jeová, teu Deus.
+“Não deves cozinhar o cabritinho no leite de sua mãe.
+
+[NOTE]
+====
+. “Corpo [já] morto”, isto é, de algum animal encontrado morto.
+. “Pode ser vendido.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo.
+====
+
+[[v5-14-22]]
+
+^<<v5-14-22,22>>^ “Deves impreterivelmente dar um décimo^&#42;1^ de todos os produtos da tua semente, daquilo que ano após ano sai do campo.
+
+[NOTE]
+====
+. Ou “dízimo”.
+====
+
+[[v5-14-23]]
+
+^<<v5-14-23,23>>^ E, perante Jeová, teu Deus, no lugar que ele^&#42;1^ escolher para ali fazer residir seu nome, tens de comer a décima parte dos teus cereais, do teu vinho novo e do teu azeite, e os primogênitos da tua manada e do teu rebanho; para que aprendas a temer a Jeová, teu Deus, para sempre.
+
+[NOTE]
+====
+. “Ele”, MSyVg; SamLXX: “Jeová, teu Deus”.
+====
+
+[[v5-14-24]]
+
+^<<v5-14-24,24>>^ “Ora, caso a viagem te for longa demais, sendo que não o poderás carregar, por te estar longe demais o lugar que Jeová, teu Deus, escolher para ali colocar seu nome, (porque Jeová, teu Deus, te abençoará,)
+
+[[v5-14-25]]
+
+^<<v5-14-25,25>>^ então tens de convertê-lo em dinheiro, e tens de atar o dinheiro na tua mão e viajar para o lugar que Jeová, teu Deus, escolher.
+
+[[v5-14-26]]
+
+^<<v5-14-26,26>>^ Então tens de dar o dinheiro por tudo o que a tua alma almeje em matéria de gado vacum, e de ovelhas e de cabras, e de vinho, e de bebida inebriante, e por qualquer coisa que a tua alma te peça; e tens de comer ali perante Jeová, teu Deus, e tens de alegrar-te, tu e os de tua casa.
+
+[[v5-14-27]]
+
+^<<v5-14-27,27>>^ E não deves abandonar o levita que está dentro dos teus portões, pois não tem quinhão nem herança contigo.
+
+[[v5-14-28]]
+
+^<<v5-14-28,28>>^ “Ao fim de três anos trarás para fora a inteira décima parte dos teus produtos daquele ano, e tens de depositá-la dentro dos teus portões.
+
+[[v5-14-29]]
+
+^<<v5-14-29,29>>^ E o levita, por não ter quinhão nem herança contigo, e o residente forasteiro, e o menino órfão de pai, e a viúva, que estão dentro dos teus portões, têm de vir e têm de comer e fartar-se; a fim de que Jeová, teu Deus, te abençoe em todo ato da tua mão, que hás de realizar.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-013.adoc#v5-13-0[&#60; Capítulo Anterior] | <<v5-14-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-015.adoc#v5-15-0[Próximo Capítulo &#62;]

@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v19-38-0]]
+=== Salmos, 38
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma melodia de Davi, para fazer lembrar._
+
+[[v19-38-1]]
+
+^<<v19-38-1,1>>^ Ó Jeová, não me repreendas na tua indignação,
+Nem me corrijas no teu furor.
+
+[[v19-38-2]]
+
+^<<v19-38-2,2>>^ Pois as tuas próprias flechas penetraram profundamente em mim,
+E tua mão desceu sobre mim.
+
+[[v19-38-3]]
+
+^<<v19-38-3,3>>^ Não há nenhum ponto sadio na minha carne por causa da tua verberação.
+Não há paz nos meus ossos por causa do meu pecado.
+
+[[v19-38-4]]
+
+^<<v19-38-4,4>>^ Porque os meus próprios erros passaram acima da minha cabeça;
+Iguais a uma carga pesada, são pesados demais para mim.
+
+[[v19-38-5]]
+
+^<<v19-38-5,5>>^ Minhas feridas ficaram malcheirosas, supuraram,
+Por causa da minha tolice.
+
+[[v19-38-6]]
+
+^<<v19-38-6,6>>^ Fiquei desconcertado, encurvei-me ao máximo;
+O dia inteiro tenho andado entristecido.
+
+[[v19-38-7]]
+
+^<<v19-38-7,7>>^ Pois os meus próprios lombos ficaram cheios de ardência
+E não há nenhum ponto sadio na minha carne.
+
+[[v19-38-8]]
+
+^<<v19-38-8,8>>^ Fiquei entorpecido e quebrantado ao extremo;
+Brami devido ao gemido de meu coração.
+
+[[v19-38-9]]
+
+^<<v19-38-9,9>>^ Ó Jeová,^&#42;1^ diante de ti está todo o meu desejo,
+E meu próprio suspiro não foi escondido de ti.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-38-10]]
+
+^<<v19-38-10,10>>^ Meu próprio coração tem palpitado fortemente, meu poder me deixou,
+Nem tampouco está comigo a luz dos meus próprios olhos.
+
+[[v19-38-11]]
+
+^<<v19-38-11,11>>^ Quanto aos que me amam^&#42;1^ e meus companheiros, ficam parados longe da minha praga,
+E meus próprios conhecidos íntimos ficaram parados de longe.
+
+[NOTE]
+====
+. Ou “meus amigos”.
+====
+
+[[v19-38-12]]
+
+^<<v19-38-12,12>>^ Mas os que procuram a minha alma armam ciladas,
+E os que buscam a minha calamidade falaram de adversidades,
+E o dia inteiro murmuram enganos.
+
+[[v19-38-13]]
+
+^<<v19-38-13,13>>^ Eu, porém, como alguém surdo, não escutava;
+E como alguém mudo, não abria a minha boca.
+
+[[v19-38-14]]
+
+^<<v19-38-14,14>>^ E tornei-me como um homem que não estava ouvindo,
+E na minha boca não havia contra-argumentos.
+
+[[v19-38-15]]
+
+^<<v19-38-15,15>>^ Pois esperei por ti, ó Jeová;
+Tu mesmo passaste a responder, ó Jeová,^&#42;1^ meu Deus.
+
+[NOTE]
+====
+. Veja v. 9 n.
+====
+
+[[v19-38-16]]
+
+^<<v19-38-16,16>>^ Pois eu disse: “Senão se alegrariam de mim;
+Quando meu pé vacilasse, certamente assumiriam ares de grandeza contra mim.”
+
+[[v19-38-17]]
+
+^<<v19-38-17,17>>^ Pois eu estava prestes a manquejar,
+E minha dor estava constantemente diante de mim.
+
+[[v19-38-18]]
+
+^<<v19-38-18,18>>^ Porque passei a contar o meu próprio erro;
+Comecei a inquietar-me do meu pecado.
+
+[[v19-38-19]]
+
+^<<v19-38-19,19>>^ E meus inimigos, que estão vivos, tornaram-se fortes,
+E os que me odeiam sem razão alguma tornaram-se muitos.
+
+[[v19-38-20]]
+
+^<<v19-38-20,20>>^ Retribuíam-me o mal pelo bem;
+Opunham-se a mim^&#42;1^ em revide por eu me empenhar pelo bem.
+
+[NOTE]
+====
+. Ou “eram meus adversários (satanases)”. Hebr.: yis·tenú·ni.
+====
+
+[[v19-38-21]]
+
+^<<v19-38-21,21>>^ Não me abandones, ó Jeová.
+Ó meu Deus, não te mantenhas longe de mim.
+
+[[v19-38-22]]
+
+^<<v19-38-22,22>>^ Apressa-te deveras em meu auxílio,
+Ó Jeová,^&#42;1^ minha salvação.
+
+[NOTE]
+====
+. Veja v. 9 n.
+====
+
+'''
+
+xref:019-salmo/019-salmo-037.adoc#v19-37-0[&#60; Capítulo Anterior] | <<v19-38-0,Topo>> | xref:019-salmo/019-salmo-039.adoc#v19-39-0[Próximo Capítulo &#62;]

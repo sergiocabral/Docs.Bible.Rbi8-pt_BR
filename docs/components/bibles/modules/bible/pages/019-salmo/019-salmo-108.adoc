@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v19-108-0]]
+=== Salmos, 108
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Um cântico. Uma melodia de Davi._
+
+[[v19-108-1]]
+
+^<<v19-108-1,1>>^ Meu coração é firme, ó Deus.
+Vou cantar e entoar melodias,
+Sim, minha glória.
+
+[[v19-108-2]]
+
+^<<v19-108-2,2>>^ Desperta deveras, ó instrumento de cordas; também tu, ó harpa.
+Vou despertar a alva.
+
+[[v19-108-3]]
+
+^<<v19-108-3,3>>^ Eu te elogiarei entre os povos, ó Jeová;
+E entoarei a ti melodias entre os grupos nacionais.
+
+[[v19-108-4]]
+
+^<<v19-108-4,4>>^ Pois a tua benevolência^&#42;1^ é grande até os céus,
+E a tua veracidade até o céu nublado.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-108-5]]
+
+^<<v19-108-5,5>>^ Sê deveras exaltado acima dos céus, ó Deus;
+E seja a tua glória acima de toda a terra.
+
+[[v19-108-6]]
+
+^<<v19-108-6,6>>^ A fim de que os teus amados sejam socorridos,
+Salva deveras com a tua direita e responde-me.
+
+[[v19-108-7]]
+
+^<<v19-108-7,7>>^ O próprio Deus falou na sua santidade:
+“Vou rejubilar, vou repartir Siquém;
+E medirei a baixada de Sucote.
+
+[[v19-108-8]]
+
+^<<v19-108-8,8>>^ Gileade é meu; Manassés é meu;
+E Efraim é o baluarte do meu principal;
+Judá é meu bastão de comandante.
+
+[[v19-108-9]]
+
+^<<v19-108-9,9>>^ Moabe é minha panela de lavagem.
+Sobre Edom lançarei a minha sandália.
+Sobre a Filístia bradarei em triunfo.”^&#42;1^
+
+[NOTE]
+====
+. Veja 60:8 e n.
+====
+
+[[v19-108-10]]
+
+^<<v19-108-10,10>>^ Quem me levará à cidade fortificada?
+Quem é que me guiará até Edom?
+
+[[v19-108-11]]
+
+^<<v19-108-11,11>>^ Não foste [tu], ó Deus, que nos deitaste fora
+E que não sais com os nossos exércitos como Deus?
+
+[[v19-108-12]]
+
+^<<v19-108-12,12>>^ Dá-nos deveras auxílio na aflição,
+Visto que a salvação pelo homem terreno^&#42;1^ é fútil.
+
+[NOTE]
+====
+. “Homem terreno.” Hebr.: ’a·dhám.
+====
+
+[[v19-108-13]]
+
+^<<v19-108-13,13>>^ Por Deus ganharemos energia vital,
+E ele mesmo calcará os nossos adversários.
+
+'''
+
+xref:019-salmo/019-salmo-107.adoc#v19-107-0[&#60; Capítulo Anterior] | <<v19-108-0,Topo>> | xref:019-salmo/019-salmo-109.adoc#v19-109-0[Próximo Capítulo &#62;]

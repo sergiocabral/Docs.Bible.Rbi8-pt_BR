@@ -1,0 +1,120 @@
+include::./index.adoc[]
+
+[[v14-3-0]]
+=== 2 Crônicas, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v14-3-1]]
+
+^<<v14-3-1,1>>^ Por fim, Salomão principiou a construir a casa de Jeová em Jerusalém, no monte Moriá, onde [Jeová]^&#42;1^ aparecera a Davi, seu pai, no lugar que Davi preparara na eira de Ornã, o jebuseu.
+
+[NOTE]
+====
+. “Jeová”, LXX; M: “ele”.
+====
+
+[[v14-3-2]]
+
+^<<v14-3-2,2>>^ Por conseguinte, ele principiou a construir no segundo mês, no segundo [dia], no quarto ano do seu reinado.
+
+[[v14-3-3]]
+
+^<<v14-3-3,3>>^ E estas coisas Salomão lançou como alicerce para a construção da casa do [verdadeiro] Deus:^&#42;1^ o comprimento em côvados, segundo a medida anterior,^&#42;2^ era sessenta côvados e a largura vinte côvados.
+
+[NOTE]
+====
+. “Do [verdadeiro] Deus.” Hebr.: ha·’Elo·hím; gr.: tou The·oú; lat.: Dé·i. Veja Ap. 1F.
+. ‘Um côvado segundo a medida anterior’ possivelmente era igual ao côvado comprido que equivalia a 51,8 cm. Veja Ez 40:5 n.: “mão”.
+====
+
+[[v14-3-4]]
+
+^<<v14-3-4,4>>^ E o pórtico que estava adiante do comprimento era de vinte côvados na frente da largura da casa e a sua altura era de cento e vinte;^&#42;1^ e ele passou a recobri-lo por dentro de ouro puro.
+
+[NOTE]
+====
+. “Cento e vinte”, MLXXB; mediante uma emenda do M em harmonia com LXXASy: “vinte côvados”.
+====
+
+[[v14-3-5]]
+
+^<<v14-3-5,5>>^ E a casa grande ele revestiu de madeira de junípero, revestindo-a depois de ouro bom, e então pôs sobre ela figuras de palmeiras e correntes.
+
+[[v14-3-6]]
+
+^<<v14-3-6,6>>^ Além disso, recobriu a casa de pedra preciosa^&#42;1^ para beleza; e o ouro era ouro do país do ouro.^&#42;2^
+
+[NOTE]
+====
+. Ou “cravejou a casa com pedras preciosas”.
+. “País do ouro.” Hebr.: par·wá·yim; gr.: Fa·rou·a·im.
+====
+
+[[v14-3-7]]
+
+^<<v14-3-7,7>>^ E prosseguiu revestindo de ouro a casa, as vigas, os limiares, e suas paredes e suas portas; e nas paredes gravou querubins.
+
+[[v14-3-8]]
+
+^<<v14-3-8,8>>^ E ele passou a fazer a casa do Santíssimo, cujo comprimento em relação à largura da casa era de vinte côvados e a sua própria largura era de vinte côvados; e então a revestiu de ouro bom no montante de seiscentos talentos.
+
+[[v14-3-9]]
+
+^<<v14-3-9,9>>^ E o peso dos pregos era de cinqüenta siclos^&#42;1^ de ouro; e os quartos de terraço ele revestiu de ouro.
+
+[NOTE]
+====
+. Veja Ap. 8A.
+====
+
+[[v14-3-10]]
+
+^<<v14-3-10,10>>^ Então fez na casa do Santíssimo dois querubins na feitura de imagens e os recobriu de ouro.
+
+[[v14-3-11]]
+
+^<<v14-3-11,11>>^ Quanto às asas dos querubins, seu comprimento era de vinte côvados, uma asa de cinco côvados tocando a parede da casa e a outra asa de cinco côvados tocando a asa do outro querubim.
+
+[[v14-3-12]]
+
+^<<v14-3-12,12>>^ E a asa de um querubim de cinco côvados tocava a parede da casa e a outra asa de cinco côvados estava em contato com a asa do outro querubim.
+
+[[v14-3-13]]
+
+^<<v14-3-13,13>>^ As asas destes querubins se estendiam por vinte côvados; e eles estavam postos de pé com as suas faces para dentro.
+
+[[v14-3-14]]
+
+^<<v14-3-14,14>>^ Além disso, fez a cortina de linha azul, e de lã tingida de roxo, e de carmesim, e de tecido fino, e fez bordar nela querubins.
+
+[[v14-3-15]]
+
+^<<v14-3-15,15>>^ Então fez diante da casa duas colunas de trinta e cinco côvados de comprimento,^&#42;1^ e o capitel que se achava no topo de cada uma tinha cinco côvados.
+
+[NOTE]
+====
+. “Comprimento”, MSy; LXX: “altura”.
+====
+
+[[v14-3-16]]
+
+^<<v14-3-16,16>>^ Ademais, fez correntes em estilo de colar^&#42;1^ e as pôs sobre o topo das colunas, e fez cem romãs e as pôs nas correntes.
+
+[NOTE]
+====
+. “Em estilo de colar”, mediante uma ligeira correção; M: “no compartimento mais recôndito”.
+====
+
+[[v14-3-17]]
+
+^<<v14-3-17,17>>^ E ele passou a erigir as colunas na frente do templo, uma à direita e a outra à esquerda, após o que chamou a da direita pelo nome de Jaquim^&#42;1^ e a da esquerda pelo nome de Boaz.^&#42;2^
+
+[NOTE]
+====
+. Significando “Ele Estabelecerá Firmemente”.
+. Possivelmente significando “Em Força”.
+====
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-002.adoc#v14-2-0[&#60; Capítulo Anterior] | <<v14-3-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-004.adoc#v14-4-0[Próximo Capítulo &#62;]

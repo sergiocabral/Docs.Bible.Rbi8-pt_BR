@@ -1,0 +1,182 @@
+include::./index.adoc[]
+
+[[v19-73-0]]
+=== Salmos, 73
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_LIVRO TERCEIRO_
+
+_(Salmos 73 - 89)_
+
+_Uma melodia de Asafe._
+
+[[v19-73-1]]
+
+^<<v19-73-1,1>>^ Deus é deveras bom para com Israel, para com os de coração limpo.
+
+[[v19-73-2]]
+
+^<<v19-73-2,2>>^ Quanto a mim, meus pés quase se tinham apartado,
+Meus passos quase se fizeram escorregar.^&#42;1^
+
+[NOTE]
+====
+. Ou “foram derramados”.
+====
+
+[[v19-73-3]]
+
+^<<v19-73-3,3>>^ Porque fiquei invejoso dos jactanciosos,
+Vendo a própria paz dos iníquos.
+
+[[v19-73-4]]
+
+^<<v19-73-4,4>>^ Pois eles não têm dores mortíferas;
+E a sua barriga está gorda.
+
+[[v19-73-5]]
+
+^<<v19-73-5,5>>^ Não estão nem mesmo na desgraça do homem mortal,^&#42;1^
+E não são afligidos como os outros homens.^&#42;2^
+
+[NOTE]
+====
+. “Homem mortal.” Hebr.: ’enóhsh.
+. “Outros homens.” Hebr.: ’a·dhám.
+====
+
+[[v19-73-6]]
+
+^<<v19-73-6,6>>^ Portanto, a altivez serviu-lhes de colar;
+A violência envolve-os como um traje.
+
+[[v19-73-7]]
+
+^<<v19-73-7,7>>^ Seu olho ficou saliente por causa da gordura;
+Excederam as imaginações do coração.
+
+[[v19-73-8]]
+
+^<<v19-73-8,8>>^ Motejam e falam do que é mau;
+Falam sobre a defraudação em estilo elevado.
+
+[[v19-73-9]]
+
+^<<v19-73-9,9>>^ Puseram sua boca nos próprios céus,
+E sua própria língua anda pela terra.
+
+[[v19-73-10]]
+
+^<<v19-73-10,10>>^ Por isso ele faz seu povo retornar para cá,
+E fazem-se escorrer para eles as águas daquilo que está cheio.
+
+[[v19-73-11]]
+
+^<<v19-73-11,11>>^ E disseram: “Como veio Deus^&#42;1^ a saber [isso]?
+E há conhecimento no Altíssimo?”
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v19-73-12]]
+
+^<<v19-73-12,12>>^ Eis que estes são os iníquos que são tranqüilos indefinidamente.
+Aumentaram os [seus] meios de subsistência.
+
+[[v19-73-13]]
+
+^<<v19-73-13,13>>^ Decerto é em vão que purifiquei meu coração
+E que lavo minhas mãos na própria inocência.
+
+[[v19-73-14]]
+
+^<<v19-73-14,14>>^ E vim a ser afligido o dia inteiro,
+E minha correção vem cada manhã.
+
+[[v19-73-15]]
+
+^<<v19-73-15,15>>^ Se eu tivesse dito: “Vou contar uma história tal como esta”,
+Eis que contra a geração dos teus filhos
+Eu teria agido traiçoeiramente.
+
+[[v19-73-16]]
+
+^<<v19-73-16,16>>^ E eu [o] estive considerando para saber isso;
+Foi uma desgraça aos meus olhos,
+
+[[v19-73-17]]
+
+^<<v19-73-17,17>>^ Até que passei a entrar no grandioso santuário de Deus.
+Eu quis discernir o futuro deles.
+
+[[v19-73-18]]
+
+^<<v19-73-18,18>>^ De fato, tu os pões em terreno escorregadio.
+Fizeste que caíssem em ruínas.
+
+[[v19-73-19]]
+
+^<<v19-73-19,19>>^ Como eles num instante se tornaram um assombro!
+[Como] chegaram ao seu término, deu-se cabo deles por meio de terrores repentinos!
+
+[[v19-73-20]]
+
+^<<v19-73-20,20>>^ Igual a um sonho depois de acordar, ó Jeová,^&#42;1^
+[Assim] desprezarás a sua própria imagem ao despertar.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-73-21]]
+
+^<<v19-73-21,21>>^ Pois meu coração azedou
+E tive dores agudas nos meus rins,
+
+[[v19-73-22]]
+
+^<<v19-73-22,22>>^ E eu era irracional e nada sabia;
+Tornei-me apenas como os animais, do teu ponto de vista.
+
+[[v19-73-23]]
+
+^<<v19-73-23,23>>^ Mas, estou constantemente contigo;
+Seguraste-me a mão direita.
+
+[[v19-73-24]]
+
+^<<v19-73-24,24>>^ Tu me guiarás com o teu conselho
+E depois me levarás à própria glória.
+
+[[v19-73-25]]
+
+^<<v19-73-25,25>>^ A quem tenho nos céus?
+E além de ti não tenho outro agrado na terra.
+
+[[v19-73-26]]
+
+^<<v19-73-26,26>>^ Falharam-me o organismo e o coração.
+Deus é a rocha de meu coração e meu quinhão por tempo indefinido.
+
+[[v19-73-27]]
+
+^<<v19-73-27,27>>^ Pois, eis que perecerão os mesmos que se mantêm longe de ti.
+Certamente silenciarás a todo aquele que te abandona imoralmente.
+
+[[v19-73-28]]
+
+^<<v19-73-28,28>>^ Quanto a mim, porém, chegar-me a Deus é bom para mim.
+Pus o meu refúgio no Soberano Senhor Jeová,
+Para declarar todas as tuas obras.^&#42;1^
+
+[NOTE]
+====
+. LXXVg acrescentam: “nos portões da filha de Sião”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-072.adoc#v19-72-0[&#60; Capítulo Anterior] | <<v19-73-0,Topo>> | xref:019-salmo/019-salmo-074.adoc#v19-74-0[Próximo Capítulo &#62;]

@@ -1,0 +1,261 @@
+include::./index.adoc[]
+
+[[v7-5-0]]
+=== Juízes, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v7-5-1]]
+
+^<<v7-5-1,1>>^ E naquele dia, Débora, junto com Baraque, filho de Abinoão, irrompeu em cântico, dizendo:
+
+[[v7-5-2]]
+
+^<<v7-5-2,2>>^ “Por se deixar o cabelo pender solto em Israel [para a guerra],
+Por se oferecer voluntariamente o povo,
+Bendizei a Jeová.
+
+[[v7-5-3]]
+
+^<<v7-5-3,3>>^ Escutai, ó reis; dai ouvidos, ó dignitários:
+Eu é que cantarei a Jeová.
+Entoarei melodias para Jeová, o Deus de Israel.
+
+[[v7-5-4]]
+
+^<<v7-5-4,4>>^ Jeová, quando saíste de Seir,
+Quando marchaste desde o campo de Edom,
+Tremeu a terra, também gotejaram os céus,
+As nuvens também gotejaram água.
+
+[[v7-5-5]]
+
+^<<v7-5-5,5>>^ Montes fluíram^&#42;1^ de diante da face de Jeová,
+Este Sinai, de diante da face de Jeová, Deus de Israel.
+
+[NOTE]
+====
+. Ou “tremeram”. Vg: “fluíram”; TSy: “tremeram”; LXX: “foram abalados”.
+====
+
+[[v7-5-6]]
+
+^<<v7-5-6,6>>^ Nos dias de Sangar, filho de Anate,
+Nos dias de Jael, as veredas não tinham tráfego,^&#42;1^
+E os que andavam pelas sendas andavam por veredas tortuosas.
+
+[NOTE]
+====
+. Lit.: “veredas cessavam [eram negligenciadas]”.
+====
+
+[[v7-5-7]]
+
+^<<v7-5-7,7>>^ Deixaram de existir os camponeses, deixaram de existir em Israel,
+Até que eu, Débora, me levantei,
+Até que me levantei como mãe em Israel.
+
+[[v7-5-8]]
+
+^<<v7-5-8,8>>^ Passaram a escolher novos deuses.
+Foi então que houve guerra^&#42;1^ nos portões.^&#42;2^
+Não se via nem escudo nem lança
+No meio de quarenta mil em Israel.
+
+[NOTE]
+====
+. O significado no M é obscuro.
+. “Então as cidades dos governadores (príncipes) lutaram”, LXXB.
+====
+
+[[v7-5-9]]
+
+^<<v7-5-9,9>>^ Meu coração é pelos comandantes de Israel,
+Que eram voluntários dentre o povo.
+Bendizei a Jeová.
+
+[[v7-5-10]]
+
+^<<v7-5-10,10>>^ Vós os que cavalgais em jumentas baias.
+Vós os que estais sentados em tapetes suntuosos,^&#42;1^
+E vós os que andais pela estrada,
+Considerai!
+
+[NOTE]
+====
+. O significado no M é obscuro; LXXBVg: “sentados para julgar”.
+====
+
+[[v7-5-11]]
+
+^<<v7-5-11,11>>^ Algumas das vozes dos distribuidores de água, no meio dos lugares onde se tira água,
+Ali começaram a narrar os atos justos de Jeová,
+Os atos justos dos seus camponeses em Israel.
+Foi então que o povo de Jeová foi descer até os portões.
+
+[[v7-5-12]]
+
+^<<v7-5-12,12>>^ Desperta, desperta, ó Débora!
+Desperta, desperta, entoa um cântico!
+Levanta-te, Baraque, e leva embora os teus cativos,^&#42;1^ ó filho de Abinoão!
+
+[NOTE]
+====
+. Ou “cativeiro”, isto é, um grupo de cativos.
+====
+
+[[v7-5-13]]
+
+^<<v7-5-13,13>>^ Foi então que os sobreviventes desceram até os majestosos;
+O povo de Jeová desceu a mim contra os poderosos.
+
+[[v7-5-14]]
+
+^<<v7-5-14,14>>^ Sua origem era de Efraim na baixada,^&#42;1^
+Contigo,^&#42;2^ ó Benjamim, entre os teus povos.
+De Maquir desceram os comandantes
+E de Zebulão os que manejam o equipamento de escrevente.
+
+[NOTE]
+====
+. “Na baixada”, LXXATh; MLXXBVg: “em Amaleque”.
+. Ou “depois de ti”.
+====
+
+[[v7-5-15]]
+
+^<<v7-5-15,15>>^ E os príncipes em Issacar estavam com Débora,
+E como Issacar, assim era Baraque.
+Foi enviado a pé à baixada.
+Foram grandes os esquadrinhamentos^&#42;1^ do coração entre as divisões de Rubem.
+
+[NOTE]
+====
+. “Esquadrinhamentos”, assim como no v. 16; M: “prescrições”.
+====
+
+[[v7-5-16]]
+
+^<<v7-5-16,16>>^ Por que te assentaste entre os dois alforjes,
+Para escutar os toques de flauta para as greis?
+Para as divisões de Rubem houve grandes esquadrinhamentos do coração.
+
+[[v7-5-17]]
+
+^<<v7-5-17,17>>^ Gileade ficou na sua residência ao outro lado do Jordão;
+E Dã, por que ficou morando por um tempo em navios?
+Aser estava sentado ocioso na costa marítima,
+E ficou residindo junto aos seus desembarcadouros.
+
+[[v7-5-18]]
+
+^<<v7-5-18,18>>^ Zebulão era um povo que desdenhava a sua alma até a morte;
+Também Naftali, nas elevações do campo.
+
+[[v7-5-19]]
+
+^<<v7-5-19,19>>^ Vieram reis, eles lutaram;
+Foi então que os reis de Canaã lutaram
+Em Taanaque, junto às águas de Megido.
+Não tiveram lucro de prata.
+
+[[v7-5-20]]
+
+^<<v7-5-20,20>>^ Desde o céu lutaram as estrelas,
+Desde as suas órbitas lutaram contra Sísera.
+
+[[v7-5-21]]
+
+^<<v7-5-21,21>>^ A torrente de Quisom os arrastou,
+A torrente dos dias antigos,^&#42;1^ a torrente de Quisom.
+Foste pisar a força, ó minha alma.
+
+[NOTE]
+====
+. “Torrente dos dias antigos.” Ou “torrente de ataques”. Hebr.: ná·hhal qedhu·mím; qedhu·mím é de significado incerto; LXXB: “antiga torrente hibernal”; Vg: “torrente de Cadumim”.
+====
+
+[[v7-5-22]]
+
+^<<v7-5-22,22>>^ Foi então que os cascos dos cavalos escarvaram
+Por causa do galopar precipitado dos seus garanhões.
+
+[[v7-5-23]]
+
+^<<v7-5-23,23>>^ ‘Amaldiçoai a Meroz’, disse o anjo de Jeová,
+‘Amaldiçoai incessantemente os seus habitantes,
+Pois não vieram em auxílio de Jeová,
+Em auxílio de Jeová com os poderosos’.
+
+[[v7-5-24]]
+
+^<<v7-5-24,24>>^ Jael, esposa de Héber, o queneu, será muitíssimo abençoada entre as mulheres,
+Entre as mulheres na tenda será muitíssimo abençoada.
+
+[[v7-5-25]]
+
+^<<v7-5-25,25>>^ Água ele pediu, leite ela deu;
+Na grande taça de banquete dos majestosos apresentou-lhe leite coalhado.
+
+[[v7-5-26]]
+
+^<<v7-5-26,26>>^ Estendeu então a mão para a estaca de tenda
+E sua direita para o malho dos labutadores.
+E martelou a Sísera, furou-lhe a cabeça,
+E rachou-lhe e retalhou-lhe as têmporas.
+
+[[v7-5-27]]
+
+^<<v7-5-27,27>>^ Ele tombou entre os seus pés, caiu, deitou-se;
+Tombou entre os seus pés, caiu;
+Onde tombou, ali caiu vencido.
+
+[[v7-5-28]]
+
+^<<v7-5-28,28>>^ Uma mulher olhava pela janela e estava à espreita dele,^&#42;1^
+A mãe de Sísera, pela gelosia:
+‘Por que se demora seu carro de guerra?
+Por que tem de tardar tanto a batida dos cascos dos seus carros?’
+
+[NOTE]
+====
+. “Estava à espreita [dele]”, T; M: “lamentava”.
+====
+
+[[v7-5-29]]
+
+^<<v7-5-29,29>>^ As sábias das suas damas^&#42;1^ lhe respondiam,
+Sim, também ela dizia a si mesma com as suas próprias declarações:
+
+[NOTE]
+====
+. Ou “suas princesas”. Hebr.: sa·roh·theí·ha.
+====
+
+[[v7-5-30]]
+
+^<<v7-5-30,30>>^ ‘Não deviam achar, não deviam repartir o despojo:
+Uma madre — duas madres^&#42;1^ para cada varão vigoroso,
+Despojo de estofos tingidos para Sísera, despojo de estofos tingidos,
+Uma veste bordada, estofo tingido, duas vestes bordadas
+Para os pescoços [dos homens] do despojo?’^&#42;2^
+
+[NOTE]
+====
+. Termo dos soldados referente a concubinas capturadas.
+. “Para o pescoço da esposa dum rei”, mediante a troca de uma letra hebr.; com uma ligeira mudança no M: “para meu pescoço como despojo”; mediante outra mudança no M: “para seu pescoço como despojo”.
+====
+
+[[v7-5-31]]
+
+^<<v7-5-31,31>>^ Pereçam assim todos os teus inimigos, ó Jeová,
+E sejam os que te^&#42;1^ amam como quando o sol sai na sua potência.”
+E o país teve sossego por quarenta anos.
+
+[NOTE]
+====
+. “Te”, SyVg; MLXX: “o”.
+====
+
+'''
+
+xref:007-juizes/007-juizes-004.adoc#v7-4-0[&#60; Capítulo Anterior] | <<v7-5-0,Topo>> | xref:007-juizes/007-juizes-006.adoc#v7-6-0[Próximo Capítulo &#62;]

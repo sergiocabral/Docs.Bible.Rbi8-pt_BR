@@ -1,0 +1,494 @@
+include::./index.adoc[]
+
+[[v5-32-0]]
+=== Deuteronômio, 32
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-32-1]]
+
+^<<v5-32-1,1>>^ “Dai ouvidos, ó céus, e fale eu;
+E ouça a terra as declarações da minha boca.
+
+[[v5-32-2]]
+
+^<<v5-32-2,2>>^ Meu ensinamento gotejará como a chuva,
+Minha declaração pingará como o orvalho,
+Como chuvas suaves sobre a relva,
+E como chuvas copiosas sobre a vegetação.
+
+[[v5-32-3]]
+
+^<<v5-32-3,3>>^ Pois declararei o nome de Jeová.^&#42;1^
+Atribuí deveras grandeza ao nosso Deus!
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-32-4]]
+
+^<<v5-32-4,4>>^ A Rocha, perfeita é a sua atuação,^&#42;1^
+Pois todos os seus caminhos são justiça.
+Deus^&#42;2^ de fidelidade e sem injustiça;
+Justo e reto é ele.
+
+[NOTE]
+====
+. “A Rocha, perfeita é a sua atuação.” Hebr.: hats·Tsúr ta·mím po·‛olóh; LXX: “Deus, verdadeiras são as suas obras”; Sy: “Pois sem mácula (imaculadas) são as suas obras”; Vg: “As obras de Deus são perfeitas.”
+. “Deus”, M(hebr.: ’El)Sam; gr.: The·ós; lat.: Dé·us.
+====
+
+[[v5-32-5]]
+
+^<<v5-32-5,5>>^ Agiram^&#42;1^ ruinosamente da sua parte;^&#42;2^
+Não são seus filhos, o defeito é deles.^&#42;3^
+Geração pervertida e deturpada!
+
+[NOTE]
+====
+. “Agiram”, SamLXXSyVg; M: “Agiu.”
+. Ou “ruinosamente para com ele”.
+. “Pecaram; filhos culpáveis não lhe pertencem”, LXX.
+====
+
+[[v5-32-6]]
+
+^<<v5-32-6,6>>^ É a Jeová^&#42;1^ que persistis em fazer assim,
+Ó povo estúpido e nada sábio?
+Não é ele teu Pai que te produziu,
+Aquele que te fez e passou a dar-te estabilidade?
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-32-7]]
+
+^<<v5-32-7,7>>^ Lembra-te dos dias da antiguidade,
+Considerai os anos atrás, de geração a geração;
+Pergunta a teu pai, e ele te poderá contar;
+A teus homens idosos, e eles to poderão dizer.
+
+[[v5-32-8]]
+
+^<<v5-32-8,8>>^ Quando o Altíssimo deu às nações uma herança,^&#42;1^
+Quando separou uns dos outros os filhos de Adão,^&#42;2^
+Passou a fixar o termo dos povos
+Com respeito ao número dos filhos de Israel.
+
+[NOTE]
+====
+. “Quando o Altíssimo dividia nações”, LXXSyVg. Evidentemente, entendiam o verbo hebr. como derivado duma raiz de aspecto similar, que significa “peneirar; passar pelo crivo”. De acordo com isso, M rezaria: “Quando o Altíssimo borrifava as nações [como que através dum crivo]”. Esta idéia está em paralelo, ou em equilíbrio poético, com a segunda parte do v. Veja VT, Vol. II, 1952, pp. 356, 357.
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v5-32-9]]
+
+^<<v5-32-9,9>>^ Pois o quinhão de Jeová é^&#42;1^ seu povo;
+Jacó é o lote que ele herda.
+
+[NOTE]
+====
+. “E o quinhão de Jeová veio a ser”, LXX.
+====
+
+[[v5-32-10]]
+
+^<<v5-32-10,10>>^ Veio a achá-lo numa terra erma
+E num deserto vago,^&#42;1^ uivante.
+Começou a cercá-lo, a tomar conta dele,
+Para resguardá-lo como a menina de seu olho.
+
+[NOTE]
+====
+. Ou “e num . . . indistinto”. Hebr.: u·vethó·hu, o mesmo substantivo hebr. que em Gên 1:2.
+====
+
+[[v5-32-11]]
+
+^<<v5-32-11,11>>^ Assim como a águia remexe seu ninho,
+Paira sobre os seus filhotes,
+Estende as suas asas, toma-os,
+Carrega-os nas suas plumas,
+
+[[v5-32-12]]
+
+^<<v5-32-12,12>>^ Somente Jeová o guiava,
+E não havia deus^&#42;1^ estrangeiro com ele.
+
+[NOTE]
+====
+. “Deus.” MSam(hebr.): ’el; gr.: the·ós.
+====
+
+[[v5-32-13]]
+
+^<<v5-32-13,13>>^ Fazia-o cavalgar sobre os altos da terra,
+De modo que comia^&#42;1^ os produtos do campo.
+E fazia-o sugar mel dum rochedo
+E azeite duma rocha de pederneira;
+
+[NOTE]
+====
+. Ou “e continuou a comer”, M; Vg: “para que comesse”; Sam: “ele o fez comer”; LXX: “ele os fez comer”.
+====
+
+[[v5-32-14]]
+
+^<<v5-32-14,14>>^ Manteiga^&#42;1^ da manada e leite do rebanho,
+Junto com a gordura de carneiros,
+E cordeiros, a raça de Basã, e cabritos,
+Junto com a gordura de rins do trigo;
+E bebias o sangue da uva como vinho.^&#42;2^
+
+[NOTE]
+====
+. Ou “coalhos”.
+. “Vinho.” Hebr.: hhá·mer, isto é, vinho ainda espumante, em fermentação.
+====
+
+[[v5-32-15]]
+
+^<<v5-32-15,15>>^ Quando Jesurum^&#42;1^ começou a engordar, então deu coice.^&#42;2^
+Engordaste, engrossaste, ficaste empanturrado.
+De modo que abandonou a Deus,^&#42;3^ que o fez,
+E desprezou a Rocha^&#42;4^ da sua salvação.
+
+[NOTE]
+====
+. Significando “Aquele Que É Reto”; título honorário de Israel. Hebr.: Yeshu·rún.
+. “E Jacó comeu, e ficou cheio, e o amado deu coice”, LXX (Sam reza de modo similar); Vg: “O querido ficou gordo e deu coice.”
+. “Deus”, MSam. Hebr.: ’Elóh·ah, esta é a primeira ocorrência da forma sing. de ’Elo·hím; gr.: The·ón; lat.: Dé·um. Veja Jó 3:4 n.
+. “A Rocha da.” Hebr.: Tsur; LXXVg: “Deus”; Sy: “o Forte (Poderoso)”.
+====
+
+[[v5-32-16]]
+
+^<<v5-32-16,16>>^ Com deuses estranhos começaram a provocá-lo ao ciúme;
+Ofendiam-no com coisas detestáveis.
+
+[[v5-32-17]]
+
+^<<v5-32-17,17>>^ Foram oferecer sacrifícios a demônios,^&#42;1^ não a Deus,^&#42;2^
+A deuses^&#42;3^ que não conheciam,
+Novos, que entraram recentemente,
+Com os quais os vossos antepassados não estavam familiarizados.^&#42;4^
+
+[NOTE]
+====
+. “A demônios (ídolos).” Hebr.: lash·she·dhím; gr.: dai·mo·ní·ois; lat.: dae·mó·ni·bus.
+. “Não a Deus.” Hebr.: lo’ ’Eló·ah; gr.: ou The·oí; lat.: non Dé·o.
+. “Deuses.” Hebr.: ’elo·hím; gr.: the·oís; lat.: dí·is.
+. Ou “a respeito de quem os vossos antepassados não sabiam”.
+====
+
+[[v5-32-18]]
+
+^<<v5-32-18,18>>^ Passaste a esquecer-te da Rocha que te gerou,
+E começaste a excluir Deus da memória, Aquele que te produziu com dores de parto.
+
+[[v5-32-19]]
+
+^<<v5-32-19,19>>^ Quando Jeová^&#42;1^ o viu, então veio a desrespeitá-los,
+Pelo vexame causado por seus filhos e suas filhas.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-32-20]]
+
+^<<v5-32-20,20>>^ Portanto, ele disse: ‘Esconda eu deles a minha face,
+Veja eu qual será seu fim posterior.
+Pois são uma geração de perversidade,
+Filhos em que não há fidelidade.
+
+[[v5-32-21]]
+
+^<<v5-32-21,21>>^ Eles, da sua parte, me provocaram ao ciúme com aquilo que não é deus;
+Vexaram-me com os seus ídolos vãos;^&#42;1^
+E eu, da minha parte, os provocarei ao ciúme com aquilo que não é povo;
+Ofendê-los-ei com uma nação estúpida.
+
+[NOTE]
+====
+. Lit.: “suas vaidades”.
+====
+
+[[v5-32-22]]
+
+^<<v5-32-22,22>>^ Pois, na minha ira acendeu-se um fogo,
+E ele arderá até o Seol, o lugar mais baixo,^&#42;1^
+E consumirá a terra e a sua produção,
+E incendiará os alicerces dos montes.
+
+[NOTE]
+====
+. Ou “até o Seol mais baixo”. LXX: “ao Hades abaixo”.
+====
+
+[[v5-32-23]]
+
+^<<v5-32-23,23>>^ Aumentarei calamidades sobre eles;
+Gastarei neles as minhas flechas.
+
+[[v5-32-24]]
+
+^<<v5-32-24,24>>^ Ficarão exaustos de fome e consumidos pela febre ardente,
+E pela destruição amarga.
+E enviarei sobre eles os dentes de animais
+Com peçonha de répteis do pó.
+
+[[v5-32-25]]
+
+^<<v5-32-25,25>>^ Portas afora a espada os privará,
+E portas adentro,^&#42;1^ o horror,
+Tanto do jovem como da virgem,
+Da criança de peito junto com o homem grisalho.
+
+[NOTE]
+====
+. Lit.: “nos quartos interiores”.
+====
+
+[[v5-32-26]]
+
+^<<v5-32-26,26>>^ Eu devia ter dito: “Dispersá-los-ei,^&#42;1^
+Vou fazer cessar a menção deles entre os mortais”,
+
+[NOTE]
+====
+. Ou “parti-los-ei em pedaços”.
+====
+
+[[v5-32-27]]
+
+^<<v5-32-27,27>>^ Se não fosse que eu temesse um vexame da parte do inimigo,
+Que seus adversários o entendessem mal,
+Que dissessem: “Nossa mão^&#42;1^ se mostrou superior,
+E não foi Jeová quem realizou tudo isso.”
+
+[NOTE]
+====
+. “Nossa mão”, SamLXXSyVg e muitos mss. hebr.; M: “Nossas mãos”, mas com um verbo no sing.
+====
+
+[[v5-32-28]]
+
+^<<v5-32-28,28>>^ Porque são uma nação em que perece o conselho,
+E entre eles não há entendimento.
+
+[[v5-32-29]]
+
+^<<v5-32-29,29>>^ Se tão-somente fossem sábios! Então ponderariam isso.
+Considerariam seu fim posterior.
+
+[[v5-32-30]]
+
+^<<v5-32-30,30>>^ Como poderia um perseguir mil
+E dois pôr dez mil em fuga?
+Não sem que sua Rocha os tivesse vendido^&#42;1^
+E Jeová os tivesse entregado.^&#42;2^
+
+[NOTE]
+====
+. “Os tivesse entregue”, LXX.
+. Lit.: “os tivesse encerrado”, MVg.
+====
+
+[[v5-32-31]]
+
+^<<v5-32-31,31>>^ Pois a rocha deles não é como a nossa Rocha,^&#42;1^
+Mesmo sendo os nossos inimigos os que decidem.^&#42;2^
+
+[NOTE]
+====
+. “Pois os deuses deles não são como o nosso Deus”, LXX; Vgc: “Pois o nosso Deus não é como os deuses deles.”
+. “E os nossos inimigos são juízes”, Vg; LXX: “mas os nossos inimigos são insensatos”.
+====
+
+[[v5-32-32]]
+
+^<<v5-32-32,32>>^ Pois a sua videira é da videira de Sodoma
+E dos socalcos de Gomorra.
+Suas uvas são uvas venenosas,
+Seus cachos são amargos.
+
+[[v5-32-33]]
+
+^<<v5-32-33,33>>^ Seu vinho é a peçonha de cobras grandes
+E o veneno cruel de najas.
+
+[[v5-32-34]]
+
+^<<v5-32-34,34>>^ Não está guardado comigo
+Com um selo aposto, no meu depósito?^&#42;1^
+
+[NOTE]
+====
+. Ou “entre os meus suprimentos”.
+====
+
+[[v5-32-35]]
+
+^<<v5-32-35,35>>^ Minha é a vingança e a retribuição.
+No tempo designado cambaleará seu pé,
+Porque está perto o dia do seu desastre
+E se apressam os eventos que os aguardam.’
+
+[[v5-32-36]]
+
+^<<v5-32-36,36>>^ Pois, Jeová julgará seu povo
+E terá lástima dos seus servos,
+Porque verá que desapareceu o apoio^&#42;1^
+E há apenas o incapacitado e o rejeitado.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “mão”.
+. Lit.: “apenas o restrito e o largado (abandonado)”. Veja VT, Vol. II, 1952, pp. 371-374.
+====
+
+[[v5-32-37]]
+
+^<<v5-32-37,37>>^ E certamente dirá: ‘Onde estão os seus deuses,^&#42;1^
+A rocha em que procuraram refugiar-se,^&#42;2^
+
+[NOTE]
+====
+. “Seus deuses.” MSam(hebr): ’elo·héh·moh, pl.; gr.: the·oí; lat.: dí·i.
+. “Onde estão os seus deuses em quem puseram sua confiança?” LXX; Vg: “Onde estão os seus deuses em quem tiveram confiança?”
+====
+
+[[v5-32-38]]
+
+^<<v5-32-38,38>>^ Que comiam a gordura dos seus sacrifícios,
+Bebendo o vinho das suas ofertas de bebida?
+Levantem-se e vos ajudem.
+Tornem-se para vós esconderijo.
+
+[[v5-32-39]]
+
+^<<v5-32-39,39>>^ Vede agora que eu — eu é que o sou,^&#42;1^
+E não há [outros] deuses comigo.
+Eu entrego à morte e eu vivifico.^&#42;2^
+Feri seriamente, e eu — eu vou curar,
+E não há quem arrebata da minha mão.
+
+[NOTE]
+====
+. Lit.: “eu — eu [sou] ele”. Hebr.: ’aní ’aní hu’. Veja Êx 3:14; Ap. 6F.
+. Ou “eu preservo vivo”.
+====
+
+[[v5-32-40]]
+
+^<<v5-32-40,40>>^ Levanto minha mão para o céu [em juramento]
+E digo deveras: “Assim como vivo por tempo indefinido”,^&#42;1^
+
+[NOTE]
+====
+. Ou “vivo para sempre”.
+====
+
+[[v5-32-41]]
+
+^<<v5-32-41,41>>^ Se eu deveras afiar minha espada lampejante,^&#42;1^
+E minha mão se apoderar do julgamento,
+Pagarei de volta vingança aos meus adversários,
+E retribuirei aos que me odeiam intensamente.
+
+[NOTE]
+====
+. Lit.: “o lampejo da minha espada”.
+====
+
+[[v5-32-42]]
+
+^<<v5-32-42,42>>^ Embriagarei as minhas flechas com sangue,
+Ao passo que minha espada comerá carne,
+Com o sangue dos que foram mortos e dos cativos,^&#42;1^
+Com [o das] cabeças dos líderes do inimigo.’^&#42;2^
+
+[NOTE]
+====
+. Ou “cativeiro”, isto é, um grupo de cativos.
+. Ou “a cabeça de cabelo comprido do inimigo”.
+====
+
+[[v5-32-43]]
+
+^<<v5-32-43,43>>^ Alegrai-vos, ó nações, com o seu povo,^&#42;1^
+Pois vingará o sangue dos seus servos,
+E pagará de volta vingança aos seus adversários,
+E fará deveras expiação pelo solo do seu povo.”^&#42;2^
+
+[NOTE]
+====
+. “Alegrai-vos, ó céus, com ele, e adorem-no todos os anjos de Deus. Alegrai-vos, ó nações, com o seu povo, e fortaleçam-se nele todos os filhos de Deus”, LXXBagster. Veja He 1:6; Rolo do Mar Morto 4QDeut.q.
+. “Pelo solo do seu povo”, SamLXXVg; M: “pelo seu solo, pelo seu povo”; Sy: “pelo seu solo e pelo seu povo”.
+====
+
+[[v5-32-44]]
+
+^<<v5-32-44,44>>^ Assim, Moisés veio e falou todas as palavras deste cântico aos ouvidos^&#42;1^ do povo, ele e Oséias,^&#42;2^ filho de Num.
+
+[NOTE]
+====
+. Lit.: “orelhas”.
+. Significando “Salvação; Livramento”; nome original de Josué.
+====
+
+[[v5-32-45]]
+
+^<<v5-32-45,45>>^ Depois de Moisés ter acabado de falar todas estas palavras a todo o Israel,
+
+[[v5-32-46]]
+
+^<<v5-32-46,46>>^ prosseguiu, dizendo-lhes: “Aplicai vossos corações a todas as palavras que hoje vos falo como advertência,^&#42;1^ para que ordeneis aos vossos filhos que cuidem em cumprir todas as palavras desta lei.
+
+[NOTE]
+====
+. Ou “em testemunho contra vós”.
+====
+
+[[v5-32-47]]
+
+^<<v5-32-47,47>>^ Pois, não é para vós uma palavra sem valor, mas significa a vossa vida, e por meio desta palavra podeis prolongar os vossos dias no solo ao qual estais passando o Jordão para tomar posse dele.”
+
+[[v5-32-48]]
+
+^<<v5-32-48,48>>^ E Jeová passou a falar a Moisés naquele mesmo dia, dizendo:
+
+[[v5-32-49]]
+
+^<<v5-32-49,49>>^ “Sobe a este monte de Abarim,^&#42;1^ o monte Nebo, que está na terra de Moabe, defrontando com Jericó, e vê a terra de Canaã que dou como propriedade aos filhos de Israel.
+
+[NOTE]
+====
+. Ou “terra fronteiriça”.
+====
+
+[[v5-32-50]]
+
+^<<v5-32-50,50>>^ Morre então lá no monte ao qual sobes e sê ajuntado ao teu povo, assim como Arão, teu irmão, morreu no monte Hor e foi ajuntado ao seu povo,
+
+[[v5-32-51]]
+
+^<<v5-32-51,51>>^ por terdes faltado ao dever para comigo no meio dos filhos de Israel, junto às águas de Meribá de Cades, no ermo de Zim; por não me terdes santificado^&#42;1^ no meio dos filhos de Israel.
+
+[NOTE]
+====
+. “Não me terdes santificado (tido por sagrado; tratado como santo).” Hebr.: lo’-qid·dash·tém ’oh·thí; gr.: he·gi·á·sa·te; lat.: sanc·ti·fi·cá·stis.
+====
+
+[[v5-32-52]]
+
+^<<v5-32-52,52>>^ Pois, verás a terra à distância, mas não entrarás lá na terra que dou aos filhos de Israel.”
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-031.adoc#v5-31-0[&#60; Capítulo Anterior] | <<v5-32-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-033.adoc#v5-33-0[Próximo Capítulo &#62;]

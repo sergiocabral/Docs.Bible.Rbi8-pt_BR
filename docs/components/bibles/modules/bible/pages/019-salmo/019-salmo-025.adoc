@@ -1,0 +1,201 @@
+include::./index.adoc[]
+
+[[v19-25-0]]
+=== Salmos, 25
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_De Davi._
+
+_א [Álefe]^&#42;1^_
+
+[[v19-25-1]]
+
+^<<v19-25-1,1>>^ A ti, ó Jeová, elevo a minha própria alma.
+
+_ב [Bete]_
+
+[[v19-25-2]]
+
+^<<v19-25-2,2>>^ Deus meu,^&#42;1^ em ti confiei;
+Não seja eu envergonhado.
+Não se regozijem sobre mim os meus inimigos.
+
+[NOTE]
+====
+. “Deus meu.” Hebr.: ’Elo·haí. Esta expressão no M inicia este v. com outro Álefe. “Em ti” começa com a letra hebr. Bete.
+====
+
+_ג [Guímel]_
+
+[[v19-25-3]]
+
+^<<v19-25-3,3>>^ Também, nenhum dos que esperam em ti será envergonhado.
+Envergonhados serão os que agem traiçoeiramente sem êxito.
+
+_ד [Dálete]_
+
+[[v19-25-4]]
+
+^<<v19-25-4,4>>^ Faze-me saber os teus próprios caminhos, ó Jeová;
+Ensina-me as tuas próprias veredas.
+
+_ה [Hê]_
+
+[[v19-25-5]]
+
+^<<v19-25-5,5>>^ Faze-me andar na tua verdade e ensina-me,
+Pois tu és o meu Deus de salvação.
+
+_ו [Vau]^&#42;1^_
+
+Em ti esperei o dia inteiro.
+
+_ז [Zaine]_
+
+[[v19-25-6]]
+
+^<<v19-25-6,6>>^ Lembra-te das tuas misericórdias, ó Jeová, e das tuas benevolências,^&#42;1^
+Porque são desde tempo indefinido.
+
+[NOTE]
+====
+. Ou “teus atos de amor leal”.
+====
+
+_ח [Hete]_
+
+[[v19-25-7]]
+
+^<<v19-25-7,7>>^ Não te lembres dos pecados da minha mocidade e das minhas revoltas.
+Lembra-te de mim segundo a tua benevolência,
+Por causa da tua bondade, ó Jeová.
+
+_ט [Tete]_
+
+[[v19-25-8]]
+
+^<<v19-25-8,8>>^ Bom e reto é Jeová.
+Por isso ele instrui os pecadores no caminho.
+
+_י [Iode]_
+
+[[v19-25-9]]
+
+^<<v19-25-9,9>>^ Fará os mansos andar na [sua] decisão judicial
+E ensinará aos mansos o seu caminho.
+
+_כ [Cafe]_
+
+[[v19-25-10]]
+
+^<<v19-25-10,10>>^ Todas as veredas de Jeová são benevolência e veracidade^&#42;1^
+Para os que observam seu pacto^&#42;2^ e suas advertências.
+
+[NOTE]
+====
+. Ou “veridicidade; verdade”.
+. “Seu pacto.” Hebr.: veri·thóh, esta é a primeira ocorrência desta palavra nos Salmos; gr.: di·a·thé·ken; lat.: te·sta·mén·tum. Veja Ap. 7E.
+====
+
+_ל [Lâmede]_
+
+[[v19-25-11]]
+
+^<<v19-25-11,11>>^ Por causa do teu nome, ó Jeová,
+Tens mesmo de perdoar-me o erro, pois é considerável.
+
+_מ [Meme]_
+
+[[v19-25-12]]
+
+^<<v19-25-12,12>>^ Quem, então, é o homem que teme a Jeová?
+Ele o instruirá no caminho [que] escolher.
+
+_נ [Nune]_
+
+[[v19-25-13]]
+
+^<<v19-25-13,13>>^ Sua alma é que terá pousada na própria bondade
+E sua própria descendência^&#42;1^ tomará posse da terra.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+_ס [Sâmeque]_
+
+[[v19-25-14]]
+
+^<<v19-25-14,14>>^ A intimidade com Jeová pertence aos que o temem,
+Também seu pacto, para fazer que o conheçam.
+
+_ע [Aine]_
+
+[[v19-25-15]]
+
+^<<v19-25-15,15>>^ Meus olhos estão constantemente fixos em Jeová,
+Pois é ele quem faz os meus pés sair da rede.
+
+_פ [Pê]_
+
+[[v19-25-16]]
+
+^<<v19-25-16,16>>^ Vira tua face para mim e mostra-me favor;
+Porque estou sozinho^&#42;1^ e atribulado.
+
+[NOTE]
+====
+. Ou “sou o único”. Gr.: mo·no·ge·nés, “o unigênito”, a mesma palavra que em Lu 7:12; Lu 8:42; Jo 3:16.
+====
+
+_צ [Tsadê]_
+
+[[v19-25-17]]
+
+^<<v19-25-17,17>>^ Multiplicaram-se as aflições de meu coração;
+Leva-me para fora dos apertos em que estou.
+
+_ר [Rexe]^&#42;1^_
+
+[[v19-25-18]]
+
+^<<v19-25-18,18>>^ Vê a minha tribulação e a minha desgraça,
+E perdoa todos os meus pecados.
+
+[[v19-25-19]]
+
+^<<v19-25-19,19>>^ ^&#42;1^ Vê como se tornaram muitos os meus inimigos,
+E eles me odiaram com um ódio violento.
+
+[NOTE]
+====
+. Este v., igual ao v. 18, começa com a letra hebr. Rexe, dando no acróstico ênfase dupla em ‘ver’.
+====
+
+_ש [Chim]_
+
+[[v19-25-20]]
+
+^<<v19-25-20,20>>^ Guarda deveras a minha alma e livra-me.
+Não seja eu envergonhado, pois me refugiei em ti.
+
+_ת [Tau]_
+
+[[v19-25-21]]
+
+^<<v19-25-21,21>>^ Resguardem-me a própria integridade e retidão
+Pois tenho esperado em ti.
+
+[[v19-25-22]]
+
+^<<v19-25-22,22>>^ Ó Deus,^&#42;1^ redime Israel de todas as suas aflições.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+'''
+
+xref:019-salmo/019-salmo-024.adoc#v19-24-0[&#60; Capítulo Anterior] | <<v19-25-0,Topo>> | xref:019-salmo/019-salmo-026.adoc#v19-26-0[Próximo Capítulo &#62;]

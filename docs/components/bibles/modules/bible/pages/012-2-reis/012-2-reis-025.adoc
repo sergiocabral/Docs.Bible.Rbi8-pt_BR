@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v12-25-0]]
+=== 2 Reis, 25
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v12-25-1]]
+
+^<<v12-25-1,1>>^ E aconteceu no seu nono ano como rei, no décimo mês, no dia dez do mês, que veio Nabucodonosor, rei de Babilônia, sim, ele e toda a sua força militar contra Jerusalém, e começou a acampar-se contra ela e a construir contra ela um muro de sítio em todo o redor.
+
+[[v12-25-2]]
+
+^<<v12-25-2,2>>^ E a cidade ficou sitiada até o décimo primeiro ano do Rei Zedequias.
+
+[[v12-25-3]]
+
+^<<v12-25-3,3>>^ No nono dia do [quarto] mês^&#42;1^ era severa a fome na cidade, e não se mostrava haver pão para o povo da terra.
+
+[NOTE]
+====
+. “Quarto mês” em Je 52:6; M: “mês”.
+====
+
+[[v12-25-4]]
+
+^<<v12-25-4,4>>^ E a cidade sofreu uma brecha, e todos os homens de guerra [fugiram]^&#42;1^ de noite pelo caminho do portão entre a muralha dupla que há junto ao jardim do rei, enquanto os caldeus estavam em toda a volta, contra a cidade; e [o rei]^&#42;2^ começou a ir na direção do Arabá.
+
+[NOTE]
+====
+. “Fugiram”, em harmonia com Sy e Je 52:7; M omite isso.
+. “Ele começou”, M; Vgc: “Zedequias”; Sy, alguns mss. hebr. e Je 52:7: “começaram”.
+====
+
+[[v12-25-5]]
+
+^<<v12-25-5,5>>^ E a força militar dos caldeus foi no encalço do rei e foram alcançá-lo nas planícies desérticas de Jericó; e toda a sua própria força militar foi espalhada do seu lado.
+
+[[v12-25-6]]
+
+^<<v12-25-6,6>>^ Pegaram então o rei e o levaram para cima ao rei de Babilônia, em Ribla, para que pronunciassem uma decisão judicial sobre ele.
+
+[[v12-25-7]]
+
+^<<v12-25-7,7>>^ E abateram os filhos de Zedequias diante dos seus olhos e cegaram os olhos de Zedequias, prendendo-o depois com grilhões de cobre e levaram-no a Babilônia.
+
+[[v12-25-8]]
+
+^<<v12-25-8,8>>^ E no quinto mês, no [dia] sétimo do mês, isto é, no décimo nono ano do Rei Nabucodonosor, rei de Babilônia, veio a Jerusalém Nebuzaradã, chefe da guarda pessoal, servo do rei de Babilônia.
+
+[[v12-25-9]]
+
+^<<v12-25-9,9>>^ E ele passou a queimar a casa de Jeová e a casa do rei, e todas as casas de Jerusalém; e queimou com fogo a casa de todo homem proeminente.^&#42;1^
+
+[NOTE]
+====
+. Ou “toda casa proeminente”.
+====
+
+[[v12-25-10]]
+
+^<<v12-25-10,10>>^ E as muralhas de Jerusalém, em todo o redor, foram demolidas pela inteira força militar dos caldeus que estava com o chefe da guarda pessoal.
+
+[[v12-25-11]]
+
+^<<v12-25-11,11>>^ E o resto do povo que se deixara ficar na cidade, e os desertores que se tinham passado^&#42;1^ para o rei de Babilônia, e o resto da massa de gente foram levados ao exílio por Nebuzaradã, chefe da guarda pessoal.
+
+[NOTE]
+====
+. Ou “que tinham desertado”. Lit.: “que tinham caído”.
+====
+
+[[v12-25-12]]
+
+^<<v12-25-12,12>>^ E alguns do povo da terra, de condição humilde, foram deixados pelo chefe da guarda pessoal como vinhateiros e como trabalhadores compulsórios.
+
+[[v12-25-13]]
+
+^<<v12-25-13,13>>^ E as colunas de cobre que havia na casa de Jeová, bem como os carrocins e o mar de cobre que estavam na casa de Jeová, os caldeus destroçaram e foram carregar os pedaços deles para Babilônia.
+
+[[v12-25-14]]
+
+^<<v12-25-14,14>>^ E os recipientes, e as pás, e os apagadores, e as taças, e todos os utensílios de cobre com que se costumava ministrar, eles levaram.
+
+[[v12-25-15]]
+
+^<<v12-25-15,15>>^ E o chefe da guarda pessoal tomou os porta-lumes e as tigelas que eram de ouro genuíno e que eram de prata genuína.
+
+[[v12-25-16]]
+
+^<<v12-25-16,16>>^ Quanto às duas colunas, ao único mar e aos carrocins que Salomão tinha feito para a casa de Jeová, aconteceu que não havia meio de se informar o peso do cobre de todos estes utensílios.
+
+[[v12-25-17]]
+
+^<<v12-25-17,17>>^ Dezoito côvados era a altura de cada coluna, e o capitel sobre ela era de cobre; e a altura do capitel era de três^&#42;1^ côvados; e a rede e as romãs em volta do capitel, o conjunto, era de cobre; e a segunda coluna tinha-as iguais a estas sobre a rede.
+
+[NOTE]
+====
+. “Três”, M; TLagardian: “cinco”, como em Je 52:22.
+====
+
+[[v12-25-18]]
+
+^<<v12-25-18,18>>^ Outrossim, o chefe da guarda pessoal tomou a Seraías, o sacerdote principal,^&#42;1^ e a Sofonias,^&#42;2^ o segundo sacerdote, e três guardas das portas;
+
+[NOTE]
+====
+. Lit.: “o sacerdote-cabeça”. Hebr.: ko·hén ha·ró’sh; LXXVg: “o primeiro sacerdote”; Sy: “o sacerdote principal”.
+. Significando “Jeová Escondeu [ou: Entesourou]”. Hebr.: Tsefan·yá·hu.
+====
+
+[[v12-25-19]]
+
+^<<v12-25-19,19>>^ e da cidade tomou um oficial da corte, que tivera o comando sobre os homens de guerra, e cinco homens dos que tiveram acesso ao rei,^&#42;1^ que se achavam na cidade; e o secretário do chefe do exército, aquele que recrutara o povo da terra, e sessenta homens do povo da terra, que se achavam na cidade;
+
+[NOTE]
+====
+. Lit.: “dos que viam a face do rei”.
+====
+
+[[v12-25-20]]
+
+^<<v12-25-20,20>>^ e Nebuzaradã, chefe da guarda pessoal, tomou-os então e conduziu-os ao rei de Babilônia, a Ribla.
+
+[[v12-25-21]]
+
+^<<v12-25-21,21>>^ E o rei de Babilônia passou a golpeá-los e a entregá-los à morte em Ribla, na terra de Hamate. Assim foi exilado Judá do seu solo.
+
+[[v12-25-22]]
+
+^<<v12-25-22,22>>^ Quanto ao povo que ficou atrás na terra de Judá, que Nabucodonosor, rei de Babilônia, deixara atrás, encarregou deles Gedalias,^&#42;1^ filho de Aicão, filho de Safã.
+
+[NOTE]
+====
+. Significando “Grande É Jeová”. Hebr.: Gedhal·yá·hu.
+====
+
+[[v12-25-23]]
+
+^<<v12-25-23,23>>^ Quando todos os chefes das forças militares, eles e seus homens, ouviram que o rei de Babilônia encarregara Gedalias, chegaram imediatamente a Gedalias, em Mispá, isto é, Ismael, filho de Netanias, e Joanã, filho de Careá, e Seraías, filho de Tanumete, o netofatita, e Jaazanias,^&#42;1^ filho do maacatita, eles e seus homens.
+
+[NOTE]
+====
+. “E Jaazanias.” Hebr.: weYa·’azan·yá·hu, significando “Jeová Dá Ouvido”.
+====
+
+[[v12-25-24]]
+
+^<<v12-25-24,24>>^ Então Gedalias jurou a eles e aos seus homens, e disse-lhes: “Não tenhais medo de [ser] servos dos caldeus. Morai no país e servi o rei de Babilônia, e vos irá bem.”
+
+[[v12-25-25]]
+
+^<<v12-25-25,25>>^ E sucedeu no sétimo mês, que veio Ismael, filho de Netanias, filho de Elisama, da descendência real, e com ele também dez homens, e foram golpear a Gedalias de modo que morreu, e também os judeus e os caldeus que estavam com ele em Mispá.
+
+[[v12-25-26]]
+
+^<<v12-25-26,26>>^ Depois disso, todo o povo, do pequeno ao grande, e os chefes das forças militares se levantaram e entraram no Egito; pois ficaram com medo dos caldeus.
+
+[[v12-25-27]]
+
+^<<v12-25-27,27>>^ E sucedeu, no trigésimo sétimo ano do exílio de Joaquim, rei de Judá, no décimo segundo mês, no dia vinte e sete do mês, que Evil-Merodaque, rei de Babilônia, no ano em que se tornou rei, levantou a cabeça de Joaquim, rei de Judá, da casa de detenção;
+
+[[v12-25-28]]
+
+^<<v12-25-28,28>>^ e começou a falar com ele coisas boas e então pôs o seu trono mais alto do que os tronos dos reis que estavam com ele em Babilônia.
+
+[[v12-25-29]]
+
+^<<v12-25-29,29>>^ E tirou-lhe as suas roupas de prisão; e comeu constantemente pão diante dele todos os dias da sua vida.
+
+[[v12-25-30]]
+
+^<<v12-25-30,30>>^ Quanto à sua subsistência, dava-se-lhe constantemente a subsistência da parte do rei, diariamente, como porção devida,^&#42;1^ todos os dias da sua vida.
+
+[NOTE]
+====
+. Lit.: “a coisa dum dia no seu dia”.
+====
+
+'''
+
+xref:012-2-reis/012-2-reis-024.adoc#v12-24-0[&#60; Capítulo Anterior] | <<v12-25-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-001.adoc#v13-1-0[Próximo Capítulo &#62;]

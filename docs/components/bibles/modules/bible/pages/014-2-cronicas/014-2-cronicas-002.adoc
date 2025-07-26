@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v14-2-0]]
+=== 2 Crônicas, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v14-2-1]]
+
+^<<v14-2-1,1>>^ Salomão deu então a palavra para que se construísse uma casa ao nome de Jeová e uma casa para o seu reinado.^&#42;1^
+
+[NOTE]
+====
+. MLXX terminam aqui o capítulo 1.
+====
+
+[[v14-2-2]]
+
+^<<v14-2-2,2>>^ Por conseguinte, Salomão contou setenta mil homens como carregadores e oitenta mil homens como talhadores no monte, e três mil e seiscentos como supervisores.
+
+[[v14-2-3]]
+
+^<<v14-2-3,3>>^ Além disso, Salomão mandou dizer a Hirão,^&#42;1^ rei de Tiro: “Assim como procedeste para com Davi, meu pai, e continuaste a enviar-lhe madeira de cedro, a fim de que construísse para si uma casa para morar —
+
+[NOTE]
+====
+. “Hirão”, LXXSyVg, alguns mss. hebr. e 1Cr 14:1; M: “Hurão”.
+====
+
+[[v14-2-4]]
+
+^<<v14-2-4,4>>^ eis que estou construindo uma casa ao nome de Jeová, meu Deus, para santificá-la a ele, para queimar incenso perfumado diante dele, com o contínuo pão de pilha e com ofertas queimadas, de manhã e à noitinha, nos sábados e nas luas novas, e nas épocas festivas de Jeová, nosso Deus. Isto caberá a Israel por tempo indefinido.
+
+[[v14-2-5]]
+
+^<<v14-2-5,5>>^ E a casa que estou construindo será grande, porque o nosso Deus^&#42;1^ é maior do que todos os [outros] deuses.^&#42;2^
+
+[NOTE]
+====
+. “Nosso Deus.” Hebr.: ’Elo·héh·nu, pl. de ’Elóh·ah, para denotar majestade e poderes divinos.
+. “Os [outros] deuses.” Hebr.: ha·’elo·hím; gr.: the·oús; lat.: dé·os.
+====
+
+[[v14-2-6]]
+
+^<<v14-2-6,6>>^ E quem pode reter poder para construir-lhe uma casa? Pois os céus e o céu dos céus não o podem conter, e quem sou eu para lhe construir uma casa a não ser para fazer fumaça sacrificial diante dele?
+
+[[v14-2-7]]
+
+^<<v14-2-7,7>>^ E agora, envia-me um homem hábil para trabalhar em ouro, e em prata, e em cobre, e em ferro, e em lã tingida de roxo, e em carmesim, e em linha azul, e que saiba entalhar gravuras junto com os hábeis que há comigo em Judá e em Jerusalém, que Davi, meu pai, preparou.
+
+[[v14-2-8]]
+
+^<<v14-2-8,8>>^ E envia-me do Líbano madeiras de cedro, de junípero e de algum,^&#42;1^ pois eu mesmo sei muito bem que teus servos são experientes^&#42;2^ em cortar as árvores do Líbano, (e eis que os meus servos estão juntos com os teus servos,)
+
+[NOTE]
+====
+. “E de algum.” Hebr.: we’al·gum·mím.
+. Lit.: “são entendidos”.
+====
+
+[[v14-2-9]]
+
+^<<v14-2-9,9>>^ sim, para me prepararem madeiras em grande quantidade, porque a casa que estou construindo será grande, sim, de modo maravilhoso.
+
+[[v14-2-10]]
+
+^<<v14-2-10,10>>^ E eis que dou deveras trigo aos ajuntadores de lenha, aos cortadores das árvores, como mantimento^&#42;1^ para os teus servos, vinte mil coros, e vinte mil coros de cevada, e vinte mil batos de vinho, e vinte mil batos de azeite.”
+
+[NOTE]
+====
+. “Mantimento”, mediante uma ligeira correção do M em harmonia com TSyVg e 1Rs 5:11.
+====
+
+[[v14-2-11]]
+
+^<<v14-2-11,11>>^ Então, Hirão, rei de Tiro, deu [a palavra] por escrito e enviou-a a Salomão: “Por Jeová ter amado seu povo, constituiu-te rei sobre eles.”
+
+[[v14-2-12]]
+
+^<<v14-2-12,12>>^ E Hirão^&#42;1^ prosseguiu, dizendo: “Bendito seja Jeová, o Deus de Israel, que fez os céus e a terra, porque deu a Davi, o rei, um filho sábio, experiente em discrição e em compreensão, que construirá uma casa a Jeová e uma casa para o seu reinado.
+
+[NOTE]
+====
+. Veja v. 3 n.
+====
+
+[[v14-2-13]]
+
+^<<v14-2-13,13>>^ E agora envio deveras um homem hábil, experiente em compreensão, pertencente a Hirão-Abi,^&#42;1^
+
+[NOTE]
+====
+. Ou “a Hirão, meu pai”. Lit.: “a Hurão, meu pai”. Hebr.: leHhu·rám ’a·ví. Veja 4:16 n.
+====
+
+[[v14-2-14]]
+
+^<<v14-2-14,14>>^ filho duma mulher dos filhos de Dã, mas cujo pai foi um homem de Tiro, experiente, para trabalhar em ouro e em prata, em cobre, em ferro, em pedras e em madeiras, em lã tingida de roxo, em linha azul e em tecido fino, e em carmesim, e em entalhar toda sorte de gravuras, e em elaborar toda sorte de projetos que se lhe dêem, junto com os teus próprios homens hábeis e com os homens hábeis de meu senhor Davi, teu pai.
+
+[[v14-2-15]]
+
+^<<v14-2-15,15>>^ E agora, o trigo e a cevada, o azeite e o vinho que meu senhor prometeu, envie-o ele aos seus servos.
+
+[[v14-2-16]]
+
+^<<v14-2-16,16>>^ Quanto a nós mesmos, cortaremos árvores do Líbano conforme toda a tua necessidade, e nós as levaremos a ti como jangadas por mar até Jope, e tu, da tua parte, as levarás para cima a Jerusalém.”
+
+[[v14-2-17]]
+
+^<<v14-2-17,17>>^ Salomão fez então a contagem de todos os homens que eram residentes forasteiros,^&#42;1^ que estavam na terra de Israel, depois do censo que Davi, seu pai, fizera deles; e vieram achar-se cento e cinqüenta e três mil e seiscentos.
+
+[NOTE]
+====
+. “Que eram residentes forasteiros.” Ou “os residentes temporários”. Hebr.: hag·geh·rím; LXXVg: “os prosélitos”.
+====
+
+[[v14-2-18]]
+
+^<<v14-2-18,18>>^ De modo que fez setenta mil deles carregadores e oitenta mil talhadores no monte, e três mil e seiscentos supervisores para manter o povo no serviço.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-001.adoc#v14-1-0[&#60; Capítulo Anterior] | <<v14-2-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-003.adoc#v14-3-0[Próximo Capítulo &#62;]

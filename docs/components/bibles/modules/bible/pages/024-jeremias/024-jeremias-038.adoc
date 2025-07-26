@@ -1,0 +1,154 @@
+include::./index.adoc[]
+
+[[v24-38-0]]
+=== Jeremias, 38
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-38-1]]
+
+^<<v24-38-1,1>>^ E Sefatias, filho de Matã, e Gedalias,^&#42;1^ filho de Pasur, e Jucal, filho de Selemias,^&#42;2^ e Pasur, filho de Malquijá, chegaram a ouvir as palavras que Jeremias falava a todo o povo, dizendo:
+
+[NOTE]
+====
+. “E Gedalias.” Hebr.: u·Ghedhal·yá·hu, significando “Grande É Jeová”.
+. Veja 36:14 n.: “Selemias”.
+====
+
+[[v24-38-2]]
+
+^<<v24-38-2,2>>^ “Assim disse Jeová: ‘Quem continuar a morar nesta cidade é o que morrerá pela espada, pela fome e pela pestilência. Mas quem sair aos caldeus é o que continuará vivendo e certamente virá a ter a sua alma por despojo e viva.’
+
+[[v24-38-3]]
+
+^<<v24-38-3,3>>^ Assim disse Jeová: ‘Sem falta, esta cidade será entregue na mão da força militar do rei de Babilônia e ele certamente a capturará.’”
+
+[[v24-38-4]]
+
+^<<v24-38-4,4>>^ E os príncipes começaram a dizer ao rei: “Por favor, seja morto este homem,^&#42;1^ pois assim ele enfraquece as mãos dos homens de guerra que restam nesta cidade e as mãos de todo o povo, falando-lhes segundo estas palavras. Pois este homem não é um que busca a paz deste povo, mas a calamidade.”
+
+[NOTE]
+====
+. “Este homem.” Hebr.: ha·’ísh haz·zéh.
+====
+
+[[v24-38-5]]
+
+^<<v24-38-5,5>>^ De modo que o Rei Zedequias disse: “Eis que está nas vossas mãos. Pois não há nada em que o próprio rei possa prevalecer contra vós.”
+
+[[v24-38-6]]
+
+^<<v24-38-6,6>>^ E passaram a tomar Jeremias e a lançá-lo na cisterna de Malquijá,^&#42;1^ filho do rei, que havia no Pátio da Guarda. Portanto, desceram Jeremias por meio de cordas. Ora, não havia água na cisterna, mas lama; e Jeremias começou a afundar na lama.
+
+[NOTE]
+====
+. Significando “Meu Rei É Jeová”. Hebr.: Mal·ki·yá·hu.
+====
+
+[[v24-38-7]]
+
+^<<v24-38-7,7>>^ E Ebede-Meleque, o etíope,^&#42;1^ homem que era eunuco e que estava na casa do rei, chegou a ouvir que tinham posto Jeremias na cisterna; e o rei estava sentado no Portão de Benjamim.
+
+[NOTE]
+====
+. “Etíope”, LXXVg; MSy: “cusita”.
+====
+
+[[v24-38-8]]
+
+^<<v24-38-8,8>>^ Portanto, Ebede-Meleque saiu da casa do rei e falou ao rei, dizendo:
+
+[[v24-38-9]]
+
+^<<v24-38-9,9>>^ “Ó meu senhor, o rei, estes homens fizeram mal em tudo o que fizeram a Jeremias, o profeta, a quem lançaram na cisterna, de modo que ele morrerá ali onde está, por causa da fome. Pois não há mais pão na cidade.”
+
+[[v24-38-10]]
+
+^<<v24-38-10,10>>^ O rei deu então ordens a Ebede-Meleque, o etíope, dizendo: “Toma conta^&#42;1^ de trinta homens deste lugar, e tens de retirar Jeremias, o profeta, da cisterna, antes que ele morra.”
+
+[NOTE]
+====
+. Lit.: “na tua mão”. Hebr.: beyodh·khá.
+====
+
+[[v24-38-11]]
+
+^<<v24-38-11,11>>^ Concordemente, Ebede-Meleque tomou conta dos homens e entrou na casa do rei, por debaixo da tesouraria, e tirou de lá trapos velhos e panos velhos, e desceu-os a Jeremias, na cisterna, por meio de cordas.
+
+[[v24-38-12]]
+
+^<<v24-38-12,12>>^ Ebede-Meleque, o etíope, disse então a Jeremias: “Por favor, põe os trapos velhos e os panos sob as tuas axilas, debaixo das cordas.” Jeremias fez então assim.
+
+[[v24-38-13]]
+
+^<<v24-38-13,13>>^ Por fim puxaram a Jeremias por meio das cordas e tiraram-no da cisterna. E Jeremias continuou a morar no Pátio da Guarda.
+
+[[v24-38-14]]
+
+^<<v24-38-14,14>>^ E o Rei Zedequias passou a mandar trazer a si Jeremias, o profeta, à terceira entrada que há na casa de Jeová, e o rei disse então a Jeremias: “Eu te pergunto uma coisa. Não me ocultes nada.”
+
+[[v24-38-15]]
+
+^<<v24-38-15,15>>^ A isto disse Jeremias a Zedequias: “Caso eu to disser, não me entregarás sem falta à morte? E caso eu te aconselhar, não me escutarás.”
+
+[[v24-38-16]]
+
+^<<v24-38-16,16>>^ Então jurou o Rei Zedequias a Jeremias no esconderijo, dizendo: “Por Jeová que vive, que fez para nós esta alma, não vou entregar-te à morte e não vou entregar-te na mão destes homens que procuram a tua alma.”
+
+[[v24-38-17]]
+
+^<<v24-38-17,17>>^ Jeremias disse então a Zedequias: “Assim disse Jeová, o Deus dos exércitos, o Deus de Israel: ‘Se tu, sem falta, saíres para ir ter com os príncipes do rei de Babilônia, então a tua alma certamente continuará a viver e esta mesma cidade não será queimada com fogo, e tu mesmo e os da tua casa certamente continuarão vivendo.
+
+[[v24-38-18]]
+
+^<<v24-38-18,18>>^ Mas, se não saíres para ir ter com os príncipes do rei de Babilônia, então esta cidade terá de ser entregue na mão dos caldeus e eles realmente a queimarão com fogo, e tu mesmo não escaparás da sua mão.’”
+
+[[v24-38-19]]
+
+^<<v24-38-19,19>>^ O Rei Zedequias disse então a Jeremias: “Tenho receio dos judeus que se bandearam para os caldeus, de que me entreguem na sua mão e eles realmente abusem de mim.”
+
+[[v24-38-20]]
+
+^<<v24-38-20,20>>^ Mas Jeremias disse: “Não farão tal entrega. Obedece, por favor, à voz de Jeová naquilo que te falo e te irá bem, e tua alma continuará a viver.
+
+[[v24-38-21]]
+
+^<<v24-38-21,21>>^ Mas, se te negares a sair, esta é a coisa que Jeová me fez ver:
+
+[[v24-38-22]]
+
+^<<v24-38-22,22>>^ E eis que todas as mulheres que restaram na casa do rei de Judá estão sendo levadas para fora aos príncipes do rei de Babilônia, e estão dizendo:
+‘Os homens em paz contigo te engodaram e prevaleceram sobre ti.
+Fizeram teu pé afundar na própria lameira; retrocederam na direção oposta.’
+
+[[v24-38-23]]
+
+^<<v24-38-23,23>>^ E estão levando todas as tuas esposas e teus filhos aos caldeus, e tu mesmo não escaparás da sua mão, mas a mão do rei de Babilônia te pegará e por tua causa esta cidade será queimada^&#42;1^ com fogo.”
+
+[NOTE]
+====
+. Lit.: “e queimarás esta cidade”, M; TLXXSy: “e esta cidade será queimada”.
+====
+
+[[v24-38-24]]
+
+^<<v24-38-24,24>>^ E Zedequias passou a dizer a Jeremias: “Que absolutamente nenhum homem fique sabendo destas coisas, para que não morras.
+
+[[v24-38-25]]
+
+^<<v24-38-25,25>>^ E se os príncipes ouvirem que falei contigo e realmente chegarem a ti e te disserem: ‘Conta-nos, por favor: De que falaste ao rei? Não nos ocultes nada, e nós não te entregaremos à morte. E de que te falou o rei?’
+
+[[v24-38-26]]
+
+^<<v24-38-26,26>>^ então terás de dizer-lhes: ‘Eu estava lançando meu pedido de favor perante o rei, que não me mandasse de volta à casa de Jeonatã para morrer ali.’”
+
+[[v24-38-27]]
+
+^<<v24-38-27,27>>^ Com o tempo, todos os príncipes entraram até Jeremias e começaram a interrogá-lo. Ele, por sua vez, contou-lhes todas aquelas palavras que o rei lhe ordenara. Portanto, ficaram calados diante dele, pois nada transpirara do assunto.
+
+[[v24-38-28]]
+
+^<<v24-38-28,28>>^ E Jeremias continuou morando no Pátio da Guarda até o dia em que Jerusalém foi capturada. E isso aconteceu justamente quando se capturou Jerusalém.
+
+'''
+
+xref:024-jeremias/024-jeremias-037.adoc#v24-37-0[&#60; Capítulo Anterior] | <<v24-38-0,Topo>> | xref:024-jeremias/024-jeremias-039.adoc#v24-39-0[Próximo Capítulo &#62;]

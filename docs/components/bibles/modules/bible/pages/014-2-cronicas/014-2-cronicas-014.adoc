@@ -1,0 +1,96 @@
+include::./index.adoc[]
+
+[[v14-14-0]]
+=== 2 Crônicas, 14
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v14-14-1]]
+
+^<<v14-14-1,1>>^ Por fim, Abias deitou-se com os seus antepassados, e enterraram-no na Cidade de Davi; e Asa, seu filho, começou a reinar em seu lugar. Nos seus dias o país teve sossego por dez anos.^&#42;1^
+
+[NOTE]
+====
+. MLXX terminam aqui o capítulo 13.
+====
+
+[[v14-14-2]]
+
+^<<v14-14-2,2>>^ E Asa passou a fazer o que era bom e direito aos olhos de Jeová, seu Deus.
+
+[[v14-14-3]]
+
+^<<v14-14-3,3>>^ Portanto, removeu os altares estrangeiros^&#42;1^ e os altos, e destroçou as colunas sagradas, e cortou os postes sagrados.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “os altares do (país) estrangeiro”.
+. Ou “as Axerás”.
+====
+
+[[v14-14-4]]
+
+^<<v14-14-4,4>>^ Ademais, ele disse a Judá que buscassem a Jeová, o Deus de seus antepassados e cumprissem a lei e os mandamentos.
+
+[[v14-14-5]]
+
+^<<v14-14-5,5>>^ Conseqüentemente, removeu de todas as cidades de Judá os altos e os pedestais-incensários; e o reino continuou a ter sossego diante dele.
+
+[[v14-14-6]]
+
+^<<v14-14-6,6>>^ E prosseguiu, construindo cidades fortificadas em Judá, pois o país teve sossego; e não houve guerra contra ele durante estes anos, porque Jeová lhe deu descanso.
+
+[[v14-14-7]]
+
+^<<v14-14-7,7>>^ Portanto, ele disse a Judá: “Construamos estas cidades e façamos muralhas ao redor, bem como torres, portas duplas e trancas. A terra ainda nos está disponível, porque temos buscado a Jeová, nosso Deus. Buscamos, e ele nos dá descanso em todo o redor.” E seguiram construindo e mostrando-se bem sucedidos.
+
+[[v14-14-8]]
+
+^<<v14-14-8,8>>^ E Asa veio a ter uma força militar carregando escudo grande e lança, trezentos mil de Judá. E de Benjamim os que carregavam o broquel e entesavam o arco eram duzentos e oitenta mil. Todos estes eram homens poderosos, valentes.
+
+[[v14-14-9]]
+
+^<<v14-14-9,9>>^ Mais tarde saiu contra eles Zerá, o etíope,^&#42;1^ com uma força militar de um milhão^&#42;2^ de homens e trezentos carros, e ele chegou até Maressa.
+
+[NOTE]
+====
+. “Etíope”, LXXVg; M: “cusita”.
+. Lit.: “mil milhares”.
+====
+
+[[v14-14-10]]
+
+^<<v14-14-10,10>>^ Asa saiu então contra ele,^&#42;1^ e puseram-se em formação de batalha no vale de Zefata, em Maressa.
+
+[NOTE]
+====
+. Lit.: “diante dele”, M; gr.: eis sy·nán·te·sin au·toí; Vgc(lat.): ób·vi·am é·i. Veja Gên 10:9 n.: “em oposição a”.
+====
+
+[[v14-14-11]]
+
+^<<v14-14-11,11>>^ E Asa começou a invocar a Jeová, seu Deus, e a dizer: “Ó Jeová, no que se refere a ajudar, não te importa se há muitos ou [os] sem poder. Ajuda-nos, ó Jeová, nosso Deus, porque em ti nos estribamos e em teu nome viemos contra esta massa de gente. Ó Jeová, tu és o nosso Deus. Não deixes que algum homem mortal^&#42;1^ retenha força contra ti.”
+
+[NOTE]
+====
+. “Homem mortal.” Hebr.: ’enóhsh; gr.: án·thro·pos; lat.: hó·mo.
+====
+
+[[v14-14-12]]
+
+^<<v14-14-12,12>>^ Em vista disso, Jeová derrotou os etíopes diante de Asa e diante de Judá, e os etíopes puseram-se em fuga.
+
+[[v14-14-13]]
+
+^<<v14-14-13,13>>^ E Asa e o povo que estava com ele foram persegui-los até Gerar, e os dos etíopes continuaram a cair até que não havia mais nenhum deles vivo; porque foram destroçados diante de Jeová e diante do seu acampamento. Depois trouxeram muitíssimo despojo.
+
+[[v14-14-14]]
+
+^<<v14-14-14,14>>^ Além disso, golpearam todas as cidades ao redor de Gerar, porque lhes sobreviera o pavor de Jeová; e puseram-se a saquear todas as cidades, pois sucedeu haver nelas muito saque.
+
+[[v14-14-15]]
+
+^<<v14-14-15,15>>^ E golpearam até mesmo as tendas com o gado, de modo que levaram cativos a rebanhos em grande número, bem como camelos, após o que retornaram a Jerusalém.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-013.adoc#v14-13-0[&#60; Capítulo Anterior] | <<v14-14-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-015.adoc#v14-15-0[Próximo Capítulo &#62;]

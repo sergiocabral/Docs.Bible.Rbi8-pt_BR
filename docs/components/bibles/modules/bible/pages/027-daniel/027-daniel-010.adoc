@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v27-10-0]]
+=== Daniel, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v27-10-1]]
+
+^<<v27-10-1,1>>^ No terceiro ano de Ciro,^&#42;1^ rei da Pérsia, revelou-se um assunto a Daniel, que era chamado pelo nome de Beltessazar; e o assunto era verdadeiro,^&#42;2^ e havia um grande serviço militar. E ele entendeu o assunto e teve compreensão da coisa vista.
+
+[NOTE]
+====
+. “De Ciro.” Hebr.: leKhóh·resh; gr.: Ký·rou; lat.: Cý·ri.
+. Lit.: “e . . . verdade”. Hebr.: we·’eméth.
+====
+
+[[v27-10-2]]
+
+^<<v27-10-2,2>>^ Aconteceu que naqueles dias eu, Daniel, pranteei por três semanas inteiras.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “três semanas de dias”. Hebr.: shelo·sháh sha·vu·‛ím ya·mím.
+====
+
+[[v27-10-3]]
+
+^<<v27-10-3,3>>^ Não comi pão saboroso, nem entrou carne ou vinho na minha boca, e não me untei de maneira alguma até o término das três semanas inteiras.
+
+[[v27-10-4]]
+
+^<<v27-10-4,4>>^ E no vigésimo quarto dia do primeiro mês, enquanto eu vim a estar à margem do grande rio, isto é, o Hídequel,^&#42;1^
+
+[NOTE]
+====
+. “Hídequel.” Hebr.: Hhid·dá·qel; LXXVg: “Tigre”; Sy: “Eufrates”.
+====
+
+[[v27-10-5]]
+
+^<<v27-10-5,5>>^ passei também a levantar os meus olhos e a ver, e eis que havia certo homem^&#42;1^ vestido de linho, tendo os quadris cingidos de ouro^&#42;2^ de Ufaz.^&#42;3^
+
+[NOTE]
+====
+. Lit.: “um [só] homem”. Hebr.: ’ish-’e·hhádh.
+. “De ouro.” Hebr.: bekhé·them, um estrangeirismo egípcio.
+. “Ufaz.” Hebr.: ’U·fáz; lat.: o·brí·zo, “refinado”.
+====
+
+[[v27-10-6]]
+
+^<<v27-10-6,6>>^ E seu corpo era como crisólito, e sua face tinha o aspecto do relâmpago, e seus olhos eram como tochas acesas, e seus braços e o lugar de seus pés tinham a aparência de cobre brunido, e o som das suas palavras era como o som duma massa de gente.
+
+[[v27-10-7]]
+
+^<<v27-10-7,7>>^ E somente eu, Daniel, vi a aparição; mas, quanto aos homens^&#42;1^ que vieram a estar comigo, não viram a aparição. Entretanto, houve um grande tremor que caiu sobre eles, de modo que fugiram para se esconder.
+
+[NOTE]
+====
+. “Mas, quanto aos homens.” Hebr.: weha·’ana·shím, pl. de ’ish.
+====
+
+[[v27-10-8]]
+
+^<<v27-10-8,8>>^ E eu — eu fiquei sozinho, de modo que vi esta grande aparição. E não me restou nenhum poder, e a minha própria dignidade se transformou sobre mim em ruína, e não retive nenhum poder.
+
+[[v27-10-9]]
+
+^<<v27-10-9,9>>^ E comecei a ouvir o som das suas palavras; e enquanto eu ouvia o som das suas palavras, aconteceu também que eu estava profundamente adormecido sobre a minha face, com a face por terra.
+
+[[v27-10-10]]
+
+^<<v27-10-10,10>>^ E eis que me tocou uma mão, e ela gradualmente me sacudiu para que [eu me pusesse] sobre os meus joelhos e sobre as palmas das minhas mãos.
+
+[[v27-10-11]]
+
+^<<v27-10-11,11>>^ E ele passou a dizer-me:
+“Ó Daniel, homem mui desejável,^&#42;1^ tem entendimento das palavras que te falo e põe-te de pé onde estavas parado, pois agora fui enviado a ti.”
+E quando falou comigo esta palavra, pus-me de pé, tiritando.
+
+[NOTE]
+====
+. Lit.: “homem de coisas desejáveis”. Hebr.: ’ish-hhamu·dhóhth.
+====
+
+[[v27-10-12]]
+
+^<<v27-10-12,12>>^ E ele prosseguiu, dizendo-me: “Não tenhas medo, ó Daniel, pois desde o primeiro dia em que fixaste teu coração no entendimento e te humilhaste perante o teu Deus,^&#42;1^ foram ouvidas as tuas palavras, e eu mesmo vim por causa das tuas palavras.
+
+[NOTE]
+====
+. “Teu Deus.” Hebr.: ’Elo·heí·kha.
+====
+
+[[v27-10-13]]
+
+^<<v27-10-13,13>>^ Mas o príncipe^&#42;1^ do domínio real da Pérsia opôs-se a mim por vinte e um dias, e eis que veio ajudar-me Miguel,^&#42;2^ um dos mais destacados^&#42;3^ príncipes; e eu, da minha parte, permaneci^&#42;4^ ali ao lado dos reis da Pérsia.
+
+[NOTE]
+====
+. “Mas o príncipe do.” Hebr.: wesár; LXXBagster(gr.): ár·khon; lat.: prín·ceps.
+. “Miguel”, M(hebr.: Mi·kha·’él)LXXSyVg; significando: “Quem É Semelhante a Deus?”
+. Ou “primeiros”.
+. “Eu, da minha parte, permaneci”, MVg; LXX: “a ele deixei”.
+====
+
+[[v27-10-14]]
+
+^<<v27-10-14,14>>^ E vim para fazer-te compreender o que sobrevirá ao povo na parte final dos dias, porque é uma visão ainda para dias [vindouros].”
+
+[[v27-10-15]]
+
+^<<v27-10-15,15>>^ Então, falando-me ele com tais palavras, eu pus a minha face para a terra e fiquei sem fala.
+
+[[v27-10-16]]
+
+^<<v27-10-16,16>>^ E eis que alguém da semelhança dos filhos da humanidade^&#42;1^ tocou-me os lábios, e comecei a abrir a minha boca e a falar e a dizer àquele que estava de pé na minha frente: “Ó meu senhor,^&#42;2^ por causa da aparição reviraram-me as convulsões no íntimo e não retive poder nenhum.
+
+[NOTE]
+====
+. Ou “dos filhos de homens terrenos”. Hebr.: benéh ’a·dhám.
+. “Ó meu senhor.” Heb. ’adho·ní; lat.: dó·mi·ne mi.
+====
+
+[[v27-10-17]]
+
+^<<v27-10-17,17>>^ Portanto, como é que podia o servo deste meu senhor falar com este meu senhor? E, quanto a mim, até agora não ficou em mim poder e não permaneceu nenhum fôlego em mim.”
+
+[[v27-10-18]]
+
+^<<v27-10-18,18>>^ E aquele que tinha a aparência de homem terreno^&#42;1^ passou a tocar-me novamente e a fortalecer-me.
+
+[NOTE]
+====
+. Ou “de homem”. Hebr.: ’a·dhám; gr.: an·thró·pou; lat.: hó·mi·nis.
+====
+
+[[v27-10-19]]
+
+^<<v27-10-19,19>>^ Então disse: “Não tenhas medo, ó homem mui desejável.^&#42;1^ Paz seja contigo. Sê forte, sim, sê forte.” E assim que falara comigo esforcei-me e finalmente eu disse: “Fale meu senhor, pois fortaleceste-me.”
+
+[NOTE]
+====
+. Veja v. 11 n.
+====
+
+[[v27-10-20]]
+
+^<<v27-10-20,20>>^ De modo que prosseguiu, dizendo:
+“Sabes realmente por que cheguei a ti? E agora voltarei para lutar com o príncipe^&#42;1^ da Pérsia. Quando eu partir, eis que virá também o príncipe da Grécia.^&#42;2^
+
+[NOTE]
+====
+. “Príncipe da.” Hebr.: sar; LXXBagster(gr.): ár·khon·tos; lat.: prín·ci·pem.
+. “Grécia.” Hebr.: Ya·wán, “Javã”. Veja 8:21 n.
+====
+
+[[v27-10-21]]
+
+^<<v27-10-21,21>>^ No entanto, eu te contarei as coisas escritas na escritura da verdade, e não há ninguém que se mantenha forte comigo nestas [coisas] exceto Miguel,^&#42;1^ vosso príncipe.
+
+[NOTE]
+====
+. Veja v. 13 n.: “Miguel”.
+====
+
+'''
+
+xref:027-daniel/027-daniel-009.adoc#v27-9-0[&#60; Capítulo Anterior] | <<v27-10-0,Topo>> | xref:027-daniel/027-daniel-011.adoc#v27-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v7-21-0]]
+=== Juízes, 21
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v7-21-1]]
+
+^<<v7-21-1,1>>^ Ora, os homens de Israel haviam jurado em Mispá, dizendo: “Nenhum homem nosso dará a sua filha a Benjamim por esposa.”
+
+[[v7-21-2]]
+
+^<<v7-21-2,2>>^ Por conseguinte, o povo veio a Betel, e eles ficaram sentados ali diante do [verdadeiro] Deus até à noitinha, e continuaram a levantar a sua voz e a entregar-se a muito choro.
+
+[[v7-21-3]]
+
+^<<v7-21-3,3>>^ E diziam: “Ó Jeová, Deus de Israel, por que aconteceu isso em Israel, que uma tribo esteja hoje faltando a Israel?”
+
+[[v7-21-4]]
+
+^<<v7-21-4,4>>^ E sucedeu, no dia seguinte, que o povo passou a subir cedo e a construir ali um altar, e passaram a oferecer ofertas queimadas e ofertas de participação em comum.
+
+[[v7-21-5]]
+
+^<<v7-21-5,5>>^ Então disseram os filhos de Israel: “Quem dentre todas as tribos de Israel não subiu na congregação^&#42;1^ a Jeová, pois há um grande juramento referente àquele que não subisse a Jeová em Mispá, dizendo: ‘Seja sem falta entregue à morte.’”
+
+[NOTE]
+====
+.  “Congregação.” Gr.: ek·kle·sí·ai.
+====
+
+[[v7-21-6]]
+
+^<<v7-21-6,6>>^ E os filhos de Israel começaram a sentir-se pesarosos por causa de Benjamim, seu irmão. Por isso disseram: “Hoje foi cortada uma tribo de Israel.
+
+[[v7-21-7]]
+
+^<<v7-21-7,7>>^ Que devemos fazer quanto a esposas para os que sobraram, visto que nós mesmos temos jurado por Jeová não lhes dar nenhumas das nossas filhas por esposas?”
+
+[[v7-21-8]]
+
+^<<v7-21-8,8>>^ E prosseguiram, dizendo: “Qual das tribos de Israel não subiu a Jeová em Mispá?” E eis que ninguém de Jabes-Gileade viera ao acampamento, à congregação.
+
+[[v7-21-9]]
+
+^<<v7-21-9,9>>^ Quando se contou o povo, ora, eis que não havia ali nenhum homem dos habitantes de Jabes-Gileade.
+
+[[v7-21-10]]
+
+^<<v7-21-10,10>>^ Portanto, a assembléia passou a enviar para lá doze mil dos homens mais valentes^&#42;1^ e a ordenar-lhes, dizendo: “Ide, e tendes de golpear os habitantes de Jabes-Gileade com o fio da espada, até mesmo as mulheres^&#42;2^ e os pequeninos.
+
+[NOTE]
+====
+. Lit.: “doze mil homens dos filhos de valor”.
+. Ou “esposas”.
+====
+
+[[v7-21-11]]
+
+^<<v7-21-11,11>>^ E esta é a coisa que deveis fazer: Todo macho e toda mulher que já teve a experiência de se deitar com um macho deveis devotar à destruição.”
+
+[[v7-21-12]]
+
+^<<v7-21-12,12>>^ No entanto, acharam dentre os habitantes de Jabes-Gileade quatrocentas moças, virgens, que nunca tiveram relações com algum homem, deitando-se com um macho. Trouxeram-nas, pois, ao acampamento em Silo, que se acha na terra de Canaã.
+
+[[v7-21-13]]
+
+^<<v7-21-13,13>>^ E toda a assembléia mandou então falar aos filhos de Benjamim que estavam no rochedo de Rimom e oferecer-lhes paz.
+
+[[v7-21-14]]
+
+^<<v7-21-14,14>>^ Concordemente, Benjamim voltou naquele tempo. Deram-lhes então as mulheres que preservaram vivas dentre as mulheres de Jabes-Gileade; mas não acharam bastante para eles.
+
+[[v7-21-15]]
+
+^<<v7-21-15,15>>^ E o povo sentiu-se pesaroso por causa de Benjamim, porque Jeová havia feito uma brecha entre as tribos de Israel.
+
+[[v7-21-16]]
+
+^<<v7-21-16,16>>^ Por isso disseram os anciãos da assembléia: “Que faremos quanto a esposas para os homens que sobraram, visto que as mulheres de Benjamim foram aniquiladas?”
+
+[[v7-21-17]]
+
+^<<v7-21-17,17>>^ Então disseram: “Deve haver uma posse para os que escaparam de Benjamim, a fim de que não se extinga de Israel uma tribo.
+
+[[v7-21-18]]
+
+^<<v7-21-18,18>>^ Quanto a nós, não se nos permite dar-lhes esposas dentre as nossas filhas, visto que os filhos de Israel juraram, dizendo: ‘Maldito aquele que der uma esposa a Benjamim.’”
+
+[[v7-21-19]]
+
+^<<v7-21-19,19>>^ Por fim disseram: “Eis que há de ano em ano uma festividade de Jeová em Silo, que se acha ao norte de Betel, para o leste da estrada principal que sobe de Betel a Siquém, e para o sul de Lebona.”
+
+[[v7-21-20]]
+
+^<<v7-21-20,20>>^ Ordenaram assim aos filhos de Benjamim, dizendo: “Ide, e tendes de ficar de emboscada nos vinhedos.
+
+[[v7-21-21]]
+
+^<<v7-21-21,21>>^ E tendes de olhar, e eis aí, saindo as filhas de Silo para dançar em rodas, então tendes de sair dos vinhedos e tendes de arrebatar para vós, cada um a sua esposa dentre as filhas de Silo e tendes de ir para a terra de Benjamim.
+
+[[v7-21-22]]
+
+^<<v7-21-22,22>>^ E tem de dar-se que, se vierem seus pais ou seus irmãos para pleitearem uma causa contra nós,^&#42;1^ então havemos^&#42;2^ de dizer-lhes: ‘Fazei-nos um favor por sua causa, pois não tomamos para cada um a sua esposa por meio de guerra, visto que não fostes vós que [as] destes a eles num tempo em que vos^&#42;3^ tornaríeis culpados.’”
+
+[NOTE]
+====
+.   “Nós”, MSy; LXXVg: “vós”.
+. “Havemos”, MLXXSyVg. Possivelmente: “haveis”.
+. Possivelmente: “que . . . destes a eles, porque vós mesmos”, mediante uma ligeira correção do M. Veja 13:23, onde a expressão hebr. “numa ocasião em que” foi traduzida por “agora”.
+====
+
+[[v7-21-23]]
+
+^<<v7-21-23,23>>^ Portanto, os filhos de Benjamim fizeram assim, e passaram a levar esposas para o seu número dentre as mulheres que dançavam em roda, as quais arrebataram; depois foram embora e voltaram à sua herança, e construíram as cidades e passaram a morar nelas.
+
+[[v7-21-24]]
+
+^<<v7-21-24,24>>^ E naquele tempo os filhos de Israel começaram a dispersar-se dali, cada um para a sua própria tribo e para a sua própria família; e foram embora dali, cada um para a sua própria herança.
+
+[[v7-21-25]]
+
+^<<v7-21-25,25>>^ Naqueles dias não havia rei em Israel. Cada um costumava fazer o que era direito aos seus próprios olhos.
+
+'''
+
+xref:007-juizes/007-juizes-020.adoc#v7-20-0[&#60; Capítulo Anterior] | <<v7-21-0,Topo>> | xref:008-rute/008-rute-001.adoc#v8-1-0[Próximo Capítulo &#62;]

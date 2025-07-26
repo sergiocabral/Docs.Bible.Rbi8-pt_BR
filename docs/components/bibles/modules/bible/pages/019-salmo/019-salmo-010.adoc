@@ -1,0 +1,173 @@
+include::./index.adoc[]
+
+[[v19-10-0]]
+=== Salmos, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_ל [Lâmede]^&#42;1^_
+
+[[v19-10-1]]
+
+^<<v19-10-1,1>>^ Por que, ó Jeová, ficas parado de longe?
+[Por que] ficas oculto^&#42;1^ em tempos de aflição?
+
+[NOTE]
+====
+. “Ficas oculto”, em harmonia com T.
+====
+
+[[v19-10-2]]
+
+^<<v19-10-2,2>>^ O iníquo, na sua altivez, persegue encarniçadamente ao atribulado;
+São pegados pelas idéias que inventaram.
+
+[[v19-10-3]]
+
+^<<v19-10-3,3>>^ Pois o iníquo se louvou por causa do desejo egoísta da sua alma,
+E o que lucra indevidamente se abençoou;
+
+_נ [Nune]_
+
+Desrespeitou a Jeová.
+
+[[v19-10-4]]
+
+^<<v19-10-4,4>>^ O iníquo, segundo a sua arrogância,^&#42;1^ não faz nenhuma pesquisa;
+Todas as suas idéias são: “Não há Deus.”^&#42;2^
+
+[NOTE]
+====
+. Lit.: “segundo a altura do seu nariz”.
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v19-10-5]]
+
+^<<v19-10-5,5>>^ Seus caminhos continuam a prosperar^&#42;1^ todo o tempo.
+Tuas decisões judiciais são elevadas, fora do seu alcance;
+Quanto a todos os que lhe são hostis, bufa contra eles.
+
+[NOTE]
+====
+. “Prosperar”, mediante uma correção; M: “perseverar”.
+====
+
+[[v19-10-6]]
+
+^<<v19-10-6,6>>^ Ele disse no seu coração: “Não serei abalado;
+Por geração após geração [serei] alguém que não está em calamidade.”
+
+_פ [Pê]_
+
+[[v19-10-7]]
+
+^<<v19-10-7,7>>^ Sua boca está cheia de imprecações, e de enganos, e de opressão.
+Debaixo da sua língua há desgraça e o que é prejudicial.
+
+[[v19-10-8]]
+
+^<<v19-10-8,8>>^ Está sentado numa emboscada de povoados;^&#42;1^
+Desde os esconderijos matará a alguém inocente.
+
+[NOTE]
+====
+. “Povoados”, M; mediante uma ligeira mudança dos sinais vocálicos: “grama verde”.
+. “Algum desafortunado.” O significado no M é incerto. Alguns vertem isso por “tuas forças militares”, mas isto não se harmoniza com o contexto.
+====
+
+_ע [Aine]_
+
+Seus olhos estão de espreita por algum desafortunado.^&#42;1^
+
+[NOTE]
+====
+. “Povoados”, M; mediante uma ligeira mudança dos sinais vocálicos: “grama verde”.
+. “Algum desafortunado.” O significado no M é incerto. Alguns vertem isso por “tuas forças militares”, mas isto não se harmoniza com o contexto.
+====
+
+[[v19-10-9]]
+
+^<<v19-10-9,9>>^ Fica de emboscada no esconderijo como o leão na sua guarida.
+Fica de emboscada para arrebatar algum atribulado.
+Arrebata o atribulado ao fechar a sua rede.
+
+[[v19-10-10]]
+
+^<<v19-10-10,10>>^ Ele está quebrantado, encurva-se,
+E o exército dos deprimidos^&#42;1^ tem de cair nas suas fortes [garras].
+
+[NOTE]
+====
+. “O exército dos deprimidos.” O significado no M é incerto.
+====
+
+[[v19-10-11]]
+
+^<<v19-10-11,11>>^ Ele disse no seu coração: “Deus se esqueceu.
+Escondeu a sua face.
+Certamente nunca [o] verá.”
+
+_ק [Cofe]_
+
+[[v19-10-12]]
+
+^<<v19-10-12,12>>^ Levanta-te deveras, ó Jeová. Ó Deus,^&#42;1^ levanta a tua mão.
+Não te esqueças dos atribulados.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v19-10-13]]
+
+^<<v19-10-13,13>>^ Por que é que o iníquo desrespeitou a Deus?^&#42;1^
+Ele disse no seu coração: “Não exigirás prestação de contas.”
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím, pl. de ’Elóh·ah.
+====
+
+_ר [Rexe]_
+
+[[v19-10-14]]
+
+^<<v19-10-14,14>>^ Pois tu mesmo viste desgraça e vexame.
+Estás olhando para pegá-los na tua mão.
+A ti [se] entrega o desafortunado, o menino órfão de pai.
+Tu mesmo te tornaste [seu] ajudador.
+
+_ש [Chim]_
+
+[[v19-10-15]]
+
+^<<v19-10-15,15>>^ Quebra o braço do iníquo e do mau.
+Que tu sondes a sua iniqüidade [até] nada mais achares.
+
+[[v19-10-16]]
+
+^<<v19-10-16,16>>^ Jeová é Rei por tempo indefinido, para todo o sempre.
+Na sua terra pereceram as nações.
+
+_ת [Tau]_
+
+[[v19-10-17]]
+
+^<<v19-10-17,17>>^ Certamente ouvirás o desejo dos mansos, ó Jeová.
+Tu lhes prepararás o coração.
+Prestarás atenção com o teu ouvido,
+
+[[v19-10-18]]
+
+^<<v19-10-18,18>>^ Para julgar o menino órfão de pai e o esmagado,
+A fim de que o homem mortal, que é da terra, não cause mais estremecimento.^&#42;1^
+
+[NOTE]
+====
+. Ou “a fim de que o homem mortal não mais continue a sair tremendo da terra”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-009.adoc#v19-9-0[&#60; Capítulo Anterior] | <<v19-10-0,Topo>> | xref:019-salmo/019-salmo-011.adoc#v19-11-0[Próximo Capítulo &#62;]

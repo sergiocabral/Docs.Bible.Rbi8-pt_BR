@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v19-88-0]]
+=== Salmos, 88
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Um cântico, uma melodia dos filhos de Corá. Ao regente, sobre Maalate,^&#42;1^ para responsos. Masquil^&#42;2^ de Hemã, o ezraíta._
+
+[[v19-88-1]]
+
+^<<v19-88-1,1>>^ Ó Jeová, Deus de minha salvação,
+De dia clamei,
+[Também] de noite, diante de ti.
+
+[[v19-88-2]]
+
+^<<v19-88-2,2>>^ Diante de ti chegará a minha oração.
+Inclina teu ouvido ao meu clamor suplicante.
+
+[[v19-88-3]]
+
+^<<v19-88-3,3>>^ Pois a minha alma já teve bastantes calamidades
+E a minha própria vida entrou até em contato com o Seol.^&#42;1^
+
+[NOTE]
+====
+. “Com o Seol.” Hebr.: lish·’óhl; gr.: haí·dei; lat.: in·fér·no. Veja Ap. 4B.
+====
+
+[[v19-88-4]]
+
+^<<v19-88-4,4>>^ Fui considerado como estando entre os que descem ao poço;
+Tornei-me igual a um varão vigoroso sem força,
+
+[[v19-88-5]]
+
+^<<v19-88-5,5>>^ Liberto entre os próprios mortos,
+Deitado na sepultura como os que foram mortos,
+Dos quais não mais te lembraste
+E que foram cortados da tua própria mão [ajudadora].
+
+[[v19-88-6]]
+
+^<<v19-88-6,6>>^ Puseste-me num poço de maior fundura,
+Em lugares escuros, num grande abismo.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “abismos”, pl., provavelmente para denotar grandiosidade.
+====
+
+[[v19-88-7]]
+
+^<<v19-88-7,7>>^ Sobre mim é que se lançou o teu furor
+E tu [me] atribulaste com todas as tuas ondas de rebentação. Selá.
+
+[[v19-88-8]]
+
+^<<v19-88-8,8>>^ Meus conhecidos afastaste para longe de mim;
+Puseste-me como algo muito detestável para eles.
+Estou restrito e não posso sair.
+
+[[v19-88-9]]
+
+^<<v19-88-9,9>>^ Meu próprio olho desfaleceu por causa da minha tribulação.
+Invoquei-te o dia inteiro, ó Jeová;
+A ti estendi as palmas das minhas mãos.
+
+[[v19-88-10]]
+
+^<<v19-88-10,10>>^ Acaso farás uma maravilha para os que estão mortos?
+Ou levantar-se-ão os que estão impotentes na morte,^&#42;1^
+Elogiar-te-ão eles? Selá.
+
+[NOTE]
+====
+. “Os que estão impotentes na morte.” Hebr.: refa·’ím; T: “corpos dissolvidos no pó”; LXXVg: “médicos”; Sy: “poderosos (gigantes)”. Veja Jó 26:5 n.
+====
+
+[[v19-88-11]]
+
+^<<v19-88-11,11>>^ Declarar-se-á a tua benevolência na própria sepultura,^&#42;1^
+A tua fidelidade no [lugar da] destruição?^&#42;2^
+
+[NOTE]
+====
+. “Túmulo”, LXX; Vg: “sepulcro”.
+. “No [lugar da] destruição.” Hebr.: ba·’avad·dóhn; sir.: ba’v·da·na’; LXX: “na destruição”; lat.: in per·di·ti·ó·ne, “na perdição”. Veja Jó 26:6 n.
+====
+
+[[v19-88-12]]
+
+^<<v19-88-12,12>>^ Conhecer-se-á tua maravilha na própria escuridão
+Ou a tua justiça na terra do esquecimento?
+
+[[v19-88-13]]
+
+^<<v19-88-13,13>>^ No entanto, eu mesmo clamei a ti por ajuda, ó Jeová,
+E de manhã continua a confrontar-te a minha própria oração.
+
+[[v19-88-14]]
+
+^<<v19-88-14,14>>^ Por que é que deitas fora a minha alma, ó Jeová?
+Por que escondes de mim a tua face?
+
+[[v19-88-15]]
+
+^<<v19-88-15,15>>^ Estou atribulado e prestes a expirar desde a meninice;
+Suportei muitíssimas^&#42;1^ coisas aterradoras da tua parte.
+
+[NOTE]
+====
+. “Muitíssimas.” Hebr.: ’a·fú·nah, de significado incerto; LXXSyVg: “estou embaraçado (confuso)”.
+====
+
+[[v19-88-16]]
+
+^<<v19-88-16,16>>^ Sobre mim passaram os fulgores da tua ira ardente;
+Terrores provenientes de ti me fizeram silenciar.
+
+[[v19-88-17]]
+
+^<<v19-88-17,17>>^ Cercaram-me como águas o dia inteiro;
+Rodearam-me todos a uma só vez.
+
+[[v19-88-18]]
+
+^<<v19-88-18,18>>^ Afastaste para longe de mim o amigo e o companheiro;
+Meus conhecidos são um lugar escuro.
+
+'''
+
+xref:019-salmo/019-salmo-087.adoc#v19-87-0[&#60; Capítulo Anterior] | <<v19-88-0,Topo>> | xref:019-salmo/019-salmo-089.adoc#v19-89-0[Próximo Capítulo &#62;]

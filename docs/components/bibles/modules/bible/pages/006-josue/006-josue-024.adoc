@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v6-24-0]]
+=== Josué, 24
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-24-1]]
+
+^<<v6-24-1,1>>^ E Josué passou a ajuntar todas as tribos de Israel em Siquém^&#42;1^ e a chamar os anciãos de Israel, e seus cabeças, e seus juízes, e seus oficiais, e foram tomar sua posição diante do [verdadeiro] Deus.
+
+[NOTE]
+====
+. “Siquém”, MSyVg; LXX: “Silo”.
+====
+
+[[v6-24-2]]
+
+^<<v6-24-2,2>>^ E Josué prosseguiu, dizendo a todo o povo: “Assim disse Jeová, o Deus de Israel: ‘Foi no outro lado do Rio^&#42;1^ que os vossos antepassados moravam há muito tempo, Tera, pai de Abraão e pai de Naor, e eles costumavam servir^&#42;2^ a outros deuses.^&#42;3^
+
+[NOTE]
+====
+. Isto é, o Eufrates.
+. “E eles costumavam servir (adorar).” Hebr.: wai·ya·‛av·dhú; gr.: e·lá·treu·san, “eles prestavam serviço sagrado”. Veja Êx 3:12 n.
+. “Outros deuses.” Hebr.: ’elo·hím ’ahhe·rím, ambas no pl.
+====
+
+[[v6-24-3]]
+
+^<<v6-24-3,3>>^ “‘Com o tempo tomei vosso antepassado Abraão do outro lado do Rio e o fiz percorrer toda a terra de Canaã, e multipliquei a sua descendência.^&#42;1^ Portanto, dei-lhe Isaque.
+
+[NOTE]
+====
+. Ou “prole”.
+====
+
+[[v6-24-4]]
+
+^<<v6-24-4,4>>^ A Isaque dei então Jacó e Esaú. Mais tarde dei a montanha de Seir a Esaú para que tomasse posse dela; e Jacó e seus filhos desceram ao Egito.
+
+[[v6-24-5]]
+
+^<<v6-24-5,5>>^ Mais tarde enviei Moisés e Arão, e fui ferir o Egito com aquilo que^&#42;1^ fiz no seu meio; e depois vos fiz sair.
+
+[NOTE]
+====
+. “Com [as coisas] que”, LXXB; LXXA: “com os sinais que”; M: “assim como”.
+====
+
+[[v6-24-6]]
+
+^<<v6-24-6,6>>^ Quando fiz os vossos pais sair do Egito e chegastes ao mar, então os egípcios foram no encalço de vossos pais com carros de guerra e cavalarianos até o Mar Vermelho.
+
+[[v6-24-7]]
+
+^<<v6-24-7,7>>^ E começaram a clamar a Jeová. Por isso ele colocou uma escuridão entre vós e os egípcios, e trouxe o mar sobre eles e os cobriu; e vossos olhos estavam vendo o que fiz ao Egito; e passastes a morar no ermo por muitos dias.
+
+[[v6-24-8]]
+
+^<<v6-24-8,8>>^ “‘Por fim vos trouxe à terra dos amorreus que moravam do outro lado do Jordão, e eles foram lutar contra vós. Em vista disso os entreguei na vossa mão para que tomásseis posse da sua terra, e eu os aniquilei de diante de vós.
+
+[[v6-24-9]]
+
+^<<v6-24-9,9>>^ Então se levantou Balaque, filho de Zipor, o rei de Moabe, e foi lutar contra Israel. Assim, mandou chamar a Balaão, filho de Beor, para invocar o mal sobre vós.
+
+[[v6-24-10]]
+
+^<<v6-24-10,10>>^ E eu não quis escutar a Balaão. Por conseguinte, ele vos abençoou repetidamente. Assim vos livrei da sua mão.
+
+[[v6-24-11]]
+
+^<<v6-24-11,11>>^ “‘Então fostes atravessar o Jordão e chegastes a Jericó. E os proprietários de terras^&#42;1^ de Jericó, os amorreus e os perizeus, e os cananeus, e os hititas, e os girgaseus, os heveus e os jebuseus começaram a lutar contra vós; mas eu os entreguei na vossa mão.
+
+[NOTE]
+====
+. “Os proprietários de terras de.” Hebr.: ba·‛aléh; LXX: “habitantes”.
+====
+
+[[v6-24-12]]
+
+^<<v6-24-12,12>>^ De modo que enviei o sentimento de desânimo^&#42;1^ na vossa frente e este os expulsou gradualmente de diante de vós — dois reis dos amorreus — não com a tua espada, nem com o teu arco.
+
+[NOTE]
+====
+. A expressão ‘enviar o sentimento de desânimo’ é também encontrada em Êx 23:28 e em De 7:20. Veja Êx 23:28 n.
+====
+
+[[v6-24-13]]
+
+^<<v6-24-13,13>>^ Assim vos entreguei uma terra pela qual não labutastes e cidades que não construístes, e passastes a morar nelas. Estais comendo de vinhedos e de olivais que não plantastes.’
+
+[[v6-24-14]]
+
+^<<v6-24-14,14>>^ “E agora, temei a Jeová e servi-o sem defeito e em verdade, e removei os deuses a que vossos antepassados serviram do outro lado do Rio e no Egito, e servi a Jeová.
+
+[[v6-24-15]]
+
+^<<v6-24-15,15>>^ Agora, se for mau aos vossos olhos servir a Jeová, escolhei hoje para vós a quem servireis, se aos deuses a quem serviram os vossos antepassados que estavam do outro lado do Rio^&#42;1^ ou aos deuses dos amorreus em cuja terra morais. Mas, quanto a mim e aos da minha casa, serviremos a Jeová.”
+
+[NOTE]
+====
+. Isto é, ao leste do rio Eufrates.
+====
+
+[[v6-24-16]]
+
+^<<v6-24-16,16>>^ Nisso o povo respondeu e disse: “É inconcebível da nossa parte abandonarmos a Jeová para servir a outros deuses.
+
+[[v6-24-17]]
+
+^<<v6-24-17,17>>^ Porque foi Jeová, nosso Deus, quem fez que nós e os nossos pais subíssemos da terra do Egito, da casa dos escravos, e quem realizou estes grandes sinais diante dos nossos olhos e quem nos guardou em todo o caminho em que andamos e entre todos os povos pelo meio dos quais passamos.
+
+[[v6-24-18]]
+
+^<<v6-24-18,18>>^ E Jeová passou a expulsar de diante de nós a todos os povos, até mesmo os amorreus, que moravam no país. Quanto a nós, também, serviremos a Jeová, porque ele é o nosso Deus.”
+
+[[v6-24-19]]
+
+^<<v6-24-19,19>>^ Josué disse então ao povo: “Não sois capazes de servir a Jeová, pois ele é um Deus santo;^&#42;1^ ele é um Deus^&#42;2^ que exige devoção exclusiva. Não perdoará a vossa revolta e os vossos pecados.
+
+[NOTE]
+====
+. Lit.: “Ele [é] um Deus santo.” Hebr.: ’Elo- hím qedho·shím hu’. Embora modificado por um adjetivo no pl., o pronome sing. hu’ mostra que ’Elo·hím está no pl. para denotar majestade e excelência, portanto, é sing. no sentido. Gr.: The·ós; lat.: Dé·us.
+. “Deus.” Hebr.: ’El. Veja 22:22 n.: “Jeová”.
+====
+
+[[v6-24-20]]
+
+^<<v6-24-20,20>>^ Caso abandoneis a Jeová e deveras sirvais a deuses estrangeiros,^&#42;1^ ele certamente também recuará e vos causará dano, e vos exterminará, depois de vos ter feito o bem.”
+
+[NOTE]
+====
+. “Deuses estrangeiros.” Lit.: “deuses dum (país) estrangeiro”.
+====
+
+[[v6-24-21]]
+
+^<<v6-24-21,21>>^ O povo, por sua vez, disse a Josué: “Não, mas é a Jeová que serviremos!”
+
+[[v6-24-22]]
+
+^<<v6-24-22,22>>^ A isso Josué disse ao povo: “Sois testemunhas contra vós mesmos de que vós, da vossa própria iniciativa, escolhestes para vós a Jeová, para servi-lo.” A isso disseram: “Somos testemunhas.”
+
+[[v6-24-23]]
+
+^<<v6-24-23,23>>^ “E agora removei os deuses estrangeiros que há entre vós e inclinai os vossos corações para Jeová, o Deus de Israel.”
+
+[[v6-24-24]]
+
+^<<v6-24-24,24>>^ O povo, por sua vez, disse a Josué: “A Jeová, nosso Deus, serviremos, e a sua voz escutaremos!”
+
+[[v6-24-25]]
+
+^<<v6-24-25,25>>^ E naquele dia Josué passou a concluir um pacto com o povo e a estabelecer para eles um regulamento e uma decisão judicial em Siquém.^&#42;1^
+
+[NOTE]
+====
+. “Siquém”, MSyVg; LXX: “Silo”.
+====
+
+[[v6-24-26]]
+
+^<<v6-24-26,26>>^ Então escreveu Josué estas palavras no livro da lei de Deus, e tomou uma grande pedra e a erigiu ali debaixo da árvore maciça que há junto ao santuário de Jeová.
+
+[[v6-24-27]]
+
+^<<v6-24-27,27>>^ E Josué prosseguiu, dizendo a todo o povo: “Eis que esta pedra é que servirá de testemunho contra nós, porque ela mesma ouviu todas as declarações de Jeová, que ele nos falou, e ela tem de servir de testemunho contra vós para que não renegueis o vosso Deus.”
+
+[[v6-24-28]]
+
+^<<v6-24-28,28>>^ Com isso Josué mandou o povo embora, cada um para a sua herança.
+
+[[v6-24-29]]
+
+^<<v6-24-29,29>>^ E depois destas coisas sucedeu que Josué, filho de Num, o servo de Jeová, por fim, morreu na idade de cento e dez anos.
+
+[[v6-24-30]]
+
+^<<v6-24-30,30>>^ Enterraram-no, pois, no território da sua herança, em Timnate-Sera, que está na região montanhosa de Efraim, ao norte do monte Gaás.
+
+[[v6-24-31]]
+
+^<<v6-24-31,31>>^ E Israel continuou a servir a Jeová todos os dias de Josué e todos os dias dos anciãos que prolongaram seus dias depois de Josué e que tinham conhecido todo o trabalho de Jeová, que ele fez para Israel.
+
+[[v6-24-32]]
+
+^<<v6-24-32,32>>^ E os ossos de José, que os filhos de Israel haviam trazido para fora do Egito, eles enterraram em Siquém, no pedaço de campo que Jacó havia adquirido dos filhos de Hamor, pai de Siquém, por cem peças de dinheiro;^&#42;1^ e veio^&#42;2^ a pertencer aos filhos de José como herança.
+
+[NOTE]
+====
+. “Peças de dinheiro.” Hebr.: qesi·táh, cujo valor é incerto.
+. “Veio”, SyVg; M: “vieram”.
+====
+
+[[v6-24-33]]
+
+^<<v6-24-33,33>>^ Também morreu Eleazar, filho de Arão. Enterraram-no, pois, no Morro de Finéias,^&#42;1^ seu filho, que lhe havia dado na região montanhosa de Efraim.
+
+[NOTE]
+====
+. Ou “em Gibeá de Finéias”, em harmonia com LXXVg.
+====
+
+'''
+
+xref:006-josue/006-josue-023.adoc#v6-23-0[&#60; Capítulo Anterior] | <<v6-24-0,Topo>> | xref:007-juizes/007-juizes-001.adoc#v7-1-0[Próximo Capítulo &#62;]

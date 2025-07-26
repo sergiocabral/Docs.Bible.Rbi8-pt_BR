@@ -1,0 +1,176 @@
+include::./index.adoc[]
+
+[[v19-139-0]]
+=== Salmos, 139
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Para o regente. De Davi. Uma melodia._
+
+[[v19-139-1]]
+
+^<<v19-139-1,1>>^ Ó Jeová, tu me esquadrinhaste e [me] conheces.
+
+[[v19-139-2]]
+
+^<<v19-139-2,2>>^ Tu mesmo chegaste a conhecer meu assentar e meu levantar.
+De longe consideraste meu pensamento.
+
+[[v19-139-3]]
+
+^<<v19-139-3,3>>^ Mediste minhas andanças e meu deitar ao comprido,
+E familiarizaste-te até mesmo com todos os meus caminhos.
+
+[[v19-139-4]]
+
+^<<v19-139-4,4>>^ Pois não há palavra na minha língua,
+Mas eis que tu, ó Jeová, já sabes de tudo.
+
+[[v19-139-5]]
+
+^<<v19-139-5,5>>^ Tu me sitiaste atrás e adiante;
+E pões a tua mão sobre mim.
+
+[[v19-139-6]]
+
+^<<v19-139-6,6>>^ [Tal] conhecimento é maravilhoso demais para mim.
+É tão sublime que não o posso alcançar.
+
+[[v19-139-7]]
+
+^<<v19-139-7,7>>^ Para onde posso ir do teu espírito^&#42;1^
+E para onde posso fugir da tua face?
+
+[NOTE]
+====
+. “Do teu espírito.” Hebr.: me·ru·hhé·kha; gr.: pneú·ma·tós; lat.: spí·ri·tu.
+====
+
+[[v19-139-8]]
+
+^<<v19-139-8,8>>^ Se eu subisse ao céu, lá estarias tu;
+E se eu fizesse meu leito no Seol,^&#42;1^ eis que [lá estarias] tu!
+
+[NOTE]
+====
+. “Seol.” Hebr.: she’óhl; gr.: haí·den; sir.: la·shiul; lat.: in·fér·num. Veja Ap. 4B.
+====
+
+[[v19-139-9]]
+
+^<<v19-139-9,9>>^ Se eu tomasse as asas da alva
+Para residir no mar mais remoto,
+
+[[v19-139-10]]
+
+^<<v19-139-10,10>>^ Também ali me guiaria a tua própria mão
+E me seguraria a tua direita.
+
+[[v19-139-11]]
+
+^<<v19-139-11,11>>^ E se eu dissesse: “Seguramente a própria escuridão me pegará às pressas!”
+Então a noite seria luz ao meu redor.
+
+[[v19-139-12]]
+
+^<<v19-139-12,12>>^ Até mesmo a escuridão não se mostraria escura demais para ti,
+Mas a própria noite se iluminaria como o dia;
+A escuridão bem poderia ser a luz.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “qual a escuridão, qual a luz”; ou: “como a escuridão, assim a luz”.
+====
+
+[[v19-139-13]]
+
+^<<v19-139-13,13>>^ Pois tu mesmo produziste meus rins;
+Mantiveste-me abrigado no ventre de minha mãe.
+
+[[v19-139-14]]
+
+^<<v19-139-14,14>>^ Elogiar-te-ei porque fui feito maravilhosamente, dum modo atemorizante.
+Teus trabalhos são maravilhosos,
+De que minha alma está bem apercebida.
+
+[[v19-139-15]]
+
+^<<v19-139-15,15>>^ Meus ossos não te estavam ocultos
+Quando fui feito às escondidas,
+Quando fui tecido nas partes mais baixas^&#42;1^ da terra.
+
+[NOTE]
+====
+. “Partes mais baixas.” Veja 63:9 n.
+====
+
+[[v19-139-16]]
+
+^<<v19-139-16,16>>^ Teus olhos viram até mesmo meu embrião,
+E todas as suas partes estavam assentadas por escrito no teu livro,
+Referente aos dias em que foram formadas,
+E ainda não havia nem sequer uma entre elas.
+
+[[v19-139-17]]
+
+^<<v19-139-17,17>>^ Portanto, quão preciosos são para mim os teus pensamentos!
+Ó Deus,^&#42;1^ a quanto ascende a soma total deles!
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v19-139-18]]
+
+^<<v19-139-18,18>>^ Se eu tentasse contá-los, seriam mais do que mesmo os grãos de areia.
+Acordei,^&#42;1^ e no entanto, ainda estou contigo.
+
+[NOTE]
+====
+. “Cheguei ao meu fim”, três mss. hebr.
+====
+
+[[v19-139-19]]
+
+^<<v19-139-19,19>>^ Oh! que tu, ó Deus,^&#42;1^ matasses ao iníquo.
+Então certamente se retirariam de mim até mesmo os homens culpados de sangue,^&#42;2^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elóh·ah.
+. Ou “homens sanguinários”. Lit.: “homens de sangues”.
+====
+
+[[v19-139-20]]
+
+^<<v19-139-20,20>>^ Que dizem coisas sobre ti segundo a [sua própria] idéia;
+Tomaram [teu nome] dum modo fútil — teus adversários.
+
+[[v19-139-21]]
+
+^<<v19-139-21,21>>^ Acaso não odeio os que te odeiam intensamente, ó Jeová,
+E não tenho aversão aos que se revoltam contra ti?
+
+[[v19-139-22]]
+
+^<<v19-139-22,22>>^ Odeio-os com ódio consumado.
+Tornaram-se para mim verdadeiros inimigos.
+
+[[v19-139-23]]
+
+^<<v19-139-23,23>>^ Esquadrinha-me, ó Deus,^&#42;1^ e conhece meu coração.
+Examina-me e conhece meus pensamentos inquietantes,
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v19-139-24]]
+
+^<<v19-139-24,24>>^ E vê se há em mim qualquer caminho penoso,
+E guia-me no caminho do tempo indefinido.
+
+'''
+
+xref:019-salmo/019-salmo-138.adoc#v19-138-0[&#60; Capítulo Anterior] | <<v19-139-0,Topo>> | xref:019-salmo/019-salmo-140.adoc#v19-140-0[Próximo Capítulo &#62;]

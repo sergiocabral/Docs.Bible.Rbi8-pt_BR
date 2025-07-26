@@ -1,0 +1,136 @@
+include::./index.adoc[]
+
+[[v1-22-0]]
+=== Gênesis, 22
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-22-1]]
+
+^<<v1-22-1,1>>^ Então, depois dessas coisas, sucedeu que o [verdadeiro] Deus pôs Abraão à prova. Conseqüentemente, disse-lhe: “Abraão!” a que ele disse: “Eis-me aqui!”
+
+[[v1-22-2]]
+
+^<<v1-22-2,2>>^ E prosseguiu, dizendo: “Toma, por favor, teu filho, teu único filho a quem tanto amas, Isaque, e faze uma viagem à terra de Moriá e oferece-o ali como oferta queimada num dos montes que te designarei.”
+
+[[v1-22-3]]
+
+^<<v1-22-3,3>>^ Abraão levantou-se, pois, de manhã cedo e selou o seu jumento, e tomou consigo dois dos seus ajudantes^&#42;1^ e seu filho Isaque; e rachou lenha para a oferta queimada. Levantou-se então e foi viajar para o lugar que o [verdadeiro] Deus lhe designou.
+
+[NOTE]
+====
+. Ou “moços”.
+====
+
+[[v1-22-4]]
+
+^<<v1-22-4,4>>^ Foi só no terceiro dia que Abraão levantou os olhos e começou a ver o lugar à distância.
+
+[[v1-22-5]]
+
+^<<v1-22-5,5>>^ Abraão disse então aos seus ajudantes: “Ficai aqui com o jumento, mas eu e o rapaz queremos ir para lá e adorar, e retornar a vós.”
+
+[[v1-22-6]]
+
+^<<v1-22-6,6>>^ Depois, Abraão tomou a lenha da oferta queimada e a pôs sobre Isaque, seu filho, e tomou na mão o fogo e o cutelo, e ambos seguiram juntos.
+
+[[v1-22-7]]
+
+^<<v1-22-7,7>>^ E Isaque começou a dizer a Abraão, seu pai:^&#42;1^ “Meu pai!” Ele disse, por sua vez: “Eis-me aqui, meu filho!” Continuou, pois: “Eis o fogo e a lenha, mas onde está o ovídeo para a oferta queimada?”
+
+[NOTE]
+====
+. M acrescenta “e disse”, mas esta é uma inserção por parte dum escriba, ou então é sinal dum discurso direto, o que indicamos por usar aspas.
+====
+
+[[v1-22-8]]
+
+^<<v1-22-8,8>>^ Abraão disse então: “Meu filho, Deus providenciará para si o ovídeo para a oferta queimada.” E ambos prosseguiram andando juntos.
+
+[[v1-22-9]]
+
+^<<v1-22-9,9>>^ Por fim chegaram ao lugar que o [verdadeiro] Deus lhe designara, e Abraão construiu ali um altar e pôs a lenha em ordem, e amarrou Isaque, seu filho, de mãos e pés e o colocou no altar, por cima da lenha.
+
+[[v1-22-10]]
+
+^<<v1-22-10,10>>^ Abraão estendeu então a sua mão e tomou o cutelo para matar seu filho.
+
+[[v1-22-11]]
+
+^<<v1-22-11,11>>^ Mas o anjo de Jeová começou a chamá-lo desde os céus e a dizer: “Abraão, Abraão!” ao que ele respondeu: “Eis-me aqui!”
+
+[[v1-22-12]]
+
+^<<v1-22-12,12>>^ E ele prosseguiu, dizendo: “Não estendas tua mão contra o rapaz e não lhe faças nada, pois agora sei deveras que temes a Deus,^&#42;1^ visto que não me negaste o teu filho, teu único.”
+
+[NOTE]
+====
+. Ou “és temente de Deus”.
+====
+
+[[v1-22-13]]
+
+^<<v1-22-13,13>>^ Em vista disso, Abraão levantou os olhos e olhou, e eis que a certa distância diante dele havia um carneiro preso pelos chifres na moita. De modo que Abraão foi e tomou o carneiro, e o ofereceu como oferta queimada em lugar de seu filho.
+
+[[v1-22-14]]
+
+^<<v1-22-14,14>>^ E Abraão começou a chamar aquele lugar pelo nome de Jeová-Jiré.^&#42;1^ É por isso que se costuma dizer hoje: “No monte de Jeová se providenciará.”^&#42;2^
+
+[NOTE]
+====
+. Significando “Jeová Cuidará [disso]; Jeová Providenciará”. Hebr.: Yehwáh yir·’éh.
+. “No monte de Jeová se providenciará.” Hebr.: behár Yehwáh ye·ra·’éh; LXX: “No monte foi visto Jeová”; Sy: “Neste monte Jeová verá”; Vg: “No monte Jeová verá.” Alguns emendariam um pouco a sentença inteira para rezar: “Como o monte em que Jeová aparece é chamado hoje em dia.”
+====
+
+[[v1-22-15]]
+
+^<<v1-22-15,15>>^ E o anjo de Jeová passou a chamar Abraão pela segunda vez, desde os céus,
+
+[[v1-22-16]]
+
+^<<v1-22-16,16>>^ e a dizer: “‘Juro deveras por mim mesmo’, é a pronunciação de Jeová, ‘que, pelo fato de que fizeste esta coisa e não me negaste teu filho, teu único,
+
+[[v1-22-17]]
+
+^<<v1-22-17,17>>^ seguramente te abençoarei e seguramente multiplicarei o teu descendente como as estrelas dos céus e como os grãos de areia que há à beira do mar; e teu descendente tomará posse do portão^&#42;1^ dos seus inimigos.
+
+[NOTE]
+====
+. Isto é, da cidade.
+====
+
+[[v1-22-18]]
+
+^<<v1-22-18,18>>^ E todas as nações da terra hão de abençoar a si mesmas^&#42;1^ por meio de teu descendente, pelo fato de que escutaste a minha voz.’”
+
+[NOTE]
+====
+. “Hão de abençoar a si mesmas.” O verbo hebr. está na forma reflexiva, ou hith·pa·‛él, e assim difere do mesmo verbo na forma níf·‛al em 12:3b, que às vezes tem sentido passivo, porém, com mais freqüência, tem sentido reflexivo, assim como foi vertido ali. LXXSyVg: “serão abençoadas”, assim como em 12:3b. Veja De 29:19.
+====
+
+[[v1-22-19]]
+
+^<<v1-22-19,19>>^ Abraão voltou depois aos seus ajudantes, e levantaram-se e foram juntos embora para Berseba; e Abraão continuou morando em Berseba.
+
+[[v1-22-20]]
+
+^<<v1-22-20,20>>^ Ora, depois dessas coisas sucedeu que Abraão recebeu a notícia: “Eis que a própria Milca também deu à luz filhos a Naor, teu irmão:
+
+[[v1-22-21]]
+
+^<<v1-22-21,21>>^ Uz, seu primogênito, e Buz, irmão dele, e Quemuel, pai de Arã,
+
+[[v1-22-22]]
+
+^<<v1-22-22,22>>^ e Quesede, e Hazo, e Pildas, e Jidlafe, e Betuel.”
+
+[[v1-22-23]]
+
+^<<v1-22-23,23>>^ E Betuel tornou-se pai de Rebeca. Estes oito Milca deu à luz a Naor, irmão de Abraão.
+
+[[v1-22-24]]
+
+^<<v1-22-24,24>>^ Havia também a sua concubina, cujo nome era Reumá. Com o tempo, ela mesma também deu à luz Tebá, e Gaã, e Taás e Maacá.
+
+'''
+
+xref:001-genesis/001-genesis-021.adoc#v1-21-0[&#60; Capítulo Anterior] | <<v1-22-0,Topo>> | xref:001-genesis/001-genesis-023.adoc#v1-23-0[Próximo Capítulo &#62;]

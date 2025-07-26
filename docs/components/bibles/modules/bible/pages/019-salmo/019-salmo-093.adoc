@@ -1,0 +1,43 @@
+include::./index.adoc[]
+
+[[v19-93-0]]
+=== Salmos, 93
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-93-1]]
+
+^<<v19-93-1,1>>^ ^&#42;1^ O próprio Jeová se tornou rei!
+Reveste-se de alteza;
+Jeová está vestido — cingiu-se de força.
+Também o solo produtivo^&#42;2^ fica firmemente estabelecido de modo que não pode ser abalado.
+
+[NOTE]
+====
+. LXX tem o cabeçalho: “Para a véspera do sábado, quando a terra foi ocupada (povoada). O louvor dum cântico de Davi”; Vg é similar.
+. “O solo produtivo.” Hebr.: te·vél; LXX: “a terra habitada”; lat.: ór·bem tér·rae, “o círculo da terra”.
+====
+
+[[v19-93-2]]
+
+^<<v19-93-2,2>>^ Teu trono está firmemente estabelecido desde há muito;
+Tu és desde tempo indefinido.
+
+[[v19-93-3]]
+
+^<<v19-93-3,3>>^ Os rios elevaram, ó Jeová,
+Os rios elevaram o seu som;
+Os rios continuam a elevar o seu fragor.
+
+[[v19-93-4]]
+
+^<<v19-93-4,4>>^ Acima dos sons de vastas águas, das majestosas ondas de rebentação do mar,
+Jeová é majestoso na altura.
+
+[[v19-93-5]]
+
+^<<v19-93-5,5>>^ Tuas próprias advertências mostraram ser mui fidedignas.
+Santidade é própria à tua casa, ó Jeová, para a longura dos dias.
+
+'''
+
+xref:019-salmo/019-salmo-092.adoc#v19-92-0[&#60; Capítulo Anterior] | <<v19-93-0,Topo>> | xref:019-salmo/019-salmo-094.adoc#v19-94-0[Próximo Capítulo &#62;]

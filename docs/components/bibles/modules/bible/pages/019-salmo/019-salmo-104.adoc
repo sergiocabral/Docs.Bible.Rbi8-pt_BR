@@ -1,0 +1,254 @@
+include::./index.adoc[]
+
+[[v19-104-0]]
+=== Salmos, 104
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-104-1]]
+
+^<<v19-104-1,1>>^ Bendize a Jeová, ó minha alma.
+Ó Jeová, meu Deus, mostraste ser muito grande.
+Tu te vestiste de dignidade e de esplendor,
+
+[[v19-104-2]]
+
+^<<v19-104-2,2>>^ Envolvendo-te em luz como que num manto,
+Estendendo os céus qual pano de tenda,
+
+[[v19-104-3]]
+
+^<<v19-104-3,3>>^ Aquele que constrói com vigas os seus quartos superiores nas próprias águas,
+Fazendo das nuvens o seu carro,
+Andando sobre as asas do vento,
+
+[[v19-104-4]]
+
+^<<v19-104-4,4>>^ Que faz os seus anjos espíritos,^&#42;1^
+Seus ministros, um fogo devorador.
+
+[NOTE]
+====
+. Ou “ventos”. Hebr.: ru·hhóhth, pl. O v. 3 contém “vento” (rú·ahh), sing.
+====
+
+[[v19-104-5]]
+
+^<<v19-104-5,5>>^ Ele fundou a terra sobre os seus lugares estabelecidos;
+Não será abalada, por tempo indefinido ou para todo o sempre.
+
+[[v19-104-6]]
+
+^<<v19-104-6,6>>^ Cobriste-a de água de profundeza^&#42;1^ como vestimenta.
+As águas pararam acima dos próprios montes.
+
+[NOTE]
+====
+. Ou “águas empoladas”. Hebr.: tehóhm; LXXVg: “abismo”. Veja Gên 1:2 n.: “profundeza”.
+====
+
+[[v19-104-7]]
+
+^<<v19-104-7,7>>^ À tua censura começaram a fugir;
+Ao som do teu trovão foram postas a correr, tomadas de pânico —
+
+[[v19-104-8]]
+
+^<<v19-104-8,8>>^ Montes passaram a subir,
+Vales planos passaram a descer —
+Ao lugar que para elas fundaste.
+
+[[v19-104-9]]
+
+^<<v19-104-9,9>>^ Puseste um termo além do qual não passariam,
+Para que não cobrissem mais a terra.
+
+[[v19-104-10]]
+
+^<<v19-104-10,10>>^ Ele envia mananciais aos vales de torrente;
+Eles continuam a correr entre os montes.
+
+[[v19-104-11]]
+
+^<<v19-104-11,11>>^ Dão continuamente de beber a todos os animais selváticos da campina;
+As zebras saciam regularmente a sua sede.
+
+[[v19-104-12]]
+
+^<<v19-104-12,12>>^ Acima deles se empoleiram as criaturas voadoras dos céus;
+Produzem um som do meio da grossa folhagem.
+
+[[v19-104-13]]
+
+^<<v19-104-13,13>>^ Dos seus quartos superiores ele rega os montes.
+A terra farta-se com os frutos dos teus trabalhos.^&#42;1^
+
+[NOTE]
+====
+. Ou “com umidade”, mediante uma correção do M.
+====
+
+[[v19-104-14]]
+
+^<<v19-104-14,14>>^ Ele faz brotar capim verde para os animais
+E vegetação para o serviço da humanidade,^&#42;1^
+A fim de que saia alimento^&#42;2^ da terra,
+
+[NOTE]
+====
+. Lit.: “do homem terreno”. Hebr.: ha·’a·dhám.
+. Lit.: “pão”.
+====
+
+[[v19-104-15]]
+
+^<<v19-104-15,15>>^ E vinho que alegra o coração do homem mortal,^&#42;1^
+Para fazer a face brilhar com óleo,
+E pão que revigora o próprio coração do homem mortal.
+
+[NOTE]
+====
+. “Homem mortal.” Hebr.: ’enóhsh.
+====
+
+[[v19-104-16]]
+
+^<<v19-104-16,16>>^ As árvores de Jeová fartaram-se,
+Os cedros do Líbano que ele plantou,
+
+[[v19-104-17]]
+
+^<<v19-104-17,17>>^ Nos quais os próprios pássaros fazem ninhos.
+Quanto à cegonha, os juníperos são a sua casa.
+
+[[v19-104-18]]
+
+^<<v19-104-18,18>>^ Os altos montes são para os cabritos monteses;
+Os rochedos são um refúgio para os procávias.
+
+[[v19-104-19]]
+
+^<<v19-104-19,19>>^ Ele fez a lua para os tempos designados;
+O próprio sol sabe muito bem onde se põe.
+
+[[v19-104-20]]
+
+^<<v19-104-20,20>>^ Tu causas a escuridão para que se torne noite;
+Nela se movem todos os animais selváticos da floresta.
+
+[[v19-104-21]]
+
+^<<v19-104-21,21>>^ Os leões novos jubados estão bramindo pela presa
+E por procurarem do próprio Deus^&#42;1^ o seu alimento.
+
+[NOTE]
+====
+. “Do . . . Deus.” Hebr.: me·’Él.
+====
+
+[[v19-104-22]]
+
+^<<v19-104-22,22>>^ O sol começa a raiar — eles se recolhem
+E se deitam nos seus próprios esconderijos.^&#42;1^
+
+[NOTE]
+====
+. Ou “moradas”.
+====
+
+[[v19-104-23]]
+
+^<<v19-104-23,23>>^ O homem^&#42;1^ sai para a sua atividade
+E para o seu serviço até à noitinha.
+
+[NOTE]
+====
+. Ou: “O homem terreno.” Hebr.: ’a·dhám.
+====
+
+[[v19-104-24]]
+
+^<<v19-104-24,24>>^ Quantos são os teus trabalhos, ó Jeová!
+A todos eles fizeste em sabedoria.
+A terra está cheia das tuas produções.
+
+[[v19-104-25]]
+
+^<<v19-104-25,25>>^ Quanto a este mar, tão grande e largo,^&#42;1^
+Há ali inúmeras coisas que se movem,
+Criaturas viventes, tanto pequenas como grandes.
+
+[NOTE]
+====
+. Lit.: “amplo em ambos os lados (mãos)”, isto é, espaçoso.
+====
+
+[[v19-104-26]]
+
+^<<v19-104-26,26>>^ Ali vão os navios;
+Quanto ao leviatã,^&#42;1^ formaste-o para brincar nele.
+
+[NOTE]
+====
+. “Leviatã.” Hebr.: liw·ya·thán; LXXVg: “dragão (serpente)”.
+====
+
+[[v19-104-27]]
+
+^<<v19-104-27,27>>^ Todos eles — a ti ficam aguardando
+Para [lhes] dares o alimento a seu tempo.
+
+[[v19-104-28]]
+
+^<<v19-104-28,28>>^ Apanham o que lhes dás.
+Abres a tua mão — eles se fartam com coisas boas.
+
+[[v19-104-29]]
+
+^<<v19-104-29,29>>^ Se escondes a tua face, ficam perturbados.
+Se lhes tiras o espírito,^&#42;1^ expiram
+E retornam ao seu pó.
+
+[NOTE]
+====
+. “O espírito (fôlego).” Hebr.: ru·hhám; gr.: pneú·ma; lat.: spí·ri·tum.
+====
+
+[[v19-104-30]]
+
+^<<v19-104-30,30>>^ Se envias teu espírito, são criados;
+E fazes nova a face do solo.
+
+[[v19-104-31]]
+
+^<<v19-104-31,31>>^ A glória de Jeová mostrará ser por tempo indefinido.
+Jeová se alegrará com os seus trabalhos.
+
+[[v19-104-32]]
+
+^<<v19-104-32,32>>^ Ele olha para a terra, e ela treme;
+Toca nos montes, e eles fumegam.
+
+[[v19-104-33]]
+
+^<<v19-104-33,33>>^ Vou cantar a Jeová durante a minha vida;
+Vou entoar melodias ao meu Deus enquanto eu existir.
+
+[[v19-104-34]]
+
+^<<v19-104-34,34>>^ Seja prazenteira a minha reflexão sobre ele.
+Eu, da minha parte, me alegrarei em Jeová.
+
+[[v19-104-35]]
+
+^<<v19-104-35,35>>^ Dar-se-á cabo dos pecadores de cima da terra;
+E quanto aos iníquos, não mais existirão.
+Bendize a Jeová, ó minha alma. Louvai a Jah!^&#42;1^
+
+[NOTE]
+====
+. “Louvai a Jah!” Hebr.: Ha·lelu·Yáh; gr.: Al·le·loú·i·a; lat.: Al·le·lú·ia. Veja 68:4 n.; Ap. 1D.
+====
+
+'''
+
+xref:019-salmo/019-salmo-103.adoc#v19-103-0[&#60; Capítulo Anterior] | <<v19-104-0,Topo>> | xref:019-salmo/019-salmo-105.adoc#v19-105-0[Próximo Capítulo &#62;]

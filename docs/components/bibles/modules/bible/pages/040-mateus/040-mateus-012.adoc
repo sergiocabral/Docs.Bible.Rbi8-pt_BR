@@ -1,0 +1,250 @@
+include::./index.adoc[]
+
+[[v40-12-0]]
+=== Mateus, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v40-12-1]]
+
+^<<v40-12-1,1>>^ Naquela época, Jesus passou pelas searas, no sábado. Seus discípulos ficaram com fome e principiaram a arrancar espigas e a comer.
+
+[[v40-12-2]]
+
+^<<v40-12-2,2>>^ Vendo isso, os fariseus disseram-lhe: “Eis que teus discípulos estão fazendo o que não é lícito fazer no sábado.”
+
+[[v40-12-3]]
+
+^<<v40-12-3,3>>^ Ele lhes disse: “Não lestes o que Davi fez quando ele e seus homens ficaram com fome?
+
+[[v40-12-4]]
+
+^<<v40-12-4,4>>^ Como entrou na casa de Deus, e comeram os pães da apresentação,^&#42;1^ algo que não lhe era lícito comer, nem aos que estavam com ele, mas apenas aos sacerdotes?
+
+[NOTE]
+====
+. “Pães da apresentação.” Gr.: ár·tous tes pro·thé·se·os; J22(hebr.): lé·hhem hap·pa·ním. Ou “pães da proposição”. Veja Êx 25:30 n.
+====
+
+[[v40-12-5]]
+
+^<<v40-12-5,5>>^ Ou, não lestes na Lei que os sacerdotes no templo, nos sábados, não tratam o sábado como sagrado e permanecem sem culpa?
+
+[[v40-12-6]]
+
+^<<v40-12-6,6>>^ Mas eu vos digo que algo maior do que o templo está aqui.
+
+[[v40-12-7]]
+
+^<<v40-12-7,7>>^ No entanto, se tivésseis entendido o que significa:^&#42;1^ ‘Misericórdia quero, e não sacrifício’, não teríeis condenado os inocentes.
+
+[NOTE]
+====
+. Lit.: “o que é”. Gr.: tí e·stin. Veja 26:26 n.
+====
+
+[[v40-12-8]]
+
+^<<v40-12-8,8>>^ Porque Senhor do sábado é o que é o Filho do homem.”
+
+[[v40-12-9]]
+
+^<<v40-12-9,9>>^ Tendo partido dali, entrou na sinagoga deles;
+
+[[v40-12-10]]
+
+^<<v40-12-10,10>>^ e eis que havia ali um homem com a mão ressequida! De modo que lhe perguntaram: “É lícito curar no sábado?” para que pudessem conseguir uma acusação contra ele.
+
+[[v40-12-11]]
+
+^<<v40-12-11,11>>^ Ele lhes disse: “Quem é o homem entre vós que, tendo uma só ovelha, e, caindo esta numa cova, no sábado, não a agarra e levanta para fora?
+
+[[v40-12-12]]
+
+^<<v40-12-12,12>>^ Afinal de contas, quanto mais vale um homem que uma ovelha! Por isso é lícito fazer uma coisa excelente no sábado.”
+
+[[v40-12-13]]
+
+^<<v40-12-13,13>>^ Disse então ao homem: “Estende a tua mão.” E ele a estendeu, e ela foi restabelecida sã como a outra mão.
+
+[[v40-12-14]]
+
+^<<v40-12-14,14>>^ Mas os fariseus saíram e realizaram uma consulta contra ele, para que o pudessem destruir.
+
+[[v40-12-15]]
+
+^<<v40-12-15,15>>^ Jesus, vindo a saber [disso], retirou-se dali. Muitos o seguiram, também, e ele os curou a todos,
+
+[[v40-12-16]]
+
+^<<v40-12-16,16>>^ mas advertiu-os estritamente que não o tornassem manifesto;
+
+[[v40-12-17]]
+
+^<<v40-12-17,17>>^ para que se cumprisse o que fora dito por intermédio de Isaías, o profeta, que disse:
+
+[[v40-12-18]]
+
+^<<v40-12-18,18>>^ “Eis o meu servo a quem tenho escolhido, meu amado, a quem a minha alma tem aprovado! Porei sobre ele o meu espírito e ele esclarecerá às nações o que é justiça.
+
+[[v40-12-19]]
+
+^<<v40-12-19,19>>^ Não altercará, nem gritará, nem ouvirá alguém a sua voz nas ruas largas.
+
+[[v40-12-20]]
+
+^<<v40-12-20,20>>^ Não esmagará nenhuma cana machucada, tampouco extinguirá qualquer mecha fumegante, até enviar a justiça com bom êxito.^&#42;1^
+
+[NOTE]
+====
+. Ou “à vitória”.
+====
+
+[[v40-12-21]]
+
+^<<v40-12-21,21>>^ Deveras, em seu nome esperarão as nações.”
+
+[[v40-12-22]]
+
+^<<v40-12-22,22>>^ Trouxeram-lhe então um homem possesso de demônio, cego e mudo, e ele o curou, de modo que o mudo falava e via.
+
+[[v40-12-23]]
+
+^<<v40-12-23,23>>^ Ora, todas as multidões ficaram simplesmente arrebatadas e começaram a dizer: “Não é este talvez o Filho de Davi?”
+
+[[v40-12-24]]
+
+^<<v40-12-24,24>>^ Ouvindo isso, os fariseus disseram: “Este não expulsa os demônios senão por meio de Belzebu,^&#42;1^ o governante dos demônios.”
+
+[NOTE]
+====
+. “Belzebu”, VgSyc,p,s; CDWSyhArm: “Beelzeboul”; אB: “Beezeboul”; possivelmente significando “Senhor da Habitação”, ou, se for trocadilho da palavra hebr. não-bíblica zé·vel (esterco): “Senhor do Esterco”. Veja 2Rs 1:2 n.: “Baal-Zebube”.
+====
+
+[[v40-12-25]]
+
+^<<v40-12-25,25>>^ Conhecendo os pensamentos deles, disse-lhes: “Todo reino dividido contra si mesmo cai em desolação, e toda cidade ou casa dividida contra si mesma não permanece.
+
+[[v40-12-26]]
+
+^<<v40-12-26,26>>^ Do mesmo modo, se Satanás expulsa a Satanás, ele ficou dividido contra si mesmo; como permanecerá então o seu reino?
+
+[[v40-12-27]]
+
+^<<v40-12-27,27>>^ Ainda mais, se eu expulso os demônios por meio de Belzebu, por meio de quem os expulsam os vossos filhos? É por isso que eles serão os vossos juízes.
+
+[[v40-12-28]]
+
+^<<v40-12-28,28>>^ Mas, se é por meio do espírito de Deus que eu expulso os demônios, o reino de Deus vos tem realmente alcançado.
+
+[[v40-12-29]]
+
+^<<v40-12-29,29>>^ Ou como pode alguém invadir a casa dum homem forte e apoderar-se de seus bens móveis, a menos que primeiro amarre o homem forte? E depois saqueará a casa dele.
+
+[[v40-12-30]]
+
+^<<v40-12-30,30>>^ Quem não está do meu lado é contra mim, e quem comigo não ajunta, espalha.
+
+[[v40-12-31]]
+
+^<<v40-12-31,31>>^ “Por esta razão, eu vos digo: Toda sorte de pecado e blasfêmia será perdoada aos homens, mas a blasfêmia contra o espírito não será perdoada.
+
+[[v40-12-32]]
+
+^<<v40-12-32,32>>^ Por exemplo, quem falar uma palavra contra o Filho do homem, ser-lhe-á perdoado; mas quem falar contra o espírito santo,^&#42;1^ não lhe será perdoado, não, nem neste sistema de coisas,^&#42;2^ nem no que há de vir.
+
+[NOTE]
+====
+. Lit.: “falar rebaixando o espírito santo”.
+. Ou “nesta ordem de coisas”. Gr.: ai·ó·ni; lat.: saé·cu·lo; J1-14,16-18(hebr.): va·‛oh·lám, “na ordem de coisas”.
+====
+
+[[v40-12-33]]
+
+^<<v40-12-33,33>>^ “Ou tornais a árvore excelente e seu fruto excelente, ou tornais a árvore podre e seu fruto podre; pois é pelo seu fruto que se conhece a árvore.
+
+[[v40-12-34]]
+
+^<<v40-12-34,34>>^ Descendência de víboras, como podeis falar coisas boas quando sois iníquos? Pois é da abundância do coração que a boca fala.
+
+[[v40-12-35]]
+
+^<<v40-12-35,35>>^ O homem bom, do seu bom tesouro, envia coisas boas, ao passo que o homem iníquo, do seu tesouro iníquo, envia coisas iníquas.
+
+[[v40-12-36]]
+
+^<<v40-12-36,36>>^ Eu vos digo que de toda declaração sem proveito que os homens fizerem prestarão contas no Dia do Juízo;
+
+[[v40-12-37]]
+
+^<<v40-12-37,37>>^ pois é pelas tuas palavras que serás declarado justo e é pelas tuas palavras que serás condenado.”
+
+[[v40-12-38]]
+
+^<<v40-12-38,38>>^ Respondendo-lhe então alguns escribas e fariseus, disseram: “Instrutor, queremos ver um sinal da tua parte.”
+
+[[v40-12-39]]
+
+^<<v40-12-39,39>>^ Em resposta, disse-lhes: “Uma geração iníqua e adúltera persiste em buscar um sinal, mas nenhum sinal lhe será dado, exceto o sinal de Jonas, o profeta.
+
+[[v40-12-40]]
+
+^<<v40-12-40,40>>^ Porque, assim como Jonas esteve três dias e três noites no ventre do enorme peixe, assim estará também o Filho do homem três dias e três noites no coração da terra.
+
+[[v40-12-41]]
+
+^<<v40-12-41,41>>^ Homens de Nínive se levantarão no julgamento com esta geração e a condenarão; porque eles se arrependeram com o que Jonas pregou,^&#42;1^ mas, eis que algo maior do que Jonas está aqui.
+
+[NOTE]
+====
+. Lit.: “a pregação de Jonas”. Gr.: to ké·ryg·ma I·o·ná; lat.: prae·di·ca·ti·ó·ne Ió·nae.
+====
+
+[[v40-12-42]]
+
+^<<v40-12-42,42>>^ A rainha do sul será levantada no julgamento com esta geração e a condenará; porque ela veio dos confins^&#42;1^ da terra para ouvir a sabedoria de Salomão, mas, eis que algo maior do que Salomão está aqui.
+
+[NOTE]
+====
+. Ou “términos”. Gr.: pe·rá·ton. Veja At 1:8 n.: “distante”.
+====
+
+[[v40-12-43]]
+
+^<<v40-12-43,43>>^ “Quando um espírito impuro sai dum homem, passa por lugares áridos em busca dum lugar de descanso, e não o acha.
+
+[[v40-12-44]]
+
+^<<v40-12-44,44>>^ Então diz: ‘Voltarei para a minha casa da qual me mudei’; e, chegando, acha-a desocupada, mas varrida e adornada.
+
+[[v40-12-45]]
+
+^<<v40-12-45,45>>^ Então vai e toma consigo sete espíritos diferentes, mais iníquos do que ele mesmo, e, entrando, ficam morando ali; e a situação final desse homem torna-se pior do que a primeira. É assim que será também com esta geração iníqua.”
+
+[[v40-12-46]]
+
+^<<v40-12-46,46>>^ Enquanto ainda falava às multidões, eis que sua mãe e seus irmãos ficaram parados lá fora, procurando falar-lhe.
+
+[[v40-12-47]]
+
+^<<v40-12-47,47>>^ Portanto, alguém lhe disse: “Eis que a tua mãe e teus irmãos estão parados lá fora, procurando falar-te.”^&#42;1^
+
+[NOTE]
+====
+. א°BSyc,s omitem o v. 47.
+====
+
+[[v40-12-48]]
+
+^<<v40-12-48,48>>^ Em resposta, ele disse ao que lhe dizia isso: “Quem é minha mãe e quem são meus irmãos?”
+
+[[v40-12-49]]
+
+^<<v40-12-49,49>>^ E, estendendo a mão para os seus discípulos, disse: “Eis minha mãe e meus irmãos!
+
+[[v40-12-50]]
+
+^<<v40-12-50,50>>^ Pois todo aquele que faz a vontade de meu Pai que está no céu, este é meu irmão, e [minha] irmã e [minha] mãe.”
+
+'''
+
+xref:040-mateus/040-mateus-011.adoc#v40-11-0[&#60; Capítulo Anterior] | <<v40-12-0,Topo>> | xref:040-mateus/040-mateus-013.adoc#v40-13-0[Próximo Capítulo &#62;]

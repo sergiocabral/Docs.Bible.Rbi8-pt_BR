@@ -1,0 +1,154 @@
+include::./index.adoc[]
+
+[[v15-4-0]]
+=== Esdras, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v15-4-1]]
+
+^<<v15-4-1,1>>^ Quando os adversários de Judá e de Benjamim ouviram que os filhos do Exílio estavam construindo um templo a Jeová, o Deus de Israel,
+
+[[v15-4-2]]
+
+^<<v15-4-2,2>>^ aproximaram-se imediatamente de Zorobabel e dos cabeças das casas paternas e disseram-lhes: “Deixai-nos construir convosco; pois, assim como vós, buscamos o vosso Deus e a ele oferecemos sacrifícios desde os dias de Esar-Hadom, rei da Assíria, que nos trouxe para cá.”
+
+[[v15-4-3]]
+
+^<<v15-4-3,3>>^ No entanto, Zorobabel e Jesua, e os restantes dos cabeças das casas paternas de Israel disseram-lhes: “Não tendes nada que ver conosco^&#42;1^ na construção de uma casa ao nosso Deus, pois nós mesmos, juntos, construiremos para Jeová, o Deus de Israel, assim como nos mandou o Rei Ciro, rei da Pérsia.”
+
+[NOTE]
+====
+. Lit.: “[Não há] nada para vós e para nós.” Esta é uma expressão idiomática hebr. Veja Ap. 7B.
+====
+
+[[v15-4-4]]
+
+^<<v15-4-4,4>>^ Em vista disso, o povo da terra enfraquecia continuamente as mãos do povo de Judá e o desalentava com respeito à construção,
+
+[[v15-4-5]]
+
+^<<v15-4-5,5>>^ e contratava conselheiros contra eles para frustrar seu conselho em todos os dias de Ciro, rei da Pérsia, até o reinado de Dario, rei da Pérsia.
+
+[[v15-4-6]]
+
+^<<v15-4-6,6>>^ E no reinado de Assuero, no início do seu reinado, escreveram uma acusação contra os habitantes de Judá e de Jerusalém.
+
+[[v15-4-7]]
+
+^<<v15-4-7,7>>^ Também nos dias de Artaxerxes, Bislão, Mitredate, Tabeel e o resto dos seus confrades escreveram a Artaxerxes, rei da Pérsia, e o conteúdo da carta estava escrito em caracteres aramaicos e traduzido ao idioma aramaico.
+
+[[v15-4-8]]
+
+^<<v15-4-8,8>>^ ^&#42;1^ Reum, o principal funcionário do governo, e Sinsai, o escrevente, escreveram uma carta contra Jerusalém a Artaxerxes, o rei, conforme segue:
+
+[NOTE]
+====
+. Deste v. em diante, e até 6:18, Esdras foi escrito em aram.
+====
+
+[[v15-4-9]]
+
+^<<v15-4-9,9>>^ Então Reum, o principal funcionário do governo, e Sinsai, o escrevente, e o resto dos seus confrades, os juízes e os governadores menores de além do Rio,^&#42;1^ os secretários, o povo de Ereque, os babilônios, os habitantes de Susa,^&#42;2^ isto é, os elamitas,
+
+[NOTE]
+====
+. Ou “os governadores menores de além-rio (transfluviais)”.
+. Ou “Susã”.
+====
+
+[[v15-4-10]]
+
+^<<v15-4-10,10>>^ e o resto das nações que o grande e ilustre Asenapar^&#42;1^ levara ao exílio e estabelecera nas cidades de Samaria, e o resto de além do Rio, —;^&#42;2^ e agora,
+
+[NOTE]
+====
+. Ou “Osnapar”. Esta é uma forma abreviada do nome do rei assírio Assurbanipal; o aram., como o persa, que não tem l, substitui o l final por r.
+. No M, o verbo foi evidentemente omitido aqui. LXX insere “julgaram”, transpondo este verbo para o início do v. 9.
+====
+
+[[v15-4-11]]
+
+^<<v15-4-11,11>>^ esta é uma cópia da carta que eles enviaram a respeito disso:
+“A Artaxerxes, o rei, teus servos, os homens de além do Rio: E agora,
+
+[[v15-4-12]]
+
+^<<v15-4-12,12>>^ seja do conhecimento do rei que os judeus que de ti subiram para cá a nós chegaram a Jerusalém. Estão construindo a cidade rebelde e má, e passam a terminar os muros e a reparar os alicerces.
+
+[[v15-4-13]]
+
+^<<v15-4-13,13>>^ Agora, seja do conhecimento do rei que, se esta cidade for reconstruída e seus muros terminados, eles não darão nem imposto, nem tributo, nem pedágio, e isto causará prejuízo aos tesouros dos reis.
+
+[[v15-4-14]]
+
+^<<v15-4-14,14>>^ Agora, visto que deveras comemos o sal^&#42;1^ do palácio e não é próprio vermos o desnudamento do rei, por esta razão mandamos dar conhecimento [disso] ao rei,
+
+[NOTE]
+====
+. “Comemos o sal.” Esta é uma expressão antiga que significa receber salário em pagamento pela prestação de serviços.
+====
+
+[[v15-4-15]]
+
+^<<v15-4-15,15>>^ para que se faça uma investigação no livro dos registros de teus antecessores. Então acharás no livro dos registros e saberás que esta cidade é uma cidade rebelde e que causa perdas aos reis e aos distritos jurisdicionais, e que dentro dela havia os que promoviam revolta desde os dias da antiguidade. Por esta razão foi devastada esta cidade.
+
+[[v15-4-16]]
+
+^<<v15-4-16,16>>^ Damos a conhecer ao rei que, se a cidade for reconstruída e seus muros terminados, certamente, tampouco terás quinhão além do Rio.”^&#42;1^
+
+[NOTE]
+====
+. Isto é, o Eufrates.
+====
+
+[[v15-4-17]]
+
+^<<v15-4-17,17>>^ O rei enviou uma comunicação a Reum, o principal funcionário do governo, e a Sinsai, o escrevente, e ao resto dos seus confrades que moravam em Samaria, e ao resto além do Rio:
+“Cumprimentos!^&#42;1^ E agora,
+
+[NOTE]
+====
+. Lit.: “Paz!” Aram.: shelám.
+====
+
+[[v15-4-18]]
+
+^<<v15-4-18,18>>^ o documento oficial que nos^&#42;1^ enviastes foi lido claramente diante de mim.
+
+[NOTE]
+====
+. “Nos”, pl., para denotar excelência, sendo usado como o nosso atual “nós” editorial (ou majestático).
+====
+
+[[v15-4-19]]
+
+^<<v15-4-19,19>>^ De modo que dei uma ordem, e investigou-se e achou-se que aquela cidade, desde os dias da antiguidade, tem sido uma que se levanta contra os reis e uma em que se promoveram rebelião e revolta.
+
+[[v15-4-20]]
+
+^<<v15-4-20,20>>^ E mostrava-se haver reis fortes sobre Jerusalém e que governavam tudo além do Rio, e dava-se-lhes imposto, tributo e pedágio.
+
+[[v15-4-21]]
+
+^<<v15-4-21,21>>^ Agora, dai ordem para que estes varões vigorosos parem, a fim de que não se reconstrua aquela cidade até que eu dê a ordem.
+
+[[v15-4-22]]
+
+^<<v15-4-22,22>>^ Portanto, cuidai de que não haja negligência na atuação neste respeito, para que não aumente o dano para o prejuízo dos reis.”
+
+[[v15-4-23]]
+
+^<<v15-4-23,23>>^ Então, depois de se ter lido a cópia do documento oficial de Artaxerxes, o rei, perante Reum e Sinsai, o escrevente, e seus confrades, eles foram apressadamente a Jerusalém, aos judeus, e os fizeram parar pela força das armas.^&#42;1^
+
+[NOTE]
+====
+. Ou “por um exército”. Lit.: “com braço e força”.
+====
+
+[[v15-4-24]]
+
+^<<v15-4-24,24>>^ Foi então que parou a obra na casa de Deus, que estava em Jerusalém; e continuou parada até o segundo ano do reinado de Dario, rei da Pérsia.
+
+'''
+
+xref:015-esdras/015-esdras-003.adoc#v15-3-0[&#60; Capítulo Anterior] | <<v15-4-0,Topo>> | xref:015-esdras/015-esdras-005.adoc#v15-5-0[Próximo Capítulo &#62;]

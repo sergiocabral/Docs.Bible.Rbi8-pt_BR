@@ -1,0 +1,26 @@
+include::./index.adoc[]
+
+[[v19-117-0]]
+=== Salmos, 117
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-117-1]]
+
+^<<v19-117-1,1>>^ Louvai a Jeová, todas as nações;
+Gabai-o, todos os clãs.
+
+[[v19-117-2]]
+
+^<<v19-117-2,2>>^ Porque a sua benevolência^&#42;1^ mostrou-se poderosa para conosco;
+E a veracidade de Jeová^&#42;2^ é por tempo indefinido.
+Louvai a Jah!
+
+[NOTE]
+====
+. Ou “amor leal”.
+. Ou “e a veridicidade (verdade) de Jeová”. No texto hebr.: we·’emeth-Yehwáh.
+====
+
+'''
+
+xref:019-salmo/019-salmo-116.adoc#v19-116-0[&#60; Capítulo Anterior] | <<v19-117-0,Topo>> | xref:019-salmo/019-salmo-118.adoc#v19-118-0[Próximo Capítulo &#62;]

@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v53-2-0]]
+=== 2 Tessalonicenses, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v53-2-1]]
+
+^<<v53-2-1,1>>^ No entanto, irmãos, com respeito à presença^&#42;1^ de nosso^&#42;2^ Senhor Jesus Cristo e de sermos ajuntados a ele, solicitamo-vos
+
+[NOTE]
+====
+. Veja Ap. 5B.
+. “Nosso”, אADVgSyp; B: “do”.
+====
+
+[[v53-2-2]]
+
+^<<v53-2-2,2>>^ que não sejais depressa demovidos de vossa razão, nem fiqueis provocados, quer por uma expressão inspirada,^&#42;1^ quer por intermédio duma mensagem verbal, quer por uma carta, como se fosse da nossa parte, no sentido de que o dia de Jeová^&#42;2^ está aqui.
+
+[NOTE]
+====
+. Ou “por um espírito”.
+. Veja Ap. 1D.
+====
+
+[[v53-2-3]]
+
+^<<v53-2-3,3>>^ Que ninguém vos seduza, de maneira alguma, porque não virá a menos que venha primeiro a apostasia^&#42;1^ e seja revelado o homem que é contra a lei,^&#42;2^ o filho da destruição.^&#42;3^
+
+[NOTE]
+====
+. “Apostasia.” Gr.: a·po·sta·sí·a. Este substantivo deriva do verbo a·fí·ste·mi, “apartar-se de”. O substantivo tem o sentido de “deserção; abandono; rebeldia (rebelião)”. Veja At 21:21 n.
+. “Contra a lei”, אB; ADVgSyp: “do pecado”.
+. Ou “da aniquilação”. Veja Mt 7:13 n.
+====
+
+[[v53-2-4]]
+
+^<<v53-2-4,4>>^ Ele se coloca em oposição e se ergue acima de todo aquele que se chame “deus” ou objeto de reverência, de modo que se assenta no templo^&#42;1^ de O Deus,^&#42;2^ exibindo-se publicamente como sendo [um] deus.
+
+[NOTE]
+====
+. Ou “habitação (morada) divina”. Gr.: na·ón; lat.: tém·plo; J17,18,22(hebr.): beheh·khál, “no palácio (templo) de”.
+. “O Deus.” Gr.: tou The·oú; J17,22(hebr.): ha·’Elo·hím, “o [verdadeiro] Deus”. Veja Gên 5:22 n.: “Deus”.
+====
+
+[[v53-2-5]]
+
+^<<v53-2-5,5>>^ Não vos lembrais de que, enquanto eu estava ainda convosco, costumava dizer-vos estas coisas?
+
+[[v53-2-6]]
+
+^<<v53-2-6,6>>^ E assim, agora sabeis o que age como restrição, visando que ele seja revelado no seu próprio tempo devido.
+
+[[v53-2-7]]
+
+^<<v53-2-7,7>>^ Verdadeiramente, o mistério daquilo que é contra a lei já está operando; mas apenas até que aquele que agora mesmo age como restrição^&#42;1^ esteja fora do caminho.
+
+[NOTE]
+====
+. Lit.: “aquele (que) agora mesmo segura”.
+====
+
+[[v53-2-8]]
+
+^<<v53-2-8,8>>^ Então, deveras, será revelado aquele que é contra a lei, a quem o Senhor Jesus^&#42;1^ eliminará com o espírito de sua boca e reduzirá a nada pela manifestação de sua presença.
+
+[NOTE]
+====
+. “Jesus”, אAD°Vg; BDc o omitem.
+====
+
+[[v53-2-9]]
+
+^<<v53-2-9,9>>^ Mas a presença daquele que é contra a lei^&#42;1^ é segundo a operação^&#42;2^ de Satanás, com toda obra poderosa, e sinais e portentos mentirosos,
+
+[NOTE]
+====
+. Ou “cuja presença”, referindo-se a “quem” no v. 8. Quanto a “presença”, veja também Ap. 5B.
+. Lit.: “atuação interna”.
+====
+
+[[v53-2-10]]
+
+^<<v53-2-10,10>>^ e com todo engano^&#42;1^ injusto para com os que estão perecendo, em retribuição por não terem aceito o amor da verdade, para que fossem salvos.
+
+[NOTE]
+====
+. Lit.: “sedução”.
+====
+
+[[v53-2-11]]
+
+^<<v53-2-11,11>>^ De modo que é por isso que Deus deixa que vá ter com eles a operação do erro, para que fiquem acreditando na mentira,
+
+[[v53-2-12]]
+
+^<<v53-2-12,12>>^ a fim de que todos eles sejam julgados, porque não acreditaram na verdade, mas tiveram prazer^&#42;1^ na injustiça.
+
+[NOTE]
+====
+. Lit.: “têm achado boa a”.
+====
+
+[[v53-2-13]]
+
+^<<v53-2-13,13>>^ No entanto, somos obrigados a agradecer sempre a Deus por vós, irmãos amados por Jeová,^&#42;1^ porque Deus vos selecionou desde [o] princípio para a salvação, por santificar-vos com espírito e pela vossa fé na verdade.
+
+[NOTE]
+====
+. “Jeová”, J13,16,24; אAB(gr.): Ky·rí·ou; D°Vg: “Deus”. Veja Ap. 1D.
+====
+
+[[v53-2-14]]
+
+^<<v53-2-14,14>>^ Para este [mesmo destino] vos chamou por intermédio das boas novas que declaramos, para a adquisição da glória de nosso Senhor Jesus Cristo.
+
+[[v53-2-15]]
+
+^<<v53-2-15,15>>^ Assim, pois, irmãos, mantende-vos firmes e mantende-vos apegados às tradições que se vos ensinaram, quer tenha sido por mensagem verbal, quer por uma carta nossa.
+
+[[v53-2-16]]
+
+^<<v53-2-16,16>>^ Além disso, o nosso próprio Senhor Jesus Cristo, e Deus, nosso Pai, que nos amou e deu consolo eterno e boa esperança por meio de benignidade imerecida,
+
+[[v53-2-17]]
+
+^<<v53-2-17,17>>^ consolem vossos corações e vos façam firmes em toda boa ação e palavra.
+
+'''
+
+xref:053-2-tessalonicenses/053-2-tessalonicenses-001.adoc#v53-1-0[&#60; Capítulo Anterior] | <<v53-2-0,Topo>> | xref:053-2-tessalonicenses/053-2-tessalonicenses-003.adoc#v53-3-0[Próximo Capítulo &#62;]

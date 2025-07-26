@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v20-13-0]]
+=== Provérbios, 13
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-13-1]]
+
+^<<v20-13-1,1>>^ O filho é sábio quando há disciplina da parte do pai, mas é o zombador quem não deu ouvidos à censura.
+
+[[v20-13-2]]
+
+^<<v20-13-2,2>>^ Dos frutos da sua boca o homem comerá aquilo que é bom, mas a própria alma^&#42;1^ dos que agem traiçoeiramente é violência.
+
+[NOTE]
+====
+. “Mas a própria alma (desejo de alma; almejo) dos.” Hebr.: wené·fesh; gr.: psy·khaí, pl.; lat.: á·ni·ma.
+====
+
+[[v20-13-3]]
+
+^<<v20-13-3,3>>^ Quem resguarda a sua boca guarda a sua alma. Quem abre bem os seus lábios — terá a ruína.
+
+[[v20-13-4]]
+
+^<<v20-13-4,4>>^ O preguiçoso mostra-se almejante, mas a sua alma [não tem] nada. No entanto, far-se-á que a própria alma dos diligentes engorde.
+
+[[v20-13-5]]
+
+^<<v20-13-5,5>>^ A palavra falsa é o que o justo odeia, mas os iníquos agem de modo vergonhoso e trazem sobre si a ignomínia.
+
+[[v20-13-6]]
+
+^<<v20-13-6,6>>^ A própria justiça resguarda aquele que é inofensivo no seu caminho, mas é a iniqüidade que transtorna o pecador.^&#42;1^
+
+[NOTE]
+====
+. Mediante uma ligeira correção; M parece rezar: “é a iniqüidade que distorce a oferta pelo pecado”.
+====
+
+[[v20-13-7]]
+
+^<<v20-13-7,7>>^ Há aquele que pretende ser rico, no entanto, não tem absolutamente nada; há aquele que pretende ser de poucos meios, no entanto, [tem] muitas coisas valiosas.
+
+[[v20-13-8]]
+
+^<<v20-13-8,8>>^ O resgate da alma do homem está nas suas riquezas, mas o de poucos meios não ouviu censura.
+
+[[v20-13-9]]
+
+^<<v20-13-9,9>>^ A própria luz dos justos alegrar-se-á; mas a lâmpada dos iníquos — ela será apagada.
+
+[[v20-13-10]]
+
+^<<v20-13-10,10>>^ Pela presunção só se causa rixa, mas há sabedoria com os que se consultam mutuamente.
+
+[[v20-13-11]]
+
+^<<v20-13-11,11>>^ As coisas valiosas resultantes da vaidade tornam-se menos, mas quem reúne com a mão é quem produz aumento.
+
+[[v20-13-12]]
+
+^<<v20-13-12,12>>^ A expectativa adiada faz adoecer o coração, mas a coisa desejada, quando vem, é árvore de vida.
+
+[[v20-13-13]]
+
+^<<v20-13-13,13>>^ Aquele que desprezou a palavra, dele se tomará o penhor [dum devedor]; mas aquele que teme o mandamento é quem será compensado.
+
+[[v20-13-14]]
+
+^<<v20-13-14,14>>^ A lei do sábio é fonte^&#42;1^ de vida, para desviar dos laços da morte.
+
+[NOTE]
+====
+. Ou “manancial”. Hebr.: meqóhr.
+====
+
+[[v20-13-15]]
+
+^<<v20-13-15,15>>^ A boa perspicácia é que dá favor, mas o caminho dos que agem traiçoeiramente é escabroso.^&#42;1^
+
+[NOTE]
+====
+. “Escabroso”, segundo a sugestão dada por BDB, p. 451; mediante uma correção do M: “seu desastre”.
+====
+
+[[v20-13-16]]
+
+^<<v20-13-16,16>>^ Todo o argucioso agirá com conhecimento, mas quem é estúpido difundirá tolice.
+
+[[v20-13-17]]
+
+^<<v20-13-17,17>>^ O mensageiro iníquo cairá no mal, mas o enviado fiel é uma cura.
+
+[[v20-13-18]]
+
+^<<v20-13-18,18>>^ Quem negligencia a disciplina [terá] pobreza e desonra, mas aquele que guarda a repreensão é o que é glorificado.
+
+[[v20-13-19]]
+
+^<<v20-13-19,19>>^ O desejo, quando realizado, é prazenteiro para a alma; mas, para os estúpidos é algo detestável desviar-se do mal.
+
+[[v20-13-20]]
+
+^<<v20-13-20,20>>^ Quem anda com pessoas sábias tornar-se-á sábio, mas irá mal com aquele que tem tratos com os estúpidos.
+
+[[v20-13-21]]
+
+^<<v20-13-21,21>>^ Os pecadores são os que a calamidade persegue, mas os justos são os a quem o bem retribui.
+
+[[v20-13-22]]
+
+^<<v20-13-22,22>>^ Quem é bom deixará uma herança para os filhos dos filhos, e a riqueza do pecador é algo entesourado para o justo.
+
+[[v20-13-23]]
+
+^<<v20-13-23,23>>^ O terreno lavrado de pessoas de poucos meios [produz] grande quantidade de alimento, mas há aquele que é arrasado por falta de juízo.
+
+[[v20-13-24]]
+
+^<<v20-13-24,24>>^ Quem refreia a sua vara odeia seu filho, mas aquele que o ama está à procura dele com disciplina.
+
+[[v20-13-25]]
+
+^<<v20-13-25,25>>^ O justo come, fartando a sua alma, mas o ventre dos iníquos ficará vazio.
+
+'''
+
+xref:020-proverbios/020-proverbios-012.adoc#v20-12-0[&#60; Capítulo Anterior] | <<v20-13-0,Topo>> | xref:020-proverbios/020-proverbios-014.adoc#v20-14-0[Próximo Capítulo &#62;]

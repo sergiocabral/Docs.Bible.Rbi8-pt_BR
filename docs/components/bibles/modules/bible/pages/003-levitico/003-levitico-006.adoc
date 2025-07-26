@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v3-6-0]]
+=== Levítico, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-6-1]]
+
+^<<v3-6-1,1>>^ ^&#42;1^ E Jeová prosseguiu, falando a Moisés, dizendo:
+
+[NOTE]
+====
+. SyVg começam aqui o capítulo 6; MLXX continuam por mais sete vv.
+====
+
+[[v3-6-2]]
+
+^<<v3-6-2,2>>^ “Caso uma alma peque por se comportar de modo infiel para com Jeová e ele deveras engane seu colega quanto a algo ao seu cargo, ou um depósito em mãos, ou um roubo, ou defraude seu colega,
+
+[[v3-6-3]]
+
+^<<v3-6-3,3>>^ ou deveras ache algo perdido e realmente seja enganoso a respeito disso, e jure falsamente com respeito a qualquer de todas as coisas que o homem possa fazer para pecar por elas;
+
+[[v3-6-4]]
+
+^<<v3-6-4,4>>^ então tem de suceder que, caso ele peque e deveras se torne culpado, tem de devolver a coisa roubada que roubou ou a coisa extorquida que tomou com fraude, ou a coisa ao seu cargo, de que foi encarregado, ou a coisa perdida que achou,
+
+[[v3-6-5]]
+
+^<<v3-6-5,5>>^ ou qualquer coisa que seja, a respeito da qual possa jurar falsamente, e tem de dar compensação por ela no seu pleno montante e acrescentar-lhe-á um quinto dela. Dá-la-á àquele a quem pertence, no dia em que se provar a sua culpa.
+
+[[v3-6-6]]
+
+^<<v3-6-6,6>>^ E trará a Jeová, como sua oferta pela culpa, um carneiro sadio do rebanho, segundo o valor calculado, como oferta pela culpa, ao sacerdote.
+
+[[v3-6-7]]
+
+^<<v3-6-7,7>>^ E o sacerdote tem de fazer expiação por ele perante Jeová, e assim lhe tem de ser perdoado com respeito a qualquer de todas as coisas que possa fazer, ficando por ela em culpa.”
+
+[[v3-6-8]]
+
+^<<v3-6-8,8>>^ E Jeová continuou a falar a Moisés, dizendo:
+
+[[v3-6-9]]
+
+^<<v3-6-9,9>>^ “Dá ordem a Arão e a seus filhos, dizendo: ‘Esta é a lei da oferta queimada: A oferta queimada ficará na lareira sobre o altar, toda a noite, até à manhã, e nele estará aceso o fogo do altar.
+
+[[v3-6-10]]
+
+^<<v3-6-10,10>>^ E o sacerdote terá de vestir-se de seu traje oficial de linho, e porá os calções de linho sobre sua carne. Então tem de retirar as cinzas gordurosas da oferta queimada que o fogo consome regularmente no altar e tem de pô-las ao lado do altar.
+
+[[v3-6-11]]
+
+^<<v3-6-11,11>>^ E ele tem de despir-se das suas vestes e pôr outras vestes, e tem de levar as cinzas gordurosas a um lugar limpo, fora do acampamento.
+
+[[v3-6-12]]
+
+^<<v3-6-12,12>>^ E o fogo no altar será mantido aceso nele. Não se deve apagar. E o sacerdote tem de queimar lenha nele, manhã após manhã, e pôr em ordem a oferta queimada por cima dele, e tem de fazer fumegar sobre ele os pedaços gordos dos sacrifícios de participação em comum.
+
+[[v3-6-13]]
+
+^<<v3-6-13,13>>^ Manter-se-á continuamente fogo aceso no altar. Não se deve apagar.
+
+[[v3-6-14]]
+
+^<<v3-6-14,14>>^ “‘Ora, esta é a lei da oferta de cereais: Vós, filhos de Arão, apresentai-a perante Jeová diante do altar.
+
+[[v3-6-15]]
+
+^<<v3-6-15,15>>^ E um deles tem de retirar seu punhado da flor de farinha da oferta de cereais e um pouco do seu azeite, e todo o olíbano que há sobre a oferta de cereais, e tem de fazê-lo fumegar sobre o altar como cheiro repousante de lembrança dela para Jeová.
+
+[[v3-6-16]]
+
+^<<v3-6-16,16>>^ E Arão e seus filhos comerão o que sobrar dela. Será comida como pães não fermentados, num lugar santo. Comê-la-ão no pátio da tenda de reunião.
+
+[[v3-6-17]]
+
+^<<v3-6-17,17>>^ Não deve ser cozida com alguma coisa levedada. Eu a dei como seu quinhão das minhas ofertas feitas por fogo. É algo santíssimo, igual à oferta pelo pecado e igual à oferta pela culpa.
+
+[[v3-6-18]]
+
+^<<v3-6-18,18>>^ Todo macho dentre os filhos de Arão comerá dela. É uma porção concedida por tempo indefinido, nas vossas gerações, dentre as ofertas de Jeová feitas por fogo. Tudo o que as tocar se tornará santo.’”
+
+[[v3-6-19]]
+
+^<<v3-6-19,19>>^ E Jeová prosseguiu falando a Moisés, dizendo:
+
+[[v3-6-20]]
+
+^<<v3-6-20,20>>^ “Esta é a oferta de Arão e de seus filhos, que apresentarão a Jeová no dia de ele ser ungido: a décima parte de um efa de flor de farinha como oferta de cereais, continuamente, metade dela de manhã e metade dela à noitinha.
+
+[[v3-6-21]]
+
+^<<v3-6-21,21>>^ Será feita com azeite, numa assadeira. Bem misturada a trarás. Apresentarás em pedaços as confeições da oferta de cereais, como cheiro repousante para Jeová.
+
+[[v3-6-22]]
+
+^<<v3-6-22,22>>^ E o sacerdote, aquele que foi ungido^&#42;1^ em seu lugar dentre os seus filhos, [é que] a fará. É um regulamento por tempo indefinido: Será feita fumegar como oferta inteira para Jeová.
+
+[NOTE]
+====
+. “Ungido.” Hebr.: ham·ma·shí·ahh; gr.: ho khri·stós.
+====
+
+[[v3-6-23]]
+
+^<<v3-6-23,23>>^ E toda oferta de cereais dum sacerdote deve mostrar ser uma oferta inteira. Não deve ser comida.”
+
+[[v3-6-24]]
+
+^<<v3-6-24,24>>^ E Jeová falou mais a Moisés, dizendo:
+
+[[v3-6-25]]
+
+^<<v3-6-25,25>>^ “Fala a Arão e a seus filhos, dizendo: ‘Esta é a lei da oferta pelo pecado: No lugar onde se abate regularmente a oferta queimada abater-se-á a oferta pelo pecado perante Jeová. É algo santíssimo.
+
+[[v3-6-26]]
+
+^<<v3-6-26,26>>^ O sacerdote que a oferecer pelo pecado a comerá. Será comida num lugar santo, no pátio da tenda de reunião.
+
+[[v3-6-27]]
+
+^<<v3-6-27,27>>^ “‘Tudo o que tocar na carne dela tornar-se-á santo, e se alguém espargir um pouco do sangue dela sobre a roupa, lavarás num lugar santo aquilo em que espargiu sangue.
+
+[[v3-6-28]]
+
+^<<v3-6-28,28>>^ E o vaso de barro em que for cozida deve ser destroçado. Mas, se foi cozida num vaso de cobre, então terá de ser esfregado e lavado com água.
+
+[[v3-6-29]]
+
+^<<v3-6-29,29>>^ “‘Todo macho entre os sacerdotes a comerá. É algo santíssimo.
+
+[[v3-6-30]]
+
+^<<v3-6-30,30>>^ No entanto, não se deve comer nenhuma oferta pelo pecado, de cujo sangue se leve um pouco para dentro da tenda de reunião, para fazer expiação no lugar santo. Deve ser queimada no fogo.
+
+'''
+
+xref:003-levitico/003-levitico-005.adoc#v3-5-0[&#60; Capítulo Anterior] | <<v3-6-0,Topo>> | xref:003-levitico/003-levitico-007.adoc#v3-7-0[Próximo Capítulo &#62;]

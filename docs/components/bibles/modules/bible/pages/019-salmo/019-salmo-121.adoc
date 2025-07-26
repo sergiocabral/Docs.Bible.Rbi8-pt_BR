@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v19-121-0]]
+=== Salmos, 121
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Cântico para as Subidas._
+
+[[v19-121-1]]
+
+^<<v19-121-1,1>>^ Levantarei meus olhos para os montes.
+Donde virá a minha ajuda?
+
+[[v19-121-2]]
+
+^<<v19-121-2,2>>^ Minha ajuda procede de Jeová,
+Aquele que fez o céu e a terra.
+
+[[v19-121-3]]
+
+^<<v19-121-3,3>>^ Não é possível que ele permita que teu pé cambaleie.
+Não é possível que Aquele que te guarda esteja sonolento.
+
+[[v19-121-4]]
+
+^<<v19-121-4,4>>^ Eis que não toscanejará nem adormecerá
+Aquele que está guardando a Israel.
+
+[[v19-121-5]]
+
+^<<v19-121-5,5>>^ Jeová te está guardando.
+Jeová é a tua sombra à tua mão direita.
+
+[[v19-121-6]]
+
+^<<v19-121-6,6>>^ De dia, o próprio sol não baterá em ti,
+Nem a lua à noite.
+
+[[v19-121-7]]
+
+^<<v19-121-7,7>>^ O próprio Jeová te guardará contra toda a calamidade.
+Ele guardará a tua alma.
+
+[[v19-121-8]]
+
+^<<v19-121-8,8>>^ O próprio Jeová guardará a tua saída e a tua entrada
+Desde agora e por tempo indefinido.
+
+'''
+
+xref:019-salmo/019-salmo-120.adoc#v19-120-0[&#60; Capítulo Anterior] | <<v19-121-0,Topo>> | xref:019-salmo/019-salmo-122.adoc#v19-122-0[Próximo Capítulo &#62;]

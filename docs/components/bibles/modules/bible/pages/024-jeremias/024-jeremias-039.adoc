@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v24-39-0]]
+=== Jeremias, 39
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-39-1]]
+
+^<<v24-39-1,1>>^ No nono ano de Zedequias, rei de Judá, no décimo mês, chegou Nabucodorosor, rei de Babilônia, e toda a sua força militar a Jerusalém, e começaram a sitiá-la.
+
+[[v24-39-2]]
+
+^<<v24-39-2,2>>^ No décimo primeiro ano de Zedequias, no quarto mês, no nono dia do mês, abriu-se uma brecha na cidade.
+
+[[v24-39-3]]
+
+^<<v24-39-3,3>>^ E todos os príncipes do rei de Babilônia passaram a entrar e a sentar-se no Portão do Meio, [a saber:] Nergal-Sarezer, Sangar-Nebo, Sarsequim, Rabe-Saris,^&#42;1^ Nergal-Sarezer, o Rabe-Mague,^&#42;2^ e todos os demais príncipes do rei de Babilônia.
+
+[NOTE]
+====
+. Ou “o principal oficial da corte; o ajudante-mor”. Hebr.: Rav-sa·rís.
+. Ou “o principal mago (adivinho; astrólogo); o chefe dos grandes”. Hebr.: Rav-mágh.
+====
+
+[[v24-39-4]]
+
+^<<v24-39-4,4>>^ Ora, sucedeu que, assim que Zedequias, rei de Judá, e todos os homens de guerra os viram, começaram a fugir e a sair da cidade, de noite, pelo caminho do jardim do rei, pelo portão entre a muralha dupla; e foram saindo pelo caminho do Arabá.^&#42;1^
+
+[NOTE]
+====
+. Ou “da planície desértica”.
+====
+
+[[v24-39-5]]
+
+^<<v24-39-5,5>>^ E a força militar dos caldeus foi no encalço deles, e conseguiram alcançar Zedequias nas planícies desérticas de Jericó. Tomaram-no então e trouxeram-no a Nabucodorosor, rei de Babilônia, em Ribla, na terra de Hamate, para que pronunciasse sobre ele decisões judiciais.
+
+[[v24-39-6]]
+
+^<<v24-39-6,6>>^ E o rei de Babilônia passou a abater os filhos de Zedequias, em Ribla, diante dos seus olhos, e o rei de Babilônia abateu todos os nobres de Judá.
+
+[[v24-39-7]]
+
+^<<v24-39-7,7>>^ E cegou os olhos de Zedequias, após o que o prendeu com grilhões de cobre, a fim de levá-lo a Babilônia.
+
+[[v24-39-8]]
+
+^<<v24-39-8,8>>^ E a casa do rei e as casas do povo os caldeus queimaram com fogo, e as muralhas de Jerusalém eles demoliram.
+
+[[v24-39-9]]
+
+^<<v24-39-9,9>>^ E o resto do povo que fora deixado na cidade e os desertores que se bandearam para ele, bem como o resto do povo que fora deixado, Nebuzaradã, chefe da guarda pessoal, levou ao exílio em Babilônia.
+
+[[v24-39-10]]
+
+^<<v24-39-10,10>>^ E a alguns do povo, os de condição humilde que não possuíam nada, Nebuzaradã, chefe da guarda pessoal, deixou permanecer na terra de Judá; e ele passou a dar-lhes vinhedos e serviços compulsórios naquele dia.
+
+[[v24-39-11]]
+
+^<<v24-39-11,11>>^ Além disso, Nabucodorosor, rei de Babilônia, deu ordens a respeito de Jeremias, por intermédio de Nebuzaradã, chefe da guarda pessoal, dizendo:
+
+[[v24-39-12]]
+
+^<<v24-39-12,12>>^ “Toma-o e mantém os teus próprios olhos fixos nele, e não lhe faças nada de mal. Mas faze com ele conforme ele te falar.”
+
+[[v24-39-13]]
+
+^<<v24-39-13,13>>^ Por conseguinte, Nebuzaradã, chefe da guarda pessoal, e Nebusazbã, o Rabe-Saris,^&#42;1^ e Nergal-Sarezer, o Rabe-Mague, e todos os homens principais^&#42;2^ do rei de Babilônia enviaram [mensageiros];
+
+[NOTE]
+====
+. Veja v. 3 n.: “Rabe-Saris”.
+. Ou “os chefes do”. Hebr.: rab·béh.
+====
+
+[[v24-39-14]]
+
+^<<v24-39-14,14>>^ até mesmo passaram a mandar tirar Jeremias do Pátio da Guarda e a entregá-lo a Gedalias, filho de Aicão, filho de Safã, a fim de levá-lo para [sua] casa, para que morasse no meio do povo.
+
+[[v24-39-15]]
+
+^<<v24-39-15,15>>^ E veio a haver para Jeremias a palavra de Jeová, enquanto viera a estar encerrado no Pátio da Guarda, dizendo:
+
+[[v24-39-16]]
+
+^<<v24-39-16,16>>^ “Vai, e tens de dizer a Ebede-Meleque, o etíope: ‘Assim disse Jeová dos exércitos, o Deus de Israel: “Eis que estou cumprindo as minhas palavras sobre esta cidade para calamidade e não para bem, e certamente se realizarão diante de ti naquele dia.”’
+
+[[v24-39-17]]
+
+^<<v24-39-17,17>>^ “‘E eu vou livrar-te naquele dia’, é a pronunciação de Jeová, ‘e não serás entregue na mão dos homens de que tu mesmo estás amedrontado’.
+
+[[v24-39-18]]
+
+^<<v24-39-18,18>>^ “‘Pois sem falta te porei a salvo e não cairás à espada; e certamente virás a ter a tua própria alma por despojo porque confiaste em mim’, é a pronunciação de Jeová.”
+
+'''
+
+xref:024-jeremias/024-jeremias-038.adoc#v24-38-0[&#60; Capítulo Anterior] | <<v24-39-0,Topo>> | xref:024-jeremias/024-jeremias-040.adoc#v24-40-0[Próximo Capítulo &#62;]

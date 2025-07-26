@@ -1,0 +1,108 @@
+include::./index.adoc[]
+
+[[v24-42-0]]
+=== Jeremias, 42
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-42-1]]
+
+^<<v24-42-1,1>>^ Então todos os chefes das forças militares, e Joanã, filho de Careá, e Jezanias,^&#42;1^ filho de Osaías, e todo o povo, desde o menor até o maior, aproximaram-se
+
+[NOTE]
+====
+. “Jezanias”, MTSyVg; LXX: “Azarias”, como em 43:2.
+====
+
+[[v24-42-2]]
+
+^<<v24-42-2,2>>^ e disseram a Jeremias, o profeta: “Por favor, lance-se diante de ti nosso pedido de favor e ora a Jeová, teu Deus, por nós, por todo este restante, pois fomos deixados remanescer, uns poucos dentre muitos, assim como teus olhos nos vêem.
+
+[[v24-42-3]]
+
+^<<v24-42-3,3>>^ E informe-nos Jeová, teu Deus, sobre o caminho em que devemos andar e sobre a coisa que devemos fazer.”
+
+[[v24-42-4]]
+
+^<<v24-42-4,4>>^ Então lhes disse Jeremias, o profeta: “Eu ouvi. Eis que estou orando a Jeová, vosso Deus, segundo as vossas palavras; e há de acontecer que toda palavra que Jeová vos der em resposta, eu vos contarei. Não reterei palavra alguma de vós.”
+
+[[v24-42-5]]
+
+^<<v24-42-5,5>>^ E eles, da sua parte, disseram a Jeremias: “Mostre Jeová ser testemunha verdadeira e fiel contra nós, se não fizermos exatamente conforme cada palavra com que Jeová, teu Deus, te enviar a nós.
+
+[[v24-42-6]]
+
+^<<v24-42-6,6>>^ Quer boa quer má, é à voz de Jeová, nosso Deus, a quem te enviamos, que obedeceremos, com o objetivo de que nos vá bem por obedecermos à voz de Jeová, nosso Deus.”
+
+[[v24-42-7]]
+
+^<<v24-42-7,7>>^ Ora, sucedeu ao fim de dez dias que passou a haver a palavra de Jeová para Jeremias.
+
+[[v24-42-8]]
+
+^<<v24-42-8,8>>^ De modo que ele chamou a Joanã, filho de Careá, e a todos os chefes das forças militares que estavam com ele, bem como a todo o povo, desde o menor até o maior;
+
+[[v24-42-9]]
+
+^<<v24-42-9,9>>^ e prosseguiu, dizendo-lhes: “Assim disse Jeová, o Deus de Israel, a quem me enviastes para fazer que se lançasse diante dele vosso pedido de favor:
+
+[[v24-42-10]]
+
+^<<v24-42-10,10>>^ ‘Se sem falta continuardes a morar nesta terra, então eu vou edificar-vos e não [vos] derrubarei, e vou plantar-vos e não [vos] desarraigarei; pois certamente deplorarei a calamidade que vos causei.
+
+[[v24-42-11]]
+
+^<<v24-42-11,11>>^ Não tenhais medo por causa do rei de Babilônia a quem temeis.’
+“‘Não tenhais medo por causa dele’, é a pronunciação de Jeová, ‘pois eu estou convosco para vos salvar e vos livrar da sua mão.
+
+[[v24-42-12]]
+
+^<<v24-42-12,12>>^ E conceder-vos-ei misericórdias, e ele certamente será misericordioso convosco e vos retornará ao vosso próprio solo.
+
+[[v24-42-13]]
+
+^<<v24-42-13,13>>^ “‘Mas, se disserdes: “Não; não vamos morar nesta terra!” a fim de desobedecerdes à voz de Jeová, vosso Deus,
+
+[[v24-42-14]]
+
+^<<v24-42-14,14>>^ dizendo: “Não, mas entraremos na terra do Egito, onde não veremos a guerra e não ouviremos o som da buzina, e não teremos fome de pão; e ali é que moraremos”;
+
+[[v24-42-15]]
+
+^<<v24-42-15,15>>^ mesmo agora, portanto, ouvi a palavra de Jeová, ó restante de Judá. Assim disse Jeová dos exércitos, o Deus de Israel: “Se vós mesmos positivamente fixardes as vossas faces para entrar no Egito e realmente entrardes para residir ali como forasteiros,
+
+[[v24-42-16]]
+
+^<<v24-42-16,16>>^ então terá de dar-se que a própria espada de que tendes medo vos alcançará na terra do Egito, e a própria fome de que tendes receio vos seguirá de perto ao Egito; e lá é que morrereis.
+
+[[v24-42-17]]
+
+^<<v24-42-17,17>>^ E acontecerá que todos os homens que fixaram as suas faces para entrar no Egito para residir ali como forasteiros serão os que morrerão pela espada, pela fome e pela pestilência; e não virão a ter nem sobrevivente nem fugitivo, por causa da calamidade que trago sobre eles.”’
+
+[[v24-42-18]]
+
+^<<v24-42-18,18>>^ “Pois assim disse Jeová dos exércitos, o Deus de Israel: ‘Assim como se derramaram a minha ira e o meu furor sobre os habitantes de Jerusalém, assim se derramará sobre vós o meu furor por entrardes no Egito, e haveis de tornar-vos uma maldição, e um assombro, e uma invocação do mal, e um vitupério, e não vereis mais este lugar.’
+
+[[v24-42-19]]
+
+^<<v24-42-19,19>>^ “Jeová falou contra vós, ó restante de Judá. Não entreis no Egito. Deveis saber positivamente que hoje testifiquei contra vós,
+
+[[v24-42-20]]
+
+^<<v24-42-20,20>>^ que cometestes um erro contra as vossas almas;^&#42;1^ porque vós mesmos me enviastes a Jeová, vosso Deus, dizendo: ‘Ora por nós a Jeová, nosso Deus; e informa-nos de tudo o que Jeová, nosso Deus, disser, e nós certamente [o] faremos.’
+
+[NOTE]
+====
+. “Contra as vossas almas.” Hebr.: benaf·shoh·theh·khém; gr.: psy·khaís; lat.: á·ni·mas. Veja Ap. 4A.
+====
+
+[[v24-42-21]]
+
+^<<v24-42-21,21>>^ E eu vos informo hoje, mas certamente não obedecereis à voz de Jeová, vosso Deus, nem àquilo com que me enviou a vós.
+
+[[v24-42-22]]
+
+^<<v24-42-22,22>>^ E agora deveis saber positivamente que morrereis pela espada, pela fome e pela pestilência no lugar em que vos agradais de entrar para [ali] residir como forasteiros.”
+
+'''
+
+xref:024-jeremias/024-jeremias-041.adoc#v24-41-0[&#60; Capítulo Anterior] | <<v24-42-0,Topo>> | xref:024-jeremias/024-jeremias-043.adoc#v24-43-0[Próximo Capítulo &#62;]

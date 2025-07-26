@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v58-6-0]]
+=== Hebreus, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v58-6-1]]
+
+^<<v58-6-1,1>>^ Por esta razão, agora que temos abandonado a doutrina primária a respeito do Cristo, avancemos à madureza, não lançando novamente um alicerce, a saber, o arrependimento de obras mortas e a fé para com Deus,
+
+[[v58-6-2]]
+
+^<<v58-6-2,2>>^ o ensino de batismos e a imposição das mãos, a ressurreição dos mortos e o julgamento eterno.
+
+[[v58-6-3]]
+
+^<<v58-6-3,3>>^ E isto faremos, se Deus permitir.
+
+[[v58-6-4]]
+
+^<<v58-6-4,4>>^ Porque é impossível, quanto aos que de uma vez para sempre foram esclarecidos, e que provaram a dádiva celestial gratuita, e que se tornaram participantes de espírito santo,
+
+[[v58-6-5]]
+
+^<<v58-6-5,5>>^ e que provaram a palavra excelente de Deus e os poderes do vindouro sistema de coisas,^&#42;1^
+
+[NOTE]
+====
+. Ou “ordem de coisas”. Gr.: ai·ó·nos; lat.: saé·cu·li; J17,18,22(hebr.): ha·‛oh·lám, “a ordem de coisas”.
+====
+
+[[v58-6-6]]
+
+^<<v58-6-6,6>>^ mas que se afastaram, reanimá-los^&#42;1^ novamente ao arrependimento, porque eles de novo pregam para si mesmos o Filho de Deus numa estaca^&#42;2^ e o expõem ao opróbrio público.
+
+[NOTE]
+====
+. Lit.: “estar renovando-os”.
+. Ou “fixaram . . . numa estaca (poste)”. Veja Ap. 5C.
+====
+
+[[v58-6-7]]
+
+^<<v58-6-7,7>>^ Por exemplo, o solo que absorve a chuva que freqüentemente cai sobre ele, e que então produz vegetação apropriada para aqueles para quem é também lavrado, recebe por sua vez uma bênção de Deus.
+
+[[v58-6-8]]
+
+^<<v58-6-8,8>>^ Mas, se produzir espinhos e abrolhos, é rejeitado e está prestes a ser amaldiçoado e acaba sendo queimado.
+
+[[v58-6-9]]
+
+^<<v58-6-9,9>>^ No entanto, em vosso caso, amados, estamos convencidos de melhores coisas e de coisas acompanhadas de salvação, embora estejamos falando deste modo.
+
+[[v58-6-10]]
+
+^<<v58-6-10,10>>^ Pois Deus não é injusto, para se esquecer de vossa obra e do amor que mostrastes ao seu nome, por terdes ministrado^&#42;1^ aos santos e por continuardes a ministrar.
+
+[NOTE]
+====
+. Lit.: “tendo servido”.
+====
+
+[[v58-6-11]]
+
+^<<v58-6-11,11>>^ Mas, desejamos que cada um de vós mostre a mesma diligência,^&#42;1^ para ter a plena certeza da esperança até o fim,^&#42;2^
+
+[NOTE]
+====
+. Lit.: “pressa”. Gr.: spou·dén.
+. Ou “término”. Gr.: té·lous.
+====
+
+[[v58-6-12]]
+
+^<<v58-6-12,12>>^ para que não fiqueis indolentes, mas sejais imitadores daqueles que pela fé e pela paciência^&#42;1^ herdam as promessas.
+
+[NOTE]
+====
+. “Paciência.” Lit.: “longura de espírito; longanimidade”.
+====
+
+[[v58-6-13]]
+
+^<<v58-6-13,13>>^ Pois, quando Deus fez a sua promessa a Abraão, uma vez que não podia jurar por ninguém maior, jurou por si mesmo,
+
+[[v58-6-14]]
+
+^<<v58-6-14,14>>^ dizendo: “Certamente, abençoando te abençoarei e multiplicando te multiplicarei.”
+
+[[v58-6-15]]
+
+^<<v58-6-15,15>>^ E assim, depois de [Abraão]^&#42;1^ ter mostrado paciência, ele obteve [esta] promessa.
+
+[NOTE]
+====
+. Lit.: “ele”.
+====
+
+[[v58-6-16]]
+
+^<<v58-6-16,16>>^ Pois os homens juram por alguém maior, e o seu juramento é o fim de toda a disputa, visto que é para eles uma garantia legal.
+
+[[v58-6-17]]
+
+^<<v58-6-17,17>>^ Desta maneira Deus, quando se propôs demonstrar mais abundantemente aos herdeiros da promessa a imutabilidade do seu conselho, interveio^&#42;1^ com um juramento,
+
+[NOTE]
+====
+. Lit.: “mediou”.
+====
+
+[[v58-6-18]]
+
+^<<v58-6-18,18>>^ a fim de que, por duas coisas imutáveis, nas quais é impossível que Deus minta, nós, os que fugimos para o refúgio, tenhamos forte encorajamento para nos apegar à esperança que se nos apresenta.
+
+[[v58-6-19]]
+
+^<<v58-6-19,19>>^ Temos esta [esperança] como âncora para a alma, tanto segura como firme, e ela penetra até o interior^&#42;1^ da cortina,
+
+[NOTE]
+====
+. Ou “além”.
+====
+
+[[v58-6-20]]
+
+^<<v58-6-20,20>>^ onde um precursor entrou a nosso favor, Jesus, que se tornou sumo sacerdote para sempre à maneira de Melquisedeque.
+
+'''
+
+xref:058-hebreus/058-hebreus-005.adoc#v58-5-0[&#60; Capítulo Anterior] | <<v58-6-0,Topo>> | xref:058-hebreus/058-hebreus-007.adoc#v58-7-0[Próximo Capítulo &#62;]

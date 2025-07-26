@@ -1,0 +1,116 @@
+include::./index.adoc[]
+
+[[v12-22-0]]
+=== 2 Reis, 22
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v12-22-1]]
+
+^<<v12-22-1,1>>^ Josias tinha oito anos de idade quando começou a reinar e reinou por trinta e um anos em Jerusalém. E o nome de sua mãe era Jedida, filha de Adaías, de Boscate.
+
+[[v12-22-2]]
+
+^<<v12-22-2,2>>^ E ele passou a fazer o que era direito aos olhos de Jeová e a andar em todo o caminho de Davi, seu antepassado, e não se desviou nem para a direita nem para a esquerda.
+
+[[v12-22-3]]
+
+^<<v12-22-3,3>>^ E sucedeu, no décimo oitavo ano do Rei Josias, que o rei enviou Safã, filho de Azalias, filho de Mesulão, secretário,^&#42;1^ à casa de Jeová, dizendo:
+
+[NOTE]
+====
+. Ou “escriba”. Hebr.: has·so·fér.
+====
+
+[[v12-22-4]]
+
+^<<v12-22-4,4>>^ “Sobe até Hilquias,^&#42;1^ o sumo sacerdote,^&#42;2^ e complete^&#42;3^ ele o dinheiro que se traz à casa de Jeová, que os guardas das portas recolheram do povo;
+
+[NOTE]
+====
+. Significando “Meu Quinhão É Jeová”. Hebr.: Hhil·qi·yá·hu.
+. Lit.: “o grande sacerdote”, MLXXVg. Veja 12:10 n.
+. “Complete”, M; T: “despeje”.
+====
+
+[[v12-22-5]]
+
+^<<v12-22-5,5>>^ e ponham-no na mão dos que fazem a obra, dos encarregados, na casa de Jeová, para que o dêem aos que fazem a obra, que estão na casa de Jeová para consertar as fendas da casa,
+
+[[v12-22-6]]
+
+^<<v12-22-6,6>>^ aos artífices, e aos construtores, e aos pedreiros, e para comprar madeira e pedras lavradas para o conserto da casa.
+
+[[v12-22-7]]
+
+^<<v12-22-7,7>>^ Apenas não se deve fazer uma prestação de contas com aqueles em cujas mãos está sendo posto, porque estão trabalhando em fidelidade.”
+
+[[v12-22-8]]
+
+^<<v12-22-8,8>>^ Mais tarde disse Hilquias, o sumo sacerdote,^&#42;1^ a Safã, o secretário: “Achei na casa de Jeová o próprio livro da lei.” De modo que Hilquias deu o livro a Safã e ele começou a lê-lo.
+
+[NOTE]
+====
+. Lit.: “o grande sacerdote”, MLXX; lat.: pón·ti·fex.
+====
+
+[[v12-22-9]]
+
+^<<v12-22-9,9>>^ Então Safã, o secretário, entrou até o rei, e replicou ao rei e disse: “Teus servos despejaram o dinheiro que se achou na casa e o estão colocando na mão dos que fazem a obra, os encarregados, na casa de Jeová.”
+
+[[v12-22-10]]
+
+^<<v12-22-10,10>>^ E Safã, o secretário, foi contar ao rei, dizendo: “Hilquias, o sacerdote, deu-me um livro.” E Safã começou a lê-lo perante o rei.
+
+[[v12-22-11]]
+
+^<<v12-22-11,11>>^ E aconteceu que, assim que o rei ouviu as palavras do livro da lei, rasgou imediatamente as suas vestes.
+
+[[v12-22-12]]
+
+^<<v12-22-12,12>>^ Então o rei ordenou a Hilquias, o sacerdote, e a Aicão, filho de Safã, e a Acbor, filho de Micaías, e a Safã, o secretário, e a Asaías, servo do rei, dizendo:
+
+[[v12-22-13]]
+
+^<<v12-22-13,13>>^ “Ide, consultai a Jeová por mim e pelo povo, e por todo o Judá, com respeito às palavras deste livro que se achou; pois, grande é o furor de Jeová que se acendeu contra nós pelo fato de que os nossos antepassados não escutaram as palavras deste livro, para fazer segundo tudo o que está escrito a respeito de nós.”
+
+[[v12-22-14]]
+
+^<<v12-22-14,14>>^ Por conseguinte, Hilquias, o sacerdote, e Aicão, e Acbor, e Safã, e Asaías foram ter com Hulda, a profetisa, esposa de Salum, filho de Ticvá, filho de Harás, o guarda-roupa, morando ela em Jerusalém, no segundo bairro; e passaram a falar com ela.
+
+[[v12-22-15]]
+
+^<<v12-22-15,15>>^ Por sua vez, ela lhes disse: “Assim disse Jeová, o Deus de Israel: ‘Dizei ao homem que vos enviou a mim:
+
+[[v12-22-16]]
+
+^<<v12-22-16,16>>^ “Assim disse Jeová: ‘Eis que trago calamidade sobre este lugar e sobre os seus habitantes, sim, todas as palavras do livro que o rei de Judá leu;
+
+[[v12-22-17]]
+
+^<<v12-22-17,17>>^ devido ao fato de que me abandonaram e foram fazer fumaça sacrificial a outros deuses para me ofender com todo o trabalho das suas mãos, e acendeu-se todo o meu furor contra este lugar e não se apagará.’”’
+
+[[v12-22-18]]
+
+^<<v12-22-18,18>>^ E quanto ao rei de Judá, que vos manda consultar a Jeová, deveis dizer-lhe o seguinte: ‘Assim disse Jeová, o Deus de Israel: “No que se refere às palavras que ouviste,
+
+[[v12-22-19]]
+
+^<<v12-22-19,19>>^ uma vez que o teu coração se amoleceu de modo que te humilhaste por causa de Jeová, quando ouviste o que falei contra este lugar e seus habitantes, [para que] se^&#42;1^ torne objeto de assombro e uma invocação do mal, e depois rasgaste a tua roupa e começaste a chorar diante de mim, eu, sim, eu ouvi”, é a pronunciação de Jeová.
+
+[NOTE]
+====
+. Ou “[para que eles se]”.
+====
+
+[[v12-22-20]]
+
+^<<v12-22-20,20>>^ “É por isso que te ajunto aos teus antepassados e serás certamente recolhido ao teu próprio cemitério^&#42;1^ em paz, e teus olhos não olharão para toda a calamidade que estou trazendo sobre este lugar.”’” E eles passaram a levar a resposta ao rei.
+
+[NOTE]
+====
+. Lit.: “sepulcros”.
+====
+
+'''
+
+xref:012-2-reis/012-2-reis-021.adoc#v12-21-0[&#60; Capítulo Anterior] | <<v12-22-0,Topo>> | xref:012-2-reis/012-2-reis-023.adoc#v12-23-0[Próximo Capítulo &#62;]

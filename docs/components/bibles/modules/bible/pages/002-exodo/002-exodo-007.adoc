@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v2-7-0]]
+=== Êxodo, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-7-1]]
+
+^<<v2-7-1,1>>^ Por conseguinte, Jeová disse a Moisés: “Vê, eu te fiz Deus^&#42;1^ para Faraó, e Arão, teu próprio irmão, se tornará teu profeta.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’elo·hím; gr.: the·ón; lat.: Dé·um.
+====
+
+[[v2-7-2]]
+
+^<<v2-7-2,2>>^ Tu — tu falarás tudo o que eu te ordenar; e Arão, teu irmão, é quem falará a Faraó, e este tem de mandar os filhos de Israel para fora do seu país.
+
+[[v2-7-3]]
+
+^<<v2-7-3,3>>^ Quanto a mim, deixarei o coração de Faraó ficar obstinado,^&#42;1^ e certamente multiplicarei os meus sinais e os meus milagres na terra do Egito.
+
+[NOTE]
+====
+. Ou “farei o coração de Faraó ficar obstinado (duro)”.
+====
+
+[[v2-7-4]]
+
+^<<v2-7-4,4>>^ E Faraó não vos escutará; e terei de pôr minha mão sobre o Egito e fazer sair os meus exércitos, meu povo, os filhos de Israel, da terra do Egito, com grandes julgamentos.
+
+[[v2-7-5]]
+
+^<<v2-7-5,5>>^ E os egípcios hão de saber que eu sou Jeová quando eu estender a mão contra o Egito, e deveras farei os filhos de Israel sair do seu meio.”
+
+[[v2-7-6]]
+
+^<<v2-7-6,6>>^ E Moisés e Arão foram fazer conforme Jeová lhes ordenara. Fizeram exatamente assim.
+
+[[v2-7-7]]
+
+^<<v2-7-7,7>>^ E Moisés tinha oitenta anos de idade e Arão tinha oitenta e três anos de idade quando falaram a Faraó.
+
+[[v2-7-8]]
+
+^<<v2-7-8,8>>^ Jeová disse então a Moisés e a Arão:
+
+[[v2-7-9]]
+
+^<<v2-7-9,9>>^ “Caso Faraó vos fale, dizendo: ‘Produzi um milagre da vossa parte’, então tens de dizer a Arão: ‘Toma teu bastão e lança-o diante de Faraó.’ Ele se tornará^&#42;1^ uma cobra grande.”
+
+[NOTE]
+====
+. “E se tornará”, SamLXXSyVg.
+====
+
+[[v2-7-10]]
+
+^<<v2-7-10,10>>^ De modo que Moisés e Arão entraram até Faraó e fizeram assim como Jeová mandara. Portanto, Arão lançou seu bastão diante de Faraó e dos seus servos, e ele se tornou uma cobra grande.
+
+[[v2-7-11]]
+
+^<<v2-7-11,11>>^ No entanto, Faraó convocou também os sábios e os feiticeiros; e os próprios sacerdotes-magos do Egito passaram também a fazer a mesma coisa com as suas artes mágicas.
+
+[[v2-7-12]]
+
+^<<v2-7-12,12>>^ De modo que cada um deles lançou seu bastão no chão, e eles se tornaram cobras grandes; mas o bastão de Arão engoliu os bastões deles.
+
+[[v2-7-13]]
+
+^<<v2-7-13,13>>^ Ainda assim, o coração de Faraó ficou obstinado e ele não os escutou, assim como Jeová havia falado.
+
+[[v2-7-14]]
+
+^<<v2-7-14,14>>^ Jeová disse então a Moisés: “O coração de Faraó é insensível.^&#42;1^ Negou-se a mandar o povo embora.
+
+[NOTE]
+====
+. Lit.: “pesado”.
+====
+
+[[v2-7-15]]
+
+^<<v2-7-15,15>>^ Vai ter com Faraó pela manhã. Eis que ele está saindo à água! E tens de colocar-te em posição para te encontrares com ele à beira do rio Nilo, e deves tomar na tua mão o bastão que se transformou numa serpente.
+
+[[v2-7-16]]
+
+^<<v2-7-16,16>>^ E tens de dizer-lhe: ‘Jeová, o Deus dos hebreus, enviou-me a ti, dizendo: “Manda embora meu povo, para que me sirvam^&#42;1^ no ermo”, mas eis que não obedeceste até agora.
+
+[NOTE]
+====
+. Veja 3:12 n.
+====
+
+[[v2-7-17]]
+
+^<<v2-7-17,17>>^ Assim disse Jeová: “Por meio disso saberás que eu sou Jeová. Eis que com o bastão que está na minha mão estou golpeando a água que há no rio Nilo e ela se há de transformar em sangue.
+
+[[v2-7-18]]
+
+^<<v2-7-18,18>>^ E morrerão os peixes que há no rio Nilo e o rio Nilo ficará realmente cheirando mal, e os egípcios terão simplesmente nojo de beber água do rio Nilo.”’”
+
+[[v2-7-19]]
+
+^<<v2-7-19,19>>^ A seguir, Jeová disse a Moisés: “Dize a Arão: ‘Toma teu bastão e estende tua mão sobre as águas do Egito, sobre os seus rios, sobre os seus canais do Nilo e sobre os seus banhados de juncos, e sobre todas as suas águas represadas,^&#42;1^ para que se tornem sangue.’ E há de haver sangue em toda a terra do Egito, e nos vasos de madeira, e nos vasos de pedra.”
+
+[NOTE]
+====
+. Lit.: “toda a massa ajuntada de suas águas”.
+====
+
+[[v2-7-20]]
+
+^<<v2-7-20,20>>^ Moisés e Arão fizeram isso imediatamente, como Jeová lhes mandara, e ele ergueu o bastão e golpeou a água que havia no rio Nilo sob o olhar de Faraó e dos seus servos, e toda a água que havia no rio Nilo transformou-se em sangue.
+
+[[v2-7-21]]
+
+^<<v2-7-21,21>>^ E morreram os peixes que havia no rio Nilo e o rio Nilo começou a cheirar mal; e os egípcios não podiam beber água do rio Nilo; e veio a haver sangue em toda a terra do Egito.
+
+[[v2-7-22]]
+
+^<<v2-7-22,22>>^ Não obstante, os sacerdotes-magos do Egito passaram a fazer a mesma coisa com as suas artes secretas; de modo que o coração de Faraó continuou obstinado e ele não os escutou, assim como Jeová havia falado.
+
+[[v2-7-23]]
+
+^<<v2-7-23,23>>^ Faraó virou-se, por isso, e entrou na sua casa, e não pôs o seu coração em dar qualquer consideração a isso.
+
+[[v2-7-24]]
+
+^<<v2-7-24,24>>^ E todos os egípcios foram cavar ao redor do rio Nilo por água para beber, porque não podiam beber a água do rio Nilo.
+
+[[v2-7-25]]
+
+^<<v2-7-25,25>>^ E completaram-se sete dias depois de Jeová ter golpeado o rio Nilo.
+
+'''
+
+xref:002-exodo/002-exodo-006.adoc#v2-6-0[&#60; Capítulo Anterior] | <<v2-7-0,Topo>> | xref:002-exodo/002-exodo-008.adoc#v2-8-0[Próximo Capítulo &#62;]

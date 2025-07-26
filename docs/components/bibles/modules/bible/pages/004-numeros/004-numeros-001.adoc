@@ -1,0 +1,266 @@
+include::./index.adoc[]
+
+[[v4-1-0]]
+=== Números, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-1-1]]
+
+^<<v4-1-1,1>>^ E Jeová passou a falar a Moisés no ermo^&#42;1^ de Sinai, na tenda de reunião, no primeiro dia do segundo mês, no segundo ano da saída deles da terra do Egito, e disse:
+
+[NOTE]
+====
+. “No ermo.” Hebr.: bemidh·bár. No hebr., este quarto livro de Moisés deriva seu nome desta palavra. LXXVg chamam este livro de “Números” (gr.: A·rith·moí; lat.: Nú·me·ri).
+====
+
+[[v4-1-2]]
+
+^<<v4-1-2,2>>^ “Fazei a soma de toda a assembléia dos filhos de Israel segundo as suas famílias, segundo a casa de seus pais, pelo número dos nomes, todos os machos, cabeça por cabeça deles,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “pelos seus crânios”.
+====
+
+[[v4-1-3]]
+
+^<<v4-1-3,3>>^ da idade de vinte anos para cima, todos os que saem para o exército em Israel. Deveis registrá-los segundo os seus exércitos, tu e Arão.
+
+[[v4-1-4]]
+
+^<<v4-1-4,4>>^ “E deve haver convosco alguns homens, um homem por tribo; cada um é cabeça para a casa de seus pais.
+
+[[v4-1-5]]
+
+^<<v4-1-5,5>>^ E estes são os nomes dos homens que ficarão de pé convosco: De Rubem, Elizur, filho de Sedeur;
+
+[[v4-1-6]]
+
+^<<v4-1-6,6>>^ de Simeão, Selumiel, filho de Zurisadai;
+
+[[v4-1-7]]
+
+^<<v4-1-7,7>>^ de Judá, Nasom, filho de Aminadabe;
+
+[[v4-1-8]]
+
+^<<v4-1-8,8>>^ de Issacar, Netanel, filho de Zuar;
+
+[[v4-1-9]]
+
+^<<v4-1-9,9>>^ de Zebulão, Eliabe, filho de Helom;
+
+[[v4-1-10]]
+
+^<<v4-1-10,10>>^ dos filhos de José: de Efraim, Elisama, filho de Amiúde; de Manassés, Gamaliel, filho de Pedazur;
+
+[[v4-1-11]]
+
+^<<v4-1-11,11>>^ de Benjamim, Abidã, filho de Gideoni;
+
+[[v4-1-12]]
+
+^<<v4-1-12,12>>^ de Dã, Aiezer, filho de Amisadai;
+
+[[v4-1-13]]
+
+^<<v4-1-13,13>>^ de Aser, Pagiel, filho de Ocrã;
+
+[[v4-1-14]]
+
+^<<v4-1-14,14>>^ de Gade, Eliasafe, filho de Deuel;^&#42;1^
+
+[NOTE]
+====
+. “Deuel”, MSamVg; LXX: “Raguel”; Sy: “Reuel”.
+====
+
+[[v4-1-15]]
+
+^<<v4-1-15,15>>^ de Naftali, Aira, filho de Enã.
+
+[[v4-1-16]]
+
+^<<v4-1-16,16>>^ Estes são os convocados da assembléia, os maiorais^&#42;1^ das tribos de seus pais. São os cabeças dos milhares de Israel.”
+
+[NOTE]
+====
+. Ou “nases”. Hebr.: nesi·’éh.
+====
+
+[[v4-1-17]]
+
+^<<v4-1-17,17>>^ De modo que Moisés e Arão tomaram estes homens que tinham sido designados por nomes.
+
+[[v4-1-18]]
+
+^<<v4-1-18,18>>^ E congregaram toda a assembléia no primeiro dia do segundo mês, a fim de se reconhecerem os seus descendentes quanto às suas famílias na casa de seus pais, pelo número dos nomes, da idade de vinte anos para cima, cabeça por cabeça deles,
+
+[[v4-1-19]]
+
+^<<v4-1-19,19>>^ assim como Jeová mandara a Moisés; e passou a registrá-los no ermo de Sinai.
+
+[[v4-1-20]]
+
+^<<v4-1-20,20>>^ E os filhos de Rubem, primogênito de Israel, seus nascimentos segundo as suas famílias na casa de seus pais, vieram a ser, pelo número dos nomes, cabeça por cabeça deles, todos os machos da idade de vinte anos para cima, todos os que saíam para o exército,
+
+[[v4-1-21]]
+
+^<<v4-1-21,21>>^ seus registrados da tribo de Rubem, quarenta e seis mil e quinhentos.
+
+[[v4-1-22]]
+
+^<<v4-1-22,22>>^ Dos filhos de Simeão, seus nascimentos segundo as suas famílias na casa de seus pais, os registrados dele pelo número dos nomes, cabeça por cabeça deles, todos os machos da idade de vinte anos para cima, todos os que saíam para o exército,
+
+[[v4-1-23]]
+
+^<<v4-1-23,23>>^ seus registrados da tribo de Simeão, foram cinqüenta e nove mil e trezentos.
+
+[[v4-1-24]]
+
+^<<v4-1-24,24>>^ Dos filhos de Gade, seus nascimentos segundo as suas famílias na casa de seus pais, pelo número dos nomes, da idade de vinte anos para cima, todos os que saíam para o exército,
+
+[[v4-1-25]]
+
+^<<v4-1-25,25>>^ seus registrados da tribo de Gade, foram quarenta e cinco mil seiscentos e cinqüenta.
+
+[[v4-1-26]]
+
+^<<v4-1-26,26>>^ Dos filhos de Judá, seus nascimentos segundo as suas famílias na casa de seus pais, pelo número dos nomes, da idade de vinte anos para cima, todos os que saíam para o exército,
+
+[[v4-1-27]]
+
+^<<v4-1-27,27>>^ seus registrados da tribo de Judá, foram setenta e quatro mil e seiscentos.
+
+[[v4-1-28]]
+
+^<<v4-1-28,28>>^ Dos filhos de Issacar, seus nascimentos segundo as suas famílias na casa de seus pais, pelo número dos nomes, da idade de vinte anos para cima, todos os que saíam para o exército,
+
+[[v4-1-29]]
+
+^<<v4-1-29,29>>^ seus registrados da tribo de Issacar, foram cinqüenta e quatro mil e quatrocentos.
+
+[[v4-1-30]]
+
+^<<v4-1-30,30>>^ Dos filhos de Zebulão, seus nascimentos segundo as suas famílias na casa de seus pais, pelo número dos nomes, da idade de vinte anos para cima, todos os que saíam para o exército,
+
+[[v4-1-31]]
+
+^<<v4-1-31,31>>^ seus registrados da tribo de Zebulão, foram cinqüenta e sete mil e quatrocentos.
+
+[[v4-1-32]]
+
+^<<v4-1-32,32>>^ Dos filhos de José: dos filhos de Efraim, seus nascimentos segundo as suas famílias na casa de seus pais, pelo número dos nomes, da idade de vinte anos para cima, todos os que saíam para o exército,
+
+[[v4-1-33]]
+
+^<<v4-1-33,33>>^ seus registrados da tribo de Efraim, foram quarenta mil e quinhentos.
+
+[[v4-1-34]]
+
+^<<v4-1-34,34>>^ Dos filhos de Manassés, seus nascimentos segundo as suas famílias na casa de seus pais, pelo número dos nomes, da idade de vinte anos para cima, todos os que saíam para o exército,
+
+[[v4-1-35]]
+
+^<<v4-1-35,35>>^ seus registrados da tribo de Manassés, foram trinta e dois mil e duzentos.
+
+[[v4-1-36]]
+
+^<<v4-1-36,36>>^ Dos filhos de Benjamim, seus nascimentos segundo as suas famílias na casa de seus pais, pelo número dos nomes, da idade de vinte anos para cima, todos os que saíam para o exército,
+
+[[v4-1-37]]
+
+^<<v4-1-37,37>>^ seus registrados da tribo de Benjamim, foram trinta e cinco mil e quatrocentos.
+
+[[v4-1-38]]
+
+^<<v4-1-38,38>>^ Dos filhos de Dã, seus nascimentos segundo as suas famílias na casa de seus pais, pelo número dos nomes, da idade de vinte anos para cima, todos os que saíam para o exército,
+
+[[v4-1-39]]
+
+^<<v4-1-39,39>>^ seus registrados da tribo de Dã, foram sessenta e dois mil e setecentos.
+
+[[v4-1-40]]
+
+^<<v4-1-40,40>>^ Dos filhos de Aser, seus nascimentos segundo as suas famílias na casa de seus pais, pelo número dos nomes, da idade de vinte anos para cima, todos os que saíam para o exército,
+
+[[v4-1-41]]
+
+^<<v4-1-41,41>>^ seus registrados da tribo de Aser, foram quarenta e um mil e quinhentos.
+
+[[v4-1-42]]
+
+^<<v4-1-42,42>>^ Dos filhos^&#42;1^ de Naftali, seus nascimentos segundo as suas famílias na casa de seus pais, pelo número dos nomes, da idade de vinte anos para cima, todos os que saíam para o exército,
+
+[NOTE]
+====
+. “Dos filhos”, SamLXXVg e dez mss. hebr.; M: “Os filhos.”
+====
+
+[[v4-1-43]]
+
+^<<v4-1-43,43>>^ seus registrados da tribo de Naftali, foram cinqüenta e três mil e quatrocentos.
+
+[[v4-1-44]]
+
+^<<v4-1-44,44>>^ Estes são os registrados que Moisés registrou junto com Arão e os maiorais de Israel, doze homens. Representaram, cada um, a casa de seus pais.
+
+[[v4-1-45]]
+
+^<<v4-1-45,45>>^ E todos os registrados dos filhos de Israel, segundo a casa de seus pais, da idade de vinte anos para cima, todos os que saíam para o exército em Israel, vieram a ser,
+
+[[v4-1-46]]
+
+^<<v4-1-46,46>>^ sim, todos os registrados vieram a ser seiscentos e três mil quinhentos e cinqüenta.
+
+[[v4-1-47]]
+
+^<<v4-1-47,47>>^ No entanto, os levitas segundo a tribo de seus pais não foram registrados entre eles.
+
+[[v4-1-48]]
+
+^<<v4-1-48,48>>^ Concordemente, Jeová falou a Moisés, dizendo:
+
+[[v4-1-49]]
+
+^<<v4-1-49,49>>^ “Somente a tribo de Levi não deves registrar e não deves incluir a soma deles entre os filhos de Israel.
+
+[[v4-1-50]]
+
+^<<v4-1-50,50>>^ E tu mesmo encarrega os levitas do tabernáculo do Testemunho e de todos os seus utensílios, e de tudo o que pertence a ele.^&#42;1^ Eles mesmos carregarão o tabernáculo e todos os seus utensílios, e eles mesmos ministrarão nele; e devem acampar-se em volta do tabernáculo.
+
+[NOTE]
+====
+. “Que pertence a ele”, MSam; LXXSy: “que está nele”.
+====
+
+[[v4-1-51]]
+
+^<<v4-1-51,51>>^ E sempre que o tabernáculo estiver para partir, os levitas devem desmontá-lo; e quando o tabernáculo se acampar, os levitas devem erigi-lo; e qualquer estranho^&#42;1^ que se chegar deve ser morto.
+
+[NOTE]
+====
+. Isto é, um não-levita.
+====
+
+[[v4-1-52]]
+
+^<<v4-1-52,52>>^ “E os filhos de Israel têm de acampar-se cada um em conexão com o seu acampamento^&#42;1^ e cada homem junto à sua divisão [de três tribos],^&#42;2^ pelos seus exércitos.
+
+[NOTE]
+====
+. “Seu acampamento.” Hebr.: ma·hhané·hu; gr.: tei he·au·toú tá·xei, “sua própria ordem”; lat.: túr·mas, “turmas; pelotões”. Estes termos subentendem pessoas agrupadas sob uma ordem, ou pessoas organizadas. Veja 1Co 14:40 n.
+. “Sua divisão [de três tribos].” Hebr.: digh·lóh (de dé·ghel).
+====
+
+[[v4-1-53]]
+
+^<<v4-1-53,53>>^ E os levitas devem acampar-se em volta do tabernáculo do Testemunho para que não surja indignação contra a assembléia dos filhos de Israel; e os levitas têm de cuidar do serviço devido ao tabernáculo do Testemunho.”
+
+[[v4-1-54]]
+
+^<<v4-1-54,54>>^ E os filhos de Israel passaram a fazer segundo tudo o que Jeová mandara a Moisés. Fizeram exatamente assim.
+
+'''
+
+xref:003-levitico/003-levitico-027.adoc#v3-27-0[&#60; Capítulo Anterior] | <<v4-1-0,Topo>> | xref:004-numeros/004-numeros-002.adoc#v4-2-0[Próximo Capítulo &#62;]

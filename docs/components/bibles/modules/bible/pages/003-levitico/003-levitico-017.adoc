@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v3-17-0]]
+=== Levítico, 17
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-17-1]]
+
+^<<v3-17-1,1>>^ E Jeová prosseguiu, falando a Moisés, dizendo:
+
+[[v3-17-2]]
+
+^<<v3-17-2,2>>^ “Fala a Arão e a seus filhos, e a todos os filhos de Israel, e tens de dizer-lhes: ‘Isto é o que Jeová ordenou, dizendo:
+
+[[v3-17-3]]
+
+^<<v3-17-3,3>>^ “‘“Quanto a qualquer homem da casa de Israel que abater um touro, ou um carneirinho, ou um caprídeo no acampamento, ou que o abater fora do acampamento
+
+[[v3-17-4]]
+
+^<<v3-17-4,4>>^ e não o trouxer realmente à entrada da tenda de reunião para apresentá-lo como oferta a Jeová, perante o tabernáculo de Jeová, a tal homem será imputada culpa de sangue. Ele derramou sangue, e tal homem tem de ser decepado dentre seu povo,
+
+[[v3-17-5]]
+
+^<<v3-17-5,5>>^ a fim de que os filhos de Israel tragam seus sacrifícios que oferecem como sacrifícios no campo aberto, e eles têm de trazê-los a Jeová, à entrada da tenda de reunião, ao sacerdote, e têm de sacrificá-los a Jeová como sacrifícios de participação em comum.
+
+[[v3-17-6]]
+
+^<<v3-17-6,6>>^ E o sacerdote tem de aspergir o sangue sobre o altar de Jeová, à entrada da tenda de reunião, e tem de fazer fumegar a gordura como cheiro repousante para Jeová.
+
+[[v3-17-7]]
+
+^<<v3-17-7,7>>^ De modo que não devem mais oferecer os seus sacrifícios aos demônios caprinos^&#42;1^ com que têm relações imorais.^&#42;2^ Isto vos servirá de estatuto por tempo indefinido, nas vossas gerações.”’
+
+[NOTE]
+====
+. Ou “aos sátiros”. Lit.: “aos bodes (aos peludos ou hirsutos)”, M; Vg: “aos demônios”; LXX: “às coisas insensatas”.
+. Ou “estão cometendo fornicação (imoralidade)”.
+====
+
+[[v3-17-8]]
+
+^<<v3-17-8,8>>^ “E deves dizer-lhes: ‘Quanto a qualquer homem da casa de Israel ou algum residente forasteiro que reside no vosso meio, que oferecer uma oferta queimada ou um sacrifício
+
+[[v3-17-9]]
+
+^<<v3-17-9,9>>^ e não o trouxer à entrada da tenda de reunião para ofertá-lo a Jeová, esse homem terá de ser decepado do seu povo.
+
+[[v3-17-10]]
+
+^<<v3-17-10,10>>^ “‘Quanto a qualquer homem da casa de Israel ou algum residente forasteiro que reside no vosso^&#42;1^ meio, que comer qualquer espécie de sangue, eu certamente porei minha face contra a alma que comer o sangue, e deveras o^&#42;2^ deceparei dentre seu^&#42;3^ povo.
+
+[NOTE]
+====
+. “Vosso”, LXXSy.
+. Lit.: “a”, isto é, a “alma”.
+. “Seu”, isto é, da alma.
+====
+
+[[v3-17-11]]
+
+^<<v3-17-11,11>>^ Pois a alma da carne está no sangue, e eu mesmo o pus para vós sobre o altar para fazer expiação pelas vossas almas, porque é o sangue que faz expiação pela alma [nele].^&#42;1^
+
+[NOTE]
+====
+. “Nele”, inserido em harmonia com a primeira parte do v. 11. A preposição traduzida por “pela” é diferente daquela na expressão precedente, “pelas vossas almas”.
+====
+
+[[v3-17-12]]
+
+^<<v3-17-12,12>>^ Foi por isso que eu disse aos filhos de Israel: “Nenhuma alma vossa deve comer sangue e nenhum residente forasteiro que reside no vosso meio deve comer sangue.”
+
+[[v3-17-13]]
+
+^<<v3-17-13,13>>^ “‘Quanto a qualquer homem dos filhos de Israel ou algum residente forasteiro que reside no vosso meio, que caçando apanhe um animal selvático ou uma ave que se possa comer, neste caso tem de derramar seu sangue e cobri-lo com pó.
+
+[[v3-17-14]]
+
+^<<v3-17-14,14>>^ Pois a alma de todo tipo de carne^&#42;1^ é seu sangue pela alma nele.^&#42;2^ Por conseguinte, eu disse aos filhos de Israel: “Não deveis comer o sangue de qualquer tipo de carne, porque a alma de todo tipo de carne é seu sangue. Quem o comer será decepado [da vida].”
+
+[NOTE]
+====
+. Ou “a alma de toda a carne”.
+. Lit.: “pela sua alma”, M; LXXSyVg omitem-na.
+====
+
+[[v3-17-15]]
+
+^<<v3-17-15,15>>^ Quanto a qualquer alma que comer um corpo [já] morto ou algo dilacerado por uma fera, quer seja natural quer residente forasteiro, neste caso terá de lavar suas vestes e banhar-se em água, e ele terá de ser impuro até à noitinha; e ele terá de ser limpo.
+
+[[v3-17-16]]
+
+^<<v3-17-16,16>>^ Mas, se não as lavar e se não banhar sua carne, então terá de responder pelo seu erro.’”
+
+'''
+
+xref:003-levitico/003-levitico-016.adoc#v3-16-0[&#60; Capítulo Anterior] | <<v3-17-0,Topo>> | xref:003-levitico/003-levitico-018.adoc#v3-18-0[Próximo Capítulo &#62;]

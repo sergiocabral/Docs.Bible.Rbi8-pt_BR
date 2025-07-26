@@ -1,0 +1,236 @@
+include::./index.adoc[]
+
+[[v40-10-0]]
+=== Mateus, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v40-10-1]]
+
+^<<v40-10-1,1>>^ Convocou assim os seus doze discípulos e deu-lhes autoridade sobre espíritos impuros, para os expulsarem e para curarem toda sorte de moléstias e toda sorte de padecimentos.
+
+[[v40-10-2]]
+
+^<<v40-10-2,2>>^ Os nomes dos doze apóstolos são estes: Primeiro, Simão, o chamado Pedro,^&#42;1^ e André, seu irmão; e Tiago, [filho] de Zebedeu, e João, seu irmão;
+
+[NOTE]
+====
+. “Pedro” é chamado de cinco maneiras diferentes; aqui: “Simão, o chamado Pedro”; em 16:16: “Simão Pedro”; em At 15:14: “Simeão”; em Jo 1:42: “Cefas”; e mais freqüentemente: “Pedro”, como em Mt 14:28.
+====
+
+[[v40-10-3]]
+
+^<<v40-10-3,3>>^ Filipe e Bartolomeu;^&#42;1^ Tomé e Mateus,^&#42;2^ o cobrador de impostos; Tiago, [filho] de Alfeu, e Tadeu;^&#42;3^
+
+[NOTE]
+====
+. Significando “Filho de Tolmai”. Às vezes era chamado Natanael, presumivelmente este era seu sobrenome. Veja Jo 1:46; Jo 21:2.
+. Também conhecido por Levi. Veja Lu 5:27.
+. Também conhecido por “Judas, filho de Tiago”. Veja Lu 6:16; Jo 14:22; At 1:13.
+====
+
+[[v40-10-4]]
+
+^<<v40-10-4,4>>^ Simão, o Cananita, e Judas Iscariotes, que mais tarde o traiu.
+
+[[v40-10-5]]
+
+^<<v40-10-5,5>>^ A estes doze enviou Jesus, dando-lhes as seguintes ordens: “Não vos desvieis para a estrada das nações, e não entreis em cidade samaritana;
+
+[[v40-10-6]]
+
+^<<v40-10-6,6>>^ mas, ide antes continuamente às ovelhas perdidas da casa de Israel.
+
+[[v40-10-7]]
+
+^<<v40-10-7,7>>^ Ao irdes, pregai, dizendo: ‘O reino dos céus se tem aproximado.’
+
+[[v40-10-8]]
+
+^<<v40-10-8,8>>^ Curai doentes, ressuscitai mortos, tornai limpos os leprosos, expulsai demônios. De graça recebestes, de graça dai.
+
+[[v40-10-9]]
+
+^<<v40-10-9,9>>^ Não adquirais nem ouro, nem prata, nem cobre, para os bolsos dos vossos cintos,
+
+[[v40-10-10]]
+
+^<<v40-10-10,10>>^ nem alforje para a viagem, nem duas peças de roupa interior,^&#42;1^ nem sandálias, nem bastão; pois o trabalhador merece o seu alimento.
+
+[NOTE]
+====
+. Ou “nem uma peça extra de roupa interior”.
+====
+
+[[v40-10-11]]
+
+^<<v40-10-11,11>>^ “Em qualquer cidade ou aldeia em que entrardes, procurai nela quem é merecedor, e ficai ali até partirdes.
+
+[[v40-10-12]]
+
+^<<v40-10-12,12>>^ Ao entrardes na casa, cumprimentai a família;
+
+[[v40-10-13]]
+
+^<<v40-10-13,13>>^ e, se a casa for merecedora, venha sobre ela a paz que lhe desejais; mas, se ela não for merecedora, volte a vós a vossa paz.
+
+[[v40-10-14]]
+
+^<<v40-10-14,14>>^ Onde quer que alguém não vos acolher ou não escutar as vossas palavras, ao sairdes daquela casa ou daquela cidade, sacudi o pó dos vossos pés.
+
+[[v40-10-15]]
+
+^<<v40-10-15,15>>^ Deveras, eu vos digo: No Dia do Juízo será mais suportável para a terra de Sodoma e Gomorra do que para essa cidade.
+
+[[v40-10-16]]
+
+^<<v40-10-16,16>>^ “Eis que eu vos envio como ovelhas no meio de lobos; portanto, mostrai-vos cautelosos como as serpentes, contudo, inocentes como as pombas.
+
+[[v40-10-17]]
+
+^<<v40-10-17,17>>^ Guardai-vos dos homens; pois eles vos entregarão aos tribunais locais^&#42;1^ e vos açoitarão nas suas sinagogas.
+
+[NOTE]
+====
+. Ou “a sinédrios inferiores”. J17,22(hebr.): leSan·hedh·ri·yóhth.
+====
+
+[[v40-10-18]]
+
+^<<v40-10-18,18>>^ Ora, sereis arrastados perante governadores e reis, por minha causa, em testemunho^&#42;1^ para eles e para as nações.
+
+[NOTE]
+====
+. “Testemunho.” Gr.: mar·tý·ri·on; lat.: te·sti·mó·ni·um.
+====
+
+[[v40-10-19]]
+
+^<<v40-10-19,19>>^ No entanto, quando vos entregarem, não fiqueis ansiosos quanto a como ou o que haveis de falar; porque naquela hora vos será dado o que haveis de falar;
+
+[[v40-10-20]]
+
+^<<v40-10-20,20>>^ pois, quem fala não sois apenas vós, mas é o espírito de vosso Pai, que fala por meio de vós.
+
+[[v40-10-21]]
+
+^<<v40-10-21,21>>^ Além disso, irmão entregará irmão à morte, e o pai ao seu filho, e os filhos se levantarão contra os pais e os farão matar.
+
+[[v40-10-22]]
+
+^<<v40-10-22,22>>^ E vós sereis pessoas odiadas por todos, por causa do meu nome; mas aquele que tiver perseverado até o fim é o que será salvo.
+
+[[v40-10-23]]
+
+^<<v40-10-23,23>>^ Quando vos perseguirem numa cidade, fugi para outra; pois, deveras, eu vos digo: De modo algum completareis o circuito das cidades de Israel antes de chegar o Filho do homem.
+
+[[v40-10-24]]
+
+^<<v40-10-24,24>>^ “O discípulo não está acima do seu instrutor, nem o escravo acima do seu senhor.
+
+[[v40-10-25]]
+
+^<<v40-10-25,25>>^ Basta que o discípulo se torne como o seu instrutor e o escravo como o seu senhor. Se chamaram de Belzebu^&#42;1^ ao dono da casa, quanto mais [chamarão] assim aos de sua família?
+
+[NOTE]
+====
+. “Belzebu”, VgSyp,s; אB(gr.): Be·e·ze·boúl; CW(gr.): Be·el·ze·boúl. Veja 12:24 n.
+====
+
+[[v40-10-26]]
+
+^<<v40-10-26,26>>^ Portanto, não os temais; pois não há nada encoberto que não venha a ser descoberto e não há nada secreto que não venha a ser conhecido.
+
+[[v40-10-27]]
+
+^<<v40-10-27,27>>^ O que eu vos digo na escuridão, dizei na luz;^&#42;1^ e o que ouvis sussurrado,^&#42;2^ pregai dos altos das casas.
+
+[NOTE]
+====
+. Ou “em público; publicamente”.
+. Lit.: “ao ouvido”.
+====
+
+[[v40-10-28]]
+
+^<<v40-10-28,28>>^ E não fiqueis temerosos dos que matam o corpo, mas não podem matar a alma;^&#42;1^ antes, temei aquele que pode destruir na Geena^&#42;2^ tanto a alma como o corpo.
+
+[NOTE]
+====
+. Ou “vida”. Veja Ap. 4A.
+. Veja Ap. 4C.
+====
+
+[[v40-10-29]]
+
+^<<v40-10-29,29>>^ Não se vendem dois pardais por uma moeda de pequeno valor?^&#42;1^ Contudo, nem mesmo um deles cairá ao chão sem o [conhecimento de] vosso Pai.
+
+[NOTE]
+====
+. Lit.: “se vendem . . . por um asse (assário)”; este era a décima sexta parte de um denário. Veja Ap. 8A.
+====
+
+[[v40-10-30]]
+
+^<<v40-10-30,30>>^ Porém, os próprios cabelos de vossa cabeça estão todos contados.
+
+[[v40-10-31]]
+
+^<<v40-10-31,31>>^ Portanto, não temais; vós valeis mais do que muitos pardais.
+
+[[v40-10-32]]
+
+^<<v40-10-32,32>>^ “Todo aquele, pois, que confessar perante os homens estar em união comigo, eu também confessarei perante meu Pai, que está nos céus, estar em união com ele;
+
+[[v40-10-33]]
+
+^<<v40-10-33,33>>^ mas aquele que me repudiar perante os homens, eu também o repudiarei perante meu Pai, que está nos céus.
+
+[[v40-10-34]]
+
+^<<v40-10-34,34>>^ Não penseis que vim estabelecer paz na terra; vim estabelecer, não a paz, mas a espada.
+
+[[v40-10-35]]
+
+^<<v40-10-35,35>>^ Pois vim causar divisão; o homem contra seu pai, e a filha contra sua mãe, e a jovem esposa contra sua sogra.
+
+[[v40-10-36]]
+
+^<<v40-10-36,36>>^ Deveras, os inimigos do homem serão pessoas de sua própria família.
+
+[[v40-10-37]]
+
+^<<v40-10-37,37>>^ Quem tiver maior afeição pelo pai ou pela mãe do que por mim, não é digno de mim; e quem tiver maior afeição pelo filho ou pela filha do que por mim, não é digno de mim.
+
+[[v40-10-38]]
+
+^<<v40-10-38,38>>^ E aquele que não aceita a sua estaca de tortura^&#42;1^ e não me segue não é digno de mim.
+
+[NOTE]
+====
+. “Estaca de tortura.” Gr.: σταυρόν (stau·rón); lat.: crú·cem (de crux). Veja Ap. 5C.
+====
+
+[[v40-10-39]]
+
+^<<v40-10-39,39>>^ Quem achar a sua alma,^&#42;1^ perdê-la-á, e quem perder a sua alma por minha causa, achá-la-á.
+
+[NOTE]
+====
+. Ou “vida”. Veja Ap. 4A.
+====
+
+[[v40-10-40]]
+
+^<<v40-10-40,40>>^ “Quem vos recebe, recebe [também] a mim, e quem me recebe, recebe [também] aquele que me enviou.
+
+[[v40-10-41]]
+
+^<<v40-10-41,41>>^ Quem receber um profeta porque ele é profeta, receberá a recompensa de profeta, e quem receber um homem justo porque ele é homem justo, receberá a recompensa de homem justo.
+
+[[v40-10-42]]
+
+^<<v40-10-42,42>>^ E aquele que der a um destes pequenos ainda que seja um copo de água fria a beber, porque ele é discípulo, deveras, eu vos digo, de nenhum modo perderá a sua recompensa.”
+
+'''
+
+xref:040-mateus/040-mateus-009.adoc#v40-9-0[&#60; Capítulo Anterior] | <<v40-10-0,Topo>> | xref:040-mateus/040-mateus-011.adoc#v40-11-0[Próximo Capítulo &#62;]

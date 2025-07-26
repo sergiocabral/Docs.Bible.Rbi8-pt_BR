@@ -1,0 +1,58 @@
+include::./index.adoc[]
+
+[[v19-150-0]]
+=== Salmos, 150
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-150-1]]
+
+^<<v19-150-1,1>>^ Louvai a Jah!^&#42;1^
+Louvai a Deus^&#42;2^ no seu lugar santo.
+Louvai-o na expansão da sua força.
+
+[NOTE]
+====
+. Veja 104:35 n.
+. Lit.: “Louvai a Deus.” Hebr.: ha·lelu-’Él.
+====
+
+[[v19-150-2]]
+
+^<<v19-150-2,2>>^ Louvai-o pelas suas obras potentes.
+Louvai-o segundo a abundância da sua grandeza.
+
+[[v19-150-3]]
+
+^<<v19-150-3,3>>^ Louvai-o com toque de buzina.^&#42;1^
+Louvai-o com o instrumento de cordas e com a harpa.
+
+[NOTE]
+====
+. Ou “shofar”.
+====
+
+[[v19-150-4]]
+
+^<<v19-150-4,4>>^ Louvai-o com o pandeiro e com a dança de rodas.
+Louvai-o com cordas e com o pífaro.
+
+[[v19-150-5]]
+
+^<<v19-150-5,5>>^ Louvai-o com os címbalos de som melodioso.
+Louvai-o com os címbalos retumbantes.
+
+[[v19-150-6]]
+
+^<<v19-150-6,6>>^ Toda coisa que respira^&#42;1^ — louve ela a Jah.^&#42;2^
+Louvai a Jah!^&#42;3^
+
+[NOTE]
+====
+. Lit.: “Todo o fôlego.” Veja Ge 2:7.
+. “Jah.” Hebr.: Yah. Veja 41:13 n.; 68:4 n.
+. Este salmo conclama treze vezes a que se dê louvor a Jeová.
+====
+
+'''
+
+xref:019-salmo/019-salmo-149.adoc#v19-149-0[&#60; Capítulo Anterior] | <<v19-150-0,Topo>> | xref:020-proverbios/020-proverbios-001.adoc#v20-1-0[Próximo Capítulo &#62;]

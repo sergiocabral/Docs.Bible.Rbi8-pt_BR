@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v16-1-0]]
+=== Neemias, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v16-1-1]]
+
+^<<v16-1-1,1>>^ ^&#42;1^ As palavras de Neemias, filho de Hacalias: Ora, no mês de quisleu,^&#42;2^ no vigésimo ano, sucedeu que eu mesmo vim a estar em Susã, o castelo.^&#42;3^
+
+[NOTE]
+====
+. Na LXX, este é o capítulo 11 do Segundo de Esdras (2 Esdras).
+. “Quisleu.” Este é o nome pós-exílico do nono mês lunar judaico, que cai em novembro e dezembro. Veja Ap. 8B.
+. Ou “fortaleza”.
+====
+
+[[v16-1-2]]
+
+^<<v16-1-2,2>>^ Então entrou Hanani, um de meus irmãos, ele e outros homens de Judá, e eu passei a perguntar-lhes pelos judeus, os que tinham escapado, que restaram do cativeiro, e também por Jerusalém.
+
+[[v16-1-3]]
+
+^<<v16-1-3,3>>^ Por conseguinte, disseram-me: “Os que restaram, que remanesceram do cativeiro, lá no distrito jurisdicional, estão em grandes apuros e em vitupério; e a muralha de Jerusalém está derrocada e seus próprios portões foram queimados com fogo.”
+
+[[v16-1-4]]
+
+^<<v16-1-4,4>>^ E sucedeu que, assim que ouvi estas palavras, assentei-me e comecei a chorar e a prantear por muitos dias, e jejuava e orava continuamente diante do Deus dos céus.
+
+[[v16-1-5]]
+
+^<<v16-1-5,5>>^ E prossegui, dizendo: “Ai! Jeová, Deus^&#42;1^ dos céus, o Deus^&#42;2^ grande e atemorizante, guardando o pacto e a benevolência^&#42;3^ para com os que o amam e que guardam os seus mandamentos,
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·héh, seguido pela expressão qualificativa “dos céus”. Veja 2Cr 36:23 n.
+. Ou “o [verdadeiro] Deus”. O título ’El é precedido pelo artigo definido hebr. ha, “o”, mas seguido pelas qualificações “grande e atemorizante”. Veja Ap. 1G.
+. Ou “amor leal”.
+====
+
+[[v16-1-6]]
+
+^<<v16-1-6,6>>^ por favor, fique teu ouvido atento e fiquem teus olhos abertos para escutar a oração de teu servo, com que hoje oro diante de ti, dia e noite, referente aos filhos de Israel, teus servos, ao passo que faço confissão quanto aos pecados dos filhos de Israel com que pecamos contra ti. Pecamos, tanto eu como a casa de meu pai.
+
+[[v16-1-7]]
+
+^<<v16-1-7,7>>^ Indubitavelmente agimos de modo corrupto contra ti e não guardamos os mandamentos, e os regulamentos, e as decisões judiciais que deste como ordem a Moisés, teu servo.
+
+[[v16-1-8]]
+
+^<<v16-1-8,8>>^ “Por favor, lembra-te da palavra que ordenaste a Moisés, teu servo, dizendo: ‘Se vós, da vossa parte, agirdes de modo infiel, eu, da minha parte, vos espalharei entre os povos.
+
+[[v16-1-9]]
+
+^<<v16-1-9,9>>^ Quando tiverdes retornado a mim e guardado os meus mandamentos, e os tiverdes praticado, embora o vosso povo disperso venha a estar nos confins dos céus, de lá os reunirei e certamente os trarei ao lugar que escolhi para ali fazer residir meu nome.’
+
+[[v16-1-10]]
+
+^<<v16-1-10,10>>^ E eles são os teus servos e o teu povo que remiste pelo teu grande poder e pela tua forte mão.
+
+[[v16-1-11]]
+
+^<<v16-1-11,11>>^ Ai! Jeová,^&#42;1^ por favor, atente o teu ouvido à oração de teu servo e à oração de teus servos que se agradam em temer o teu nome; e por favor, concede hoje bom êxito a teu servo e faze-o objeto de misericórdia diante deste homem.”
+Ora, aconteceu que eu mesmo era copeiro do rei.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+'''
+
+xref:015-esdras/015-esdras-010.adoc#v15-10-0[&#60; Capítulo Anterior] | <<v16-1-0,Topo>> | xref:016-neemias/016-neemias-002.adoc#v16-2-0[Próximo Capítulo &#62;]

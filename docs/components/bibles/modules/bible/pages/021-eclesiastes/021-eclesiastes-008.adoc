@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v21-8-0]]
+=== Eclesiastes, 8
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v21-8-1]]
+
+^<<v21-8-1,1>>^ Quem é igual ao sábio? E quem sabe a interpretação duma coisa? A sabedoria do próprio homem lhe faz brilhar a face, e até mesmo a severidade da sua face muda [para melhor].
+
+[[v21-8-2]]
+
+^<<v21-8-2,2>>^ Eu [digo:] “Guarda a própria ordem do rei, e isso de consideração para com o juramento de Deus.
+
+[[v21-8-3]]
+
+^<<v21-8-3,3>>^ Não te precipites, para que não saias de diante dele. Não fiques de pé numa coisa má. Pois fará tudo o que se agradar [de fazer],
+
+[[v21-8-4]]
+
+^<<v21-8-4,4>>^ porque a palavra do rei é o poder do controle; e quem lhe pode dizer: ‘Que estás fazendo?’”
+
+[[v21-8-5]]
+
+^<<v21-8-5,5>>^ Quem guarda o mandamento não ficará conhecendo nenhuma coisa calamitosa, e o coração sábio conhecerá tanto o tempo como o julgamento.
+
+[[v21-8-6]]
+
+^<<v21-8-6,6>>^ Pois para todo assunto há um tempo e um julgamento, visto que a calamidade da humanidade é abundante sobre eles.
+
+[[v21-8-7]]
+
+^<<v21-8-7,7>>^ Porque ninguém sabe o que virá a ser, pois quem pode informá-lo exatamente sobre como virá a ser?
+
+[[v21-8-8]]
+
+^<<v21-8-8,8>>^ Não há homem que tenha poder sobre o espírito^&#42;1^ para reprimir o espírito; nem há poder de controle no dia da morte; nem há qualquer dispensa na guerra. E a iniqüidade não porá a salvo os que se entregam a ela.^&#42;2^
+
+[NOTE]
+====
+. “Sobre o espírito (fôlego).” Hebr.: ba·rú·ahh; gr.: pneú·ma·ti.
+. Lit.: “os donos dela”. Hebr.: be‛a·láv.
+====
+
+[[v21-8-9]]
+
+^<<v21-8-9,9>>^ Tudo isto eu tenho visto, e houve um empenho^&#42;1^ do meu coração em todo o trabalho que se tem feito debaixo do sol, [durante] o tempo em que homem tem dominado homem para seu prejuízo.
+
+[NOTE]
+====
+. “Houve um empenho.” No hebr., isto é um verbo no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v21-8-10]]
+
+^<<v21-8-10,10>>^ Mas, embora isto seja assim, tenho visto os iníquos serem enterrados, como entraram e como se foram do próprio lugar santo, e foram esquecidos na cidade em que agiam assim. Também isto é vaidade.
+
+[[v21-8-11]]
+
+^<<v21-8-11,11>>^ Por não se ter executado prontamente a sentença contra um trabalho mau é que o coração dos filhos dos homens ficou neles plenamente determinado a fazer o mal.
+
+[[v21-8-12]]
+
+^<<v21-8-12,12>>^ Embora o pecador faça o mal cem vezes e continue por longo tempo conforme quiser, contudo, estou também apercebido de que resultará em bem para os que temem o [verdadeiro] Deus, porque têm tido temor dele.
+
+[[v21-8-13]]
+
+^<<v21-8-13,13>>^ Mas não resultará em nada de bom para o iníquo, nem prolongará ele os seus dias, que são como uma sombra, porque ele não tem temor de Deus.
+
+[[v21-8-14]]
+
+^<<v21-8-14,14>>^ Há uma vaidade que se realiza na terra, que há justos a quem acontece como que pelo trabalho dos iníquos e há iníquos a quem acontece como que pelo trabalho dos justos. Eu disse que também isto é vaidade.
+
+[[v21-8-15]]
+
+^<<v21-8-15,15>>^ E eu mesmo gabei a alegria, porque a humanidade^&#42;1^ não tem nada melhor debaixo do sol do que comer, e beber, e alegrar-se, e que isto os acompanhe no seu trabalho árduo pelos dias da sua vida, que o [verdadeiro] Deus lhes deu debaixo do sol.
+
+[NOTE]
+====
+. Lit.: “porque o homem terreno”. Hebr.: la·’a·dhám.
+====
+
+[[v21-8-16]]
+
+^<<v21-8-16,16>>^ De acordo com isto, empenhei meu coração em conhecer a sabedoria e em ver a ocupação em que se trabalha na terra, porque há um que não vê sono com os seus olhos, quer de dia quer de noite.
+
+[[v21-8-17]]
+
+^<<v21-8-17,17>>^ E eu vi todo o trabalho do [verdadeiro] Deus, que a humanidade não é capaz de descobrir o trabalho que se fez debaixo do sol; por mais que a humanidade trabalhe arduamente para procurar, ainda assim não [o] descobre. E mesmo que dissessem que são bastante sábios para saber, não seriam capazes de [o] descobrir.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-007.adoc#v21-7-0[&#60; Capítulo Anterior] | <<v21-8-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-009.adoc#v21-9-0[Próximo Capítulo &#62;]

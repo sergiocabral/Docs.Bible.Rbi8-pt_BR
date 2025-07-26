@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v19-14-0]]
+=== Salmos, 14
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. De Davi._
+
+[[v19-14-1]]
+
+^<<v19-14-1,1>>^ O insensato disse no seu coração:
+“Não há Jeová.”^&#42;1^
+Agiram ruinosamente, agiram de modo detestável na [sua] ação.
+Não há quem faça o bem.^&#42;2^
+
+[NOTE]
+====
+. Uma das 8 mudanças de YHWH para ’Elo·hím feitas pelos escribas. Veja Ap. 1B.
+. LXX acrescenta: “nem mesmo um só”.
+====
+
+[[v19-14-2]]
+
+^<<v19-14-2,2>>^ Quanto a Jeová, olhou para baixo sobre os filhos dos homens, desde o próprio céu,
+Para ver se havia alguém com perspicácia, alguém que buscasse a Jeová.^&#42;1^
+
+[NOTE]
+====
+. Uma das oito mudanças de YHWH para ’Elo·hím feitas pelos escribas; T: “Jeová”. Veja Ap. 1B.
+====
+
+[[v19-14-3]]
+
+^<<v19-14-3,3>>^ Todos se desviaram, [todos] são igualmente corruptos;
+Não há quem faça o bem,
+Nem sequer um.^&#42;1^
+
+[NOTE]
+====
+. LXXVg acrescentam as palavras encontradas em Ro 3:13-18: “Sua garganta é um sepulcro aberto, com as suas línguas usaram de fraude. Veneno de áspides está atrás dos seus lábios. E a sua boca está cheia de maldição e expressão amarga. Seus pés são velozes para derramar sangue. Ruína e miséria estão nos seus caminhos, e não conheceram o caminho da paz. Não há temor de Deus diante dos seus olhos.”
+====
+
+[[v19-14-4]]
+
+^<<v19-14-4,4>>^ Acaso nenhum dos que praticam o que é prejudicial tem conhecimento,
+Devorando meu povo assim como comeram pão?
+Não invocaram nem mesmo a Jeová.
+
+[[v19-14-5]]
+
+^<<v19-14-5,5>>^ Ali se encheram de grande pavor,^&#42;1^
+Porque Jeová^&#42;2^ está entre a geração do justo.
+
+[NOTE]
+====
+. Lit.: “se apavoraram dum pavor”.
+. Uma das 8 mudanças de YHWH para ’Elo·hím feitas pelos escribas; TVgc: “Jeová”. Veja Ap. 1B.
+====
+
+[[v19-14-6]]
+
+^<<v19-14-6,6>>^ Envergonharíeis o conselho do atribulado,
+Porque Jeová é seu refúgio.
+
+[[v19-14-7]]
+
+^<<v19-14-7,7>>^ Quem dera que viesse de Sião a salvação de Israel!
+Quando Jeová ajuntar de volta os cativos do seu povo,
+Jubile Jacó, alegre-se Israel.
+
+'''
+
+xref:019-salmo/019-salmo-013.adoc#v19-13-0[&#60; Capítulo Anterior] | <<v19-14-0,Topo>> | xref:019-salmo/019-salmo-015.adoc#v19-15-0[Próximo Capítulo &#62;]

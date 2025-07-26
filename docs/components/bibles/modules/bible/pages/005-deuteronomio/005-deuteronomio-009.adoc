@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v5-9-0]]
+=== Deuteronômio, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-9-1]]
+
+^<<v5-9-1,1>>^ “Ouve, ó Israel: hoje estás passando o Jordão para entrar e desapossar nações maiores e mais fortes do que tu, cidades grandes e fortificadas até os céus,
+
+[[v5-9-2]]
+
+^<<v5-9-2,2>>^ um povo grande e alto, os filhos dos anaquins, dos quais tu mesmo tiveste conhecimento e tu mesmo ouviste dizer: ‘Quem se pode manter firme diante dos filhos de Anaque?’
+
+[[v5-9-3]]
+
+^<<v5-9-3,3>>^ E hoje bem sabes que Jeová, teu Deus, está atravessando na tua frente. Ele é um fogo consumidor. Ele os aniquilará e ele próprio os subjugará diante de ti; e tens de desapossá-los e destruí-los rapidamente, assim como Jeová te falou.
+
+[[v5-9-4]]
+
+^<<v5-9-4,4>>^ “Não digas no teu coração o seguinte, quando Jeová, teu Deus, os empurrar de diante de ti: ‘Foi por minha própria justiça que Jeová me fez entrar para tomar posse desta terra’, ao passo que foi pela iniqüidade destas nações que Jeová as desaloja de diante de ti.
+
+[[v5-9-5]]
+
+^<<v5-9-5,5>>^ Não é por causa da tua justiça ou pela retidão do teu coração que estás entrando para tomar posse da sua terra; de fato, é por causa da iniqüidade destas nações que Jeová, teu Deus, as desaloja de diante de ti e para cumprir a palavra que Jeová jurou aos teus antepassados, Abraão, Isaque e Jacó.
+
+[[v5-9-6]]
+
+^<<v5-9-6,6>>^ E tens de saber que não é por tua justiça que Jeová, teu Deus, te dá esta boa terra para tomares posse dela; pois és um povo de dura cerviz.
+
+[[v5-9-7]]
+
+^<<v5-9-7,7>>^ “Lembra-te: Não te esqueças de como indignaste Jeová, teu Deus, no ermo. Desde o dia em que saíste da terra do Egito até que chegastes a este lugar, mostrastes-vos rebeldes no vosso comportamento para com Jeová.
+
+[[v5-9-8]]
+
+^<<v5-9-8,8>>^ Até mesmo em Horebe indignastes Jeová, de modo que Jeová se irou convosco, a ponto de vos aniquilar.
+
+[[v5-9-9]]
+
+^<<v5-9-9,9>>^ Quando subi ao monte para receber as tábuas de pedra, as tábuas do pacto que Jeová concluíra convosco, e fiquei morando no monte por quarenta dias e quarenta noites, (não comi pão nem bebi água,)
+
+[[v5-9-10]]
+
+^<<v5-9-10,10>>^ então Jeová me deu as duas tábuas de pedra inscritas pelo dedo de Deus; e nelas havia todas as palavras^&#42;1^ que Jeová vos falara no monte, do meio do fogo, no dia da congregação.^&#42;2^
+
+[NOTE]
+====
+. Segundo LXXSyVg; MSam: “nelas havia [o mesmo] como todas as palavras”.
+. “Da congregação.” Hebr.: haq·qa·hál; gr.: ek·kle·sí·as. Veja 4:10 n.: “Horebe”.
+====
+
+[[v5-9-11]]
+
+^<<v5-9-11,11>>^ E sucedeu, no fim dos quarenta dias e quarenta noites, que Jeová me deu as duas tábuas de pedra, as tábuas do pacto;
+
+[[v5-9-12]]
+
+^<<v5-9-12,12>>^ e Jeová passou a dizer-me: ‘Levanta-te, desce depressa daqui, porque teu povo que fizeste sair do Egito tem agido ruinosamente. Desviaram-se depressa do caminho que lhes ordenei. Fizeram para si uma imagem fundida.’
+
+[[v5-9-13]]
+
+^<<v5-9-13,13>>^ E Jeová prosseguiu, dizendo-me o seguinte: ‘Vi este povo, e eis que é um povo de dura cerviz.
+
+[[v5-9-14]]
+
+^<<v5-9-14,14>>^ Deixa-me, para que eu os aniquile e extinga seu nome debaixo dos céus, e faça eu de ti uma nação mais forte e mais populosa do que eles.’
+
+[[v5-9-15]]
+
+^<<v5-9-15,15>>^ “Após isso, virei-me e desci do monte, enquanto o monte ardia com fogo; e as duas tábuas do pacto estavam em ambas as minhas mãos.
+
+[[v5-9-16]]
+
+^<<v5-9-16,16>>^ Olhei então, e eis que tínheis pecado contra Jeová, vosso Deus! Tínheis feito para vós um bezerro fundido. Depressa vos havíeis desviado do caminho que Jeová vos ordenara.
+
+[[v5-9-17]]
+
+^<<v5-9-17,17>>^ Nisso peguei nas duas tábuas e as lancei de ambas as minhas mãos, e as despedacei diante dos vossos olhos.
+
+[[v5-9-18]]
+
+^<<v5-9-18,18>>^ E passei a prostrar-me perante Jeová, como no princípio, por quarenta dias e quarenta noites. Não comi pão nem bebi água, por causa de todo o vosso pecado que havíeis cometido ao fazerdes o mal aos olhos de Jeová, de modo a ofendê-lo.
+
+[[v5-9-19]]
+
+^<<v5-9-19,19>>^ Pois eu estava amedrontado por causa da ira veemente com que Jeová se indignou contra vós a ponto de vos aniquilar. No entanto, Jeová me escutou também aquela vez.
+
+[[v5-9-20]]
+
+^<<v5-9-20,20>>^ “Também com Arão se irou Jeová a ponto de o aniquilar; mas, naquele tempo específico fiz também intercessão a favor de Arão.
+
+[[v5-9-21]]
+
+^<<v5-9-21,21>>^ E tomei o vosso pecado que havíeis feito, o bezerro, e passei a queimá-lo no fogo e a esmiuçá-lo, moendo-o cabalmente até que ficou miúdo como pó; depois lancei o seu pó na torrente que descia do monte.
+
+[[v5-9-22]]
+
+^<<v5-9-22,22>>^ “Além disso, em Taberá, e em Massá, e em Quibrote-Ataavá, mostrastes ser os que indignavam Jeová.
+
+[[v5-9-23]]
+
+^<<v5-9-23,23>>^ E quando Jeová vos enviou de Cades-Barnéia, dizendo: ‘Subi e tomai posse da terra que certamente vos darei!’ então vos comportastes rebeldemente contra a ordem de Jeová, vosso Deus, e não exercestes fé nele e não escutastes a sua voz.
+
+[[v5-9-24]]
+
+^<<v5-9-24,24>>^ Mostrastes ser rebeldes em comportamento para com Jeová desde o dia em que vos conheci.
+
+[[v5-9-25]]
+
+^<<v5-9-25,25>>^ “De modo que eu me prostrava perante Jeová por quarenta dias e quarenta noites, pois me prostrei assim por Jeová ter falado^&#42;1^ em aniquilar-vos.
+
+[NOTE]
+====
+. Ou “pensado”.
+====
+
+[[v5-9-26]]
+
+^<<v5-9-26,26>>^ E comecei a fazer intercessão junto a Jeová e a dizer: ‘Ó Soberano Senhor Jeová,^&#42;1^ não arruínes o teu povo, sim, tua propriedade particular,^&#42;2^ que remiste com a tua grandeza, que fizeste sair do Egito, com mão forte.
+
+[NOTE]
+====
+. “Ó Soberano Senhor Jeová.” Hebr.: ’Adho·naí Yehwíh. Veja Ap. 1E.
+. Ou “tua herança”.
+====
+
+[[v5-9-27]]
+
+^<<v5-9-27,27>>^ Lembra-te dos teus servos Abraão, Isaque e Jacó. Não vires a tua face para a dureza deste povo, nem para a sua iniqüidade e seu pecado,
+
+[[v5-9-28]]
+
+^<<v5-9-28,28>>^ para que a terra^&#42;1^ de que nos fizeste sair não diga: “Visto que Jeová não foi capaz de os introduzir na terra que lhes prometeu e visto que os odiou, ele os fez sair para os entregar à morte no ermo.”
+
+[NOTE]
+====
+. “A terra”, sing., mas com o verbo hebr. para “diga” no pl.; SamLXXSyVg: “os habitantes da terra”.
+====
+
+[[v5-9-29]]
+
+^<<v5-9-29,29>>^ Todavia, são teu povo e tua propriedade particular que fizeste sair com teu grande poder e teu braço estendido.’
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-008.adoc#v5-8-0[&#60; Capítulo Anterior] | <<v5-9-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-010.adoc#v5-10-0[Próximo Capítulo &#62;]

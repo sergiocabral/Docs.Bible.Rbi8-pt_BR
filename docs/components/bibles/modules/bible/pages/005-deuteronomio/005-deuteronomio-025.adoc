@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v5-25-0]]
+=== Deuteronômio, 25
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-25-1]]
+
+^<<v5-25-1,1>>^ “Caso surja uma disputa entre homens, e tenham comparecido ao julgamento, então eles têm de julgá-los, e ao justo têm de declarar justo e ao iníquo têm de pronunciar iníquo.
+
+[[v5-25-2]]
+
+^<<v5-25-2,2>>^ E tem de dar-se que, se o iníquo merece ser espancado,^&#42;1^ então o juiz tem de fazer que seja deitado de bruços e que diante dele se lhe dêem golpes correspondentes em número à sua ação iníqua.
+
+[NOTE]
+====
+. Lit.: “alguém é filho de espancamento”.
+====
+
+[[v5-25-3]]
+
+^<<v5-25-3,3>>^ Pode golpeá-lo com quarenta golpes. Não deve acrescentar mais, para que não continue a espancá-lo com muitos golpes, além destes, e teu irmão fique realmente degradado aos teus olhos.
+
+[[v5-25-4]]
+
+^<<v5-25-4,4>>^ “Não deves açaimar o touro quando debulha.
+
+[[v5-25-5]]
+
+^<<v5-25-5,5>>^ “Caso irmãos morem juntos e um deles morra sem ter filho, a esposa do morto não deve vir a pertencer a um homem estranho, alheio. Seu cunhado deve chegar-se a ela e tem de tomá-la por sua esposa, e tem de realizar com ela o casamento de cunhado.^&#42;1^
+
+[NOTE]
+====
+. “E tem de realizar com ela o casamento de cunhado (levirato).” Hebr.: weyib·bemáh.
+====
+
+[[v5-25-6]]
+
+^<<v5-25-6,6>>^ E tem de dar-se que o primogênito que ela der à luz deve suceder ao nome de seu falecido irmão, para que seu nome não seja extinto em Israel.
+
+[[v5-25-7]]
+
+^<<v5-25-7,7>>^ “Ora, se o homem não se agradar em tomar a viúva de seu irmão, então a viúva de seu irmão tem de subir até o portão, aos anciãos, e tem de dizer: ‘O irmão de meu marido negou-se a preservar o nome de seu irmão em Israel. Não consentiu em realizar comigo o casamento de cunhado.’
+
+[[v5-25-8]]
+
+^<<v5-25-8,8>>^ E os anciãos da sua cidade têm de convocá-lo e falar com ele, e ele tem de ficar em pé e dizer: ‘Não me agradei em tomá-la.’
+
+[[v5-25-9]]
+
+^<<v5-25-9,9>>^ Nisso tem de aproximar-se dele a viúva de seu irmão, diante dos olhos dos anciãos, e ela tem de tirar-lhe a sandália do seu pé e cuspir-lhe na face, e tem de responder e dizer: ‘Assim se deve fazer ao homem que não edificar a família de seu irmão.’
+
+[[v5-25-10]]
+
+^<<v5-25-10,10>>^ E seu nome tem de ser chamado em Israel: ‘A casa daquele a quem se tirou a sandália.’
+
+[[v5-25-11]]
+
+^<<v5-25-11,11>>^ “Caso homens briguem entre si e a esposa de um deles se chegue para livrar seu esposo da mão daquele que o golpeia, e ela tenha estendido sua mão e o tenha agarrado pelas suas vergonhas,
+
+[[v5-25-12]]
+
+^<<v5-25-12,12>>^ então tens de amputar-lhe a mão.^&#42;1^ Teu olho não deve ter dó.
+
+[NOTE]
+====
+. Lit.: “palma”.
+====
+
+[[v5-25-13]]
+
+^<<v5-25-13,13>>^ “Não deves vir a ter na tua bolsa dois tipos de pesos,^&#42;1^ um grande e um pequeno.
+
+[NOTE]
+====
+. Lit.: “na tua bolsa um peso e um peso”.
+====
+
+[[v5-25-14]]
+
+^<<v5-25-14,14>>^ Não deves vir a ter na tua casa dois tipos de efas,^&#42;1^ um grande e um pequeno.
+
+[NOTE]
+====
+. Lit.: “na tua casa um efa e um efa”.
+====
+
+[[v5-25-15]]
+
+^<<v5-25-15,15>>^ Deves continuar a ter um peso exato e justo. Deves continuar a ter um efa exato e justo, para que os teus dias se prolonguem no solo que Jeová,^&#42;1^ teu Deus, te dá.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-25-16]]
+
+^<<v5-25-16,16>>^ Pois todo aquele que faz tais coisas, todo praticante da injustiça, é algo detestável para Jeová,^&#42;1^ teu Deus.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-25-17]]
+
+^<<v5-25-17,17>>^ “Deve ser lembrado^&#42;1^ o que Amaleque te fez no caminho, quando saístes do Egito,
+
+[NOTE]
+====
+. Veja 24:9 n.: “lembrado”.
+====
+
+[[v5-25-18]]
+
+^<<v5-25-18,18>>^ como te foi ao encontro no caminho e passou a golpear na tua retaguarda todos os que vinham atrás de ti, enquanto estavas exausto e fatigado; e ele não temeu a Deus.
+
+[[v5-25-19]]
+
+^<<v5-25-19,19>>^ E tem de suceder que, quando Jeová, teu Deus, te tiver dado descanso de todos os teus inimigos ao redor, na terra que Jeová, teu Deus, te dá por herança para tomares posse dela, deves extinguir a menção de Amaleque debaixo dos céus. Não te deves esquecer.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-024.adoc#v5-24-0[&#60; Capítulo Anterior] | <<v5-25-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-026.adoc#v5-26-0[Próximo Capítulo &#62;]

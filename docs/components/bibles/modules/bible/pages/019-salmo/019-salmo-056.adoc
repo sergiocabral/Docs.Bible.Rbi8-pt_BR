@@ -1,0 +1,96 @@
+include::./index.adoc[]
+
+[[v19-56-0]]
+=== Salmos, 56
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, segundo a Pomba Silenciosa entre os que estão longe.^&#42;1^ De Davi. Mictão.^&#42;2^ Quando os filisteus se apoderaram dele em Gate._
+
+[[v19-56-1]]
+
+^<<v19-56-1,1>>^ Mostra-me favor, ó Deus, porque o homem mortal me abocanhou.
+Guerreando o dia inteiro ele continua a oprimir-me.
+
+[[v19-56-2]]
+
+^<<v19-56-2,2>>^ Meus adversários hostis têm continuado a abocanhar-me o dia inteiro,
+Porque são muitos os que guerreiam contra mim altivamente.
+
+[[v19-56-3]]
+
+^<<v19-56-3,3>>^ O dia em que eu ficar com medo, eu, da minha parte, confiarei em ti.
+
+[[v19-56-4]]
+
+^<<v19-56-4,4>>^ Em união com Deus louvarei a sua palavra.
+Tenho posto a minha confiança em Deus; não terei medo.
+Que me pode fazer a carne?
+
+[[v19-56-5]]
+
+^<<v19-56-5,5>>^ O dia inteiro eles ferem os meus assuntos pessoais;
+Todos os seus pensamentos são contra mim para o mal.
+
+[[v19-56-6]]
+
+^<<v19-56-6,6>>^ Atacam, escondem-se,
+Eles, da sua parte, têm observado os meus próprios passos,^&#42;1^
+Enquanto estiveram à espera da minha alma.
+
+[NOTE]
+====
+. Lit.: “calcanhares”.
+====
+
+[[v19-56-7]]
+
+^<<v19-56-7,7>>^ Lança-os fora por causa daquilo que é prejudicial [deles].
+Em ira, rebaixa os próprios povos, ó Deus.
+
+[[v19-56-8]]
+
+^<<v19-56-8,8>>^ Tu mesmo contaste que sou fugitivo.
+Põe deveras as minhas lágrimas no teu odre.
+Não estão no teu livro?
+
+[[v19-56-9]]
+
+^<<v19-56-9,9>>^ Naquele tempo meus inimigos voltarão atrás, no dia em que eu chamar;
+Isto sei muito bem, que Deus é por mim.
+
+[[v19-56-10]]
+
+^<<v19-56-10,10>>^ Em união com Deus louvarei a [sua] palavra;
+Em união com Jeová louvarei a [sua] palavra.
+
+[[v19-56-11]]
+
+^<<v19-56-11,11>>^ Tenho posto a minha confiança em Deus. Não temerei.
+Que me pode fazer o homem terreno?^&#42;1^
+
+[NOTE]
+====
+. “Homem terreno.” Hebr.: ’a·dhám.
+====
+
+[[v19-56-12]]
+
+^<<v19-56-12,12>>^ Sobre mim, ó Deus, há votos [feitos] a ti.
+Farei a ti expressões de agradecimento.
+
+[[v19-56-13]]
+
+^<<v19-56-13,13>>^ Pois livraste a minha alma^&#42;1^ da morte —
+Não [livraste] meus pés do tropeço? —
+Para que [eu] andasse diante de Deus^&#42;2^ na luz^&#42;3^ dos viventes.
+
+[NOTE]
+====
+. “Minha alma.” Hebr.: naf·shí; gr.: psy·khén; lat.: á·ni·mam. Veja Ap. 4A.
+. “Deus”, MLXXSyVg; T: “Jeová”.
+. “Luz”, MTLXXVg; Sy: “terra”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-055.adoc#v19-55-0[&#60; Capítulo Anterior] | <<v19-56-0,Topo>> | xref:019-salmo/019-salmo-057.adoc#v19-57-0[Próximo Capítulo &#62;]

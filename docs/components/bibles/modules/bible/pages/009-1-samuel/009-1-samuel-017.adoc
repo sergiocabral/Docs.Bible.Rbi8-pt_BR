@@ -1,0 +1,336 @@
+include::./index.adoc[]
+
+[[v9-17-0]]
+=== 1 Samuel, 17
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-17-1]]
+
+^<<v9-17-1,1>>^ E os filisteus foram reunir seus acampamentos para a guerra. Quando se haviam reunido em Socó, que pertence a Judá, então passaram a acampar-se entre Socó e Azeca, em Efes-Damim.
+
+[[v9-17-2]]
+
+^<<v9-17-2,2>>^ Quanto a Saul e aos homens de Israel, reuniram-se e passaram a acampar-se na baixada de Elá, e foram pôr-se em formação de batalha para enfrentar os filisteus.
+
+[[v9-17-3]]
+
+^<<v9-17-3,3>>^ E os filisteus estavam parados no monte deste lado e os israelitas estavam parados no monte daquele lado, com o vale entre eles.
+
+[[v9-17-4]]
+
+^<<v9-17-4,4>>^ E começou a sair do acampamento dos filisteus um campeão, cujo nome era Golias, de Gate, tendo a altura de seis côvados e um palmo.^&#42;1^
+
+[NOTE]
+====
+. Cerca de 2,9 m.
+====
+
+[[v9-17-5]]
+
+^<<v9-17-5,5>>^ E havia na sua cabeça um capacete de cobre e ele estava vestido de uma cota de malha, de escamas imbricadas, e o peso da cota de malha era de cinco mil siclos^&#42;1^ de cobre.
+
+[NOTE]
+====
+. Cerca de 57 kg.
+====
+
+[[v9-17-6]]
+
+^<<v9-17-6,6>>^ E havia grevas de cobre acima dos seus pés e um dardo de cobre entre os seus ombros.
+
+[[v9-17-7]]
+
+^<<v9-17-7,7>>^ E a haste de madeira da sua lança era como o cilindro dos tecelões, e a lâmina da sua lança era de seiscentos siclos^&#42;1^ de ferro; e o carregador do escudo grande marchava na frente dele.
+
+[NOTE]
+====
+. Cerca de 6,84 kg.
+====
+
+[[v9-17-8]]
+
+^<<v9-17-8,8>>^ Então ficou parado e começou a chamar as fileiras combatentes de Israel e a dizer-lhes: “Por que saís para vos pordes em formação de batalha? Não sou eu filisteu e vós servos pertencentes a Saul? Escolhei para vós um homem e desça ele a mim.
+
+[[v9-17-9]]
+
+^<<v9-17-9,9>>^ Se ele puder lutar comigo e deveras me golpear, então teremos de ser vossos servos. Mas, se eu mesmo puder com ele e deveras o golpear, então vós tereis de tornar-vos servos nossos e tereis de servir-nos.”
+
+[[v9-17-10]]
+
+^<<v9-17-10,10>>^ E o filisteu prosseguiu, dizendo: “Eu mesmo escarneço das fileiras combatentes de Israel no dia de hoje. Dai-me um homem e lutemos entre nós!”
+
+[[v9-17-11]]
+
+^<<v9-17-11,11>>^ Quando Saul e todo o Israel ouviram estas palavras do filisteu, então ficaram aterrorizados e com muito medo.
+
+[[v9-17-12]]
+
+^<<v9-17-12,12>>^ ^&#42;1^ Ora, Davi era filho deste efratita de Belém de Judá, cujo nome era Jessé. E este tinha oito filhos. E nos dias de Saul, o homem já era velho entre os homens.^&#42;2^
+
+[NOTE]
+====
+. LXXB omite os vv. 12-31.
+. “Ficara velho e avançado em anos”, Sy; LXXL: “era velho, bem avançado em anos”; Vg: “era velho e de muita idade entre os homens”.
+====
+
+[[v9-17-13]]
+
+^<<v9-17-13,13>>^ E os três filhos mais velhos de Jessé passaram a ir. Foram seguir Saul à guerra, e os nomes dos seus três filhos que foram à guerra eram Eliabe, o primogênito, e seu segundo filho, Abinadabe, e o terceiro, Samá.
+
+[[v9-17-14]]
+
+^<<v9-17-14,14>>^ E Davi era o mais moço, e os três mais velhos é que foram seguir Saul.
+
+[[v9-17-15]]
+
+^<<v9-17-15,15>>^ E Davi ia e então retornava de Saul para apascentar as ovelhas de seu pai em Belém.
+
+[[v9-17-16]]
+
+^<<v9-17-16,16>>^ E o filisteu avançava de manhã cedo e à noitinha, e tomava a sua posição por quarenta dias.
+
+[[v9-17-17]]
+
+^<<v9-17-17,17>>^ Então Jessé disse a Davi, seu filho: “Por favor, leva a teus irmãos este efa^&#42;1^ de grãos torrados e estes dez pães, e carrega-os depressa ao acampamento, a teus irmãos.
+
+[NOTE]
+====
+. Cerca de 22 l.
+====
+
+[[v9-17-18]]
+
+^<<v9-17-18,18>>^ E estas dez porções de leite^&#42;1^ deves levar ao chefe dos mil; também deves tomar nota do bem-estar de teus próprios irmãos e deves trazer deles algum sinal.”
+
+[NOTE]
+====
+. “Leite”, M; Vg: “queijo”.
+====
+
+[[v9-17-19]]
+
+^<<v9-17-19,19>>^ No ínterim, tanto Saul como eles, e todos os outros homens de Israel estavam na baixada de Elá, lutando contra os filisteus.
+
+[[v9-17-20]]
+
+^<<v9-17-20,20>>^ Concordemente, Davi levantou-se de manhã cedo e deixou as ovelhas com o guarda, e carregou-se e foi, assim como Jessé lhe ordenara. Quando chegou ao arraial, saíam as forças militares à linha de batalha e levantavam um grito de batalha.
+
+[[v9-17-21]]
+
+^<<v9-17-21,21>>^ E tanto Israel como os filisteus começaram a pôr em formação, fileira combatente para enfrentar fileira combatente.
+
+[[v9-17-22]]
+
+^<<v9-17-22,22>>^ Davi deixou imediatamente a bagagem aos cuidados do guarda da bagagem e foi correndo até a linha de batalha. E ao chegar, começou a perguntar pelo bem-estar de seus irmãos.
+
+[[v9-17-23]]
+
+^<<v9-17-23,23>>^ Enquanto falava com eles, ora, eis que subia o campeão, cujo nome era Golias, filisteu de Gate, das fileiras combatentes dos filisteus e começou a falar as mesmas palavras de antes, e Davi chegou a escutá-las.
+
+[[v9-17-24]]
+
+^<<v9-17-24,24>>^ Quanto a todos os homens de Israel, vendo eles o homem, ora, fugiam por causa dele e tinham muito medo.
+
+[[v9-17-25]]
+
+^<<v9-17-25,25>>^ E os homens de Israel começaram a dizer: “Vistes este homem que está subindo? Pois é para escarnecer de Israel que ele está subindo. E tem de dar-se que, ao homem que o golpear, o rei enriquecerá com grandes riquezas e dar-lhe-á a sua própria filha, e libertará a casa de seu pai em Israel.”
+
+[[v9-17-26]]
+
+^<<v9-17-26,26>>^ E Davi começou a dizer aos homens parados perto dele: “Que se fará ao homem que golpear aquele filisteu lá e realmente tirar o vitupério de cima de Israel? Pois, quem é este filisteu incircunciso que venha escarnecer das fileiras combatentes do Deus vivente?”^&#42;1^
+
+[NOTE]
+====
+. “Deus vivente.” Hebr.: ’Elo·hím, seguido pelo adjetivo hhai·yím, “vivente”, ambos no pl. para denotar majestade e excelência. Em LXXASyVg: “vivente” é sing. Veja De 5:26 n.
+====
+
+[[v9-17-27]]
+
+^<<v9-17-27,27>>^ Então o povo disse-lhe as mesmas palavras de antes, dizendo: “Assim se fará ao homem que o golpear.”
+
+[[v9-17-28]]
+
+^<<v9-17-28,28>>^ E Eliabe, seu irmão mais velho, estava ouvindo quando ele falou aos homens, e acendeu-se a ira de Eliabe contra Davi, de modo que disse: “Por que é que desceste? E com quem deixaste aquelas poucas ovelhas lá no ermo? Eu mesmo conheço muito bem a tua presunção e a ruindade do teu coração, pois desceste com o fim de ver a batalha.”
+
+[[v9-17-29]]
+
+^<<v9-17-29,29>>^ A isso Davi disse: “Que fiz agora? Não foi apenas uma palavra?”
+
+[[v9-17-30]]
+
+^<<v9-17-30,30>>^ Com isso voltou-se dele para outra pessoa e foi dizer as mesmas palavras como antes, e o povo, por sua vez, dava-lhe a mesma resposta de antes.
+
+[[v9-17-31]]
+
+^<<v9-17-31,31>>^ Assim as palavras faladas por Davi começaram a ser ouvidas, e foram comunicá-las a Saul. Em vista disso, mandou trazê-lo.^&#42;1^
+
+[NOTE]
+====
+. LXXB omite os vv. 12-31.
+====
+
+[[v9-17-32]]
+
+^<<v9-17-32,32>>^ E Davi passou a dizer a Saul: “Não sucumba o coração de nenhum homem^&#42;1^ dentro dele. O próprio servo teu irá e realmente lutará com este filisteu.”
+
+[NOTE]
+====
+. “Nenhum homem”, MSy; LXX: “meu senhor”.
+====
+
+[[v9-17-33]]
+
+^<<v9-17-33,33>>^ Saul, porém, disse a Davi: “Não podes ir contra este filisteu para lutar com ele, pois és apenas um rapaz e ele é homem de guerra desde a sua meninice.”
+
+[[v9-17-34]]
+
+^<<v9-17-34,34>>^ E Davi prosseguiu, dizendo a Saul: “Teu servo tornou-se pastor de seu pai entre o rebanho, e chegou um leão,^&#42;1^ e também um urso, e [cada um] levou embora um ovídeo da grei.
+
+[NOTE]
+====
+. Lit.: “o leão”. Hebr.: ha·’arí, o leão africano.
+====
+
+[[v9-17-35]]
+
+^<<v9-17-35,35>>^ E eu saí atrás dele e o golpeei, e [o] livrei da sua boca. Quando começou a se levantar contra mim, agarrei-o pela sua barba e o golpeei, e o entreguei à morte.
+
+[[v9-17-36]]
+
+^<<v9-17-36,36>>^ Tanto ao leão como ao urso teu servo golpeou; e este filisteu incircunciso terá de tornar-se como um deles, pois escarneceu das fileiras combatentes do Deus vivente.”^&#42;1^
+
+[NOTE]
+====
+. Veja v. 26 n.
+====
+
+[[v9-17-37]]
+
+^<<v9-17-37,37>>^ Davi acrescentou então:^&#42;1^ “Jeová, que me livrou da pata^&#42;2^ do leão e da pata do urso, ele é quem me livrará da mão deste filisteu.” Então disse Saul a Davi: “Vai, e que o próprio Jeová mostre estar contigo.”
+
+[NOTE]
+====
+. “Davi acrescentou então”, MSyVg; LXX omite isso.
+. Ou “mão”.
+====
+
+[[v9-17-38]]
+
+^<<v9-17-38,38>>^ Então Saul foi vestir Davi com as suas vestes e pôs-lhe na cabeça um capacete de cobre, vestindo-o depois com uma cota de malha.
+
+[[v9-17-39]]
+
+^<<v9-17-39,39>>^ Davi cingiu-se então da sua espada sobre as suas vestes e pôs-se a ir, [mas não pôde,] porque não os tinha experimentado.^&#42;1^ Finalmente, Davi disse a Saul: “Não posso ir nestas coisas, pois não as experimentei.” De modo que Davi as tirou de si.
+
+[NOTE]
+====
+. “E cansou-se andando em volta uma e duas vezes”, LXX.
+====
+
+[[v9-17-40]]
+
+^<<v9-17-40,40>>^ E ele passou a tomar seu bastão na mão e a escolher para si cinco das pedras mais lisas do vale da torrente e a pô-las na sua sacola de pastor, que lhe servia de receptáculo, e ele tinha sua funda na mão. E começou a aproximar-se do filisteu.
+
+[[v9-17-41]]
+
+^<<v9-17-41,41>>^ E o filisteu começou a vir andando, chegando-se cada vez mais a Davi, e o homem que carregava o escudo grande estava na sua frente.
+
+[[v9-17-42]]
+
+^<<v9-17-42,42>>^ Ora, quando o filisteu olhou e viu Davi, começou a desprezá-lo porque mostrava ser rapaz e ruivo, de bela aparência.
+
+[[v9-17-43]]
+
+^<<v9-17-43,43>>^ Portanto, o filisteu disse a Davi: “Sou eu algum cão que vens a mim com bordões?” Com isso, o filisteu invocou o mal sobre Davi por meio dos seus deuses.^&#42;1^
+
+[NOTE]
+====
+. Ou “deus”. Veja 5:7 n.
+====
+
+[[v9-17-44]]
+
+^<<v9-17-44,44>>^ E o filisteu prosseguiu, dizendo a Davi: “Vem a mim, e eu hei de dar a tua carne às aves dos céus e aos animais do campo.”
+
+[[v9-17-45]]
+
+^<<v9-17-45,45>>^ Davi, por sua vez, disse ao filisteu: “Tu vens a mim com espada, e com lança, e com dardo, mas eu chego a ti com o nome de Jeová dos exércitos, o Deus das fileiras combatentes de Israel, de quem escarneceste.
+
+[[v9-17-46]]
+
+^<<v9-17-46,46>>^ No dia de hoje Jeová te entregará na minha mão, e hei de golpear-te e tirar-te a cabeça de cima de ti; e neste dia hei de dar os cadáveres do acampamento dos filisteus^&#42;1^ às aves dos céus e aos animais selváticos da terra; e pessoas de toda a terra^&#42;2^ saberão que existe um Deus que pertence a Israel.^&#42;3^
+
+[NOTE]
+====
+. Segundo MSyVg; LXX: “teus membros [do corpo] e os membros do acampamento dos filisteus”.
+. “Pessoas de toda a terra.” Lit.: “toda a terra”, mas acompanhado por um verbo no pl. Veja Gên 41:57 n.
+. “Um Deus que pertence a Israel.” Hebr.: ’Elo·hím leYis·ra·’él; TLXXSyVg e 15 mss. hebr.: “um Deus em Israel”.
+====
+
+[[v9-17-47]]
+
+^<<v9-17-47,47>>^ E toda esta congregação saberá que não é nem com espada nem com lança que Jeová salva, porque a Jeová pertence a batalha, e ele terá de entregar-vos na nossa mão.”
+
+[[v9-17-48]]
+
+^<<v9-17-48,48>>^ E sucedeu que o filisteu se levantou, e ele vinha e se chegava cada vez mais para enfrentar a Davi, e Davi começou a apressar-se e a correr para a linha de batalha, a fim de enfrentar o filisteu.
+
+[[v9-17-49]]
+
+^<<v9-17-49,49>>^ Davi meteu então a mão na sua sacola, e tirou dali uma pedra e a atirou com a funda, atingindo assim o filisteu na sua testa e a pedra penetrou-lhe na testa,^&#42;1^ e ele foi cair com a sua face por terra.
+
+[NOTE]
+====
+. “Penetrou-lhe na testa”, MSyVg; LXX: “varou o capacete penetrando na sua testa”.
+====
+
+[[v9-17-50]]
+
+^<<v9-17-50,50>>^ Portanto, Davi, com uma funda e uma pedra, mostrou ser mais forte do que o filisteu, e golpeou o filisteu e o entregou à morte; e não havia espada na mão de Davi.
+
+[[v9-17-51]]
+
+^<<v9-17-51,51>>^ E Davi seguiu correndo e pôs-se de pé sobre o filisteu. Tomou então a espada dele e puxou-a da sua bainha, e entregou-o definitivamente à morte, decepando-lhe a cabeça com ela. E os filisteus estavam vendo que seu poderoso tinha morrido e puseram-se em fuga.
+
+[[v9-17-52]]
+
+^<<v9-17-52,52>>^ Nisso se levantaram os homens de Israel e de Judá e irromperam em gritos, e foram no encalço dos filisteus até [o] vale^&#42;1^ e até os portões de Ecrom, e os mortalmente feridos dos filisteus caíam no caminho, desde Saaraim,^&#42;2^ tanto até Gate como até Ecrom.
+
+[NOTE]
+====
+. “Vale.” Hebr.: ghai’; LXX: “Gate”.
+. Ou “no caminho dos Dois Portões”.
+====
+
+[[v9-17-53]]
+
+^<<v9-17-53,53>>^ Os filhos de Israel retornaram depois de terem encarniçadamente perseguido os filisteus e foram rapinar os seus acampamentos.
+
+[[v9-17-54]]
+
+^<<v9-17-54,54>>^ Davi tomou então a cabeça do filisteu e a levou a Jerusalém, e as armas dele pôs na sua tenda.
+
+[[v9-17-55]]
+
+^<<v9-17-55,55>>^ ^&#42;1^ Ora, no momento em que Saul viu Davi sair ao encontro do filisteu, ele disse a Abner, chefe do exército: “Filho de quem é o rapaz, Abner?” A isso Abner disse: “Pela vida da tua alma, ó rei, eu realmente não sei!”
+
+[NOTE]
+====
+. LXXB omite desde o v. 55 até “filisteus” em 18:6a.
+====
+
+[[v9-17-56]]
+
+^<<v9-17-56,56>>^ De modo que o rei disse: “Indaga de quem é filho o mancebo.”
+
+[[v9-17-57]]
+
+^<<v9-17-57,57>>^ Por conseguinte, assim que Davi retornou de golpear o filisteu, Abner passou a tomá-lo e a levá-lo perante Saul, tendo ele a cabeça do filisteu na mão.
+
+[[v9-17-58]]
+
+^<<v9-17-58,58>>^ Saul disse-lhe então: “Filho de quem és, rapaz?” a que Davi disse: “Filho de teu servo Jessé, o belemita.”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-016.adoc#v9-16-0[&#60; Capítulo Anterior] | <<v9-17-0,Topo>> | xref:009-1-samuel/009-1-samuel-018.adoc#v9-18-0[Próximo Capítulo &#62;]

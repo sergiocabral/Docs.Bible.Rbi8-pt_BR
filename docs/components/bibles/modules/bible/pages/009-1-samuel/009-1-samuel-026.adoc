@@ -1,0 +1,146 @@
+include::./index.adoc[]
+
+[[v9-26-0]]
+=== 1 Samuel, 26
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-26-1]]
+
+^<<v9-26-1,1>>^ Passado tempo vieram os homens de Zife^&#42;1^ a Saul, a Gibeá, dizendo: “Não está Davi escondido^&#42;2^ no morro de Haquilá, que defronta com Jesimom?”^&#42;3^
+
+[NOTE]
+====
+. Ou “os zifitas”.
+. “Escondendo-se perto de nós”, LXX.
+. Ou “o deserto”.
+====
+
+[[v9-26-2]]
+
+^<<v9-26-2,2>>^ E Saul passou a levantar-se e a descer ao ermo de Zife, e com ele três mil homens, os seletos de Israel, para procurar a Davi no ermo de Zife.
+
+[[v9-26-3]]
+
+^<<v9-26-3,3>>^ E Saul foi acampar-se no morro de Haquilá, que defronta com Jesimom, junto à estrada, ao passo que Davi morava no ermo. E ele chegou a ver que Saul viera atrás dele ao ermo.
+
+[[v9-26-4]]
+
+^<<v9-26-4,4>>^ Portanto, Davi enviou espiões para ficarem sabendo se Saul tinha de fato chegado.
+
+[[v9-26-5]]
+
+^<<v9-26-5,5>>^ Mais tarde, Davi levantou-se e foi ao lugar onde Saul se havia acampado, e Davi chegou a ver o lugar onde Saul se deitara, e também Abner, filho de Ner, chefe do seu exército; e Saul estava deitado no arraial com o povo acampado em volta dele.
+
+[[v9-26-6]]
+
+^<<v9-26-6,6>>^ Davi respondeu então e disse a Aimeleque, o hitita, e a Abisai, filho de Zeruia, irmão de Joabe: “Quem descerá comigo a Saul para dentro do acampamento?” A isso Abisai disse: “Eu mesmo descerei contigo.”
+
+[[v9-26-7]]
+
+^<<v9-26-7,7>>^ E Davi, junto com Abisai, foi chegando ao povo de noite; e eis que Saul estava deitado, dormindo no arraial, com a sua lança fincada na terra junto à sua cabeça, e Abner e o povo estavam deitados em volta dele.
+
+[[v9-26-8]]
+
+^<<v9-26-8,8>>^ Abisai disse então a Davi: “Deus^&#42;1^ te entregou hoje o teu inimigo na mão. E agora, por favor, deixa-me só uma vez cravá-lo com a lança na terra e não o farei duas vezes a ele.”
+
+[NOTE]
+====
+. “Deus”, MVg; Sy: “Teu Deus”; LXX: “Jeová”.
+====
+
+[[v9-26-9]]
+
+^<<v9-26-9,9>>^ No entanto, Davi disse a Abisai: “Não o arruínes, pois, quem é que estendeu a sua mão contra o ungido^&#42;1^ de Jeová e ficou inocente?”
+
+[NOTE]
+====
+. “Contra o ungido de.” Hebr.: bim·shí·ahh; gr.: khri·stón; sir.: meshi·hheh; lat.: chrí·stum.
+====
+
+[[v9-26-10]]
+
+^<<v9-26-10,10>>^ E Davi prosseguiu, dizendo: “Por Jeová que vive, o próprio Jeová o ferirá; ou virá seu dia e terá de morrer, ou descerá à batalha e será certamente arrasado.
+
+[[v9-26-11]]
+
+^<<v9-26-11,11>>^ É inconcebível, da minha parte, do ponto de vista de Jeová, estender a minha mão contra o ungido de Jeová! Portanto, por favor, toma agora a lança que está junto à sua cabeça, e a bilha de água, e vamos embora.”
+
+[[v9-26-12]]
+
+^<<v9-26-12,12>>^ Concordemente, Davi tomou a lança e a bilha de água do lugar junto à cabeça de Saul, e então foram embora; e não houve quem [o] visse, nem quem [o] percebesse, nem quem acordasse, porque caíra sobre eles um sono profundo da parte de Jeová.
+
+[[v9-26-13]]
+
+^<<v9-26-13,13>>^ Davi passou então para o outro lado e ficou de pé sobre o cume do monte, a certa distância, sendo grande o espaço entre eles.
+
+[[v9-26-14]]
+
+^<<v9-26-14,14>>^ E Davi começou a chamar o povo e a Abner, filho de Ner, dizendo: “Não respondes, Abner?” E Abner começou a responder e a dizer: “Quem és, que estás chamando o rei?”
+
+[[v9-26-15]]
+
+^<<v9-26-15,15>>^ E Davi prosseguiu, dizendo a Abner: “Não és homem? E quem há como tu em Israel? Então, por que não vigiaste sobre o teu senhor,^&#42;1^ o rei? Pois, chegou alguém do povo para arruinar o rei, teu senhor.
+
+[NOTE]
+====
+. “Teu senhor.” Hebr.: ’adho·neí·kha, pl., para denotar excelência. Veja 20:38 n.
+====
+
+[[v9-26-16]]
+
+^<<v9-26-16,16>>^ Não é boa esta coisa que fizeste. Por Jeová que vive, vós mereceis morrer,^&#42;1^ porque não vigiastes sobre o vosso senhor, sobre o ungido de Jeová. E agora vede onde estão a lança do rei e a bilha de água que estavam junto à sua cabeça.”
+
+[NOTE]
+====
+. Lit.: “vós sois os filhos da morte”.
+====
+
+[[v9-26-17]]
+
+^<<v9-26-17,17>>^ E Saul começou a reconhecer a voz de Davi e a dizer: “É a tua voz, meu filho Davi?” A isto Davi disse: “É a minha voz, meu senhor, o rei.”
+
+[[v9-26-18]]
+
+^<<v9-26-18,18>>^ E acrescentou: “Por que se dá isto, que meu senhor vai no encalço de seu servo, pois, o que fiz eu e que maldade há na minha mão?
+
+[[v9-26-19]]
+
+^<<v9-26-19,19>>^ E agora, por favor, escute meu senhor, o rei, as palavras do seu servo: Se foi Jeová quem te instigou contra mim, cheire ele uma oferta de cereais. Mas, se forem os filhos de homem,^&#42;1^ estão amaldiçoados perante Jeová, porque me expulsaram hoje de me sentir agregado à herança de Jeová, dizendo: ‘Vai, serve a outros deuses!’
+
+[NOTE]
+====
+. Lit.: “filhos do homem”. Hebr.: benéh ha·’a·dhám.
+====
+
+[[v9-26-20]]
+
+^<<v9-26-20,20>>^ E agora, não deixes meu sangue cair para a terra perante a face de Jeová; pois o rei de Israel saiu a procurar uma única pulga,^&#42;1^ assim como se vai no encalço da perdiz sobre os montes.”
+
+[NOTE]
+====
+. “Procurar uma única pulga”, MSyVg; LXX: “procurar minha alma”.
+====
+
+[[v9-26-21]]
+
+^<<v9-26-21,21>>^ Saul disse, por sua vez: “Pequei. Volta, meu filho Davi, porque não te farei mais dano, em vista do fato de que a minha alma foi preciosa aos teus olhos no dia de hoje. Eis que agi nesciamente e estou muito enganado.”
+
+[[v9-26-22]]
+
+^<<v9-26-22,22>>^ Davi respondeu então e disse: “Aqui está a lança do rei, e venha para cá um dos moços e tome-a.
+
+[[v9-26-23]]
+
+^<<v9-26-23,23>>^ E é Jeová quem pagará de volta a cada um a sua própria justiça e a sua própria fidelidade, visto que Jeová te entregou hoje na minha mão e eu não quis estender a minha mão contra o ungido de Jeová.
+
+[[v9-26-24]]
+
+^<<v9-26-24,24>>^ E eis que assim como a tua alma foi hoje grande aos meus olhos, assim seja a minha alma grande aos olhos de Jeová, para que ele me livre de toda a aflição.”
+
+[[v9-26-25]]
+
+^<<v9-26-25,25>>^ Nisto Saul disse a Davi: “Bendito sejas, meu filho Davi. Não só trabalharás, decididamente, mas também sairás decididamente vencedor.” E Davi passou a seguir seu caminho; e quanto a Saul, retornou ao seu lugar.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-025.adoc#v9-25-0[&#60; Capítulo Anterior] | <<v9-26-0,Topo>> | xref:009-1-samuel/009-1-samuel-027.adoc#v9-27-0[Próximo Capítulo &#62;]

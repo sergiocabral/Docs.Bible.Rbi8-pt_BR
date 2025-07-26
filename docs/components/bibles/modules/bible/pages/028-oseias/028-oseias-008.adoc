@@ -1,0 +1,86 @@
+include::./index.adoc[]
+
+[[v28-8-0]]
+=== Oseias, 8
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v28-8-1]]
+
+^<<v28-8-1,1>>^ “À tua boca^&#42;1^ — uma buzina!^&#42;2^ [Vem um] como águia contra a casa de Jeová, pela razão de terem infringido meu pacto e de terem transgredido minha lei.
+
+[NOTE]
+====
+. Lit.: “palato”.
+. Ou “shofar”. Veja 5:8 n.
+====
+
+[[v28-8-2]]
+
+^<<v28-8-2,2>>^ Continuam a clamar a mim: ‘Ó meu Deus, nós, Israel, te conhecemos.’
+
+[[v28-8-3]]
+
+^<<v28-8-3,3>>^ “Israel deitou fora o que é bom. Persiga-o aquele que é inimigo.
+
+[[v28-8-4]]
+
+^<<v28-8-4,4>>^ Eles mesmos estabeleceram reis, mas não por minha causa. Constituíram príncipes, mas eu não [o] sabia. Com a sua prata e com o seu ouro fizeram para si ídolos, a fim de que fossem^&#42;1^ decepados.
+
+[NOTE]
+====
+. “Fossem decepados”, LXXSyVg; M: “alguém (ele) fosse decepado”.
+====
+
+[[v28-8-5]]
+
+^<<v28-8-5,5>>^ Teu bezerro foi deitado fora, ó Samaria. Acendeu-se contra eles a minha ira. Até quando serão incapazes de inocência?
+
+[[v28-8-6]]
+
+^<<v28-8-6,6>>^ Pois até mesmo isto procedeu de Israel. Um mero artífice o fez, e não é Deus;^&#42;1^ pois o bezerro de Samaria tornar-se-á meras lascas.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím; gr.: The·ós; lat.: Dé·us.
+====
+
+[[v28-8-7]]
+
+^<<v28-8-7,7>>^ “Pois continuam a semear vento^&#42;1^ e ceifarão o tufão. Não há nada que tenha cereais em pé. Nenhum renovo produz farinha. Se por acaso [a] produzirem, será tragada pelos próprios estranhos.
+
+[NOTE]
+====
+. “Vento.” Hebr.: rú·ahh; lat.: vén·tum. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v28-8-8]]
+
+^<<v28-8-8,8>>^ “Israel tem de ser tragado. Agora terão de tornar-se entre as nações como o vaso em que não há agrado.
+
+[[v28-8-9]]
+
+^<<v28-8-9,9>>^ Pois eles mesmos subiram à Assíria, como zebra isolada. No caso de Efraim, contrataram amantes.
+
+[[v28-8-10]]
+
+^<<v28-8-10,10>>^ Também, embora continuem a contratá-los entre as nações, eu agora os reunirei; e por um pouco estarão em severas dores por causa da carga do rei [e] dos príncipes.
+
+[[v28-8-11]]
+
+^<<v28-8-11,11>>^ “Pois Efraim tem multiplicado os altares a fim de pecar. Veio a ter altares a fim de pecar.
+
+[[v28-8-12]]
+
+^<<v28-8-12,12>>^ Passei a escrever-lhe muitas coisas da minha lei; foram consideradas como algo estranho.
+
+[[v28-8-13]]
+
+^<<v28-8-13,13>>^ Como oferendas para mim continuaram a sacrificar carne e prosseguiram comendo aquilo em que o próprio Jeová não teve prazer. Agora se lembrará do erro deles e ajustará contas pelos seus pecados. Eles mesmos passaram a voltar ao Egito.
+
+[[v28-8-14]]
+
+^<<v28-8-14,14>>^ E Israel começou a esquecer-se Daquele que o fez e a construir templos; e Judá, da sua parte, multiplicou as cidades fortificadas. E eu hei de enviar fogo dentro das suas cidades e terá de devorar as torres de habitação de [cada] uma.”
+
+'''
+
+xref:028-oseias/028-oseias-007.adoc#v28-7-0[&#60; Capítulo Anterior] | <<v28-8-0,Topo>> | xref:028-oseias/028-oseias-009.adoc#v28-9-0[Próximo Capítulo &#62;]

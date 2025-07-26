@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v19-92-0]]
+=== Salmos, 92
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma melodia, um cântico, para o dia de sábado._
+
+[[v19-92-1]]
+
+^<<v19-92-1,1>>^ É bom dar graças a Jeová^&#42;1^
+E entoar melodias ao teu nome, ó Altíssimo;
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+====
+
+[[v19-92-2]]
+
+^<<v19-92-2,2>>^ Contar de manhã a tua benevolência
+E durante as noites a tua fidelidade,
+
+[[v19-92-3]]
+
+^<<v19-92-3,3>>^ Num instrumento de dez cordas e no alaúde,
+Com música ressonante na harpa.
+
+[[v19-92-4]]
+
+^<<v19-92-4,4>>^ Pois tu fizeste que eu me alegrasse, ó Jeová,^&#42;1^ por causa da tua atividade;
+Grito de júbilo por causa do trabalho das tuas mãos.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+====
+
+[[v19-92-5]]
+
+^<<v19-92-5,5>>^ Quão grandes são os teus trabalhos, ó Jeová!^&#42;1^
+Muito profundos são os teus pensamentos.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+====
+
+[[v19-92-6]]
+
+^<<v19-92-6,6>>^ Nenhum homem irracional pode conhecê-los
+E nenhum estúpido pode entender isto.
+
+[[v19-92-7]]
+
+^<<v19-92-7,7>>^ Quando os iníquos florescem como a vegetação
+E estão florindo todos os que praticam o que é prejudicial,
+É para que sejam aniquilados para todo o sempre.
+
+[[v19-92-8]]
+
+^<<v19-92-8,8>>^ Tu, porém, estás no alto por tempo indefinido, ó Jeová.^&#42;1^
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+====
+
+[[v19-92-9]]
+
+^<<v19-92-9,9>>^ Pois, eis que os teus inimigos, ó Jeová,^&#42;1^
+Pois, eis que os teus próprios inimigos perecerão;
+Todos os que praticam o que é prejudicial serão separados um do outro.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+====
+
+[[v19-92-10]]
+
+^<<v19-92-10,10>>^ Mas tu enaltecerás o meu chifre como o dum touro selvagem;^&#42;1^
+Umedecer-me-ei^&#42;2^ com óleo fresco.
+
+[NOTE]
+====
+. Ou “como o dum búfalo”. Hebr.: kir·’éhm; gr.: mo·no·ké·ro·tos, “unicórnio”; lat.: u·ni·cór·nis, “unicórnio”. Vg também verte esta palavra hebr. por “rinoceronte”. Veja Núm 23:22 n.: “selvagem”.
+. “Umedeceste-me”, TSy.
+====
+
+[[v19-92-11]]
+
+^<<v19-92-11,11>>^ E meu olho olhará para os meus adversários hostis;^&#42;1^
+Meus ouvidos ouvirão [falar] dos mesmos que se levantam contra mim, os malfeitores.
+
+[NOTE]
+====
+. “Adversários hostis”, LXXSyVg; M: “paredes”.
+====
+
+[[v19-92-12]]
+
+^<<v19-92-12,12>>^ O próprio justo brotará como a palmeira;
+Como o cedro do Líbano, assim crescerá ele.
+
+[[v19-92-13]]
+
+^<<v19-92-13,13>>^ Os que foram plantados na casa de Jeová
+Brotarão nos pátios de nosso Deus.
+
+[[v19-92-14]]
+
+^<<v19-92-14,14>>^ Continuarão ainda a medrar durante o encanecer,
+Continuarão gordos e com frescor,
+
+[[v19-92-15]]
+
+^<<v19-92-15,15>>^ Para contar que Jeová é reto.
+[Ele é] minha Rocha, em quem não há injustiça.
+
+'''
+
+xref:019-salmo/019-salmo-091.adoc#v19-91-0[&#60; Capítulo Anterior] | <<v19-92-0,Topo>> | xref:019-salmo/019-salmo-093.adoc#v19-93-0[Próximo Capítulo &#62;]

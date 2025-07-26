@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v32-1-0]]
+=== Jonas, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v32-1-1]]
+
+^<<v32-1-1,1>>^ E começou a vir a haver a palavra de Jeová para Jonas, filho de Amitai, dizendo:
+
+[[v32-1-2]]
+
+^<<v32-1-2,2>>^ “Levanta-te, vai a Nínive, a grande cidade, e proclama contra ela que subiu perante mim a maldade deles.”
+
+[[v32-1-3]]
+
+^<<v32-1-3,3>>^ E Jonas foi levantar-se e fugir de diante de Jeová para Társis; e, por fim, tendo descido, [chegou] a Jope^&#42;1^ e achou um navio que ia para Társis. Pagou, pois, a passagem e embarcou nele, para ir com eles para Társis, [fugindo] de diante de Jeová.
+
+[NOTE]
+====
+. “Jope.” Hebr.: Ya·fóh; gr.: I·óp·pen; lat.: Ióp·pen.
+====
+
+[[v32-1-4]]
+
+^<<v32-1-4,4>>^ E o próprio Jeová arremessou um grande vento^&#42;1^ contra o mar e veio a haver uma grande borrasca no mar; e no que se referia ao navio, estava prestes a naufragar.
+
+[NOTE]
+====
+. “Vento.” Hebr.: rú·ahh; gr.: pneú·ma; lat.: vén·tum. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v32-1-5]]
+
+^<<v32-1-5,5>>^ E os marujos começaram a temer e a clamar por socorro, cada um ao seu deus.^&#42;1^ E continuaram a arremessar ao mar os objetos que havia no navio, a fim de [o] aliviar deles. Mas o próprio Jonas descera às partes mais recônditas do navio acobertado e foi deitar-se e dormir profundamente.
+
+[NOTE]
+====
+. “Seu deus.” Hebr.: ’elo·háv; gr.: the·ón; lat.: dé·um.
+====
+
+[[v32-1-6]]
+
+^<<v32-1-6,6>>^ Por fim se chegou a ele o capitão do navio^&#42;1^ e disse-lhe: “Que é que há contigo, dorminhoco? Levanta-te, clama ao teu deus!^&#42;2^ Talvez o [verdadeiro] Deus^&#42;3^ mostre que se importa conosco e não pereçamos.”
+
+[NOTE]
+====
+. Lit.: “o marujo principal”.
+. “Teu deus!” Hebr.: ’elo·heí·kha; gr.: the·ón; lat.: dé·um.
+. “O [verdadeiro] Deus.” Hebr.: ha·’Elo·hím. Veja Ap. 1F.
+====
+
+[[v32-1-7]]
+
+^<<v32-1-7,7>>^ E começaram a dizer uns aos outros: “Vinde e lancemos sortes, para sabermos por causa de quem temos esta calamidade.” E continuaram a lançar sortes e a sorte caiu finalmente sobre Jonas.
+
+[[v32-1-8]]
+
+^<<v32-1-8,8>>^ Disseram-lhe, pois: “Dize-nos deveras, por favor, por causa de quem é que temos esta calamidade? Qual é a tua obra e donde vens? Qual é teu país e de que povo és?”
+
+[[v32-1-9]]
+
+^<<v32-1-9,9>>^ Então ele lhes disse: “Sou hebreu e temo a Jeová, o Deus dos céus, Aquele que fez o mar e a terra seca.”
+
+[[v32-1-10]]
+
+^<<v32-1-10,10>>^ E os homens^&#42;1^ começaram a ter grande temor, e prosseguiram, dizendo-lhe: “O que é que fizeste?” Pois os homens vieram a saber que fugia de diante de Jeová, porque lho havia contado.
+
+[NOTE]
+====
+. “Os homens.” Hebr.: ha·’ana·shím, pl. de ’ish.
+====
+
+[[v32-1-11]]
+
+^<<v32-1-11,11>>^ Finalmente, disseram-lhe: “Que devemos fazer contigo para que o mar se aquiete para nós?” Porque o mar ficava cada vez mais tempestuoso.
+
+[[v32-1-12]]
+
+^<<v32-1-12,12>>^ Portanto, disse-lhes: “Levantai-me e arremessai-me no mar, e o mar se aquietará para vós; porque me apercebo de que é por minha causa que veio sobre vós esta grande borrasca.”
+
+[[v32-1-13]]
+
+^<<v32-1-13,13>>^ Mas os homens esforçavam-se por levar [o navio] de volta à terra seca; porém, não o conseguiram, porque o mar ficava cada vez mais tempestuoso contra eles.
+
+[[v32-1-14]]
+
+^<<v32-1-14,14>>^ E passaram a clamar a Jeová e a dizer: “Ai! ó Jeová, por favor, não pereçamos por causa da alma^&#42;1^ deste homem! E não ponhas sobre nós sangue inocente, visto que tu mesmo, ó Jeová, fizeste segundo o que te agradou!”
+
+[NOTE]
+====
+. “Por causa da alma.” Hebr.: bené·fesh; gr.: psy·khés; lat.: á·ni·ma. Veja Ap. 4A.
+====
+
+[[v32-1-15]]
+
+^<<v32-1-15,15>>^ Então levantaram a Jonas e o arremessaram no mar; e o mar começou a cessar da sua fúria.
+
+[[v32-1-16]]
+
+^<<v32-1-16,16>>^ Em vista disso, os homens começaram a ter grande temor de Jeová, e por isso ofereceram um sacrifício a Jeová e fizeram votos.
+
+[[v32-1-17]]
+
+^<<v32-1-17,17>>^ Ora,^&#42;1^ Jeová providenciou um grande peixe^&#42;2^ para engolir Jonas, de modo que Jonas veio a ficar nas entranhas do peixe três dias e três noites.
+
+[NOTE]
+====
+. MLXXVg começam aqui o cap. 2.
+. “Peixe.” Hebr.: dagh; gr.: ké·tei, “monstro marinho; peixe enorme”; lat.: pí·scem.
+====
+
+'''
+
+xref:031-obadias/031-obadias-001.adoc#v31-1-0[&#60; Capítulo Anterior] | <<v32-1-0,Topo>> | xref:032-jonas/032-jonas-002.adoc#v32-2-0[Próximo Capítulo &#62;]

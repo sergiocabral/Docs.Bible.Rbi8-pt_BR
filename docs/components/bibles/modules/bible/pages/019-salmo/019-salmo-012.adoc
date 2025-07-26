@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v19-12-0]]
+=== Salmos, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, na oitava inferior.^&#42;1^ Uma melodia de Davi._
+
+[[v19-12-1]]
+
+^<<v19-12-1,1>>^ Salva[-me]^&#42;1^ deveras, ó Jeová, pois aquele que é leal veio a ter fim;
+Porque desapareceram os fiéis dentre os filhos dos homens.
+
+[NOTE]
+====
+. “Me”, LXXVg; MSy omitem isso.
+====
+
+[[v19-12-2]]
+
+^<<v19-12-2,2>>^ Estão falando a inveracidade um com o outro;
+Com lábio macio estão falando até mesmo com um coração dúplice.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “com um coração e um coração”.
+====
+
+[[v19-12-3]]
+
+^<<v19-12-3,3>>^ Jeová decepará todos os lábios macios,
+A língua que fala grandes coisas,
+
+[[v19-12-4]]
+
+^<<v19-12-4,4>>^ Os que disseram: “Prevaleceremos com a nossa língua.
+Nossos lábios estão conosco. Quem pode ser amo sobre nós?”
+
+[[v19-12-5]]
+
+^<<v19-12-5,5>>^ “Por causa da assolação dos atribulados, por causa do suspiro dos pobres,
+Levantar-me-ei neste tempo”, diz Jeová.
+“Eu [o] porei a salvo de qualquer um que bufe contra ele.”
+
+[[v19-12-6]]
+
+^<<v19-12-6,6>>^ As declarações de Jeová são declarações puras,
+Como prata refinada num forno de fundição^&#42;1^ de terra, depurada sete vezes.
+
+[NOTE]
+====
+. “Num forno de fundição”, T. Possivelmente: “numa entrada”. O significado é incerto.
+====
+
+[[v19-12-7]]
+
+^<<v19-12-7,7>>^ Tu mesmo, ó Jeová, os guardarás;
+A cada um preservarás desta geração por tempo indefinido.
+
+[[v19-12-8]]
+
+^<<v19-12-8,8>>^ Os iníquos andam em volta,
+Porque a vileza é exaltada entre os filhos dos homens.
+
+'''
+
+xref:019-salmo/019-salmo-011.adoc#v19-11-0[&#60; Capítulo Anterior] | <<v19-12-0,Topo>> | xref:019-salmo/019-salmo-013.adoc#v19-13-0[Próximo Capítulo &#62;]

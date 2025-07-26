@@ -1,0 +1,202 @@
+include::./index.adoc[]
+
+[[v16-10-0]]
+=== Neemias, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v16-10-1]]
+
+^<<v16-10-1,1>>^ Ora, os seguintes o atestaram com selo:^&#42;1^
+Neemias, o Tirsata, filho de Hacalias,
+E Zedequias,
+
+[NOTE]
+====
+. Lit.: “E sobre os selados.”
+====
+
+[[v16-10-2]]
+
+^<<v16-10-2,2>>^ Seraías, Azarias, Jeremias,
+
+[[v16-10-3]]
+
+^<<v16-10-3,3>>^ Pasur, Amarias, Malquijá,
+
+[[v16-10-4]]
+
+^<<v16-10-4,4>>^ Hatus, Sebanias, Maluque,
+
+[[v16-10-5]]
+
+^<<v16-10-5,5>>^ Harim, Meremote, Obadias,
+
+[[v16-10-6]]
+
+^<<v16-10-6,6>>^ Daniel, Ginetom, Baruque,
+
+[[v16-10-7]]
+
+^<<v16-10-7,7>>^ Mesulão, Abias, Mijamim,
+
+[[v16-10-8]]
+
+^<<v16-10-8,8>>^ Maazias, Bilgai [e] Semaías, estes sendo sacerdotes.
+
+[[v16-10-9]]
+
+^<<v16-10-9,9>>^ Também os levitas: Jesua, filho de Azanias, Binui, dos filhos de Henadade, Cadmiel
+
+[[v16-10-10]]
+
+^<<v16-10-10,10>>^ e seus irmãos Sebanias, Hodias, Quelita, Pelaías, Hanã,
+
+[[v16-10-11]]
+
+^<<v16-10-11,11>>^ Mica, Reobe, Hasabias,
+
+[[v16-10-12]]
+
+^<<v16-10-12,12>>^ Zacur, Serebias, Sebanias,
+
+[[v16-10-13]]
+
+^<<v16-10-13,13>>^ Hodias, Bani [e] Beninu.
+
+[[v16-10-14]]
+
+^<<v16-10-14,14>>^ Os cabeças do povo: Parós, Paate-Moabe, Elão, Zatu, Bani,
+
+[[v16-10-15]]
+
+^<<v16-10-15,15>>^ Buni, Asgade, Bebai,
+
+[[v16-10-16]]
+
+^<<v16-10-16,16>>^ Adonias,^&#42;1^ Bigvai, Adim,
+
+[NOTE]
+====
+. “Adonicão” em Esd 2:13.
+====
+
+[[v16-10-17]]
+
+^<<v16-10-17,17>>^ Ater, Ezequias, Azur,
+
+[[v16-10-18]]
+
+^<<v16-10-18,18>>^ Hodias, Hasum, Bezai,
+
+[[v16-10-19]]
+
+^<<v16-10-19,19>>^ Harife,^&#42;1^ Anatote, Nebai,
+
+[NOTE]
+====
+. “Jora” em Esd 2:18.
+====
+
+[[v16-10-20]]
+
+^<<v16-10-20,20>>^ Magpias, Mesulão, Hezir,
+
+[[v16-10-21]]
+
+^<<v16-10-21,21>>^ Mesezabel, Zadoque, Jadua,
+
+[[v16-10-22]]
+
+^<<v16-10-22,22>>^ Pelatias, Hanã, Anaías,
+
+[[v16-10-23]]
+
+^<<v16-10-23,23>>^ Oséias, Hananias, Hassube,
+
+[[v16-10-24]]
+
+^<<v16-10-24,24>>^ Haloés, Pilha, Sobeque,
+
+[[v16-10-25]]
+
+^<<v16-10-25,25>>^ Reum, Hasabná, Maaséias,
+
+[[v16-10-26]]
+
+^<<v16-10-26,26>>^ e Aijá, Hanã, Anã,
+
+[[v16-10-27]]
+
+^<<v16-10-27,27>>^ Maluque, Harim, Baaná.
+
+[[v16-10-28]]
+
+^<<v16-10-28,28>>^ Quanto ao restante do povo, os sacerdotes, os levitas, os porteiros, os cantores, os netineus^&#42;1^ e todo aquele que se separou dos povos das terras para a lei do [verdadeiro] Deus, suas esposas, seus filhos e suas filhas, todo aquele que tinha conhecimento [e] entendimento,
+
+[NOTE]
+====
+. Ou “os escravos de templo”. Lit.: “os dados”. Veja Núm 3:9 n.
+====
+
+[[v16-10-29]]
+
+^<<v16-10-29,29>>^ estavam aderindo a seus irmãos, seus majestosos, e entrando na [possibilidade duma] maldição e num juramento, para andar na lei do [verdadeiro] Deus, dada pela mão de Moisés, servo do [verdadeiro] Deus, e para guardar e praticar todos os mandamentos de Jeová, nosso Senhor, e suas decisões judiciais e seus regulamentos;
+
+[[v16-10-30]]
+
+^<<v16-10-30,30>>^ e para não darmos as nossas filhas aos povos da terra e para não tomarmos as suas filhas para os nossos filhos.
+
+[[v16-10-31]]
+
+^<<v16-10-31,31>>^ Quanto aos povos da terra, que nos traziam mercadorias e toda espécie de cereais no dia de sábado para vender, não tomaríamos deles nada no sábado nem num dia santo, e abriríamos mão do sétimo ano e da dívida de toda mão.
+
+[[v16-10-32]]
+
+^<<v16-10-32,32>>^ Também, impusemo-nos mandamentos, de cada um de nós dar anualmente o terço de um siclo^&#42;1^ para o serviço da casa de nosso Deus,
+
+[NOTE]
+====
+. Um siclo pesava 11,4 g. Veja Ap. 8A.
+====
+
+[[v16-10-33]]
+
+^<<v16-10-33,33>>^ para o pão de pilha, e para a contínua oferta de cereais, e para a contínua oferta queimada dos sábados, das luas novas, para as festas designadas, e para as coisas sagradas, e para as ofertas pelo pecado, a fim de fazer expiação por Israel e toda a obra da casa de nosso Deus.
+
+[[v16-10-34]]
+
+^<<v16-10-34,34>>^ Também lançamos sortes sobre o suprimento^&#42;1^ de lenha que os sacerdotes, os levitas e o povo deviam trazer à casa de nosso Deus, segundo a casa de nossos antepassados, nos tempos marcados, de ano em ano, para ser queimada sobre o altar de Jeová, nosso Deus, de acordo com o que está escrito na lei;
+
+[NOTE]
+====
+. Ou “a oferta de”. Hebr.: qur·bán. Veja “corbã” em Mr 7:11.
+====
+
+[[v16-10-35]]
+
+^<<v16-10-35,35>>^ e para trazer os primeiros frutos maduros de nosso solo e os primeiros frutos maduros de todos os frutos de toda sorte de árvore, de ano em ano, à casa de Jeová;
+
+[[v16-10-36]]
+
+^<<v16-10-36,36>>^ e os primogênitos de nossos filhos e de nossos animais domésticos, de acordo com o que está escrito na lei, e os primogênitos de nossas manadas e de nossos rebanhos, para [os] trazer à casa de nosso Deus, aos sacerdotes que ministravam na casa de nosso Deus.
+
+[[v16-10-37]]
+
+^<<v16-10-37,37>>^ Também as primícias da nossa massa de farinha, e as nossas contribuições, e os frutos de toda sorte de árvore, vinho novo e azeite devíamos trazer aos sacerdotes, aos refeitórios da casa de nosso Deus, também o décimo^&#42;1^ [proveniente] de nosso solo, aos levitas, visto que eles, os levitas, são os que recebem um décimo em todas as nossas cidades agrícolas.
+
+[NOTE]
+====
+. Ou “dízimo”.
+====
+
+[[v16-10-38]]
+
+^<<v16-10-38,38>>^ E o sacerdote, o filho de Arão, tem de mostrar estar com os levitas quando os levitas receberem o décimo; e os próprios levitas devem oferecer um décimo do décimo à casa de nosso Deus, aos refeitórios da casa dos suprimentos.
+
+[[v16-10-39]]
+
+^<<v16-10-39,39>>^ Pois é aos refeitórios que os filhos de Israel e os filhos dos levitas devem levar a contribuição dos cereais, do vinho novo e do azeite, e é ali que estão os utensílios do santuário, e os sacerdotes que ministram, e os porteiros, e os cantores; e não devemos negligenciar a casa de nosso Deus.
+
+'''
+
+xref:016-neemias/016-neemias-009.adoc#v16-9-0[&#60; Capítulo Anterior] | <<v16-10-0,Topo>> | xref:016-neemias/016-neemias-011.adoc#v16-11-0[Próximo Capítulo &#62;]

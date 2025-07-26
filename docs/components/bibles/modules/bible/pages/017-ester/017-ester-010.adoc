@@ -1,0 +1,26 @@
+include::./index.adoc[]
+
+[[v17-10-0]]
+=== Ester, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v17-10-1]]
+
+^<<v17-10-1,1>>^ E o Rei Assuero passou a impor trabalho forçado ao país e às ilhas do mar.
+
+[[v17-10-2]]
+
+^<<v17-10-2,2>>^ Quanto a todo o seu trabalho enérgico, e sua potência, e a especificação da grandeza de Mordecai, com que o rei o enalteceu, não estão escritos no Livro dos assuntos dos tempos dos reis da Média e da Pérsia?
+
+[[v17-10-3]]
+
+^<<v17-10-3,3>>^ Pois Mordecai, o judeu, era o segundo depois do Rei Assuero,^&#42;1^ e era grande entre os judeus e aprovado pela multidão de seus irmãos, trabalhando para o bem de seu povo e falando paz a toda a descendência deles.
+
+[NOTE]
+====
+. “Artaxerxes”, LXX. Veja 1:1 n.: “Assuero”.
+====
+
+'''
+
+xref:017-ester/017-ester-009.adoc#v17-9-0[&#60; Capítulo Anterior] | <<v17-10-0,Topo>> | xref:018-jo/018-jo-001.adoc#v18-1-0[Próximo Capítulo &#62;]

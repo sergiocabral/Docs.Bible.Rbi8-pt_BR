@@ -1,0 +1,156 @@
+include::./index.adoc[]
+
+[[v19-33-0]]
+=== Salmos, 33
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-33-1]]
+
+^<<v19-33-1,1>>^ Gritai de júbilo, ó justos, por causa de Jeová.
+O louvor da parte dos retos é próprio.
+
+[[v19-33-2]]
+
+^<<v19-33-2,2>>^ Dai graças a Jeová com a harpa;
+Entoai-lhe melodias num instrumento de dez cordas.
+
+[[v19-33-3]]
+
+^<<v19-33-3,3>>^ Cantai-lhe um novo cântico;
+Fazei o melhor ao tocardes nas cordas com gritos de alegria.
+
+[[v19-33-4]]
+
+^<<v19-33-4,4>>^ Porque a palavra de Jeová é reta
+E todo o seu trabalho é em fidelidade.
+
+[[v19-33-5]]
+
+^<<v19-33-5,5>>^ Ele ama a justiça e o juízo.
+A terra está cheia da benevolência de Jeová.
+
+[[v19-33-6]]
+
+^<<v19-33-6,6>>^ Pela palavra de Jeová foram feitos os próprios céus,
+E pelo espírito^&#42;1^ de sua boca, todo o exército deles.
+
+[NOTE]
+====
+. Ou “e pelo fôlego”. Hebr.: u·verú·ahh; gr.: pneú·ma·ti; lat.: spí·ri·tu. Veja Gên 6:17 n.: “ativa”.
+====
+
+[[v19-33-7]]
+
+^<<v19-33-7,7>>^ Ele recolhe todas as águas do mar como que por um dique,^&#42;1^
+Pondo as águas empoladas^&#42;2^ em depósitos.
+
+[NOTE]
+====
+. “Odres”, em harmonia com LXXSyVg.
+. “As águas empoladas.” Hebr.: tehoh·móhth, pl. de tehóhm; LXXVg: “abismos”. Veja Gên 1:2 e n.: “profundeza”.
+====
+
+[[v19-33-8]]
+
+^<<v19-33-8,8>>^ Temam a Jeová todos [os da] terra.^&#42;1^
+Amedrontem-se com ele todos os habitantes do solo produtivo.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “toda a terra”, mas acompanhado por um verbo hebr. masc. no pl. Veja Gên 10:25 n.: “terra”.
+. “Solo produtivo.” Hebr.: the·vél; LXX: “terra habitada”; lat.: ór·bem, “círculo”, isto é, da terra.
+====
+
+[[v19-33-9]]
+
+^<<v19-33-9,9>>^ Pois ele mesmo [o] disse, e veio a ser;
+Ele mesmo [o] ordenou, e assim passou a ficar de pé.
+
+[[v19-33-10]]
+
+^<<v19-33-10,10>>^ O próprio Jeová rompeu o conselho das nações;
+Frustrou os pensamentos dos povos.
+
+[[v19-33-11]]
+
+^<<v19-33-11,11>>^ O próprio conselho de Jeová ficará de pé por tempo indefinido;
+Os pensamentos do seu coração são para uma geração após outra geração.
+
+[[v19-33-12]]
+
+^<<v19-33-12,12>>^ Feliz a nação cujo Deus^&#42;1^ é Jeová,
+O povo que ele escolheu como sua herança.
+
+[NOTE]
+====
+. “Cujo Deus.” Hebr.: ’Elo·háv.
+====
+
+[[v19-33-13]]
+
+^<<v19-33-13,13>>^ Jeová olhou desde os céus,
+Viu todos os filhos dos homens.^&#42;1^
+
+[NOTE]
+====
+. Ou “humanidade”. Hebr.: ha·’a·dhám.
+====
+
+[[v19-33-14]]
+
+^<<v19-33-14,14>>^ Do lugar estabelecido da sua morada^&#42;1^
+Fitou todos os que moram na terra.
+
+[NOTE]
+====
+. Lit.: “lugar estabelecido de ele morar”.
+====
+
+[[v19-33-15]]
+
+^<<v19-33-15,15>>^ Forma juntos^&#42;1^ os seus corações;
+Considera todos os trabalhos deles.
+
+[NOTE]
+====
+. Ou “num só (ao mesmo) tempo”.
+====
+
+[[v19-33-16]]
+
+^<<v19-33-16,16>>^ Nenhum rei é salvo pela abundância das forças militares;
+O próprio poderoso não é livrado pela abundância de poder.
+
+[[v19-33-17]]
+
+^<<v19-33-17,17>>^ Para a salvação, o cavalo é uma ilusão,
+E não oferece escape pela abundância de sua energia vital.
+
+[[v19-33-18]]
+
+^<<v19-33-18,18>>^ Eis que o olho de Jeová está sobre os que o temem,
+Os que esperam pela sua benevolência,
+
+[[v19-33-19]]
+
+^<<v19-33-19,19>>^ Para livrar a sua alma da própria morte
+E para preservá-los vivos na fome.
+
+[[v19-33-20]]
+
+^<<v19-33-20,20>>^ Nossa alma é que esteve à espera de Jeová.
+Ele é nosso ajudador e nosso escudo.
+
+[[v19-33-21]]
+
+^<<v19-33-21,21>>^ Pois nele se alegra o nosso coração;
+Porque depositamos a nossa confiança no seu santo nome.
+
+[[v19-33-22]]
+
+^<<v19-33-22,22>>^ Mostre estar sobre nós a tua benevolência, ó Jeová,
+Assim como nós temos esperado por ti.
+
+'''
+
+xref:019-salmo/019-salmo-032.adoc#v19-32-0[&#60; Capítulo Anterior] | <<v19-33-0,Topo>> | xref:019-salmo/019-salmo-034.adoc#v19-34-0[Próximo Capítulo &#62;]

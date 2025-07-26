@@ -1,0 +1,183 @@
+include::./index.adoc[]
+
+[[v18-3-0]]
+=== Jó, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-3-1]]
+
+^<<v18-3-1,1>>^ Foi depois disso que Jó abriu a boca e começou a invocar o mal sobre o seu dia.
+
+[[v18-3-2]]
+
+^<<v18-3-2,2>>^ Jó respondeu então e disse:
+
+[[v18-3-3]]
+
+^<<v18-3-3,3>>^ “Pereça o dia em que vim a nascer,
+Também a noite em que alguém disse: ‘Foi concebido um varão vigoroso!’^&#42;1^
+
+[NOTE]
+====
+. “Um varão vigoroso.” Hebr.: ghá·ver.
+====
+
+[[v18-3-4]]
+
+^<<v18-3-4,4>>^ Quanto àquele dia, torne-se ele escuridão.
+Não olhe Deus^&#42;1^ para ele, de cima,
+Nem reluza sobre ele a luz do dia.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elóh·ah, sing. de ’Elo·hím. ’Elóh·ah ocorre 41 vezes em Jó e 16 vezes em outros livros do M. Veja De 32:15 n.: “Deus”.
+====
+
+[[v18-3-5]]
+
+^<<v18-3-5,5>>^ Reivindiquem-no a escuridão e a sombra tenebrosa.^&#42;1^
+Resida sobre ele uma nuvem de chuva.
+Apavorem-no as coisas que escurecem o dia.
+
+[NOTE]
+====
+. Lit.: “sombra da morte”.
+====
+
+[[v18-3-6]]
+
+^<<v18-3-6,6>>^ Aquela noite — levem-na as trevas;
+Não se regozije entre os dias do ano;
+Não entre no meio do número dos meses lunares.
+
+[[v18-3-7]]
+
+^<<v18-3-7,7>>^ Eis aquela noite — fique ela estéril;
+Não entre nela nenhum grito jubiloso.
+
+[[v18-3-8]]
+
+^<<v18-3-8,8>>^ Maldigam-na praguejadores^&#42;1^ do dia,
+Os que estão prontos para despertar o leviatã.^&#42;2^
+
+[NOTE]
+====
+. “Praguejadores do.” Hebr.: ’o·reréh; não é a mesma palavra que em 1:5, 11; 2:5, 9.
+. “Leviatã”, MSyVg; LXX: “o grande monstro marinho”.
+====
+
+[[v18-3-9]]
+
+^<<v18-3-9,9>>^ Escureçam-se as estrelas do seu crepúsculo;
+Aguarde ela a luz e não haja nenhuma;
+E não veja ela os raios da alva.
+
+[[v18-3-10]]
+
+^<<v18-3-10,10>>^ Pois não fechou as portas do ventre de minha [mãe],
+Escondendo assim dos meus olhos a desgraça.
+
+[[v18-3-11]]
+
+^<<v18-3-11,11>>^ Por que não passei a morrer desde a madre?
+[Por que não] saí do próprio ventre, expirando então?
+
+[[v18-3-12]]
+
+^<<v18-3-12,12>>^ Por que fui confrontado por joelhos,
+E por que por peitos, para que eu mamasse?
+
+[[v18-3-13]]
+
+^<<v18-3-13,13>>^ Pois agora eu já estaria deitado para ter sossego;
+Então dormiria; estaria descansando
+
+[[v18-3-14]]
+
+^<<v18-3-14,14>>^ Com reis e conselheiros da terra,
+Os que constroem para si lugares desolados,^&#42;1^
+
+[NOTE]
+====
+. “Pirâmides”, mediante uma correção.
+====
+
+[[v18-3-15]]
+
+^<<v18-3-15,15>>^ Ou com príncipes que têm ouro,
+Os que enchem as suas casas de prata;
+
+[[v18-3-16]]
+
+^<<v18-3-16,16>>^ Ou, igual a um aborto encoberto, não teria vindo à existência,
+Como crianças que não viram a luz.
+
+[[v18-3-17]]
+
+^<<v18-3-17,17>>^ Ali os próprios iníquos deixaram da agitação,
+E ali descansam os cansados de poder.
+
+[[v18-3-18]]
+
+^<<v18-3-18,18>>^ Juntos, os próprios prisioneiros estão despreocupados;
+Realmente não ouvem a voz de alguém os compelindo a trabalhar.
+
+[[v18-3-19]]
+
+^<<v18-3-19,19>>^ Pequeno e grande são ali iguais,
+E o escravo está livre do seu amo.^&#42;1^
+
+[NOTE]
+====
+. “Do seu amo.” Hebr.: me·’adho·náv, pl. de ’a·dhóhn, para denotar excelência.
+====
+
+[[v18-3-20]]
+
+^<<v18-3-20,20>>^ Por que dá ele luz ao que está em apuros
+E vida aos de alma amargurada?
+
+[[v18-3-21]]
+
+^<<v18-3-21,21>>^ Por que há os que esperam a morte, e ela não vem,
+Embora cavem por ela mais do que por tesouros escondidos?
+
+[[v18-3-22]]
+
+^<<v18-3-22,22>>^ Os que se alegram até o júbilo^&#42;1^
+Exultam por terem achado uma sepultura.
+
+[NOTE]
+====
+. “Junto a um monte de pedras”, mediante uma ligeira correção do M, para corresponder à “sepultura” no mesmo v.
+====
+
+[[v18-3-23]]
+
+^<<v18-3-23,23>>^ [Por que dá ele luz] ao varão vigoroso,^&#42;1^ cujo caminho está escondido,
+E a quem Deus^&#42;2^ cerca ao redor?
+
+[NOTE]
+====
+. “Ao varão vigoroso.” Hebr.: leghé·ver. Veja v. 3 n.
+. Veja v. 4 n.
+====
+
+[[v18-3-24]]
+
+^<<v18-3-24,24>>^ Pois, antes do meu alimento vem o meu suspiro,
+E meus bramidos se derramam como as águas;
+
+[[v18-3-25]]
+
+^<<v18-3-25,25>>^ Porque tive pavor de uma coisa pavorosa, e ela está vindo sobre mim;
+E aquilo de que estou amedrontado vem a mim.
+
+[[v18-3-26]]
+
+^<<v18-3-26,26>>^ Não estive despreocupado, nem tive sossego,
+Nem descansei, e ainda assim vem a agitação.”
+
+'''
+
+xref:018-jo/018-jo-002.adoc#v18-2-0[&#60; Capítulo Anterior] | <<v18-3-0,Topo>> | xref:018-jo/018-jo-004.adoc#v18-4-0[Próximo Capítulo &#62;]

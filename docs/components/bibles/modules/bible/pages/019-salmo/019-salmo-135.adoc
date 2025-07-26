@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v19-135-0]]
+=== Salmos, 135
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-135-1]]
+
+^<<v19-135-1,1>>^ Louvai a Jah!^&#42;1^
+Louvai o nome de Jeová,
+Oferecei louvor, ó servos de Jeová,
+
+[NOTE]
+====
+. Veja 104:35 n.
+====
+
+[[v19-135-2]]
+
+^<<v19-135-2,2>>^ Vós os que estais de pé na casa de Jeová,
+Nos pátios da casa de nosso Deus.
+
+[[v19-135-3]]
+
+^<<v19-135-3,3>>^ Louvai a Jah,^&#42;1^ pois Jeová é bom.
+Entoai melodias ao seu nome, porque isto é agradável.
+
+[NOTE]
+====
+. Veja 68:4 n.
+====
+
+[[v19-135-4]]
+
+^<<v19-135-4,4>>^ Porque Jah escolheu mesmo a Jacó para si,
+Israel para sua propriedade especial.
+
+[[v19-135-5]]
+
+^<<v19-135-5,5>>^ Pois eu mesmo bem sei que Jeová é grande,
+E nosso Senhor^&#42;1^ é mais do que todos os [outros] deuses.^&#42;2^
+
+[NOTE]
+====
+. “E nosso Senhor.” Hebr.: wa·’Adho·néh·nu, pl. de ’A·dhóhn, para denotar excelência ou grandiosidade.
+. “Deuses.” Hebr. e T(aram.): ’elo·hím; gr.: the·oús; lat.: dí·is.
+====
+
+[[v19-135-6]]
+
+^<<v19-135-6,6>>^ Jeová fez tudo o que se agradou [em fazer]
+Nos céus e na terra, nos mares e em todas as águas de profundeza.^&#42;1^
+
+[NOTE]
+====
+. Ou “águas empoladas”. Hebr.: tehoh·móhth; LXXVg: “abismos”. Veja 33:7 n.: “empoladas”.
+====
+
+[[v19-135-7]]
+
+^<<v19-135-7,7>>^ Ele faz vapores subir desde a extremidade^&#42;1^ da terra;
+Fez até mesmo condutos^&#42;2^ para a chuva;
+Faz sair o vento^&#42;3^ dos seus depósitos,
+
+[NOTE]
+====
+. Veja Je 25:31, 33 n.
+. Lit.: “relâmpagos”. Hebr.: bera·qím; lendo-se bedha·qím em vez de bera·qím, “condutos”; TLXXSyVg: “relâmpagos”. Veja JTS, Vol. 3, 1952, pp. 214-216.
+. “Vento.” Hebr.: rú·ahh; gr.: a·né·mous e lat.: vén·tos, “ventos”. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v19-135-8]]
+
+^<<v19-135-8,8>>^ Aquele que golpeou os primogênitos do Egito,
+Tanto ao homem^&#42;1^ como ao animal.
+
+[NOTE]
+====
+. Lit.: “do homem terreno”. Hebr.: me·’a·dhám.
+====
+
+[[v19-135-9]]
+
+^<<v19-135-9,9>>^ Enviou sinais e milagres ao teu meio, ó Egito,
+Sobre Faraó e sobre todos os seus servos;
+
+[[v19-135-10]]
+
+^<<v19-135-10,10>>^ Aquele que golpeou muitas nações
+E matou reis potentes,
+
+[[v19-135-11]]
+
+^<<v19-135-11,11>>^ Até mesmo Síon, rei dos amorreus,
+E Ogue, rei de Basã,
+E a todos os reinos de Canaã,
+
+[[v19-135-12]]
+
+^<<v19-135-12,12>>^ E que deu a terra deles por herança,
+Uma herança para Israel, seu povo.
+
+[[v19-135-13]]
+
+^<<v19-135-13,13>>^ Ó Jeová, teu nome é por tempo indefinido.
+Ó Jeová, a recordação de ti é para geração após geração.^&#42;1^
+
+[NOTE]
+====
+. Ou “para todas as gerações”.
+====
+
+[[v19-135-14]]
+
+^<<v19-135-14,14>>^ Pois Jeová pleiteará a causa do seu povo
+E terá lástima até mesmo dos seus servos.
+
+[[v19-135-15]]
+
+^<<v19-135-15,15>>^ Os ídolos das nações são prata e ouro,
+Trabalho das mãos do homem terreno.^&#42;1^
+
+[NOTE]
+====
+. Ou “do homem”. Hebr.: ’a·dhám.
+====
+
+[[v19-135-16]]
+
+^<<v19-135-16,16>>^ Têm boca, mas não podem falar;
+Têm olhos, mas não podem ver;
+
+[[v19-135-17]]
+
+^<<v19-135-17,17>>^ Têm orelhas, mas não podem dar ouvidos a nada.
+Tampouco há espírito^&#42;1^ na sua boca.
+
+[NOTE]
+====
+. Ou “fôlego”. Hebr.: rú·ahh; gr.: pneú·ma; lat.: spí·ri·tus. Veja v. 7 n.: “vento”; 104:29 n.
+====
+
+[[v19-135-18]]
+
+^<<v19-135-18,18>>^ Iguais a eles se tornarão os que os fazem,
+Todo aquele que neles confiar.
+
+[[v19-135-19]]
+
+^<<v19-135-19,19>>^ Ó casa de Israel, bendizei deveras a Jeová.
+Ó casa de Arão, bendizei deveras a Jeová.
+
+[[v19-135-20]]
+
+^<<v19-135-20,20>>^ Ó casa de Levi, bendizei deveras a Jeová.
+Vós os que temeis a Jeová, bendizei a Jeová.
+
+[[v19-135-21]]
+
+^<<v19-135-21,21>>^ Bendito desde Sião seja Jeová,
+Que reside em Jerusalém.
+Louvai a Jah!^&#42;1^
+
+[NOTE]
+====
+. Veja 104:35 n.
+====
+
+'''
+
+xref:019-salmo/019-salmo-134.adoc#v19-134-0[&#60; Capítulo Anterior] | <<v19-135-0,Topo>> | xref:019-salmo/019-salmo-136.adoc#v19-136-0[Próximo Capítulo &#62;]

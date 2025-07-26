@@ -1,0 +1,183 @@
+include::./index.adoc[]
+
+[[v19-50-0]]
+=== Salmos, 50
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma melodia de Asafe._
+
+[[v19-50-1]]
+
+^<<v19-50-1,1>>^ O próprio Divino, Deus, Jeová,^&#42;1^ tem falado,
+E ele passa a chamar a terra^&#42;2^
+Desde o nascente do sol até o seu poente.
+
+[NOTE]
+====
+. “O . . . Divino, Deus, Jeová.” Ou: “O Deus de deuses, Jeová.” Hebr.: ’El ’Elo·hím Yehwáh. Veja Jos 22:22 n.: “Jeová”.
+. “E a terra começa a temer”, mediante uma mudança no M.
+====
+
+[[v19-50-2]]
+
+^<<v19-50-2,2>>^ O próprio Deus reluziu de Sião, a perfeição da lindeza.
+
+[[v19-50-3]]
+
+^<<v19-50-3,3>>^ Nosso Deus chegará e não poderá ficar calado.^&#42;1^
+Diante dele devora um fogo
+E ao redor dele o tempo ficou extremamente tempestuoso.
+
+[NOTE]
+====
+. Ou “ficar surdo” para com orações.
+====
+
+[[v19-50-4]]
+
+^<<v19-50-4,4>>^ Ele chama os céus acima e a terra
+Para executar julgamento em seu povo:
+
+[[v19-50-5]]
+
+^<<v19-50-5,5>>^ “Ajuntai-me os que me são leais,
+Os que concluem^&#42;1^ meu pacto^&#42;2^ sobre um sacrifício.”
+
+[NOTE]
+====
+. Lit.: “cortam”.
+. Ou “o pacto comigo”.
+====
+
+[[v19-50-6]]
+
+^<<v19-50-6,6>>^ E os céus contam a sua justiça,
+Porque o próprio Deus é Juiz.^&#42;1^ Selá.
+
+[NOTE]
+====
+. “Deus de julgamento é ele”, mediante a divisão diferente de algumas letras e sinais vocálicos diferentes nelas.
+====
+
+[[v19-50-7]]
+
+^<<v19-50-7,7>>^ “Escuta deveras, ó povo meu, e eu vou falar,
+Ó Israel, e vou testificar contra ti.^&#42;1^
+Eu sou Deus, teu Deus.
+
+[NOTE]
+====
+. Ou “vou admoestar-te (advertir-te)”.
+====
+
+[[v19-50-8]]
+
+^<<v19-50-8,8>>^ Não te repreendo com relação aos teus sacrifícios,
+Nem [quanto aos] teus holocaustos constantemente diante de mim.
+
+[[v19-50-9]]
+
+^<<v19-50-9,9>>^ Não vou tirar da tua casa um novilho,
+Dos teus redis, cabritos.
+
+[[v19-50-10]]
+
+^<<v19-50-10,10>>^ Pois a mim pertence todo animal selvático da floresta,
+Os animais sobre mil montanhas.
+
+[[v19-50-11]]
+
+^<<v19-50-11,11>>^ Conheço bem toda criatura alada dos montes,
+E comigo estão as multidões de animais da campina.
+
+[[v19-50-12]]
+
+^<<v19-50-12,12>>^ Se eu tivesse fome, não to diria;
+Pois a mim me pertencem o solo produtivo^&#42;1^ e a sua plenitude.
+
+[NOTE]
+====
+. “O solo produtivo.” Hebr.: the·vél; LXX: “a terra habitada”; lat.: ór·bis tér·rae, “o círculo da terra”.
+====
+
+[[v19-50-13]]
+
+^<<v19-50-13,13>>^ Comerei a carne de [touros] possantes
+E beberei o sangue de cabritos?
+
+[[v19-50-14]]
+
+^<<v19-50-14,14>>^ Oferece agradecimento como teu sacrifício a Deus
+E paga teus votos ao Altíssimo;
+
+[[v19-50-15]]
+
+^<<v19-50-15,15>>^ E chama-me no dia da aflição.
+Eu te socorrerei e tu me glorificarás.”
+
+[[v19-50-16]]
+
+^<<v19-50-16,16>>^ Mas, ao iníquo, Deus terá de dizer:
+“Que direito tens de enumerar os meus regulamentos,
+E para levares meu pacto^&#42;1^ na tua boca?
+
+[NOTE]
+====
+. “Meu pacto”, como no v. 5.
+====
+
+[[v19-50-17]]
+
+^<<v19-50-17,17>>^ Ora, tu — tu odiaste a disciplina
+E lanças atrás de ti as minhas palavras.
+
+[[v19-50-18]]
+
+^<<v19-50-18,18>>^ Sempre que viste um ladrão, tu te aprazias^&#42;1^ com ele;
+E tomavas parte com os adúlteros.
+
+[NOTE]
+====
+. “Tu te aprazias”, M; TLXXSyVg: “tu corrias”.
+====
+
+[[v19-50-19]]
+
+^<<v19-50-19,19>>^ Soltaste a tua boca para o que é mau,
+E manténs a tua língua ligada ao engano.
+
+[[v19-50-20]]
+
+^<<v19-50-20,20>>^ Estás sentado [e] falas contra o teu próprio irmão,
+E divulgas um defeito contra o filho da tua mãe.
+
+[[v19-50-21]]
+
+^<<v19-50-21,21>>^ Tens feito estas coisas, e eu fiquei calado.
+Imaginaste que eu me tornaria positivamente igual a ti.
+Vou repreender-te e vou pôr as coisas em ordem diante dos teus olhos.
+
+[[v19-50-22]]
+
+^<<v19-50-22,22>>^ Compreendei isto, por favor, vós esquecedores de Deus,^&#42;1^
+Para que eu não [vos] dilacere sem haver livrador.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elóh·ah.
+====
+
+[[v19-50-23]]
+
+^<<v19-50-23,23>>^ Quem oferece agradecimento como seu sacrifício é quem me glorifica;
+E quanto àquele que mantém um caminho fixo,
+Eu o vou fazer ver a salvação por Deus.”^&#42;1^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+'''
+
+xref:019-salmo/019-salmo-049.adoc#v19-49-0[&#60; Capítulo Anterior] | <<v19-50-0,Topo>> | xref:019-salmo/019-salmo-051.adoc#v19-51-0[Próximo Capítulo &#62;]

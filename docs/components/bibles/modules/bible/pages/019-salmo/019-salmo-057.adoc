@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v19-57-0]]
+=== Salmos, 57
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. “Não me arruínes.” De Davi. Mictão.^&#42;1^ Quando fugiu por causa de Saul para dentro da caverna._
+
+[[v19-57-1]]
+
+^<<v19-57-1,1>>^ Mostra-me favor, ó Deus, mostra-me favor,
+Porque em ti se refugiou a minha alma;
+E na sombra das tuas asas me refugio até passarem as adversidades.
+
+[[v19-57-2]]
+
+^<<v19-57-2,2>>^ Invoco a Deus, o Altíssimo, o [verdadeiro] Deus,^&#42;1^ que [lhes] põe fim por minha causa.
+
+[NOTE]
+====
+. “O [verdadeiro] Deus.” Hebr.: la·’Él. Veja Ap. 1G.
+====
+
+[[v19-57-3]]
+
+^<<v19-57-3,3>>^ Enviará desde o céu e me salvará.
+Certamente confundirá aquele que me abocanha. Selá.
+Deus enviará a sua benevolência^&#42;1^ e sua veracidade.^&#42;2^
+
+[NOTE]
+====
+. Ou “amor leal”.
+. Ou “verdade”.
+====
+
+[[v19-57-4]]
+
+^<<v19-57-4,4>>^ Minha alma está no meio de leões;
+Não posso senão deitar-me entre devoradores, [sim,] os filhos dos homens,^&#42;1^
+Cujos dentes são lanças e flechas
+E cuja língua é uma espada afiada.
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v19-57-5]]
+
+^<<v19-57-5,5>>^ Sê deveras exaltado acima dos céus, ó Deus;
+Seja a tua glória acima de toda a terra.
+
+[[v19-57-6]]
+
+^<<v19-57-6,6>>^ Prepararam uma rede para os meus passos;
+Minha alma ficou encurvada.
+Escavaram diante de mim um fojo;
+Caíram dentro dele. Selá.
+
+[[v19-57-7]]
+
+^<<v19-57-7,7>>^ Meu coração está firme, ó Deus,
+Meu coração está firme.
+Vou cantar e entoar melodias.
+
+[[v19-57-8]]
+
+^<<v19-57-8,8>>^ Desperta deveras, ó minha glória;
+Desperta deveras, ó instrumento de cordas; também tu, ó harpa.
+Vou despertar a alva.
+
+[[v19-57-9]]
+
+^<<v19-57-9,9>>^ Eu te elogiarei entre os povos, ó Jeová;^&#42;1^
+Entoarei a ti melodias entre os grupos nacionais.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-57-10]]
+
+^<<v19-57-10,10>>^ Pois a tua benevolência^&#42;1^ é grande até os céus,
+E a tua veracidade^&#42;2^ até o céu nublado.
+
+[NOTE]
+====
+. Ou “amor leal”.
+. Ou “tua verdade”. Hebr.: ’amit·té·kha (de ’eméth).
+====
+
+[[v19-57-11]]
+
+^<<v19-57-11,11>>^ Sê deveras exaltado acima dos céus, ó Deus;
+Seja a tua glória acima de toda a terra.
+
+'''
+
+xref:019-salmo/019-salmo-056.adoc#v19-56-0[&#60; Capítulo Anterior] | <<v19-57-0,Topo>> | xref:019-salmo/019-salmo-058.adoc#v19-58-0[Próximo Capítulo &#62;]

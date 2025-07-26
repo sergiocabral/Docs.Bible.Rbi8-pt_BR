@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-98-0]]
+=== Salmos, 98
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma melodia.^&#42;1^_
+
+[[v19-98-1]]
+
+^<<v19-98-1,1>>^ Cantai a Jeová um novo cântico,
+Pois maravilhosas são as coisas que ele tem feito.
+Sua direita, sim, seu santo braço, tem-lhe obtido a salvação.^&#42;1^
+
+[NOTE]
+====
+. Ou “vitória”.
+====
+
+[[v19-98-2]]
+
+^<<v19-98-2,2>>^ Jeová tem dado a conhecer a sua salvação;
+Tem revelado a sua justiça aos olhos das nações.
+
+[[v19-98-3]]
+
+^<<v19-98-3,3>>^ Tem-se lembrado da sua benevolência^&#42;1^ e da sua fidelidade para com a casa de Israel.
+Todos os confins da terra têm visto a salvação por nosso Deus.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-98-4]]
+
+^<<v19-98-4,4>>^ Bradai em triunfo a Jeová, todos [vós da] terra.^&#42;1^
+Estai animados, e gritai de júbilo, e entoai melodias.
+
+[NOTE]
+====
+. Veja 96:1 n.: “terra”.
+====
+
+[[v19-98-5]]
+
+^<<v19-98-5,5>>^ Entoai melodias a Jeová, com a harpa,
+Com a harpa e com a voz de melodia.
+
+[[v19-98-6]]
+
+^<<v19-98-6,6>>^ Com as trombetas^&#42;1^ e com o som da buzina^&#42;2^
+Bradai em triunfo perante o Rei, Jeová.
+
+[NOTE]
+====
+. Isto é, trombetas retas. Veja Núm 10:2 n.
+. Ou “shofar”, chifre curvo de animal.
+====
+
+[[v19-98-7]]
+
+^<<v19-98-7,7>>^ Troveje o mar e tudo o que o enche,
+O solo produtivo^&#42;1^ e os que nele moram.
+
+[NOTE]
+====
+. “O solo produtivo.” Hebr.: te·vél; LXX: “a terra habitada”; lat.: ór·bis ter·rá·rum, “o círculo de toda a terra”.
+====
+
+[[v19-98-8]]
+
+^<<v19-98-8,8>>^ Que os rios batam palmas;^&#42;1^
+Os próprios montes gritem todos juntos em júbilo
+
+[NOTE]
+====
+. Lit.: “batam a palma”.
+====
+
+[[v19-98-9]]
+
+^<<v19-98-9,9>>^ Perante Jeová, pois ele chegou para julgar a terra.
+Julgará o solo produtivo com justiça
+E os povos com retidão.
+
+'''
+
+xref:019-salmo/019-salmo-097.adoc#v19-97-0[&#60; Capítulo Anterior] | <<v19-98-0,Topo>> | xref:019-salmo/019-salmo-099.adoc#v19-99-0[Próximo Capítulo &#62;]

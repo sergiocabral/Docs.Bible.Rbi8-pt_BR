@@ -1,0 +1,152 @@
+include::./index.adoc[]
+
+[[v3-15-0]]
+=== Levítico, 15
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-15-1]]
+
+^<<v3-15-1,1>>^ E Jeová continuou a falar a Moisés e a Arão, dizendo:
+
+[[v3-15-2]]
+
+^<<v3-15-2,2>>^ “Falai aos filhos de Israel, e tendes de dizer-lhes: ‘Caso algum homem^&#42;1^ venha a ter um fluxo do seu órgão genital,^&#42;2^ seu fluxo é impuro.
+
+[NOTE]
+====
+. Lit.: “homem, homem”, MLXX.
+. Lit.: “da sua carne”.
+====
+
+[[v3-15-3]]
+
+^<<v3-15-3,3>>^ E esta se tornará a sua impureza pelo seu fluxo: Quer seu órgão genital tenha vazado o fluxo, quer seu órgão genital esteja obstruído [contra] seu fluxo, é sua impureza.
+
+[[v3-15-4]]
+
+^<<v3-15-4,4>>^ “‘Qualquer cama em que se deitar aquele que tem um fluxo será impura, e qualquer objeto em que se sentar será impuro.
+
+[[v3-15-5]]
+
+^<<v3-15-5,5>>^ E o homem que tocar na sua cama deve lavar suas vestes, e tem de banhar-se em água e ser impuro até à noitinha.
+
+[[v3-15-6]]
+
+^<<v3-15-6,6>>^ E quem se sentar no objeto em que se sentou aquele que tem um fluxo deve lavar suas vestes, e tem de banhar-se em água e ser impuro até à noitinha.
+
+[[v3-15-7]]
+
+^<<v3-15-7,7>>^ E quem tocar na carne daquele que tem um fluxo deve lavar suas vestes, e tem de banhar-se em água e ser impuro até à noitinha.
+
+[[v3-15-8]]
+
+^<<v3-15-8,8>>^ E caso aquele que tem um fluxo cuspa em alguém limpo, neste caso este tem de lavar suas vestes, e banhar-se em água, e ser impuro até à noitinha.
+
+[[v3-15-9]]
+
+^<<v3-15-9,9>>^ E qualquer sela em que cavalgar aquele que tem um fluxo será impura.
+
+[[v3-15-10]]
+
+^<<v3-15-10,10>>^ E quem tocar em algo que esteja debaixo dele será impuro até à noitinha; e quem os carregar lavará suas vestes, e terá de banhar-se em água e ser impuro até à noitinha.
+
+[[v3-15-11]]
+
+^<<v3-15-11,11>>^ E quem for tocado por aquele que tem um fluxo, não tendo este lavado suas mãos em água, tem de lavar então suas vestes, e banhar-se em água, e ser impuro até à noitinha.
+
+[[v3-15-12]]
+
+^<<v3-15-12,12>>^ E o vaso de barro que for tocado por aquele que tem um fluxo deve ser destroçado; e qualquer vaso de madeira deve ser lavado com água.
+
+[[v3-15-13]]
+
+^<<v3-15-13,13>>^ “‘Ora, caso aquele que tem um fluxo fique limpo de seu fluxo, então tem de contar para si sete dias para a sua purificação, e tem de lavar suas vestes e banhar sua carne em água corrente; e ele tem de ser limpo.
+
+[[v3-15-14]]
+
+^<<v3-15-14,14>>^ E no oitavo dia deve tomar para si duas rolas ou dois pombos novos,^&#42;1^ e tem de comparecer perante Jeová à entrada da tenda de reunião e dá-los ao sacerdote.
+
+[NOTE]
+====
+. Lit.: “filhotes de pombo”.
+====
+
+[[v3-15-15]]
+
+^<<v3-15-15,15>>^ E o sacerdote tem de ofertá-los, um como oferta pelo pecado e outro como oferta queimada; e o sacerdote tem de fazer expiação por ele, perante Jeová, com respeito ao seu fluxo.
+
+[[v3-15-16]]
+
+^<<v3-15-16,16>>^ “‘Ora, caso um homem tenha uma emissão de sêmen, então tem de banhar toda a sua carne em água e ser impuro até à noitinha.
+
+[[v3-15-17]]
+
+^<<v3-15-17,17>>^ E qualquer veste e qualquer pele em que venha a haver emissão de sêmen tem de ser lavada com água e ser impura até à noitinha.
+
+[[v3-15-18]]
+
+^<<v3-15-18,18>>^ “‘Quanto à mulher com quem um homem se deitar com emissão de sêmen, eles terão de banhar-se em água e ser impuros até à noitinha.
+
+[[v3-15-19]]
+
+^<<v3-15-19,19>>^ “‘E caso uma mulher tenha um fluxo e seu fluxo na sua carne mostre ser sangue, ela deve continuar por sete dias na sua impureza menstrual, e quem tocar nela será impuro até à noitinha.
+
+[[v3-15-20]]
+
+^<<v3-15-20,20>>^ E tudo em que ela se deitar na sua impureza menstrual será impuro e tudo em que ela se sentar será impuro.
+
+[[v3-15-21]]
+
+^<<v3-15-21,21>>^ E quem tocar na sua cama deve lavar suas vestes, e tem de banhar-se em água e ser impuro até à noitinha.
+
+[[v3-15-22]]
+
+^<<v3-15-22,22>>^ E quem tocar em qualquer objeto em que ela se sentou deve lavar suas vestes, e tem de banhar-se em água e ser impuro até à noitinha.
+
+[[v3-15-23]]
+
+^<<v3-15-23,23>>^ E se ela estava sentada na cama ou num outro objeto, ele, por tocar nele, será impuro até à noitinha.
+
+[[v3-15-24]]
+
+^<<v3-15-24,24>>^ E se é que um homem se deitar com ela e a impureza menstrual dela vier sobre ele, então ele terá de ser impuro por sete dias, e qualquer cama em que se deitar será impura.
+
+[[v3-15-25]]
+
+^<<v3-15-25,25>>^ “‘Quanto à mulher, caso o fluxo de seu sangue corra por muitos dias, quando não for o tempo regular de sua impureza menstrual, ou caso ela tenha um fluxo por mais tempo do que a sua impureza menstrual, todos os dias de seu fluxo impuro mostrarão ser como os dias de sua impureza menstrual. Ela é impura.
+
+[[v3-15-26]]
+
+^<<v3-15-26,26>>^ Qualquer cama em que se deitar em qualquer dos dias de seu fluxo tornar-se-á para ela como a cama de sua impureza menstrual, e qualquer objeto em que ela se sentar tornar-se-á impuro como a impureza de sua impureza menstrual.
+
+[[v3-15-27]]
+
+^<<v3-15-27,27>>^ E quem tocar neles será impuro, e ele terá de lavar suas vestes, e banhar-se em água, e ser impuro até à noitinha.
+
+[[v3-15-28]]
+
+^<<v3-15-28,28>>^ “‘No entanto, se ela tiver ficado limpa de seu fluxo, então terá de contar para si sete dias, e depois será limpa.
+
+[[v3-15-29]]
+
+^<<v3-15-29,29>>^ E no oitavo dia deve tomar para si duas rolas ou dois pombos novos, e tem de trazê-los ao sacerdote à entrada da tenda de reunião.
+
+[[v3-15-30]]
+
+^<<v3-15-30,30>>^ E o sacerdote tem de fazer de um uma oferta pelo pecado e do outro uma oferta queimada; e o sacerdote tem de fazer expiação por ela perante Jeová, com respeito ao seu fluxo impuro.
+
+[[v3-15-31]]
+
+^<<v3-15-31,31>>^ “‘E tendes de manter os filhos de Israel apartados da sua impureza, para que não morram na sua impureza por aviltarem o meu tabernáculo que está no seu meio.
+
+[[v3-15-32]]
+
+^<<v3-15-32,32>>^ “‘Esta é a lei acerca do homem que tem um fluxo e do homem que tem uma emissão de sêmen, de modo a ficar impuro por meio de tal;
+
+[[v3-15-33]]
+
+^<<v3-15-33,33>>^ e acerca da mulher menstruada na sua impureza, e de todo aquele que tem um fluxo correndo, quer macho, quer fêmea, quer homem que se deita com uma mulher impura.’”
+
+'''
+
+xref:003-levitico/003-levitico-014.adoc#v3-14-0[&#60; Capítulo Anterior] | <<v3-15-0,Topo>> | xref:003-levitico/003-levitico-016.adoc#v3-16-0[Próximo Capítulo &#62;]

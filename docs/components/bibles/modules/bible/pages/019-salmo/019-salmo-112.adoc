@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v19-112-0]]
+=== Salmos, 112
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-112-1]]
+
+^<<v19-112-1,1>>^ ^&#42;1^ Louvai a Jah!^&#42;2^
+
+[NOTE]
+====
+. Este salmo está arranjado em ordem acróstica ou alfabética hebr.
+. Veja 104:35 n.
+. Veja 109:16 n.
+====
+
+_א [Álefe]_
+
+Feliz o homem^&#42;1^ que teme a Jeová,
+
+[NOTE]
+====
+. Este salmo está arranjado em ordem acróstica ou alfabética hebr.
+. Veja 104:35 n.
+. Veja 109:16 n.
+====
+
+_ב [Bete]_
+
+De cujos mandamentos se tem agradado muito.
+
+[NOTE]
+====
+. Este salmo está arranjado em ordem acróstica ou alfabética hebr.
+. Veja 104:35 n.
+. Veja 109:16 n.
+====
+
+_ג [Guímel]_
+
+[[v19-112-2]]
+
+^<<v19-112-2,2>>^ Sua descendência se tornará poderosa na terra.
+
+_ד [Dálete]_
+
+Quanto à geração dos retos, será ela abençoada.
+
+_ה [Hê]_
+
+[[v19-112-3]]
+
+^<<v19-112-3,3>>^ Na sua casa há coisas valiosas e riquezas;
+
+_ו [Vau]_
+
+E sua justiça permanece de pé para todo o sempre.
+
+_ז [Zaine]_
+
+[[v19-112-4]]
+
+^<<v19-112-4,4>>^ Ele raiou na escuridão como luz para os retos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Na escuridão brilhou a luz para os retos.”
+====
+
+_ח [Hete]_
+
+Ele é clemente, e misericordioso, e justo.
+
+[NOTE]
+====
+. Ou: “Na escuridão brilhou a luz para os retos.”
+====
+
+_ט [Tete]_
+
+[[v19-112-5]]
+
+^<<v19-112-5,5>>^ Bom é o homem que é clemente e que empresta.
+
+[NOTE]
+====
+. Ou “em julgamento”.
+====
+
+_י [Iode]_
+
+Sustenta seus assuntos com justiça.^&#42;1^
+
+[NOTE]
+====
+. Ou “em julgamento”.
+====
+
+_כ [Cafe]_
+
+[[v19-112-6]]
+
+^<<v19-112-6,6>>^ Pois em tempo algum será abalado.
+
+_ל [Lâmede]_
+
+O justo mostrará ser para uma recordação por tempo indefinido.
+
+_מ [Meme]_
+
+[[v19-112-7]]
+
+^<<v19-112-7,7>>^ Não terá medo, nem mesmo de más notícias.
+
+_נ [Nune]_
+
+Seu coração é firme, feito confiante em Jeová.
+
+_ם [Sâmeque]_
+
+[[v19-112-8]]
+
+^<<v19-112-8,8>>^ Seu coração é inabalável; ele não terá medo,
+
+_ע [Aine]_
+
+Até que olhe para os seus adversários.
+
+_פ [Pê]_
+
+[[v19-112-9]]
+
+^<<v19-112-9,9>>^ Tem distribuído amplamente;^&#42;1^ tem dado aos pobres.
+
+[NOTE]
+====
+. Ou: “Tem espalhado.”
+====
+
+_צ [Tsadê]_
+
+Sua justiça permanece de pé para todo o sempre.
+
+[NOTE]
+====
+. Ou: “Tem espalhado.”
+====
+
+_ק [Cofe]_
+
+Seu próprio chifre será exaltado com glória.
+
+[NOTE]
+====
+. Ou: “Tem espalhado.”
+====
+
+_ר [Rexe]_
+
+[[v19-112-10]]
+
+^<<v19-112-10,10>>^ O próprio iníquo [o] verá e certamente ficará vexado.
+
+_ש [Chim]_
+
+Rangerá os próprios dentes e realmente se derreterá.
+
+_ת [Tau]_
+
+O desejo dos iníquos perecerá.
+
+'''
+
+xref:019-salmo/019-salmo-111.adoc#v19-111-0[&#60; Capítulo Anterior] | <<v19-112-0,Topo>> | xref:019-salmo/019-salmo-113.adoc#v19-113-0[Próximo Capítulo &#62;]

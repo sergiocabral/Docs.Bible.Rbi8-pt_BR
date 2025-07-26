@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v20-2-0]]
+=== Provérbios, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-2-1]]
+
+^<<v20-2-1,1>>^ Filho meu, se aceitares as minhas declarações e entesourares contigo os meus próprios mandamentos,
+
+[[v20-2-2]]
+
+^<<v20-2-2,2>>^ de modo a prestares atenção à sabedoria, com o teu ouvido, para inclinares teu coração ao discernimento;
+
+[[v20-2-3]]
+
+^<<v20-2-3,3>>^ se, além disso, clamares pela própria compreensão e emitires a tua voz pelo próprio discernimento,
+
+[[v20-2-4]]
+
+^<<v20-2-4,4>>^ se persistires em procurar isso como a prata e continuares a buscar isso como a tesouros escondidos,
+
+[[v20-2-5]]
+
+^<<v20-2-5,5>>^ neste caso entenderás o temor a Jeová e acharás o próprio conhecimento de Deus.^&#42;1^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v20-2-6]]
+
+^<<v20-2-6,6>>^ Pois o próprio Jeová dá sabedoria; da sua boca procedem conhecimento e discernimento.
+
+[[v20-2-7]]
+
+^<<v20-2-7,7>>^ E para os retos ele entesourará a sabedoria prática; para os que andam em integridade ele é escudo,
+
+[[v20-2-8]]
+
+^<<v20-2-8,8>>^ observando as veredas do juízo, e ele guardará o próprio caminho dos que lhe são leais.^&#42;1^
+
+[NOTE]
+====
+. Ou “seus homens de benevolência”, Mmargem (TLXXSyVg são similares); M: “seu homem de benevolência”.
+====
+
+[[v20-2-9]]
+
+^<<v20-2-9,9>>^ Neste caso entenderás a justiça, e o juízo, e a retidão, o curso inteiro do que é bom.
+
+[[v20-2-10]]
+
+^<<v20-2-10,10>>^ Quando a sabedoria entrar no teu coração e o próprio conhecimento se tornar agradável à tua própria alma,
+
+[[v20-2-11]]
+
+^<<v20-2-11,11>>^ guardar-te-á o próprio raciocínio, resguardar-te-á o próprio discernimento,
+
+[[v20-2-12]]
+
+^<<v20-2-12,12>>^ para livrar-te do mau caminho, do homem que fala perversidades,
+
+[[v20-2-13]]
+
+^<<v20-2-13,13>>^ dos que abandonam as veredas da retidão para andar nos caminhos da escuridão,
+
+[[v20-2-14]]
+
+^<<v20-2-14,14>>^ dos que se alegram em fazer o mal, que jubilam com as perversidades da maldade;
+
+[[v20-2-15]]
+
+^<<v20-2-15,15>>^ aqueles cujas veredas são pervertidas e que são sinuosos no seu rumo geral;
+
+[[v20-2-16]]
+
+^<<v20-2-16,16>>^ para livrar-te da mulher estranha, da mulher estrangeira que amaciou as suas próprias declarações,
+
+[[v20-2-17]]
+
+^<<v20-2-17,17>>^ que abandona o amigo íntimo da sua mocidade e que se esqueceu do próprio pacto do seu Deus.
+
+[[v20-2-18]]
+
+^<<v20-2-18,18>>^ Pois a sua casa baixa à morte, e seus trilhos, aos impotentes na morte.^&#42;1^
+
+[NOTE]
+====
+. “Aos impotentes na morte.” Hebr.: refa·’ím; T(aram.): gib·bo·raí·ia, “os gigantes”; LXX: “Hades [gr.: haí·dei] com os nascidos na terra”; Vgc(lat.): ín·fe·ros.
+====
+
+[[v20-2-19]]
+
+^<<v20-2-19,19>>^ Nenhum dos que têm relações com ela retornará, nem retomarão as veredas dos viventes.
+
+[[v20-2-20]]
+
+^<<v20-2-20,20>>^ O objetivo é que andes no caminho de gente boa e que guardes as veredas dos justos.
+
+[[v20-2-21]]
+
+^<<v20-2-21,21>>^ Pois os retos são os que residirão na terra e os inculpes são os que remanescerão nela.
+
+[[v20-2-22]]
+
+^<<v20-2-22,22>>^ Quanto aos iníquos, serão decepados da própria terra; e quanto aos traiçoeiros, serão arrancados dela.
+
+'''
+
+xref:020-proverbios/020-proverbios-001.adoc#v20-1-0[&#60; Capítulo Anterior] | <<v20-2-0,Topo>> | xref:020-proverbios/020-proverbios-003.adoc#v20-3-0[Próximo Capítulo &#62;]

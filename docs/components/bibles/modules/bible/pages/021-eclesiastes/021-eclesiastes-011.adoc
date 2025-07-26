@@ -1,0 +1,64 @@
+include::./index.adoc[]
+
+[[v21-11-0]]
+=== Eclesiastes, 11
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v21-11-1]]
+
+^<<v21-11-1,1>>^ Envia teu pão^&#42;1^ sobre a superfície das águas, pois no decorrer de muitos dias o acharás de novo.
+
+[NOTE]
+====
+. Fino, redondo ou oval, e capaz de flutuar por algum tempo.
+====
+
+[[v21-11-2]]
+
+^<<v21-11-2,2>>^ Dá um quinhão a sete ou mesmo a oito, pois não sabes que calamidade ocorrerá na terra.
+
+[[v21-11-3]]
+
+^<<v21-11-3,3>>^ Se as nuvens estiverem cheias [de água], é um aguaceiro que despejarão sobre a terra; e se a árvore cair para o sul ou se [cair] para o norte, no lugar onde a árvore cair, ali mostrará estar.
+
+[[v21-11-4]]
+
+^<<v21-11-4,4>>^ Quem vigiar o vento,^&#42;1^ não semeará; e quem olhar para as nuvens, não ceifará.
+
+[NOTE]
+====
+. “Vento.” Hebr.: rú·ahh. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v21-11-5]]
+
+^<<v21-11-5,5>>^ Assim como não te apercebes de qual é o caminho do espírito nos^&#42;1^ ossos, no ventre daquela que está grávida, assim tampouco conheces o trabalho do [verdadeiro] Deus, que faz todas as coisas.
+
+[NOTE]
+====
+. “Nos”, T e muitos mss. hebr.
+====
+
+[[v21-11-6]]
+
+^<<v21-11-6,6>>^ Semeia de manhã a tua semente, e não descanse a tua mão até a noitinha; pois não sabes onde esta terá bom êxito, quer aqui quer ali, ou se ambas serão igualmente boas.
+
+[[v21-11-7]]
+
+^<<v21-11-7,7>>^ A luz também é doce, e é bom para os olhos verem o sol;
+
+[[v21-11-8]]
+
+^<<v21-11-8,8>>^ pois, mesmo que o homem viva muitos anos, alegre-se ele em todos eles. E lembre-se ele dos dias de escuridão, embora possam ser muitos; cada [dia] que chega é vaidade.
+
+[[v21-11-9]]
+
+^<<v21-11-9,9>>^ Alegra-te, jovem, na tua mocidade, e faça-te bem o teu coração nos dias da tua idade viril, e anda nos caminhos de teu coração e nas coisas vistas pelos teus olhos. Mas sabe que por todos estes o [verdadeiro] Deus te levará a juízo.
+
+[[v21-11-10]]
+
+^<<v21-11-10,10>>^ Portanto, remove de teu coração o vexame e afasta de tua carne a calamidade; pois a juventude e o primor da mocidade são vaidade.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-010.adoc#v21-10-0[&#60; Capítulo Anterior] | <<v21-11-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-012.adoc#v21-12-0[Próximo Capítulo &#62;]

@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v53-1-0]]
+=== 2 Tessalonicenses, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v53-1-1]]
+
+^<<v53-1-1,1>>^ Paulo, e Silvano,^&#42;1^ e Timóteo, à congregação dos tessalonicenses em união com Deus, nosso Pai, e [o] Senhor Jesus Cristo:
+
+[NOTE]
+====
+. Ou “Silas”.
+====
+
+[[v53-1-2]]
+
+^<<v53-1-2,2>>^ Que tenhais benignidade imerecida e paz da parte de Deus, o Pai, e do Senhor Jesus Cristo.
+
+[[v53-1-3]]
+
+^<<v53-1-3,3>>^ Somos obrigados a dar sempre graças a Deus por vós, irmãos, assim como é próprio, porque a vossa fé está crescendo sobremaneira e o amor de cada um de vós está aumentando de uns para com os outros.
+
+[[v53-1-4]]
+
+^<<v53-1-4,4>>^ Em resultado disso, orgulhamo-nos de vós entre as congregações de Deus, por causa da vossa perseverança e fé em todas as vossas perseguições e tribulações que estais suportando.
+
+[[v53-1-5]]
+
+^<<v53-1-5,5>>^ Esta é uma prova do julgamento justo de Deus, resultando em serdes contados dignos do reino de Deus, pelo qual, deveras, estais sofrendo.
+
+[[v53-1-6]]
+
+^<<v53-1-6,6>>^ Isto toma em conta que é justo da parte de Deus pagar de volta^&#42;1^ tribulação aos que vos causam tribulação,
+
+[NOTE]
+====
+. Lit.: “retribuir”.
+====
+
+[[v53-1-7]]
+
+^<<v53-1-7,7>>^ mas, a vós, os que sofreis tribulação, alívio junto conosco, por ocasião da revelação^&#42;1^ do Senhor Jesus desde o céu, com os seus anjos poderosos,
+
+[NOTE]
+====
+. Ou “exposição; exibição”. Gr.: a·po·ka·lý·psei.
+====
+
+[[v53-1-8]]
+
+^<<v53-1-8,8>>^ em fogo chamejante, ao trazer vingança^&#42;1^ sobre os que não conhecem a Deus e os que não obedecem às boas novas acerca de nosso Senhor Jesus.
+
+[NOTE]
+====
+. “Vingança.” Gr.: ek·dí·ke·sin; lat.: vin·díc·tam.
+====
+
+[[v53-1-9]]
+
+^<<v53-1-9,9>>^ Estes mesmos serão submetidos à punição judicial da destruição eterna de diante do Senhor e da glória da sua força,
+
+[[v53-1-10]]
+
+^<<v53-1-10,10>>^ no tempo em que ele vem para ser glorificado em conexão com os seus santos e para ser considerado com admiração, naquele dia em conexão com todos os que exerceram fé, porque o testemunho^&#42;1^ que demos encontrou fé entre vós.
+
+[NOTE]
+====
+. “Testemunho.” Gr.: mar·tý·ri·on; lat.: te·sti·mó·ni·um.
+====
+
+[[v53-1-11]]
+
+^<<v53-1-11,11>>^ Com este mesmo fim, deveras, estamos sempre orando por vós, para que o nosso Deus vos conte dignos de [sua] chamada e realize completamente tudo o que lhe agradar da bondade e a obra de fé com poder,
+
+[[v53-1-12]]
+
+^<<v53-1-12,12>>^ a fim de que o nome de nosso Senhor Jesus seja glorificado em vós, e vós em união com ele, de acordo com a benignidade imerecida de nosso Deus e do Senhor Jesus Cristo.^&#42;1^
+
+[NOTE]
+====
+. Veja Ap. 6E.
+====
+
+'''
+
+xref:052-1-tessalonicenses/052-1-tessalonicenses-005.adoc#v52-5-0[&#60; Capítulo Anterior] | <<v53-1-0,Topo>> | xref:053-2-tessalonicenses/053-2-tessalonicenses-002.adoc#v53-2-0[Próximo Capítulo &#62;]

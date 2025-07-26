@@ -1,0 +1,138 @@
+include::./index.adoc[]
+
+[[v5-18-0]]
+=== Deuteronômio, 18
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-18-1]]
+
+^<<v5-18-1,1>>^ “Nenhum quinhão nem herança com Israel deve vir a pertencer aos sacerdotes, aos levitas, à tribo inteira de Levi. Devem comer as ofertas de Jeová feitas por fogo, sim, herança dele.^&#42;1^
+
+[NOTE]
+====
+. “Dele”, MSyVg; LXX: “deles”.
+====
+
+[[v5-18-2]]
+
+^<<v5-18-2,2>>^ De modo que nenhuma herança deve vir a pertencer-lhe no meio dos seus irmãos. Jeová é a sua herança, assim como lhe falou.
+
+[[v5-18-3]]
+
+^<<v5-18-3,3>>^ “Ora, o seguinte deve continuar como a prerrogativa legítima dos sacerdotes da parte do povo, daqueles que sacrificam uma vítima, quer touro quer ovídeo: Deve-se dar ao sacerdote a espádua e as mandíbulas, e o bucho.
+
+[[v5-18-4]]
+
+^<<v5-18-4,4>>^ Deves dar-lhe as primícias dos teus cereais, do teu vinho novo e do teu azeite, e a primeira lã tosquiada do teu rebanho.
+
+[[v5-18-5]]
+
+^<<v5-18-5,5>>^ Pois foi a ele que Jeová,^&#42;1^ teu Deus, escolheu dentre todas as tuas tribos, a fim de ficar de pé para ministrar em nome de Jeová,^&#42;2^ ele e seus filhos, para sempre.
+
+[NOTE]
+====
+. “Jeová.” Hebr.: Yehwáh. No fragmento do papiro LXXP. Fºuad Inv. 266, do primeiro século AEC, o Tetragrama aparece em caracteres hebr. quadrados  no texto gr. Veja Ap. 1C sec. 1.
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-18-6]]
+
+^<<v5-18-6,6>>^ “E caso o levita saia de uma das tuas cidades de todo o Israel, onde residiu por um tempo, e ele deveras for ao lugar que Jeová escolher, por causa dum almejo da sua alma,
+
+[[v5-18-7]]
+
+^<<v5-18-7,7>>^ então tem de ministrar em nome de Jeová,^&#42;1^ seu Deus, igual a todos os seus irmãos, os levitas, que ali ficam de pé perante Jeová.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-18-8]]
+
+^<<v5-18-8,8>>^ Deve comer um quinhão igual, além dos seus proventos das coisas que vende dos seus bens ancestrais.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “além das coisas que ele vende segundo os antepassados”.
+====
+
+[[v5-18-9]]
+
+^<<v5-18-9,9>>^ “Quando tiveres entrado na terra que Jeová, teu Deus, te dá, não deves aprender a fazer conforme as coisas detestáveis dessas nações.
+
+[[v5-18-10]]
+
+^<<v5-18-10,10>>^ Não se deve achar em ti alguém que faça seu filho ou sua filha passar pelo fogo, alguém que empregue adivinhação, algum praticante de magia ou quem procure presságios, ou um feiticeiro,
+
+[[v5-18-11]]
+
+^<<v5-18-11,11>>^ ou alguém que prenda outros com encantamento, ou alguém que vá consultar um médium espírita,^&#42;1^ ou um prognosticador profissional de eventos, ou alguém que consulte os mortos.
+
+[NOTE]
+====
+. Veja Le 19:31 n.
+====
+
+[[v5-18-12]]
+
+^<<v5-18-12,12>>^ Pois, todo aquele que faz tais coisas é algo detestável para Jeová, e é por causa destas coisas detestáveis que Jeová, teu Deus, as expulsa de diante de ti.
+
+[[v5-18-13]]
+
+^<<v5-18-13,13>>^ Deves mostrar-te sem defeito para com Jeová, teu Deus.
+
+[[v5-18-14]]
+
+^<<v5-18-14,14>>^ “Porque estas nações que estás desapossando costumavam escutar os que praticam a magia e os que adivinham; mas, quanto a ti, Jeová, teu Deus, não te deu^&#42;1^ nada disso.
+
+[NOTE]
+====
+. Ou “permitiu”.
+====
+
+[[v5-18-15]]
+
+^<<v5-18-15,15>>^ Um profeta do teu próprio meio, dos teus irmãos, semelhante a mim, é quem Jeová,^&#42;1^ teu Deus, te suscitará — a este é que deveis escutar —
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-18-16]]
+
+^<<v5-18-16,16>>^ em resposta a tudo o que pediste a Jeová,^&#42;1^ teu Deus, em Horebe, no dia da congregação, dizendo: ‘Não me deixes mais ouvir a voz de Jeová, meu Deus, e não me deixes mais ver este grande fogo, para que eu não morra.’
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-18-17]]
+
+^<<v5-18-17,17>>^ A isso Jeová me disse: ‘Fizeram bem em falar assim.
+
+[[v5-18-18]]
+
+^<<v5-18-18,18>>^ Suscitar-lhes-ei do meio dos seus irmãos um profeta semelhante a ti; e deveras porei as minhas palavras na sua boca e ele certamente lhes falará tudo o que eu lhe mandar.
+
+[[v5-18-19]]
+
+^<<v5-18-19,19>>^ E tem de dar-se que o homem que não escutar as minhas palavras que ele falar em meu nome, deste eu mesmo exigirei uma prestação de contas.
+
+[[v5-18-20]]
+
+^<<v5-18-20,20>>^ “‘No entanto, o profeta que presumir de falar em meu nome alguma palavra que não lhe mandei falar ou que falar em nome de outros deuses, tal profeta terá de morrer.
+
+[[v5-18-21]]
+
+^<<v5-18-21,21>>^ E caso digas no teu coração: “Como saberemos qual a palavra que Jeová não falou?”
+
+[[v5-18-22]]
+
+^<<v5-18-22,22>>^ quando o profeta falar em nome de Jeová e a palavra não suceder nem se cumprir, esta é a palavra que Jeová não falou. O profeta proferiu-a presunçosamente. Não deves ficar amedrontado por causa dele.’
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-017.adoc#v5-17-0[&#60; Capítulo Anterior] | <<v5-18-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-019.adoc#v5-19-0[Próximo Capítulo &#62;]

@@ -1,0 +1,92 @@
+include::./index.adoc[]
+
+[[v19-62-0]]
+=== Salmos, 62
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente de Jedutum.^&#42;1^ Uma melodia de Davi._
+
+[[v19-62-1]]
+
+^<<v19-62-1,1>>^ Deveras é por Deus que a minha alma [espera em] silêncio.^&#42;1^
+Dele procede a minha salvação.
+
+[NOTE]
+====
+. “Silêncio”, M; mediante um ligeiro ajuste nos sinais vocálicos: “fica calada”.
+====
+
+[[v19-62-2]]
+
+^<<v19-62-2,2>>^ Deveras, ele é a minha rocha e a minha salvação, a minha altura protetora;
+Não serei abalado muito.
+
+[[v19-62-3]]
+
+^<<v19-62-3,3>>^ Até quando procedereis freneticamente contra o homem a quem assassinaríeis?
+Todos vós sois como parede inclinada, um muro de pedras que está sendo empurrado para dentro.
+
+[[v19-62-4]]
+
+^<<v19-62-4,4>>^ Dão deveras conselho a fim de dissuadir alguém da sua própria dignidade;
+Têm prazer na mentira.
+Com a sua boca abençoam, mas no íntimo estão invocando o mal. Selá.
+
+[[v19-62-5]]
+
+^<<v19-62-5,5>>^ Deveras, espera quietamente por Deus, ó minha alma,
+Porque dele provém a minha esperança.
+
+[[v19-62-6]]
+
+^<<v19-62-6,6>>^ Deveras, ele é a minha rocha e a minha salvação, a minha altura protetora;
+Não serei abalado.
+
+[[v19-62-7]]
+
+^<<v19-62-7,7>>^ Sobre Deus estão a minha salvação e a minha glória.
+Minha forte rocha, meu refúgio está em Deus.
+
+[[v19-62-8]]
+
+^<<v19-62-8,8>>^ Confiai nele em todos os tempos, ó povo.
+Derramai vosso coração diante dele.
+Deus é um refúgio para nós. Selá.
+
+[[v19-62-9]]
+
+^<<v19-62-9,9>>^ Deveras, os filhos do homem terreno^&#42;1^ são uma exalação,
+Os filhos da humanidade^&#42;2^ são mentira.
+Deitados na balança são juntos mais leves do que uma exalação.
+
+[NOTE]
+====
+. “Homem terreno.” Hebr.: ’a·dhám.
+. Ou “homem”. Hebr.: ’ish.
+====
+
+[[v19-62-10]]
+
+^<<v19-62-10,10>>^ Não confieis na defraudação,
+Nem vos torneis vãos em puro roubo.
+Caso medrem os meios de subsistência, não fixeis o coração [neles].
+
+[[v19-62-11]]
+
+^<<v19-62-11,11>>^ Deus falou uma vez, ouvi isto duas vezes:
+Que a força pertence a Deus.
+
+[[v19-62-12]]
+
+^<<v19-62-12,12>>^ Também a benevolência pertence a ti, ó Jeová,^&#42;1^
+Porque tu mesmo retribuis a cada um^&#42;2^ segundo o seu trabalho.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+. Ou “ao homem”. Hebr.: le’ísh.
+====
+
+'''
+
+xref:019-salmo/019-salmo-061.adoc#v19-61-0[&#60; Capítulo Anterior] | <<v19-62-0,Topo>> | xref:019-salmo/019-salmo-063.adoc#v19-63-0[Próximo Capítulo &#62;]

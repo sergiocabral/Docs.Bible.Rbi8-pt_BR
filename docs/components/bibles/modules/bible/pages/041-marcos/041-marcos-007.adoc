@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v41-7-0]]
+=== Marcos, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v41-7-1]]
+
+^<<v41-7-1,1>>^ Ajuntaram-se então em volta dele os fariseus e alguns dos escribas que tinham vindo de Jerusalém.
+
+[[v41-7-2]]
+
+^<<v41-7-2,2>>^ E quando viram alguns dos discípulos dele comer a sua refeição com mãos aviltadas, isto é, não lavadas —
+
+[[v41-7-3]]
+
+^<<v41-7-3,3>>^ pois os fariseus e todos os judeus não comem sem lavar as mãos até os cotovelos,^&#42;1^ apegando-se à tradição dos homens dos tempos anteriores,
+
+[NOTE]
+====
+. Ou “lavar as mãos com o punho”.
+====
+
+[[v41-7-4]]
+
+^<<v41-7-4,4>>^ e, ao voltarem do mercado, não comem sem se purificarem por aspersão; e há muitas outras tradições que receberam para se apegarem [a elas]: batismo de copos, e de jarros, e de vasos de cobre —
+
+[[v41-7-5]]
+
+^<<v41-7-5,5>>^ de modo que estes fariseus e escribas lhe perguntaram: “Por que é que teus discípulos não se comportam segundo a tradição dos homens dos tempos anteriores, mas tomam a sua refeição com mãos aviltadas?”
+
+[[v41-7-6]]
+
+^<<v41-7-6,6>>^ Ele lhes disse: “Isaías profetizou aptamente a respeito de vós, hipócritas, como está escrito: ‘Este povo honra-me com os lábios, os seus corações, porém, estão longe de mim.
+
+[[v41-7-7]]
+
+^<<v41-7-7,7>>^ É em vão que persistem em adorar-me, porque ensinam por doutrinas os mandados de homens.’
+
+[[v41-7-8]]
+
+^<<v41-7-8,8>>^ Deixando o mandamento de Deus, vós vos apegais à tradição de homens.”
+
+[[v41-7-9]]
+
+^<<v41-7-9,9>>^ Outrossim, ele lhes disse ainda: “Jeitosamente pondes de lado o mandamento de Deus, a fim de reterdes a vossa tradição.
+
+[[v41-7-10]]
+
+^<<v41-7-10,10>>^ Por exemplo, Moisés disse: ‘Honra a teu pai e a tua mãe’, e: ‘Quem injuriar pai ou mãe, acabe na morte.’^&#42;1^
+
+[NOTE]
+====
+. Ou “morra sem falta”.
+====
+
+[[v41-7-11]]
+
+^<<v41-7-11,11>>^ Mas vós dizeis: ‘Se um homem disser a seu pai ou à sua mãe: “Tudo o que eu tenho, que da minha parte te poderia ser de proveito, é corbã,^&#42;1^ (isto é, uma dádiva dedicada a Deus,)”’^&#42;2^ —
+
+[NOTE]
+====
+. Gr.: Kor·bán; lat.: cór·ban; J17,18,22(hebr.): qor·bán. Veja Le 1:2 n.: “oferta”; Ne 10:34 n.
+. Ou “uma dádiva votiva”.
+====
+
+[[v41-7-12]]
+
+^<<v41-7-12,12>>^ não o deixais mais fazer nem uma única coisa para seu pai ou para sua mãe,
+
+[[v41-7-13]]
+
+^<<v41-7-13,13>>^ e assim invalidastes a palavra de Deus pela vossa tradição que transmitistes. E fazeis muitas coisas semelhantes a esta.”
+
+[[v41-7-14]]
+
+^<<v41-7-14,14>>^ Assim, chamando a si a multidão, passou a dizer-lhes: “Escutai-me, todos vós, e compreendei o significado.
+
+[[v41-7-15]]
+
+^<<v41-7-15,15>>^ Não há nada de fora dum homem passando para dentro dele que possa aviltá-lo; mas as coisas que procedem do homem são as que aviltam o homem.”
+
+[[v41-7-16]]
+
+^<<v41-7-16,16>>^ ^&#42;1^ ——
+
+[NOTE]
+====
+. אB omitem isso; ADVgSyh,p,sArm: “Quem tiver ouvidos para escutar, escute.” (Veja 4:9, 23.)
+====
+
+[[v41-7-17]]
+
+^<<v41-7-17,17>>^ Então, tendo entrado numa casa, afastado da multidão, seus discípulos começaram a interrogá-lo a respeito da ilustração.
+
+[[v41-7-18]]
+
+^<<v41-7-18,18>>^ De modo que lhes disse: “Estais vós também sem percepção, iguais a eles? Não percebeis que nada de fora que passe para dentro dum homem pode aviltá-lo,
+
+[[v41-7-19]]
+
+^<<v41-7-19,19>>^ visto que passa, não para dentro do [seu] coração, mas para os [seus] intestinos, e sai para o esgoto?”^&#42;1^ Assim declarou limpos todos os alimentos.^&#42;2^
+
+[NOTE]
+====
+. Ou “cloaca; latrina; privada”.
+. Segundo אAB; alguns mss.: “para o esgoto, mostrando assim serem limpos todos os alimentos?”
+====
+
+[[v41-7-20]]
+
+^<<v41-7-20,20>>^ Outrossim, ele disse: “O que sai do homem é o que avilta o homem;
+
+[[v41-7-21]]
+
+^<<v41-7-21,21>>^ pois, de dentro, dos corações dos homens, saem raciocínios prejudiciais: fornicações,^&#42;1^ ladroagens, assassínios,
+
+[NOTE]
+====
+. “Fornicações.” Gr.: por·neí·ai; lat.: for·ni·ca·ti·ó·nes; J18,22(hebr.): zenu·ním. Veja Ap. 5A.
+====
+
+[[v41-7-22]]
+
+^<<v41-7-22,22>>^ adultérios, cobiças, atos de iniqüidade, fraude, conduta desenfreada^&#42;1^ e um olho invejoso,^&#42;2^ blasfêmia, soberba, irracionalidade.
+
+[NOTE]
+====
+. “Conduta desenfreada.” Gr.: a·sél·gei·a; Vgc(lat.): im·pu·di·cí·ti·ae; J22(hebr.): zim·máh. Veja Gál 5:19 n.: “desenfreada”.
+. Ou “olho iníquo”.
+====
+
+[[v41-7-23]]
+
+^<<v41-7-23,23>>^ Todas estas coisas iníquas saem de dentro e aviltam o homem.”
+
+[[v41-7-24]]
+
+^<<v41-7-24,24>>^ Ele se levantou e foi dali para as regiões de Tiro e Sídon. E entrou numa casa e não quis que alguém soubesse disso. Contudo, não pôde passar despercebido;
+
+[[v41-7-25]]
+
+^<<v41-7-25,25>>^ mas uma mulher, cuja filhinha tinha um espírito impuro, ouviu logo a respeito dele e veio, e prostrou-se aos seus pés.
+
+[[v41-7-26]]
+
+^<<v41-7-26,26>>^ A mulher era grega, siro-fenícia de nacionalidade; e ela persistia em pedir-lhe que expulsasse de sua filha o demônio.
+
+[[v41-7-27]]
+
+^<<v41-7-27,27>>^ Mas ele começou por dizer-lhe: “Deixa primeiro os filhos ficar satisfeitos, pois não é direito tirar o pão dos filhos e lançá-lo aos cachorrinhos.”
+
+[[v41-7-28]]
+
+^<<v41-7-28,28>>^ Em resposta, porém, ela lhe disse: “Sim, senhor, e, no entanto, os cachorrinhos debaixo da mesa comem das migalhas das criancinhas.”
+
+[[v41-7-29]]
+
+^<<v41-7-29,29>>^ A isto ele lhe disse: “Por dizeres isso, vai; o demônio saiu de tua filha.”
+
+[[v41-7-30]]
+
+^<<v41-7-30,30>>^ Ela foi assim para sua casa e achou a criancinha deitada na cama e o demônio já tinha saído.
+
+[[v41-7-31]]
+
+^<<v41-7-31,31>>^ Voltando então das regiões de Tiro, passou por Sídon para o mar da Galiléia, subindo através das regiões de Decápolis.^&#42;1^
+
+[NOTE]
+====
+. Ou “Dez Cidades”. Gr.: De·ka·pó·le·os.
+====
+
+[[v41-7-32]]
+
+^<<v41-7-32,32>>^ Ali lhe trouxeram um surdo com um impedimento na fala, e suplicaram-lhe que pusesse a sua mão sobre ele.
+
+[[v41-7-33]]
+
+^<<v41-7-33,33>>^ E ele o levou à parte, separado da multidão, e pôs os seus dedos nos ouvidos do homem, e, depois de cuspir, tocou na língua dele.
+
+[[v41-7-34]]
+
+^<<v41-7-34,34>>^ E, com um olhar para o céu, suspirou profundamente e disse-lhe: “Efatá”, isto é: “Abre-te.”
+
+[[v41-7-35]]
+
+^<<v41-7-35,35>>^ Ora, sua faculdade de ouvir foi aberta e o impedimento^&#42;1^ de sua língua foi solto, e começou a falar normalmente.
+
+[NOTE]
+====
+. Ou “laço”.
+====
+
+[[v41-7-36]]
+
+^<<v41-7-36,36>>^ Com isso os advertiu que a ninguém o dissessem; mas, quanto mais os advertia, tanto mais o proclamavam.
+
+[[v41-7-37]]
+
+^<<v41-7-37,37>>^ Deveras, estavam ficando assombrados de maneira mais extraordinária, dizendo: “Todas as coisas ele tem feito bem. Faz até os surdos ouvir e os mudos falar.”
+
+'''
+
+xref:041-marcos/041-marcos-006.adoc#v41-6-0[&#60; Capítulo Anterior] | <<v41-7-0,Topo>> | xref:041-marcos/041-marcos-008.adoc#v41-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,202 @@
+include::./index.adoc[]
+
+[[v16-3-0]]
+=== Neemias, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v16-3-1]]
+
+^<<v16-3-1,1>>^ E Eliasibe, o sumo sacerdote, e seus irmãos, os sacerdotes, passaram a levantar-se e a construir o Portão das Ovelhas. Eles mesmos o santificaram e lhe colocaram as portas; e santificaram-no até a Torre de Meá,^&#42;1^ até a Torre de Hananel.
+
+[NOTE]
+====
+. Lit.: “Torre dos Cem.”
+====
+
+[[v16-3-2]]
+
+^<<v16-3-2,2>>^ E ao seu lado construíram os homens de Jericó. E ao seu lado construiu Zacur, filho de Inri.
+
+[[v16-3-3]]
+
+^<<v16-3-3,3>>^ E o Portão do Peixe foi construído pelos filhos de Hassenaá; eles mesmos o madeiraram e então lhe colocaram as portas, os ferrolhos e as trancas.
+
+[[v16-3-4]]
+
+^<<v16-3-4,4>>^ E ao seu lado fez reparos Meremote, filho de Urijá, filho de Hacoz, e ao seu lado fez reparos Mesulão, filho de Berequias, filho de Mesezabel; e ao seu lado fez reparos Zadoque, filho de Baana.
+
+[[v16-3-5]]
+
+^<<v16-3-5,5>>^ E ao seu lado fizeram reparos os tecoítas; os próprios majestosos deles, porém, não trouxeram a sua nuca ao serviço dos seus amos.^&#42;1^
+
+[NOTE]
+====
+. “Seus amos [ou: senhor].” Hebr.: ’adho·neh·hém, pl. de ’a·dhóhn, possivelmente para denotar excelência.
+====
+
+[[v16-3-6]]
+
+^<<v16-3-6,6>>^ E o Portão da [Cidade] Antiga foi reparado por Joiada, filho de Paséia, e por Mesulão, filho de Besodéias; e eles mesmos o madeiraram e então lhe colocaram as portas, e os ferrolhos, e as trancas.
+
+[[v16-3-7]]
+
+^<<v16-3-7,7>>^ E ao seu lado fizeram reparos Melatias, o gibeonita, e Jadom, o meronotita, homens de Gibeão e de Mispá, pertencentes ao trono do governador de além do Rio.
+
+[[v16-3-8]]
+
+^<<v16-3-8,8>>^ Ao seu lado fez reparos Uziel, filho de Haraías, ourives; e ao seu lado fez reparos Hananias, membro dos misturadores de ungüentos; e passaram a lajear Jerusalém até a Muralha Larga.
+
+[[v16-3-9]]
+
+^<<v16-3-9,9>>^ E ao seu lado fez reparos Refaías, filho de Hur, príncipe de metade do distrito de Jerusalém.
+
+[[v16-3-10]]
+
+^<<v16-3-10,10>>^ E ao seu lado fez reparos Jedaías, filho de Harumafe, defronte da sua própria casa; e ao seu lado fez reparos Hatus, filho de Hasabnéias.
+
+[[v16-3-11]]
+
+^<<v16-3-11,11>>^ Outro setor medido foi reparado por Malquijá, filho de Harim, e por Hassube, filho de Paate-Moabe,^&#42;1^ e também a Torre dos Fornos.
+
+[NOTE]
+====
+. Significando “Governador de Moabe”.
+====
+
+[[v16-3-12]]
+
+^<<v16-3-12,12>>^ E ao seu lado fez reparos Salum, filho de Haloés, príncipe de metade do distrito de Jerusalém, ele e suas filhas.
+
+[[v16-3-13]]
+
+^<<v16-3-13,13>>^ O Portão do Vale foi reparado por Hanum e pelos habitantes de Zanoa; eles mesmos o construíram e então lhe colocaram as portas, os ferrolhos e as trancas; também mil côvados^&#42;1^ de muralha, até o Portão dos Montes de Cinzas.^&#42;2^
+
+[NOTE]
+====
+. Cerca de 445 m.
+. “O Portão do Esterco”, LXXVg.
+====
+
+[[v16-3-14]]
+
+^<<v16-3-14,14>>^ E o Portão dos Montes de Cinzas foi reparado por Malquijá, filho de Recabe, príncipe do distrito de Bete-Haquerem; ele mesmo foi construí-lo e colocar-lhe as portas, os ferrolhos e as trancas.
+
+[[v16-3-15]]
+
+^<<v16-3-15,15>>^ E o Portão da Fonte foi reparado por Salune,^&#42;1^ filho de Colozé, príncipe do distrito de Mispá; ele mesmo passou a construí-lo, e a pôr-lhe telhado, e a colocar-lhe as portas, os ferrolhos e as trancas, e também a muralha do Reservatório do Canal^&#42;2^ ao Jardim do Rei, e até a Escadaria que desce da Cidade de Davi.
+
+[NOTE]
+====
+. “Salum”, Sy e alguns mss. hebr.
+. Ou “Reservatório de Selá”.
+====
+
+[[v16-3-16]]
+
+^<<v16-3-16,16>>^ Depois dele, Neemias, filho de Asbuque, príncipe de metade do distrito de Bete-Zur, fez reparos até defronte das Sepulturas de Davi, e até o reservatório de água que se tinha feito, e até a Casa dos Poderosos.^&#42;1^
+
+[NOTE]
+====
+. Ou “dos Giborins”. Hebr.: hag·Gib·bo·rím.
+====
+
+[[v16-3-17]]
+
+^<<v16-3-17,17>>^ Depois dele, os levitas fizeram reparos, Reum, filho de Bani; ao seu lado, Hasabias, príncipe de metade do distrito de Queila, fez reparos para o seu distrito.
+
+[[v16-3-18]]
+
+^<<v16-3-18,18>>^ Depois dele fizeram reparos seus irmãos, Bavai, filho de Henadade, príncipe de metade do distrito de Queila.
+
+[[v16-3-19]]
+
+^<<v16-3-19,19>>^ E Ezer, filho de Jesua,^&#42;1^ príncipe de Mispá, passou a reparar ao seu lado outro setor medido defronte da subida à Armaria junto ao Contraforte.
+
+[NOTE]
+====
+. “Jesus”, LXX.
+====
+
+[[v16-3-20]]
+
+^<<v16-3-20,20>>^ Depois dele, Baruque, filho de Zabai, trabalhou com fervor [e] reparou outro setor medido, desde o Contraforte até a entrada da casa de Eliasibe, o sumo sacerdote.
+
+[[v16-3-21]]
+
+^<<v16-3-21,21>>^ Depois dele, Meremote, filho de Urijá, filho de Hacoz, reparou outro setor medido, desde a entrada da casa de Eliasibe até a extremidade da casa de Eliasibe.
+
+[[v16-3-22]]
+
+^<<v16-3-22,22>>^ E depois dele fizeram reparos os sacerdotes, homens do Distrito [do Jordão].
+
+[[v16-3-23]]
+
+^<<v16-3-23,23>>^ Depois deles,^&#42;1^ Benjamim e Hassube fizeram reparos defronte da sua própria casa. Depois deles, Azarias, filho de Maaséias, filho de Ananias, fez reparos perto da sua própria casa.
+
+[NOTE]
+====
+. “Dele”, M.
+====
+
+[[v16-3-24]]
+
+^<<v16-3-24,24>>^ Depois dele, Binui, filho de Henadade, reparou outro setor medido, desde a casa de Azarias até o Contraforte, e até a esquina.
+
+[[v16-3-25]]
+
+^<<v16-3-25,25>>^ [Depois dele,] Palal, filho de Uzai, [fez reparos] defronte do Contraforte e da torre que sai da Casa do Rei, da superior que pertence ao Pátio da Guarda. Depois dele veio Pedaías, filho de Parós.
+
+[[v16-3-26]]
+
+^<<v16-3-26,26>>^ E os próprios netineus^&#42;1^ vieram a ser moradores de Ofel; [eles fizeram reparos] até defronte do Portão das Águas, ao leste, e a torre saliente.
+
+[NOTE]
+====
+. “E os . . . netineus (escravos de templo).” Lit.: “E os dados.” Hebr.: wehan·Nethi·ním; gr.: Na·thi·ním; Vgc(lat.): Na·thi·naé·i. Veja Núm 3:9 n.
+====
+
+[[v16-3-27]]
+
+^<<v16-3-27,27>>^ Depois deles, os tecoítas repararam outro setor medido, desde defronte da grande torre saliente até a muralha de Ofel.
+
+[[v16-3-28]]
+
+^<<v16-3-28,28>>^ Acima do Portão dos Cavalos fizeram reparos os sacerdotes, cada um defronte da sua própria casa.
+
+[[v16-3-29]]
+
+^<<v16-3-29,29>>^ Depois deles, Zadoque, filho de Imer, fez reparos defronte da sua própria casa.
+E depois dele fez reparos Semaías, filho de Secanias, guarda do Portão do Leste.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Portão do Nascente [do Sol].”
+====
+
+[[v16-3-30]]
+
+^<<v16-3-30,30>>^ Depois dele, Hananias, filho de Selemias, e Hanum, sexto filho de Zalafe, repararam outro setor medido.
+Depois dele, Mesulão, filho de Berequias, fez reparos defronte da sua própria sala.
+
+[[v16-3-31]]
+
+^<<v16-3-31,31>>^ Depois dele, Malquijá, membro^&#42;1^ do grêmio dos ourives, fez reparos até a casa dos netineus e dos negociantes, defronte do Portão de Inspeção,^&#42;2^ e até o quarto de terraço da esquina.
+
+[NOTE]
+====
+. Lit.: “filho”.
+. Ou “Portão de Hamifcade”.
+====
+
+[[v16-3-32]]
+
+^<<v16-3-32,32>>^ ^&#42;1^ E entre o quarto de terraço da esquina e o Portão das Ovelhas, os ourives e os negociantes fizeram reparos.
+
+[NOTE]
+====
+. No M, na margem oposta a este v., acha-se escrita a expressão hebr. que significa “metade do livro”, indicando que se trata do versículo central dos 685 vv. hebr. do conjunto dos livros Esdras e Neemias, e que estes dois livros, no M, eram um só livro.
+====
+
+'''
+
+xref:016-neemias/016-neemias-002.adoc#v16-2-0[&#60; Capítulo Anterior] | <<v16-3-0,Topo>> | xref:016-neemias/016-neemias-004.adoc#v16-4-0[Próximo Capítulo &#62;]

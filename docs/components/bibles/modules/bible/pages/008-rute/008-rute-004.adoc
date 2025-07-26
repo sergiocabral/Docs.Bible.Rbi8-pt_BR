@@ -1,0 +1,150 @@
+include::./index.adoc[]
+
+[[v8-4-0]]
+=== Rute, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v8-4-1]]
+
+^<<v8-4-1,1>>^ Quanto a Boaz, subiu até o portão e começou a ficar sentado ali. E eis que passava o resgatador que Boaz havia mencionado. Então ele disse: “Desvia-te para cá, senta-te aqui, Fulano.”^&#42;1^ Por isso se desviou e se sentou.
+
+[NOTE]
+====
+. “Fulano.” Hebr.: Pelo·ní ’Al·mo·ní.
+====
+
+[[v8-4-2]]
+
+^<<v8-4-2,2>>^ Depois tomou dez homens dos anciãos da cidade e disse: “Sentai-vos aqui.” Sentaram-se, pois.
+
+[[v8-4-3]]
+
+^<<v8-4-3,3>>^ Ele disse então ao resgatador: “O pedaço de campo que pertencia ao nosso irmão Elimeleque tem de ser vendido por Noemi, que voltou do campo de Moabe.
+
+[[v8-4-4]]
+
+^<<v8-4-4,4>>^ Quanto a mim, pensei^&#42;1^ que devia revelá-lo a ti,^&#42;2^ dizendo: ‘Compra-o diante dos habitantes e dos anciãos do meu povo. Se o resgatares, resgata-o; mas se não o resgatares, informa-me, para que eu o saiba, pois não há senão tu para fazer o resgate, e eu venho depois de ti.’” A isso ele disse: “Serei eu quem o resgatará.”
+
+[NOTE]
+====
+. Lit.: “Eu disse [para mim mesmo].”
+. Lit.: “eu devia destapar teu ouvido”.
+====
+
+[[v8-4-5]]
+
+^<<v8-4-5,5>>^ Boaz disse então: “No dia em que comprares o campo da mão de Noemi tens de comprá-lo também de Rute, a moabita, esposa do morto, para fazer que o nome do morto se levante sobre a sua herança.”
+
+[[v8-4-6]]
+
+^<<v8-4-6,6>>^ A isso disse o resgatador: “Não posso resgatá-lo para mim, para que eu não arruíne a minha própria herança. Resgata-o para ti com o meu direito de resgate, porque eu não posso resgatá-lo.”
+
+[[v8-4-7]]
+
+^<<v8-4-7,7>>^ Ora, era o seguinte o costume^&#42;1^ de outrora em Israel quanto ao direito de resgate e quanto à troca, para se ratificar toda sorte de coisa: O homem tinha de remover a sua sandália e dá-la ao seu próximo, e esta era a atestação em Israel.
+
+[NOTE]
+====
+. “Costume”, LXXSyVg; M omite isso.
+====
+
+[[v8-4-8]]
+
+^<<v8-4-8,8>>^ Portanto, quando o resgatador^&#42;1^ disse a Boaz: “Compra-o para ti mesmo”, ele passou a remover a sua sandália.^&#42;2^
+
+[NOTE]
+====
+. “O resgatador (goel).” Hebr.: hag·go·’él. Veja Núm 5:8; 35:12.
+. LXX acrescenta: “e a dá-la a ele”.
+====
+
+[[v8-4-9]]
+
+^<<v8-4-9,9>>^ Boaz disse então aos anciãos e a todo o povo: “Vós sois hoje testemunhas de que deveras compro da mão de Noemi tudo o que pertencia a Elimeleque, e tudo o que pertencia a Quiliom e a Malom.
+
+[[v8-4-10]]
+
+^<<v8-4-10,10>>^ E também Rute, a moabita, esposa de Malom, compro deveras para mim como esposa, a fim de fazer que se levante o nome do morto sobre a sua herança e para que o nome do morto não seja decepado dentre os seus irmãos e dentre o portão deste lugar. Vós sois hoje testemunhas.”
+
+[[v8-4-11]]
+
+^<<v8-4-11,11>>^ Em vista disso, todo o povo que havia no portão e os anciãos disseram: “Testemunhas! Conceda Jeová à esposa^&#42;1^ que entra na tua casa ser igual a Raquel e igual a Léia, ambas as quais construíram a casa de Israel; e mostra-te digno em Efrata e ganha fama^&#42;2^ em Belém.
+
+[NOTE]
+====
+. Ou “mulher”. TSy: “esta esposa”; LXX: “tua esposa”.
+. Lit.: “e proclama um nome”. Veja v. 14.
+====
+
+[[v8-4-12]]
+
+^<<v8-4-12,12>>^ E torne-se a tua casa igual à casa de Peres, que Tamar deu à luz a Judá, da descendência que Jeová te dará desta moça.”
+
+[[v8-4-13]]
+
+^<<v8-4-13,13>>^ Concordemente, Boaz tomou Rute e ela se tornou sua esposa, e ele teve relações com ela. Assim, Jeová concedeu-lhe conceber e ela deu à luz um filho.
+
+[[v8-4-14]]
+
+^<<v8-4-14,14>>^ E as mulheres começaram a dizer a Noemi: “Bendito seja Jeová que hoje não deixou que te faltasse um resgatador; para que seu^&#42;1^ nome seja proclamado em Israel.
+
+[NOTE]
+====
+. “Seu”, MSyVg; LXXIt: “teu”.
+====
+
+[[v8-4-15]]
+
+^<<v8-4-15,15>>^ E ele se tornou restaurador da tua alma^&#42;1^ e aquele que nutre a tua velhice, porque a tua nora, que deveras te ama, que é para ti melhor do que sete filhos, deu-o à luz.”
+
+[NOTE]
+====
+. Ou “alguém que trouxe de volta a tua vida [hebr.: né·fesh; gr.: psy·khén; lat.: á·ni·mam]”.
+====
+
+[[v8-4-16]]
+
+^<<v8-4-16,16>>^ E Noemi passou a tomar o menino e a pô-lo no seu regaço, e ela veio a ser a sua aia.
+
+[[v8-4-17]]
+
+^<<v8-4-17,17>>^ Então as vizinhas deram-lhe um nome, dizendo: “À Noemi nasceu um filho.” E começaram a chamá-lo pelo nome de Obede.^&#42;1^ Ele é o pai de Jessé, pai de Davi.
+
+[NOTE]
+====
+. Significando “Servo; Servidor”.
+====
+
+[[v8-4-18]]
+
+^<<v8-4-18,18>>^ Ora, estas são as gerações de Peres: Peres tornou-se pai de Esrom;
+
+[[v8-4-19]]
+
+^<<v8-4-19,19>>^ e Esrom tornou-se pai de Rão; e Rão tornou-se pai de Aminadabe;
+
+[[v8-4-20]]
+
+^<<v8-4-20,20>>^ e Aminadabe tornou-se pai de Nasom; e Nasom tornou-se pai de Salmom;^&#42;1^
+
+[NOTE]
+====
+. “Salmom”, LXXAVgc, diversos mss. hebr. e versões armênias, etíopes e saídicas; M: “Salma”; LXXB: “Salman”.
+====
+
+[[v8-4-21]]
+
+^<<v8-4-21,21>>^ e Salmom^&#42;1^ tornou-se pai de Boaz; e Boaz tornou-se pai de Obede;
+
+[NOTE]
+====
+. “Salmom”, MLXXAVgc; LXXB: “Salman”. Veja Mt 1:4, 5; Lu 3:31-33.
+====
+
+[[v8-4-22]]
+
+^<<v8-4-22,22>>^ e Obede tornou-se pai de Jessé; e Jessé tornou-se pai de Davi.
+
+'''
+
+xref:008-rute/008-rute-003.adoc#v8-3-0[&#60; Capítulo Anterior] | <<v8-4-0,Topo>> | xref:009-1-samuel/009-1-samuel-001.adoc#v9-1-0[Próximo Capítulo &#62;]

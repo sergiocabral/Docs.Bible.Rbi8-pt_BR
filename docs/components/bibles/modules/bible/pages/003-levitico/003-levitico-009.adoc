@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v3-9-0]]
+=== Levítico, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-9-1]]
+
+^<<v3-9-1,1>>^ E sucedeu no oitavo dia que Moisés convocou Arão e seus filhos, e os anciãos de Israel.
+
+[[v3-9-2]]
+
+^<<v3-9-2,2>>^ Ele disse então a Arão: “Toma para ti um bezerro novo como oferta pelo pecado, e um carneiro como oferta queimada, sadios, e apresenta-os perante Jeová.
+
+[[v3-9-3]]
+
+^<<v3-9-3,3>>^ Mas falarás aos filhos^&#42;1^ de Israel, dizendo: ‘Tomai um bode como oferta pelo pecado, e um bezerro e um carneirinho, cada um de um ano, sadios, como oferta queimada,
+
+[NOTE]
+====
+. “Filhos”, MSyVg; SamLXX: “assembléia de anciãos”.
+====
+
+[[v3-9-4]]
+
+^<<v3-9-4,4>>^ e um touro e um carneiro como sacrifícios de participação em comum, a fim de sacrificá-los perante Jeová, e uma oferta de cereais umedecida com azeite, porque é hoje que Jeová vos há de aparecer.’”
+
+[[v3-9-5]]
+
+^<<v3-9-5,5>>^ Concordemente, levaram para diante da tenda de reunião aquilo que Moisés ordenara. Toda a assembléia se chegou então e ficou de pé perante Jeová.
+
+[[v3-9-6]]
+
+^<<v3-9-6,6>>^ E Moisés prosseguiu, dizendo: “Esta é a coisa que Jeová mandou que fizésseis, para que vos apareça a glória de Jeová.”
+
+[[v3-9-7]]
+
+^<<v3-9-7,7>>^ Moisés disse então a Arão: “Chega-te ao altar e faze a tua oferta pelo pecado e a tua oferta queimada, e faze expiação por ti mesmo e por tua casa;^&#42;1^ e faze a oferta do povo e faze expiação por eles, assim como Jeová mandou.”
+
+[NOTE]
+====
+. “Tua casa”, LXX (veja 16:17); MSamSyVg: “pelo povo”.
+====
+
+[[v3-9-8]]
+
+^<<v3-9-8,8>>^ Arão chegou-se imediatamente ao altar e abateu o bezerro da oferta pelo pecado, que era para ele.
+
+[[v3-9-9]]
+
+^<<v3-9-9,9>>^ Os filhos de Arão apresentaram-lhe então o sangue, e ele mergulhou o dedo no sangue e pôs este sobre os chifres do altar, e o resto do sangue ele despejou junto à base do altar.
+
+[[v3-9-10]]
+
+^<<v3-9-10,10>>^ E fez fumegar sobre o altar a gordura, e os rins, e a acrescência do fígado do sacrifício pelo pecado, assim como Jeová mandara a Moisés.
+
+[[v3-9-11]]
+
+^<<v3-9-11,11>>^ E queimou a carne e a pele no fogo, fora do acampamento.
+
+[[v3-9-12]]
+
+^<<v3-9-12,12>>^ Abateu então a oferta queimada, e os filhos de Arão entregaram-lhe o sangue e ele o aspergiu ao redor sobre o altar.
+
+[[v3-9-13]]
+
+^<<v3-9-13,13>>^ E entregaram-lhe a oferta queimada nos seus pedaços e a cabeça, e ele passou a fazê-los fumegar sobre o altar.
+
+[[v3-9-14]]
+
+^<<v3-9-14,14>>^ Além disso, lavou os intestinos e as pernas, e os fez fumegar sobre a oferta queimada, no altar.
+
+[[v3-9-15]]
+
+^<<v3-9-15,15>>^ Foi então apresentar a oferta do povo e tomou o bode da oferta pelo pecado, que era para o povo, e o abateu, e fez com ele uma oferta pelo pecado, como [fizera] com o primeiro.
+
+[[v3-9-16]]
+
+^<<v3-9-16,16>>^ Apresentou então a oferta queimada e a manejou segundo o procedimento regular.
+
+[[v3-9-17]]
+
+^<<v3-9-17,17>>^ A seguir apresentou a oferta de cereais, e encheu sua mão com um pouco dela e o fez fumegar sobre o altar, separado da oferta queimada da manhã.
+
+[[v3-9-18]]
+
+^<<v3-9-18,18>>^ Depois abateu o touro e o carneiro do sacrifício de participação em comum, que era para o povo. Os filhos de Arão entregaram-lhe então o sangue e ele o aspergiu ao redor sobre o altar.
+
+[[v3-9-19]]
+
+^<<v3-9-19,19>>^ Quanto aos pedaços gordos do touro e a cauda gorda do carneiro, e a cobertura de gordura,^&#42;1^ e os rins, e a acrescência do fígado,
+
+[NOTE]
+====
+. Isto é, dos intestinos.
+====
+
+[[v3-9-20]]
+
+^<<v3-9-20,20>>^ colocaram^&#42;1^ então os pedaços gordos sobre os peitos, após o que ele fez fumegar os pedaços gordos sobre o altar.
+
+[NOTE]
+====
+. “Colocaram”, MVg; SamLXXSy: “colocou”.
+====
+
+[[v3-9-21]]
+
+^<<v3-9-21,21>>^ Mas os peitos e a perna direita Arão moveu para lá e para cá como oferta movida perante Jeová, assim como Moisés ordenara.
+
+[[v3-9-22]]
+
+^<<v3-9-22,22>>^ Arão levantou então as mãos para o povo, e ele os abençoou e desceu, tendo feito a oferta pelo pecado, e a oferta queimada, e os sacrifícios de participação em comum.
+
+[[v3-9-23]]
+
+^<<v3-9-23,23>>^ Por fim, Moisés e Arão entraram na tenda de reunião, e saíram e abençoaram o povo.
+A glória de Jeová apareceu então a todo o povo,
+
+[[v3-9-24]]
+
+^<<v3-9-24,24>>^ e desceu fogo de diante de Jeová e começou a consumir a oferta queimada e os pedaços gordos sobre o altar. Quando todo o povo chegou a ver isso, irromperam em gritos e prostraram-se sobre as suas faces.
+
+'''
+
+xref:003-levitico/003-levitico-008.adoc#v3-8-0[&#60; Capítulo Anterior] | <<v3-9-0,Topo>> | xref:003-levitico/003-levitico-010.adoc#v3-10-0[Próximo Capítulo &#62;]

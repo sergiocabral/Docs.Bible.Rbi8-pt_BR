@@ -1,0 +1,94 @@
+include::./index.adoc[]
+
+[[v3-10-0]]
+=== Levítico, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-10-1]]
+
+^<<v3-10-1,1>>^ Mais tarde, os filhos de Arão, Nadabe e Abiú, apanharam e trouxeram cada um o seu porta-lume, e puseram fogo neles e colocaram incenso sobre ele, e começaram a oferecer fogo ilegítimo perante Jeová, que ele não lhes tinha prescrito.
+
+[[v3-10-2]]
+
+^<<v3-10-2,2>>^ Saiu então fogo de diante de Jeová e os consumiu, de modo que morreram perante Jeová.
+
+[[v3-10-3]]
+
+^<<v3-10-3,3>>^ Moisés disse então a Arão: “Isto é o que Jeová falou, dizendo: ‘Seja eu santificado entre os que me estão próximos e seja eu glorificado perante a face de todo o povo.’” E Arão ficou quieto.
+
+[[v3-10-4]]
+
+^<<v3-10-4,4>>^ Assim, Moisés chamou Misael e Elzafã, filhos de Uziel, tio de Arão, e disse-lhes: “Chegai-vos e carregai vossos irmãos de diante do lugar santo para fora do acampamento.
+
+[[v3-10-5]]
+
+^<<v3-10-5,5>>^ Portanto, chegaram-se e os carregaram nas suas vestes compridas para fora do acampamento, assim como Moisés falara.
+
+[[v3-10-6]]
+
+^<<v3-10-6,6>>^ A seguir, Moisés disse a Arão, e a Eleazar e a Itamar, seus [outros] filhos: “Não deixeis as vossas cabeças ficar desgrenhadas e não deveis rasgar as vossas roupas, para que não morrais e para que ele não fique indignado contra toda a assembléia; mas os vossos irmãos de toda a casa de Israel é que chorarão pelo incêndio que Jeová fez lavrar.
+
+[[v3-10-7]]
+
+^<<v3-10-7,7>>^ E não deveis sair da entrada da tenda de reunião para que não morrais, porque está sobre vós o óleo de unção de Jeová.” Fizeram, pois, segundo as palavras de Moisés.
+
+[[v3-10-8]]
+
+^<<v3-10-8,8>>^ E Jeová passou a falar a Arão, dizendo:
+
+[[v3-10-9]]
+
+^<<v3-10-9,9>>^ “Não bebas vinho, nem bebida inebriante, nem tu nem teus filhos contigo, quando entrardes na tenda de reunião, para que não morrais. É um estatuto por tempo indefinido para as vossas gerações,
+
+[[v3-10-10]]
+
+^<<v3-10-10,10>>^ tanto para se fazer diferença entre o santo e o profano, e entre o impuro e o puro,
+
+[[v3-10-11]]
+
+^<<v3-10-11,11>>^ como para se ensinar aos filhos de Israel todos os regulamentos que Jeová lhes falou por meio de Moisés.”
+
+[[v3-10-12]]
+
+^<<v3-10-12,12>>^ Moisés falou então a Arão, e a Eleazar e a Itamar, os filhos que lhe restaram: “Tomai a oferta de cereais que sobrou das ofertas de Jeová feitas por fogo e comei-a não fermentada perto do altar, porque é algo santíssimo.
+
+[[v3-10-13]]
+
+^<<v3-10-13,13>>^ E tendes de comê-la num lugar santo, porque é a tua porção concedida e a porção concedida de teus filhos, das ofertas de Jeová feitas por fogo; pois assim se me ordenou.
+
+[[v3-10-14]]
+
+^<<v3-10-14,14>>^ E comereis o peito da oferta movida e a perna do quinhão sagrado num lugar limpo, tu e teus filhos, e tuas filhas contigo, porque foram dados como tua porção concedida e a porção concedida de teus filhos, dos sacrifícios de participação em comum dos filhos de Israel.
+
+[[v3-10-15]]
+
+^<<v3-10-15,15>>^ Trarão a perna do quinhão sagrado e o peito da oferta movida, junto com as ofertas feitas por fogo, dos pedaços gordos, a fim de mover a oferta movida para lá e para cá, perante Jeová; e tem de servir de porção concedida, por tempo indefinido, para ti e para os teus filhos contigo, assim como Jeová mandou.”
+
+[[v3-10-16]]
+
+^<<v3-10-16,16>>^ E Moisés procurou cabalmente o bode da oferta pelo pecado, e eis que tinha sido queimado. De modo que ficou indignado com Eleazar e Itamar, os filhos de Arão que restaram, dizendo:
+
+[[v3-10-17]]
+
+^<<v3-10-17,17>>^ “Por que não comestes a oferta pelo pecado no lugar que é santo, visto que é algo santíssimo e ele vo-lo deu para que respondais pelo erro da assembléia, a fim de fazer expiação por eles perante Jeová?
+
+[[v3-10-18]]
+
+^<<v3-10-18,18>>^ Eis que seu sangue não foi levado para dentro do lugar santo. Decididamente devíeis tê-lo comido no lugar santo, assim como se me ordenou.”^&#42;1^
+
+[NOTE]
+====
+. Segundo TJSyVg; LXX: “assim como Jeová me ordenou”. Veja 8:31 n.
+====
+
+[[v3-10-19]]
+
+^<<v3-10-19,19>>^ A isso Arão falou a Moisés: “Eis que hoje apresentaram a sua oferta pelo pecado e a sua oferta queimada perante Jeová, enquanto coisas como estas começaram a me sobrevir; e se eu tivesse hoje comido da oferta pelo pecado, viria isso a ser satisfatório aos olhos de Jeová?”
+
+[[v3-10-20]]
+
+^<<v3-10-20,20>>^ Quando Moisés chegou a ouvir isso, então mostrou-se satisfatório aos seus olhos.
+
+'''
+
+xref:003-levitico/003-levitico-009.adoc#v3-9-0[&#60; Capítulo Anterior] | <<v3-10-0,Topo>> | xref:003-levitico/003-levitico-011.adoc#v3-11-0[Próximo Capítulo &#62;]

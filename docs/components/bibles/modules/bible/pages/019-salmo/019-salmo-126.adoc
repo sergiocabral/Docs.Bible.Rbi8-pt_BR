@@ -1,0 +1,66 @@
+include::./index.adoc[]
+
+[[v19-126-0]]
+=== Salmos, 126
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Cântico das Subidas._
+
+[[v19-126-1]]
+
+^<<v19-126-1,1>>^ Quando Jeová ajuntou de volta os cativos^&#42;1^ de Sião,
+Tornamo-nos como os que estão sonhando.
+
+[NOTE]
+====
+. Ou “o cativeiro; o grupo de cativos”.
+====
+
+[[v19-126-2]]
+
+^<<v19-126-2,2>>^ Naquele tempo, nossa boca veio a encher-se de riso
+E nossa língua de clamor jubilante.
+Naquele tempo passaram a dizer entre as nações:
+“Jeová tem feito uma grande coisa naquilo que fez com eles.”^&#42;1^
+
+[NOTE]
+====
+. Ou “Jeová tem feito grandes coisas para eles”.
+====
+
+[[v19-126-3]]
+
+^<<v19-126-3,3>>^ Jeová tem feito uma grande coisa naquilo que fez conosco.^&#42;1^
+Ficamos alegres.
+
+[NOTE]
+====
+. Veja v. 2 n.
+====
+
+[[v19-126-4]]
+
+^<<v19-126-4,4>>^ Ajunta deveras de volta nossa companhia de cativos,^&#42;1^ ó Jeová,
+Como regos no Negebe.^&#42;2^
+
+[NOTE]
+====
+. Ou “nosso cativeiro”.
+. Ou “no sul”.
+====
+
+[[v19-126-5]]
+
+^<<v19-126-5,5>>^ Os que semeiam com lágrimas
+Ceifarão com clamor jubilante.
+
+[[v19-126-6]]
+
+^<<v19-126-6,6>>^ Aquele que sem falta sair, mesmo chorando,
+Carregando uma bolsa cheia de semente,
+Sem falta entrará com clamor jubilante,
+Carregando seus feixes.
+
+'''
+
+xref:019-salmo/019-salmo-125.adoc#v19-125-0[&#60; Capítulo Anterior] | <<v19-126-0,Topo>> | xref:019-salmo/019-salmo-127.adoc#v19-127-0[Próximo Capítulo &#62;]

@@ -1,0 +1,118 @@
+include::./index.adoc[]
+
+[[v18-23-0]]
+=== Jó, 23
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-23-1]]
+
+^<<v18-23-1,1>>^ E Jó passou a responder e a dizer:
+
+[[v18-23-2]]
+
+^<<v18-23-2,2>>^ “Até mesmo hoje, meu estado de preocupação é rebeldia;
+Minha própria mão está pesada por causa do meu suspiro.
+
+[[v18-23-3]]
+
+^<<v18-23-3,3>>^ Quem dera que eu realmente soubesse onde achá-lo!
+Eu iria até o seu lugar fixo.
+
+[[v18-23-4]]
+
+^<<v18-23-4,4>>^ Eu apresentaria diante^&#42;1^ dele uma causa jurídica,
+E encheria a minha boca de contra-argumentos;
+
+[NOTE]
+====
+. Ou “contra”. Veja Gên 10:9 n.: “oposição a”.
+====
+
+[[v18-23-5]]
+
+^<<v18-23-5,5>>^ Eu saberia as palavras com que me responderia,
+E consideraria o que ele tem para dizer-me.
+
+[[v18-23-6]]
+
+^<<v18-23-6,6>>^ Acaso ele, com uma abundância de poder, contenderia comigo?
+Oh! não. Decerto me atenderia.
+
+[[v18-23-7]]
+
+^<<v18-23-7,7>>^ Ali o próprio reto certamente resolverá as questões com ele,
+E eu ficaria a salvo do meu juiz^&#42;1^ para sempre.
+
+[NOTE]
+====
+. Ou “do meu adversário em juízo”, mediante uma correção.
+====
+
+[[v18-23-8]]
+
+^<<v18-23-8,8>>^ Eis que vou para o oriente, e ele não está lá;
+E volto novamente, e não o posso discernir;
+
+[[v18-23-9]]
+
+^<<v18-23-9,9>>^ Para a esquerda, onde ele está trabalhando, mas não [o] posso observar;
+Ele se vira^&#42;1^ para a direita, mas eu não [o] vejo.
+
+[NOTE]
+====
+. “Eu me desvio”, SyVg.
+====
+
+[[v18-23-10]]
+
+^<<v18-23-10,10>>^ Pois conhece muito bem o caminho que tomo.
+[Depois] de ele me ter provado, sairei como o próprio ouro.
+
+[[v18-23-11]]
+
+^<<v18-23-11,11>>^ Meu pé se prendeu aos seus passos;^&#42;1^
+Guardei o seu caminho e não me aparto [dele].
+
+[NOTE]
+====
+. “Passo”, M; LXX: “ordens”.
+====
+
+[[v18-23-12]]
+
+^<<v18-23-12,12>>^ Não me afasto do mandamento dos seus lábios.
+Entesourei os dizeres da sua boca mais do que me é prescrito.
+
+[[v18-23-13]]
+
+^<<v18-23-13,13>>^ E ele é de um só [pensamento], e quem lhe pode resistir?
+E a sua própria alma tem um almejo, e ele [o] fará.
+
+[[v18-23-14]]
+
+^<<v18-23-14,14>>^ Pois executará completamente o que me prescreveu.
+E de tais coisas há muitas com ele.
+
+[[v18-23-15]]
+
+^<<v18-23-15,15>>^ Por isso me sinto perturbado por causa dele;
+Mostro-me atento e tenho pavor dele.
+
+[[v18-23-16]]
+
+^<<v18-23-16,16>>^ Até mesmo o próprio Deus^&#42;1^ me fez o coração tímido
+E o próprio Todo-poderoso me perturbou.
+
+[NOTE]
+====
+. “Até mesmo . . . Deus.” Hebr.: we’Él.
+====
+
+[[v18-23-17]]
+
+^<<v18-23-17,17>>^ Pois, não fui silenciado por causa da escuridão,
+Nem porque as trevas cobriram a minha própria face.
+
+'''
+
+xref:018-jo/018-jo-022.adoc#v18-22-0[&#60; Capítulo Anterior] | <<v18-23-0,Topo>> | xref:018-jo/018-jo-024.adoc#v18-24-0[Próximo Capítulo &#62;]

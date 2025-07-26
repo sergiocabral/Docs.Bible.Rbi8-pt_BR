@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v40-3-0]]
+=== Mateus, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v40-3-1]]
+
+^<<v40-3-1,1>>^ Naqueles dias veio João^&#42;1^ Batista^&#42;2^ pregar^&#42;3^ no ermo da Judéia,
+
+[NOTE]
+====
+. “João.” Gr.: I·o·á·nes; J1-14,16-18,22(hebr.): Yoh·hha·nán, “Joanã”, significando “Jeová Tem Mostrado Favor; Jeová Tem Sido Clemente”.
+. Ou “o Imersor; o Submersor (Mergulhador)”. Gr.: ho Ba·pti·stés; J17,22(hebr.): ham·Mat·bíl.
+. Ou “proclamar”. Gr.: ke·rýs·son; lat.: praé·di·cans.
+====
+
+[[v40-3-2]]
+
+^<<v40-3-2,2>>^ dizendo: “Arrependei-vos, pois o reino dos céus^&#42;1^ se tem aproximado.”
+
+[NOTE]
+====
+. “Reino dos céus.” Gr.: ba·si·leí·a ton ou·ra·nón; lat.: ré·gnum cae·ló·rum; J22(hebr.): mal·khúth sha·má·yim.
+====
+
+[[v40-3-3]]
+
+^<<v40-3-3,3>>^ Este, de fato, é aquele de quem se falou por intermédio de Isaías, o profeta, nestas palavras: “Escutai! Alguém está clamando no ermo: ‘Preparai o caminho de Jeová!^&#42;1^ Fazei retas as suas estradas.’”
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v40-3-4]]
+
+^<<v40-3-4,4>>^ Mas, este mesmo João usava roupa de pêlos de camelo e um cinto^&#42;1^ de couro em volta dos lombos; seu alimento, também, era gafanhotos e mel silvestre.
+
+[NOTE]
+====
+. Ou “cinturão”.
+====
+
+[[v40-3-5]]
+
+^<<v40-3-5,5>>^ Então saíam a ter com ele Jerusalém,^&#42;1^ toda a Judéia e toda a região em volta do Jordão,
+
+[NOTE]
+====
+. Significando “Posse [ou: Alicerce] da Paz Dupla”. Gr.: I·e·ro·só·ly·ma; J22(hebr.): Yeru·sha·lá·yim.
+====
+
+[[v40-3-6]]
+
+^<<v40-3-6,6>>^ e as pessoas eram batizadas por ele no rio Jordão, confessando abertamente os seus pecados.
+
+[[v40-3-7]]
+
+^<<v40-3-7,7>>^ Quando viu os muitos fariseus e saduceus que vinham ao batismo, disse-lhes: “Descendência de víboras, quem vos insinuou fugir do vindouro furor?
+
+[[v40-3-8]]
+
+^<<v40-3-8,8>>^ Produzi, pois, fruto próprio do arrependimento;^&#42;1^
+
+[NOTE]
+====
+. Lit.: “mudança de idéia”. Gr.: me·ta·noí·as.
+====
+
+[[v40-3-9]]
+
+^<<v40-3-9,9>>^ e não presumais dizer a vós mesmos: ‘Temos por pai a Abraão.’ Pois eu vos digo que Deus é capaz de suscitar destas pedras filhos a Abraão.
+
+[[v40-3-10]]
+
+^<<v40-3-10,10>>^ O machado já está posto à raiz das árvores; toda árvore, pois, que não produzir fruto excelente, há de ser cortada e lançada no fogo.
+
+[[v40-3-11]]
+
+^<<v40-3-11,11>>^ Eu, da minha parte, batizo-vos^&#42;1^ com água, por causa do vosso arrependimento; mas o que vem depois de mim é mais forte do que eu, não sendo eu nem apto para tirar-lhe as sandálias. Este vos batizará com espírito santo^&#42;2^ e com fogo.
+
+[NOTE]
+====
+. Ou “imerjo-vos; submerjo-vos (mergulho-vos)”. Gr.: ba·ptí·zo.
+. Ou “força ativa”. Gr.: pneú·ma·ti; lat.: spí·ri·tu; J17,18,22(hebr.): berú·ahh, “com força ativa”. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v40-3-12]]
+
+^<<v40-3-12,12>>^ Tem na mão a sua pá de joeirar, e limpará completamente a sua eira, ajuntando seu trigo no celeiro, mas a palha ele queimará em fogo inextinguível.”
+
+[[v40-3-13]]
+
+^<<v40-3-13,13>>^ Jesus veio então da Galiléia ao Jordão ter com João, a fim de ser batizado por ele.
+
+[[v40-3-14]]
+
+^<<v40-3-14,14>>^ Este, porém, tentou impedi-lo, dizendo: “Eu é que preciso ser batizado por ti, e tu vens a mim?”
+
+[[v40-3-15]]
+
+^<<v40-3-15,15>>^ Em resposta, Jesus disse-lhe: “Deixa por agora, pois assim é apropriado que executemos tudo o que é justo.” Então cessou de o impedir.
+
+[[v40-3-16]]
+
+^<<v40-3-16,16>>^ Jesus, depois de ter sido batizado, saiu imediatamente da água; e eis que os céus se abriram e ele viu o espírito de Deus descendo sobre ele como pomba.
+
+[[v40-3-17]]
+
+^<<v40-3-17,17>>^ Eis que também houve uma voz dos céus, que disse: “Este é meu Filho, o amado, a quem tenho aprovado.”
+
+'''
+
+xref:040-mateus/040-mateus-002.adoc#v40-2-0[&#60; Capítulo Anterior] | <<v40-3-0,Topo>> | xref:040-mateus/040-mateus-004.adoc#v40-4-0[Próximo Capítulo &#62;]

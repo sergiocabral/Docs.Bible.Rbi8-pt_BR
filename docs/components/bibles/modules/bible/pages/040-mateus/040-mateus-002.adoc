@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v40-2-0]]
+=== Mateus, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v40-2-1]]
+
+^<<v40-2-1,1>>^ Depois de Jesus ter nascido em Belém da Judéia, nos dias de Herodes, o rei, eis que vieram astrólogos^&#42;1^ das regiões orientais a Jerusalém,
+
+[NOTE]
+====
+. Ou “magos”. Gr.: má·goi.
+====
+
+[[v40-2-2]]
+
+^<<v40-2-2,2>>^ dizendo: “Onde está aquele que nasceu rei dos judeus? Pois vimos a sua estrela [quando estávamos] no Oriente^&#42;1^ e viemos prestar-lhe homenagem.”
+
+[NOTE]
+====
+. Ou “vimos a sua estrela desde o Oriente”.
+====
+
+[[v40-2-3]]
+
+^<<v40-2-3,3>>^ O Rei Herodes, ouvindo isso, ficou agitado, e, junto com ele, toda Jerusalém;
+
+[[v40-2-4]]
+
+^<<v40-2-4,4>>^ e, convocando todos os principais sacerdotes e escribas do povo, começou a indagar deles onde havia de nascer o Cristo.^&#42;1^
+
+[NOTE]
+====
+. “O Cristo.” Gr.: ὁ χριστός (ho Khri·stós); J1-14,16-18,22(hebr.): המשיח (ham·Ma·shí·ahh, “O Messias; o Ungido”).
+====
+
+[[v40-2-5]]
+
+^<<v40-2-5,5>>^ Disseram-lhe: “Em Belém da Judéia; pois é assim que se escreveu por intermédio do profeta:
+
+[[v40-2-6]]
+
+^<<v40-2-6,6>>^ ‘E tu, ó Belém^&#42;1^ da terra de Judá, de nenhum modo és a [cidade] mais insignificante entre os governadores^&#42;2^ de Judá; pois de ti sairá um governante^&#42;3^ que há de pastorear o meu povo, Israel.’”
+
+[NOTE]
+====
+. Significando “Casa de Pão”. Gr.: Be·thle·ém; J17,18,22(hebr.): Behth lé·hhem.
+. Ou “líderes”. Gr.: he·ge·mó·sin.
+. Ou “líder”. Gr.: he·goú·me·nos.
+====
+
+[[v40-2-7]]
+
+^<<v40-2-7,7>>^ Herodes convocou, então, secretamente os astrólogos e averiguou deles cuidadosamente o tempo do aparecimento da estrela;
+
+[[v40-2-8]]
+
+^<<v40-2-8,8>>^ e, ao enviá-los a Belém, ele disse: “Ide e procurai cuidadosamente a criancinha, e quando a tiverdes achado, avisai-me, para que eu também possa ir e prestar-lhe homenagem.”
+
+[[v40-2-9]]
+
+^<<v40-2-9,9>>^ Tendo ouvido o rei, partiram; e eis que a estrela que tinham visto [quando estavam] no Oriente^&#42;1^ ia adiante deles, até que se deteve por cima do lugar onde estava a criancinha.
+
+[NOTE]
+====
+. Ou “que viram desde o Oriente”.
+====
+
+[[v40-2-10]]
+
+^<<v40-2-10,10>>^ Ao verem a estrela, alegraram-se muitíssimo.
+
+[[v40-2-11]]
+
+^<<v40-2-11,11>>^ E, ao entrarem na casa, viram a criancinha com Maria, sua mãe, e, prostrando-se, prestaram-lhe homenagem. Abriram também seus tesouros e presentearam-na com dádivas: ouro, olíbano e mirra.
+
+[[v40-2-12]]
+
+^<<v40-2-12,12>>^ No entanto, por terem recebido em sonho um aviso divino para não voltarem a Herodes, retiraram-se para o seu país por outro caminho.
+
+[[v40-2-13]]
+
+^<<v40-2-13,13>>^ Depois de eles se terem retirado, eis que o anjo de Jeová^&#42;1^ apareceu a José num sonho, dizendo: “Levanta-te, toma a criancinha e sua mãe, foge para o Egito e fica ali até eu te avisar; porque Herodes está prestes a procurar a criancinha para destruí-la.”
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v40-2-14]]
+
+^<<v40-2-14,14>>^ Levantou-se, pois, e tomou de noite a criancinha e sua mãe, e retirou-se para o Egito,
+
+[[v40-2-15]]
+
+^<<v40-2-15,15>>^ e lá ficou até o falecimento de Herodes, para que se cumprisse o que fora falado por Jeová^&#42;1^ por intermédio do seu profeta, dizendo: “Do Egito chamei o meu filho.”
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v40-2-16]]
+
+^<<v40-2-16,16>>^ Herodes, vendo então que tinha sido logrado pelos astrólogos,^&#42;1^ foi tomado de grande fúria e mandou eliminar todos os meninos em Belém e em todos os seus distritos, de dois anos de idade para baixo, segundo o tempo que tinha cuidadosamente averiguado dos astrólogos.
+
+[NOTE]
+====
+. Ou “magos”.
+====
+
+[[v40-2-17]]
+
+^<<v40-2-17,17>>^ Cumpriu-se assim o que fora falado por intermédio de Jeremias, o profeta, dizendo:
+
+[[v40-2-18]]
+
+^<<v40-2-18,18>>^ “Ouviu-se uma voz em Ramá, choro e muito lamento; era Raquel chorando por seus filhos, não querendo ser consolada, porque eles já não existem.”
+
+[[v40-2-19]]
+
+^<<v40-2-19,19>>^ Tendo Herodes falecido, eis que o anjo de Jeová^&#42;1^ apareceu a José num sonho, no Egito,
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v40-2-20]]
+
+^<<v40-2-20,20>>^ e disse: “Levanta-te, toma a criancinha e sua mãe, e vai para a terra de Israel, porque já morreram os que buscavam a alma^&#42;1^ da criancinha.”
+
+[NOTE]
+====
+. Ou “vida”. Gr.: psy·khén; J17,18,22(hebr.): né·fesh. Veja Ap. 4A.
+====
+
+[[v40-2-21]]
+
+^<<v40-2-21,21>>^ Então ele se levantou, tomou a criancinha e sua mãe, e entrou na terra de Israel.
+
+[[v40-2-22]]
+
+^<<v40-2-22,22>>^ Mas, ouvindo que Arquelau reinava na Judéia em lugar de seu pai Herodes, ficou com medo de partir para lá. Além disso, recebendo em sonho um aviso divino, retirou-se para o território da Galiléia
+
+[[v40-2-23]]
+
+^<<v40-2-23,23>>^ e foi morar numa cidade chamada Nazaré,^&#42;1^ para que se cumprisse o que fora falado por intermédio dos profetas: “Ele será chamado Nazareno.”^&#42;2^
+
+[NOTE]
+====
+. Ou “Cidade [do] rebentão”. Gr.: Na·za·rét; J22(hebr.): Na·tsé·reth.
+. “Nazareno.” J17,18,22(hebr.): Nots·rí. Gr.: Na·zo·raí·os; provavelmente derivado do hebr. né·tser, significando “rebentão”, portanto, figurativamente “prole; descendente”. Veja Is 11:1 e n.: “rebentão”.
+====
+
+'''
+
+xref:040-mateus/040-mateus-001.adoc#v40-1-0[&#60; Capítulo Anterior] | <<v40-2-0,Topo>> | xref:040-mateus/040-mateus-003.adoc#v40-3-0[Próximo Capítulo &#62;]

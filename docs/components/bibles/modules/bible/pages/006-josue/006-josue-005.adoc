@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v6-5-0]]
+=== Josué, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-5-1]]
+
+^<<v6-5-1,1>>^ E sucedeu que, assim que todos os reis dos amorreus que estavam do lado do Jordão que dá para o oeste,^&#42;1^ bem como todos os reis dos cananeus que estavam junto ao mar ouviram que Jeová tinha secado as águas do Jordão diante dos filhos de Israel até que tinham passado, então começaram a derreter-se os seus corações e não se mostrou haver mais alento^&#42;2^ neles por causa dos filhos de Israel.
+
+[NOTE]
+====
+. Lit.: “para o mar”.
+. Ou “espírito; coragem”. Veja 2:11 n.
+====
+
+[[v6-5-2]]
+
+^<<v6-5-2,2>>^ Naquele tempo específico, Jeová disse a Josué: “Faze para ti facas de pederneira^&#42;1^ e circuncida novamente os filhos de Israel, pela segunda vez.”
+
+[NOTE]
+====
+. Lit.: “adagas (espadas) de pedra”. Hebr.: hha·revóhth tsu·rím.
+====
+
+[[v6-5-3]]
+
+^<<v6-5-3,3>>^ Portanto, Josué fez para si facas de pederneira e circuncidou os filhos de Israel em Gibeate-Aralote.^&#42;1^
+
+[NOTE]
+====
+. “Morro dos Prepúcios”, Vg; LXX: “o lugar chamado Morro (Outeiro) dos Prepúcios”.
+====
+
+[[v6-5-4]]
+
+^<<v6-5-4,4>>^ E a razão pela qual Josué fez a circuncisão foi esta: todo o povo que saíra do Egito, os machos, todos os homens de guerra haviam morrido no ermo, na estrada, quando saíram do Egito.
+
+[[v6-5-5]]
+
+^<<v6-5-5,5>>^ Pois, mostrou-se que todo o povo que saiu estava circuncidado, mas a todo o povo nascido no ermo, na estrada, quando saíram do Egito, eles não tinham circuncidado.
+
+[[v6-5-6]]
+
+^<<v6-5-6,6>>^ Porque os filhos de Israel haviam andado quarenta anos no ermo, até que toda a nação dos homens de guerra que saíram do Egito, que não escutaram a voz de Jeová, tinha chegado ao seu fim, havendo-lhes Jeová jurado que nunca os deixaria ver a terra de que Jeová jurara aos seus antepassados que nos havia de dar, uma terra que mana leite e mel.
+
+[[v6-5-7]]
+
+^<<v6-5-7,7>>^ E em seu lugar suscitou os filhos deles. A estes é que Josué circuncidou, porque mostraram ser incircuncisos, visto que não os tinham circuncidado na estrada.
+
+[[v6-5-8]]
+
+^<<v6-5-8,8>>^ E sucedeu que, quando acabaram de circuncidar toda a nação, ficaram sentados no seu lugar no acampamento até que reviveram.
+
+[[v6-5-9]]
+
+^<<v6-5-9,9>>^ Jeová disse então a Josué: “Hoje rolei de cima de vós o vitupério do Egito.” De modo que aquele lugar veio a ser chamado pelo nome de Gilgal^&#42;1^ até o dia de hoje.
+
+[NOTE]
+====
+. Significando “Rolar [de cima]”.
+====
+
+[[v6-5-10]]
+
+^<<v6-5-10,10>>^ E os filhos de Israel permaneceram acampados em Gilgal e passaram a realizar a páscoa no dia quatorze do mês, à noitinha, nas planícies desérticas de Jericó.
+
+[[v6-5-11]]
+
+^<<v6-5-11,11>>^ E começaram a comer do produto da terra, no dia seguinte à páscoa, pães não fermentados e grãos tostados, neste mesmo dia.
+
+[[v6-5-12]]
+
+^<<v6-5-12,12>>^ O maná cessou então no dia seguinte, quando haviam comido dos produtos da terra, e não mais veio a haver maná para os filhos de Israel, e naquele ano começaram a comer dos produtos da terra de Canaã.
+
+[[v6-5-13]]
+
+^<<v6-5-13,13>>^ E sucedeu que, estando Josué perto de Jericó, passou a levantar os olhos e a olhar, e eis que havia ali de pé, na sua frente, um homem com a sua espada desembainhada na sua mão. Josué, pois, chegou-se a ele e disse-lhe: “És tu por nós ou pelos nossos adversários?”
+
+[[v6-5-14]]
+
+^<<v6-5-14,14>>^ A isso ele disse: “Não, mas eu — eu vim agora como príncipe do exército de Jeová.”^&#42;1^ Em vista disso, Josué lançou-se com a face por terra e prostrou-se, e disse-lhe: “Que diz meu senhor ao seu servo?”
+
+[NOTE]
+====
+. Ou “mas eu — como chefe do exército de Jeová”. Hebr.: ki ’aní sar-tseva’-Yehwáh.
+====
+
+[[v6-5-15]]
+
+^<<v6-5-15,15>>^ O príncipe do exército de Jeová disse por sua vez a Josué: “Remove as tuas sandálias dos teus pés, porque o lugar em que estás parado é santo.” Josué fez isso imediatamente.
+
+'''
+
+xref:006-josue/006-josue-004.adoc#v6-4-0[&#60; Capítulo Anterior] | <<v6-5-0,Topo>> | xref:006-josue/006-josue-006.adoc#v6-6-0[Próximo Capítulo &#62;]

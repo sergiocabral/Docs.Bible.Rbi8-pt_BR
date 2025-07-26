@@ -1,0 +1,182 @@
+include::./index.adoc[]
+
+[[v5-12-0]]
+=== Deuteronômio, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-12-1]]
+
+^<<v5-12-1,1>>^ “Estes são os regulamentos e as decisões judiciais que deveis cuidar em cumprir na terra de que Jeová, o Deus de vossos antepassados, certamente te permitirá tomar posse, todos os dias que estiverdes vivos sobre o solo.
+
+[[v5-12-2]]
+
+^<<v5-12-2,2>>^ Deveis definitivamente destruir todos os lugares em que as nações que desapossais serviram os seus deuses, nos montes altos e nos morros, e debaixo de cada árvore frondosa.
+
+[[v5-12-3]]
+
+^<<v5-12-3,3>>^ E tendes de demolir seus altares e destroçar suas colunas sagradas, e deveis queimar em fogo seus postes sagrados^&#42;1^ e cortar as imagens entalhadas dos seus deuses, e tendes de destruir seus nomes daquele lugar.
+
+[NOTE]
+====
+. Ou “suas Axerás”.
+====
+
+[[v5-12-4]]
+
+^<<v5-12-4,4>>^ “Não deveis fazer assim com Jeová, vosso Deus,
+
+[[v5-12-5]]
+
+^<<v5-12-5,5>>^ mas buscareis o lugar que Jeová, vosso Deus, escolher dentre todas as vossas tribos para nele colocar seu nome, para fazê-lo residir [ali],^&#42;1^ e para lá vos chegareis.
+
+[NOTE]
+====
+. Ou “ali, para a sua residência”.
+====
+
+[[v5-12-6]]
+
+^<<v5-12-6,6>>^ E para lá tendes de levar as vossas ofertas queimadas, e os vossos sacrifícios, e as vossas décimas partes,^&#42;1^ e a contribuição da vossa mão, e as vossas ofertas votivas, e as vossas ofertas voluntárias, e os primogênitos da vossa manada e do vosso rebanho.
+
+[NOTE]
+====
+. Ou “vossos dízimos”.
+====
+
+[[v5-12-7]]
+
+^<<v5-12-7,7>>^ E ali tendes de comer perante Jeová, vosso Deus, e tendes de alegrar-vos em todo vosso empreendimento,^&#42;1^ vós e os da vossa casa, porque Jeová, teu Deus, te abençoou.
+
+[NOTE]
+====
+. Ou “em todo o lucro da vossa mão”.
+====
+
+[[v5-12-8]]
+
+^<<v5-12-8,8>>^ “Não deveis fazer segundo tudo o que hoje estamos fazendo aqui, cada um o que é direito aos seus próprios olhos,
+
+[[v5-12-9]]
+
+^<<v5-12-9,9>>^ porque ainda não entrastes no lugar de descanso e na herança que Jeová, teu Deus, te dá.
+
+[[v5-12-10]]
+
+^<<v5-12-10,10>>^ E tendes de atravessar o Jordão e morar na terra que Jeová, vosso Deus, vos dá como propriedade, e ele certamente vos dará descanso de todos os vossos inimigos ao redor, e deveras morareis em segurança.
+
+[[v5-12-11]]
+
+^<<v5-12-11,11>>^ E terá de suceder que, ao lugar que Jeová, vosso Deus, escolher para ali fazer residir seu nome, trareis tudo o que vos ordeno: vossas ofertas queimadas e vossos sacrifícios, vossas décimas partes e a contribuição da vossa mão, e todo o seleto das vossas ofertas votivas que votareis a Jeová.
+
+[[v5-12-12]]
+
+^<<v5-12-12,12>>^ E tereis de alegrar-vos perante Jeová, vosso Deus, vós e vossos filhos, e vossas filhas, e vossos escravos, e vossas escravas, e o levita que está dentro dos vossos portões,^&#42;1^ visto que ele não tem quinhão nem herança convosco.
+
+[NOTE]
+====
+. “Portões”, MSamLXX; SyVg: “cidades”.
+====
+
+[[v5-12-13]]
+
+^<<v5-12-13,13>>^ Guarda-te de não fazeres as tuas ofertas queimadas em qualquer outro lugar que vejas.
+
+[[v5-12-14]]
+
+^<<v5-12-14,14>>^ Mas é no lugar que Jeová escolher numa das tuas tribos que deves fazer a tua oferta queimada e ali deves fazer tudo o que eu te ordeno.
+
+[[v5-12-15]]
+
+^<<v5-12-15,15>>^ “Apenas quando a tua alma o almejar podes abater [animais], e tens de comer carne segundo a bênção de Jeová, teu Deus, dada por ele, dentro de todos os teus portões.^&#42;1^ O impuro e o limpo podem comer dela, como da gazela e como do veado.
+
+[NOTE]
+====
+. “Todos os teus portões”, MSam; LXX: “toda cidade”; SyVg: “(todas) as tuas cidades”.
+====
+
+[[v5-12-16]]
+
+^<<v5-12-16,16>>^ Somente não deveis comer o sangue. Deves derramá-lo na terra como água.
+
+[[v5-12-17]]
+
+^<<v5-12-17,17>>^ Não se te permitirá comer dentro dos teus portões a décima parte dos teus cereais, nem do teu vinho novo, nem do teu azeite, nem os primogênitos da tua manada e do teu rebanho, nem qualquer das tuas ofertas votivas que votares, nem as tuas ofertas voluntárias, nem a contribuição da tua mão.
+
+[[v5-12-18]]
+
+^<<v5-12-18,18>>^ Mas, comê-la-ás perante Jeová, teu Deus, no lugar que Jeová, teu Deus, escolher, tu e teu filho, e tua filha, e teu escravo, e tua escrava, e o levita que está dentro dos teus portões; e tens de alegrar-te perante Jeová, teu Deus, em todo empreendimento teu.
+
+[[v5-12-19]]
+
+^<<v5-12-19,19>>^ Guarda-te para que não abandones o levita, todos os teus dias no teu solo.
+
+[[v5-12-20]]
+
+^<<v5-12-20,20>>^ “Quando Jeová, teu Deus, ampliar o teu território,^&#42;1^ assim como te prometeu, e certamente disseres: ‘Vou comer carne’, porque tua alma almeja comer carne, podes comer carne sempre que tua alma a almejar.
+
+[NOTE]
+====
+. Ou “termo”.
+====
+
+[[v5-12-21]]
+
+^<<v5-12-21,21>>^ Caso seja longe de ti o lugar que Jeová, teu Deus, escolher para ali pôr seu nome, então, assim como te ordenei, tens de abater [algum animal] da tua manada ou do teu rebanho que Jeová te deu e tens de comer dentro dos teus portões, sempre que tua alma a almejar.
+
+[[v5-12-22]]
+
+^<<v5-12-22,22>>^ Do modo em que se come a gazela e o veado, somente assim é que a podes comer: tanto o impuro como o limpo a podem comer.
+
+[[v5-12-23]]
+
+^<<v5-12-23,23>>^ Apenas toma a firme resolução de não comer o sangue, porque o sangue é a alma e não deves comer a alma junto com a carne.
+
+[[v5-12-24]]
+
+^<<v5-12-24,24>>^ Não o deves comer. Deves derramá-lo na terra como água.
+
+[[v5-12-25]]
+
+^<<v5-12-25,25>>^ Não o deves comer, para que te vá bem a ti e a teus filhos depois de ti, pois farás o que é direito aos olhos de Jeová.
+
+[[v5-12-26]]
+
+^<<v5-12-26,26>>^ Deves levar apenas as tuas coisas sagradas que se tornarão tuas e as tuas ofertas votivas, e tens de ir ao lugar que Jeová escolher.
+
+[[v5-12-27]]
+
+^<<v5-12-27,27>>^ E tens de ofertar as tuas ofertas queimadas, a carne e o sangue, no altar de Jeová, teu Deus; e o sangue dos teus sacrifícios deve ser derramado contra o altar de Jeová, teu Deus, mas podes comer a carne.
+
+[[v5-12-28]]
+
+^<<v5-12-28,28>>^ “Observa, e tens de obedecer a todas estas palavras que te ordeno, a fim de que vá bem a ti e a teus filhos depois de ti, por tempo indefinido, porque farás o que é bom e direito aos olhos de Jeová, teu Deus.
+
+[[v5-12-29]]
+
+^<<v5-12-29,29>>^ “Quando Jeová, teu Deus, decepar de diante de ti as nações às quais vais para desapossá-las, então tens de desapossá-las e tens de morar na sua terra.
+
+[[v5-12-30]]
+
+^<<v5-12-30,30>>^ Guarda-te para que não sejas enlaçado depois delas, após terem sido aniquiladas de diante de ti, e para que não indagues pelos seus deuses, dizendo: ‘Como foi que estas nações costumavam servir^&#42;1^ aos seus deuses? E eu, sim, eu farei o mesmo.’
+
+[NOTE]
+====
+. Ou “adorar”. Veja 4:19 n.
+====
+
+[[v5-12-31]]
+
+^<<v5-12-31,31>>^ Não deves fazer assim com Jeová, teu Deus, pois fizeram com os seus deuses tudo o que é detestável a Jeová, o que ele deveras odeia, porque queimam regularmente no fogo até mesmo seus filhos e suas filhas para os seus deuses.^&#42;1^
+
+[NOTE]
+====
+. MLXX terminam aqui o capítulo 12.
+====
+
+[[v5-12-32]]
+
+^<<v5-12-32,32>>^ Deveis cuidar em cumprir cada palavra que vos ordeno. Nada lhe deveis acrescentar nem lhe tirar.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-011.adoc#v5-11-0[&#60; Capítulo Anterior] | <<v5-12-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-013.adoc#v5-13-0[Próximo Capítulo &#62;]

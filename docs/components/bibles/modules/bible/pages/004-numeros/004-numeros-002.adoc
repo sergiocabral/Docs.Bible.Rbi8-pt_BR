@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v4-2-0]]
+=== Números, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-2-1]]
+
+^<<v4-2-1,1>>^ Jeová falou então a Moisés e a Arão, dizendo:
+
+[[v4-2-2]]
+
+^<<v4-2-2,2>>^ “Os filhos de Israel devem acampar-se, cada homem junto à sua divisão [de três tribos], junto aos sinais^&#42;1^ para a casa de seus pais. Devem acampar-se ao redor, diante da tenda de reunião.
+
+[NOTE]
+====
+. “Junto aos sinais.” Hebr.: ve’o·thóth.
+====
+
+[[v4-2-3]]
+
+^<<v4-2-3,3>>^ “E os acampados ao leste, para o nascente, serão [os da] divisão [de três tribos] do acampamento de Judá nos seus exércitos, e o maioral dos filhos de Judá é Nasom, filho de Aminadabe.
+
+[[v4-2-4]]
+
+^<<v4-2-4,4>>^ E seu exército e os registrados deles são setenta e quatro mil e seiscentos.
+
+[[v4-2-5]]
+
+^<<v4-2-5,5>>^ E os acampados ao lado dele serão [os da] tribo de Issacar, e o maioral dos filhos de Issacar é Netanel, filho de Zuar.
+
+[[v4-2-6]]
+
+^<<v4-2-6,6>>^ E seu exército e seus registrados são cinqüenta e quatro mil e quatrocentos.
+
+[[v4-2-7]]
+
+^<<v4-2-7,7>>^ E a tribo de Zebulão; e o maioral dos filhos de Zebulão é Eliabe, filho de Helom.
+
+[[v4-2-8]]
+
+^<<v4-2-8,8>>^ E seu exército e seus registrados são cinqüenta e sete mil e quatrocentos.
+
+[[v4-2-9]]
+
+^<<v4-2-9,9>>^ “Todos os registrados do acampamento de Judá são cento e oitenta e seis mil e quatrocentos nos seus exércitos. Devem partir primeiro.
+
+[[v4-2-10]]
+
+^<<v4-2-10,10>>^ “A divisão [de três tribos] do acampamento de Rubem ficará para o sul nos seus exércitos, e o maioral dos filhos de Rubem é Elizur, filho de Sedeur.
+
+[[v4-2-11]]
+
+^<<v4-2-11,11>>^ E seu exército e seus registrados são quarenta e seis mil e quinhentos.
+
+[[v4-2-12]]
+
+^<<v4-2-12,12>>^ E os acampados ao lado dele serão [os da] tribo de Simeão, e o maioral dos filhos de Simeão é Selumiel, filho de Zurisadai.
+
+[[v4-2-13]]
+
+^<<v4-2-13,13>>^ E seu exército e os registrados deles são cinqüenta e nove mil e trezentos.
+
+[[v4-2-14]]
+
+^<<v4-2-14,14>>^ E a tribo de Gade; e o maioral dos filhos de Gade é Eliasafe, filho de Reuel.^&#42;1^
+
+[NOTE]
+====
+. “Reuel”, MSy; SamVg e 109 mss. hebr.: “Deuel”; LXX: “Raguel”. Veja 1:14 n.
+====
+
+[[v4-2-15]]
+
+^<<v4-2-15,15>>^ E seu exército e os registrados deles são quarenta e cinco mil seiscentos e cinqüenta.
+
+[[v4-2-16]]
+
+^<<v4-2-16,16>>^ “Todos os registrados do acampamento de Rubem são cento e cinqüenta e um mil quatrocentos e cinqüenta nos seus exércitos, e devem partir em segundo lugar.
+
+[[v4-2-17]]
+
+^<<v4-2-17,17>>^ “Quando a tenda de reunião tiver de partir, o acampamento dos levitas estará no meio dos acampamentos.
+“Assim como se devem acampar, assim devem partir, cada um no seu lugar, segundo as suas divisões [de três tribos].
+
+[[v4-2-18]]
+
+^<<v4-2-18,18>>^ “A divisão [de três tribos] do acampamento de Efraim nos seus exércitos ficará para o oeste, e o maioral dos filhos de Efraim é Elisama, filho de Amiúde.
+
+[[v4-2-19]]
+
+^<<v4-2-19,19>>^ E seu exército e os registrados deles são quarenta mil e quinhentos.
+
+[[v4-2-20]]
+
+^<<v4-2-20,20>>^ E ao lado dele estará a tribo de Manassés, e o maioral dos filhos de Manassés é Gamaliel, filho de Pedazur.
+
+[[v4-2-21]]
+
+^<<v4-2-21,21>>^ E seu exército e os registrados deles são trinta e dois mil e duzentos.
+
+[[v4-2-22]]
+
+^<<v4-2-22,22>>^ E a tribo de Benjamim; e o maioral dos filhos de Benjamim é Abidã, filho de Gideoni.
+
+[[v4-2-23]]
+
+^<<v4-2-23,23>>^ E seu exército e os registrados deles são trinta e cinco mil e quatrocentos.
+
+[[v4-2-24]]
+
+^<<v4-2-24,24>>^ “Todos os registrados do acampamento de Efraim são cento e oito mil e cem nos seus exércitos, e devem partir em terceiro lugar.
+
+[[v4-2-25]]
+
+^<<v4-2-25,25>>^ “A divisão [de três tribos] do acampamento de Dã ficará para o norte nos seus exércitos, e o maioral dos filhos de Dã é Aiezer, filho de Amisadai.
+
+[[v4-2-26]]
+
+^<<v4-2-26,26>>^ E seu exército e os registrados deles são sessenta e dois mil e setecentos.
+
+[[v4-2-27]]
+
+^<<v4-2-27,27>>^ E os acampados ao lado dele serão [os da] tribo de Aser, e o maioral dos filhos de Aser é Pagiel, filho de Ocrã.
+
+[[v4-2-28]]
+
+^<<v4-2-28,28>>^ E seu exército e os registrados deles são quarenta e um mil e quinhentos.
+
+[[v4-2-29]]
+
+^<<v4-2-29,29>>^ E a tribo de Naftali; e o maioral dos filhos de Naftali é Aira, filho de Enã.
+
+[[v4-2-30]]
+
+^<<v4-2-30,30>>^ E seu exército e os registrados deles são cinqüenta e três mil e quatrocentos.
+
+[[v4-2-31]]
+
+^<<v4-2-31,31>>^ “Todos os registrados do acampamento de Dã são cento e cinqüenta e sete mil e seiscentos. Devem partir por último — segundo as suas^&#42;1^ divisões [de três tribos].”
+
+[NOTE]
+====
+. “Suas”, isto é, de todo o Israel. Veja v. 17.
+====
+
+[[v4-2-32]]
+
+^<<v4-2-32,32>>^ Estes foram os registrados dos filhos de Israel segundo a casa de seus pais; todos os registrados dos acampamentos nos seus exércitos foram seiscentos e três mil quinhentos e cinqüenta.
+
+[[v4-2-33]]
+
+^<<v4-2-33,33>>^ Mas os levitas não foram registrados entre os filhos de Israel, assim como Jeová mandara a Moisés.
+
+[[v4-2-34]]
+
+^<<v4-2-34,34>>^ E os filhos de Israel passaram a fazer segundo tudo o que Jeová mandara a Moisés. Deste modo se acamparam nas suas divisões [de três tribos] e deste modo partiram, cada um nas suas famílias com respeito à casa de seus pais.
+
+'''
+
+xref:004-numeros/004-numeros-001.adoc#v4-1-0[&#60; Capítulo Anterior] | <<v4-2-0,Topo>> | xref:004-numeros/004-numeros-003.adoc#v4-3-0[Próximo Capítulo &#62;]

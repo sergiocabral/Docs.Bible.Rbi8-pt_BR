@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-76-0]]
+=== Salmos, 76
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, em instrumentos de cordas. Uma melodia. De Asafe. Um cântico._
+
+[[v19-76-1]]
+
+^<<v19-76-1,1>>^ Deus é conhecido em Judá;
+Seu nome é grande em Israel.
+
+[[v19-76-2]]
+
+^<<v19-76-2,2>>^ E seu abrigo mostra ser na própria Salém,
+E sua habitação em Sião.
+
+[[v19-76-3]]
+
+^<<v19-76-3,3>>^ Ali destroçou as hastes ardentes do arco,
+O escudo, e a espada, e a batalha. Selá.
+
+[[v19-76-4]]
+
+^<<v19-76-4,4>>^ Estás envolvido em luz, mais majestoso do que as montanhas de presa.
+
+[[v19-76-5]]
+
+^<<v19-76-5,5>>^ Foram despojados os de coração possante,
+Toscanejaram até que caíram no sono,
+E nenhuns de todos os homens valentes acharam as suas mãos.
+
+[[v19-76-6]]
+
+^<<v19-76-6,6>>^ Diante da tua censura, ó Deus de Jacó, adormeceram profundamente tanto o condutor de carro como o cavalo.
+
+[[v19-76-7]]
+
+^<<v19-76-7,7>>^ Tu, tu és atemorizante,
+E quem pode ficar de pé diante de ti por causa da força da tua ira?
+
+[[v19-76-8]]
+
+^<<v19-76-8,8>>^ Do céu fizeste ouvir o litígio;
+A própria terra temeu e sossegou,
+
+[[v19-76-9]]
+
+^<<v19-76-9,9>>^ Quando Deus se levantou em julgamento
+Para salvar todos os mansos da terra. Selá.
+
+[[v19-76-10]]
+
+^<<v19-76-10,10>>^ Pois o próprio furor do homem^&#42;1^ te elogiará;
+Tu mesmo te cingirás^&#42;2^ do resto do furor.
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+. “Tu mesmo te cingirás”, M; LXXVg: “festejarás (celebrarás) para mim”.
+====
+
+[[v19-76-11]]
+
+^<<v19-76-11,11>>^ Votai e pagai a Jeová, vosso Deus, todos os que estais em volta dele.
+Tragam eles uma dádiva em medo.
+
+[[v19-76-12]]
+
+^<<v19-76-12,12>>^ Ele humilhará^&#42;1^ o espírito de líderes;
+Ele é atemorizante para os reis da terra.
+
+[NOTE]
+====
+. Ou “decepará”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-075.adoc#v19-75-0[&#60; Capítulo Anterior] | <<v19-76-0,Topo>> | xref:019-salmo/019-salmo-077.adoc#v19-77-0[Próximo Capítulo &#62;]

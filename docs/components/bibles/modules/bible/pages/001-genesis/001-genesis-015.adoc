@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v1-15-0]]
+=== Gênesis, 15
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-15-1]]
+
+^<<v1-15-1,1>>^ Depois destas coisas veio a palavra de Jeová a Abrão, numa visão, dizendo: “Não temas, Abrão. Eu sou para ti escudo. Tua recompensa será muito grande.”^&#42;1^
+
+[NOTE]
+====
+. “Sou teu protetor e tua mui grande recompensa”, Vg.
+====
+
+[[v1-15-2]]
+
+^<<v1-15-2,2>>^ Abrão disse a isso: “Soberano Senhor Jeová,^&#42;1^ o que me darás, visto que me vou sem filhos e quem possuirá a minha casa é um homem de Damasco, Eliézer?”
+
+[NOTE]
+====
+. “Soberano Senhor Jeová.” Hebr.: ’Adho·naí Yehwíh. Onde o nome de Deus segue ao título ’Adho·naí, como aqui, note a mudança dos sinais vocálicos em YHWH. BHK reza aqui Yehwíh em vez de Yehwáh; ao passo que Gins. reza Yeho·wíh, em vez de Yeho·wáh. Veja Ap. 1E.
+====
+
+[[v1-15-3]]
+
+^<<v1-15-3,3>>^ E Abrão acrescentou: “Eis que não me tens dado descendente, e eis que um filho dos da minha casa me sucederá como herdeiro.”
+
+[[v1-15-4]]
+
+^<<v1-15-4,4>>^ Mas, eis que a palavra de Jeová para ele foi nestas palavras: “Este homem não te sucederá como herdeiro, mas alguém que virá das tuas próprias entranhas^&#42;1^ te sucederá como herdeiro.”
+
+[NOTE]
+====
+. “Entranhas.” Lit.: “intestinos”.
+====
+
+[[v1-15-5]]
+
+^<<v1-15-5,5>>^ Ele o levou então para fora e disse: “Olha para os céus, por favor, e conta as estrelas, se as puderes contar.” E prosseguiu, dizendo-lhe: “Assim se tornará o teu descendente.”
+
+[[v1-15-6]]
+
+^<<v1-15-6,6>>^ E ele depositou fé^&#42;1^ em Jeová; e este passou a imputar-lhe isso como justiça.
+
+[NOTE]
+====
+. “Depositou fé.” Esta é a primeira menção do exercício da fé, e isso corretamente, porque Ro 4:11 declara ser Abraão o “pai de todos os que têm fé enquanto na incircuncisão”.
+====
+
+[[v1-15-7]]
+
+^<<v1-15-7,7>>^ Acrescentou-lhe então: “Eu sou Jeová, que te fiz sair de Ur dos Caldeus para dar-te esta terra, a fim de tomares posse dela.”
+
+[[v1-15-8]]
+
+^<<v1-15-8,8>>^ A isto ele disse: “Soberano Senhor Jeová,^&#42;1^ por meio de que saberei que tomarei posse dela?”
+
+[NOTE]
+====
+. Hebr.: Yehwíh; LXXP.Oxy.IV.656 originalmente deixou suficiente espaço em branco para caberem quatro letras onde no M ocorria o Tetragrama neste v. :8 Veja The Oxyrhynchus Papyri, Parte IV, editados por B. P. Grenfell e A. S. Hunt, Londres, 1904, pp. 30, 33.
+====
+
+[[v1-15-9]]
+
+^<<v1-15-9,9>>^ Ele lhe disse, por sua vez: “Toma para mim^&#42;1^ uma novilha de três anos, e uma cabra de três anos, e um carneiro de três anos, e uma rola e um pombinho.”
+
+[NOTE]
+====
+. “Mim”, MLXXVg; Sy: “ti”.
+====
+
+[[v1-15-10]]
+
+^<<v1-15-10,10>>^ De modo que tomou todos estes e os cortou pelo meio, e pôs cada parte deles para corresponder à outra, mas as aves não cortou em pedaços.
+
+[[v1-15-11]]
+
+^<<v1-15-11,11>>^ E as aves de rapina começavam a descer sobre os cadáveres, mas Abrão as enxotava.
+
+[[v1-15-12]]
+
+^<<v1-15-12,12>>^ Depois de algum tempo, o sol estava para pôr-se, e caiu um sono profundo sobre Abrão, e eis que caía sobre ele uma grande e aterradora escuridão.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “terror, grande escuridão”.
+====
+
+[[v1-15-13]]
+
+^<<v1-15-13,13>>^ E ele começou a dizer a Abrão: “Sabe com certeza que o teu descendente se tornará residente forasteiro numa terra que não é sua; e eles terão de servir-lhes, e estes certamente os atribularão por quatrocentos anos.
+
+[[v1-15-14]]
+
+^<<v1-15-14,14>>^ Mas eu estou julgando a nação à qual servirão, e depois sairão com muitos bens.
+
+[[v1-15-15]]
+
+^<<v1-15-15,15>>^ Quanto a ti, irás em paz para os teus antepassados; serás enterrado numa boa velhice.
+
+[[v1-15-16]]
+
+^<<v1-15-16,16>>^ Na quarta geração, porém, voltarão para cá, porque ainda não se completou o erro dos amorreus.”
+
+[[v1-15-17]]
+
+^<<v1-15-17,17>>^ O sol se punha então e houve uma profunda escuridão, e eis uma fornalha fumegante e uma tocha acesa que passava entre esses pedaços.
+
+[[v1-15-18]]
+
+^<<v1-15-18,18>>^ Naquele dia Jeová concluiu^&#42;1^ um pacto com Abrão, dizendo: “À tua descendência hei de dar esta terra, desde o rio do Egito até o grande rio, o rio Eufrates:
+
+[NOTE]
+====
+. Lit.: “cortou”. LXX: “pactuou”.
+====
+
+[[v1-15-19]]
+
+^<<v1-15-19,19>>^ os queneus, e os quenizeus, e os cadmoneus,
+
+[[v1-15-20]]
+
+^<<v1-15-20,20>>^ e os hititas, e os perizeus, e os refains,
+
+[[v1-15-21]]
+
+^<<v1-15-21,21>>^ e os amorreus, e os cananeus, e os girgaseus, e os jebuseus.”
+
+'''
+
+xref:001-genesis/001-genesis-014.adoc#v1-14-0[&#60; Capítulo Anterior] | <<v1-15-0,Topo>> | xref:001-genesis/001-genesis-016.adoc#v1-16-0[Próximo Capítulo &#62;]

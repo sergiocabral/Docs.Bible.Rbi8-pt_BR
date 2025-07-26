@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v15-7-0]]
+=== Esdras, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v15-7-1]]
+
+^<<v15-7-1,1>>^ E depois destas coisas, no reinado de Artaxerxes, rei da Pérsia, Esdras, filho de Seraías, filho de Azarias, filho de Hilquias,
+
+[[v15-7-2]]
+
+^<<v15-7-2,2>>^ filho de Salum, filho de Zadoque, filho de Aitube,
+
+[[v15-7-3]]
+
+^<<v15-7-3,3>>^ filho de Amarias, filho de Azarias, filho de Meraiote,
+
+[[v15-7-4]]
+
+^<<v15-7-4,4>>^ filho de Zeraías, filho de Uzi, filho de Buqui,
+
+[[v15-7-5]]
+
+^<<v15-7-5,5>>^ filho de Abisua, filho de Finéias, filho de Eleazar, filho de Arão, o sacerdote principal^&#42;1^ —
+
+[NOTE]
+====
+. Lit.: “o sacerdote-cabeça”. Hebr.: hak·ko·hén ha·ró’sh; Vg: “o sacerdote desde o princípio”.
+====
+
+[[v15-7-6]]
+
+^<<v15-7-6,6>>^ o dito Esdras subiu de Babilônia; ele era copista destro da lei de Moisés, dada por Jeová, o Deus de Israel, de modo que o rei lhe concedeu tudo o que solicitou, segundo a mão de Jeová, seu Deus, sobre ele.
+
+[[v15-7-7]]
+
+^<<v15-7-7,7>>^ Por conseguinte, alguns dos filhos de Israel, e dos sacerdotes, e dos levitas, e dos cantores, e dos porteiros, e dos netineus subiram a Jerusalém no sétimo ano de Artaxerxes, o rei.
+
+[[v15-7-8]]
+
+^<<v15-7-8,8>>^ Finalmente, ele chegou a Jerusalém no quinto mês, isto é, no sétimo ano do rei.
+
+[[v15-7-9]]
+
+^<<v15-7-9,9>>^ Pois, no primeiro [dia] do primeiro mês ele mesmo determinou a subida desde Babilônia, e no primeiro [dia] do quinto mês chegou a Jerusalém, segundo a boa mão de seu Deus sobre ele.
+
+[[v15-7-10]]
+
+^<<v15-7-10,10>>^ Pois o próprio Esdras tinha preparado seu coração para consultar a lei de Jeová e para praticá-la, e para ensinar regulamento e justiça em Israel.
+
+[[v15-7-11]]
+
+^<<v15-7-11,11>>^ E esta é uma cópia da carta que o Rei Artaxerxes deu a Esdras, o sacerdote, o copista, copista das palavras dos mandamentos de Jeová e dos seus regulamentos para com Israel:
+
+[[v15-7-12]]
+
+^<<v15-7-12,12>>^ ^&#42;1^ “Artaxerxes, rei de reis, a Esdras, o sacerdote, copista da lei do Deus dos céus: Aperfeiçoe-se [a paz]. E agora,
+
+[NOTE]
+====
+. A segunda seção de Esdras, escrita em aram., começa aqui e termina com o v. 26. Veja 4:8 n.
+====
+
+[[v15-7-13]]
+
+^<<v15-7-13,13>>^ dei ordem para que todo aquele que no meu domínio real for do povo de Israel, e seus sacerdotes e levitas, que estiver disposto a ir contigo a Jerusalém, deve ir.
+
+[[v15-7-14]]
+
+^<<v15-7-14,14>>^ Considerando que de diante do rei e dos seus sete conselheiros se enviou [uma ordem] para investigar a respeito de Judá e de Jerusalém na lei de teu Deus, que há na tua mão,
+
+[[v15-7-15]]
+
+^<<v15-7-15,15>>^ e para levar a prata e o ouro que o rei e os seus conselheiros deram voluntariamente ao Deus de Israel, cuja residência está em Jerusalém,
+
+[[v15-7-16]]
+
+^<<v15-7-16,16>>^ com toda a prata e o ouro que achares em todo o distrito jurisdicional de Babilônia, junto com a dádiva do povo e dos sacerdotes que deram voluntariamente à casa de seu Deus, que está em Jerusalém;
+
+[[v15-7-17]]
+
+^<<v15-7-17,17>>^ por conseguinte, comprarás prontamente com este dinheiro touros, carneiros, cordeiros e suas ofertas de cereais e suas ofertas de bebida, e os apresentarás sobre o altar da casa de vosso Deus, que está em Jerusalém.
+
+[[v15-7-18]]
+
+^<<v15-7-18,18>>^ “E o que a ti e aos teus irmãos parecer bom fazer com o resto da prata e do ouro, segundo a vontade de vosso Deus, isso fareis.
+
+[[v15-7-19]]
+
+^<<v15-7-19,19>>^ E os vasos que te são dados para o serviço da casa de teu Deus, entrega integralmente perante Deus em Jerusalém.
+
+[[v15-7-20]]
+
+^<<v15-7-20,20>>^ E o resto das necessidades da casa de teu Deus, que te cabe dar, darás da casa dos tesouros do rei.
+
+[[v15-7-21]]
+
+^<<v15-7-21,21>>^ “E por mim mesmo, Artaxerxes, o rei, foi dada ordem a todos os tesoureiros de além do Rio, para que se faça prontamente tudo o que Esdras, o sacerdote, copista da lei do Deus dos céus, pedir de vós,
+
+[[v15-7-22]]
+
+^<<v15-7-22,22>>^ até cem talentos^&#42;1^ de prata, e cem coros^&#42;2^ de trigo, e cem batos^&#42;3^ de vinho, e cem batos de azeite, e sal sem limite.
+
+[NOTE]
+====
+. Veja 8:26 n.
+. Um coro equivalia a 220 l.
+. Um bato equivalia a 22 l. Veja Ez 45:11 n.
+====
+
+[[v15-7-23]]
+
+^<<v15-7-23,23>>^ Faça-se com zelo tudo o que for segundo a ordem do Deus dos céus para a casa do Deus dos céus, para que não venha a haver fúria contra o domínio real do rei e contra os seus filhos.
+
+[[v15-7-24]]
+
+^<<v15-7-24,24>>^ E a vós se faz saber que, com respeito a qualquer dos sacerdotes e dos levitas, dos músicos,^&#42;1^ dos porteiros, dos netineus e dos trabalhadores desta casa de Deus, não se permite que se lhes imponha imposto, tributo ou pedágio.
+
+[NOTE]
+====
+. Ou “dos cantores [acompanhados por música]”.
+====
+
+[[v15-7-25]]
+
+^<<v15-7-25,25>>^ “E tu, Esdras, segundo a sabedoria do teu Deus, que há na tua mão, designa magistrados e juízes, para que julguem continuamente todo o povo que está além do Rio, sim, todos os que conhecem as leis de teu Deus; e a todo aquele que não [as] conhecer, vós instruireis.
+
+[[v15-7-26]]
+
+^<<v15-7-26,26>>^ E quanto a todo aquele que não se tornar praticante da lei de teu Deus e da lei do rei, execute-se nele prontamente o julgamento, quer para a morte, quer para o desterro, quer para uma multa de dinheiro, quer para o encarceramento.”^&#42;1^
+
+[NOTE]
+====
+. Aqui termina a segunda seção de Esdras, escrita em aram. Veja v. 12 n.
+====
+
+[[v15-7-27]]
+
+^<<v15-7-27,27>>^ Bendito seja Jeová, o Deus de nossos antepassados, que pôs tais coisas no coração do rei, para embelezar a casa de Jeová, que está em Jerusalém!
+
+[[v15-7-28]]
+
+^<<v15-7-28,28>>^ E para comigo ele usou de benevolência^&#42;1^ perante o rei e seus conselheiros, e referente a todos os príncipes poderosos do rei. E eu, da minha parte, fortaleci-me de acordo com a mão de Jeová, meu Deus, sobre mim, e passei a reunir de Israel os cabeças, para que subissem comigo.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+'''
+
+xref:015-esdras/015-esdras-006.adoc#v15-6-0[&#60; Capítulo Anterior] | <<v15-7-0,Topo>> | xref:015-esdras/015-esdras-008.adoc#v15-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v11-5-0]]
+=== 1 Reis, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v11-5-1]]
+
+^<<v11-5-1,1>>^ E Hirão, rei de Tiro, passou a enviar seus servos a Salomão, pois tinha ouvido que era a ele que haviam ungido rei em lugar de seu pai; porque Hirão sempre se mostrara ser um que amava^&#42;1^ a Davi.
+
+[NOTE]
+====
+. Ou “amigo”. Lat.: a·mí·cus.
+====
+
+[[v11-5-2]]
+
+^<<v11-5-2,2>>^ Salomão, por sua vez, mandou dizer a Hirão:
+
+[[v11-5-3]]
+
+^<<v11-5-3,3>>^ “Tu mesmo bem sabes que Davi, meu pai, não pôde construir uma casa ao nome de Jeová, seu Deus, por causa da guerra com que o cercaram, até que Jeová os pôs debaixo das solas dos seus pés.
+
+[[v11-5-4]]
+
+^<<v11-5-4,4>>^ E agora Jeová, meu Deus, me deu descanso em todo o redor. Não há opositor^&#42;1^ e não acontece nada de mal.
+
+[NOTE]
+====
+. “Opositor.” Hebr.: Sa·tán; sir.: sa·ta·na’, “o opositor”; lat.: Sá·tan.
+====
+
+[[v11-5-5]]
+
+^<<v11-5-5,5>>^ E eis que estou pensando em construir^&#42;1^ uma casa ao nome de Jeová, meu Deus, assim como Jeová prometeu a Davi, meu pai, dizendo: ‘Teu filho, a quem porei sobre o teu trono em teu lugar, ele é quem construirá uma casa ao meu nome.’
+
+[NOTE]
+====
+. Lit.: “digo [a mim mesmo] para construir”.
+====
+
+[[v11-5-6]]
+
+^<<v11-5-6,6>>^ E agora, ordena que cortem para mim cedros^&#42;1^ do Líbano; e os meus próprios servos mostrarão estar com os teus servos, e eu te darei o salário dos teus servos segundo tudo o que disseres, pois tu mesmo bem sabes que não há entre nós quem saiba cortar árvores como os sidônios.”
+
+[NOTE]
+====
+. Ou “abetos”. Gr.: xý·la, “árvores”.
+====
+
+[[v11-5-7]]
+
+^<<v11-5-7,7>>^ E sucedeu que, assim que Hirão ouviu as palavras de Salomão, começou a alegrar-se grandemente e passou a dizer: “Bendito é hoje Jeová por ter dado a Davi um filho sábio sobre este povo numeroso!”
+
+[[v11-5-8]]
+
+^<<v11-5-8,8>>^ Por conseguinte, Hirão mandou dizer a Salomão: “Ouvi o que me mandaste [dizer]. Da minha parte, farei todo o teu agrado no assunto das madeiras de cedros e das madeiras de juníperos.
+
+[[v11-5-9]]
+
+^<<v11-5-9,9>>^ Meus servos mesmos as levarão do Líbano para baixo ao mar; e eu, da minha parte, as farei em jangadas [para irem] por mar diretamente ao lugar de que me mandarás avisar; e ali as hei de mandar desfazer, e tu, da tua parte, as carregarás; e tu, da tua parte, farás o meu agrado, dando-me alimento para os da minha casa.”
+
+[[v11-5-10]]
+
+^<<v11-5-10,10>>^ Hirão tornou-se assim fornecedor de madeiras de cedros e de madeiras de juníperos para Salomão, segundo todo o seu agrado.
+
+[[v11-5-11]]
+
+^<<v11-5-11,11>>^ E Salomão, da sua parte, deu a Hirão vinte mil coros de trigo como mantimentos para os da sua casa e vinte coros^&#42;1^ de azeite batido.^&#42;2^ Era isto o que Salomão dava a Hirão de ano em ano.
+
+[NOTE]
+====
+. Veja 4:22 n.: “coros”.
+. Isto é, óleo especialmente fino e dispendioso feito por se socarem ou baterem as olivas num pilão; as olivas, às vezes, são esmagadas com os pés.
+====
+
+[[v11-5-12]]
+
+^<<v11-5-12,12>>^ E Jeová, da sua parte, deu a Salomão sabedoria, assim como lhe prometera; e veio a haver paz entre Hirão e Salomão, e ambos passaram a concluir um pacto.
+
+[[v11-5-13]]
+
+^<<v11-5-13,13>>^ E o Rei Salomão fazia subir de todo o Israel os recrutados para trabalho forçado; e os recrutados para trabalho forçado somaram trinta mil homens.
+
+[[v11-5-14]]
+
+^<<v11-5-14,14>>^ E ele os enviava ao Líbano em turnos de dez mil por mês. Continuavam por um mês no Líbano [e] por dois meses nos seus lares; e Adonirão estava sobre os recrutados para trabalho forçado.
+
+[[v11-5-15]]
+
+^<<v11-5-15,15>>^ E Salomão veio a ter setenta mil carregadores e oitenta mil talhadores no monte,
+
+[[v11-5-16]]
+
+^<<v11-5-16,16>>^ além dos prepostos principescos^&#42;1^ de Salomão, que estavam sobre a obra, três mil e trezentos capatazes sobre o povo que se empenhava na obra.
+
+[NOTE]
+====
+. Lit.: “príncipes dos prepostos”.
+====
+
+[[v11-5-17]]
+
+^<<v11-5-17,17>>^ Concordemente, o rei ordenou que se extraíssem grandes pedras, pedras caras, para lançar o alicerce da casa com pedras lavradas.
+
+[[v11-5-18]]
+
+^<<v11-5-18,18>>^ Portanto, os construtores de Salomão e os construtores de Hirão, bem como os gebalitas, faziam o corte e preparavam as madeiras e as pedras para a construção da casa.
+
+'''
+
+xref:011-1-reis/011-1-reis-004.adoc#v11-4-0[&#60; Capítulo Anterior] | <<v11-5-0,Topo>> | xref:011-1-reis/011-1-reis-006.adoc#v11-6-0[Próximo Capítulo &#62;]

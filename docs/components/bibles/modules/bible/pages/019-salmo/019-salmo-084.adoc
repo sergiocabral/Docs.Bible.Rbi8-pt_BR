@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v19-84-0]]
+=== Salmos, 84
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Para o regente, segundo Gitite.^&#42;1^ Dos filhos de Corá. Uma melodia._
+
+[[v19-84-1]]
+
+^<<v19-84-1,1>>^ Quão amável é o teu grandioso tabernáculo,
+Ó Jeová dos exércitos!
+
+[[v19-84-2]]
+
+^<<v19-84-2,2>>^ Minha alma teve saudades e também se definhou pelos pátios de Jeová.
+Meu próprio coração e minha própria carne gritam de júbilo para o Deus vivente.^&#42;1^
+
+[NOTE]
+====
+. Ou “o Divino vivente”. Hebr.: ’El·hhaí.
+====
+
+[[v19-84-3]]
+
+^<<v19-84-3,3>>^ Até mesmo o próprio pássaro tem achado casa,
+E a andorinha um ninho para si,
+Onde ela pôs os seus filhotes —
+Teu grandioso altar,^&#42;1^ ó Jeová dos exércitos, meu Rei e meu Deus!^&#42;2^
+
+[NOTE]
+====
+. Lit.: “teus altares”, pl., provavelmente para denotar grandiosidade. Veja “grandioso tabernáculo” no v. 1.
+. “E meu Deus.” Hebr.: wE’·lo·haí.
+====
+
+[[v19-84-4]]
+
+^<<v19-84-4,4>>^ Felizes os que moram na tua casa!
+Continuam ainda a louvar-te. Selá.
+
+[[v19-84-5]]
+
+^<<v19-84-5,5>>^ Felizes os homens^&#42;1^ cuja força está em ti,^&#42;2^
+Em cujo coração estão as estradas principais.
+
+[NOTE]
+====
+. Lit.: “homem terreno”. Hebr.: ’a·dhám.
+. “Ti”, MVg; LXX: “ti, ó Jeová”; T: “teu Meimra”.
+====
+
+[[v19-84-6]]
+
+^<<v19-84-6,6>>^ Passando adiante pela baixada dos lentiscos,
+Fazem dela um manancial;
+Até mesmo em bênçãos se envolve o instrutor.
+
+[[v19-84-7]]
+
+^<<v19-84-7,7>>^ Estarão indo de energia vital em energia vital;
+Cada um aparece a Deus em Sião.^&#42;1^
+
+[NOTE]
+====
+. “Verão o Deus dos deuses em Sião”, mediante uma ligeira correção no M; LXXSyVg: “o Deus dos deuses será visto em Sião”.
+====
+
+[[v19-84-8]]
+
+^<<v19-84-8,8>>^ Ó Jeová Deus dos^&#42;1^ exércitos, ouve deveras a minha oração;
+Dá deveras ouvidos, ó Deus de Jacó. Selá.
+
+[NOTE]
+====
+. “Deus dos.” Hebr.: ’Elo·hím.
+====
+
+[[v19-84-9]]
+
+^<<v19-84-9,9>>^ Ó escudo nosso, vê, ó Deus,
+E olha para a face do teu ungido.^&#42;1^
+
+[NOTE]
+====
+. Ou “teu messias”. Hebr.: meshi·hhé·kha; gr.: khri·stoú; sir.: meshi·hhakh; lat.: chrí·sti.
+====
+
+[[v19-84-10]]
+
+^<<v19-84-10,10>>^ Pois um dia nos teus pátios é melhor que mil [em outra parte].
+Escolhi ficar de pé no limiar da casa de meu Deus,
+Em vez de andar em volta nas tendas da iniqüidade.
+
+[[v19-84-11]]
+
+^<<v19-84-11,11>>^ Porque Jeová Deus é sol e escudo;
+Favor e glória é o que ele dá.
+O próprio Jeová não reterá nada de bom dos que andam sem defeito.
+
+[[v19-84-12]]
+
+^<<v19-84-12,12>>^ Ó Jeová dos exércitos, feliz o homem^&#42;1^ que confia em ti.
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+'''
+
+xref:019-salmo/019-salmo-083.adoc#v19-83-0[&#60; Capítulo Anterior] | <<v19-84-0,Topo>> | xref:019-salmo/019-salmo-085.adoc#v19-85-0[Próximo Capítulo &#62;]

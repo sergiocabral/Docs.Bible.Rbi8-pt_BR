@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v19-86-0]]
+=== Salmos, 86
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma oração de Davi._
+
+[[v19-86-1]]
+
+^<<v19-86-1,1>>^ Inclina teu ouvido, ó Jeová. Responde-me,
+Porque estou atribulado e sou pobre.
+
+[[v19-86-2]]
+
+^<<v19-86-2,2>>^ Guarda deveras a minha alma, pois eu sou leal.
+Salva teu servo — tu és meu Deus — que está confiando em ti.
+
+[[v19-86-3]]
+
+^<<v19-86-3,3>>^ Mostra-me favor, ó Jeová,^&#42;1^
+Pois continuo a invocar-te o dia inteiro.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-86-4]]
+
+^<<v19-86-4,4>>^ Alegra a alma do teu servo,
+Porque a ti, ó Jeová,^&#42;1^ elevo a minha própria alma.
+
+[NOTE]
+====
+. Veja v. 3 n.
+====
+
+[[v19-86-5]]
+
+^<<v19-86-5,5>>^ Porque tu, ó Jeová,^&#42;1^ és bom e estás pronto a perdoar;
+E é abundante a benevolência para com todos os que te invocam.
+
+[NOTE]
+====
+. Veja v. 3 n.
+====
+
+[[v19-86-6]]
+
+^<<v19-86-6,6>>^ Dá deveras ouvidos à minha oração, ó Jeová;
+E presta deveras atenção à voz dos meus rogos.
+
+[[v19-86-7]]
+
+^<<v19-86-7,7>>^ Vou invocar-te no dia da minha aflição,
+Pois tu me responderás.
+
+[[v19-86-8]]
+
+^<<v19-86-8,8>>^ Não há nenhum igual a ti entre os deuses,^&#42;1^ ó Jeová,^&#42;2^
+Nem há quaisquer trabalhos iguais aos teus.
+
+[NOTE]
+====
+. “Entre os deuses.” Hebr.: va·’elo·hím; gr.: the·oís; lat.: dí·is; T: “anjos excelsos”.
+. Veja v. 3 n.
+====
+
+[[v19-86-9]]
+
+^<<v19-86-9,9>>^ Todas as nações que fizeste chegarão
+E curvar-se-ão diante de ti, ó Jeová,^&#42;1^
+E darão glória ao teu nome.
+
+[NOTE]
+====
+. Veja v. 3 n.
+====
+
+[[v19-86-10]]
+
+^<<v19-86-10,10>>^ Pois tu és grande e fazes coisas maravilhosas;
+Tu, só tu, és Deus.
+
+[[v19-86-11]]
+
+^<<v19-86-11,11>>^ Instrui-me, ó Jeová, acerca do teu caminho.
+Andarei na tua verdade.
+Unifica meu coração para temer o teu nome.
+
+[[v19-86-12]]
+
+^<<v19-86-12,12>>^ Elogio-te de todo o meu coração, ó Jeová,^&#42;1^ meu Deus,
+E glorificarei o teu nome por tempo indefinido,
+
+[NOTE]
+====
+. Veja v. 3 n.
+====
+
+[[v19-86-13]]
+
+^<<v19-86-13,13>>^ Porque a tua benevolência é grande para comigo
+E livraste a minha alma do Seol, do seu lugar mais baixo.
+
+[[v19-86-14]]
+
+^<<v19-86-14,14>>^ Ó Deus, os próprios presunçosos levantaram-se contra mim;
+E a própria assembléia dos que são tirânicos tem procurado a minha alma,
+E não te puseram diante de si.
+
+[[v19-86-15]]
+
+^<<v19-86-15,15>>^ Tu, porém, ó Jeová,^&#42;1^ és um Deus^&#42;2^ misericordioso e clemente,
+Vagaroso em irar-se e abundante em benevolência e veracidade.^&#42;3^
+
+[NOTE]
+====
+. Veja v. 3 n.
+. “Deus.” Hebr.: ’El.
+. Ou “e verdade”. Hebr.: we·’eméth.
+====
+
+[[v19-86-16]]
+
+^<<v19-86-16,16>>^ Vira-te para mim e mostra-me favor.
+Dá deveras a tua força ao teu servo
+E salva deveras o filho de tua escrava.
+
+[[v19-86-17]]
+
+^<<v19-86-17,17>>^ Elabora comigo um sinal significando bondade,
+Para que os que me odeiam [o] vejam e fiquem envergonhados.
+Porque tu mesmo, ó Jeová, me ajudaste e me consolaste.
+
+'''
+
+xref:019-salmo/019-salmo-085.adoc#v19-85-0[&#60; Capítulo Anterior] | <<v19-86-0,Topo>> | xref:019-salmo/019-salmo-087.adoc#v19-87-0[Próximo Capítulo &#62;]

@@ -1,0 +1,134 @@
+include::./index.adoc[]
+
+[[v5-6-0]]
+=== Deuteronômio, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-6-1]]
+
+^<<v5-6-1,1>>^ “Ora, eis o mandamento, os regulamentos e as decisões judiciais que Jeová, vosso Deus, vos mandou ensinar, para os cumprirdes na terra à qual estais passando para lá para tomar posse dela;
+
+[[v5-6-2]]
+
+^<<v5-6-2,2>>^ a fim de que temas a Jeová, teu Deus, para guardares todos os seus estatutos e seus mandamentos que vos ordeno, tu e teu filho, e teu neto, todos os dias da tua vida, e para que teus dias se prolonguem.
+
+[[v5-6-3]]
+
+^<<v5-6-3,3>>^ E tens de escutar, ó Israel, e cuidar em cumpri-los, para que te vá bem e vos torneis muitíssimos, assim como te prometeu Jeová, o Deus de teus antepassados, com respeito à terra^&#42;1^ que mana leite e mel.
+
+[NOTE]
+====
+. Lit.: “a ti, a terra”, MSam; LXX: “para dar-te a terra”; Sy: “a ti, que te daria uma terra”.
+====
+
+[[v5-6-4]]
+
+^<<v5-6-4,4>>^ “Escuta, ó Israel: Jeová, nosso Deus, é um só Jeová.^&#42;1^
+
+[NOTE]
+====
+. Ou “Jeová é nosso Deus, Jeová é um só [ou: há um só Jeová]”. Lit.: “Jeová, nosso Deus, [é] Jeová um.” Hebr.: Yehwáh ’Elo·héh·nu Yehwáh ’e·hhádh.
+====
+
+[[v5-6-5]]
+
+^<<v5-6-5,5>>^ E tens de amar a Jeová, teu Deus, de todo o teu coração, e de toda a tua alma, e de toda a tua força vital.
+
+[[v5-6-6]]
+
+^<<v5-6-6,6>>^ E estas palavras que hoje te ordeno têm de estar sobre o teu coração;
+
+[[v5-6-7]]
+
+^<<v5-6-7,7>>^ e tens de inculcá-las a teu filho, e tens de falar delas sentado na tua casa e andando pela estrada, e ao deitar-te e ao levantar-te.
+
+[[v5-6-8]]
+
+^<<v5-6-8,8>>^ E tens de atá-las como sinal na tua mão, e elas têm de servir de frontal entre os teus olhos;
+
+[[v5-6-9]]
+
+^<<v5-6-9,9>>^ e tens de escrevê-las sobre as ombreiras^&#42;1^ da tua casa e nos teus portões.
+
+[NOTE]
+====
+. “Ombreiras da.” Hebr.: mezu·zóth, que é a base do moderno termo judaico “mezuzá”. Veja Êx 12:7 n.: “ombreiras”.
+====
+
+[[v5-6-10]]
+
+^<<v5-6-10,10>>^ “E tem de suceder que, quando Jeová, teu Deus, te introduzir na terra de que jurou aos teus antepassados, Abraão, Isaque e Jacó, que ta havia de dar, cidades grandes e de bom aspecto, que não construíste,
+
+[[v5-6-11]]
+
+^<<v5-6-11,11>>^ e casas cheias de todas as coisas boas e que não encheste, e cisternas escavadas que não escavaste, vinhedos e oliveiras que não plantaste, e tiveres comido e te tiveres fartado,
+
+[[v5-6-12]]
+
+^<<v5-6-12,12>>^ guarda-te para que não te esqueças de Jeová que te fez sair da terra do Egito, da casa dos escravos.
+
+[[v5-6-13]]
+
+^<<v5-6-13,13>>^ É a Jeová, teu Deus, que deves temer e a ele deves servir,^&#42;1^ e pelo seu nome deves jurar.
+
+[NOTE]
+====
+. “Deves servir (adorar).” Hebr.: tha·‛avódh; gr.: la·treú·seis, “prestarás serviço sagrado”. Veja Êx 3:12 n.
+====
+
+[[v5-6-14]]
+
+^<<v5-6-14,14>>^ Não deveis andar seguindo outros deuses, quaisquer deuses dos povos que há ao redor de vós,
+
+[[v5-6-15]]
+
+^<<v5-6-15,15>>^ (pois Jeová, teu Deus, no teu meio, é um Deus que exige devoção exclusiva,) para que não se acenda contra ti a ira de Jeová, teu Deus, e ele te tenha de aniquilar da superfície do solo.
+
+[[v5-6-16]]
+
+^<<v5-6-16,16>>^ “Não deveis pôr Jeová, vosso Deus, à prova, assim como o pusestes à prova em Massá.^&#42;1^
+
+[NOTE]
+====
+. Significando “Prova; Provação”.
+====
+
+[[v5-6-17]]
+
+^<<v5-6-17,17>>^ Deveis terminantemente guardar os mandamentos de Jeová, vosso Deus, e os seus testemunhos e os seus regulamentos que ele te ordenou.
+
+[[v5-6-18]]
+
+^<<v5-6-18,18>>^ E tens de fazer o que é direito e bom aos olhos de Jeová, para que te vá bem e deveras entres e tomes posse da boa terra que Jeová jurou aos teus antepassados,
+
+[[v5-6-19]]
+
+^<<v5-6-19,19>>^ empurrando de diante de ti todos os teus inimigos, assim como Jeová prometeu.
+
+[[v5-6-20]]
+
+^<<v5-6-20,20>>^ “Caso teu filho te pergunte num dia futuro, dizendo: ‘Que significam os testemunhos, e os regulamentos, e as decisões judiciais que Jeová, nosso Deus, vos ordenou?’
+
+[[v5-6-21]]
+
+^<<v5-6-21,21>>^ então tens de dizer a teu filho: ‘Tornamo-nos escravos de Faraó, no Egito, mas Jeová passou a fazer-nos sair do Egito, com mão forte.
+
+[[v5-6-22]]
+
+^<<v5-6-22,22>>^ Por isso, Jeová estava pondo sinais e milagres, grandes e calamitosos, sobre o Egito, sobre Faraó e sobre todos os de sua casa, diante dos nossos olhos.
+
+[[v5-6-23]]
+
+^<<v5-6-23,23>>^ E ele nos fez sair de lá, a fim de nos trazer para cá, para dar-nos a terra que havia jurado aos nossos antepassados.
+
+[[v5-6-24]]
+
+^<<v5-6-24,24>>^ Portanto, Jeová nos mandou que cumpríssemos todos estes regulamentos, temendo sempre a Jeová, nosso Deus, para o nosso bem, a fim de que ficássemos vivos assim como no dia de hoje.
+
+[[v5-6-25]]
+
+^<<v5-6-25,25>>^ E significará para nós justiça cuidarmos em cumprir todo este mandamento perante Jeová, nosso Deus, assim como nos mandou.’
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-005.adoc#v5-5-0[&#60; Capítulo Anterior] | <<v5-6-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-007.adoc#v5-7-0[Próximo Capítulo &#62;]

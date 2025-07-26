@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v2-11-0]]
+=== Êxodo, 11
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-11-1]]
+
+^<<v2-11-1,1>>^ E Jeová passou a dizer a Moisés: “Vou trazer mais uma praga sobre Faraó e sobre o Egito. Depois ele vos mandará embora daqui. Por ocasião de vos mandar embora de vez, ele vos expulsará literalmente daqui.
+
+[[v2-11-2]]
+
+^<<v2-11-2,2>>^ Fala agora aos ouvidos do povo, para que cada homem peça ao seu companheiro e cada mulher à sua companheira objetos de prata e objetos de ouro.”
+
+[[v2-11-3]]
+
+^<<v2-11-3,3>>^ Concordemente, Jeová deu ao povo favor aos olhos dos egípcios. O homem Moisés, também, era muito grande na terra do Egito aos olhos dos servos de Faraó e aos olhos do povo.
+
+[[v2-11-4]]
+
+^<<v2-11-4,4>>^ E Moisés prosseguiu, dizendo: “Assim disse Jeová: ‘Por volta da meia-noite sairei pelo meio do Egito,
+
+[[v2-11-5]]
+
+^<<v2-11-5,5>>^ e terá de morrer todo primogênito na terra do Egito, desde o primogênito de Faraó que está sentado no seu trono, até o primogênito da serva que está junto ao moinho manual e todo primogênito de animal.
+
+[[v2-11-6]]
+
+^<<v2-11-6,6>>^ E certamente virá a haver um grande clamor em toda a terra do Egito, tal como ainda nunca ocorreu, e tal como nunca mais ocorrerá.
+
+[[v2-11-7]]
+
+^<<v2-11-7,7>>^ Mas nenhum cão agitará avidamente sua língua^&#42;1^ contra qualquer dos filhos de Israel, desde o homem até o animal; para que saibais que Jeová pode fazer distinção entre os egípcios e os filhos de Israel.’^&#42;2^
+
+[NOTE]
+====
+. “Nenhum cão rosnará com a sua língua”, LXX; Vg: “nenhum cão latirá”. Veja Jos 10:21.
+. “Filhos de Israel.” Ou “israelitas”.
+====
+
+[[v2-11-8]]
+
+^<<v2-11-8,8>>^ E todos estes servos teus certamente descerão a mim e se prostrarão diante de mim, dizendo: ‘Vai, tu e todo o povo que segue as tuas pisadas.’ E depois é que sairei.” Com isso saiu de diante de Faraó em ira acesa.
+
+[[v2-11-9]]
+
+^<<v2-11-9,9>>^ Jeová disse então a Moisés: “Faraó não vos escutará, para que os meus milagres aumentem na terra do Egito.”
+
+[[v2-11-10]]
+
+^<<v2-11-10,10>>^ E Moisés e Arão realizaram todos estes milagres diante de Faraó; mas Jeová deixava o coração de Faraó ficar obstinado, de modo que não mandou os filhos de Israel para fora do seu país.
+
+'''
+
+xref:002-exodo/002-exodo-010.adoc#v2-10-0[&#60; Capítulo Anterior] | <<v2-11-0,Topo>> | xref:002-exodo/002-exodo-012.adoc#v2-12-0[Próximo Capítulo &#62;]

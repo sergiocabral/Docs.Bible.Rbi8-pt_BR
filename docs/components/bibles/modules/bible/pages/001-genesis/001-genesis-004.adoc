@@ -1,0 +1,188 @@
+include::./index.adoc[]
+
+[[v1-4-0]]
+=== Gênesis, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-4-1]]
+
+^<<v1-4-1,1>>^ Adão teve então relações com Eva, sua esposa, e ela ficou grávida. A seu tempo, ela deu à luz Caim^&#42;1^ e disse: “Produzi^&#42;2^ um homem com o auxílio de Jeová.”
+
+[NOTE]
+====
+. Significando “Algo Produzido”. Eva explica por que lhe deu tal nome.
+. “Produzi.” Hebr.: qa·ni·thí, de qa·náh, “produzir”.
+====
+
+[[v1-4-2]]
+
+^<<v1-4-2,2>>^ Mais tarde deu novamente à luz, seu irmão Abel.
+E Abel tornou-se pastor de ovelhas, mas Caim tornou-se lavrador do solo.
+
+[[v1-4-3]]
+
+^<<v1-4-3,3>>^ E sucedeu, ao fim de algum tempo,^&#42;1^ que Caim passou a trazer alguns frutos do solo como oferenda a Jeová.
+
+[NOTE]
+====
+. Lit.: “de dias”.
+====
+
+[[v1-4-4]]
+
+^<<v1-4-4,4>>^ Mas, quanto a Abel, ele também trouxe dos primogênitos do seu rebanho, sim, dos seus pedaços gordos. Ora, ao passo que Jeová olhava com favor para Abel e para sua oferenda,
+
+[[v1-4-5]]
+
+^<<v1-4-5,5>>^ não olhava com favor para Caim e para sua oferenda. E acendeu-se muito a ira de Caim, e seu semblante começou a descair.
+
+[[v1-4-6]]
+
+^<<v1-4-6,6>>^ Então Jeová disse a Caim: “Por que se acendeu a tua ira e por que descaiu o teu semblante?
+
+[[v1-4-7]]
+
+^<<v1-4-7,7>>^ Se te voltares para fazer o bem, não haverá enaltecimento? Mas, se não te voltares para fazer o bem, há o pecado agachado à entrada e tem desejo ardente de ti; e conseguirás tu dominá-lo?”
+
+[[v1-4-8]]
+
+^<<v1-4-8,8>>^ Depois, Caim disse a Abel, seu irmão: [“Vamos ao campo.”]^&#42;1^ Sucedeu, pois, enquanto estavam no campo, que Caim passou a atacar Abel, seu irmão, e o matou.
+
+[NOTE]
+====
+. SamLXXItSy inserem estas palavras entre colchetes; Vg: “Saiamos”; M as omite; alguns mss. e edições apresentam aqui um intervalo.
+====
+
+[[v1-4-9]]
+
+^<<v1-4-9,9>>^ Mais tarde, Jeová disse a Caim: “Onde está Abel, teu irmão?”, e ele disse: “Não sei. Sou eu guardião de meu irmão?”
+
+[[v1-4-10]]
+
+^<<v1-4-10,10>>^ A isto ele disse: “Que fizeste? Escuta!^&#42;1^ O sangue^&#42;2^ de teu irmão está clamando a mim desde o solo.
+
+[NOTE]
+====
+. Lit.: “A voz de.”
+. Lit.: “sangues”, modificado por “clamando”.
+====
+
+[[v1-4-11]]
+
+^<<v1-4-11,11>>^ E agora, maldito és, banido do solo, o qual abriu a sua boca para receber da tua mão o sangue de teu irmão.
+
+[[v1-4-12]]
+
+^<<v1-4-12,12>>^ Quando lavrares o solo, não te dará de volta seu poder.^&#42;1^ Tornar-te-ás errante e fugitivo na terra.”
+
+[NOTE]
+====
+. Ou “seu produto”. Hebr.: ko·hháh.
+====
+
+[[v1-4-13]]
+
+^<<v1-4-13,13>>^ A isto Caim disse a Jeová: “Minha punição pelo erro é grande demais para suportar.
+
+[[v1-4-14]]
+
+^<<v1-4-14,14>>^ Eis que neste dia realmente me expulsas da superfície do solo e ficarei escondido da tua face; e tenho de tornar-me errante e fugitivo na terra, e é certo que quem me achar me matará.”
+
+[[v1-4-15]]
+
+^<<v1-4-15,15>>^ Então Jeová lhe disse: “Por esta causa,^&#42;1^ quem matar a Caim terá de sofrer vingança sete vezes.”
+E Jeová estabeleceu assim um sinal para Caim, a fim de que não fosse golpeado por aquele que o achasse.
+
+[NOTE]
+====
+. “Por esta causa.” Hebr.: la·khén; LXXSyVg entendem que o texto original hebr. reze lo’ khen e por isso o vertem: “Não assim!”
+====
+
+[[v1-4-16]]
+
+^<<v1-4-16,16>>^ Com isso, Caim foi embora de diante da face de Jeová e foi morar na terra da Fuga,^&#42;1^ ao leste do Éden.
+
+[NOTE]
+====
+. Ou “Node”.
+====
+
+[[v1-4-17]]
+
+^<<v1-4-17,17>>^ Caim teve depois relações com a sua esposa, e ela ficou grávida e deu à luz Enoque. Empenhou-se então em construir uma cidade e como nome deu à cidade o nome de seu filho Enoque.
+
+[[v1-4-18]]
+
+^<<v1-4-18,18>>^ Mais tarde nasceu Irade a Enoque. E Irade tornou-se pai de Meujael, e Meujael tornou-se pai de Metusael, e Metusael tornou-se pai de Lameque.
+
+[[v1-4-19]]
+
+^<<v1-4-19,19>>^ E Lameque passou a tomar para si duas esposas. O nome da primeira era Ada e o nome da segunda era Zilá.
+
+[[v1-4-20]]
+
+^<<v1-4-20,20>>^ A seu tempo, Ada deu à luz Jabal. Ele mostrou ser o fundador dos que moram em tendas e têm gado.
+
+[[v1-4-21]]
+
+^<<v1-4-21,21>>^ E o nome do seu irmão era Jubal. Ele mostrou ser o fundador^&#42;1^ de todos os que manejam a harpa e o pífaro.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “pai”.
+. Ou “flauta”. Possivelmente uma combinação de pífaros musicais.
+====
+
+[[v1-4-22]]
+
+^<<v1-4-22,22>>^ Quanto à Zilá, ela também deu à luz Tubalcaim, forjador^&#42;1^ de toda sorte de ferramenta de cobre e de ferro. E a irmã de Tubalcaim era Naamá.
+
+[NOTE]
+====
+. Lit.: “martelador”.
+====
+
+[[v1-4-23]]
+
+^<<v1-4-23,23>>^ Por conseguinte, Lameque compôs estas palavras^&#42;1^ para as suas esposas Ada e Zilá:
+“Ouvi a minha voz, ó esposas de Lameque;
+Dai ouvidos à minha declaração:^&#42;2^
+Matei um homem^&#42;3^ por contundir-me,^&#42;4^
+Sim, um jovem, por dar-me uma pancada.^&#42;5^
+
+[NOTE]
+====
+. “Por conseguinte . . . compôs estas palavras.” Lit.: “E . . . passou a dizer”, no imperfeito. (Veja Ap. 3C.) O verbo “compor” é apropriado neste caso, porque aquilo que passou a produzir era poético.
+. Ou “meu cântico (poema)”. Hebr.: ’im·ra·thí. Nas Escrituras, esta palavra é usada em composições poéticas.
+. A partícula hebr. ki que precede a palavra ’ish, “um homem”, apenas introduz o poema e por isso não precisa ser traduzida.
+. Lit.: “pela minha ferida”.
+. Lit.: “pela minha contusão”.
+====
+
+[[v1-4-24]]
+
+^<<v1-4-24,24>>^ Se Caim há de ser vingado sete vezes,
+Então Lameque setenta vezes e sete.”
+
+[[v1-4-25]]
+
+^<<v1-4-25,25>>^ E Adão passou a ter novamente relações com a sua esposa, de modo que ela deu à luz um filho e chamou-o pelo nome de Sete,^&#42;1^ porque, segundo ela disse: “Deus designou outro descendente^&#42;2^ em lugar de Abel, visto que Caim o matou.”
+
+[NOTE]
+====
+. Significando “Designado; Posto; Colocado”, no sentido de repor ou substituir.
+. Ou “prole; posteridade”.
+====
+
+[[v1-4-26]]
+
+^<<v1-4-26,26>>^ E a Sete nasceu também um filho e ele passou a chamá-lo pelo nome de Enos. Naquele tempo se principiou^&#42;1^ a invocar o nome de Jeová.
+
+[NOTE]
+====
+. Lit.: “Naquele tempo se começou.”
+====
+
+'''
+
+xref:001-genesis/001-genesis-003.adoc#v1-3-0[&#60; Capítulo Anterior] | <<v1-4-0,Topo>> | xref:001-genesis/001-genesis-005.adoc#v1-5-0[Próximo Capítulo &#62;]

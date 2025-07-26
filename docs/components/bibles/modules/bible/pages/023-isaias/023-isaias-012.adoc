@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v23-12-0]]
+=== Isaías, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-12-1]]
+
+^<<v23-12-1,1>>^ E naquele dia seguramente dirás: “Agradecer-te-ei, ó Jeová, pois, [embora] te irasses comigo, tua ira recuou gradualmente e passaste a consolar-me.
+
+[[v23-12-2]]
+
+^<<v23-12-2,2>>^ Eis que Deus^&#42;1^ é minha salvação. Confiarei e não ficarei apavorado; porque Jah^&#42;2^ Jeová^&#42;3^ é minha força e [meu]^&#42;4^ poder,^&#42;5^ e ele veio a ser minha salvação.”
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+. “Jah.” Hebr.: Yah. Veja Êx 15:2 n.: “Jah”; Sal 68:4 n.
+. “Jah Jeová.” Hebr.: Yah Yehwáh. Esta combinação só ocorre aqui e em 26:4.
+. “Meu”, 1QIsaLXXSyVg e dois mss. hebr.
+. Ou “melodia”. LXXVg: “louvor”. Veja Êx 15:2 n.: “poder”.
+====
+
+[[v23-12-3]]
+
+^<<v23-12-3,3>>^ Com exultação haveis de tirar água dos mananciais de salvação.
+
+[[v23-12-4]]
+
+^<<v23-12-4,4>>^ E naquele dia certamente direis: “Agradecei a Jeová! Invocai o seu nome. Tornai conhecidas entre os povos as suas ações. Fazei menção de que seu nome deve ser sublimado.
+
+[[v23-12-5]]
+
+^<<v23-12-5,5>>^ Entoai melodias a Jeová, porque agiu magnificamente. Isto se deve dar a conhecer em toda a terra.^&#42;1^
+
+[NOTE]
+====
+. “A terra.” Hebr.: ha·’á·rets.
+====
+
+[[v23-12-6]]
+
+^<<v23-12-6,6>>^ “Grita estridentemente e grita de júbilo, ó moradora^&#42;1^ de Sião, pois grande no teu^&#42;2^ meio é o Santo de Israel.”
+
+[NOTE]
+====
+. Ou “população”, hebr. fem. sing., considerada coletivamente como mulher.
+. “Teu”, hebr. fem., isto é, “moradora de Sião”.
+====
+
+'''
+
+xref:023-isaias/023-isaias-011.adoc#v23-11-0[&#60; Capítulo Anterior] | <<v23-12-0,Topo>> | xref:023-isaias/023-isaias-013.adoc#v23-13-0[Próximo Capítulo &#62;]

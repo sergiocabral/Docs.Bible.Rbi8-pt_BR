@@ -1,0 +1,116 @@
+include::./index.adoc[]
+
+[[v9-3-0]]
+=== 1 Samuel, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-3-1]]
+
+^<<v9-3-1,1>>^ Entrementes, o rapaz Samuel ministrava a Jeová diante de Eli, e a palavra da parte de Jeová havia ficado rara naqueles dias; não se divulgava visão.
+
+[[v9-3-2]]
+
+^<<v9-3-2,2>>^ Sucedeu então, naquele dia, que Eli estava deitado no seu lugar, e seus olhos já haviam principiado a turvar-se; não podia enxergar.
+
+[[v9-3-3]]
+
+^<<v9-3-3,3>>^ E a lâmpada de Deus^&#42;1^ ainda não estava apagada, e Samuel estava deitado no templo de Jeová onde se achava a arca de Deus.
+
+[NOTE]
+====
+. “A lâmpada de Deus”, isto é, o candelabro. Veja Le 24:2, 3.
+====
+
+[[v9-3-4]]
+
+^<<v9-3-4,4>>^ E Jeová passou a chamar Samuel.^&#42;1^ A isso ele disse: “Eis-me aqui.”
+
+[NOTE]
+====
+. “Passou a chamar Samuel”, MSyVg; LXX: “chamou: ‘Samuel, Samuel!’” Veja v. 10.
+====
+
+[[v9-3-5]]
+
+^<<v9-3-5,5>>^ E ele foi correndo a Eli e dizendo: “Eis-me aqui, pois me chamaste.” Mas ele disse: “Não te chamei. Torna a deitar-te.” Portanto, ele foi e se deitou.
+
+[[v9-3-6]]
+
+^<<v9-3-6,6>>^ E Jeová foi chamá-lo novamente: “Samuel!” Em vista disso, Samuel levantou-se e foi a Eli, e disse: “Eis-me aqui, pois me chamaste.” Mas ele disse: “Não te chamei, meu filho. Torna a deitar-te.”
+
+[[v9-3-7]]
+
+^<<v9-3-7,7>>^ (No que se referia a Samuel, ainda não viera a conhecer a Jeová e ainda não se começara a revelar-lhe a palavra de Jeová.)
+
+[[v9-3-8]]
+
+^<<v9-3-8,8>>^ Portanto, Jeová chamou novamente, pela terceira vez: “Samuel!” Então ele se levantou e foi a Eli, e disse: “Eis-me aqui, pois tens de ter-me chamado.”
+E Eli começou a compreender que era Jeová quem chamava o rapaz.
+
+[[v9-3-9]]
+
+^<<v9-3-9,9>>^ Por conseguinte, Eli disse a Samuel: “Vai, deita-te, e tem de dar-se que, se ele te chamar, terás de dizer: ‘Fala, Jeová, pois o teu servo está escutando.’” Portanto, Samuel foi e se deitou no seu lugar.
+
+[[v9-3-10]]
+
+^<<v9-3-10,10>>^ Jeová veio então e tomou sua posição, e chamou como das outras vezes: “Samuel, Samuel!” Então Samuel disse: “Fala, pois o teu servo está escutando.”
+
+[[v9-3-11]]
+
+^<<v9-3-11,11>>^ E Jeová prosseguiu, dizendo a Samuel: “Eis que faço em Israel algo que, ouvindo-o alguém, lhe tinirão ambos os ouvidos.
+
+[[v9-3-12]]
+
+^<<v9-3-12,12>>^ Naquele dia cumprirei para com Eli tudo o que eu disse com respeito à sua casa, desde o princípio até o fim.
+
+[[v9-3-13]]
+
+^<<v9-3-13,13>>^ E tens de dizer-lhe^&#42;1^ que estou julgando a sua casa por tempo indefinido pelo erro de que tem sabido, porque^&#42;2^ os filhos dele estão invocando o mal sobre Deus^&#42;3^ e ele não os reprovou.
+
+[NOTE]
+====
+. “E tens de dizer”, em harmonia com o v. 15; MLXXSyVg: “E eu disse.”
+. Segundo MSy; com uma ligeira emenda: “por ele saber que”; LXX: “pelas injustiças de seus filhos, porque”.
+. “Deus”, originalmente, mas emendado pelos soferins para rezar: “para si mesmos”. Uma das Dezoito Emendas. Gr.: The·ón, “Deus”. Veja Ap. 2B.
+====
+
+[[v9-3-14]]
+
+^<<v9-3-14,14>>^ E é por isso que tenho jurado à casa de Eli que o erro da casa de Eli não ficará isento da punição, por meio de sacrifício ou por meio de oferta, por tempo indefinido.”
+
+[[v9-3-15]]
+
+^<<v9-3-15,15>>^ E Samuel ficou deitado até à manhã.^&#42;1^ Então abriu as portas da casa de Jeová. E Samuel tinha medo de contar a Eli a aparição.
+
+[NOTE]
+====
+. LXX acrescenta: “e ele se levantou de manhã cedo”.
+====
+
+[[v9-3-16]]
+
+^<<v9-3-16,16>>^ Mas Eli chamou Samuel e disse: “Samuel, meu filho!” Então ele disse: “Eis-me aqui.”
+
+[[v9-3-17]]
+
+^<<v9-3-17,17>>^ E ele prosseguiu, dizendo: “Qual é a palavra que ele te falou? Por favor, não a ocultes de mim. Assim te faça Deus e assim lhe acrescente mais, se ocultares de mim uma palavra de toda palavra que ele te falou.”
+
+[[v9-3-18]]
+
+^<<v9-3-18,18>>^ Portanto, Samuel contou-lhe todas as palavras e não lhe ocultou nada. Então ele disse: “É de Jeová. Faça ele o que for bom aos seus olhos.”
+
+[[v9-3-19]]
+
+^<<v9-3-19,19>>^ E Samuel continuou a crescer, e o próprio Jeová mostrou estar com ele e não fez cair por terra nenhuma de todas as suas palavras.
+
+[[v9-3-20]]
+
+^<<v9-3-20,20>>^ E todo o Israel, desde Dã até Berseba, começou a perceber que Samuel estava acreditado para a posição de profeta de Jeová.
+
+[[v9-3-21]]
+
+^<<v9-3-21,21>>^ E Jeová passou a aparecer novamente em Silo, porque Jeová se revelou a Samuel, em Silo, pela palavra de Jeová.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-002.adoc#v9-2-0[&#60; Capítulo Anterior] | <<v9-3-0,Topo>> | xref:009-1-samuel/009-1-samuel-004.adoc#v9-4-0[Próximo Capítulo &#62;]

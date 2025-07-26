@@ -1,0 +1,136 @@
+include::./index.adoc[]
+
+[[v36-1-0]]
+=== Sofonias, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v36-1-1]]
+
+^<<v36-1-1,1>>^ A palavra de Jeová que veio a haver para Sofonias, filho de Cusi, filho de Gedalias, filho de Amarias, filho de Ezequias, nos dias de Josias, filho de Amom, rei de Judá:
+
+[[v36-1-2]]
+
+^<<v36-1-2,2>>^ “Sem falta acabarei com tudo na superfície do solo”, é a pronunciação de Jeová.
+
+[[v36-1-3]]
+
+^<<v36-1-3,3>>^ “Acabarei com o homem terreno e com o animal. Acabarei com a criatura voadora dos céus e com os peixes do mar, e com as pedras de tropeço junto com os iníquos; e deceparei o gênero humano^&#42;1^ da superfície do solo”, é a pronunciação de Jeová.^&#42;2^
+
+[NOTE]
+====
+. “O gênero humano.” Hebr.: ha·’a·dhám.
+. Veja Ap. 1C sec. 2.
+====
+
+[[v36-1-4]]
+
+^<<v36-1-4,4>>^ “E eu vou estender a minha mão contra Judá e contra todos os habitantes de Jerusalém, e vou decepar deste lugar os que restarem de Baal,^&#42;1^ o nome dos sacerdotes de deuses estrangeiros^&#42;2^ junto com os sacerdotes,
+
+[NOTE]
+====
+. “Baal.” Hebr.: hab·Bá·‛al, nome do deus falso; gr. e lat.: Bá·al.
+. “Dos sacerdotes de deuses estrangeiros.” Hebr.: hak·kema·rím; Vg: “guardiães de templo”.
+====
+
+[[v36-1-5]]
+
+^<<v36-1-5,5>>^ e os que se curvam nos terraços diante do exército dos céus, e os que se curvam, fazendo juramentos a Jeová e fazendo juramentos por Malcão,^&#42;1^
+
+[NOTE]
+====
+. “Por Malcão.” Hebr.: beMal·kám; sir.: beMal·kum; Vg: “por Melcom”; LXX: “por seu rei”.
+====
+
+[[v36-1-6]]
+
+^<<v36-1-6,6>>^ e os que retrocedem de seguir a Jeová e que não procuraram a Jeová e não o consultaram.”
+
+[[v36-1-7]]
+
+^<<v36-1-7,7>>^ Cala-te diante do Soberano Senhor Jeová; porque está próximo o dia de Jeová, pois Jeová preparou um sacrifício; ele santificou os seus convidados.
+
+[[v36-1-8]]
+
+^<<v36-1-8,8>>^ “E terá de acontecer, no dia do sacrifício de Jeová, que vou voltar a [minha] atenção para os príncipes, e para os filhos do rei, e para todos os que usam vestuário estrangeiro.
+
+[[v36-1-9]]
+
+^<<v36-1-9,9>>^ E vou voltar a [minha] atenção para todo aquele que naquele dia trepar ao palanque,^&#42;1^ os que encherem a casa de seus amos^&#42;2^ com violência e engano.
+
+[NOTE]
+====
+. Ou “estrado”; ou: “limiar”. Possivelmente o palanque ou tablado do trono do rei.
+. Ou “seu grandioso amo”. Hebr.: ’adho·neh·hém, pl. de ’a·dhóhn. Veja Gên 39:2 n.
+====
+
+[[v36-1-10]]
+
+^<<v36-1-10,10>>^ E naquele dia”, é a pronunciação de Jeová, “terá de ocorrer o som dum clamor procedente do Portão do Peixe, e um uivo do segundo bairro, e um grande estrondo desde os morros.
+
+[[v36-1-11]]
+
+^<<v36-1-11,11>>^ Uivai, habitantes de Mactés,^&#42;1^ pois foi silenciado todo o povo comerciante; foram decepados todos os que pesavam a prata.
+
+[NOTE]
+====
+. Lit.: “do Almofariz”. Hebr.: ham·Makh·tésh. Pelo visto trata-se dum setor de Jerusalém na parte superior do Vale Central (ou: Tiropeom), perto do Portão do Peixe e do segundo bairro.
+====
+
+[[v36-1-12]]
+
+^<<v36-1-12,12>>^ “E naquele tempo terá de acontecer que vasculharei Jerusalém com lâmpadas e vou voltar a [minha] atenção para os homens^&#42;1^ que ficam rígidos sobre as suas borras [e] que dizem no seu coração: ‘Jeová não fará o que é bom e não fará o que é mau.’
+
+[NOTE]
+====
+. “Os homens.” Hebr.: ha·’ana·shím, pl. de ’ish.
+====
+
+[[v36-1-13]]
+
+^<<v36-1-13,13>>^ E sua riqueza terá de ficar para a rapina e suas casas, um baldio desolado. E construirão casas, mas não [as] ocuparão; e plantarão vinhedos, mas não beberão o vinho deles.
+
+[[v36-1-14]]
+
+^<<v36-1-14,14>>^ “Está próximo o grande dia de Jeová.^&#42;1^ Está próximo e se apressa muitíssimo. O ruído do dia de Jeová é amargo. Ali o poderoso^&#42;2^ deixa escapar um grito.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 2.
+. “O poderoso.” Hebr.: gib·bóhr. Veja Gên 10:8 n.
+====
+
+[[v36-1-15]]
+
+^<<v36-1-15,15>>^ Este dia é dia de fúria, dia de aflição e de angústia, dia de tempestade e de desolação, dia de escuridão e de trevas, dia de nuvens e de densas trevas,
+
+[[v36-1-16]]
+
+^<<v36-1-16,16>>^ dia de buzina^&#42;1^ e de sinal de alarme, contra as cidades fortificadas e contra as altas torres de ângulo.
+
+[NOTE]
+====
+. Ou “shofar”. Hebr.: shoh·fár.
+====
+
+[[v36-1-17]]
+
+^<<v36-1-17,17>>^ E vou causar aflição à humanidade,^&#42;1^ e hão de andar como cegos; porque foi contra Jeová que eles pecaram. E seu sangue será realmente derramado como pó e suas vísceras como fezes.
+
+[NOTE]
+====
+. Ou “aos homens terrenos”. Hebr.: la·’a·dhám.
+====
+
+[[v36-1-18]]
+
+^<<v36-1-18,18>>^ Nem a sua prata nem o seu ouro os poderá livrar no dia da fúria de Jeová; mas toda a terra^&#42;1^ será devorada pelo fogo do seu zelo, porque ele fará uma exterminação, sim, uma terrível,^&#42;2^ de todos os habitantes da terra.”
+
+[NOTE]
+====
+. “Toda a terra.” Hebr.: kol-ha·’á·rets.
+. Ou “sim, um terror repentino”, mediante uma correção.
+====
+
+'''
+
+xref:035-habacuque/035-habacuque-003.adoc#v35-3-0[&#60; Capítulo Anterior] | <<v36-1-0,Topo>> | xref:036-sofonias/036-sofonias-002.adoc#v36-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,160 @@
+include::./index.adoc[]
+
+[[v18-10-0]]
+=== Jó, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-10-1]]
+
+^<<v18-10-1,1>>^ “Minha alma certamente se enfada da minha vida.
+Vou externar a minha preocupação comigo mesmo.^&#42;1^
+Vou falar na amargura da minha alma!
+
+[NOTE]
+====
+. “Comigo mesmo”, MVg; LXX: “com ele”.
+====
+
+[[v18-10-2]]
+
+^<<v18-10-2,2>>^ Direi a Deus:^&#42;1^ ‘Não me pronuncies iníquo.
+Faze-me saber por que é que contendes comigo.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elóh·ah.
+====
+
+[[v18-10-3]]
+
+^<<v18-10-3,3>>^ É bom para ti fazeres o errado,
+Rejeitares [o fruto da] labuta das tuas mãos,^&#42;1^
+E realmente reluzires sobre o conselho dos iníquos?
+
+[NOTE]
+====
+. Ou “palmas”.
+====
+
+[[v18-10-4]]
+
+^<<v18-10-4,4>>^ Acaso tens olhos de carne,
+Ou vês assim como o homem mortal vê?
+
+[[v18-10-5]]
+
+^<<v18-10-5,5>>^ São os teus dias como os dias do homem mortal,
+Ou os teus anos iguais aos dias dum varão vigoroso,
+
+[[v18-10-6]]
+
+^<<v18-10-6,6>>^ Que tentes achar o meu erro
+E continues a procurar o meu pecado?
+
+[[v18-10-7]]
+
+^<<v18-10-7,7>>^ Isso apesar de saberes que não estou em erro,
+E não há quem livre da tua própria mão?
+
+[[v18-10-8]]
+
+^<<v18-10-8,8>>^ As tuas próprias mãos me modelaram, de modo que me fizeram
+Em inteireza, em toda a volta, e ainda assim me tragarias.
+
+[[v18-10-9]]
+
+^<<v18-10-9,9>>^ Lembra-te, por favor, de que me fizeste de barro
+E ao pó me farás voltar.
+
+[[v18-10-10]]
+
+^<<v18-10-10,10>>^ Não passaste a despejar-me como o próprio leite
+E a coalhar-me como o queijo?
+
+[[v18-10-11]]
+
+^<<v18-10-11,11>>^ De pele e carne passaste a vestir-me,
+E com ossos e tendões passaste a tecer-me.
+
+[[v18-10-12]]
+
+^<<v18-10-12,12>>^ Vida e benevolência^&#42;1^ fizeste comigo;
+E teu próprio cuidado guardou meu espírito.^&#42;2^
+
+[NOTE]
+====
+. Ou “amor leal”.
+. “Meu espírito (fôlego).” Hebr.: ru·hhí; gr.: pneú·ma; lat.: spí·ri·tum.
+====
+
+[[v18-10-13]]
+
+^<<v18-10-13,13>>^ E estas coisas escondeste no teu coração.
+Bem sei que estas coisas estão contigo.
+
+[[v18-10-14]]
+
+^<<v18-10-14,14>>^ Se pequei e tu me estavas vigiando,
+E do meu erro não me tens por inocente;
+
+[[v18-10-15]]
+
+^<<v18-10-15,15>>^ Se realmente estou errado, ai de mim!
+E [se] realmente tenho razão, não posso levantar minha cabeça,
+Empanturrado de desonra e saturado de tribulação.
+
+[[v18-10-16]]
+
+^<<v18-10-16,16>>^ E [se] ela agir altaneiramente, tu me caçarás como leãozinho
+E te mostrarás novamente maravilhoso no meu caso.
+
+[[v18-10-17]]
+
+^<<v18-10-17,17>>^ Produzirás novas testemunhas^&#42;1^ tuas na minha frente
+E farás maior teu vexame comigo;
+Trabalhos e mais trabalhos estão comigo.^&#42;2^
+
+[NOTE]
+====
+. “Testemunhas”, MVg; LXX: “testes”; Sy: “armas”.
+. Ou “um turno de trabalho compulsório após outro está comigo”.
+====
+
+[[v18-10-18]]
+
+^<<v18-10-18,18>>^ Portanto, por que me fizeste sair da madre?
+Se pudesse ter expirado,^&#42;1^ que nem mesmo um olho me pudesse ter visto,
+
+[NOTE]
+====
+. Ou: “Expire eu.”
+====
+
+[[v18-10-19]]
+
+^<<v18-10-19,19>>^ Aí eu me teria tornado como se não tivesse vindo a existir;
+Teria sido levado do ventre à sepultura.’
+
+[[v18-10-20]]
+
+^<<v18-10-20,20>>^ Não são poucos os meus dias? Que desista de mim,
+Que deixe de atentar para mim, a fim de que eu fique um pouco risonho
+
+[[v18-10-21]]
+
+^<<v18-10-21,21>>^ Antes de ir-me embora — e não voltarei —
+Para a terra de escuridão e de sombra tenebrosa,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “sombra da morte”.
+====
+
+[[v18-10-22]]
+
+^<<v18-10-22,22>>^ Para a terra de obscuridade igual às trevas, de sombra tenebrosa
+E de desordem, onde não reluz mais do que as trevas [reluzem].”
+
+'''
+
+xref:018-jo/018-jo-009.adoc#v18-9-0[&#60; Capítulo Anterior] | <<v18-10-0,Topo>> | xref:018-jo/018-jo-011.adoc#v18-11-0[Próximo Capítulo &#62;]

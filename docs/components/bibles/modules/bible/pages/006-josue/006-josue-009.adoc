@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v6-9-0]]
+=== Josué, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-9-1]]
+
+^<<v6-9-1,1>>^ E sucedeu que, assim que isso foi ouvido por todos os reis que se achavam do lado do Jordão na região montanhosa e na Sefelá,^&#42;1^ e ao longo de toda a costa do Grande Mar, e^&#42;2^ defronte do Líbano, os hititas e os amorreus, os cananeus, os perizeus, os heveus e os jebuseus,
+
+[NOTE]
+====
+. Ou “na terra baixa”.
+. “E”, LXX; Vg: “também”; M omite isso.
+====
+
+[[v6-9-2]]
+
+^<<v6-9-2,2>>^ todos eles começaram a reunir-se para unanimemente travar guerra contra Josué e Israel.
+
+[[v6-9-3]]
+
+^<<v6-9-3,3>>^ E os habitantes de Gibeão ouviram o que Josué havia feito a Jericó e a Ai.
+
+[[v6-9-4]]
+
+^<<v6-9-4,4>>^ Portanto eles, de sua própria iniciativa, agiram com astúcia e se proveram de mantimentos, e tomaram sacas estragadas pelo uso para os seus jumentos, e odres de vinho estragados, e rebentados, e amarrados,
+
+[[v6-9-5]]
+
+^<<v6-9-5,5>>^ e [puseram] sandálias gastas e remendadas nos pés e mantos gastos sobre si mesmos, e todo o pão das suas provisões mostrou-se ressequido e em migalhas.
+
+[[v6-9-6]]
+
+^<<v6-9-6,6>>^ Então foram ter com Josué no acampamento em Gilgal e disseram a ele e aos homens de Israel: “Viemos duma terra distante. E agora, concluí um pacto conosco.”
+
+[[v6-9-7]]
+
+^<<v6-9-7,7>>^ Nisso os homens de Israel disseram aos heveus: “Talvez moreis na nossa vizinhança. Como, então, poderíamos concluir^&#42;1^ um pacto convosco?”
+
+[NOTE]
+====
+. Lit.: “poderia eu [coletivamente] cortar”.
+====
+
+[[v6-9-8]]
+
+^<<v6-9-8,8>>^ Eles, por sua vez, disseram a Josué: “Somos os teus servos.”^&#42;1^
+Então Josué lhes disse: “Quem sois e donde viestes?”
+
+[NOTE]
+====
+. Ou “escravos”.
+====
+
+[[v6-9-9]]
+
+^<<v6-9-9,9>>^ A isso lhe disseram: “É duma terra mui distante que teus servos vieram por causa do nome de Jeová, teu Deus, pois ouvimos sua fama e tudo o que ele fez no Egito,
+
+[[v6-9-10]]
+
+^<<v6-9-10,10>>^ e tudo o que ele fez aos dois reis dos amorreus que estavam do outro lado do Jordão, a saber, a Síon, rei de Hésbon, e a Ogue, rei de Basã, que estava em Astarote.
+
+[[v6-9-11]]
+
+^<<v6-9-11,11>>^ Por isso, os nossos anciãos e todos os habitantes de nossa terra disseram-nos o seguinte: ‘Tomai provisões na vossa mão para a jornada e ide ao encontro deles, e tendes de dizer-lhes: “Somos os vossos servos. E agora, concluí um pacto conosco.”’
+
+[[v6-9-12]]
+
+^<<v6-9-12,12>>^ Este pão que temos estava quente quando o tiramos das nossas casas como provisão para nós no dia em que saímos para vir a vós aqui, e agora, eis que está ressequido e ficou em migalhas.
+
+[[v6-9-13]]
+
+^<<v6-9-13,13>>^ E estes são os odres de vinho que enchemos quando novos, e eis que rebentaram, e estes nossos mantos e sandálias gastaram-se por causa da jornada muito longa.”
+
+[[v6-9-14]]
+
+^<<v6-9-14,14>>^ Em vista disso, os homens tomaram das suas provisões e não foram consultar a boca de Jeová.
+
+[[v6-9-15]]
+
+^<<v6-9-15,15>>^ E Josué foi fazer paz com eles e concluir com eles um pacto para deixá-los viver, e assim lhes juraram os maiorais da assembléia.
+
+[[v6-9-16]]
+
+^<<v6-9-16,16>>^ E sucedeu que, ao fim de três dias, depois de terem concluído um pacto com eles, chegaram a ouvir que estavam perto deles e que moravam na sua vizinhança.
+
+[[v6-9-17]]
+
+^<<v6-9-17,17>>^ Os filhos de Israel partiram então e chegaram no terceiro dia às cidades deles, e suas cidades eram Gibeão, e Quefira, e Beerote, e Quiriate-Jearim.
+
+[[v6-9-18]]
+
+^<<v6-9-18,18>>^ E os filhos de Israel não os golpearam, visto que os maiorais da assembléia lhes haviam jurado por Jeová, o Deus de Israel. E toda a assembléia começou a resmungar contra os maiorais.
+
+[[v6-9-19]]
+
+^<<v6-9-19,19>>^ Em vista disso, todos os maiorais disseram a toda a assembléia: “Nós, da nossa parte, lhes juramos por Jeová, o Deus de Israel, e agora não se nos permite tocar neles.
+
+[[v6-9-20]]
+
+^<<v6-9-20,20>>^ Isto é o que faremos com eles, deixando-os viver,^&#42;1^ para que não venha sobre nós nenhuma indignação por causa do juramento que lhes fizemos.”
+
+[NOTE]
+====
+. “Deixando . . . viver.” No hebr., este é um verbo no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v6-9-21]]
+
+^<<v6-9-21,21>>^ Portanto, os maiorais lhes disseram: “Que vivam e se tornem ajuntadores^&#42;1^ de lenha e tiradores de água para toda a assembléia, assim como os maiorais lhes prometeram.”
+
+[NOTE]
+====
+. Ou “cortadores”.
+====
+
+[[v6-9-22]]
+
+^<<v6-9-22,22>>^ Josué os chamou então e lhes falou, dizendo: “Por que nos lograstes, dizendo: ‘Estamos muito longe de vós’, quando morais no nosso próprio meio?
+
+[[v6-9-23]]
+
+^<<v6-9-23,23>>^ E agora sois gente maldita, e nunca será decepada de vós a condição de escravo, e de serdes ajuntadores^&#42;1^ de lenha e tiradores de água para a casa do meu Deus.”
+
+[NOTE]
+====
+. Lit.: “e um escravo e ajuntadores”.
+====
+
+[[v6-9-24]]
+
+^<<v6-9-24,24>>^ Então responderam a Josué e disseram: “Foi porque se declarou explicitamente aos teus servos que Jeová, teu Deus, ordenara a Moisés, seu servo, dar-vos todo o país e aniquilar todos os habitantes do país de diante de vós, e ficamos com muito medo pelas nossas almas,^&#42;1^ por vossa causa. Por isso fizemos esta coisa.
+
+[NOTE]
+====
+. “Pelas nossas almas (vidas).” Hebr.: lenaf·sho·théh·nu; gr.: psy·khón; lat.: a·ni- má·bus.
+====
+
+[[v6-9-25]]
+
+^<<v6-9-25,25>>^ E agora, eis que estamos na tua mão. O que for bom e direito aos teus olhos fazer conosco, faze.”
+
+[[v6-9-26]]
+
+^<<v6-9-26,26>>^ E ele passou a fazer assim com eles e a livrá-los da mão dos filhos de Israel, e estes não os mataram.
+
+[[v6-9-27]]
+
+^<<v6-9-27,27>>^ Por conseguinte, Josué os fez^&#42;1^ naquele dia ajuntadores de lenha e tiradores de água para a assembléia e para o altar de Jeová, até o dia de hoje, no lugar que ele escolhesse.
+
+[NOTE]
+====
+. “Por conseguinte . . . os fez.” Lit.: “E deu-os.” Hebr.: wai·yit·teném (de na·thán, da qual se deriva a palavra “netineus”).
+====
+
+'''
+
+xref:006-josue/006-josue-008.adoc#v6-8-0[&#60; Capítulo Anterior] | <<v6-9-0,Topo>> | xref:006-josue/006-josue-010.adoc#v6-10-0[Próximo Capítulo &#62;]

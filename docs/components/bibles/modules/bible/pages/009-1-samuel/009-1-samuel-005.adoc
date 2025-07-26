@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v9-5-0]]
+=== 1 Samuel, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-5-1]]
+
+^<<v9-5-1,1>>^ Quanto aos filisteus, tomaram a arca do [verdadeiro] Deus e levaram-na então de Ebenezer a Asdode.
+
+[[v9-5-2]]
+
+^<<v9-5-2,2>>^ E os filisteus passaram a tomar a arca do [verdadeiro] Deus e a levá-la à casa de Dagom, e foram colocá-la ao lado de Dagom.
+
+[[v9-5-3]]
+
+^<<v9-5-3,3>>^ Então, logo no dia seguinte, os asdoditas se levantaram cedo,^&#42;1^ e eis que Dagom estava caído com a sua face por terra diante da arca de Jeová. Portanto, tomaram^&#42;2^ a Dagom e o retornaram ao seu lugar.
+
+[NOTE]
+====
+. LXX acrescenta: “e entraram na casa de Dagom e olharam”.
+. “Tomaram” MSyVg; LXX: “ergueram”.
+====
+
+[[v9-5-4]]
+
+^<<v9-5-4,4>>^ Quando se levantaram de manhã cedo, logo no dia seguinte, eis que Dagom estava caído com a sua face por terra diante da arca de Jeová, com a cabeça de Dagom e as palmas de ambas as suas mãos, decepadas, para o limiar.^&#42;1^ Só se deixara nele a parte de peixe.^&#42;2^
+
+[NOTE]
+====
+. Ou “estrado”.
+. Lit.: “Somente Dagom”, visto que o ídolo de Dagom era aparentemente metade homem e metade peixe.
+====
+
+[[v9-5-5]]
+
+^<<v9-5-5,5>>^ É por isso que os sacerdotes de Dagom e todos os que entram na casa de Dagom não pisam no limiar de Dagom em Asdode, até o dia de hoje.^&#42;1^
+
+[NOTE]
+====
+. LXX acrescenta: “porque os que passam (pulam) por cima passam (pulam) por cima”. Veja Sof 1:9.
+====
+
+[[v9-5-6]]
+
+^<<v9-5-6,6>>^ E a mão de Jeová veio a ser pesada sobre os asdoditas, e ele começou a causar pânico^&#42;1^ e a golpeá-los com hemorróidas,^&#42;2^ isto é, a Asdode e a seus territórios.
+
+[NOTE]
+====
+. Ou “começou a desolá[-los]”.
+. Ou “com praga de furúnculos”. Hebr.: ba‛·fo·lím. Visto que esta palavra hebr. está associada com o ânus humano, os massoretas, como demonstração de modéstia, assinalaram a palavra com as vogais de tehho·rím, “tumores”. Também mostraram esta palavra na margem, para ser lida em lugar da outra.
+====
+
+[[v9-5-7]]
+
+^<<v9-5-7,7>>^ E os homens de Asdode chegaram a ver que era assim e disseram: “Não more conosco a arca do Deus de Israel, porque a sua mão tem sido dura contra nós e contra Dagom, nosso deus.”^&#42;1^
+
+[NOTE]
+====
+. “Nosso deus.” Hebr.: ’elo·héh·nu, pl., para denotar majestade, aplicado a Dagom; gr.: the·ón; lat.: dé·um. Veja Jz 16:23 n.
+====
+
+[[v9-5-8]]
+
+^<<v9-5-8,8>>^ Por conseguinte, enviaram [mensageiros] e ajuntaram a si todos os senhores do eixo dos filisteus, e disseram: “Que faremos com a arca do Deus de Israel?” Por fim disseram: “Que a arca do Deus de Israel dê volta em direção a Gate.” Portanto, fizeram a arca do Deus de Israel dar volta até lá.^&#42;1^
+
+[NOTE]
+====
+. “Até Gate”, LXX.
+====
+
+[[v9-5-9]]
+
+^<<v9-5-9,9>>^ E sucedeu que, depois de a terem feito dar volta até lá, a mão de Jeová veio a estar sobre a cidade com uma confusão muito grande, e ele começou a golpear os homens da cidade, desde o pequeno até o grande, e começaram a rebentar neles hemorróidas.^&#42;1^
+
+[NOTE]
+====
+. “Desde o pequeno até o grande, e seus retos protrusos começaram a putrefazer-se. E o povo de Gate aconselhou-se e fez para si assentos de peles”, Vgc.
+====
+
+[[v9-5-10]]
+
+^<<v9-5-10,10>>^ Por isso enviaram a arca do [verdadeiro] Deus^&#42;1^ a Ecrom. E sucedeu que, assim que a arca do [verdadeiro] Deus veio a Ecrom, os ecronitas começaram a clamar, dizendo: “Fizeram a arca do Deus de Israel dar volta até a mim para fazerem morrer a mim e ao meu povo!”
+
+[NOTE]
+====
+. “Do [verdadeiro] Deus.” Hebr.: ha·’Elo·hím, sendo o título ’Elo·hím precedido pelo artigo definido ha, “o”, para distingui-lo do deus falso Dagom. Veja Ap. 1F.
+====
+
+[[v9-5-11]]
+
+^<<v9-5-11,11>>^ Por conseguinte, enviaram [mensageiros] e ajuntaram todos os senhores do eixo dos filisteus, e disseram: “Mandai embora a arca do Deus de Israel para que retorne ao seu lugar e não entregue à morte tanto a mim como ao meu povo.” Pois se dera uma confusão mortífera na cidade inteira; a mão do [verdadeiro] Deus havia sido muito pesada ali,
+
+[[v9-5-12]]
+
+^<<v9-5-12,12>>^ e os homens que não morreram foram golpeados com hemorróidas. E o clamor da cidade por ajuda ascendia aos céus.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-004.adoc#v9-4-0[&#60; Capítulo Anterior] | <<v9-5-0,Topo>> | xref:009-1-samuel/009-1-samuel-006.adoc#v9-6-0[Próximo Capítulo &#62;]

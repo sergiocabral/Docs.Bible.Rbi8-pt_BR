@@ -1,0 +1,473 @@
+include::./index.adoc[]
+
+[[v19-78-0]]
+=== Salmos, 78
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Masquil.^&#42;1^ De Asafe._
+
+[[v19-78-1]]
+
+^<<v19-78-1,1>>^ Dá ouvidos à minha lei, ó meu povo;
+Inclinai vosso ouvido às declarações da minha boca.
+
+[[v19-78-2]]
+
+^<<v19-78-2,2>>^ Vou abrir a boca numa expressão proverbial;
+Vou fazer borbulhar enigmas de outrora,
+
+[[v19-78-3]]
+
+^<<v19-78-3,3>>^ Que ouvimos e conhecemos,
+E que os nossos próprios pais nos relataram;
+
+[[v19-78-4]]
+
+^<<v19-78-4,4>>^ Que não ocultamos dos seus filhos,
+Relatando-os até mesmo à geração vindoura,
+Os louvores de Jeová e sua força,
+E suas coisas maravilhosas, que ele tem feito.
+
+[[v19-78-5]]
+
+^<<v19-78-5,5>>^ E ele passou a suscitar uma advertência em Jacó
+E pôs uma lei em Israel,
+Coisas que ordenou aos nossos antepassados,
+Para que as dessem a conhecer aos seus filhos;
+
+[[v19-78-6]]
+
+^<<v19-78-6,6>>^ A fim de que a geração vindoura, os filhos que haviam de nascer, [as] soubessem,
+Para que se levantassem e [as] relatassem aos seus filhos,
+
+[[v19-78-7]]
+
+^<<v19-78-7,7>>^ E para que pusessem a sua confiança no próprio Deus^&#42;1^
+E não se esquecessem das práticas de Deus,^&#42;2^ mas observassem os próprios mandamentos dele.
+
+[NOTE]
+====
+. “No . . . Deus.” Hebr.: vE’·lo·hím.
+. “Deus.” Hebr.: ’El.
+====
+
+[[v19-78-8]]
+
+^<<v19-78-8,8>>^ E não se deviam tornar como seus antepassados,
+Uma geração obstinada e rebelde,
+Uma geração que não preparara seu coração
+E cujo espírito não era fidedigno para com Deus.^&#42;1^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v19-78-9]]
+
+^<<v19-78-9,9>>^ Os filhos de Efraim, embora arqueiros armados,
+Bateram em retirada no dia da peleja.
+
+[[v19-78-10]]
+
+^<<v19-78-10,10>>^ Não guardaram o pacto de Deus^&#42;1^
+E recusaram-se a andar na sua lei.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v19-78-11]]
+
+^<<v19-78-11,11>>^ Começaram também a esquecer as suas ações
+E suas obras maravilhosas que ele os fizera ver.
+
+[[v19-78-12]]
+
+^<<v19-78-12,12>>^ Ele fizera maravilhas diante dos seus antepassados
+Na terra do Egito, o campo de Zoã.
+
+[[v19-78-13]]
+
+^<<v19-78-13,13>>^ Partiu o mar, a fim de deixá-los passar,
+E fez as águas ficar paradas qual dique.
+
+[[v19-78-14]]
+
+^<<v19-78-14,14>>^ E continuou a guiá-los de dia com uma nuvem
+E a noite inteira com uma luz de fogo.
+
+[[v19-78-15]]
+
+^<<v19-78-15,15>>^ Passou a fender rochas no ermo,
+Para fazê-los beber uma abundância tal qual águas de profundeza.^&#42;1^
+
+[NOTE]
+====
+. Ou “tal qual águas empoladas”. Hebr.: kith·ho·móhth. Veja 33:7 n.: “empoladas”.
+====
+
+[[v19-78-16]]
+
+^<<v19-78-16,16>>^ E passou a fazer sair correntes dum rochedo
+E a fazer descer águas como rios.
+
+[[v19-78-17]]
+
+^<<v19-78-17,17>>^ E eles prosseguiram pecando ainda mais contra ele,
+Rebelando-se contra o Altíssimo na região árida;
+
+[[v19-78-18]]
+
+^<<v19-78-18,18>>^ E passaram a pôr Deus^&#42;1^ à prova no seu coração,
+Pedindo algo para comer para a sua alma.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v19-78-19]]
+
+^<<v19-78-19,19>>^ De modo que começaram a falar contra Deus.^&#42;1^
+Disseram: “Pode Deus aprontar uma mesa no ermo?”
+
+[NOTE]
+====
+. “Contra Deus.” Hebr.: bE’·lo·hím.
+====
+
+[[v19-78-20]]
+
+^<<v19-78-20,20>>^ Eis que ele golpeou uma rocha
+Para que manassem águas e fluíssem as próprias torrentes.
+“Pode ele também dar o próprio pão
+Ou pode preparar sustento para o seu povo?”
+
+[[v19-78-21]]
+
+^<<v19-78-21,21>>^ Foi por isso que Jeová ouviu e começou a ficar furioso;
+E acendeu-se o próprio fogo contra Jacó
+E também se acendeu a ira contra Israel.
+
+[[v19-78-22]]
+
+^<<v19-78-22,22>>^ Pois não tiveram fé em Deus
+E não confiaram na salvação por ele.
+
+[[v19-78-23]]
+
+^<<v19-78-23,23>>^ E ele passou a dar ordem ao céu nublado acima
+E abriu as próprias portas do céu.
+
+[[v19-78-24]]
+
+^<<v19-78-24,24>>^ E continuou a fazer chover sobre eles maná para comer,
+E deu-lhes o cereal do céu.
+
+[[v19-78-25]]
+
+^<<v19-78-25,25>>^ Homens^&#42;1^ comeram o próprio pão dos possantes;^&#42;2^
+Enviou-lhes provisões a fartar.
+
+[NOTE]
+====
+. “Homens.” Hebr.: ’ish.
+. “Possantes”, isto é, sobre-humanos. Hebr.: ’ab·bi·rím; LXXSyVg: “anjos”; T: “(que desceram da) habitação dos anjos”.
+====
+
+[[v19-78-26]]
+
+^<<v19-78-26,26>>^ Começou a fazer um vento oriental irromper nos céus
+E a fazer um vento meridional soprar pela sua própria força.
+
+[[v19-78-27]]
+
+^<<v19-78-27,27>>^ E passou a fazer chover sobre eles sustento qual pó,
+Sim, criaturas voadoras aladas quais os grãos de areia dos mares.
+
+[[v19-78-28]]
+
+^<<v19-78-28,28>>^ E continuou a fazer que caíssem no meio do seu acampamento,
+Em volta dos seus tabernáculos.
+
+[[v19-78-29]]
+
+^<<v19-78-29,29>>^ E eles foram comer e fartar-se a valer,
+E passou a trazer-lhes o que desejaram.
+
+[[v19-78-30]]
+
+^<<v19-78-30,30>>^ Não se tinham alheado do seu desejo,
+Estando sua comida ainda na sua boca,
+
+[[v19-78-31]]
+
+^<<v19-78-31,31>>^ Quando se acendeu contra eles a própria ira de Deus.
+E ele passou a matar entre os corpulentos deles;
+E fez tombar os jovens de Israel.
+
+[[v19-78-32]]
+
+^<<v19-78-32,32>>^ Apesar de tudo isso, pecaram ainda mais,
+E não tiveram fé nas Suas obras maravilhosas.
+
+[[v19-78-33]]
+
+^<<v19-78-33,33>>^ Portanto, ele acabou com os seus dias como se fossem mera exalação,
+E com os seus anos por meio de perturbação.
+
+[[v19-78-34]]
+
+^<<v19-78-34,34>>^ Quantas vezes os matava, também indagavam por ele,
+E retornavam e estavam à procura de Deus.^&#42;1^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v19-78-35]]
+
+^<<v19-78-35,35>>^ E começaram a lembrar-se de que Deus^&#42;1^ era a sua Rocha
+E que Deus, o Altíssimo, era seu Vingador.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v19-78-36]]
+
+^<<v19-78-36,36>>^ E tentaram lográ-lo com a sua boca;
+E tentaram mentir-lhe com a sua língua.
+
+[[v19-78-37]]
+
+^<<v19-78-37,37>>^ E seu coração não estava firme para com ele;
+E não se mostravam fiéis no Seu pacto.
+
+[[v19-78-38]]
+
+^<<v19-78-38,38>>^ Mas ele foi misericordioso; cobria seu erro e não os arruinava.
+E muitas vezes fazia recuar sua ira
+E não despertava todo o seu furor.
+
+[[v19-78-39]]
+
+^<<v19-78-39,39>>^ E ele se lembrava de que eram carne,
+Que o espírito^&#42;1^ sai e não retorna.
+
+[NOTE]
+====
+. Ou “um vento”. Hebr.: rú·ahh.
+====
+
+[[v19-78-40]]
+
+^<<v19-78-40,40>>^ Quantas vezes rebelavam-se contra ele no ermo,
+Faziam-no sentir-se magoado no deserto!
+
+[[v19-78-41]]
+
+^<<v19-78-41,41>>^ E vez após vez punham Deus^&#42;1^ à prova
+E penavam ao próprio Santo de Israel.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v19-78-42]]
+
+^<<v19-78-42,42>>^ Não se lembraram da sua mão,
+Do dia em que os remiu do adversário,
+
+[[v19-78-43]]
+
+^<<v19-78-43,43>>^ De como pôs os seus sinais no próprio Egito
+E seus milagres no campo de Zoã;
+
+[[v19-78-44]]
+
+^<<v19-78-44,44>>^ E de como ele começou a transformar em sangue seus canais do Nilo,
+De modo que não puderam beber das suas próprias correntes.
+
+[[v19-78-45]]
+
+^<<v19-78-45,45>>^ Passou a enviar sobre eles moscões, para que estes os consumissem;
+E rãs, para que estas os arruinassem.
+
+[[v19-78-46]]
+
+^<<v19-78-46,46>>^ E começou a dar seu produto às baratas
+E [o fruto da] sua labuta aos gafanhotos.
+
+[[v19-78-47]]
+
+^<<v19-78-47,47>>^ Foi matar sua videira com a própria saraiva
+E seus sicômoros com pedras de saraiva.
+
+[[v19-78-48]]
+
+^<<v19-78-48,48>>^ E passou a entregar seus animais de carga à própria saraiva
+E seu gado à febre ardente.
+
+[[v19-78-49]]
+
+^<<v19-78-49,49>>^ Foi enviar sobre eles sua ira ardente,
+Fúria, e verberação, e aflição,
+Delegações de anjos trazendo calamidade.
+
+[[v19-78-50]]
+
+^<<v19-78-50,50>>^ Ele passou a preparar uma senda para a sua ira.
+Não refreou a alma deles da própria morte;
+E entregou a vida deles à própria pestilência.^&#42;1^
+
+[NOTE]
+====
+. Ou “peste (bubônica)”.
+====
+
+[[v19-78-51]]
+
+^<<v19-78-51,51>>^ Por fim golpeou todos os primogênitos no Egito,
+O princípio da sua faculdade de procriação,^&#42;1^ nas tendas de Cã.
+
+[NOTE]
+====
+. Lit.: “de faculdades procriativas”, M; Sy: “de sua prole”; TLXXVg: “de seu(s) trabalho(s)”.
+====
+
+[[v19-78-52]]
+
+^<<v19-78-52,52>>^ Depois fez seu povo partir qual rebanho
+E conduziu-os qual grei no ermo.
+
+[[v19-78-53]]
+
+^<<v19-78-53,53>>^ E guiava-os em segurança e eles não se sentiam apavorados;
+E o mar cobriu os próprios inimigos deles.
+
+[[v19-78-54]]
+
+^<<v19-78-54,54>>^ E ele passou a trazê-los ao seu território santo,
+Esta região montanhosa adquirida pela sua direita.
+
+[[v19-78-55]]
+
+^<<v19-78-55,55>>^ E por causa deles expulsou gradualmente as nações
+E mediante a corda de medir foi lotear-lhes uma herança,
+De modo que fez as tribos de Israel residir nos seus próprios lares.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “tendas”.
+====
+
+[[v19-78-56]]
+
+^<<v19-78-56,56>>^ E começaram a pôr Deus, o Altíssimo, à prova e a rebelar-se [contra ele],
+E não guardaram as suas advertências.
+
+[[v19-78-57]]
+
+^<<v19-78-57,57>>^ Também continuaram a retroceder e a agir traiçoeiramente como os seus antepassados;
+Deram volta como um arco frouxo.
+
+[[v19-78-58]]
+
+^<<v19-78-58,58>>^ E continuaram a ofendê-lo com os seus altos,
+E persistiram em incitá-lo ao ciúme com as suas imagens entalhadas.
+
+[[v19-78-59]]
+
+^<<v19-78-59,59>>^ Deus ouviu e ficou furioso,
+E por isso menosprezou muito a Israel.
+
+[[v19-78-60]]
+
+^<<v19-78-60,60>>^ E por fim abandonou o tabernáculo de Silo,
+A tenda em que tinha residido entre os homens terrenos.
+
+[[v19-78-61]]
+
+^<<v19-78-61,61>>^ E passou a dar sua força ao próprio cativeiro
+E sua beleza na mão do adversário.
+
+[[v19-78-62]]
+
+^<<v19-78-62,62>>^ E ele continuou entregando seu povo à própria espada,
+E ficou furioso contra a sua herança.
+
+[[v19-78-63]]
+
+^<<v19-78-63,63>>^ Seus jovens foram consumidos por um fogo,
+E suas virgens não foram louvadas.^&#42;1^
+
+[NOTE]
+====
+. “Louvadas”, isto é, com cânticos nupciais.
+====
+
+[[v19-78-64]]
+
+^<<v19-78-64,64>>^ Quanto aos seus sacerdotes, caíram pela própria espada,
+E as próprias viúvas deles^&#42;1^ não se entregaram ao choro.
+
+[NOTE]
+====
+. “Deles”, LXXSyVg; MT: “dele”.
+====
+
+[[v19-78-65]]
+
+^<<v19-78-65,65>>^ Jeová^&#42;1^ começou então a acordar como que do sono,
+Como um poderoso desembebedando do vinho.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-78-66]]
+
+^<<v19-78-66,66>>^ E prosseguiu, golpeando seus adversários por detrás;
+Deu-lhes um vitupério de duração indefinida.
+
+[[v19-78-67]]
+
+^<<v19-78-67,67>>^ E passou a rejeitar a tenda de José;
+E não escolheu a tribo de Efraim.
+
+[[v19-78-68]]
+
+^<<v19-78-68,68>>^ Mas escolheu a tribo de Judá,
+Monte Sião, que ele amava.
+
+[[v19-78-69]]
+
+^<<v19-78-69,69>>^ E começou a construir seu santuário igual às alturas,
+Igual à terra que fundou por tempo indefinido.
+
+[[v19-78-70]]
+
+^<<v19-78-70,70>>^ E assim escolheu a Davi, seu servo,
+E tomou-o dos redis do rebanho.
+
+[[v19-78-71]]
+
+^<<v19-78-71,71>>^ De andar atrás das fêmeas lactantes
+Ele o trouxe para ser pastor de Jacó, seu povo,
+E de Israel, sua herança.
+
+[[v19-78-72]]
+
+^<<v19-78-72,72>>^ E começou a pastoreá-los segundo a integridade do seu coração
+E começou a guiá-los com a perícia das suas mãos.
+
+'''
+
+xref:019-salmo/019-salmo-077.adoc#v19-77-0[&#60; Capítulo Anterior] | <<v19-78-0,Topo>> | xref:019-salmo/019-salmo-079.adoc#v19-79-0[Próximo Capítulo &#62;]

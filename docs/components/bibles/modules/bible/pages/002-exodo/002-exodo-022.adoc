@@ -1,0 +1,182 @@
+include::./index.adoc[]
+
+[[v2-22-0]]
+=== Êxodo, 22
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-22-1]]
+
+^<<v2-22-1,1>>^ “Caso um homem furte um touro ou um ovídeo e deveras o abata ou venda, deve compensar o touro com cinco da manada e o ovídeo com quatro do rebanho.^&#42;1^
+
+[NOTE]
+====
+. MLXX terminam aqui 21:37.
+====
+
+[[v2-22-2]]
+
+^<<v2-22-2,2>>^ (“Se um ladrão for encontrado no ato de arrombar e ele deveras for golpeado e morrer, não há culpa de sangue^&#42;1^ por ele.
+
+[NOTE]
+====
+. Lit.: “sangues”.
+====
+
+[[v2-22-3]]
+
+^<<v2-22-3,3>>^ Se o sol tiver raiado sobre ele, há culpa de sangue por ele.)
+“Sem falta deve dar uma compensação. Se não tiver nada, então terá de ser vendido pelas coisas que furtou.
+
+[[v2-22-4]]
+
+^<<v2-22-4,4>>^ Se aquilo que foi furtado for indubitavelmente achado vivo na sua mão, desde o touro até o jumento e o ovídeo, deve dar dupla compensação.
+
+[[v2-22-5]]
+
+^<<v2-22-5,5>>^ “Se um homem causar que um campo ou um vinhedo sejam pastados,^&#42;1^ e ele deveras enviar para lá seus animais de carga e causar estragos em outro campo, deve dar em compensação o melhor do seu próprio campo ou o melhor do seu próprio vinhedo.
+
+[NOTE]
+====
+. “Mas se alguém pastar seu gado (rebanhos) num campo ou num vinhedo”, LXX; Vg: “Se alguém danificar um campo ou um vinhedo.”
+====
+
+[[v2-22-6]]
+
+^<<v2-22-6,6>>^ “Caso um incêndio se espalhe e deveras atinja espinhos e feixes, ou cereais em pé, ou se consuma um campo, aquele que causou o incêndio deve dar impreterivelmente uma compensação [pelo que se queimou].
+
+[[v2-22-7]]
+
+^<<v2-22-7,7>>^ “Caso um homem dê ao seu próximo dinheiro ou um objeto para guardar e isso seja roubado da casa do homem, se o ladrão for achado, deve dar dupla compensação.
+
+[[v2-22-8]]
+
+^<<v2-22-8,8>>^ Se o ladrão não for achado, então o dono da casa terá de ser levado perto do [verdadeiro] Deus para se ver se não deitou mão nos bens do seu próximo.
+
+[[v2-22-9]]
+
+^<<v2-22-9,9>>^ Quanto a qualquer caso de transgressão, com respeito a um touro, um jumento, um ovídeo, um manto, qualquer coisa perdida de que se possa dizer: ‘É esta!’ o caso de ambos deve ser levado perante o [verdadeiro] Deus.^&#42;1^ Aquele a quem Deus^&#42;2^ pronunciar^&#42;3^ iníquo deve dar dupla compensação ao seu próximo.
+
+[NOTE]
+====
+. “O [verdadeiro] Deus.” Hebr.: ha·’Elo·hím; Sam: “Jeová”.
+. “Deus.” Hebr.: ’Elo·hím; Sam(hebr.): ha·’Elo·hím; gr.: The·oú. Veja Ap. 1F.
+. “Pronunciar.” Este verbo, do qual ’Elo·hím é o sujeito, está no pl. no M, mas no sing. no Sam.
+====
+
+[[v2-22-10]]
+
+^<<v2-22-10,10>>^ “Caso um homem dê ao seu próximo um jumento, ou um touro, ou um ovídeo, ou qualquer animal doméstico para guardar, e este deveras morra ou fique aleijado, ou seja levado embora quando ninguém está olhando,
+
+[[v2-22-11]]
+
+^<<v2-22-11,11>>^ deve haver entre ambos um juramento por Jeová, de que não deitou mão nos bens do seu próximo; e seu dono^&#42;1^ tem de aceitá-lo, e o outro não deve dar compensação.
+
+[NOTE]
+====
+. Lit.: “seus donos”. Hebr.: be‛a·láv, pl., para denotar respeito, e com o verbo no sing.; gr.: ký·ri·os.
+====
+
+[[v2-22-12]]
+
+^<<v2-22-12,12>>^ Mas, se de fato lhe foram roubados, deve dar uma compensação ao seu dono.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “aos seus donos”. Hebr.: liv·‛a·láv, pl., para denotar respeito; gr.: ky·rí·oi; lat.: dó·mi·no.
+====
+
+[[v2-22-13]]
+
+^<<v2-22-13,13>>^ Se de fato foi dilacerado por uma fera, deve trazê-lo como evidência. Não deve dar compensação por algo dilacerado por uma fera.
+
+[[v2-22-14]]
+
+^<<v2-22-14,14>>^ “Mas, caso alguém peça algo ao seu próximo e isso deveras fique aleijado ou morra enquanto seu dono não está presente, sem falta deve dar uma compensação.
+
+[[v2-22-15]]
+
+^<<v2-22-15,15>>^ Se o seu dono esteve presente, não deve dar compensação. Se foi alugado, tem de vir a ter seu aluguel.
+
+[[v2-22-16]]
+
+^<<v2-22-16,16>>^ “Agora, caso um homem seduza uma virgem não prometida em casamento e realmente se deite com ela, sem falta deve obtê-la como sua esposa, pelo preço de compra.
+
+[[v2-22-17]]
+
+^<<v2-22-17,17>>^ Se o pai dela absolutamente se negar a dar-lha, deve pagar o dinheiro à razão do dinheiro da compra de virgens.
+
+[[v2-22-18]]
+
+^<<v2-22-18,18>>^ “Não deves preservar viva a feiticeira.
+
+[[v2-22-19]]
+
+^<<v2-22-19,19>>^ “Todo aquele que se deitar com um animal positivamente deve ser morto.
+
+[[v2-22-20]]
+
+^<<v2-22-20,20>>^ “Quem oferecer sacrifícios a quaisquer deuses, e não somente a Jeová, deve ser devotado à destruição.^&#42;1^
+
+[NOTE]
+====
+. Ou “ser posto sob proscrição; ser devotado a Jeová para extermínio”.
+====
+
+[[v2-22-21]]
+
+^<<v2-22-21,21>>^ “E não deves maltratar nem oprimir o residente forasteiro,^&#42;1^ porque vós vos tornastes residentes forasteiros na terra do Egito.
+
+[NOTE]
+====
+. Ou “residente temporário; imigrante”.
+====
+
+[[v2-22-22]]
+
+^<<v2-22-22,22>>^ “Não deveis atribular nenhuma viúva nem o menino órfão de pai.
+
+[[v2-22-23]]
+
+^<<v2-22-23,23>>^ Se é que o atribulares, então, se é que ele clamar a mim, sem falta ouvirei o seu clamor;
+
+[[v2-22-24]]
+
+^<<v2-22-24,24>>^ e deveras se acenderá a minha ira e certamente vos matarei à espada, e vossas esposas terão de tornar-se viúvas e vossos filhos, órfãos de pai.
+
+[[v2-22-25]]
+
+^<<v2-22-25,25>>^ “Se emprestares dinheiro ao meu povo, ao atribulado ao teu lado, não deves tornar-te como agiota para ele. Não lhe deves impor juros.
+
+[[v2-22-26]]
+
+^<<v2-22-26,26>>^ “Se é que tomares em penhor o manto do teu próximo, deves restituir-lho ao pôr do sol.
+
+[[v2-22-27]]
+
+^<<v2-22-27,27>>^ Pois é a sua única cobertura. É a sua capa para a sua pele. Em que se deitará? E terá de acontecer que ele clamará a mim e eu certamente ouvirei, porque sou clemente.
+
+[[v2-22-28]]
+
+^<<v2-22-28,28>>^ “Não deves invocar o mal sobre Deus,^&#42;1^ nem amaldiçoar um maioral^&#42;2^ entre o teu povo.
+
+[NOTE]
+====
+. “Deus.” MSam(Hebr.): ’Elo·hím; gr.: the·oús, “deuses”; lat.: dí·is, “deuses”.
+. Ou “nase”.
+====
+
+[[v2-22-29]]
+
+^<<v2-22-29,29>>^ “Não deves dar com hesitação teu pleno produto agrícola e o transbordamento da tua prensa. Deves dar-me o primogênito dos teus filhos.
+
+[[v2-22-30]]
+
+^<<v2-22-30,30>>^ O modo em que deves proceder com o teu touro e com a tua ovelha é o seguinte: Continuará sete dias com a sua mãe. No oitavo dia deves dá-lo a mim.
+
+[[v2-22-31]]
+
+^<<v2-22-31,31>>^ “E deveis mostrar-vos homens santos para mim; e não deveis comer no campo carne que seja algo dilacerado por uma fera. Deveis lançá-la aos cães.
+
+'''
+
+xref:002-exodo/002-exodo-021.adoc#v2-21-0[&#60; Capítulo Anterior] | <<v2-22-0,Topo>> | xref:002-exodo/002-exodo-023.adoc#v2-23-0[Próximo Capítulo &#62;]

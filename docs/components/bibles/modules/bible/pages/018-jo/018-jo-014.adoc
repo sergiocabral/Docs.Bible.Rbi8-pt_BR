@@ -1,0 +1,188 @@
+include::./index.adoc[]
+
+[[v18-14-0]]
+=== Jó, 14
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-14-1]]
+
+^<<v18-14-1,1>>^ “O homem,^&#42;1^ nascido de mulher,
+É de vida curta e está empanturrado de agitação.
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v18-14-2]]
+
+^<<v18-14-2,2>>^ Como a flor, ele brota e é cortado,
+E foge como a sombra e não permanece em existência.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “se mantém de pé”. Veja Êx 9:16 n.: “existência”.
+====
+
+[[v18-14-3]]
+
+^<<v18-14-3,3>>^ Sim, sobre este abriste teu olho,
+E me^&#42;1^ levas a juízo contigo.
+
+[NOTE]
+====
+. “Me”, M; LXXSyVg: “o”.
+====
+
+[[v18-14-4]]
+
+^<<v18-14-4,4>>^ Quem pode, de alguém impuro, produzir alguém puro?
+Nem sequer um.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Ninguém pode.”
+====
+
+[[v18-14-5]]
+
+^<<v18-14-5,5>>^ Se os seus dias estiverem determinados,
+Há contigo o número dos seus meses;
+Fizeste para ele um decreto para que não vá além.
+
+[[v18-14-6]]
+
+^<<v18-14-6,6>>^ Deixa de atentar nele para que descanse,^&#42;1^
+Até que ache prazer, como o trabalhador contratado no seu dia.
+
+[NOTE]
+====
+. Ou “deixe de existir”, como no v. 7.
+====
+
+[[v18-14-7]]
+
+^<<v18-14-7,7>>^ Pois até mesmo para uma árvore há esperança.
+Se for decepada, brotará novamente,^&#42;1^
+E seu próprio rebento não deixará de existir.
+
+[NOTE]
+====
+. Lit.: “ainda mudará”.
+====
+
+[[v18-14-8]]
+
+^<<v18-14-8,8>>^ Caso a sua raiz envelheça na terra
+E morra no pó o seu toco,
+
+[[v18-14-9]]
+
+^<<v18-14-9,9>>^ Ao cheiro da água florescerá,
+E certamente produzirá um ramo como planta nova.
+
+[[v18-14-10]]
+
+^<<v18-14-10,10>>^ Mas o varão vigoroso^&#42;1^ morre e jaz prostrado;
+E o homem terreno^&#42;2^ expira, e onde está ele?^&#42;3^
+
+[NOTE]
+====
+. “Mas o varão vigoroso.” Hebr.: weghé·ver.
+. “O homem terreno.” Hebr.: ’a·dhám.
+. “Onde está ele?” MVg; LXXSy: “ele não existe mais”.
+====
+
+[[v18-14-11]]
+
+^<<v18-14-11,11>>^ As águas deveras desaparecem do mar,
+E o próprio rio se escoa e seca.
+
+[[v18-14-12]]
+
+^<<v18-14-12,12>>^ O homem também^&#42;1^ tem de deitar-se e não se levanta.
+Não acordarão até que não haja mais céu,
+Nem serão despertados do seu sono.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “E homem.” Hebr.: we’ísh.
+. “Não acordará, nem despertará do seu sono”, Vg e mediante uma ligeira correção do M.
+====
+
+[[v18-14-13]]
+
+^<<v18-14-13,13>>^ Quem dera que me escondesses no Seol,^&#42;1^
+Que me mantivesses secreto até que a tua ira recuasse,
+Que me fixasses um limite de tempo e te lembrasses de mim!
+
+[NOTE]
+====
+. “No Seol.” Hebr.: bish·’óhl; gr.: haí·dei; sir.: ba·shiul; lat.: in·fér·no; isto é, a sepultura comum da humanidade. Veja Ap. 4B.
+====
+
+[[v18-14-14]]
+
+^<<v18-14-14,14>>^ Morrendo o varão vigoroso,^&#42;1^ pode ele viver novamente?
+Esperarei todos os dias do meu trabalho compulsório,
+Até vir a minha substituição.
+
+[NOTE]
+====
+. “O varão vigoroso.” Hebr.: gé·ver.
+====
+
+[[v18-14-15]]
+
+^<<v18-14-15,15>>^ Tu chamarás e eu mesmo te responderei.
+Terás saudades do trabalho das tuas mãos.
+
+[[v18-14-16]]
+
+^<<v18-14-16,16>>^ Porque agora estás contando até os meus passos;
+De nada cuidas senão do meu pecado.
+
+[[v18-14-17]]
+
+^<<v18-14-17,17>>^ Minha revolta está selada numa bolsa,
+E passas cola sobre o meu erro.
+
+[[v18-14-18]]
+
+^<<v18-14-18,18>>^ No entanto, o próprio monte, caindo, se desvanecerá,
+E até mesmo a rocha será mudada do seu lugar.
+
+[[v18-14-19]]
+
+^<<v18-14-19,19>>^ A água certamente desgasta até mesmo as pedras;
+Suas enxurradas levam embora o pó da terra.
+Assim destruíste a própria esperança do homem mortal.^&#42;1^
+
+[NOTE]
+====
+. “Homem mortal.” Hebr.: ’enóhsh.
+====
+
+[[v18-14-20]]
+
+^<<v18-14-20,20>>^ Tu o levas de vencida para sempre, de modo que ele se vai embora;
+Desfiguras-lhe a face, mandando-o embora.
+
+[[v18-14-21]]
+
+^<<v18-14-21,21>>^ Seus filhos são honrados, mas ele não [o] sabe;
+E tornam-se insignificantes, mas ele não os considera.
+
+[[v18-14-22]]
+
+^<<v18-14-22,22>>^ Apenas a sua própria carne, enquanto estiver nele, continuará a sentir dores,
+E a sua própria alma, enquanto estiver nele, continuará a prantear.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Apenas a sua própria parentela (parentes carnais) continuará a penar por ele, e seus próprios escravos (almas adquiridas) continuarão a pranteá-lo.” Para contrastar “parentes carnais” com “almas adquiridas”, compare Gên 37:27 e Is 58:7 com Gên (12:5; 14:21; 36:6); Ez 27:13; Re 18:13 n.: “almas humanas”.
+====
+
+'''
+
+xref:018-jo/018-jo-013.adoc#v18-13-0[&#60; Capítulo Anterior] | <<v18-14-0,Topo>> | xref:018-jo/018-jo-015.adoc#v18-15-0[Próximo Capítulo &#62;]

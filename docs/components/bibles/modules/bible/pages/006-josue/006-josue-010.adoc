@@ -1,0 +1,220 @@
+include::./index.adoc[]
+
+[[v6-10-0]]
+=== Josué, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-10-1]]
+
+^<<v6-10-1,1>>^ E aconteceu que, assim que Adoni-Zedeque, rei de Jerusalém, ouviu que Josué havia capturado Ai e a havia então devotado à destruição, que fizera com Ai e seu rei assim como fizera com Jericó e seu rei, e que os habitantes de Gibeão haviam feito paz com Israel e continuavam no seu meio,
+
+[[v6-10-2]]
+
+^<<v6-10-2,2>>^ ele^&#42;1^ ficou muito amedrontado, porque Gibeão era uma cidade grande, como uma das cidades reais,^&#42;2^ e porque era maior do que Ai, e todos os seus homens eram poderosos.
+
+[NOTE]
+====
+. “Ele”, SyVg; MLXX: “eles”.
+. Lit.: “das cidades do reino”.
+====
+
+[[v6-10-3]]
+
+^<<v6-10-3,3>>^ Por conseguinte, Adoni-Zedeque, rei de Jerusalém, mandou dizer a Hoão, rei de Hébron, e a Pirão, rei de Jarmute, e a Jafia, rei de Laquis, e a Debir, rei de Eglom:
+
+[[v6-10-4]]
+
+^<<v6-10-4,4>>^ “Subi a mim e ajudai-me, e golpeemos Gibeão, visto que fez paz com Josué e com os filhos de Israel.”
+
+[[v6-10-5]]
+
+^<<v6-10-5,5>>^ Ajuntaram-se, pois, e subiram, cinco reis dos amorreus, o rei de Jerusalém, o rei de Hébron, o rei de Jarmute, o rei de Laquis, o rei de Eglom, estes e todos os seus acampamentos, e passaram a acampar-se contra Gibeão e a guerrear contra ela.
+
+[[v6-10-6]]
+
+^<<v6-10-6,6>>^ Em vista disso, os homens de Gibeão mandaram dizer a Josué, no acampamento de Gilgal: “Não se retire a tua mão dos teus escravos. Sobe depressa a nós, e deveras salva-nos e ajuda-nos, pois todos os reis dos amorreus que habitam na região montanhosa se reuniram contra nós.”
+
+[[v6-10-7]]
+
+^<<v6-10-7,7>>^ Josué subiu, pois, de Gilgal, ele e toda a gente de guerra com ele, bem como todos os valentes poderosos.
+
+[[v6-10-8]]
+
+^<<v6-10-8,8>>^ Jeová disse então a Josué: “Não tenhas medo deles, pois os entreguei na tua mão. Nenhum homem deles se manterá de pé contra ti.”
+
+[[v6-10-9]]
+
+^<<v6-10-9,9>>^ E Josué passou a vir contra eles de surpresa. Veio subindo toda a noite desde Gilgal.
+
+[[v6-10-10]]
+
+^<<v6-10-10,10>>^ E Jeová foi lançá-los em confusão diante de Israel, e começaram^&#42;1^ a golpeá-los com uma grande matança em Gibeão e foram persegui-los pelo caminho da subida de Bete-Horom, e golpearam-nos até Azeca e Maquedá.
+
+[NOTE]
+====
+. “Começaram”, TLagardianSy; M: “começou”, em sentido coletivo, referindo-se a “Israel”; gr.: Ký·ri·os, “Jeová”.
+====
+
+[[v6-10-11]]
+
+^<<v6-10-11,11>>^ E sucedeu que, enquanto fugiam de diante de Israel e se achavam na descida de Bete-Horom, Jeová lançou dos céus grandes pedras sobre eles, até Azeca, de modo que morreram. Foram mais os que morreram por causa das pedras de saraiva do que os que os filhos de Israel mataram à espada.
+
+[[v6-10-12]]
+
+^<<v6-10-12,12>>^ Foi então que Josué passou a falar a Jeová no dia em que Jeová entregou os amorreus aos filhos de Israel, e ele foi dizer diante dos olhos de Israel:
+“Sol, fica imóvel^&#42;1^ sobre Gibeão,
+E lua, sobre a baixada de Aijalom.”
+
+[NOTE]
+====
+. Ou “fica quieto (calado)”.
+====
+
+[[v6-10-13]]
+
+^<<v6-10-13,13>>^ Conseqüentemente, o sol ficou imóvel e a lua deveras ficou parada até que a nação se pôde vingar dos seus inimigos. Não se acha isso escrito no livro de Jasar?^&#42;1^ E o sol ficou parado no meio dos céus e não teve pressa em pôr-se por cerca de um dia inteiro.
+
+[NOTE]
+====
+. Ou “Aquele Que É Reto”.
+====
+
+[[v6-10-14]]
+
+^<<v6-10-14,14>>^ E nenhum dia se mostrou igual a este, quer antes quer depois disso, tendo Jeová escutado a voz de um homem, pois o próprio Jeová lutava por Israel.
+
+[[v6-10-15]]
+
+^<<v6-10-15,15>>^ Depois voltou Josué, e todo o Israel com ele, ao acampamento em Gilgal.
+
+[[v6-10-16]]
+
+^<<v6-10-16,16>>^ No ínterim, estes cinco reis fugiram e se esconderam na caverna de Maquedá.
+
+[[v6-10-17]]
+
+^<<v6-10-17,17>>^ Comunicou-se então a Josué, dizendo-se: “Os cinco reis foram achados escondidos na caverna de Maquedá.”
+
+[[v6-10-18]]
+
+^<<v6-10-18,18>>^ Nisso Josué disse: “Rolai grandes pedras à boca da caverna e encarregai dela homens para que os guardem.
+
+[[v6-10-19]]
+
+^<<v6-10-19,19>>^ Quanto a vós, não fiqueis parados. Ide no encalço dos vossos inimigos e tereis de golpeá-los na retaguarda. Não os deixeis entrar nas suas cidades, porque Jeová, vosso Deus, os entregou na vossa mão.”
+
+[[v6-10-20]]
+
+^<<v6-10-20,20>>^ E aconteceu que, assim que Josué e os filhos de Israel acabaram de golpeá-los com uma matança muito grande, até que estes chegaram ao seu fim, e aqueles que sobreviveram deles escaparam e entraram nas cidades fortificadas,
+
+[[v6-10-21]]
+
+^<<v6-10-21,21>>^ então todo o povo começou a voltar em paz ao acampamento, a Josué, em Maquedá. Nenhum homem agitou avidamente a sua língua contra os filhos de Israel.
+
+[[v6-10-22]]
+
+^<<v6-10-22,22>>^ Josué disse então: “Abri a boca da caverna e trazei-me para fora da caverna estes cinco reis.”
+
+[[v6-10-23]]
+
+^<<v6-10-23,23>>^ Então fizeram isso e trouxeram-lhe para fora da caverna estes cinco reis, o rei de Jerusalém, o rei de Hébron, o rei de Jarmute, o rei de Laquis, o rei de Eglom.
+
+[[v6-10-24]]
+
+^<<v6-10-24,24>>^ E sucedeu que assim que trouxeram estes reis para fora a Josué, Josué passou a chamar todos os homens de Israel e a dizer aos comandantes dos homens de guerra que haviam ido com ele: “Vinde para a frente. Ponde os vossos pés sobre a nuca destes reis.” Vieram, pois, para a frente e puseram seus pés sobre a nuca deles.
+
+[[v6-10-25]]
+
+^<<v6-10-25,25>>^ E Josué prosseguiu, dizendo-lhes: “Não tenhais medo nem fiqueis aterrorizados. Sede corajosos e fortes, pois é assim que Jeová fará a todos os vossos inimigos contra os quais guerreais.”
+
+[[v6-10-26]]
+
+^<<v6-10-26,26>>^ E depois Josué passou a golpeá-los e a entregá-los à morte, e foi pendurá-los em cinco madeiros,^&#42;1^ e ficaram pendurados nos madeiros até à noitinha.
+
+[NOTE]
+====
+. Lit.: “árvores”. Gr.: xý·lon; lat.: stí·pi·tes, “postes; troncos de árvore”.
+====
+
+[[v6-10-27]]
+
+^<<v6-10-27,27>>^ E sucedeu que, pela hora do pôr do sol, Josué deu ordens, e foram tirá-los dos madeiros e lançá-los na caverna em que se haviam escondido. Depois puseram grandes pedras à boca da caverna — até o próprio dia de hoje.
+
+[[v6-10-28]]
+
+^<<v6-10-28,28>>^ E naquele dia Josué capturou Maquedá e passou a golpeá-la com o fio da espada. Quanto ao seu rei, devotou à destruição tanto a ele como a toda alma^&#42;1^ que havia nela. Não deixou restar sobrevivente. De modo que fez com o rei de Maquedá assim como havia feito com o rei de Jericó.
+
+[NOTE]
+====
+. “Toda alma.” Hebr.: kol-han·né·fesh; gr.: pan em·pné·on, “tudo o que respira”.
+====
+
+[[v6-10-29]]
+
+^<<v6-10-29,29>>^ Então Josué passou de Maquedá a Libna, e todo o Israel com ele, e guerreou contra Libna.
+
+[[v6-10-30]]
+
+^<<v6-10-30,30>>^ Por conseguinte, Jeová entregou também a ela e a seu rei na mão de Israel, e passaram a golpear tanto a ela como a toda alma nela com o fio da espada. Não deixaram restar nela sobrevivente. De modo que fizeram com o seu rei assim como haviam feito com o rei de Jericó.
+
+[[v6-10-31]]
+
+^<<v6-10-31,31>>^ A seguir Josué passou de Libna a Laquis, e todo o Israel com ele, e foi acampar-se contra ela e fazer-lhe guerra.
+
+[[v6-10-32]]
+
+^<<v6-10-32,32>>^ Por conseguinte, Jeová entregou Laquis na mão de Israel, de modo que a capturaram no segundo dia, e passaram a golpear tanto a ela como a toda alma nela com o fio da espada, segundo tudo o que tinham feito a Libna.
+
+[[v6-10-33]]
+
+^<<v6-10-33,33>>^ Foi então que Horão, rei de Gezer, subiu para ajudar a Laquis. Portanto, Josué golpeou a ele e a seu povo até que não lhe deixou restar sobrevivente.
+
+[[v6-10-34]]
+
+^<<v6-10-34,34>>^ Josué passou então de Laquis a Eglom, e todo o Israel com ele, e foi acampar-se contra ela e guerrear contra ela.
+
+[[v6-10-35]]
+
+^<<v6-10-35,35>>^ E foram capturá-la naquele dia e começaram a golpeá-la com o fio da espada, e naquele dia devotaram à destruição toda alma nela, segundo tudo o que tinham feito a Laquis.
+
+[[v6-10-36]]
+
+^<<v6-10-36,36>>^ Josué subiu então de Eglom a Hébron, e todo o Israel com ele, e começou a guerrear contra ela.
+
+[[v6-10-37]]
+
+^<<v6-10-37,37>>^ E foram capturá-la e golpeá-la com o fio da espada, tanto a ela como a seu rei e todas as suas cidades, e toda alma nela. Não deixou restar sobrevivente, segundo tudo o que tinha feito a Eglom. De modo que devotou à destruição tanto a ela como a toda alma que havia nela.
+
+[[v6-10-38]]
+
+^<<v6-10-38,38>>^ Finalmente, Josué voltou a Debir, e todo o Israel com ele, e começou a guerrear contra ela.
+
+[[v6-10-39]]
+
+^<<v6-10-39,39>>^ E foi capturar a ela e a seu rei, e todas as suas cidades, e passaram a golpeá-los com o fio da espada e a devotar à destruição toda a alma que havia nela. Não deixou restar sobrevivente. Assim como tinha feito a Hébron, e como tinha feito a Libna e a seu rei, assim fez a Debir e a seu rei.
+
+[[v6-10-40]]
+
+^<<v6-10-40,40>>^ E Josué passou a golpear toda a terra da região montanhosa, e o Negebe, e a Sefelá,^&#42;1^ e as encostas, e todos os seus reis. Não deixou restar sobrevivente, e tudo o que respirava,^&#42;2^ ele devotou à destruição, assim como Jeová, o Deus de Israel, havia ordenado.
+
+[NOTE]
+====
+. Ou “terra baixa”.
+. Lit.: “todo fôlego”. Gr.: pan em·pné·on zo·és, “todo respirador de vida”; Vg: “tudo o que podia respirar”.
+====
+
+[[v6-10-41]]
+
+^<<v6-10-41,41>>^ E Josué foi golpeá-los desde Cades-Barnéia até Gaza, e toda a terra de Gósen e para cima até Gibeão.
+
+[[v6-10-42]]
+
+^<<v6-10-42,42>>^ E Josué capturou todos estes reis e sua terra num só tempo, porque era Jeová, o Deus de Israel, quem estava lutando por Israel.
+
+[[v6-10-43]]
+
+^<<v6-10-43,43>>^ Depois Josué retornou ao acampamento em Gilgal e todo o Israel com ele.
+
+'''
+
+xref:006-josue/006-josue-009.adoc#v6-9-0[&#60; Capítulo Anterior] | <<v6-10-0,Topo>> | xref:006-josue/006-josue-011.adoc#v6-11-0[Próximo Capítulo &#62;]

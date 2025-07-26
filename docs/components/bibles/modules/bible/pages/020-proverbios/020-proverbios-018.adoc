@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v20-18-0]]
+=== Provérbios, 18
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-18-1]]
+
+^<<v20-18-1,1>>^ Quem se isola procurará o [seu próprio] desejo egoísta; estourará contra toda a sabedoria prática.
+
+[[v20-18-2]]
+
+^<<v20-18-2,2>>^ Quem é estúpido não se agrada do discernimento, exceto que seu coração se externe.
+
+[[v20-18-3]]
+
+^<<v20-18-3,3>>^ Ao entrar alguém iníquo, tem de entrar também o desprezo; e junto com a desonra há vitupério.
+
+[[v20-18-4]]
+
+^<<v20-18-4,4>>^ As palavras da boca do homem são águas profundas. A fonte da sabedoria é uma torrente borbulhante.
+
+[[v20-18-5]]
+
+^<<v20-18-5,5>>^ Mostrar parcialidade para com o iníquo não é bom, nem apartar o justo no julgamento.
+
+[[v20-18-6]]
+
+^<<v20-18-6,6>>^ Os lábios de quem é estúpido entram em altercação e sua própria boca clama até mesmo por golpes.
+
+[[v20-18-7]]
+
+^<<v20-18-7,7>>^ A boca do estúpido é a sua ruína e seus lábios são um laço para a sua alma.
+
+[[v20-18-8]]
+
+^<<v20-18-8,8>>^ As palavras do caluniador são como coisas que se engolem avidamente, que descem até as partes mais íntimas do ventre.
+
+[[v20-18-9]]
+
+^<<v20-18-9,9>>^ Também aquele que demonstra ser remisso na sua obra — ele é irmão daquele que arruína.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “do senhor da ruína”.
+====
+
+[[v20-18-10]]
+
+^<<v20-18-10,10>>^ O nome de Jeová é uma torre forte. O justo corre para dentro dela e recebe proteção.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “é colocado no alto”, isto é, fora de alcance, a salvo.
+====
+
+[[v20-18-11]]
+
+^<<v20-18-11,11>>^ As coisas valiosas do rico são a sua vila fortificada, e na sua imaginação são como uma muralha protetora.
+
+[[v20-18-12]]
+
+^<<v20-18-12,12>>^ Antes da derrocada, o coração do homem é soberbo, e antes da glória há humildade.
+
+[[v20-18-13]]
+
+^<<v20-18-13,13>>^ Quando alguém replica a um assunto antes de ouvi-lo, é tolice da sua parte e uma humilhação.
+
+[[v20-18-14]]
+
+^<<v20-18-14,14>>^ O espírito do homem^&#42;1^ pode agüentar a sua enfermidade; mas, quanto ao espírito abatido, quem o pode suportar?
+
+[NOTE]
+====
+. “O espírito do homem.” Hebr.: ru·ahh-’ísh.
+====
+
+[[v20-18-15]]
+
+^<<v20-18-15,15>>^ O coração do entendido adquire conhecimento e o ouvido dos sábios procura achar conhecimento.
+
+[[v20-18-16]]
+
+^<<v20-18-16,16>>^ A dádiva do homem^&#42;1^ fará para ele uma grande abertura e o guiará até mesmo perante gente grande.
+
+[NOTE]
+====
+. Lit.: “A dádiva dum homem terreno.” Hebr.: mat·tán ’a·dhám.
+====
+
+[[v20-18-17]]
+
+^<<v20-18-17,17>>^ O primeiro na sua causa jurídica é justo; entra seu próximo e certamente o esquadrinha.
+
+[[v20-18-18]]
+
+^<<v20-18-18,18>>^ A sorte [lançada] faz repousar até mesmo contendas e separa até os fortes um do outro.
+
+[[v20-18-19]]
+
+^<<v20-18-19,19>>^ Um irmão contra quem se transgride é mais do que uma vila fortificada; e há contendas que são como a tranca duma torre de habitação.
+
+[[v20-18-20]]
+
+^<<v20-18-20,20>>^ Dos frutos da boca do homem^&#42;1^ fartar-se-á seu ventre; fartar-se-á mesmo com o produto dos seus lábios.
+
+[NOTE]
+====
+. “Do homem.” Hebr.: ’ish.
+====
+
+[[v20-18-21]]
+
+^<<v20-18-21,21>>^ Morte e vida estão no poder^&#42;1^ da língua, e quem a ama comerá os seus frutos.
+
+[NOTE]
+====
+. Lit.: “em [na] mão de”. Hebr.: beyádh.
+====
+
+[[v20-18-22]]
+
+^<<v20-18-22,22>>^ Achou alguém uma [boa]^&#42;1^ esposa? Achou uma coisa boa e obtém boa vontade da parte de Jeová.
+
+[NOTE]
+====
+. “Boa”, LXXSyVgc e um ms. hebr.; M omite isso.
+====
+
+[[v20-18-23]]
+
+^<<v20-18-23,23>>^ Aquele de poucos meios profere rogos, mas quem é rico responde de modo forte.
+
+[[v20-18-24]]
+
+^<<v20-18-24,24>>^ Há^&#42;1^ companheiros dispostos a se fazerem mutuamente em pedaços, mas há um amigo que se apega mais do que um irmão.
+
+[NOTE]
+====
+. “Há”, TSy; M: “Um homem de.”
+====
+
+'''
+
+xref:020-proverbios/020-proverbios-017.adoc#v20-17-0[&#60; Capítulo Anterior] | <<v20-18-0,Topo>> | xref:020-proverbios/020-proverbios-019.adoc#v20-19-0[Próximo Capítulo &#62;]

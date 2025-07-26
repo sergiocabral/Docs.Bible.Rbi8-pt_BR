@@ -1,0 +1,130 @@
+include::./index.adoc[]
+
+[[v5-24-0]]
+=== Deuteronômio, 24
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-24-1]]
+
+^<<v5-24-1,1>>^ “Caso um homem tome uma mulher e faça dela sua propriedade, como esposa, então tem de suceder que, se ela não achar favor aos seus olhos por ele ter encontrado alguma coisa indecente^&#42;1^ da parte dela, então tem de escrever-lhe um certificado de divórcio e pô-lo na mão dela, e tem de despedi-la de sua casa.
+
+[NOTE]
+====
+. Lit.: “a nudez duma coisa”.
+====
+
+[[v5-24-2]]
+
+^<<v5-24-2,2>>^ E ela tem de sair da sua casa, e tem de ir e tornar-se de outro homem.
+
+[[v5-24-3]]
+
+^<<v5-24-3,3>>^ Se este último homem veio a odiá-la e lhe tiver escrito um certificado de divórcio e lho tiver posto na mão, e a tiver despedido da sua casa, ou caso morra o último homem que a tomou por sua esposa,
+
+[[v5-24-4]]
+
+^<<v5-24-4,4>>^ não se permitirá ao primeiro dono dela, que a despediu, tomá-la novamente de volta para se tornar sua esposa depois de ela ter sido aviltada; pois isso é algo detestável perante Jeová e não deves levar ao pecado a terra que Jeová,^&#42;1^ teu Deus, te dá por herança.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-24-5]]
+
+^<<v5-24-5,5>>^ “Caso um homem tome uma nova esposa, não deve sair para o exército, nem se lhe deve impor qualquer outra coisa. Deve permanecer dispensado na sua casa por um ano, e ele tem de alegrar sua esposa que tomou.
+
+[[v5-24-6]]
+
+^<<v5-24-6,6>>^ “Ninguém deve^&#42;1^ tomar como penhor um moinho manual ou sua mó superior, porque toma em penhor uma alma.^&#42;2^
+
+[NOTE]
+====
+. “Ninguém deve”, MSam; LXXSyVg: “Não deves.”
+. “Porque . . . uma alma (meio de vida)”. Hebr.: ki-né·fesh; gr.: psy·khén; lat.: á·ni·mam.
+====
+
+[[v5-24-7]]
+
+^<<v5-24-7,7>>^ “Caso se encontre um homem raptando uma alma dos seus irmãos dos filhos de Israel, e ele o tenha tratado com tirania e o vendeu, então tal raptor tem de morrer. E tens de eliminar o mal do teu meio.
+
+[[v5-24-8]]
+
+^<<v5-24-8,8>>^ “Guarda-te na praga da lepra, para que cuides bem e faças segundo tudo o que os sacerdotes, os levitas, vos instruírem. Como lhes mandei, assim deveis cuidar em fazer.
+
+[[v5-24-9]]
+
+^<<v5-24-9,9>>^ Deve ser lembrado^&#42;1^ o que Jeová,^&#42;2^ teu Deus, fez a Miriã no caminho, quando saístes do Egito.
+
+[NOTE]
+====
+. “Deve ser lembrado.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-24-10]]
+
+^<<v5-24-10,10>>^ “Caso faças qualquer empréstimo ao teu próximo, não deves entrar na sua casa para lhe tirar o que empenhou.
+
+[[v5-24-11]]
+
+^<<v5-24-11,11>>^ Deves ficar do lado de fora, e o homem a quem fazes o empréstimo deve trazer-te o penhor para fora.
+
+[[v5-24-12]]
+
+^<<v5-24-12,12>>^ E se o homem estiver em dificuldades, não te deves deitar com o seu penhor.
+
+[[v5-24-13]]
+
+^<<v5-24-13,13>>^ Deves terminantemente restituir-lhe o penhor assim que se pôr o sol, e ele se tem de deitar no seu manto e tem de abençoar-te; e isto significará para ti justiça perante Jeová, teu Deus.
+
+[[v5-24-14]]
+
+^<<v5-24-14,14>>^ “Não deves defraudar o trabalhador contratado que estiver em dificuldades e for pobre, quer seja dos teus irmãos, quer dos teus residentes forasteiros que há na tua terra, dentro dos teus portões.
+
+[[v5-24-15]]
+
+^<<v5-24-15,15>>^ Deves dar-lhe seu salário no seu dia e o sol não se deve pôr sobre este, porque ele está em dificuldades e ergue a sua alma para o seu salário; a fim de que não clame a Jeová contra ti e isso se torne pecado da tua parte.
+
+[[v5-24-16]]
+
+^<<v5-24-16,16>>^ “Os pais não devem ser mortos^&#42;1^ por causa dos filhos e os filhos não devem ser mortos por causa dos pais. Cada um deve ser morto^&#42;2^ pelo seu próprio pecado.
+
+[NOTE]
+====
+. Segundo MSamVg; LXXSy: “não devem morrer”.
+. Segundo MSam; LXXSyVg: “deve morrer”.
+====
+
+[[v5-24-17]]
+
+^<<v5-24-17,17>>^ “Não deves desvirtuar o julgamento do residente forasteiro ou do menino órfão de pai, e não deves tomar em penhor a roupa duma viúva.
+
+[[v5-24-18]]
+
+^<<v5-24-18,18>>^ E tens de lembrar-te de que te tornaste escravo no Egito e que Jeová, teu Deus, passou a remir-te dali. É por isso que te mando fazer esta coisa.
+
+[[v5-24-19]]
+
+^<<v5-24-19,19>>^ “Quando ceifares a tua colheita no teu campo e te tiveres esquecido dum molho no campo, não deves voltar atrás para apanhá-lo. Deve ficar para o residente forasteiro, para o menino órfão de pai e para a viúva; a fim de que Jeová, teu Deus, te abençoe em todo ato da tua mão.
+
+[[v5-24-20]]
+
+^<<v5-24-20,20>>^ “Quando bateres a tua oliveira, não deves tu mesmo tornar a revistar os galhos.^&#42;1^ Deve ficar para o residente forasteiro, para o menino órfão de pai e para a viúva.
+
+[NOTE]
+====
+. Ou “não deves derrubar [olivas] dos galhos”.
+====
+
+[[v5-24-21]]
+
+^<<v5-24-21,21>>^ “Quando colheres as uvas do teu vinhedo, não deves tu mesmo rebuscar as sobras. Devem ficar para o residente forasteiro, para o menino órfão de pai e para a viúva.
+
+[[v5-24-22]]
+
+^<<v5-24-22,22>>^ E tens de lembrar-te de que te tornaste escravo na terra do Egito. É por isso que te mando fazer esta coisa.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-023.adoc#v5-23-0[&#60; Capítulo Anterior] | <<v5-24-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-025.adoc#v5-25-0[Próximo Capítulo &#62;]

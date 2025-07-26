@@ -1,0 +1,168 @@
+include::./index.adoc[]
+
+[[v5-29-0]]
+=== Deuteronômio, 29
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-29-1]]
+
+^<<v5-29-1,1>>^ Estas são as palavras do pacto que Jeová mandou Moisés concluir com os filhos de Israel na terra de Moabe, além do pacto que havia concluído com eles em Horebe.^&#42;1^
+
+[NOTE]
+====
+. MSamLXX terminam aqui o capítulo 28, tendo este como o v. 69.
+====
+
+[[v5-29-2]]
+
+^<<v5-29-2,2>>^ E Moisés passou a convocar todo o Israel e a dizer-lhes: “Vós fostes os que vistes tudo o que Jeová fez diante dos vossos olhos, na terra do Egito, a Faraó e a todos os seus servos, e a toda a sua terra,
+
+[[v5-29-3]]
+
+^<<v5-29-3,3>>^ as grandes provas que teus olhos viram, aqueles grandes sinais e milagres.
+
+[[v5-29-4]]
+
+^<<v5-29-4,4>>^ Contudo, Jeová^&#42;1^ não vos deu um coração^&#42;2^ para saber e olhos para ver, e ouvidos para ouvir até o dia de hoje.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+. Ou “mente”.
+====
+
+[[v5-29-5]]
+
+^<<v5-29-5,5>>^ ‘Enquanto eu vos guiava por quarenta anos no ermo, vossos mantos não se gastaram sobre vós, e tua sandália não se gastou no teu pé.
+
+[[v5-29-6]]
+
+^<<v5-29-6,6>>^ Não comestes pão nem tomastes vinho e bebida inebriante, a fim de que soubésseis que eu sou Jeová, vosso Deus.’
+
+[[v5-29-7]]
+
+^<<v5-29-7,7>>^ Por fim chegastes a este lugar, e Síon, rei de Hésbon, e Ogue, rei de Basã, passaram a vir ao nosso encontro em batalha, mas nós os derrotamos.
+
+[[v5-29-8]]
+
+^<<v5-29-8,8>>^ Depois tomamos sua terra e a demos por herança aos rubenitas e aos gaditas, e à meia tribo dos manassitas.
+
+[[v5-29-9]]
+
+^<<v5-29-9,9>>^ De modo que tendes de guardar as palavras deste pacto e cumpri-las, a fim de que tudo o que fizerdes seja bem sucedido.
+
+[[v5-29-10]]
+
+^<<v5-29-10,10>>^ “Todos vós estais hoje de pé diante de Jeová,^&#42;1^ vosso Deus, os cabeças das vossas tribos,^&#42;2^ vossos anciãos e vossos oficiais, cada homem de Israel,
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+. Segundo LXXSy; MSam: “vossas cabeças, vossas tribos”; Vg: “vossos príncipes e tribos”.
+====
+
+[[v5-29-11]]
+
+^<<v5-29-11,11>>^ vossos pequeninos, vossas esposas e teu residente forasteiro que está no meio do teu acampamento, desde o ajuntador^&#42;1^ da tua lenha até o tirador da tua água,
+
+[NOTE]
+====
+. Ou “cortador”.
+====
+
+[[v5-29-12]]
+
+^<<v5-29-12,12>>^ para entrares no pacto de Jeová, teu Deus, e no seu juramento, que Jeová, teu Deus, hoje está concluindo contigo,
+
+[[v5-29-13]]
+
+^<<v5-29-13,13>>^ tendo por objetivo estabelecer-te hoje como seu povo e provar-se teu Deus, assim como te prometeu e como jurou aos teus antepassados Abraão, Isaque e Jacó.
+
+[[v5-29-14]]
+
+^<<v5-29-14,14>>^ “Ora, não é só convosco que concluo este pacto e este juramento,^&#42;1^
+
+[NOTE]
+====
+. Veja Gên 24:41 n.
+====
+
+[[v5-29-15]]
+
+^<<v5-29-15,15>>^ mas é com aquele que hoje está de pé aqui conosco perante Jeová, nosso Deus, e com os que hoje não estão aqui conosco;
+
+[[v5-29-16]]
+
+^<<v5-29-16,16>>^ (pois, vós mesmos bem sabeis como moramos na terra do Egito e como passamos pelo meio das nações através das quais passastes.
+
+[[v5-29-17]]
+
+^<<v5-29-17,17>>^ E costumáveis ver suas coisas repugnantes e seus ídolos sórdidos, madeira e pedra, prata e ouro, que havia com eles;)
+
+[[v5-29-18]]
+
+^<<v5-29-18,18>>^ para que não haja entre vós nem homem, nem mulher, nem família, nem tribo, cujo coração se desvie hoje de Jeová, nosso Deus, para ir e servir os deuses daquelas nações; para que não haja entre vós alguma raiz que produza o fruto duma planta venenosa e absinto.
+
+[[v5-29-19]]
+
+^<<v5-29-19,19>>^ “E tem de dar-se que, tendo alguém ouvido as palavras deste juramento e tendo-se abençoado no seu coração, dizendo: ‘Virei a ter paz, ainda que eu ande na obstinação de meu coração’, com a intenção de arrasar o bem regado junto com os sedentos,
+
+[[v5-29-20]]
+
+^<<v5-29-20,20>>^ Jeová não lhe quererá perdoar, mas, então a ira de Jeová^&#42;1^ e seu fervor fumegarão contra aquele homem e todo o juramento escrito neste livro certamente recairá sobre ele, e Jeová deveras extinguirá seu nome de debaixo dos céus.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-29-21]]
+
+^<<v5-29-21,21>>^ Portanto, Jeová o terá de separar de todas as tribos de Israel para a calamidade, de acordo com todo o juramento^&#42;1^ do pacto que se acha escrito neste livro da lei.
+
+[NOTE]
+====
+. Ou “maldição juramentada”, porque o modificador hebr. “escrito” é sing. Lit.: “maldições (juramentadas)”. Veja v. 20.
+====
+
+[[v5-29-22]]
+
+^<<v5-29-22,22>>^ “E forçosamente dirá a geração futura dos vossos filhos que se levantar depois de vós, como também o estrangeiro que virá duma terra distante, sim, [quando] tiverem visto as pragas dessa terra e as suas enfermidades com que Jeová a fez adoecer,
+
+[[v5-29-23]]
+
+^<<v5-29-23,23>>^ enxofre e sal, e incêndio, de modo que toda a sua terra não será semeada, nem brotará, nem surgirá nela vegetação alguma, como no derrubamento de Sodoma e Gomorra, Admá e Zeboim, que Jeová subverteu na sua ira e no seu furor;
+
+[[v5-29-24]]
+
+^<<v5-29-24,24>>^ sim, todas as nações forçosamente dirão: ‘Por que fez Jeová isso a esta terra? Por que o ardor desta grande ira?’
+
+[[v5-29-25]]
+
+^<<v5-29-25,25>>^ Terão de dizer então: ‘Foi porque abandonaram o pacto de Jeová, o Deus dos seus antepassados, que concluiu com eles quando os fez sair da terra do Egito.
+
+[[v5-29-26]]
+
+^<<v5-29-26,26>>^ E eles passaram a ir e a servir a outros deuses, e a curvar-se diante deles, deuses que não conheceram e que ele não lhes havia repartido.
+
+[[v5-29-27]]
+
+^<<v5-29-27,27>>^ Acendeu-se então a ira de Jeová contra essa terra, trazendo sobre ela a inteira invocação do mal escrita neste livro.
+
+[[v5-29-28]]
+
+^<<v5-29-28,28>>^ Por isso Jeová os desarraigou do seu solo em ira, e em furor, e em grande indignação, e os lançou em outra terra, assim como no dia de hoje.’
+
+[[v5-29-29]]
+
+^<<v5-29-29,29>>^ “As coisas escondidas pertencem a Jeová,^&#42;1^ nosso Deus, mas as coisas reveladas pertencem a nós e a nossos filhos^&#42;2^ por tempo indefinido, para cumprirmos todas as palavras desta lei.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+. Ou: “As coisas escondidas pertencem a Jeová, nosso Deus, e as coisas reveladas. A nós e a nossos filhos cabe por tempo indefinido cumprir todas as palavras desta lei.” Em Al e Leningrad B 19A, as palavras “a nós e a nossos filhos”, e em Al, a primeira consoante da preposição hebr. que segue, “a”, têm sobre si pontos extraordinários. Alguns entendem isso como significando que essas palavras devem ser omitidas, ou então que não devem ser enfatizadas. Todavia, essas palavras constam na LXXP. Fºuad Inv. 266 do primeiro século AEC. Este é um dos 15 casos de pontos extraordinários. Veja Ap. 2A.
+====
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-028.adoc#v5-28-0[&#60; Capítulo Anterior] | <<v5-29-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-030.adoc#v5-30-0[Próximo Capítulo &#62;]

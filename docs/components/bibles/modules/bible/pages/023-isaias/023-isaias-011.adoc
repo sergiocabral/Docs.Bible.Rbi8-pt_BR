@@ -1,0 +1,138 @@
+include::./index.adoc[]
+
+[[v23-11-0]]
+=== Isaías, 11
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-11-1]]
+
+^<<v23-11-1,1>>^ E do toco^&#42;1^ de Jessé terá de sair um renovo; e das suas raízes frutificará^&#42;2^ um rebentão.^&#42;3^
+
+[NOTE]
+====
+. Ou “rizoma; caule”.
+. “Frutificará”, 1QIsaM; LXXSyVg: “brotará”; T reza: “E dos filhos de Jessé sairá um rei, e dos filhos de seus filhos, surgirá o próprio Messias (Cristo).”
+. “E . . . um rebentão.” Hebr.: wené·tser. Veja Mt 2:23 n.
+====
+
+[[v23-11-2]]
+
+^<<v23-11-2,2>>^ E sobre ele terá de pousar o espírito^&#42;1^ de Jeová, o espírito de sabedoria e de compreensão, o espírito de conselho e de potência, o espírito de conhecimento e do temor de Jeová;
+
+[NOTE]
+====
+. “Espírito de.” Hebr.: rú·ahh; gr.: pneú·ma; lat.: spí·ri·tus. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v23-11-3]]
+
+^<<v23-11-3,3>>^ e deleitar-se-á no temor de Jeová.
+E não julgará pelo que meramente parece aos seus olhos, nem repreenderá simplesmente segundo a coisa ouvida pelos seus ouvidos.
+
+[[v23-11-4]]
+
+^<<v23-11-4,4>>^ E terá de julgar com justiça os de condição humilde e terá de dar repreensão com retidão em benefício dos mansos da terra. E terá de golpear a terra^&#42;1^ com a vara da sua boca; e ao iníquo entregará à morte com o espírito de seus lábios.
+
+[NOTE]
+====
+. “A terra.” Hebr.: ’é·rets; segundo uma correção sugerida em Gins.: ‛a·ríts, “o tirano”. Veja 13:11 n.: “tiranos”.
+====
+
+[[v23-11-5]]
+
+^<<v23-11-5,5>>^ E a justiça terá de mostrar ser o cinto de seus quadris, e a fidelidade, o cinto de seus lombos.
+
+[[v23-11-6]]
+
+^<<v23-11-6,6>>^ E o lobo, de fato, residirá por um tempo com o cordeiro e o próprio leopardo se deitará com o cabritinho, e o bezerro, e o leão novo jubado, e o animal cevado, todos juntos; e um pequeno rapaz é que será o condutor deles.^&#42;1^
+
+[NOTE]
+====
+. Ou “conduzirá entre eles”.
+====
+
+[[v23-11-7]]
+
+^<<v23-11-7,7>>^ E a própria vaca e a ursa pastarão; juntas se deitarão as suas crias. E até mesmo o leão comerá palha como o touro.
+
+[[v23-11-8]]
+
+^<<v23-11-8,8>>^ E a criança de peito há de brincar sobre a toca da naja; e a criança desmamada porá realmente sua própria mão sobre a fresta de luz^&#42;1^ da cobra venenosa.
+
+[NOTE]
+====
+. Ou “cria”. LXX: “toca”; Vg: “caverna; buraco”.
+====
+
+[[v23-11-9]]
+
+^<<v23-11-9,9>>^ Não se fará dano, nem se causará ruína em todo o meu santo monte; porque a terra há de encher-se do conhecimento de Jeová assim como as águas cobrem o próprio mar.^&#42;1^
+
+[NOTE]
+====
+. Ou “bacia marítima”.
+====
+
+[[v23-11-10]]
+
+^<<v23-11-10,10>>^ E naquele dia terá de acontecer que haverá a raiz de Jessé posta de pé qual sinal de aviso^&#42;1^ para os povos. A ele é que irão consultar as nações, e seu lugar de descanso terá de tornar-se glorioso.
+
+[NOTE]
+====
+. “Qual sinal de aviso.” Hebr.: lenés; lat.: in sí·gnum.
+====
+
+[[v23-11-11]]
+
+^<<v23-11-11,11>>^ E naquele dia terá de acontecer que Jeová^&#42;1^ oferecerá novamente a sua mão, pela segunda vez, para adquirir o restante^&#42;2^ do seu povo, que remanescerá da Assíria, e do Egito, e de Patros, e de Cus,^&#42;3^ e de Elão, e de Sinear,^&#42;4^ e de Hamate, e das ilhas do mar.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+. Ou “os restantes”.
+. “Cus”, 1QIsaMSy; LXXVg: “Etiópia”; T: “Índia”.
+. “Sinear”, MVg; T: “Babel (Babilônia)”; Sy: “Seir”.
+====
+
+[[v23-11-12]]
+
+^<<v23-11-12,12>>^ E ele há de levantar um sinal de aviso^&#42;1^ para as nações e ajuntar os dispersos de Israel; e reunirá os espalhados^&#42;2^ de Judá desde as quatro extremidades^&#42;3^ da terra.
+
+[NOTE]
+====
+. Veja v. 10 n.
+. “Os espalhados”, hebr. fem.
+. Lit.: “asas”.
+====
+
+[[v23-11-13]]
+
+^<<v23-11-13,13>>^ E o ciúme de Efraim terá de afastar-se, e até mesmo os que são hostis a Judá serão decepados. O próprio Efraim não terá ciúmes de Judá, nem será Judá hostil para com Efraim.
+
+[[v23-11-14]]
+
+^<<v23-11-14,14>>^ E terão de voar contra o ombro dos filisteus ao oeste;^&#42;1^ juntos saquearão os filhos do Oriente.^&#42;2^ Edom e Moabe serão os sobre quem estenderão sua mão, e os filhos de Amom serão os seus súditos.
+
+[NOTE]
+====
+. Lit.: “mar”.
+. Ou “os orientais”.
+====
+
+[[v23-11-15]]
+
+^<<v23-11-15,15>>^ E Jeová certamente cortará^&#42;1^ o esteiro do mar egípcio e sacudirá sua mão contra o Rio, no fulgor^&#42;2^ do seu espírito. E terá de golpeá-lo nas [suas] sete torrentes e fará as pessoas realmente andar nas [suas] sandálias.
+
+[NOTE]
+====
+. “Cortará”, KB, p. 334; mediante outra derivação do verbo hebr.: “devotará à destruição; banirá”. Veja Le 21:18: “de nariz fendido”.
+. “Fulgor”, BDB, p. 744; mediante uma correção, segundo KB, p. 728: “pleno poder”.
+====
+
+[[v23-11-16]]
+
+^<<v23-11-16,16>>^ E terá de vir a haver uma estrada principal saindo da Assíria para o restante do seu povo, que remanescerá, assim como veio a haver [uma] para Israel, no dia em que subiu da terra do Egito.
+
+'''
+
+xref:023-isaias/023-isaias-010.adoc#v23-10-0[&#60; Capítulo Anterior] | <<v23-11-0,Topo>> | xref:023-isaias/023-isaias-012.adoc#v23-12-0[Próximo Capítulo &#62;]

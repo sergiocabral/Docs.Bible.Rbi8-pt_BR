@@ -1,0 +1,158 @@
+include::./index.adoc[]
+
+[[v1-7-0]]
+=== Gênesis, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-7-1]]
+
+^<<v1-7-1,1>>^ Após isso, Jeová disse a Noé: “Entra na arca, tu e todos os da tua casa, porque tu és quem eu vi ser justo diante de mim no meio desta geração.
+
+[[v1-7-2]]
+
+^<<v1-7-2,2>>^ De cada animal limpo tens de tomar a ti de sete em sete,^&#42;1^ o macho e sua fêmea;^&#42;2^ e de todo animal que não é limpo apenas dois, o macho e sua fêmea;
+
+[NOTE]
+====
+. Lit.: “sete sete”.
+. Lit.: “um homem e sua esposa”.
+====
+
+[[v1-7-3]]
+
+^<<v1-7-3,3>>^ também as criaturas voadoras dos céus de sete em sete, macho e fêmea, para se preservar viva [alguma] descendência^&#42;1^ na superfície de toda a terra.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-7-4]]
+
+^<<v1-7-4,4>>^ Pois, em apenas mais sete dias farei que esteja chovendo sobre a terra por quarenta dias e quarenta noites; e vou obliterar da superfície do solo toda coisa existente que tenho feito.”
+
+[[v1-7-5]]
+
+^<<v1-7-5,5>>^ E Noé passou a fazer segundo tudo o que Jeová lhe mandara.
+
+[[v1-7-6]]
+
+^<<v1-7-6,6>>^ E Noé tinha seiscentos anos de idade quando veio a haver o dilúvio^&#42;1^ de águas sobre a terra.
+
+[NOTE]
+====
+. Ou “oceano celeste”. Veja v. 17 n.; 6:17 n.: “dilúvio”; Sal 29:10 n.
+====
+
+[[v1-7-7]]
+
+^<<v1-7-7,7>>^ Noé entrou assim na arca, e com ele seus filhos e sua esposa, e as esposas de seus filhos, antes de [virem] as águas do dilúvio.^&#42;1^
+
+[NOTE]
+====
+. Veja v. 6 n.
+====
+
+[[v1-7-8]]
+
+^<<v1-7-8,8>>^ De todo animal limpo, e de todo animal que não é limpo, e das criaturas voadoras, e de tudo o que se move sobre o solo,
+
+[[v1-7-9]]
+
+^<<v1-7-9,9>>^ entraram de dois em dois, [vindo] a Noé para dentro da arca, macho e fêmea, assim como Deus^&#42;1^ ordenara a Noé.
+
+[NOTE]
+====
+. “Deus”, MLXXSy; SamTJ,OVgmss.: “Jeová.” Este é um caso em que mss. da Vg dão apoio ao uso do nome divino. Veja BHK e BHS n. sobre Gên 7:9; Ap. 1A.
+====
+
+[[v1-7-10]]
+
+^<<v1-7-10,10>>^ E aconteceu que sete dias depois vieram as águas do dilúvio^&#42;1^ sobre a terra.
+
+[NOTE]
+====
+. Veja v. 6 n.
+====
+
+[[v1-7-11]]
+
+^<<v1-7-11,11>>^ No seiscentésimo ano da vida de Noé, no segundo mês,^&#42;1^ no dia dezessete do mês, neste dia romperam-se todos os mananciais da vasta água de profundeza^&#42;2^ e abriram-se as comportas^&#42;3^ dos céus.
+
+[NOTE]
+====
+. “Segundo mês.” Após o êxodo do Egito, quando Jeová deu aos israelitas o calendário sagrado, este tornou-se o oitavo mês, conhecido como “bul”, correspondendo à segunda metade de outubro e à primeira metade de novembro. Veja Ap. 8B.
+. “Água de profundeza.” Ou “águas empoladas; abóbada de água”. Hebr.: tehóhm; LXXVg: “abismo”. Veja 1:2 n.: “profundeza”. De acordo com 1:7, estas devem ter sido “as águas que haviam de ficar por cima da expansão”. Veja 6:17 n.: “dilúvio”.
+. Lit.: “as janelas”. LXX: “as cataratas”.
+====
+
+[[v1-7-12]]
+
+^<<v1-7-12,12>>^ E o aguaceiro sobre a terra continuou por quarenta dias e quarenta noites.
+
+[[v1-7-13]]
+
+^<<v1-7-13,13>>^ Neste mesmo dia Noé entrou na arca, e com ele Sem, e Cã, e Jafé, os filhos de Noé, e a esposa de Noé, e as três esposas dos seus filhos;
+
+[[v1-7-14]]
+
+^<<v1-7-14,14>>^ eles e todo animal selvático segundo a sua espécie, e todo animal doméstico segundo a sua espécie, e todo animal movente que se move na terra, segundo a sua espécie, e toda criatura voadora, segundo a sua espécie, todo pássaro, toda criatura alada.
+
+[[v1-7-15]]
+
+^<<v1-7-15,15>>^ E eles continuaram a vir a Noé para dentro da arca, de dois em dois, de toda sorte de carne em que a força da vida estava ativa.^&#42;1^
+
+[NOTE]
+====
+. Veja 6:17 n.: “ativa”.
+====
+
+[[v1-7-16]]
+
+^<<v1-7-16,16>>^ E os que entravam, macho e fêmea de toda sorte de carne, entravam assim como Deus lhe ordenara. Depois Jeová fechou a porta atrás dele.
+
+[[v1-7-17]]
+
+^<<v1-7-17,17>>^ E o dilúvio^&#42;1^ prosseguiu por quarenta dias sobre a terra, e as águas continuaram a aumentar e começaram a carregar a arca, e ela flutuava alto por cima da terra.
+
+[NOTE]
+====
+. Ou “oceano celeste”. Veja 6:17 n.: “dilúvio”.
+====
+
+[[v1-7-18]]
+
+^<<v1-7-18,18>>^ E as águas tornaram-se predominantes e continuaram a aumentar grandemente sobre a terra, mas a arca continuou seguindo sobre a superfície das águas.
+
+[[v1-7-19]]
+
+^<<v1-7-19,19>>^ E as águas predominaram tão grandemente sobre a terra, que ficaram cobertos todos os altos montes que havia debaixo de todos os céus.
+
+[[v1-7-20]]
+
+^<<v1-7-20,20>>^ Até quinze côvados predominaram as águas sobre eles, e os montes ficaram cobertos.
+
+[[v1-7-21]]
+
+^<<v1-7-21,21>>^ Assim, toda a carne que se movia sobre a terra expirou, dentre as criaturas voadoras, e dentre os animais domésticos, e dentre os animais selváticos, e dentre os enxames [de criaturas] que pululavam na terra, bem como toda a humanidade.
+
+[[v1-7-22]]
+
+^<<v1-7-22,22>>^ Morreu tudo em que o fôlego da força da vida estava ativo^&#42;1^ nas suas narinas, a saber, todos os que estavam em solo seco.
+
+[NOTE]
+====
+. Veja 6:17 n.: “ativa”.
+====
+
+[[v1-7-23]]
+
+^<<v1-7-23,23>>^ Assim extinguiu toda coisa existente que havia na superfície do solo, desde o homem até o animal, até o animal movente e até a criatura voadora dos céus, e eles foram obliterados da terra; e sobreviviam somente Noé e os com ele na arca.
+
+[[v1-7-24]]
+
+^<<v1-7-24,24>>^ E as águas continuaram a predominar sobre a terra por cento e cinqüenta dias.
+
+'''
+
+xref:001-genesis/001-genesis-006.adoc#v1-6-0[&#60; Capítulo Anterior] | <<v1-7-0,Topo>> | xref:001-genesis/001-genesis-008.adoc#v1-8-0[Próximo Capítulo &#62;]

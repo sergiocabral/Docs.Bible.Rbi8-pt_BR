@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v19-45-0]]
+=== Salmos, 45
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, segundo Os Lírios.^&#42;1^ Dos filhos de Corá. Masquil.^&#42;2^ Cântico das mulheres amadas._
+
+[[v19-45-1]]
+
+^<<v19-45-1,1>>^ Meu coração palpita por causa de um assunto bom.
+Estou dizendo: “Meus trabalhos se referem a um rei.”
+Seja a minha língua o estilo de um destro copista.
+
+[[v19-45-2]]
+
+^<<v19-45-2,2>>^ Tu és deveras mais bonito do que os filhos dos homens.^&#42;1^
+Encanto tem sido despejado sobre os teus lábios.
+Por isso Deus^&#42;2^ te abençoou por tempo indefinido.
+
+[NOTE]
+====
+. Ou “humanidade”. Hebr.: ’a·dhám.
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v19-45-3]]
+
+^<<v19-45-3,3>>^ Cinge a tua espada sobre a coxa,^&#42;1^ ó poderoso,^&#42;2^
+[Com] tua dignidade e teu esplendor.
+
+[NOTE]
+====
+. “Tua coxa”, TLXXSyVg; M omite “tua”.
+. “Ó poderoso”, M(hebr.: gib·bóhr)TLXXSy; lat.: po·ten·tís·si·me, “ó poderosíssimo”.
+====
+
+[[v19-45-4]]
+
+^<<v19-45-4,4>>^ E no teu esplendor prossegue ao bom êxito;
+Cavalga na causa da verdade, e da humildade, [e da] justiça,
+E a tua direita te instruirá em coisas atemorizantes.
+
+[[v19-45-5]]
+
+^<<v19-45-5,5>>^ Tuas flechas são agudas — debaixo de ti caem povos —
+No coração dos inimigos do rei.
+
+[[v19-45-6]]
+
+^<<v19-45-6,6>>^ Deus é o teu trono^&#42;1^ por tempo indefinido, para todo o sempre;
+O cetro do teu reinado é um cetro de retidão.
+
+[NOTE]
+====
+. Ou: “Teu trono é de Deus; teu trono de Deus é.”
+====
+
+[[v19-45-7]]
+
+^<<v19-45-7,7>>^ Amaste a justiça e odiaste a iniqüidade.
+É por isso que Deus, o teu Deus, te ungiu^&#42;1^ com óleo de exultação mais do que a teus associados.
+
+[NOTE]
+====
+. “Te ungiu.” Hebr.: mesha·hhakhá. Deste verbo deriva ma·shí·ahh, “messias”.
+====
+
+[[v19-45-8]]
+
+^<<v19-45-8,8>>^ Todas as tuas vestes são mirra, e aloés, [e] cássia;
+Desde o grandioso palácio de marfim^&#42;1^ te alegraram os próprios instrumentos de cordas.
+
+[NOTE]
+====
+. Lit.: “desde os palácios (templos) de marfim”. Hebr.: min-héh·kheleh shen, pl., para denotar grandiosidade. Veja Mt 23:16 n.
+====
+
+[[v19-45-9]]
+
+^<<v19-45-9,9>>^ Filhas de reis estão entre as tuas mulheres preciosas.^&#42;1^
+A consorte real tomou a sua posição à tua direita em ouro de Ofir.
+
+[NOTE]
+====
+. Ou “nas tuas coisas preciosas”.
+====
+
+[[v19-45-10]]
+
+^<<v19-45-10,10>>^ Escuta, ó filha, e vê, e inclina teu ouvido;
+E esquece-te do teu povo e da casa de teu pai.
+
+[[v19-45-11]]
+
+^<<v19-45-11,11>>^ E o rei almejará a tua lindeza,
+Pois ele é teu senhor,^&#42;1^
+Por isso, curva-te diante dele.
+
+[NOTE]
+====
+. “Teu senhor.” Hebr.: ’adho·ná·yikh, pl. de ’a·dhóhn, para denotar excelência. Veja Ge 39:2 n.
+====
+
+[[v19-45-12]]
+
+^<<v19-45-12,12>>^ Também a filha de Tiro com um presente —
+Os ricos do povo abrandarão a tua^&#42;1^ própria face.
+
+[NOTE]
+====
+. “Tua”, hebr. fem., referindo-se à filha no v. 10.
+====
+
+[[v19-45-13]]
+
+^<<v19-45-13,13>>^ A filha do rei está toda gloriosa dentro [da casa];
+Sua vestimenta está com engastes de ouro.
+
+[[v19-45-14]]
+
+^<<v19-45-14,14>>^ Será levada ao rei em vestes tecidas.
+As virgens no seu séquito, como suas companheiras, são levadas para dentro a ti.
+
+[[v19-45-15]]
+
+^<<v19-45-15,15>>^ Serão levadas com alegria e júbilo;
+Entrarão no palácio do rei.
+
+[[v19-45-16]]
+
+^<<v19-45-16,16>>^ Em lugar de teus^&#42;1^ antepassados virá a haver teus filhos,
+Os quais designarás para príncipes^&#42;2^ em toda a terra.
+
+[NOTE]
+====
+. “Teus”, hebr. masc., referindo-se ao “rei”.
+. “Para príncipes.” Hebr.: lesa·rím; gr.: ár·khon·tas; lat.: prín·ci·pes.
+====
+
+[[v19-45-17]]
+
+^<<v19-45-17,17>>^ Vou fazer menção do teu^&#42;1^ nome por todas as gerações vindouras.
+Por isso é que os próprios povos te elogiarão por tempo indefinido, para todo o sempre.
+
+[NOTE]
+====
+. Veja v. 16 n.: “teus”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-044.adoc#v19-44-0[&#60; Capítulo Anterior] | <<v19-45-0,Topo>> | xref:019-salmo/019-salmo-046.adoc#v19-46-0[Próximo Capítulo &#62;]

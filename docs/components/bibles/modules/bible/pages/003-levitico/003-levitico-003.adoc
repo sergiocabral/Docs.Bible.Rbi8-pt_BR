@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v3-3-0]]
+=== Levítico, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-3-1]]
+
+^<<v3-3-1,1>>^ “‘E se a sua oferta for um sacrifício de participação em comum,^&#42;1^ se a apresentar da manada, quer macho quer fêmea, apresentará uma sadia perante Jeová.
+
+[NOTE]
+====
+. Ou “um sacrifício de ofertas pacíficas”.
+====
+
+[[v3-3-2]]
+
+^<<v3-3-2,2>>^ E tem de pôr sua mão sobre a cabeça de sua oferta e ela tem de ser abatida^&#42;1^ à entrada da tenda de reunião; e os filhos de Arão, os sacerdotes, têm de aspergir o sangue ao redor sobre o altar.
+
+[NOTE]
+====
+. Em harmonia com a Vg; MLXX: “ele tem de abatê-la”.
+====
+
+[[v3-3-3]]
+
+^<<v3-3-3,3>>^ E ele tem de apresentar um pouco do sacrifício de participação em comum como oferta feita por fogo a Jeová, a saber, a gordura que cobre os intestinos, sim, toda a gordura que há sobre os intestinos,
+
+[[v3-3-4]]
+
+^<<v3-3-4,4>>^ e os dois rins e a gordura que há sobre eles, bem como a que há sobre os lombos. E quanto à acrescência sobre o fígado, tirá-la-á junto com os rins.
+
+[[v3-3-5]]
+
+^<<v3-3-5,5>>^ E os filhos de Arão têm de fazê-la fumegar sobre o altar, sobre a oferta queimada que está por cima da lenha que há no fogo, como oferta feita por fogo, de cheiro repousante para Jeová.
+
+[[v3-3-6]]
+
+^<<v3-3-6,6>>^ “‘E se a sua oferta a Jeová for do rebanho, como sacrifício de participação em comum, quer macho quer fêmea, apresentará uma sadia.
+
+[[v3-3-7]]
+
+^<<v3-3-7,7>>^ Se apresentar um carneirinho como sua oferta, então terá de apresentá-la perante Jeová.
+
+[[v3-3-8]]
+
+^<<v3-3-8,8>>^ E tem de pôr sua mão sobre a cabeça de sua oferta e ela tem de ser abatida diante da tenda de reunião; e os filhos de Arão têm de aspergir o sangue dela ao redor sobre o altar.
+
+[[v3-3-9]]
+
+^<<v3-3-9,9>>^ E do sacrifício de participação em comum ele tem de apresentar a sua gordura como oferta feita por fogo a Jeová. A cauda gorda inteira é que tirará, perto do espinhaço, e a gordura que cobre os intestinos, sim, toda a gordura que há sobre os intestinos,
+
+[[v3-3-10]]
+
+^<<v3-3-10,10>>^ e os dois rins e a gordura que há sobre eles, bem como a que há sobre os lombos. E quanto à acrescência sobre o fígado, tirá-la-á junto com os rins.
+
+[[v3-3-11]]
+
+^<<v3-3-11,11>>^ E o sacerdote tem de fazê-la fumegar sobre o altar como alimento,^&#42;1^ uma oferta feita por fogo a Jeová.
+
+[NOTE]
+====
+. Lit.: “pão”. Hebr.: lé·hhem.
+====
+
+[[v3-3-12]]
+
+^<<v3-3-12,12>>^ “‘E se a sua oferta for um caprídeo, então terá de apresentá-la perante Jeová.^&#42;1^
+
+[NOTE]
+====
+. Hebr.: Yehwáh; o papiro 4Q LXX Levb, do primeiro século AEC, tem  (IAO), uma transliteração gr. do nome divino. Este papiro reza também  em 4:27. Veja Ap. 1C sec. 5.
+====
+
+[[v3-3-13]]
+
+^<<v3-3-13,13>>^ E tem de pôr sua mão sobre a cabeça dela, e ela tem de ser abatida diante da tenda de reunião; e os filhos de Arão têm de aspergir o sangue dela ao redor sobre o altar.
+
+[[v3-3-14]]
+
+^<<v3-3-14,14>>^ E ele tem de apresentar dela, como sua oferta, como oferta feita por fogo a Jeová, a gordura que cobre os intestinos, sim, toda a gordura que há sobre os intestinos,
+
+[[v3-3-15]]
+
+^<<v3-3-15,15>>^ e os dois rins e a gordura que há sobre eles, bem como a que há sobre os lombos. E quanto à acrescência sobre o fígado, tirá-la-á junto com os rins.
+
+[[v3-3-16]]
+
+^<<v3-3-16,16>>^ E o sacerdote tem de fazê-los fumegar sobre o altar como alimento, uma oferta feita por fogo como cheiro repousante. Toda a gordura pertence a Jeová.
+
+[[v3-3-17]]
+
+^<<v3-3-17,17>>^ “‘É um estatuto por tempo indefinido para as vossas gerações, em todos os vossos lugares de morada: Não deveis comer nenhuma gordura nem sangue algum.’”
+
+'''
+
+xref:003-levitico/003-levitico-002.adoc#v3-2-0[&#60; Capítulo Anterior] | <<v3-3-0,Topo>> | xref:003-levitico/003-levitico-004.adoc#v3-4-0[Próximo Capítulo &#62;]

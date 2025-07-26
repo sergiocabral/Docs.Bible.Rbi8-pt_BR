@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v19-32-0]]
+=== Salmos, 32
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_De Davi. Masquil.^&#42;1^_
+
+[[v19-32-1]]
+
+^<<v19-32-1,1>>^ Feliz é aquele cuja revolta é perdoada, cujo pecado é coberto.
+
+[[v19-32-2]]
+
+^<<v19-32-2,2>>^ Feliz é o homem^&#42;1^ a quem Jeová não imputa erro,
+E em cujo espírito não há engano.
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v19-32-3]]
+
+^<<v19-32-3,3>>^ Quando fiquei calado, meus ossos se gastaram por eu gemer^&#42;1^ o dia inteiro.
+
+[NOTE]
+====
+. Lit.: “rugir”.
+====
+
+[[v19-32-4]]
+
+^<<v19-32-4,4>>^ Porque de dia e de noite a tua mão pesava sobre mim.
+A seiva da minha vida se transformou como no calor seco do verão. Selá.
+
+[[v19-32-5]]
+
+^<<v19-32-5,5>>^ Finalmente te confessei meu pecado e não encobri meu erro.
+Eu disse: “Farei confissão das minhas transgressões a Jeová.”
+E tu mesmo perdoaste o erro dos meus pecados. Selá.
+
+[[v19-32-6]]
+
+^<<v19-32-6,6>>^ Por esta causa, todo aquele que é leal orará a ti
+Em tal tempo somente conforme puderes ser achado.
+Quanto à inundação de muitas águas, não tocarão nele próprio.
+
+[[v19-32-7]]
+
+^<<v19-32-7,7>>^ Tu és para mim um esconderijo; tu me resguardarás da própria aflição.
+Cercar-me-ás de brados alegres ao pôr-me a salvo. Selá.
+
+[[v19-32-8]]
+
+^<<v19-32-8,8>>^ “Eu te farei ter perspicácia e te instruirei no caminho em que deves andar.
+Vou dar conselho com o meu olho [fixo] em ti.^&#42;1^
+
+[NOTE]
+====
+. “Fixarei meu olho em ti”, mediante uma ligeira correção.
+====
+
+[[v19-32-9]]
+
+^<<v19-32-9,9>>^ Não vos façais iguais ao cavalo e ao mulo sem entendimento,
+Cuja fogosidade é preciso reprimir por meio de freio ou cabresto,
+Antes de se chegarem^&#42;1^ a ti.”
+
+[NOTE]
+====
+. Ou “para que não se cheguem”. Lit.: “não há aproximação”. Este verbo hebr. está aqui no infinitivo construto.
+====
+
+[[v19-32-10]]
+
+^<<v19-32-10,10>>^ Muitas são as dores do iníquo;
+Mas, quanto ao que confia em Jeová,^&#42;1^ cerca-o a própria benevolência.^&#42;2^
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+. Ou “amor leal”.
+====
+
+[[v19-32-11]]
+
+^<<v19-32-11,11>>^ Alegrai-vos em Jeová^&#42;1^ e sede jubilosos, ó justos;
+E gritai de júbilo, todos os que sois retos no coração.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+====
+
+'''
+
+xref:019-salmo/019-salmo-031.adoc#v19-31-0[&#60; Capítulo Anterior] | <<v19-32-0,Topo>> | xref:019-salmo/019-salmo-033.adoc#v19-33-0[Próximo Capítulo &#62;]

@@ -1,0 +1,94 @@
+include::./index.adoc[]
+
+[[v30-4-0]]
+=== Amós, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v30-4-1]]
+
+^<<v30-4-1,1>>^ “Ouvi esta palavra, ó vacas de Basã, que estais no monte de Samaria, que defraudais os de condição humilde, que esmagais os pobres, que dizeis aos [vossos] amos: ‘Traze deveras e bebamos!’
+
+[[v30-4-2]]
+
+^<<v30-4-2,2>>^ O Soberano Senhor Jeová jurou pela sua santidade: ‘“Eis que vêm sobre vós dias, e ele certamente vos levantará com ganchos de açougueiro e a vossa última parte com anzóis.
+
+[[v30-4-3]]
+
+^<<v30-4-3,3>>^ E saireis [pelas] brechas, cada uma diretamente para a frente;^&#42;1^ e haveis de ser lançadas fora^&#42;2^ para Harmom”, é a pronunciação de Jeová.’
+
+[NOTE]
+====
+. Lit.: “cada fêmea [hebr.: ’ish·sháh] adiante de si”.
+. “Haveis de ser lançadas fora”, mediante uma correção; M: “vós [hebr. fem. pl.] haveis de lançar fora”.
+====
+
+[[v30-4-4]]
+
+^<<v30-4-4,4>>^ “‘Vinde a Betel e cometei transgressão. Cometei freqüentemente transgressão em Gilgal e trazei vossos sacrifícios de manhã; vossas décimas partes,^&#42;1^ no terceiro dia.
+
+[NOTE]
+====
+. Ou “vossos dízimos”.
+====
+
+[[v30-4-5]]
+
+^<<v30-4-5,5>>^ E com o levedado fazei fumegar um sacrifício de agradecimento e proclamai ofertas voluntárias; publicai-o, pois é assim que [o] amastes, ó filhos de Israel’, é a pronunciação do Soberano Senhor Jeová.
+
+[[v30-4-6]]
+
+^<<v30-4-6,6>>^ “‘E também eu, da minha parte, vos dei limpeza de dentes em todas as vossas cidades e carência de pão em todos os vossos lugares; mas vós não retornastes a mim’, é a pronunciação de Jeová.
+
+[[v30-4-7]]
+
+^<<v30-4-7,7>>^ “‘E quanto a mim, também retive de vós o aguaceiro quando faltavam ainda três meses até à colheita; e fiz que chovesse numa cidade, mas não fiz chover noutra cidade. Havia um lote de terreno em que chovia, mas o lote de terreno em que eu não fazia chover^&#42;1^ secava-se.
+
+[NOTE]
+====
+. “Eu não fazia chover”, LXXVg; M: “não chovia”.
+====
+
+[[v30-4-8]]
+
+^<<v30-4-8,8>>^ E duas ou três cidades andaram cambaleantes a uma cidade para beber água, e não se saciavam; mas vós não retornastes a mim’, é a pronunciação de Jeová.
+
+[[v30-4-9]]
+
+^<<v30-4-9,9>>^ “‘Golpeei-vos com crestamento e com bolor. Multiplicavam-se os vossos jardins e os vossos vinhedos, mas as vossas figueiras e as vossas oliveiras foram devoradas pela lagarta; apesar disso, não retornastes a mim’, é a pronunciação de Jeová.
+
+[[v30-4-10]]
+
+^<<v30-4-10,10>>^ “‘Enviei entre vós uma peste do tipo daquela do Egito. Matei à espada os vossos jovens, levando também cativos os vossos cavalos. E eu fazia que o mau cheiro dos vossos acampamentos subisse nas vossas narinas; mas vós não retornastes a mim’, é a pronunciação de Jeová.
+
+[[v30-4-11]]
+
+^<<v30-4-11,11>>^ “‘Causei um derrubamento entre vós, como o derrubamento de Sodoma e Gomorra por Deus.^&#42;1^ E viestes a ser como um tição arrancado do incêndio; mas vós não retornastes a mim’, é a pronunciação de Jeová.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím; gr.: The·ós; lat.: Dé·us.
+====
+
+[[v30-4-12]]
+
+^<<v30-4-12,12>>^ “Portanto, isto é o que farei a ti, ó Israel. Em conseqüência do fato de que farei a ti esta mesma coisa, apronta-te para te encontrares com o teu Deus,^&#42;1^ ó Israel.
+
+[NOTE]
+====
+. “Teu Deus.” Hebr.: ’Elo·heí·kha.
+====
+
+[[v30-4-13]]
+
+^<<v30-4-13,13>>^ Pois, eis que o Formador dos montes e o Criador do vento, e Aquele que informa o homem terreno^&#42;1^ sobre qual é a sua preocupação mental,^&#42;2^ Aquele que torna a alva em obscuridade, e Aquele que pisa nos altos da terra, Jeová, Deus dos exércitos,^&#42;3^ é seu nome.”
+
+[NOTE]
+====
+. “O homem terreno.” Hebr.: le’a·dhám; gr.: an·thró·pous; lat.: hó·mi·ni.
+. “Qual é a sua preocupação mental”, M; LXX: “seu Cristo (Ungido)”.
+. “Deus dos exércitos”, M; LXX: “Deus, o Todo-poderoso.” Veja Re 11:17.
+====
+
+'''
+
+xref:030-amos/030-amos-003.adoc#v30-3-0[&#60; Capítulo Anterior] | <<v30-4-0,Topo>> | xref:030-amos/030-amos-005.adoc#v30-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,120 @@
+include::./index.adoc[]
+
+[[v19-17-0]]
+=== Salmos, 17
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma oração de Davi._
+
+[[v19-17-1]]
+
+^<<v19-17-1,1>>^ Ouve deveras o que é justo, ó Jeová; presta deveras atenção ao meu clamor suplicante;
+Dá deveras ouvidos à minha oração sem lábios de engano.
+
+[[v19-17-2]]
+
+^<<v19-17-2,2>>^ Saia de diante de ti meu julgamento;
+Observem os teus próprios olhos a retidão.
+
+[[v19-17-3]]
+
+^<<v19-17-3,3>>^ Examinaste meu coração, fizeste uma inspeção de noite,
+Tu me refinaste; descobrirás [que] nada tramei.
+Minha boca não transgredirá.
+
+[[v19-17-4]]
+
+^<<v19-17-4,4>>^ Quanto às atividades dos homens,^&#42;1^
+Pela palavra dos teus lábios eu me cuidei das veredas do salteador.
+
+[NOTE]
+====
+. Lit.: “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v19-17-5]]
+
+^<<v19-17-5,5>>^ Firmem-se os meus passos^&#42;1^ nos teus trilhos
+[Em que] certamente não se farão vacilar as minhas pisadas.
+
+[NOTE]
+====
+. Lit.: “Agarrem-se os meus passos.” O verbo hebr. nesta frase está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v19-17-6]]
+
+^<<v19-17-6,6>>^ Eu mesmo te chamo, porque tu me responderás, ó Deus.^&#42;1^
+Inclina-me o teu ouvido. Ouve a minha declaração.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v19-17-7]]
+
+^<<v19-17-7,7>>^ Faze maravilhosos os teus atos de benevolência,^&#42;1^ ó Salvador dos que buscam refugiar-se
+Daqueles que se revoltam contra a tua direita.
+
+[NOTE]
+====
+. Lit.: “tuas benevolências”.
+====
+
+[[v19-17-8]]
+
+^<<v19-17-8,8>>^ Guarda-me como a menina do olho,
+Que tu me escondas na sombra das tuas asas,
+
+[[v19-17-9]]
+
+^<<v19-17-9,9>>^ Por causa dos iníquos que me assolaram.
+Os próprios inimigos da minha alma me estão rodeando.
+
+[[v19-17-10]]
+
+^<<v19-17-10,10>>^ Encerraram-se com a sua própria gordura;
+Com a sua boca falaram em altivez;
+
+[[v19-17-11]]
+
+^<<v19-17-11,11>>^ Quanto aos nossos passos, agora nos cercaram;
+Fixam seus olhos para inclinar para a terra.
+
+[[v19-17-12]]
+
+^<<v19-17-12,12>>^ A semelhança dele é a dum leão que tem saudades de dilacerar
+E a dum leão novo sentado em esconderijos.
+
+[[v19-17-13]]
+
+^<<v19-17-13,13>>^ Levanta-te deveras, ó Jeová; confronta-o deveras na sua face;
+Faze-o dobrar-se; com a tua espada, deveras põe a minha alma a salvo do iníquo,
+
+[[v19-17-14]]
+
+^<<v19-17-14,14>>^ Dos homens, [pela] tua mão, ó Jeová,
+Dos homens [deste] sistema de coisas,^&#42;1^ cujo quinhão está [nesta] vida
+E cujo ventre enches com o teu tesouro escondido,
+Que se fartaram de filhos
+E que guardam deveras para suas crianças o que deixam sobrar.
+
+[NOTE]
+====
+. “[Deste] sistema de coisas.” Ou “da duração da vida”. Hebr.: me·hhé·ledh.
+====
+
+[[v19-17-15]]
+
+^<<v19-17-15,15>>^ Quanto a mim, contemplarei a tua face em justiça;
+Vou ficar satisfeito quando acordar [para ver] a tua figura.^&#42;1^
+
+[NOTE]
+====
+. Ou “acordar para com a tua figura”, M; mediante uma correção: “olhar para a tua figura”; LXX: “tua glória for vista”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-016.adoc#v19-16-0[&#60; Capítulo Anterior] | <<v19-17-0,Topo>> | xref:019-salmo/019-salmo-018.adoc#v19-18-0[Próximo Capítulo &#62;]

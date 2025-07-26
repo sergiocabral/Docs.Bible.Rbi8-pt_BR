@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v9-19-0]]
+=== 1 Samuel, 19
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-19-1]]
+
+^<<v9-19-1,1>>^ Por fim, Saul falou a Jonatã,^&#42;1^ seu filho, e a todos os seus servos de entregar Davi à morte.
+
+[NOTE]
+====
+. “Jonatã.” Hebr.: Yoh·na·thán. Em todas as outras referências ao filho de Saul, desde 18:1 até o fim de 2Sa, M tem Yehoh·na·thán, também traduzido por “Jonatã”.
+====
+
+[[v9-19-2]]
+
+^<<v9-19-2,2>>^ No que se referia a Jonatã, filho de Saul, agradava-se muito de Davi. Por isso, Jonatã informou Davi, dizendo: “Saul, meu pai, está procurando fazer que sejas morto. E agora, por favor, guarda-te de manhã, e tens de morar às escondidas e manter-te escondido.
+
+[[v9-19-3]]
+
+^<<v9-19-3,3>>^ E eu, da minha parte, sairei e hei de ficar de pé ao lado de meu pai no campo onde estiveres, e eu mesmo falarei por ti a meu pai e certamente verei o que se dará, e seguramente to contarei.”
+
+[[v9-19-4]]
+
+^<<v9-19-4,4>>^ Por conseguinte, Jonatã falou bem de Davi a Saul, seu pai, e disse-lhe: “Não peque o rei contra seu servo Davi, pois ele não pecou para contigo e seus feitos têm sido muito bons para contigo.
+
+[[v9-19-5]]
+
+^<<v9-19-5,5>>^ E ele passou a pôr a sua alma na palma da mão e a golpear o filisteu, de modo que Jeová realizou uma grande salvação^&#42;1^ para todo o Israel. Tu o viste e te alegraste. Assim, por que devias pecar contra sangue inocente, fazendo que Davi seja morto por nada?”
+
+[NOTE]
+====
+. Sy acrescenta: “pela sua mão”.
+====
+
+[[v9-19-6]]
+
+^<<v9-19-6,6>>^ Saul obedeceu então à voz de Jonatã e Saul jurou: “Por Jeová que vive, ele não será morto.”
+
+[[v9-19-7]]
+
+^<<v9-19-7,7>>^ Depois, Jonatã chamou a Davi e Jonatã contou-lhe todas estas palavras. Jonatã trouxe então Davi a Saul e ele continuou diante dele assim como antes.
+
+[[v9-19-8]]
+
+^<<v9-19-8,8>>^ Com o tempo irrompeu novamente uma guerra, e Davi fez surtidas e lutou contra os filisteus, e foi golpeá-los com uma grande matança, e eles se puseram em fuga diante dele.
+
+[[v9-19-9]]
+
+^<<v9-19-9,9>>^ E o espírito mau da parte de Jeová^&#42;1^ veio a estar sobre Saul quando estava sentado na sua casa, tendo na mão a sua lança, enquanto Davi tocava música com a sua mão.
+
+[NOTE]
+====
+. “Da parte de Jeová”, MSyVg; LXX: “da parte de Deus”.
+====
+
+[[v9-19-10]]
+
+^<<v9-19-10,10>>^ Em conseqüência, Saul procurou cravar Davi com a lança na parede, mas ele se esquivou de diante de Saul, de modo que fez a lança penetrar na parede. E o próprio Davi fugiu para escapar durante aquela noite.
+
+[[v9-19-11]]
+
+^<<v9-19-11,11>>^ Mais tarde, Saul enviou mensageiros à casa de Davi para que a vigiassem e para que o entregassem à morte pela manhã; porém, Mical, esposa deste, informou Davi, dizendo: “Se não deixares a tua alma escapar hoje à noite, serás amanhã um homem entregue à morte.”
+
+[[v9-19-12]]
+
+^<<v9-19-12,12>>^ Imediatamente, Mical fez Davi descer por uma janela, para que fosse e fugisse, e escapasse.
+
+[[v9-19-13]]
+
+^<<v9-19-13,13>>^ Mical tomou então a imagem do terafim e a colocou no leito, e no lugar da sua cabeça pôs uma rede^&#42;1^ de pêlos de cabra, cobrindo-a depois com uma roupa.
+
+[NOTE]
+====
+. Ou “acolchoado”.
+====
+
+[[v9-19-14]]
+
+^<<v9-19-14,14>>^ Saul enviou então mensageiros para que trouxessem Davi, mas ela disse: “Ele está doente.”
+
+[[v9-19-15]]
+
+^<<v9-19-15,15>>^ Portanto, Saul enviou os mensageiros para verem Davi, dizendo: “Trazei-mo no seu leito cá para cima, para que seja morto.”
+
+[[v9-19-16]]
+
+^<<v9-19-16,16>>^ Quando os mensageiros entraram, ora, eis que havia no leito a imagem do terafim e uma rede de pêlos de cabra no lugar da sua cabeça.
+
+[[v9-19-17]]
+
+^<<v9-19-17,17>>^ Em vista disso, Saul disse a Mical: “Por que me lograste assim, mandando meu inimigo embora para que escapasse?” Mical, por sua vez, disse a Saul: “Ele mesmo me disse: ‘Manda-me embora! Por que devia eu entregar-te à morte?’”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Manda-me embora, para que eu não te entregue à morte.”
+====
+
+[[v9-19-18]]
+
+^<<v9-19-18,18>>^ Quanto a Davi, fugiu e escapou, e chegou a Samuel, em Ramá. E passou a contar-lhe tudo o que Saul lhe tinha feito. Então, tanto ele como Samuel foram embora e passaram a morar em Naiote.
+
+[[v9-19-19]]
+
+^<<v9-19-19,19>>^ Com o tempo comunicou-se a Saul, dizendo-se: “Eis que Davi está em Naiote, em Ramá.”
+
+[[v9-19-20]]
+
+^<<v9-19-20,20>>^ Saul enviou imediatamente mensageiros para que trouxessem Davi. Quando chegaram a ver os idosos^&#42;1^ dos profetas profetizando e Samuel ocupando a sua posição sobre eles, veio a estar sobre os mensageiros de Saul o espírito de Deus e eles, sim, eles também começaram a comportar-se como profetas.
+
+[NOTE]
+====
+. Possivelmente: “companhia; grupo”. LXX: “eclésia”; Sy: “assembléia”; Vg: “divisão-cunha”.
+====
+
+[[v9-19-21]]
+
+^<<v9-19-21,21>>^ Quando se contou isso a Saul, enviou imediatamente outros mensageiros, e eles, sim, eles também começaram a comportar-se como profetas. De modo que Saul enviou novamente mensageiros, um terceiro grupo, e eles, sim, eles também começaram a comportar-se como profetas.
+
+[[v9-19-22]]
+
+^<<v9-19-22,22>>^ Por fim, ele também foi a Ramá. E chegando até a grande cisterna que há em Secu,^&#42;1^ começou a indagar e a dizer: “Onde estão Samuel e Davi?” A isso disseram: “Lá em Naiote, em Ramá.”
+
+[NOTE]
+====
+. “O poço da eira que há em Sefi [outeiro calvo]”, LXX.
+====
+
+[[v9-19-23]]
+
+^<<v9-19-23,23>>^ E ele seguiu dali adiante para Naiote, em Ramá, e veio a estar sobre ele o espírito de Deus, sim, sobre ele, e seguiu andando e continuou a comportar-se como profeta, até entrar em Naiote, em Ramá.
+
+[[v9-19-24]]
+
+^<<v9-19-24,24>>^ E ele também passou a despir-se das suas roupas e a comportar-se, sim, também ele, como profeta diante de Samuel, e ficou deitado nu^&#42;1^ todo aquele dia e toda aquela noite. É por isso que se chegou a dizer: “Está Saul também entre os profetas?”
+
+[NOTE]
+====
+. Ou “pouco vestido”.
+====
+
+'''
+
+xref:009-1-samuel/009-1-samuel-018.adoc#v9-18-0[&#60; Capítulo Anterior] | <<v9-19-0,Topo>> | xref:009-1-samuel/009-1-samuel-020.adoc#v9-20-0[Próximo Capítulo &#62;]

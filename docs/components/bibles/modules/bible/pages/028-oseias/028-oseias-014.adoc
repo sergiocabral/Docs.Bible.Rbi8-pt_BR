@@ -1,0 +1,66 @@
+include::./index.adoc[]
+
+[[v28-14-0]]
+=== Oseias, 14
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v28-14-1]]
+
+^<<v28-14-1,1>>^ “Volta deveras a Jeová, teu Deus, ó Israel, pois tropeçaste no teu erro.
+
+[[v28-14-2]]
+
+^<<v28-14-2,2>>^ Tomai convosco palavras e voltai a Jeová. Dizei-lhe, todos vós: ‘Que tu perdoes o erro; e aceita o que é bom, e nós ofereceremos em troca os novilhos de nossos lábios.^&#42;1^
+
+[NOTE]
+====
+. “Os novilhos de nossos lábios”, MVg; LXX: “o fruto de nossos lábios”.
+====
+
+[[v28-14-3]]
+
+^<<v28-14-3,3>>^ A própria Assíria não nos salvará. Não cavalgaremos em cavalos. E não mais diremos: “Ó nosso Deus!” ao trabalho das nossas mãos, porque és tu que tens misericórdia para com o menino órfão de pai.’
+
+[[v28-14-4]]
+
+^<<v28-14-4,4>>^ “Sararei a sua infidelidade. Amá-los-ei de [minha] própria vontade, porque a minha ira recuou dele.
+
+[[v28-14-5]]
+
+^<<v28-14-5,5>>^ Tornar-me-ei^&#42;1^ para Israel como orvalho. Ele florescerá como lírio e lançará as suas raízes como o Líbano.
+
+[NOTE]
+====
+. Ou: “Mostrarei ser.” Veja Êx 3:14 n.
+====
+
+[[v28-14-6]]
+
+^<<v28-14-6,6>>^ Sairão os seus rebentos, e a sua dignidade se tornará igual à da oliveira, e sua fragrância será como a do Líbano.
+
+[[v28-14-7]]
+
+^<<v28-14-7,7>>^ Morarão novamente à sua sombra. Cultivarão cereais e florescerão como a videira. A recordação dele^&#42;1^ será como o vinho do Líbano.
+
+[NOTE]
+====
+. “A recordação dele.” Ou: “A menção Dele.” Hebr.: zikh·róh.
+====
+
+[[v28-14-8]]
+
+^<<v28-14-8,8>>^ “Efraim [dirá]: ‘Que é que eu tenho ainda com os ídolos?’^&#42;1^
+“Eu mesmo certamente darei resposta e continuarei a reparar nele. Sou semelhante a um frondoso junípero. Em mim se tem de achar fruto para vós.”
+
+[NOTE]
+====
+. Lit.: “Que para mim, contudo para os ídolos?” Esta é uma expressão idiomática hebr.; é uma pergunta de repulsa para indicar objeção aos ídolos. Veja Ap. 7B.
+====
+
+[[v28-14-9]]
+
+^<<v28-14-9,9>>^ Quem é sábio para entender estas coisas? Discreto, para sabê-las? Pois os caminhos de Jeová são retos e os justos serão os que andarão neles; mas os transgressores serão os que tropeçarão neles.
+
+'''
+
+xref:028-oseias/028-oseias-013.adoc#v28-13-0[&#60; Capítulo Anterior] | <<v28-14-0,Topo>> | xref:029-joel/029-joel-001.adoc#v29-1-0[Próximo Capítulo &#62;]

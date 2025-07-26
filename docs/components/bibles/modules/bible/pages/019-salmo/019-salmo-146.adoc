@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v19-146-0]]
+=== Salmos, 146
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-146-1]]
+
+^<<v19-146-1,1>>^ Louvai a Jah!^&#42;1^
+Louve a Jeová, ó minha alma.
+
+[NOTE]
+====
+. Veja 104:35 n.
+====
+
+[[v19-146-2]]
+
+^<<v19-146-2,2>>^ Vou louvar a Jeová durante a minha vida.
+Vou entoar melodias ao meu Deus enquanto eu existir.
+
+[[v19-146-3]]
+
+^<<v19-146-3,3>>^ Não confieis nos nobres,
+Nem no filho do homem terreno,^&#42;1^ a quem não pertence a salvação.
+
+[NOTE]
+====
+. “Homem terreno.” Hebr.: ’a·dhám.
+====
+
+[[v19-146-4]]
+
+^<<v19-146-4,4>>^ Sai-lhe o espírito,^&#42;1^ ele volta ao seu solo;
+Neste dia perecem^&#42;2^ deveras os seus pensamentos.
+
+[NOTE]
+====
+. Ou “o fôlego”. Hebr.: ru·hhóh; gr.: pneú·ma; lat.: spí·ri·tus.
+. Ou “pereceram; têm de perecer”.
+====
+
+[[v19-146-5]]
+
+^<<v19-146-5,5>>^ Feliz aquele que tem o Deus^&#42;1^ de Jacó por sua ajuda,
+Cuja esperança é em Jeová, seu Deus,
+
+[NOTE]
+====
+. “Aquele que tem o Deus de.” Hebr.: she·’Él.
+====
+
+[[v19-146-6]]
+
+^<<v19-146-6,6>>^ Aquele que fez o céu e a terra,
+O mar e tudo o que neles há,
+Aquele que mantém a veracidade por tempo indefinido,
+
+[[v19-146-7]]
+
+^<<v19-146-7,7>>^ Aquele que executa o julgamento para os defraudados,
+Aquele que dá pão aos famintos.
+Jeová solta os que estão presos.
+
+[[v19-146-8]]
+
+^<<v19-146-8,8>>^ Jeová abre [os olhos dos] cegos;
+Jeová ergue os encurvados;
+Jeová ama os justos.
+
+[[v19-146-9]]
+
+^<<v19-146-9,9>>^ Jeová guarda os residentes forasteiros;
+Alivia o menino órfão de pai e a viúva,
+Mas entorta o caminho dos iníquos.
+
+[[v19-146-10]]
+
+^<<v19-146-10,10>>^ Jeová será rei por tempo indefinido,
+Teu Deus, ó Sião, por geração após geração.
+Louvai a Jah!
+
+'''
+
+xref:019-salmo/019-salmo-145.adoc#v19-145-0[&#60; Capítulo Anterior] | <<v19-146-0,Topo>> | xref:019-salmo/019-salmo-147.adoc#v19-147-0[Próximo Capítulo &#62;]

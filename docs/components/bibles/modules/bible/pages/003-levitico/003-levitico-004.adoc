@@ -1,0 +1,211 @@
+include::./index.adoc[]
+
+[[v3-4-0]]
+=== Levítico, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-4-1]]
+
+^<<v3-4-1,1>>^ E Jeová prosseguiu falando a Moisés, dizendo:
+
+[[v3-4-2]]
+
+^<<v3-4-2,2>>^ “Fala aos filhos de Israel, dizendo: ‘Caso uma alma peque por engano^&#42;1^ em qualquer das coisas que Jeová manda que não se façam e realmente faça uma delas:
+
+[NOTE]
+====
+. Ou “sem querer”.
+====
+
+[[v3-4-3]]
+
+^<<v3-4-3,3>>^ “‘Se o sacerdote, o ungido,^&#42;1^ pecar de modo a trazer culpa sobre o povo, então, pelo pecado que cometeu, terá de apresentar a Jeová um novilho^&#42;2^ sadio, como oferta pelo pecado.^&#42;3^
+
+[NOTE]
+====
+. “O ungido.” Hebr.: ham·ma·shí·ahh; gr.: ho ke·khrí·smé·nos.
+. Lit.: “um touro sadio, filho da manada”.
+. “Como oferta pelo pecado”, M; LXXSy: “a respeito de seu pecado”.
+====
+
+[[v3-4-4]]
+
+^<<v3-4-4,4>>^ E tem de trazer o novilho à entrada da tenda de reunião, perante Jeová, e tem de pôr a mão sobre a cabeça do novilho e tem de abater o novilho perante Jeová.
+
+[[v3-4-5]]
+
+^<<v3-4-5,5>>^ E o sacerdote, o ungido,^&#42;1^ tem de tomar um pouco do sangue do novilho e trazê-lo para dentro da tenda de reunião;
+
+[NOTE]
+====
+. “O ungido.” Hebr.: ham·ma·shí·ahh; gr.: ho khri·stós. Tanto aqui como no v. 3 o sumo sacerdote é chamado de messias, ou ungido.
+====
+
+[[v3-4-6]]
+
+^<<v3-4-6,6>>^ e o sacerdote tem de mergulhar^&#42;1^ seu dedo no sangue e espargir um pouco do sangue sete vezes perante Jeová, diante da cortina do lugar santo.
+
+[NOTE]
+====
+. Ou “imergir; batizar”. Gr.: bá·psei.
+====
+
+[[v3-4-7]]
+
+^<<v3-4-7,7>>^ E o sacerdote tem de pôr um pouco do sangue sobre os chifres do altar do incenso perfumado que está na tenda de reunião, perante Jeová, e todo o resto do sangue do novilho ele derramará junto à base do altar da oferta queimada, que está à entrada da tenda de reunião.
+
+[[v3-4-8]]
+
+^<<v3-4-8,8>>^ “‘Quanto a toda a gordura do novilho da oferta pelo pecado, retirará dela a gordura que cobre os intestinos, sim, toda a gordura que há sobre os intestinos,
+
+[[v3-4-9]]
+
+^<<v3-4-9,9>>^ e os dois rins e a gordura que há sobre eles, bem como a que há sobre os lombos. E quanto à acrescência sobre o fígado, tirá-la-á junto com os rins.
+
+[[v3-4-10]]
+
+^<<v3-4-10,10>>^ Será igual ao que se retira dum touro do sacrifício de participação em comum. E o sacerdote tem de fazê-los fumegar sobre o altar da oferta queimada.
+
+[[v3-4-11]]
+
+^<<v3-4-11,11>>^ “‘Mas quanto à pele do novilho e toda a sua carne, junto com a sua cabeça, e suas pernas, e seus intestinos, e seu esterco,
+
+[[v3-4-12]]
+
+^<<v3-4-12,12>>^ ele tem de fazer que o novilho inteiro seja levado para fora, às imediações do acampamento, a um lugar limpo, onde se lançam as cinzas gordurosas, e tem de queimá-lo sobre lenha, no fogo. Deve ser queimado onde se lançam as cinzas gordurosas.
+
+[[v3-4-13]]
+
+^<<v3-4-13,13>>^ “‘Ora, se a assembléia inteira de Israel cometeu um engano e o assunto ficou oculto dos olhos da congregação, tendo eles feito uma de todas as coisas que Jeová manda que não se façam e assim se tornaram culpados,
+
+[[v3-4-14]]
+
+^<<v3-4-14,14>>^ e o pecado que cometeram contra ela ficou conhecido, então a congregação tem de apresentar um novilho como sacrifício pelo pecado e tem de levá-lo diante da tenda de reunião.
+
+[[v3-4-15]]
+
+^<<v3-4-15,15>>^ E os anciãos da assembléia têm de pôr suas mãos sobre a cabeça do novilho, perante Jeová, e o novilho tem de ser abatido^&#42;1^ perante Jeová.
+
+[NOTE]
+====
+. “E terão de abater o novilho”, LXXSy; M: “e ele terá de abater o novilho”, indicando que apenas um dos anciãos faria o abate.
+====
+
+[[v3-4-16]]
+
+^<<v3-4-16,16>>^ “‘Então o sacerdote, o ungido,^&#42;1^ tem de levar um pouco do sangue do novilho para dentro da tenda de reunião.
+
+[NOTE]
+====
+. “O ungido.” Hebr.: ham·ma·shí·ahh; gr.: ho khri·stós; sir.: dam·shihh.
+====
+
+[[v3-4-17]]
+
+^<<v3-4-17,17>>^ E o sacerdote tem de mergulhar o dedo no sangue e espargi-lo sete vezes perante Jeová, diante da cortina.^&#42;1^
+
+[NOTE]
+====
+. “Cortina do lugar santo”, SamLXX e um ms. hebr.
+====
+
+[[v3-4-18]]
+
+^<<v3-4-18,18>>^ E porá um pouco do sangue sobre os chifres do altar que está diante de Jeová, na tenda de reunião; e todo o resto do sangue derramará junto à base do altar da oferta queimada, que está à entrada da tenda de reunião.
+
+[[v3-4-19]]
+
+^<<v3-4-19,19>>^ E retirará dele toda a sua gordura e terá de fazê-la fumegar sobre o altar.
+
+[[v3-4-20]]
+
+^<<v3-4-20,20>>^ E terá de fazer com o novilho assim como fez com o outro novilho da oferta pelo pecado. É assim que fará com ele; e o sacerdote tem de fazer expiação por^&#42;1^ eles, e assim lhes tem de ser perdoado.
+
+[NOTE]
+====
+. Lit.: “fazer cobertura”.
+====
+
+[[v3-4-21]]
+
+^<<v3-4-21,21>>^ E ele tem de fazer que o novilho seja levado para fora, às imediações do acampamento, e tem de queimá-lo, assim como queimou o primeiro novilho. É uma oferta pelo pecado para a congregação.
+
+[[v3-4-22]]
+
+^<<v3-4-22,22>>^ “‘Quando um chefe peca e sem querer comete uma de todas as coisas que Jeová, seu Deus, manda que não se façam, e assim se torna culpado,
+
+[[v3-4-23]]
+
+^<<v3-4-23,23>>^ ou se lhe fez saber o pecado que cometeu contra o mandamento,^&#42;1^ então tem de trazer como sua oferta um cabritinho sadio.
+
+[NOTE]
+====
+. Lit.: “ele”, hebr. fem., referindo-se ao mandamento.
+====
+
+[[v3-4-24]]
+
+^<<v3-4-24,24>>^ E ele tem de pôr sua mão sobre a cabeça do bode novo^&#42;1^ e tem de abatê-lo no lugar onde se abate regularmente a oferta queimada perante Jeová. É uma oferta pelo pecado.
+
+[NOTE]
+====
+. Ou “do cabritinho”.
+====
+
+[[v3-4-25]]
+
+^<<v3-4-25,25>>^ E o sacerdote tem de tomar com o seu dedo um pouco do sangue da oferta pelo pecado e pô-lo sobre os chifres do altar da oferta queimada, e derramará o resto do sangue dela junto à base do altar da oferta queimada.
+
+[[v3-4-26]]
+
+^<<v3-4-26,26>>^ E fará fumegar toda a sua gordura sobre o altar, igual à gordura do sacrifício de participação em comum; e o sacerdote tem de fazer expiação por ele, pelo seu pecado, e assim lhe tem de ser perdoado.
+
+[[v3-4-27]]
+
+^<<v3-4-27,27>>^ “‘E se alguma alma do povo da terra pecar sem querer, por fazer uma das coisas que Jeová^&#42;1^ manda que não se façam, e ele deveras se tornar culpado,
+
+[NOTE]
+====
+. Veja 3:12 n.; Ap. 1C sec. 5.
+====
+
+[[v3-4-28]]
+
+^<<v3-4-28,28>>^ ou se lhe fez saber o pecado que cometeu, então terá de trazer como sua oferta uma cabritinha sadia, pelo pecado que cometeu.
+
+[[v3-4-29]]
+
+^<<v3-4-29,29>>^ E tem de pôr sua mão sobre a cabeça da oferta pelo pecado e tem de abater a oferta pelo pecado no mesmo lugar da oferta queimada.
+
+[[v3-4-30]]
+
+^<<v3-4-30,30>>^ E o sacerdote tem de tomar com o seu dedo um pouco do sangue dela e pô-lo sobre os chifres do altar da oferta queimada, e derramará todo o resto do sangue dela junto à base do altar.
+
+[[v3-4-31]]
+
+^<<v3-4-31,31>>^ E tirará toda a gordura dela, assim como se tirou a gordura do sacrifício de participação em comum; e o sacerdote tem de fazê-la fumegar sobre o altar como cheiro repousante para Jeová; e o sacerdote tem de fazer expiação por ele, e assim lhe tem de ser perdoado.
+
+[[v3-4-32]]
+
+^<<v3-4-32,32>>^ “‘Mas, se trouxer como sua oferta um cordeiro^&#42;1^ para uma oferta pelo pecado, deve trazer uma fêmea sadia.
+
+[NOTE]
+====
+. “Um cordeiro”, M; Sam: “uma cordeira”.
+====
+
+[[v3-4-33]]
+
+^<<v3-4-33,33>>^ E tem de pôr sua mão sobre a cabeça da oferta pelo pecado e tem de abatê-la como oferta pelo pecado no lugar onde se abate regularmente a oferta queimada.
+
+[[v3-4-34]]
+
+^<<v3-4-34,34>>^ E o sacerdote tem de tomar com o seu dedo um pouco do sangue da oferta pelo pecado e pô-lo sobre os chifres do altar da oferta queimada, e derramará todo o resto do sangue dela junto à base do altar.
+
+[[v3-4-35]]
+
+^<<v3-4-35,35>>^ E tirará toda a gordura dela, assim como se tira regularmente a gordura do carneirinho do sacrifício de participação em comum, e o sacerdote terá de fazê-la fumegar sobre o altar, sobre as ofertas de Jeová feitas por fogo; e o sacerdote tem de fazer expiação por ele, pelo pecado que cometeu, e assim lhe tem de ser perdoado.
+
+'''
+
+xref:003-levitico/003-levitico-003.adoc#v3-3-0[&#60; Capítulo Anterior] | <<v3-4-0,Topo>> | xref:003-levitico/003-levitico-005.adoc#v3-5-0[Próximo Capítulo &#62;]

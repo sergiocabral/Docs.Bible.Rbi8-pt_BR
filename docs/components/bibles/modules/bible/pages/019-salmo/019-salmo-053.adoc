@@ -1,0 +1,78 @@
+include::./index.adoc[]
+
+[[v19-53-0]]
+=== Salmos, 53
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, sobre Maalate.^&#42;1^ Masquil.^&#42;2^ De Davi._
+
+[[v19-53-1]]
+
+^<<v19-53-1,1>>^ O insensato disse no seu coração:
+“Não há Jeová.”^&#42;1^
+Agiram ruinosamente e agiram de modo detestável em injustiça;
+Não há quem faça o bem.
+
+[NOTE]
+====
+. Uma das 8 mudanças de YHWH para ’Elo·hím feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-53-2]]
+
+^<<v19-53-2,2>>^ Quanto a Deus,^&#42;1^ olhou para baixo sobre os filhos dos homens desde o próprio céu,
+Para ver se havia alguém com perspicácia,^&#42;2^ alguém que buscasse a Jeová.^&#42;3^
+
+[NOTE]
+====
+. “Deus”, MTVg; no texto paralelo de 14:2: “Jeová”.
+. “Com perspicácia.” Ou “agindo com discrição”. Hebr.: mas·kíl. Veja 32:cab. n.
+. Uma das 8 mudanças de YHWH para ’Elo·hím feitas pelos escribas; T e 14:2: “Jeová”; MLXXVg: “Deus”. Veja Ap. 1B.
+====
+
+[[v19-53-3]]
+
+^<<v19-53-3,3>>^ Todos retrocederam, [todos] são igualmente corruptos;
+Não há quem faça o bem,
+Nem sequer um.
+
+[[v19-53-4]]
+
+^<<v19-53-4,4>>^ Acaso nenhum dos que praticam o que é prejudicial tem conhecimento,
+Devorando meu povo assim como comeram pão?
+Não invocaram nem mesmo a Jeová.^&#42;1^
+
+[NOTE]
+====
+. Uma das 8 mudanças de YHWH para ’Elo·hím feitas pelos escribas; T, alguns mss. hebr. e 14:4: “Jeová”; MLXXSyVg: “Deus”. Veja Ap. 1B.
+====
+
+[[v19-53-5]]
+
+^<<v19-53-5,5>>^ Ali se encheram de grande pavor,^&#42;1^
+Onde não se mostrara haver pavor;
+Porque o próprio Deus^&#42;2^ certamente dispersará os ossos de todo aquele que se acampar contra ti.
+Tu certamente [os] envergonharás, pois o próprio Jeová^&#42;3^ os rejeitou.
+
+[NOTE]
+====
+. Lit.: “se apavoraram dum pavor”.
+. “Deus”, MLXXVg; dois mss. hebr.: “Jeová”.
+. Uma das 8 mudanças de YHWH para ’Elo·hím feitas pelos escribas; T: “Jeová”. Veja Ap. 1B.
+====
+
+[[v19-53-6]]
+
+^<<v19-53-6,6>>^ Quem dera que viesse de Sião a grandiosa salvação de Israel!
+Quando Jeová^&#42;1^ ajuntar de volta^&#42;2^ os cativos do seu povo,
+Jubile Jacó, alegre-se Israel.
+
+[NOTE]
+====
+. Uma das 8 mudanças de YHWH para ’Elo·hím feitas pelos escribas; TLXXSy, muitos mss. hebr. e 14:7: “Jeová”. Veja Ap. 1B.
+. Ou “voltar com”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-052.adoc#v19-52-0[&#60; Capítulo Anterior] | <<v19-53-0,Topo>> | xref:019-salmo/019-salmo-054.adoc#v19-54-0[Próximo Capítulo &#62;]

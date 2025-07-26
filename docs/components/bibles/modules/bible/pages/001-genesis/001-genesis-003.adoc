@@ -1,0 +1,173 @@
+include::./index.adoc[]
+
+[[v1-3-0]]
+=== Gênesis, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-3-1]]
+
+^<<v1-3-1,1>>^ Ora, a serpente mostrava ser o mais cauteloso de todos os animais selváticos do campo, que Jeová Deus havia feito. Assim, ela começou a dizer à mulher: “É realmente assim que Deus disse, que não deveis comer de toda árvore do jardim?”
+
+[[v1-3-2]]
+
+^<<v1-3-2,2>>^ A isso a mulher disse à serpente: “Do fruto das árvores^&#42;1^ do jardim podemos comer.
+
+[NOTE]
+====
+. Lit.: “árvore”, sing., mas em sentido coletivo, denotando um arvoredo ou bosque.
+====
+
+[[v1-3-3]]
+
+^<<v1-3-3,3>>^ Mas, quanto [a comer] do fruto da árvore que está no meio do jardim, Deus disse: ‘Não deveis comer dele, não, nem deveis tocar nele, para que não morrais.’”
+
+[[v1-3-4]]
+
+^<<v1-3-4,4>>^ A isso a serpente disse à mulher: “Positivamente não morrereis.^&#42;1^
+
+[NOTE]
+====
+. “Positivamente não morrereis.” Lit.: “não morrendo morrereis”. Hebr.: lo’-móhth temu·thún. Veja 2:17.
+====
+
+[[v1-3-5]]
+
+^<<v1-3-5,5>>^ Porque Deus sabe que, no mesmo dia em que comerdes dele, forçosamente se abrirão os vossos olhos e forçosamente sereis como Deus,^&#42;1^ sabendo o que é bom e o que é mau.”
+
+[NOTE]
+====
+. “Como Deus.” Hebr.: kE’·lo·hím, sem o artigo definido. Este título está no plural para denotar majestade ou excelência.
+====
+
+[[v1-3-6]]
+
+^<<v1-3-6,6>>^ Conseqüentemente, a mulher viu que a árvore era boa para alimento e que era algo para os olhos anelarem, sim, a árvore era desejável para se contemplar.^&#42;1^ De modo que começou a tomar do seu fruto e a comê-lo. Depois deu também dele a seu esposo,^&#42;2^ quando estava com ela, e ele começou a comê-lo.
+
+[NOTE]
+====
+. “Para se contemplar”, LXXSyVg. Lit.: “para dar sabedoria (inteligência; prudência)”.
+. Ou “a seu homem”. Hebr.: le’i·sháh.
+====
+
+[[v1-3-7]]
+
+^<<v1-3-7,7>>^ Abriram-se então os olhos de ambos e começaram a perceber que estavam nus. Por isso coseram folhas de figueira e fizeram para si coberturas para os lombos.
+
+[[v1-3-8]]
+
+^<<v1-3-8,8>>^ Mais tarde ouviram a voz^&#42;1^ de Jeová Deus que andava pelo jardim, por volta da viração^&#42;2^ do dia, e o homem^&#42;3^ e sua esposa foram esconder-se da face de Jeová Deus entre as árvores do jardim.
+
+[NOTE]
+====
+. Ou “o som”.
+. Lit.: “por volta da brisa do”. Hebr.: lerú·ahh, a mesma palavra básica traduzida “força ativa” em 1:2.
+. Ou “o homem terreno”. Hebr.: ha·’a·dhám; LXXSyVg: “e Adão”.
+====
+
+[[v1-3-9]]
+
+^<<v1-3-9,9>>^ E Jeová Deus chamava o homem e dizia-lhe: “Onde estás?”
+
+[[v1-3-10]]
+
+^<<v1-3-10,10>>^ Por fim, ele disse: “Ouvi a tua voz no jardim, mas tive medo, porque estava nu, e por isso me escondi.”
+
+[[v1-3-11]]
+
+^<<v1-3-11,11>>^ A isso ele disse: “Quem te informou que estavas nu? Comeste da árvore de que te mandei que não comesses?”
+
+[[v1-3-12]]
+
+^<<v1-3-12,12>>^ E o homem prosseguiu, dizendo: “A mulher que me deste^&#42;1^ para estar comigo, ela me deu [do fruto] da árvore e por isso comi.”
+
+[NOTE]
+====
+. Ou “que puseste”.
+====
+
+[[v1-3-13]]
+
+^<<v1-3-13,13>>^ Com isso, Jeová Deus disse à mulher: “Que é que fizeste?” A que a mulher respondeu: “A serpente — ela me enganou e por isso comi.”
+
+[[v1-3-14]]
+
+^<<v1-3-14,14>>^ E Jeová^&#42;1^ Deus passou a dizer à serpente: “Porque fizeste isso, maldita és dentre todos os animais domésticos e dentre todos^&#42;2^ os animais selváticos do campo. Sobre o teu ventre andarás e pó é o que comerás^&#42;3^ todos os dias da tua vida.
+
+[NOTE]
+====
+. Hebr.: Yeho·wáh. A primeira de numerosas ocorrências em BHS, onde o nome divino tem sinais vocálicos com a vogal “o” adicional. Veja 2:4 n.: “Jeová”; Ap. 1A.
+. Ou “maldita és como nenhum outro de”.
+. Ou “morderás”.
+====
+
+[[v1-3-15]]
+
+^<<v1-3-15,15>>^ E porei inimizade entre ti e a mulher, e entre o teu descendente^&#42;1^ e o seu descendente. Ele^&#42;2^ te machucará^&#42;3^ a cabeça e tu lhe^&#42;4^ machucarás o calcanhar.”
+
+[NOTE]
+====
+. Ou “prole; posteridade”.
+. “Ele”, M(hebr.: hu’)LXXSyVgmss.
+. Esta versão concorda com a referência a esta pronunciação divina em Ro 16:20, onde a palavra gr. usada significa “esmagar” ou “machucar”.
+. “Lhe”, MLXXSy; isto é, o “descendente” da mulher, em hebr. masc.
+====
+
+[[v1-3-16]]
+
+^<<v1-3-16,16>>^ À mulher ele disse: “Aumentarei grandemente a dor da tua gravidez;^&#42;1^ em dores de parto darás à luz filhos, e terás desejo ardente de teu esposo, e ele te dominará.”
+
+[NOTE]
+====
+. Lit.: “aumentarei a tua dor e a tua gravidez”. Esta é uma figura de hendíadis, na qual duas palavras são ligadas por “e”, mas a referência é a uma só coisa.
+====
+
+[[v1-3-17]]
+
+^<<v1-3-17,17>>^ E a Adão ele disse: “Porque escutaste a voz de tua esposa e foste comer da árvore a respeito da qual te ordenei, dizendo: ‘Não deves comer dela’, maldito é o solo por tua causa. Em dor comerás dos seus produtos todos os dias da tua vida.
+
+[[v1-3-18]]
+
+^<<v1-3-18,18>>^ E ele fará brotar para ti espinhos e abrolhos, e terás de comer a vegetação do campo.
+
+[[v1-3-19]]
+
+^<<v1-3-19,19>>^ No suor do teu rosto comerás pão, até que voltes ao solo, pois dele foste tomado. Porque tu és pó e ao pó voltarás.”
+
+[[v1-3-20]]
+
+^<<v1-3-20,20>>^ Depois disso, Adão chamou a sua esposa pelo nome de Eva,^&#42;1^ porque ela havia de tornar-se a mãe de todos os viventes.
+
+[NOTE]
+====
+. Significando “Vivente”, fem. hebr.: Hhaw·wáh; gr.: Zo·é, “Vida”; Vgc(lat.): Hé·va.
+====
+
+[[v1-3-21]]
+
+^<<v1-3-21,21>>^ E Jeová Deus passou a fazer vestes compridas de peles para Adão e para a sua esposa, e a vesti-los.
+
+[[v1-3-22]]
+
+^<<v1-3-22,22>>^ E Jeová Deus prosseguiu, dizendo: “Eis que o homem se tem tornado como um de nós, sabendo o que é bom e o que é mau, e agora, a fim de que não estenda a sua mão e tome realmente também [do fruto] da árvore da vida, e coma, e viva por tempo indefinido —”
+
+[[v1-3-23]]
+
+^<<v1-3-23,23>>^ Com isso, Jeová Deus^&#42;1^ o pôs para fora do jardim do Éden para lavrar o solo de que tinha sido tomado.
+
+[NOTE]
+====
+. Veja 2:4 n.: “Deus”.
+====
+
+[[v1-3-24]]
+
+^<<v1-3-24,24>>^ E expulsou assim o homem, e colocou^&#42;1^ ao oriente do jardim do Éden os querubins e a lâmina chamejante duma espada que se revolvia continuamente para guardar o caminho para a árvore da vida.
+
+[NOTE]
+====
+. Lit.: “fez residir”. Veja Sal 7:5; 78:55; Ez 32:4.
+====
+
+'''
+
+xref:001-genesis/001-genesis-002.adoc#v1-2-0[&#60; Capítulo Anterior] | <<v1-3-0,Topo>> | xref:001-genesis/001-genesis-004.adoc#v1-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,29 @@
+include::./index.adoc[]
+
+[[v19-131-0]]
+=== Salmos, 131
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Cântico das Subidas. De Davi._
+
+[[v19-131-1]]
+
+^<<v19-131-1,1>>^ Ó Jeová, meu coração não se tem ensoberbecido,
+Nem ficaram altaneiros os meus olhos;
+Tampouco tenho andado em coisas grandes demais,
+Nem em coisas maravilhosas demais para mim.
+
+[[v19-131-2]]
+
+^<<v19-131-2,2>>^ Decerto tenho acalmado e aquietado a minha alma,
+Como uma criança recém-desmamada sobre sua mãe.
+Minha alma está sobre mim como uma criança recém-desmamada.
+
+[[v19-131-3]]
+
+^<<v19-131-3,3>>^ Que Israel espere por Jeová,
+Desde agora e por tempo indefinido.
+
+'''
+
+xref:019-salmo/019-salmo-130.adoc#v19-130-0[&#60; Capítulo Anterior] | <<v19-131-0,Topo>> | xref:019-salmo/019-salmo-132.adoc#v19-132-0[Próximo Capítulo &#62;]

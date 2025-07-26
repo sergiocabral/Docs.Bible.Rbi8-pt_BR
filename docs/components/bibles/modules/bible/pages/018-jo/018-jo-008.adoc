@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v18-8-0]]
+=== Jó, 8
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-8-1]]
+
+^<<v18-8-1,1>>^ E Bildade, o suíta, passou a responder e a dizer:
+
+[[v18-8-2]]
+
+^<<v18-8-2,2>>^ “Até quando enunciarás estas coisas,
+Visto que as declarações da tua boca são apenas um forte vento?
+
+[[v18-8-3]]
+
+^<<v18-8-3,3>>^ Perverteria o próprio Deus^&#42;1^ o juízo,
+Ou perverteria o próprio Todo-poderoso a justiça?
+
+[NOTE]
+====
+. “Deus.” Hebr.: ha·’Él. Aqui, ha é uma partícula interrogatória que introduz uma pergunta.
+====
+
+[[v18-8-4]]
+
+^<<v18-8-4,4>>^ Se os teus próprios filhos pecaram contra ele,
+De modo que ele os deixa cair na mão da sua revolta,
+
+[[v18-8-5]]
+
+^<<v18-8-5,5>>^ Se tu mesmo estivesses à procura de Deus
+E do Todo-poderoso implorasses favor,
+
+[[v18-8-6]]
+
+^<<v18-8-6,6>>^ Se fosses puro e reto,
+Ele já teria agora despertado para ti^&#42;1^
+E certamente te restauraria teu justo lugar de permanência.
+
+[NOTE]
+====
+. Segundo M; LXX: “ele escutará a tua súplica”.
+====
+
+[[v18-8-7]]
+
+^<<v18-8-7,7>>^ Também, teu princípio talvez se tenha mostrado uma coisa pequena,
+Mas o teu próprio fim posterior se tornaria muito grande.
+
+[[v18-8-8]]
+
+^<<v18-8-8,8>>^ Deveras, pergunta, por favor, à geração anterior,
+E dirige [tua atenção] às coisas esquadrinhadas por seus pais.
+
+[[v18-8-9]]
+
+^<<v18-8-9,9>>^ Pois somos apenas de ontem e não sabemos nada,
+Porque os nossos dias na terra são uma sombra.
+
+[[v18-8-10]]
+
+^<<v18-8-10,10>>^ Não te instruirão eles mesmos, não to dirão,^&#42;1^
+E não farão sair palavras do seu coração?
+
+[NOTE]
+====
+. “To dirão”, LXX; M: “te dirão”.
+====
+
+[[v18-8-11]]
+
+^<<v18-8-11,11>>^ Acaso o papiro cresce alto sem brejo?
+Acaso a cana se torna grande sem água?
+
+[[v18-8-12]]
+
+^<<v18-8-12,12>>^ Ainda em gomo, não arrancado,
+Secar-se-á mesmo antes que toda outra erva.
+
+[[v18-8-13]]
+
+^<<v18-8-13,13>>^ Assim são as veredas^&#42;1^ de todos os que se esquecem de Deus,^&#42;2^
+E perecerá a própria esperança do apóstata,^&#42;3^
+
+[NOTE]
+====
+. “Veredas”, M; LXX: “as coisas derradeiras (o resultado); o fim posterior”.
+. “Deus.” Hebr.: ’El; LXX: “Jeová”.
+. Ou “ímpio (profano)”; ou: “alguém apartado de Deus”.
+====
+
+[[v18-8-14]]
+
+^<<v18-8-14,14>>^ Cuja absoluta confiança é cortada,
+E cuja confiança é uma casa^&#42;1^ de aranha.
+
+[NOTE]
+====
+. Ou “teia”.
+====
+
+[[v18-8-15]]
+
+^<<v18-8-15,15>>^ Encostar-se-á na sua casa, mas ela não ficará de pé;
+Agarrar-se-á a ela, mas ela não durará.
+
+[[v18-8-16]]
+
+^<<v18-8-16,16>>^ Ele está cheio de viço diante do sol,
+E no seu jardim sai o seu próprio rebento.
+
+[[v18-8-17]]
+
+^<<v18-8-17,17>>^ Num montão de pedras se entrelaçam as suas raízes,
+Ele observa uma casa de pedras.
+
+[[v18-8-18]]
+
+^<<v18-8-18,18>>^ Se alguém o tragar do seu lugar,
+Certamente o negará então, [dizendo:] ‘Não te vi.’
+
+[[v18-8-19]]
+
+^<<v18-8-19,19>>^ Eis que assim se dissolve o seu caminho;
+E do pó surgem outros.
+
+[[v18-8-20]]
+
+^<<v18-8-20,20>>^ Eis que o próprio Deus^&#42;1^ não rejeitará o inculpe,
+Nem agarrará a mão de malfeitores,
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v18-8-21]]
+
+^<<v18-8-21,21>>^ Até encher tua boca de riso
+E teus lábios de gritos de alegria.
+
+[[v18-8-22]]
+
+^<<v18-8-22,22>>^ Os mesmos que te odeiam serão revestidos de vergonha,
+E a tenda dos iníquos não existirá.”
+
+'''
+
+xref:018-jo/018-jo-007.adoc#v18-7-0[&#60; Capítulo Anterior] | <<v18-8-0,Topo>> | xref:018-jo/018-jo-009.adoc#v18-9-0[Próximo Capítulo &#62;]

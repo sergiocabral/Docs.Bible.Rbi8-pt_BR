@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v19-63-0]]
+=== Salmos, 63
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma melodia de Davi, quando veio a estar no ermo de Judá._
+
+[[v19-63-1]]
+
+^<<v19-63-1,1>>^ Ó Deus,^&#42;1^ tu és o meu Deus,^&#42;2^ continuo à tua procura.
+Minha alma está sedenta de ti.
+Minha carne enfraqueceu [de anseio] por ti
+Numa terra árida e esgotada, onde não há água.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+. “Meu Deus.” Hebr.: ’E·lí.
+====
+
+[[v19-63-2]]
+
+^<<v19-63-2,2>>^ Contemplei-te, pois, no lugar santo,
+Vendo a tua força e a tua glória.
+
+[[v19-63-3]]
+
+^<<v19-63-3,3>>^ Porque a tua benevolência^&#42;1^ é melhor do que a vida,
+Gabar-te-ão os meus próprios lábios.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-63-4]]
+
+^<<v19-63-4,4>>^ Assim te bendirei durante a minha vida;
+Em teu nome levantarei as palmas das minhas mãos.
+
+[[v19-63-5]]
+
+^<<v19-63-5,5>>^ Como com a melhor parte, sim, a gordura, minha alma está satisfeita,
+E com lábios de gritos jubilosos oferece louvor a minha boca.
+
+[[v19-63-6]]
+
+^<<v19-63-6,6>>^ Quando me lembro de ti no meu leito [de repouso],
+Medito em ti durante as vigílias da noite.
+
+[[v19-63-7]]
+
+^<<v19-63-7,7>>^ Pois mostraste ser de auxílio para mim,
+E eu grito de júbilo na sombra das tuas asas.
+
+[[v19-63-8]]
+
+^<<v19-63-8,8>>^ Minha alma te seguiu de perto;
+Tua direita continua a segurar-me.
+
+[[v19-63-9]]
+
+^<<v19-63-9,9>>^ Quanto aos que estão procurando a minha alma para a [sua] ruína,
+Entrarão nas partes mais baixas^&#42;1^ da terra.
+
+[NOTE]
+====
+. “Nas partes mais baixas.” Sir.: bethahh·to·yo·thah, “nas partes mais baixas dela [da terra]”.
+====
+
+[[v19-63-10]]
+
+^<<v19-63-10,10>>^ Serão entregues ao poder da espada;
+Tornar-se-ão mera porção para as raposas.
+
+[[v19-63-11]]
+
+^<<v19-63-11,11>>^ E o próprio rei se alegrará em Deus.
+Jactar-se-á todo aquele que jurar por ele,
+Porque se tapará a boca dos que falam o que é falso.
+
+'''
+
+xref:019-salmo/019-salmo-062.adoc#v19-62-0[&#60; Capítulo Anterior] | <<v19-63-0,Topo>> | xref:019-salmo/019-salmo-064.adoc#v19-64-0[Próximo Capítulo &#62;]

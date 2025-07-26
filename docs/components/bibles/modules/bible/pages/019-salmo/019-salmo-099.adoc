@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v19-99-0]]
+=== Salmos, 99
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-99-1]]
+
+^<<v19-99-1,1>>^ O próprio Jeová se tornou rei. Agitem-se os povos.
+Ele está sentado sobre os querubins. Estremeça a terra.
+
+[[v19-99-2]]
+
+^<<v19-99-2,2>>^ Jeová é grande em Sião
+E ele é elevado sobre todos os povos.
+
+[[v19-99-3]]
+
+^<<v19-99-3,3>>^ Elogiem eles o teu nome.
+Grande e atemorizante, santo ele é.
+
+[[v19-99-4]]
+
+^<<v19-99-4,4>>^ E ele amou o julgamento com a força dum rei.
+Tu mesmo estabeleceste firmemente a retidão.
+Julgamento e justiça em Jacó é o que tu mesmo fizeste.
+
+[[v19-99-5]]
+
+^<<v19-99-5,5>>^ Exaltai a Jeová, nosso Deus, e curvai-vos junto ao seu escabelo;
+Ele é santo.
+
+[[v19-99-6]]
+
+^<<v19-99-6,6>>^ Moisés e Arão estavam entre os seus sacerdotes,
+E Samuel estava entre os que invocavam seu nome.
+Invocavam a Jeová, e ele mesmo lhes respondia.
+
+[[v19-99-7]]
+
+^<<v19-99-7,7>>^ Falava-lhes numa coluna de nuvem.
+Eles guardavam as suas advertências e o regulamento que lhes dera.
+
+[[v19-99-8]]
+
+^<<v19-99-8,8>>^ Ó Jeová, nosso Deus, tu mesmo lhes respondeste.
+Mostraste ser para eles um Deus^&#42;1^ que concedia perdão
+E executava vingança contra os seus atos notórios.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v19-99-9]]
+
+^<<v19-99-9,9>>^ Exaltai a Jeová, nosso Deus,
+E curvai-vos junto ao seu santo monte.
+Pois Jeová, nosso Deus, é santo.
+
+'''
+
+xref:019-salmo/019-salmo-098.adoc#v19-98-0[&#60; Capítulo Anterior] | <<v19-99-0,Topo>> | xref:019-salmo/019-salmo-100.adoc#v19-100-0[Próximo Capítulo &#62;]

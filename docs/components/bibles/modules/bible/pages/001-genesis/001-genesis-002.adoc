@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v1-2-0]]
+=== Gênesis, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-2-1]]
+
+^<<v1-2-1,1>>^ Assim foram acabados os céus, e a terra, e todo o seu exército.
+
+[[v1-2-2]]
+
+^<<v1-2-2,2>>^ E ao sétimo dia Deus havia acabado sua obra que fizera e passou a repousar^&#42;1^ no sétimo dia de toda a sua obra que fizera.
+
+[NOTE]
+====
+. “E passou a repousar.” Hebr.: wai·yish·bóth. O verbo hebr. está no imperfeito, denotando ação incompleta ou contínua, ou ação em progresso. Veja Ap. 3C.
+====
+
+[[v1-2-3]]
+
+^<<v1-2-3,3>>^ E Deus passou a abençoar o sétimo dia e a fazê-lo sagrado,^&#42;1^ porque nele tem repousado^&#42;2^ de toda a sua obra que Deus criara com o objetivo de [a] fazer.^&#42;3^
+
+[NOTE]
+====
+. “E a fazê-lo sagrado.” Ou “e passou a santificá-lo (tratá-lo como santo)”. Hebr.: wai·qad·désh ’o·thóh; lat.: et sanc·ti·fi·cá·vit íl·lum. Veja Êx 31:13 n.
+. Ou “está repousando (desistindo)”. Hebr.: sha·váth, verbo hebr. no perfeito. Mostra a característica da pessoa, a saber, Deus, no sétimo dia de sua semana criativa. Esta tradução de sha·váth concorda com o argumento do escritor inspirado, em He 4:3-11. Veja v. 2 n.
+. “Fazer”, isto é, todas as coisas definitivas no céu e na terra.
+====
+
+[[v1-2-4]]
+
+^<<v1-2-4,4>>^ Esta é uma história^&#42;1^ dos céus e da terra no tempo em que foram criados, no dia em que Jeová^&#42;2^ Deus^&#42;3^ fez a terra e o céu.
+
+[NOTE]
+====
+. Ou: “Estas são as origens históricas”. Hebr.: ’él·leh thoh·ledhóhth: “Estas são as gerações de”; gr.: haú·te he bí·blos ge·né·se·os: “Este é o livro de origem (procedência)”; lat.: í·stae ge·ne·ra·ti·ó·nes: “Estas são as gerações”. Veja Mt 1:1 n.
+. “Jeová.” Hebr.: יְהוָה (YHWH [IHVH], aqui com sinais vocálicos para rezar Yehwáh), significando “Ele Causa que Venha a Ser” (do hebr. הָוָה [ha·wáh, “vir a ser”, “tornar-se”]); LXXA(gr.): Ký·ri·os; sir.: Mar·ya’; lat.: Dó·mi·nus. É a primeira ocorrência do nome pessoal, distintivo, de Deus, יהוה (YHWH); estas quatro letras hebr. são chamadas de Tetragrama. O nome divino identifica Jeová como Aquele Que Tem um Propósito. Somente o verdadeiro Deus poderia de direito e autenticamente levar este nome. Veja Ap. 1A.
+. “Jeová Deus.” Hebr.: Yehwáh ’Elo·hím. Esta expressão, sem o artigo definido hebr. ha antes de ’Elo·hím, é usada 20 vezes em Gên 2 e 3. A primeira ocorrência de Yehwáh ha·’Elo·hím, traduzida por “o [verdadeiro] Deus”, aparece em 1Cr 22:1. Veja Ap. 1A.
+====
+
+[[v1-2-5]]
+
+^<<v1-2-5,5>>^ Ora, não havia ainda nenhum arbusto do campo na terra e não brotara ainda nenhuma vegetação do campo, porque Jeová Deus não fizera chover sobre a terra e não havia homem para lavrar o solo.
+
+[[v1-2-6]]
+
+^<<v1-2-6,6>>^ Mas uma neblina^&#42;1^ subia da terra e regava toda a superfície do solo.
+
+[NOTE]
+====
+. Ou: “Mas um vapor.” Hebr.: we’édh; LXX(gr.: pe·gé)Vg(lat.: fons)Sy: “manancial”, sugerindo uma corrente subterrânea de água fresca; T: “nuvem”.
+====
+
+[[v1-2-7]]
+
+^<<v1-2-7,7>>^ E Jeová Deus passou a formar o homem do pó^&#42;1^ do solo e a soprar nas suas narinas o fôlego de vida,^&#42;2^ e o homem veio a ser uma alma vivente.^&#42;3^
+
+[NOTE]
+====
+. Ou “argila”, segundo o uso posterior da palavra hebr. na fabricação de cerâmica. Hebr.: ‛a·fár.
+. “Fôlego de vida.” Hebr.: nish·máth (de nesha·máh) hhai·yím.
+. “Uma alma vivente [criatura que respira].” Hebr.: lené·fesh hhai·yáh; gr.: ψυχὴν ζῶσαν (psy·khén zó·san, “alma vivente”); lat.: á·ni·mam vi·vén·tem. Veja 1:20, 21, 30; 1Co 15:45; Ap. 4A.
+====
+
+[[v1-2-8]]
+
+^<<v1-2-8,8>>^ Além disso, Jeová^&#42;1^ Deus plantou um jardim no Éden,^&#42;2^ do lado do oriente,^&#42;3^ e ali pôs o homem que havia formado.
+
+[NOTE]
+====
+. “Jeová.” Hebr.: Yehwáh; LXXP. Oxy. VII.1007: . Esta folha de velino, do terceiro século EC, apresenta o nome divino, “Jeová”, nos vv. 8 e 18 por dobrar a primeira letra Yohdh, que se escrevia como “Z”, com uma linha horizontal atravessando ambas as letras. Veja Ap. 1C sec.6.
+. “Um jardim [ou: parque] no Éden.” Hebr. gan·be‛É·dhen (“Éden”, significando “Prazer; Deleite”); LXXBagster(gr.), pa·rá·dei·son en E·dém; lat.: pa·ra·dí·sum vo·lu·ptá·tis, “paraíso de prazer”.
+. “Desde o princípio”, Vg.
+====
+
+[[v1-2-9]]
+
+^<<v1-2-9,9>>^ Jeová Deus fez assim brotar do solo toda árvore de aspecto desejável e boa para alimento, e também a árvore da vida no meio do jardim e a árvore do conhecimento do que é bom e do que é mau.
+
+[[v1-2-10]]
+
+^<<v1-2-10,10>>^ Ora, havia um rio saindo^&#42;1^ do Éden para regar o jardim, e dali começava a dividir-se, e tornou-se como que quatro cabeceiras.
+
+[NOTE]
+====
+. Este particípio hebr. denota uma corrente contínua.
+====
+
+[[v1-2-11]]
+
+^<<v1-2-11,11>>^ O nome do primeiro [rio] é Píson; é aquele que circunda toda a terra de Havilá, onde há ouro.
+
+[[v1-2-12]]
+
+^<<v1-2-12,12>>^ E o ouro daquela terra é bom. Ali há também o bdélio e a pedra de ônix.
+
+[[v1-2-13]]
+
+^<<v1-2-13,13>>^ E o nome do segundo rio é Giom; é aquele que circunda toda a terra de Cus.^&#42;1^
+
+[NOTE]
+====
+. Hebr.: Kush; LXXVg: “Etiópia”.
+====
+
+[[v1-2-14]]
+
+^<<v1-2-14,14>>^ E o nome do terceiro rio é Hídequel;^&#42;1^ é aquele que vai para o leste da Assíria.^&#42;2^ E o quarto rio é o Eufrates.^&#42;3^
+
+[NOTE]
+====
+. Hebr.: Hhid·dé·qel; LXXVg: “Tigre”.
+. “Assíria.” Hebr.: ’Ash·shur; LXXVg: “assírios”.
+. “Eufrates”, LXXVg; hebr.: Feráth.
+====
+
+[[v1-2-15]]
+
+^<<v1-2-15,15>>^ E Jeová Deus passou a tomar o homem e a estabelecê-lo no jardim do Éden, para que o cultivasse e tomasse conta dele.
+
+[[v1-2-16]]
+
+^<<v1-2-16,16>>^ E Jeová Deus deu também esta ordem ao homem: “De toda árvore do jardim podes comer à vontade.
+
+[[v1-2-17]]
+
+^<<v1-2-17,17>>^ Mas, quanto à árvore do conhecimento do que é bom e do que é mau, não deves comer dela, porque no dia em que dela comeres, positivamente morrerás.”^&#42;1^
+
+[NOTE]
+====
+. “Positivamente morrerás.” Lit.: “morrendo [sing.] morrerás”. Hebr.: mohth ta·múth; a primeira referência à morte, na Bíblia. Veja Ez 3:18 n.
+====
+
+[[v1-2-18]]
+
+^<<v1-2-18,18>>^ E Jeová^&#42;1^ Deus prosseguiu, dizendo: “Não é bom que o homem continue só. Vou fazer-lhe uma ajudadora como complemento^&#42;2^ dele.”
+
+[NOTE]
+====
+. Veja Ap. 1C sec.6.
+. Ou “parte correspondente”, algo apropriado para ele.
+====
+
+[[v1-2-19]]
+
+^<<v1-2-19,19>>^ Ora, Jeová Deus estava formando^&#42;1^ do solo todo animal selvático do campo e toda criatura voadora dos céus, e ele começou a trazê-los ao homem para ver como chamaria a cada um deles; e o que o homem chamava a cada alma vivente, este era seu nome.
+
+[NOTE]
+====
+. Em questão de tempo, ainda era o sexto dia criativo. O verbo “formar”, no imperfeito, denota aqui ação continuada, progressiva. Veja Ap 3C.
+====
+
+[[v1-2-20]]
+
+^<<v1-2-20,20>>^ O homem deu assim nomes a todos os animais domésticos e às criaturas voadoras dos céus, e a todo animal selvático do campo, mas para o homem não se achava nenhuma ajudadora^&#42;1^ como complemento dele.
+
+[NOTE]
+====
+. Lit.: “ele não achou ajudador(a)”.
+====
+
+[[v1-2-21]]
+
+^<<v1-2-21,21>>^ Por isso, Jeová Deus fez cair um profundo sono sobre o homem, e, enquanto ele dormia, tirou-lhe uma das costelas e fechou então a carne sobre o seu lugar.
+
+[[v1-2-22]]
+
+^<<v1-2-22,22>>^ E da costela que havia tirado do homem, Jeová^&#42;1^ Deus passou a construir uma mulher e a trazê-la ao homem.
+
+[NOTE]
+====
+. Hebr.: Yehwáh.
+====
+
+[[v1-2-23]]
+
+^<<v1-2-23,23>>^ O homem disse então:
+“Esta, por fim, é osso dos meus ossos
+E carne da minha carne.
+Esta será chamada Mulher,^&#42;1^
+Porque do homem^&#42;2^ foi esta tomada.”
+
+[NOTE]
+====
+. Lit.: “homem feminino”. Hebr.: ’ish·sháh.
+. “Do homem.” Hebr.: me·’ísh.
+====
+
+[[v1-2-24]]
+
+^<<v1-2-24,24>>^ Por isso é que o homem deixará seu pai e sua mãe, e tem de se apegar à sua esposa,^&#42;1^ e eles têm de tornar-se uma só carne.
+
+[NOTE]
+====
+. Ou “mulher”.
+====
+
+[[v1-2-25]]
+
+^<<v1-2-25,25>>^ E ambos continuavam nus, o homem e a sua esposa, contudo, não se envergonhavam.
+
+'''
+
+xref:001-genesis/001-genesis-001.adoc#v1-1-0[&#60; Capítulo Anterior] | <<v1-2-0,Topo>> | xref:001-genesis/001-genesis-003.adoc#v1-3-0[Próximo Capítulo &#62;]

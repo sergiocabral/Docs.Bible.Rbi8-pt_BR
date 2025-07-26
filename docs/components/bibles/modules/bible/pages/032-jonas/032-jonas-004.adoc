@@ -1,0 +1,92 @@
+include::./index.adoc[]
+
+[[v32-4-0]]
+=== Jonas, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v32-4-1]]
+
+^<<v32-4-1,1>>^ Isso, porém, desagradava muito a Jonas e acendeu-se a sua ira.
+
+[[v32-4-2]]
+
+^<<v32-4-2,2>>^ Por isso orou a Jeová^&#42;1^ e disse: “Ai! ó Jeová, não foi esta a minha questão^&#42;2^ quando vim a estar no meu próprio solo? Por isso é que fui e fugi para Társis; pois eu sabia que és um Deus^&#42;3^ clemente e misericordioso, vagaroso em irar-se e abundante em benevolência,^&#42;4^ e que deploras a calamidade.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 2.
+. “Minha questão.” Ou “minha palavra”.
+. “Um Deus.” Hebr.: ’El; lat.: Dé·us.
+. Ou “amor leal”. Hebr.: hhé·sedh.
+====
+
+[[v32-4-3]]
+
+^<<v32-4-3,3>>^ E agora, ó Jeová, por favor, tira-me a minha alma,^&#42;1^ pois é melhor eu morrer do que ficar vivo.”^&#42;2^
+
+[NOTE]
+====
+. Veja 2:7 n.
+. Ou “minha vida”.
+====
+
+[[v32-4-4]]
+
+^<<v32-4-4,4>>^ Jeová disse por sua vez: “É de direito que se acendeu a tua ira?”
+
+[[v32-4-5]]
+
+^<<v32-4-5,5>>^ Jonas saiu então da cidade e sentou-se ao oriente da cidade; e ali foi fazer para si uma barraca, para ficar sentado à sombra debaixo dela até que visse o que ia acontecer à cidade.
+
+[[v32-4-6]]
+
+^<<v32-4-6,6>>^ Por conseguinte, Jeová Deus^&#42;1^ providenciou que subisse sobre Jonas um cabaceiro^&#42;2^ para vir a ser para sombra sobre a sua cabeça, a fim de tirá-lo do seu estado calamitoso. E Jonas começou a alegrar-se muito com o cabaceiro.
+
+[NOTE]
+====
+. “Jeová Deus”, MTLXXSyVg. Veja Gên 2:4 n.: “Deus”.
+. Ou “mamoneira (carrapateira)”. Hebr.: qi·qa·yóhn.
+====
+
+[[v32-4-7]]
+
+^<<v32-4-7,7>>^ Mas o [verdadeiro] Deus providenciou um verme ao subir da alva no dia seguinte, para que atacasse o cabaceiro; e este secou-se aos poucos.
+
+[[v32-4-8]]
+
+^<<v32-4-8,8>>^ E sucedeu que, assim que raiou o sol, Deus^&#42;1^ providenciou também um vento oriental abrasador e o sol se abatia sobre a cabeça de Jonas, de modo que desmaiava; e ele pedia que sua alma^&#42;2^ morresse e dizia repetidas vezes: “É melhor eu morrer do que ficar vivo.”^&#42;3^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím; gr.: ho The·ós; TVg: “Jeová”; Sy: “Jeová Deus”.
+. “Sua alma.” Hebr.: naf·shóh; gr.: psy·khén; lat.: á·ni·mae. Veja Ap. 4A.
+. Ou “do que a minha vida”. Hebr.: me·hhai·yaí.
+====
+
+[[v32-4-9]]
+
+^<<v32-4-9,9>>^ E Deus passou a dizer a Jonas: “É de direito que se acendeu a tua ira por causa do cabaceiro?”
+Então ele disse: “É de direito que se acendeu a minha ira a ponto de [eu querer] morrer.”
+
+[[v32-4-10]]
+
+^<<v32-4-10,10>>^ Mas Jeová disse: “Tu, da tua parte, tens pena do cabaceiro que não cultivaste nem fizeste crescer, mostrando ser apenas algo que cresceu de noite^&#42;1^ e que pereceu apenas como algo que cresceu de noite.
+
+[NOTE]
+====
+. Ou “apenas de uma noite [de idade]”. Lit.: “filho duma noite”.
+====
+
+[[v32-4-11]]
+
+^<<v32-4-11,11>>^ E eu, da minha parte, não devia ter pena de Nínive, a grande cidade, em que há mais de cento e vinte mil^&#42;1^ homens^&#42;2^ que absolutamente não sabem a diferença entre a sua direita e a sua esquerda, além de [haver] muitos animais domésticos?”
+
+[NOTE]
+====
+. Lit.: “doze [vezes] dez mil”.
+. Ou “homens terrenos”. Hebr.: ’a·dhám.
+====
+
+'''
+
+xref:032-jonas/032-jonas-003.adoc#v32-3-0[&#60; Capítulo Anterior] | <<v32-4-0,Topo>> | xref:033-miqueias/033-miqueias-001.adoc#v33-1-0[Próximo Capítulo &#62;]

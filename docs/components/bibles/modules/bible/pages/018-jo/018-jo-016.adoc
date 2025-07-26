@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v18-16-0]]
+=== Jó, 16
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-16-1]]
+
+^<<v18-16-1,1>>^ E Jó passou a responder e a dizer:
+
+[[v18-16-2]]
+
+^<<v18-16-2,2>>^ “Ouvi muitas coisas como estas.
+Todos vós sois consoladores funestos!
+
+[[v18-16-3]]
+
+^<<v18-16-3,3>>^ Não há fim de palavras ventosas?
+Ou o que te penaliza,^&#42;1^ que respondes?
+
+[NOTE]
+====
+. Lit.: “dói [ofende]”.
+====
+
+[[v18-16-4]]
+
+^<<v18-16-4,4>>^ Também eu poderia muito bem falar como vós fazeis.
+Se tão-somente as vossas almas estivessem onde a minha alma está,
+Seria eu brilhante em palavras^&#42;1^ contra vós,
+E menearia a minha cabeça contra vós?
+
+[NOTE]
+====
+. “Junte eu palavras”, segundo outra derivação do verbo.
+====
+
+[[v18-16-5]]
+
+^<<v18-16-5,5>>^ Eu vos fortificaria com as palavras da minha boca,
+E o consolo dos meus próprios lábios refrearia . . .
+
+[[v18-16-6]]
+
+^<<v18-16-6,6>>^ Se deveras falo, não se refreia a minha própria dor,
+E se deveras deixo de fazer assim, o que vai embora de mim?
+
+[[v18-16-7]]
+
+^<<v18-16-7,7>>^ Somente que agora ele me fez ficar fatigado;
+Fez desolados a todos os reunidos comigo em assembléia.
+
+[[v18-16-8]]
+
+^<<v18-16-8,8>>^ Também me pegas. Isso se tornou uma testemunha,
+De modo que a minha magreza se levanta contra mim. Testifica na minha face.
+
+[[v18-16-9]]
+
+^<<v18-16-9,9>>^ Sua própria ira [me] dilacerou e ele me tem rancor.
+Realmente range os dentes contra mim.
+Meu próprio adversário aguça seus olhos contra mim.
+
+[[v18-16-10]]
+
+^<<v18-16-10,10>>^ Escancararam a sua boca contra mim,
+Deram-me bofetadas com vitupério,
+Aglomeram-se contra mim em grande número.
+
+[[v18-16-11]]
+
+^<<v18-16-11,11>>^ Deus^&#42;1^ me entrega a garotos,^&#42;2^
+E me lança vertiginosamente nas mãos dos iníquos.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+. Lit.: “um garoto”, M; LXXVg: “um injusto”.
+====
+
+[[v18-16-12]]
+
+^<<v18-16-12,12>>^ Eu tinha ficado tranqüilo, mas ele passou a sacudir-me;
+E segurou-me pela nuca e passou a despedaçar-me,
+E põe-me por alvo para si.
+
+[[v18-16-13]]
+
+^<<v18-16-13,13>>^ Seus arqueiros me cercam;
+Fende meus rins e não tem compaixão;
+Derrama na terra a minha vesícula biliar.
+
+[[v18-16-14]]
+
+^<<v18-16-14,14>>^ Prossegue irrompendo através de mim com brecha após brecha;
+Corre contra mim como um poderoso.
+
+[[v18-16-15]]
+
+^<<v18-16-15,15>>^ Costurei serapilheira sobre a minha pele,
+E enfiei meu chifre no próprio pó.
+
+[[v18-16-16]]
+
+^<<v18-16-16,16>>^ Minha própria face ficou vermelha de choro,
+E sobre as minhas pálpebras há sombra tenebrosa,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “sombra da morte”.
+====
+
+[[v18-16-17]]
+
+^<<v18-16-17,17>>^ Embora não haja violência nas palmas das minhas mãos,
+E minha oração seja pura.
+
+[[v18-16-18]]
+
+^<<v18-16-18,18>>^ Ó terra, não encubras o meu sangue!
+E não venha haver lugar para o meu clamor!
+
+[[v18-16-19]]
+
+^<<v18-16-19,19>>^ Agora, também, eis que há nos céus um que dá testemunho a meu respeito,
+E minha testemunha^&#42;1^ está nas alturas.
+
+[NOTE]
+====
+. “E minha testemunha.” Hebr.: wesa·hadhí, considerado como estrangeirismo aram. Veja Gên 31:47 n.: “Jegar-Saaduta.”
+====
+
+[[v18-16-20]]
+
+^<<v18-16-20,20>>^ Meus companheiros são porta-vozes contra mim;
+Meu olho tem passado em claro olhando para Deus.^&#42;1^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elóh·ah.
+====
+
+[[v18-16-21]]
+
+^<<v18-16-21,21>>^ E a decisão que se irá fazer é entre um varão vigoroso e Deus,
+Assim como entre o filho do homem^&#42;1^ e seu próximo.
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’a·dhám.
+====
+
+[[v18-16-22]]
+
+^<<v18-16-22,22>>^ Pois virão apenas poucos anos,^&#42;1^
+E irei embora na vereda pela qual não voltarei.
+
+[NOTE]
+====
+. “Apenas anos contados”, LXX.
+====
+
+'''
+
+xref:018-jo/018-jo-015.adoc#v18-15-0[&#60; Capítulo Anterior] | <<v18-16-0,Topo>> | xref:018-jo/018-jo-017.adoc#v18-17-0[Próximo Capítulo &#62;]

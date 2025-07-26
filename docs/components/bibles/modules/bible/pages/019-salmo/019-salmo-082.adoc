@@ -1,0 +1,80 @@
+include::./index.adoc[]
+
+[[v19-82-0]]
+=== Salmos, 82
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma melodia de Asafe._
+
+[[v19-82-1]]
+
+^<<v19-82-1,1>>^ Deus^&#42;1^ se põe de pé na assembléia do Divino;^&#42;2^
+Julga no meio dos deuses:^&#42;3^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+. Ou “Deus”. Hebr.: ’El; LXXVg: “deuses”; Sy: “anjos”.
+. Ou “semelhantes a Deus”. Hebr.: ’elo·hím; LXXVgc: “deuses”; Sy: “anjos”; T: “juízes”.
+====
+
+[[v19-82-2]]
+
+^<<v19-82-2,2>>^ “Até quando continuareis a julgar com injustiça
+E sereis parciais para com^&#42;1^ os próprios iníquos? Selá.
+
+[NOTE]
+====
+. Lit.: “erguendo as faces dos”.
+====
+
+[[v19-82-3]]
+
+^<<v19-82-3,3>>^ Sede juízes para com o de condição humilde e o menino órfão de pai.
+Fazei justiça ao atribulado e ao de poucos meios.
+
+[[v19-82-4]]
+
+^<<v19-82-4,4>>^ Ponde a salvo o de condição humilde e o pobre;
+Livrai-os da mão dos iníquos.”
+
+[[v19-82-5]]
+
+^<<v19-82-5,5>>^ Nada souberam e não entendem;
+Estão andando em escuridão;
+São abalados todos os alicerces da terra.
+
+[[v19-82-6]]
+
+^<<v19-82-6,6>>^ “Eu mesmo disse: ‘Vós sois deuses,^&#42;1^
+E todos vós sois filhos do Altíssimo.
+
+[NOTE]
+====
+. Ou “semelhantes a Deus”. Hebr.: ’elo·hím; gr.: the·oí; sir.: da’·la·hin; lat.: dí·i; T: “como anjos”.
+====
+
+[[v19-82-7]]
+
+^<<v19-82-7,7>>^ Decerto morrereis como os homens;^&#42;1^
+E caireis como qualquer um dos príncipes!’”
+
+[NOTE]
+====
+. Ou “como homem terreno”. Hebr.: ke’a·dhám.
+====
+
+[[v19-82-8]]
+
+^<<v19-82-8,8>>^ Levanta-te deveras, ó Deus,^&#42;1^ julga deveras a terra;
+Pois tu mesmo deves^&#42;2^ tomar posse de todas as nações.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+. Ou “vais”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-081.adoc#v19-81-0[&#60; Capítulo Anterior] | <<v19-82-0,Topo>> | xref:019-salmo/019-salmo-083.adoc#v19-83-0[Próximo Capítulo &#62;]

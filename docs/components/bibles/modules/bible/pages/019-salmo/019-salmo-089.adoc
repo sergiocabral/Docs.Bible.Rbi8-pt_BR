@@ -1,0 +1,369 @@
+include::./index.adoc[]
+
+[[v19-89-0]]
+=== Salmos, 89
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Masquil.^&#42;1^ De Etã, o ezraíta._
+
+[[v19-89-1]]
+
+^<<v19-89-1,1>>^ Vou cantar por tempo indefinido sobre as expressões de benevolência^&#42;1^ da parte de Jeová.
+Com a boca tornarei conhecida a tua fidelidade, de geração em geração.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-89-2]]
+
+^<<v19-89-2,2>>^ Pois eu disse: “A benevolência ficará edificada até mesmo por tempo indefinido;
+Quanto aos céus, manténs a tua fidelidade firmemente estabelecida neles.”
+
+[[v19-89-3]]
+
+^<<v19-89-3,3>>^ “Concluí^&#42;1^ um pacto para com o meu escolhido;
+Jurei a Davi, meu servo:
+
+[NOTE]
+====
+. Lit.: “Cortei”.
+====
+
+[[v19-89-4]]
+
+^<<v19-89-4,4>>^ ‘Mesmo por tempo indefinido estabelecerei firmemente a tua descendência,^&#42;1^
+E vou construir o teu trono de geração em geração.’” Selá.
+
+[NOTE]
+====
+. Ou “prole”.
+====
+
+[[v19-89-5]]
+
+^<<v19-89-5,5>>^ E os céus elogiarão teu ato maravilhoso, ó Jeová,
+Sim, a tua fidelidade na congregação^&#42;1^ dos santos.
+
+[NOTE]
+====
+. “Na congregação dos.” Hebr.: biq·hál; gr.: ek·kle·sí·ai; lat.: ec·clé·si·a.
+====
+
+[[v19-89-6]]
+
+^<<v19-89-6,6>>^ Pois quem, no céu nublado, pode ser comparado a Jeová?
+Quem entre os filhos de Deus^&#42;1^ pode assemelhar-se a Jeová?
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’E·lím, pl. de ’El, para denotar majestade ou excelência; gr.: The·oú; lat.: Dé·i; TSy: “anjos”. Veja Jó 1:6 n.: “filhos” e “Deus”; Jó 38:7 n.
+====
+
+[[v19-89-7]]
+
+^<<v19-89-7,7>>^ Deve-se ter espanto reverente ante Deus^&#42;1^ entre o grupo íntimo dos santos;
+Ele é grandioso e atemorizante sobre todos em volta dele.
+
+[NOTE]
+====
+. Ou “o Divino”. Hebr.: ’El.
+====
+
+[[v19-89-8]]
+
+^<<v19-89-8,8>>^ Ó Jeová Deus dos exércitos,
+Quem é vigoroso como tu, ó Jah?^&#42;1^
+E tua fidelidade está em volta de ti.
+
+[NOTE]
+====
+. Veja 68:4 n.
+====
+
+[[v19-89-9]]
+
+^<<v19-89-9,9>>^ Estás dominando sobre a encapeladura do mar;
+Quando levanta as suas ondas, tu mesmo as amainas.
+
+[[v19-89-10]]
+
+^<<v19-89-10,10>>^ Tu mesmo esmigalhaste a Raabe,^&#42;1^ sim, como alguém que foi morto.
+Dispersaste teus inimigos pelo braço da tua força.
+
+[NOTE]
+====
+. Ou “o Arremetedor”. T: “o arrogante, isto é, o ímpio Faraó”; LXXVg: “o arrogante (soberbo)”.
+====
+
+[[v19-89-11]]
+
+^<<v19-89-11,11>>^ O céu é teu, também a terra é tua;
+O solo produtivo^&#42;1^ e o que o enche — tu mesmo os fundaste.
+
+[NOTE]
+====
+. “O solo produtivo.” Hebr.: te·vél; LXX: “a terra habitada”; lat.: ór·bem tér·rae, “o círculo da terra”.
+====
+
+[[v19-89-12]]
+
+^<<v19-89-12,12>>^ O norte e o sul^&#42;1^ — tu mesmo os criaste;
+Tabor e Hermom — em teu nome gritam de júbilo.
+
+[NOTE]
+====
+. “Sul.” Lit.: “[lado] direito”, quando se encara o leste.
+====
+
+[[v19-89-13]]
+
+^<<v19-89-13,13>>^ Teu é um braço com potência,
+Tua mão é forte,
+Tua direita está enaltecida.
+
+[[v19-89-14]]
+
+^<<v19-89-14,14>>^ Justiça e juízo são o lugar estabelecido do teu trono;
+A própria benevolência e veracidade^&#42;1^ compareceram perante a tua face.
+
+[NOTE]
+====
+. Ou “e veridicidade (verdade)”. Hebr.: we·’eméth.
+====
+
+[[v19-89-15]]
+
+^<<v19-89-15,15>>^ Feliz o povo que conhece gritos de alegria.
+Ó Jeová, eles continuam a andar na luz da tua face.
+
+[[v19-89-16]]
+
+^<<v19-89-16,16>>^ Em teu nome jubilam o dia inteiro
+E na tua justiça estão enaltecidos.
+
+[[v19-89-17]]
+
+^<<v19-89-17,17>>^ Pois tu és a beleza da sua força;
+E pela tua boa vontade é enaltecido o nosso chifre.
+
+[[v19-89-18]]
+
+^<<v19-89-18,18>>^ Porque o nosso escudo pertence a Jeová,
+E nosso rei pertence ao Santo de Israel.
+
+[[v19-89-19]]
+
+^<<v19-89-19,19>>^ Naquele tempo falaste numa visão aos que te são leais
+E passaste a dizer:
+“Pus ajuda sobre um poderoso;
+Enalteci a um escolhido dentre o povo.
+
+[[v19-89-20]]
+
+^<<v19-89-20,20>>^ Achei a Davi, meu servo;
+Com o meu óleo sagrado ungi a ele,
+
+[[v19-89-21]]
+
+^<<v19-89-21,21>>^ Com quem estará firme a minha própria mão,
+A quem também o meu próprio braço fortalecerá.
+
+[[v19-89-22]]
+
+^<<v19-89-22,22>>^ Nenhum inimigo fará exações dele,
+Nem o atribulará qualquer filho da injustiça.
+
+[[v19-89-23]]
+
+^<<v19-89-23,23>>^ E esmiucei de diante dele os seus adversários
+E continuei a golpear os que o odiavam intensamente.
+
+[[v19-89-24]]
+
+^<<v19-89-24,24>>^ E com ele estão a minha fidelidade e minha benevolência,
+E seu chifre está enaltecido no meu nome.
+
+[[v19-89-25]]
+
+^<<v19-89-25,25>>^ E pus a sua mão sobre o mar
+E a sua direita sobre os rios.
+
+[[v19-89-26]]
+
+^<<v19-89-26,26>>^ Ele mesmo me chama: ‘Tu és meu Pai,
+Meu Deus e a Rocha de minha salvação.’
+
+[[v19-89-27]]
+
+^<<v19-89-27,27>>^ Também, eu mesmo o colocarei como primogênito,
+O mais excelso dos reis da terra.
+
+[[v19-89-28]]
+
+^<<v19-89-28,28>>^ Preservarei minha benevolência para com ele por tempo indefinido
+E meu pacto lhe será fiel.^&#42;1^
+
+[NOTE]
+====
+. Ou “duradouro”.
+====
+
+[[v19-89-29]]
+
+^<<v19-89-29,29>>^ E hei de estabelecer sua descendência para todo o sempre
+E seu trono como os dias do céu.
+
+[[v19-89-30]]
+
+^<<v19-89-30,30>>^ Se os seus filhos abandonarem a minha lei
+E não andarem nas minhas decisões judiciais,
+
+[[v19-89-31]]
+
+^<<v19-89-31,31>>^ Se profanarem meus próprios estatutos
+E não guardarem os meus próprios mandamentos,
+
+[[v19-89-32]]
+
+^<<v19-89-32,32>>^ Então terei de voltar também minha atenção para a sua transgressão, mesmo com uma vara,
+E para o seu erro, mesmo com pancadas.
+
+[[v19-89-33]]
+
+^<<v19-89-33,33>>^ Mas não descontinuarei dele a minha benevolência,^&#42;1^
+Nem me mostrarei falso no que se refere à minha fidelidade.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-89-34]]
+
+^<<v19-89-34,34>>^ Não profanarei o meu pacto
+E não mudarei a expressão procedente dos meus lábios.
+
+[[v19-89-35]]
+
+^<<v19-89-35,35>>^ Uma vez jurei na minha santidade,
+Não vou mentir a Davi.
+
+[[v19-89-36]]
+
+^<<v19-89-36,36>>^ A própria descendência dele é que mostrará ser por tempo indefinido
+E seu trono como o sol diante de mim.
+
+[[v19-89-37]]
+
+^<<v19-89-37,37>>^ Assim como a lua, será firmemente estabelecido por tempo indefinido,
+E [como] fiel testemunha no céu nublado.” Selá.
+
+[[v19-89-38]]
+
+^<<v19-89-38,38>>^ Mas tu — tu [o] deitaste fora e estás menosprezando;
+Ficaste furioso com o teu ungido.^&#42;1^
+
+[NOTE]
+====
+. “Teu ungido.” Hebr.: meshi·hhé·kha; T(aram.)sir.: dam·shi·hhakh; gr.: khri·stón; lat.: chrí·stum.
+====
+
+[[v19-89-39]]
+
+^<<v19-89-39,39>>^ Repeliste o pacto do teu servo;
+Profanaste seu diadema até a própria terra.
+
+[[v19-89-40]]
+
+^<<v19-89-40,40>>^ Derrocaste todos os seus redis de pedra;
+Deitaste em ruínas as suas praças fortes.
+
+[[v19-89-41]]
+
+^<<v19-89-41,41>>^ Todos os que passaram pelo caminho o rapinaram;
+Ele se tornou um vitupério para os seus vizinhos.
+
+[[v19-89-42]]
+
+^<<v19-89-42,42>>^ Enalteceste a direita dos seus adversários;
+Fizeste que se alegrassem todos os seus inimigos.
+
+[[v19-89-43]]
+
+^<<v19-89-43,43>>^ Além disso, tratas novamente a sua espada como adversário hostil,
+E fizeste que não ganhasse terreno na batalha.
+
+[[v19-89-44]]
+
+^<<v19-89-44,44>>^ Fizeste que cessasse da sua refulgência,
+E seu trono atiraste à própria terra.
+
+[[v19-89-45]]
+
+^<<v19-89-45,45>>^ Encurtaste os dias da sua juventude;
+Envolveste-o em vergonha. Selá.
+
+[[v19-89-46]]
+
+^<<v19-89-46,46>>^ Até quando te manterás escondido, ó Jeová? Para sempre?
+Continuará a arder o teu furor como um fogo?
+
+[[v19-89-47]]
+
+^<<v19-89-47,47>>^ Lembra-te de qual é a duração da minha vida.
+É inteiramente fútil que criaste todos os filhos dos homens?^&#42;1^
+
+[NOTE]
+====
+. Lit.: “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v19-89-48]]
+
+^<<v19-89-48,48>>^ Que varão vigoroso vive que não verá a morte?
+Pode ele pôr a sua alma a salvo da mão do Seol? Selá.
+
+[[v19-89-49]]
+
+^<<v19-89-49,49>>^ Onde estão os teus anteriores atos de benevolência, ó Jeová,^&#42;1^
+Referente aos quais juraste a Davi na tua fidelidade?
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B, 1C sec. 10.
+====
+
+[[v19-89-50]]
+
+^<<v19-89-50,50>>^ Lembra-te do vitupério sobre os teus servos, ó Jeová,^&#42;1^
+De eu carregar no seio [o vitupério de] todos os muitos povos,
+
+[NOTE]
+====
+. Veja 90:1 n.
+====
+
+[[v19-89-51]]
+
+^<<v19-89-51,51>>^ De como os teus inimigos vituperaram, ó Jeová,^&#42;1^
+Como vituperaram as pegadas do teu ungido.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+====
+
+[[v19-89-52]]
+
+^<<v19-89-52,52>>^ Bendito seja Jeová^&#42;1^ por tempo indefinido. Amém e amém.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+====
+
+'''
+
+xref:019-salmo/019-salmo-088.adoc#v19-88-0[&#60; Capítulo Anterior] | <<v19-89-0,Topo>> | xref:019-salmo/019-salmo-090.adoc#v19-90-0[Próximo Capítulo &#62;]

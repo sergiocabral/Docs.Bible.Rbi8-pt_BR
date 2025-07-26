@@ -1,0 +1,94 @@
+include::./index.adoc[]
+
+[[v19-20-0]]
+=== Salmos, 20
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Uma melodia de Davi._
+
+[[v19-20-1]]
+
+^<<v19-20-1,1>>^ Responda-te Jeová no dia de aflição.
+Proteja-te^&#42;1^ o nome do Deus^&#42;2^ de Jacó.
+
+[NOTE]
+====
+. Lit.: “Coloque-te no alto”, isto é, fora de alcance.
+. “Deus de.” Hebr.: ’Elo·héh.
+====
+
+[[v19-20-2]]
+
+^<<v19-20-2,2>>^ Envie-te ele ajuda desde o lugar santo
+E ampare-te ele desde a própria Sião.
+
+[[v19-20-3]]
+
+^<<v19-20-3,3>>^ Lembre-se ele de todas as tuas oferendas
+E aceite ele as tuas ofertas queimadas como gordurosas.^&#42;1^ Selá.
+
+[NOTE]
+====
+. Ou “retire ele as cinzas gordurosas da tua oferta queimada (consumida)”, como sinal de aceitação.
+====
+
+[[v19-20-4]]
+
+^<<v19-20-4,4>>^ Dê-te ele^&#42;1^ segundo o teu coração
+E cumpra ele todo o teu conselho.
+
+[NOTE]
+====
+. “Ele”, MVg; LXXASy e cinco mss. hebr.: “Jeová”.
+====
+
+[[v19-20-5]]
+
+^<<v19-20-5,5>>^ Gritaremos de júbilo por causa da tua salvação
+E em nome de nosso Deus arvoraremos os nossos estandartes.^&#42;1^
+Que Jeová cumpra todos os teus pedidos.
+
+[NOTE]
+====
+. “Seremos magnificados”, LXXVg.
+====
+
+[[v19-20-6]]
+
+^<<v19-20-6,6>>^ Agora sei deveras que Jeová certamente salva o seu ungido.^&#42;1^
+Responde-lhe desde os seus santos céus
+Com potentes atos salvadores da sua direita.
+
+[NOTE]
+====
+. “Seu ungido.” Hebr.: meshi·hhóh; gr.: khri·stón; sir.: meshi·hheh; lat.: chrí·stum.
+====
+
+[[v19-20-7]]
+
+^<<v19-20-7,7>>^ Alguns [fazem menção] de carros e outros de cavalos,
+Nós, porém, faremos menção^&#42;1^ do nome de Jeová, nosso Deus.
+
+[NOTE]
+====
+. “Seremos magnificados no”, LXX; Sy.: “ganharemos força (prevaleceremos) no”; Vg: “chamaremos (invocaremos) o”.
+====
+
+[[v19-20-8]]
+
+^<<v19-20-8,8>>^ Esses mesmos sucumbiram e caíram;
+Nós, porém, nos levantamos para sermos restabelecidos.
+
+[[v19-20-9]]
+
+^<<v19-20-9,9>>^ Ó Jeová, salva deveras o rei!
+Ele nos responderá no dia em que chamarmos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Ó Jeová, salva[-nos] deveras! Responda-nos o próprio rei no dia em que chamarmos.”
+====
+
+'''
+
+xref:019-salmo/019-salmo-019.adoc#v19-19-0[&#60; Capítulo Anterior] | <<v19-20-0,Topo>> | xref:019-salmo/019-salmo-021.adoc#v19-21-0[Próximo Capítulo &#62;]

@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v21-9-0]]
+=== Eclesiastes, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v21-9-1]]
+
+^<<v21-9-1,1>>^ Pois, tomei tudo isso ao coração, sim, para esquadrinhar tudo isso, que os justos e os sábios, bem como suas obras, estão na mão do [verdadeiro] Deus. A humanidade não está apercebida nem do amor nem do ódio que todos eram anteriores a eles.
+
+[[v21-9-2]]
+
+^<<v21-9-2,2>>^ Todos são iguais naquilo que todos têm. Um só é o evento conseqüente para o justo e para o iníquo, para o bom, e para o puro e para o impuro, e para aquele que oferece sacrifícios e para aquele que não oferece sacrifícios. O bom é igual ao pecador; quem jura é igual ao que tem estado com medo duma declaração juramentada.
+
+[[v21-9-3]]
+
+^<<v21-9-3,3>>^ Isto é o que é calamitoso em tudo o que se tem feito debaixo do sol, que, por haver um só evento conseqüente para todos, o coração dos filhos dos homens está também cheio do mal; e há doidice no seu coração durante a sua vida, e depois dela — rumo aos mortos!
+
+[[v21-9-4]]
+
+^<<v21-9-4,4>>^ Pois, quanto àquele que está unido^&#42;1^ a todos os viventes, há confiança, porque melhor está o cão vivo do que o leão morto.
+
+[NOTE]
+====
+. “Está unido”, MmargemLXXSy e muitos mss. hebr.
+====
+
+[[v21-9-5]]
+
+^<<v21-9-5,5>>^ Pois os viventes estão cônscios de que morrerão;^&#42;1^ os mortos, porém, não estão cônscios de absolutamente nada,^&#42;2^ nem têm mais salário, porque a recordação deles foi esquecida.
+
+[NOTE]
+====
+. Lit.: “Pois os viventes estão sabendo que vão morrer.” Hebr.: ki ha·hhai·yím yoh·dhe‛ím shei·ya·mú·thu.
+. Lit.: “e os mortos, eles não estão sabendo nada”. Hebr.: weham·me·thím ’eh·nám yoh·dhe‛ím me’ú·mah.
+====
+
+[[v21-9-6]]
+
+^<<v21-9-6,6>>^ Também seu amor, e seu ódio, e seu ciúme já pereceram, e por tempo indefinido eles não têm mais parte em nada do que se tem de fazer debaixo do sol.
+
+[[v21-9-7]]
+
+^<<v21-9-7,7>>^ Vai, come o teu alimento^&#42;1^ com alegria e bebe o teu vinho com um bom coração, porque o [verdadeiro] Deus já achou prazer nos teus trabalhos.
+
+[NOTE]
+====
+. Lit.: “teu pão”. Hebr.: lahh·mé·kha.
+====
+
+[[v21-9-8]]
+
+^<<v21-9-8,8>>^ Em toda ocasião, mostrem ser brancas as tuas vestes e não falte óleo sobre a tua cabeça.
+
+[[v21-9-9]]
+
+^<<v21-9-9,9>>^ Vê a vida com a esposa que amas, todos os dias da tua vida vã que Ele te deu debaixo do sol, todos os dias da tua vaidade, pois este é o teu quinhão na vida e na tua labuta em que trabalhas arduamente debaixo do sol.
+
+[[v21-9-10]]
+
+^<<v21-9-10,10>>^ Tudo o que a tua mão achar para fazer, faze-o com o próprio poder que tens, pois não há trabalho, nem planejamento, nem conhecimento, nem sabedoria no Seol,^&#42;1^ o lugar para onde vais.
+
+[NOTE]
+====
+. “No Seol.” Hebr.: bish·’óhl; T: “na casa da sepultura”; gr.: haí·dei; lat.: ín·fe·ros. Veja Ap. 4B.
+====
+
+[[v21-9-11]]
+
+^<<v21-9-11,11>>^ Retornei para ver^&#42;1^ debaixo do sol que a corrida não é dos ligeiros, nem a batalha dos poderosos, nem tampouco são os sábios os que têm alimento,^&#42;2^ nem tampouco são os entendidos os que têm riquezas, nem mesmo os que têm conhecimento têm o favor; porque o tempo e o imprevisto sobrevêm a todos eles.^&#42;3^
+
+[NOTE]
+====
+. “Para ver.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+. Lit.: “pão”. Hebr.: lé·hhem.
+. Ou “o tempo e a ocorrência imprevisível sucedem a todos eles”.
+====
+
+[[v21-9-12]]
+
+^<<v21-9-12,12>>^ Pois o homem tampouco sabe o seu tempo. Iguais aos peixes que estão sendo apanhados numa rede má e como os pássaros que estão sendo apanhados numa armadilha, assim os próprios filhos dos homens estão sendo enlaçados num tempo calamitoso, quando cai sobre eles repentinamente.
+
+[[v21-9-13]]
+
+^<<v21-9-13,13>>^ Vi também o seguinte com respeito à sabedoria debaixo do sol — e ela^&#42;1^ era grande para mim:
+
+[NOTE]
+====
+. “Ela”, hebr. fem., evidentemente referindo-se à “sabedoria”. O adjetivo “grande” também é fem. no hebr.
+====
+
+[[v21-9-14]]
+
+^<<v21-9-14,14>>^ Havia uma pequena cidade e os homens^&#42;1^ nela eram poucos; e chegou a ela um grande rei, e cercou-a, e construiu contra ela grandes fortalezas.
+
+[NOTE]
+====
+. Lit.: “e homens”. Hebr.: wa·’ana·shím, pl. de ’ish.
+====
+
+[[v21-9-15]]
+
+^<<v21-9-15,15>>^ E achava-se nela um homem,^&#42;1^ necessitado, [mas]^&#42;2^ sábio, e este pôs a cidade a salvo com a sua sabedoria. Mas homem algum se lembrou daquele homem necessitado.
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’ish.
+. “Mas”, TVg e muitos mss. hebr.
+====
+
+[[v21-9-16]]
+
+^<<v21-9-16,16>>^ E eu mesmo disse: “A sabedoria é melhor do que a potência; no entanto, a sabedoria do necessitado é desprezada e não se escutam as suas palavras.”
+
+[[v21-9-17]]
+
+^<<v21-9-17,17>>^ As palavras dos sábios, em tranqüilidade, são ouvidas mais do que o clamor de quem governa entre gente estúpida.
+
+[[v21-9-18]]
+
+^<<v21-9-18,18>>^ A sabedoria é melhor do que os apetrechos para a peleja, e um único pecador pode destruir a muito bem.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-008.adoc#v21-8-0[&#60; Capítulo Anterior] | <<v21-9-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-010.adoc#v21-10-0[Próximo Capítulo &#62;]

@@ -1,0 +1,58 @@
+include::./index.adoc[]
+
+[[v19-87-0]]
+=== Salmos, 87
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Dos filhos de Corá. Uma melodia, um cântico._
+
+[[v19-87-1]]
+
+^<<v19-87-1,1>>^ Seu alicerce está nas montanhas santas.
+
+[[v19-87-2]]
+
+^<<v19-87-2,2>>^ Jeová está amando mais os portões de Sião
+Do que a todos os tabernáculos de Jacó.
+
+[[v19-87-3]]
+
+^<<v19-87-3,3>>^ Coisas gloriosas se falam a teu respeito, ó cidade do [verdadeiro] Deus. Selá.
+
+[[v19-87-4]]
+
+^<<v19-87-4,4>>^ Farei menção de Raabe^&#42;1^ e de Babilônia^&#42;2^ como estando entre os que me conhecem;
+Aqui estão a Filístia e Tiro, junto com Cus:^&#42;3^
+“Este é um que nasceu lá.”
+
+[NOTE]
+====
+. Ou “do Arremetedor”. T: “dos egípcios”. Veja 89:10 n.
+. “E de Babilônia”, LXXVg; hebr.: u·Va·vél, “e Babel”.
+. “Junto com Cus”, M; LXXVg: “e o povo dos etíopes”.
+====
+
+[[v19-87-5]]
+
+^<<v19-87-5,5>>^ E com respeito a Sião dir-se-á:
+“Cada um^&#42;1^ [deles] nasceu nela.”
+E o próprio Altíssimo a estabelecerá firmemente.
+
+[NOTE]
+====
+. Ou: “[Este] homem e [aquele] homem.”
+====
+
+[[v19-87-6]]
+
+^<<v19-87-6,6>>^ O próprio Jeová declarará, ao inscrever os povos:
+“Este é um que nasceu lá.” Selá.
+
+[[v19-87-7]]
+
+^<<v19-87-7,7>>^ Haverá também cantores bem como dançarinos de danças de roda:
+“Todos os meus mananciais estão em ti.”
+
+'''
+
+xref:019-salmo/019-salmo-086.adoc#v19-86-0[&#60; Capítulo Anterior] | <<v19-87-0,Topo>> | xref:019-salmo/019-salmo-088.adoc#v19-88-0[Próximo Capítulo &#62;]

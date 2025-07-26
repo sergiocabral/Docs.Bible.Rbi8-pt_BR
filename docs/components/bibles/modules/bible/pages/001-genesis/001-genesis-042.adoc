@@ -1,0 +1,182 @@
+include::./index.adoc[]
+
+[[v1-42-0]]
+=== Gênesis, 42
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-42-1]]
+
+^<<v1-42-1,1>>^ Por fim, Jacó chegou a ver que havia cereais no Egito. Jacó disse então a seus filhos: “Por que estais olhando um para o outro?”
+
+[[v1-42-2]]
+
+^<<v1-42-2,2>>^ E acrescentou: “Eis que eu soube que há cereais no Egito. Descei para lá e comprai de lá para nós, para que fiquemos vivos e não morramos.”
+
+[[v1-42-3]]
+
+^<<v1-42-3,3>>^ Desceram, pois, dez irmãos de José para comprar cereal do Egito.
+
+[[v1-42-4]]
+
+^<<v1-42-4,4>>^ Mas Jacó não enviou Benjamim, irmão de José, com os outros irmãos dele, porque dizia: “Senão lhe poderia sobrevir um acidente fatal.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “uma cura”, usado como eufemismo para “acidente fatal”.
+====
+
+[[v1-42-5]]
+
+^<<v1-42-5,5>>^ Os filhos de Israel vieram assim junto com os outros que vinham comprar, porque havia fome na terra de Canaã.
+
+[[v1-42-6]]
+
+^<<v1-42-6,6>>^ E José era o homem no poder sobre o país. Era ele quem vendia a todo o povo da terra. Por conseguinte, os irmãos de José vieram e curvaram-se diante dele com os seus rostos por terra.
+
+[[v1-42-7]]
+
+^<<v1-42-7,7>>^ Quando José viu os seus irmãos, reconheceu-os imediatamente, mas fez-se irreconhecível para eles. Falou-lhes assim rispidamente e disse-lhes: “Donde viestes?” ao que disseram: “Da terra de Canaã, para comprar mantimentos.”
+
+[[v1-42-8]]
+
+^<<v1-42-8,8>>^ José reconheceu assim os seus irmãos, mas eles mesmos não o reconheceram.
+
+[[v1-42-9]]
+
+^<<v1-42-9,9>>^ José se lembrou imediatamente dos sonhos que tivera com respeito a eles e prosseguiu, dizendo-lhes: “Sois espiões! Viestes para ver a condição exposta^&#42;1^ do país!”
+
+[NOTE]
+====
+. Ou “a condição indefesa”. Lit.: “a nudez”.
+====
+
+[[v1-42-10]]
+
+^<<v1-42-10,10>>^ Disseram-lhe então: “Não, meu senhor, mas os teus servos vieram para comprar mantimentos.
+
+[[v1-42-11]]
+
+^<<v1-42-11,11>>^ Todos nós somos filhos de apenas um só homem. Somos homens retos. Teus servos não agem como espiões.”
+
+[[v1-42-12]]
+
+^<<v1-42-12,12>>^ Mas ele lhes disse: “Não é assim! Pois viestes para ver a condição exposta do país!”
+
+[[v1-42-13]]
+
+^<<v1-42-13,13>>^ A isso disseram: “Teus servos são doze irmãos. Somos os filhos de apenas um só homem na terra de Canaã; e eis que o mais moço está hoje com o nosso pai; quanto ao outro, já não existe.”
+
+[[v1-42-14]]
+
+^<<v1-42-14,14>>^ No entanto, José disse-lhes: “É o que vos falei, dizendo: ‘Sois espiões!’
+
+[[v1-42-15]]
+
+^<<v1-42-15,15>>^ Sereis provados pelo seguinte: Assim como vive Faraó, não saireis daqui a menos que venha para cá o vosso irmão mais moço.
+
+[[v1-42-16]]
+
+^<<v1-42-16,16>>^ Enviai um de vós, para que venha trazer vosso irmão, enquanto ficais presos, para que as vossas palavras sejam provadas quanto à veracidade no vosso caso. E do contrário, então, assim como vive Faraó, sois espiões.”
+
+[[v1-42-17]]
+
+^<<v1-42-17,17>>^ Com isso os recolheu juntos por três dias à detenção.
+
+[[v1-42-18]]
+
+^<<v1-42-18,18>>^ Depois, José disse-lhes no terceiro dia: “Fazei o seguinte e ficai vivos. Eu temo o [verdadeiro] Deus.
+
+[[v1-42-19]]
+
+^<<v1-42-19,19>>^ Se fordes retos, fique preso um dos vossos irmãos na vossa casa de detenção; os demais de vós, porém, ide, tomai cereais para a fome nas vossas casas.
+
+[[v1-42-20]]
+
+^<<v1-42-20,20>>^ Então me trareis o vosso irmão mais moço, para que as vossas palavras sejam achadas fidedignas; e não morrereis.” E passaram a fazer assim.
+
+[[v1-42-21]]
+
+^<<v1-42-21,21>>^ E começaram a dizer um ao outro: “Somos indubitavelmente culpados com respeito ao nosso irmão, porque vimos a aflição de sua alma, quando implorou compaixão da nossa parte, mas não escutamos. É por isso que esta aflição veio sobre nós.”
+
+[[v1-42-22]]
+
+^<<v1-42-22,22>>^ Rubem respondeu-lhes então, dizendo: “Não vos disse eu: ‘Não pequeis contra o menino’, mas não escutastes? E eis que agora certamente se exigirá de volta seu sangue.”
+
+[[v1-42-23]]
+
+^<<v1-42-23,23>>^ Quanto a eles, não sabiam que José estava escutando, porque havia um intérprete entre eles.
+
+[[v1-42-24]]
+
+^<<v1-42-24,24>>^ Conseqüentemente, retirou-se deles e começou a chorar. Voltou então a eles e falou-lhes, e tomou deles Simeão e prendeu-o diante dos seus olhos.
+
+[[v1-42-25]]
+
+^<<v1-42-25,25>>^ Depois, José deu a ordem, e foram encher seus receptáculos de cereais. Também, haviam de restituir o dinheiro dos homens ao saco individual de cada um e dar-lhes provisões para a jornada. Concordemente, fez-se-lhes assim.
+
+[[v1-42-26]]
+
+^<<v1-42-26,26>>^ Carregaram então seus cereais sobre os seus jumentos e partiram dali.
+
+[[v1-42-27]]
+
+^<<v1-42-27,27>>^ Quando um deles abriu seu saco para dar forragem ao seu jumento, na pousada, viu seu dinheiro, e eis que estava na boca da saca.
+
+[[v1-42-28]]
+
+^<<v1-42-28,28>>^ A isso ele disse aos seus irmãos: “Meu dinheiro foi devolvido e eis que está aqui na minha saca!” Desfaleceu-lhes então o coração, de modo que se voltaram um para o outro, tremendo e dizendo: “Que é isto que Deus nos tem feito?”
+
+[[v1-42-29]]
+
+^<<v1-42-29,29>>^ Por fim chegaram a Jacó, seu pai, à terra de Canaã e contaram-lhe todas as coisas que lhes sobrevieram, dizendo:
+
+[[v1-42-30]]
+
+^<<v1-42-30,30>>^ “O homem que é senhor^&#42;1^ do país falou conosco rispidamente, visto que nos tomou por homens que espionavam o país.
+
+[NOTE]
+====
+. Hebr.: ’adho·néh, pl., para denotar excelência.
+====
+
+[[v1-42-31]]
+
+^<<v1-42-31,31>>^ Mas dissemos-lhe: ‘Somos homens retos. Não agimos como espiões.
+
+[[v1-42-32]]
+
+^<<v1-42-32,32>>^ Somos doze irmãos, filhos de nosso pai. Um já não existe, e o mais moço está hoje com o nosso pai na terra de Canaã.’
+
+[[v1-42-33]]
+
+^<<v1-42-33,33>>^ Mas o homem que é senhor do país disse-nos: ‘Nisto saberei que sois retos: Fazei um irmão vosso ficar comigo. Tomai então algo para a fome nas vossas casas e ide.
+
+[[v1-42-34]]
+
+^<<v1-42-34,34>>^ E trazei-me vosso irmão mais moço, para que eu saiba que não sois espiões, mas que sois retos. Eu vos devolverei o vosso irmão e podereis fazer negócios no país.’”
+
+[[v1-42-35]]
+
+^<<v1-42-35,35>>^ E sucedeu que, ao esvaziarem seus sacos, eis que a trouxinha de dinheiro de cada um se encontrava no seu saco. E tanto eles como seu pai puderam ver as suas trouxinhas de dinheiro e ficaram com medo.
+
+[[v1-42-36]]
+
+^<<v1-42-36,36>>^ Jacó, seu pai, exclamou então para eles: “A mim é que privastes de filhos! José já não existe e Simeão já não existe, e haveis de tomar Benjamim! É a mim que sobrevieram todas estas coisas!”
+
+[[v1-42-37]]
+
+^<<v1-42-37,37>>^ Mas Rubem disse a seu pai: “Meus próprios dois filhos podem ser mortos por ti se não to trouxer de volta. Entrega-o aos meus cuidados e serei eu quem to restituirá.”
+
+[[v1-42-38]]
+
+^<<v1-42-38,38>>^ No entanto, ele disse: “Meu filho não descerá convosco, porque seu irmão está morto e ele ficou só. Se lhe acontecesse algum acidente fatal^&#42;1^ no caminho pelo qual fordes, então certamente faríeis meus cabelos grisalhos descer com pesar ao Seol.”^&#42;2^
+
+[NOTE]
+====
+. Veja v. 4 n.
+. “Ao Seol.” Hebr.: she’óh·lah; gr.: eis haí·dou; sir.: la·shiul; lat.: ad ín·fe·ros. Veja Ap. 4B.
+====
+
+'''
+
+xref:001-genesis/001-genesis-041.adoc#v1-41-0[&#60; Capítulo Anterior] | <<v1-42-0,Topo>> | xref:001-genesis/001-genesis-043.adoc#v1-43-0[Próximo Capítulo &#62;]

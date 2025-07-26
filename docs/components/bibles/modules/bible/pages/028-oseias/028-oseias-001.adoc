@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v28-1-0]]
+=== Oseias, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v28-1-1]]
+
+^<<v28-1-1,1>>^ A palavra de Jeová que veio a haver para Oséias, filho de Beeri, nos dias de Uzias, Jotão, Acaz [e] Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.
+
+[[v28-1-2]]
+
+^<<v28-1-2,2>>^ Deu-se início à palavra de Jeová por meio de Oséias, e Jeová passou a dizer a Oséias: “Vai, toma para ti uma esposa de fornicação^&#42;1^ e filhos de fornicação, porque é positivamente por meio de fornicação que a terra se desvia de seguir a Jeová.”
+
+[NOTE]
+====
+. Lit.: “fornicações; prostituições”. Hebr.: zenu·ním, pl. Veja Gên 38:24; Ez 23:11, 29.
+====
+
+[[v28-1-3]]
+
+^<<v28-1-3,3>>^ E ele passou a ir e a tomar Gômer, filha de Diblaim, de modo que ela ficou grávida e no tempo devido lhe deu à luz um filho.
+
+[[v28-1-4]]
+
+^<<v28-1-4,4>>^ E Jeová prosseguiu, dizendo-lhe: “Chama-o pelo nome de Jezreel, pois ainda um pouco e terei de ajustar contas pelos atos de derramamento de sangue de Jezreel,^&#42;1^ contra a casa de Jeú, e terei de fazer cessar o domínio real da casa de Israel.
+
+[NOTE]
+====
+. A cidade real na qual moravam os reis do Israel setentrional, embora Samaria fosse sua capital. Veja 2Rs (8:29; 9:15, 25, 30-37; 10:1-11).
+====
+
+[[v28-1-5]]
+
+^<<v28-1-5,5>>^ E naquele dia terá de acontecer que terei de quebrar o arco de Israel na baixada^&#42;1^ de Jezreel.”
+
+[NOTE]
+====
+. Ou “no vale”.
+====
+
+[[v28-1-6]]
+
+^<<v28-1-6,6>>^ E ela passou outra vez a ficar grávida e a dar à luz uma filha. E Ele^&#42;1^ prosseguiu, dizendo-lhe: “Chama-a pelo nome de Lo-Ruama,^&#42;2^ pois não mais terei misericórdia para com a casa de Israel, porque positivamente os levarei embora.^&#42;3^
+
+[NOTE]
+====
+. “Ele”, MLXXVg; Sy: “Jeová”.
+. Significando “Com Ela Não se Teve Misericórdia”. Hebr.: Lo’ ru·hhá·mah.
+. Ou “que eu positivamente lhes perdoasse”.
+====
+
+[[v28-1-7]]
+
+^<<v28-1-7,7>>^ Mas terei misericórdia para com a casa de Judá, e vou salvá-los por Jeová, seu Deus;^&#42;1^ mas não os salvarei pelo arco, ou pela espada, ou pela guerra, por cavalos ou por cavaleiros.”
+
+[NOTE]
+====
+. “Seu Deus.” Hebr.: ’Elo·heh·hém.
+====
+
+[[v28-1-8]]
+
+^<<v28-1-8,8>>^ E ela foi desmamar Lo-Ruama e passou a ficar grávida e a dar à luz um filho.
+
+[[v28-1-9]]
+
+^<<v28-1-9,9>>^ De modo que Ele disse: “Chama-o pelo nome de Lo-Ami,^&#42;1^ porque vós não sois meu povo^&#42;2^ e eu mesmo mostrarei não ser vosso.^&#42;3^
+
+[NOTE]
+====
+. Significando “Não Meu Povo”. Hebr.: Lo’ ‛am·mí.
+. “Não . . . meu povo.” Hebr.: lo’ ‛am·mí.
+. MLXX terminam aqui o cap. 1; TSyVg continuam por mais dois vv.
+====
+
+[[v28-1-10]]
+
+^<<v28-1-10,10>>^ “E o número dos filhos de Israel terá de tornar-se como os grãos de areia do mar que não se podem medir nem contar. E terá de acontecer que no lugar em que se costumava dizer-lhes: ‘Vós não sois meu povo’, ser-lhes-á dito: ‘Os filhos do Deus vivente.’^&#42;1^
+
+[NOTE]
+====
+. “Deus vivente.” Hebr.: ’El-hhaí.
+====
+
+[[v28-1-11]]
+
+^<<v28-1-11,11>>^ E os filhos de Judá e os filhos de Israel certamente serão reunidos em união^&#42;1^ e realmente estabelecerão para si mesmos um só cabeça e sairão subindo da terra, porque grande será o dia de Jezreel.^&#42;2^
+
+[NOTE]
+====
+. “Em união.” Hebr.: yahh·dáw.
+. Significando “Deus Semeará”. Hebr.: Yiz·re‛é’l.
+====
+
+'''
+
+xref:027-daniel/027-daniel-012.adoc#v27-12-0[&#60; Capítulo Anterior] | <<v28-1-0,Topo>> | xref:028-oseias/028-oseias-002.adoc#v28-2-0[Próximo Capítulo &#62;]

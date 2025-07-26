@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v19-51-0]]
+=== Salmos, 51
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Uma melodia de Davi. Quando Natã, o profeta, entrou até ele, depois de ele ter tido relações com Bate-Seba._
+
+[[v19-51-1]]
+
+^<<v19-51-1,1>>^ Mostra-me favor, ó Deus,^&#42;1^ segundo a tua benevolência.^&#42;2^
+Segundo a abundância das tuas misericórdias, extingue as minhas transgressões.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+. Ou “amor leal”.
+====
+
+[[v19-51-2]]
+
+^<<v19-51-2,2>>^ Lava cabalmente de mim o meu erro
+E purifica-me mesmo do meu pecado.
+
+[[v19-51-3]]
+
+^<<v19-51-3,3>>^ Pois eu mesmo conheço as minhas transgressões
+E meu pecado está constantemente diante de mim.
+
+[[v19-51-4]]
+
+^<<v19-51-4,4>>^ Pequei contra ti, somente contra ti,
+E fiz o que é mau aos teus olhos,
+A fim de que te mostres justo ao falares,
+Para que sejas puro ao julgares.
+
+[[v19-51-5]]
+
+^<<v19-51-5,5>>^ Eis que em erro fui dado à luz com dores de parto,
+E em pecado me concebeu minha mãe.
+
+[[v19-51-6]]
+
+^<<v19-51-6,6>>^ Eis que te agradaste da própria veracidade no íntimo;
+E faze-me saber pura sabedoria no segredo do íntimo.
+
+[[v19-51-7]]
+
+^<<v19-51-7,7>>^ Que tu me purifiques de pecado com hissopo, para eu ser limpo;
+Que tu me laves, para eu me tornar mais branco do que a neve.
+
+[[v19-51-8]]
+
+^<<v19-51-8,8>>^ Que tu me faças ouvir exultação e alegria,
+Para que jubilem os ossos que quebrantaste.
+
+[[v19-51-9]]
+
+^<<v19-51-9,9>>^ Esconde a tua face dos meus pecados
+E extingue até mesmo todos os meus erros.
+
+[[v19-51-10]]
+
+^<<v19-51-10,10>>^ Cria em mim um coração puro, ó Deus,
+E põe dentro de mim um espírito novo, firme.
+
+[[v19-51-11]]
+
+^<<v19-51-11,11>>^ Não me lances fora de diante da tua face;
+E não tires de mim o teu espírito santo.
+
+[[v19-51-12]]
+
+^<<v19-51-12,12>>^ Restitui-me deveras a exultação da salvação por ti,
+E que tu me sustentes com um espírito disposto.
+
+[[v19-51-13]]
+
+^<<v19-51-13,13>>^ Vou ensinar aos transgressores os teus caminhos,
+Para que os próprios pecadores retornem diretamente a ti.
+
+[[v19-51-14]]
+
+^<<v19-51-14,14>>^ Livra-me da culpa de sangue,^&#42;1^ ó Deus, o Deus da minha salvação,
+Para que a minha língua proclame em júbilo a tua justiça.
+
+[NOTE]
+====
+. Lit.: “sangues”.
+====
+
+[[v19-51-15]]
+
+^<<v19-51-15,15>>^ Ó Jeová,^&#42;1^ que tu me abras estes lábios,
+Para que a minha própria boca conte o teu louvor.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-51-16]]
+
+^<<v19-51-16,16>>^ Pois não te agradas de sacrifício — senão eu [o] daria;
+Não tens prazer em holocausto.
+
+[[v19-51-17]]
+
+^<<v19-51-17,17>>^ Os sacrifícios a Deus são um espírito quebrantado;
+Um coração quebrantado e esmagado não desprezarás, ó Deus.
+
+[[v19-51-18]]
+
+^<<v19-51-18,18>>^ Na tua boa vontade, trata deveras bem a Sião;
+Que tu construas as muralhas de Jerusalém.
+
+[[v19-51-19]]
+
+^<<v19-51-19,19>>^ Neste caso te agradarás dos sacrifícios de justiça,
+Do sacrifício queimado e da oferta inteira;
+Neste caso se oferecerão novilhos no teu próprio altar.
+
+'''
+
+xref:019-salmo/019-salmo-050.adoc#v19-50-0[&#60; Capítulo Anterior] | <<v19-51-0,Topo>> | xref:019-salmo/019-salmo-052.adoc#v19-52-0[Próximo Capítulo &#62;]

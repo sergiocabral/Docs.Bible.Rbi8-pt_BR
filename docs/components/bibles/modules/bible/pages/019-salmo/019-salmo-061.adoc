@@ -1,0 +1,56 @@
+include::./index.adoc[]
+
+[[v19-61-0]]
+=== Salmos, 61
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, em instrumentos de cordas. De Davi._
+
+[[v19-61-1]]
+
+^<<v19-61-1,1>>^ Ouve deveras, ó Deus, meu clamor suplicante.
+Presta deveras atenção à minha oração.
+
+[[v19-61-2]]
+
+^<<v19-61-2,2>>^ Desde a extremidade da terra clamarei, sim, a ti, quando meu coração se debilitar.
+Que tu me guies a uma rocha mais alta do que eu.
+
+[[v19-61-3]]
+
+^<<v19-61-3,3>>^ Pois tu mostraste ser um refúgio para mim,
+Uma torre forte em face do inimigo.
+
+[[v19-61-4]]
+
+^<<v19-61-4,4>>^ Vou ser hóspede na tua tenda por tempos indefinidos;
+Vou refugiar-me no esconderijo das tuas asas. Selá.
+
+[[v19-61-5]]
+
+^<<v19-61-5,5>>^ Pois tu mesmo, ó Deus, escutaste os meus votos.
+Deste-me posse dos que temem o teu nome.
+
+[[v19-61-6]]
+
+^<<v19-61-6,6>>^ Acrescentarás dias aos dias do rei;
+Seus anos serão como geração após geração.
+
+[[v19-61-7]]
+
+^<<v19-61-7,7>>^ Morará por tempo indefinido diante de Deus;
+Proporciona deveras benevolência e veracidade,^&#42;1^ para que estas o salvaguardem.
+
+[NOTE]
+====
+. Ou “verdade”.
+====
+
+[[v19-61-8]]
+
+^<<v19-61-8,8>>^ Por isso vou entoar melodias ao teu nome para todo o sempre,
+A fim de pagar meus votos dia após dia.
+
+'''
+
+xref:019-salmo/019-salmo-060.adoc#v19-60-0[&#60; Capítulo Anterior] | <<v19-61-0,Topo>> | xref:019-salmo/019-salmo-062.adoc#v19-62-0[Próximo Capítulo &#62;]

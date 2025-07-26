@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v20-29-0]]
+=== Provérbios, 29
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-29-1]]
+
+^<<v20-29-1,1>>^ O homem^&#42;1^ repetidas vezes repreendido, mas que endurece a cerviz, será repentinamente quebrado, e isto sem cura.
+
+[NOTE]
+====
+. Ou: “Um indivíduo.” Hebr.: ’ish.
+====
+
+[[v20-29-2]]
+
+^<<v20-29-2,2>>^ Quando os justos se tornam muitos, o povo se alegra; mas quando um iníquo está dominando, o povo suspira.
+
+[[v20-29-3]]
+
+^<<v20-29-3,3>>^ O homem que ama a sabedoria alegra seu pai, mas quem tem companheirismo com prostitutas destrói coisas valiosas.
+
+[[v20-29-4]]
+
+^<<v20-29-4,4>>^ Pela justiça o rei faz que o país fique de pé, mas o homem à procura de suborno^&#42;1^ o derruba.
+
+[NOTE]
+====
+. Lit.: “contribuições”.
+====
+
+[[v20-29-5]]
+
+^<<v20-29-5,5>>^ O varão vigoroso que lisonjeia seu companheiro apenas está estendendo uma rede aos seus passos.
+
+[[v20-29-6]]
+
+^<<v20-29-6,6>>^ Na transgressão do homem mau há um laço, mas quem é justo grita de júbilo e está alegre.
+
+[[v20-29-7]]
+
+^<<v20-29-7,7>>^ O justo conhece a demanda judicial dos de condição humilde. Quem é iníquo não toma em consideração tal conhecimento.
+
+[[v20-29-8]]
+
+^<<v20-29-8,8>>^ Homens de fanfarrice incendeiam a vila, mas os que são sábios fazem recuar a ira.
+
+[[v20-29-9]]
+
+^<<v20-29-9,9>>^ O homem sábio que entrou em julgamento com um homem tolo — ficou agitado e também se riu, e não há descanso.
+
+[[v20-29-10]]
+
+^<<v20-29-10,10>>^ Homens sanguinários odeiam ao inculpe; e quanto aos retos, continuam a procurar a alma de cada um.
+
+[[v20-29-11]]
+
+^<<v20-29-11,11>>^ Todo o seu espírito é o que o estúpido deixa sair, mas aquele que é sábio o mantém calmo até o último.
+
+[[v20-29-12]]
+
+^<<v20-29-12,12>>^ Quando o governante presta atenção a conversa falsa, todos os que o atendem serão iníquos.
+
+[[v20-29-13]]
+
+^<<v20-29-13,13>>^ O de poucos meios e o homem de opressões se encontraram; [mas] Jeová ilumina os olhos de ambos.
+
+[[v20-29-14]]
+
+^<<v20-29-14,14>>^ Quando o rei julga em veracidade os de condição humilde, seu trono ficará firmemente estabelecido para todo o sempre.
+
+[[v20-29-15]]
+
+^<<v20-29-15,15>>^ A vara e a repreensão é que dão sabedoria; mas, o rapaz deixado solto causará vergonha à sua mãe.
+
+[[v20-29-16]]
+
+^<<v20-29-16,16>>^ Quando os iníquos se tornam muitos, abunda a transgressão; mas os que são justos olharão para a própria queda deles.
+
+[[v20-29-17]]
+
+^<<v20-29-17,17>>^ Castiga teu filho e ele te trará descanso e dará muito prazer à tua alma.
+
+[[v20-29-18]]
+
+^<<v20-29-18,18>>^ Onde não há visão, o povo está desenfreado, mas felizes são os^&#42;1^ que guardam a lei.
+
+[NOTE]
+====
+. Ou “feliz o”, hebr. sing., referindo-se ao “povo”.
+====
+
+[[v20-29-19]]
+
+^<<v20-29-19,19>>^ O servo não se deixará corrigir por meras palavras, pois ele compreende, mas não atende.
+
+[[v20-29-20]]
+
+^<<v20-29-20,20>>^ Observaste o homem que é precipitado nas suas palavras? Há mais esperança para o estúpido do que para ele.
+
+[[v20-29-21]]
+
+^<<v20-29-21,21>>^ Se alguém está mimando o seu servo desde a infância, este se tornará posteriormente na vida até mesmo um ingrato.^&#42;1^
+
+[NOTE]
+====
+. “Um ingrato.” Hebr.: ma·nóhn, de significado incerto.
+====
+
+[[v20-29-22]]
+
+^<<v20-29-22,22>>^ O homem dado à ira suscita contenda e quem está disposto ao furor^&#42;1^ tem muita transgressão.
+
+[NOTE]
+====
+. Lit.: “e um amo de furor”. Hebr.: u·vá‛al hhe·máh.
+====
+
+[[v20-29-23]]
+
+^<<v20-29-23,23>>^ A própria altivez do homem terreno o humilhará, mas quem é humilde de espírito segurará a glória.
+
+[[v20-29-24]]
+
+^<<v20-29-24,24>>^ Quem é parceiro dum ladrão odeia a sua própria alma. Talvez ouça rogar pragas, mas não conta nada.
+
+[[v20-29-25]]
+
+^<<v20-29-25,25>>^ Tremer diante de homens^&#42;1^ é o que arma um laço, mas quem confia em Jeová será protegido.
+
+[NOTE]
+====
+. Lit.: “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v20-29-26]]
+
+^<<v20-29-26,26>>^ Muitos são os que procuram a face do governante, mas o julgamento do homem procede de Jeová.
+
+[[v20-29-27]]
+
+^<<v20-29-27,27>>^ O homem de injustiça é algo detestável para os justos, e aquele que é reto no seu caminho é algo detestável para o iníquo.
+
+'''
+
+xref:020-proverbios/020-proverbios-028.adoc#v20-28-0[&#60; Capítulo Anterior] | <<v20-29-0,Topo>> | xref:020-proverbios/020-proverbios-030.adoc#v20-30-0[Próximo Capítulo &#62;]

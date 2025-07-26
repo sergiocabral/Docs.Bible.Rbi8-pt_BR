@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v7-10-0]]
+=== Juízes, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v7-10-1]]
+
+^<<v7-10-1,1>>^ Ora, depois de Abimeleque, levantou-se Tola, filho de Puá, filho de Dodo, homem de Issacar, para salvar Israel, e ele morava em Samir, na região montanhosa de Efraim.
+
+[[v7-10-2]]
+
+^<<v7-10-2,2>>^ E ele continuou a julgar Israel por vinte e três anos, morrendo depois e sendo enterrado em Samir.
+
+[[v7-10-3]]
+
+^<<v7-10-3,3>>^ Depois dele se levantou Jair, o gileadita, e ele continuou a julgar Israel por vinte e dois anos.
+
+[[v7-10-4]]
+
+^<<v7-10-4,4>>^ E ele veio a ter trinta filhos que montavam em trinta jumentos adultos, e eles tinham trinta cidades.^&#42;1^ Estas continuam a chamar-se de Havote-Jair^&#42;2^ até o dia de hoje; estão na terra de Gileade.
+
+[NOTE]
+====
+. “Cidades”, LXXSyVg; M: “jumentos adultos”.
+. Significando “Aldeias de Tendas de Jair”.
+====
+
+[[v7-10-5]]
+
+^<<v7-10-5,5>>^ Jair morreu depois e foi enterrado em Camom.
+
+[[v7-10-6]]
+
+^<<v7-10-6,6>>^ E os filhos de Israel passaram novamente a fazer o que era mau aos olhos de Jeová, e começaram a servir aos Baalins e às imagens de Astorete, e aos deuses da Síria, e aos deuses de Sídon, e aos deuses de Moabe, e aos deuses dos filhos de Amom, e aos deuses dos filisteus. Assim abandonaram a Jeová e não o serviram.
+
+[[v7-10-7]]
+
+^<<v7-10-7,7>>^ Nisso se acendeu a ira de Jeová contra Israel, de modo que os vendeu à mão dos filisteus e à mão dos filhos de Amom.
+
+[[v7-10-8]]
+
+^<<v7-10-8,8>>^ Por isso despedaçaram e oprimiram muito os filhos de Israel naquele ano — por dezoito anos, todos os filhos de Israel que se achavam do lado do Jordão na terra dos amorreus que estava em Gileade.
+
+[[v7-10-9]]
+
+^<<v7-10-9,9>>^ E os filhos de Amom atravessavam o Jordão para lutar até mesmo contra Judá e Benjamim, e a casa de Efraim; e Israel estava em grande aflição.
+
+[[v7-10-10]]
+
+^<<v7-10-10,10>>^ E os filhos de Israel começaram a clamar a Jeová por socorro, dizendo: “Pecamos contra ti, pois abandonamos nosso Deus e servimos aos Baalins.”
+
+[[v7-10-11]]
+
+^<<v7-10-11,11>>^ Jeová disse então aos filhos de Israel: “Não foi do Egito, e dos amorreus, e dos filhos de Amom, e dos filisteus,
+
+[[v7-10-12]]
+
+^<<v7-10-12,12>>^ e dos sidônios, e de Amaleque, e de Midiã^&#42;1^ que passei a livrar-vos da sua mão quando vos oprimiram e fostes clamar a mim?
+
+[NOTE]
+====
+. “Midiã”, LXX; M: “Maom”; Vg: “Canaã”.
+====
+
+[[v7-10-13]]
+
+^<<v7-10-13,13>>^ Quanto a vós, vós me abandonastes e fostes servir a outros deuses. É por isso que não mais vos salvarei.
+
+[[v7-10-14]]
+
+^<<v7-10-14,14>>^ Ide e clamai por socorro aos deuses^&#42;1^ que escolhestes. Que eles vos salvem no tempo da vossa aflição.”
+
+[NOTE]
+====
+. “Aos deuses.” Hebr.: ha·’elo·hím; gr.: the·oús; lat.: dé·os.
+====
+
+[[v7-10-15]]
+
+^<<v7-10-15,15>>^ Mas os filhos de Israel disseram a Jeová: “Pecamos. Faze tu mesmo conosco segundo tudo o que for bom aos teus olhos. Tão-somente nos livra no dia de hoje, por favor.”
+
+[[v7-10-16]]
+
+^<<v7-10-16,16>>^ E começaram a remover os deuses estrangeiros do seu meio e a servir a Jeová, de modo que a alma dele ficou impaciente por causa da desgraça de Israel.
+
+[[v7-10-17]]
+
+^<<v7-10-17,17>>^ Então foram convocados os filhos de Amom e se acamparam em Gileade. Portanto, os filhos de Israel se reuniram e se acamparam em Mispá.
+
+[[v7-10-18]]
+
+^<<v7-10-18,18>>^ E o povo e os príncipes de Gileade começaram a dizer uns aos outros: “Quem é o homem que tomará a dianteira em lutar contra os filhos de Amom? Torne-se ele o cabeça para todos os habitantes de Gileade.”
+
+'''
+
+xref:007-juizes/007-juizes-009.adoc#v7-9-0[&#60; Capítulo Anterior] | <<v7-10-0,Topo>> | xref:007-juizes/007-juizes-011.adoc#v7-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v28-11-0]]
+=== Oseias, 11
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v28-11-1]]
+
+^<<v28-11-1,1>>^ “Quando Israel era rapaz,^&#42;1^ então o amei, e do Egito chamei o meu filho.
+
+[NOTE]
+====
+. Ou “menino; jovem”.
+====
+
+[[v28-11-2]]
+
+^<<v28-11-2,2>>^ “Chamaram-nos.^&#42;1^ A tal ponto se afastaram de diante deles.^&#42;2^ Passaram a oferecer sacrifícios às imagens de Baal^&#42;3^ e começaram a fazer fumaça sacrificial às imagens entalhadas.
+
+[NOTE]
+====
+. “Chamaram-nos”, MSyVg; LXX: “Chamei-os.”
+. “De diante deles (das suas faces)”, MTVg; LXXSy: “da minha face”.
+. Ou “aos Baalins”. Hebr.: lab·Be‛a·lím; gr.: Ba·a·lím; lat.: Bá·a·lim.
+====
+
+[[v28-11-3]]
+
+^<<v28-11-3,3>>^ Mas, no que toca a mim, ensinei a Efraim a andar, tomando-os nos^&#42;1^ braços; e eles não reconheceram que eu os tinha curado.
+
+[NOTE]
+====
+. “Tomando-os [eu] nos”, em harmonia com LXXSyVg; M: “tomando-os [ele; alguém] nos”.
+====
+
+[[v28-11-4]]
+
+^<<v28-11-4,4>>^ Continuei a puxá-los com as cordas do homem terreno,^&#42;1^ com os cordões do amor, de modo que me tornei para eles como os que retiram um jugo das suas queixadas, e suavemente eu levei alimento a [cada] um.
+
+[NOTE]
+====
+. Ou “homem”. Hebr.: ’a·dhám.
+====
+
+[[v28-11-5]]
+
+^<<v28-11-5,5>>^ Ele não retornará à terra do Egito, mas a Assíria será o seu rei, porque se negaram a retornar.
+
+[[v28-11-6]]
+
+^<<v28-11-6,6>>^ E uma espada há de rodopiar nas suas cidades e dar cabo das suas barras, e há de devorar por causa dos seus conselhos.
+
+[[v28-11-7]]
+
+^<<v28-11-7,7>>^ E meu povo tende à infidelidade para comigo. E chamam-no^&#42;1^ para cima;^&#42;2^ não há ninguém que se erga.^&#42;3^
+
+[NOTE]
+====
+. No M, tanto “-no” como “povo” são masculinos.
+. Veja 7:16 n.
+. Ou “se exalte”. Veja Êx 15:2; Sal 145:1, onde ocorre o mesmo verbo hebr. Na realidade, ninguém estava exaltando a Deus.
+====
+
+[[v28-11-8]]
+
+^<<v28-11-8,8>>^ “Como posso dar-te, ó Efraim? [Como] posso entregar-te, ó Israel? Como posso pôr-te como Admá? [Como] posso colocar-te como Zeboim? Meu coração se transformou dentro de mim; ao mesmo tempo inflamaram-se as minhas compaixões.
+
+[[v28-11-9]]
+
+^<<v28-11-9,9>>^ Não expressarei a minha ira ardente. Não arruinarei novamente a Efraim, porque sou Deus^&#42;1^ e não homem;^&#42;2^ [sou] o Santo no teu meio; e não virei em excitação.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El; lat.: Dé·us.
+. “Homem.” Hebr.: ’ish; gr.: án·thro·pos; lat.: hó·mo.
+====
+
+[[v28-11-10]]
+
+^<<v28-11-10,10>>^ Andarão atrás de Jeová. Ele bramirá como leão; pois ele mesmo bramirá e os filhos virão tremendo do oeste.
+
+[[v28-11-11]]
+
+^<<v28-11-11,11>>^ Tremendo como o pássaro virão do Egito, e como a pomba, da terra da Assíria; e eu hei de fazê-los morar nas suas casas”, é a pronunciação de Jeová.
+
+[[v28-11-12]]
+
+^<<v28-11-12,12>>^ “Efraim cercou-me com mentiras, e a casa de Israel, com impostura. Mas Judá ainda está peregrinando com Deus^&#42;1^ e é fidedigno com o Santíssimo.”^&#42;2^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+. “O Santíssimo.” Hebr.: Qedhoh·shím, pl. de qa·dhóhsh, “santo”; pl. para denotar excelência, segundo GK, sec. 124 h. Veja Pr 9:10 n. e Pr 30:3 n. Ou “até mesmo com o Mais Santo, que é fidedigno”.
+====
+
+'''
+
+xref:028-oseias/028-oseias-010.adoc#v28-10-0[&#60; Capítulo Anterior] | <<v28-11-0,Topo>> | xref:028-oseias/028-oseias-012.adoc#v28-12-0[Próximo Capítulo &#62;]

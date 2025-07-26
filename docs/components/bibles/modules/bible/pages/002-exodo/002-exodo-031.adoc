@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v2-31-0]]
+=== Êxodo, 31
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-31-1]]
+
+^<<v2-31-1,1>>^ E Jeová continuou a falar a Moisés, dizendo:
+
+[[v2-31-2]]
+
+^<<v2-31-2,2>>^ “Vê, eu deveras chamo por nome a Bezalel, filho de Uri, filho de Hur, da tribo de Judá.
+
+[[v2-31-3]]
+
+^<<v2-31-3,3>>^ E eu o encherei do espírito de Deus em sabedoria e em entendimento, e em conhecimento, e em toda espécie de artesanato,
+
+[[v2-31-4]]
+
+^<<v2-31-4,4>>^ para elaborar projetos, para trabalhar em ouro, e em prata, e em cobre,
+
+[[v2-31-5]]
+
+^<<v2-31-5,5>>^ e em lavrar pedras para engastá-las e em trabalhar madeira para fazer trabalhos de toda espécie.
+
+[[v2-31-6]]
+
+^<<v2-31-6,6>>^ Quanto a mim, eis que deveras ponho com ele^&#42;1^ Ooliabe, filho de Aisamaque, da tribo de Dã, e deveras ponho sabedoria no coração de todo o sábio de coração, para que deveras façam tudo o que te mandei:
+
+[NOTE]
+====
+. Ou “deveras dou para estar com ele”.
+====
+
+[[v2-31-7]]
+
+^<<v2-31-7,7>>^ a tenda de reunião e a Arca para o testemunho, e a tampa que há sobre ela, e todos os utensílios da tenda,
+
+[[v2-31-8]]
+
+^<<v2-31-8,8>>^ e a mesa e seus utensílios, e o candelabro de ouro puro e todos os seus utensílios, e o altar do incenso,
+
+[[v2-31-9]]
+
+^<<v2-31-9,9>>^ e o altar da oferta queimada e todos os seus utensílios, e a bacia e seu suporte,
+
+[[v2-31-10]]
+
+^<<v2-31-10,10>>^ e as vestes de tricô^&#42;1^ e as vestes sagradas para Arão, o sacerdote, e as vestes dos seus filhos, para atuarem como sacerdotes;
+
+[NOTE]
+====
+. Ou “vestes de traje oficial”. LXX: “vestes para serviço público”.
+====
+
+[[v2-31-11]]
+
+^<<v2-31-11,11>>^ e o óleo de unção e o incenso perfumado para o santuário. Farão tudo segundo o que te mandei.”
+
+[[v2-31-12]]
+
+^<<v2-31-12,12>>^ E Jeová disse mais a Moisés:
+
+[[v2-31-13]]
+
+^<<v2-31-13,13>>^ “Quanto a ti, fala aos filhos de Israel, dizendo: ‘Deveis guardar especialmente os meus sábados, pois é um sinal entre mim e vós nas vossas gerações, para que saibais que eu, Jeová, vos santifico.^&#42;1^
+
+[NOTE]
+====
+. Ou “que saibais que eu sou Jeová, que vos santifico”. Veja Le 20:8 n.
+====
+
+[[v2-31-14]]
+
+^<<v2-31-14,14>>^ E tendes de guardar o sábado, pois é algo santo para vós. O profanador dele será positivamente morto. Caso haja alguém fazendo nele alguma obra, então essa alma tem de ser decepada do meio do seu povo.
+
+[[v2-31-15]]
+
+^<<v2-31-15,15>>^ Seis dias se pode fazer alguma obra, mas no sétimo dia há um sábado de completo repouso.^&#42;1^ É algo santo para Jeová. Quem fizer alguma obra no dia de sábado será positivamente morto.
+
+[NOTE]
+====
+. Ou “de observância sabática”.
+====
+
+[[v2-31-16]]
+
+^<<v2-31-16,16>>^ E os filhos de Israel têm de guardar o sábado, a fim de celebrar o sábado nas suas gerações. É um pacto por tempo indefinido.
+
+[[v2-31-17]]
+
+^<<v2-31-17,17>>^ É um sinal entre mim e os filhos de Israel por tempo indefinido, porque em seis dias Jeová fez os céus e a terra, e no sétimo dia repousou^&#42;1^ e passou a tomar fôlego.’”
+
+[NOTE]
+====
+. Ou “desistiu”. Veja Gên 2:3 n.: “repousado”.
+====
+
+[[v2-31-18]]
+
+^<<v2-31-18,18>>^ Ora, assim que acabou de falar com ele no monte Sinai, passou a dar a Moisés duas tábuas do Testemunho, tábuas de pedra, inscritas pelo dedo de Deus.
+
+'''
+
+xref:002-exodo/002-exodo-030.adoc#v2-30-0[&#60; Capítulo Anterior] | <<v2-31-0,Topo>> | xref:002-exodo/002-exodo-032.adoc#v2-32-0[Próximo Capítulo &#62;]

@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-60-0]]
+=== Salmos, 60
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, segundo o Lírio de Advertência. Mictão.^&#42;1^ De Davi. Para ensino. Quando ele se empenhou numa peleja com Arã-Naaraim e Arã-Zobá, e Joabe passou a retornar e a golpear Edom no Vale do Sal, sim, doze mil._
+
+[[v19-60-1]]
+
+^<<v19-60-1,1>>^ Ó Deus, deitaste-nos fora, irrompeste através de nós,
+Ficaste irado. Deves restaurar-nos.
+
+[[v19-60-2]]
+
+^<<v19-60-2,2>>^ Fizeste tremer a terra, rachaste-a.
+Sara as suas brechas, pois ela foi abalada.
+
+[[v19-60-3]]
+
+^<<v19-60-3,3>>^ Fizeste teu povo ver dureza.
+Fizeste-nos beber vinho, atordoando-nos.
+
+[[v19-60-4]]
+
+^<<v19-60-4,4>>^ Deste um sinal de aviso aos que te temem,
+Para que fugissem em ziguezague^&#42;1^ por causa do arco. Selá.
+
+[NOTE]
+====
+. “Para que corressem em ziguezague”, mediante certa derivação do radical do verbo; mediante outra derivação: “para que fosse exibido”, ou: “ao qual se reunir”.
+====
+
+[[v19-60-5]]
+
+^<<v19-60-5,5>>^ A fim de que os teus amados sejam socorridos,
+Salva deveras com a tua direita e responde-nos.^&#42;1^
+
+[NOTE]
+====
+. “Nos”, M; MmargemTLXXSyVg e muitos mss. hebr.: “me”.
+====
+
+[[v19-60-6]]
+
+^<<v19-60-6,6>>^ O próprio Deus falou na sua santidade:
+“Vou rejubilar, vou repartir Siquém;
+E medirei a baixada de Sucote.
+
+[[v19-60-7]]
+
+^<<v19-60-7,7>>^ Gileade é meu e Manassés é meu,
+E Efraim é o baluarte do meu principal;
+Judá é meu bastão de comandante.
+
+[[v19-60-8]]
+
+^<<v19-60-8,8>>^ Moabe é minha panela de lavagem.
+Sobre Edom lançarei a minha sandália.
+Sobre a Filístia bradarei em triunfo.”^&#42;1^
+
+[NOTE]
+====
+. Segundo Sy; T: “Sobre os filisteus jubila a congregação de Israel.”
+====
+
+[[v19-60-9]]
+
+^<<v19-60-9,9>>^ Quem me levará à cidade sitiada?
+Quem é que me guiará até Edom?
+
+[[v19-60-10]]
+
+^<<v19-60-10,10>>^ Não foste tu, ó Deus, que nos deitaste fora
+E que não sais com os nossos exércitos como Deus?
+
+[[v19-60-11]]
+
+^<<v19-60-11,11>>^ Dá-nos deveras auxílio na aflição,
+Visto que a salvação pelo homem terreno é fútil.
+
+[[v19-60-12]]
+
+^<<v19-60-12,12>>^ Por Deus ganharemos energia vital,
+E ele mesmo calcará os nossos adversários.
+
+'''
+
+xref:019-salmo/019-salmo-059.adoc#v19-59-0[&#60; Capítulo Anterior] | <<v19-60-0,Topo>> | xref:019-salmo/019-salmo-061.adoc#v19-61-0[Próximo Capítulo &#62;]

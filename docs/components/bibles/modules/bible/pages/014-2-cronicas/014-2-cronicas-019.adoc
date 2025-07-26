@@ -1,0 +1,68 @@
+include::./index.adoc[]
+
+[[v14-19-0]]
+=== 2 Crônicas, 19
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v14-19-1]]
+
+^<<v14-19-1,1>>^ Jeosafá, rei de Judá, voltou então em paz à sua própria casa em Jerusalém.
+
+[[v14-19-2]]
+
+^<<v14-19-2,2>>^ Jeú, filho de Hanani, o visionário, saiu então diante dele e disse ao Rei Jeosafá: “É ao iníquo que se deve dar ajuda e é aos que odeiam a Jeová que deves amar? E por isso há indignação contra ti da parte da pessoa de Jeová.
+
+[[v14-19-3]]
+
+^<<v14-19-3,3>>^ Não obstante, acharam-se boas coisas contigo, por teres eliminado do país os postes sagrados e teres preparado teu coração para buscar o [verdadeiro] Deus.”
+
+[[v14-19-4]]
+
+^<<v14-19-4,4>>^ E Jeosafá continuou morando em Jerusalém; e começou a sair novamente entre o povo, desde Berseba até a região montanhosa de Efraim, para trazê-los de volta a Jeová, o Deus de seus antepassados.
+
+[[v14-19-5]]
+
+^<<v14-19-5,5>>^ E passou a colocar juízes por todo o país, em todas as cidades fortificadas de Judá, cidade por cidade.
+
+[[v14-19-6]]
+
+^<<v14-19-6,6>>^ E prosseguiu, dizendo aos juízes: “Vede o que estais fazendo, porque não é para o homem que julgais, mas é para Jeová; e ele está convosco na questão do julgamento.
+
+[[v14-19-7]]
+
+^<<v14-19-7,7>>^ E agora venha sobre vós o pavor de Jeová. Tomai cuidado e agi, porque com Jeová, nosso Deus, não há injustiça, nem parcialidade, nem aceitação de suborno.”
+
+[[v14-19-8]]
+
+^<<v14-19-8,8>>^ E também em Jerusalém colocou Jeosafá alguns dos levitas e dos sacerdotes, e alguns dos cabeças das casas paternas de Israel para o julgamento da parte de Jeová e para as causas dos habitantes de Jerusalém.^&#42;1^
+
+[NOTE]
+====
+. “As causas dos habitantes de Jerusalém”, mediante uma correção do M e em harmonia com LXXVg; M: “a causa. Depois voltaram a Jerusalém”.
+====
+
+[[v14-19-9]]
+
+^<<v14-19-9,9>>^ Além disso, deu-lhes uma ordem, dizendo: “Assim deveis fazer no temor de Jeová com fidelidade e de pleno coração.
+
+[[v14-19-10]]
+
+^<<v14-19-10,10>>^ Quanto a cada causa que chegar a vós de vossos irmãos que moram nas suas cidades, envolvendo o derramamento de sangue,^&#42;1^ envolvendo lei, e mandamento, e regulamentos, e decisões judiciais, tendes de avisá-los para que não procedam em erro contra Jeová e não tenha de haver indignação contra vós e contra os vossos irmãos. Assim deveis fazer, para que não vos torneis culpados.
+
+[NOTE]
+====
+. Lit.: “entre sangue e sangue”. Veja De 17:8.
+====
+
+[[v14-19-11]]
+
+^<<v14-19-11,11>>^ E aqui está Amarias, o sacerdote principal^&#42;1^ sobre vós para todo assunto de Jeová; e Zebadias, filho de Ismael, líder da casa de Judá para todo assunto do rei; e como oficiais estão à vossa disposição os levitas. Sede fortes e agi, e mostre-se Jeová com aquilo que é bom.”
+
+[NOTE]
+====
+. “O sacerdote principal.” Lat.: sa·cér·dos et pón·ti·fex.
+====
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-018.adoc#v14-18-0[&#60; Capítulo Anterior] | <<v14-19-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-020.adoc#v14-20-0[Próximo Capítulo &#62;]

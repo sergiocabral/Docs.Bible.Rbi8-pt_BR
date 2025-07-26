@@ -1,0 +1,116 @@
+include::./index.adoc[]
+
+[[v4-27-0]]
+=== Números, 27
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-27-1]]
+
+^<<v4-27-1,1>>^ Chegaram-se então as filhas de Zelofeade, filho de Hefer, filho de Gileade, filho de Maquir, filho de Manassés, das famílias de Manassés, filho de José. E estes eram os nomes de suas filhas: Maala, Noa, e Hogla, e Milca, e Tirza.
+
+[[v4-27-2]]
+
+^<<v4-27-2,2>>^ E foram pôr-se diante de Moisés e diante de Eleazar, o sacerdote, e diante dos maiorais e toda a assembléia, à entrada da tenda de reunião, dizendo:
+
+[[v4-27-3]]
+
+^<<v4-27-3,3>>^ “Nosso pai morreu no ermo, contudo, não mostrou estar entre a assembléia, isto é, entre os que se combinaram contra Jeová na assembléia de Corá, porém, morreu pelo seu próprio pecado; e não chegou a ter filhos.
+
+[[v4-27-4]]
+
+^<<v4-27-4,4>>^ Por que devia o nome de nosso pai ser retirado do meio da sua família por ele não ter filho? Oh! dá-nos uma propriedade no meio dos irmãos de nosso pai.”
+
+[[v4-27-5]]
+
+^<<v4-27-5,5>>^ Em vista disso, Moisés apresentou seu caso perante Jeová.
+
+[[v4-27-6]]
+
+^<<v4-27-6,6>>^ Jeová disse então a Moisés o seguinte:
+
+[[v4-27-7]]
+
+^<<v4-27-7,7>>^ “As filhas de Zelofeade estão falando corretamente. Decididamente, deves dar-lhes a propriedade duma herança no meio dos irmãos de seu pai e tens de fazer passar a elas a herança de seu pai.
+
+[[v4-27-8]]
+
+^<<v4-27-8,8>>^ E deves falar aos filhos de Israel, dizendo: ‘Caso um homem morra sem ter filho, então tendes de fazer sua herança passar à sua filha.
+
+[[v4-27-9]]
+
+^<<v4-27-9,9>>^ E se não tiver filha, então tendes de dar sua herança aos seus irmãos.
+
+[[v4-27-10]]
+
+^<<v4-27-10,10>>^ E se não tiver irmãos, então tendes de dar sua herança aos irmãos de seu pai.
+
+[[v4-27-11]]
+
+^<<v4-27-11,11>>^ E se seu pai não tiver irmãos, então tendes de dar sua herança ao seu parente consangüíneo que lhe for mais chegado na sua família, e ele tem de tomar posse dela. E isso tem de servir de estatuto por decisão judicial para os filhos de Israel, assim como Jeová mandou a Moisés.’”
+
+[[v4-27-12]]
+
+^<<v4-27-12,12>>^ Subseqüentemente, Jeová disse a Moisés: “Sobe a este monte de Abarim^&#42;1^ e vê a terra que hei de dar aos filhos de Israel.
+
+[NOTE]
+====
+. Ou “terra fronteiriça”.
+====
+
+[[v4-27-13]]
+
+^<<v4-27-13,13>>^ Tendo-a visto, então tens de ser ajuntado ao teu povo, sim, tu, assim como Arão, teu irmão, foi ajuntado,
+
+[[v4-27-14]]
+
+^<<v4-27-14,14>>^ visto que vos rebelastes contra a minha ordem no ermo de Zim, na altercação da assembléia, no que se referia a santificar-me^&#42;1^ junto às águas, diante dos seus olhos. Estas são as águas de Meribá, em Cades, no ermo de Zim.”
+
+[NOTE]
+====
+. “Para santificar-me, não me santificastes”, LXX; Vg: “e não quisestes santificar-me”.
+====
+
+[[v4-27-15]]
+
+^<<v4-27-15,15>>^ Moisés falou então a Jeová, dizendo:
+
+[[v4-27-16]]
+
+^<<v4-27-16,16>>^ “Que Jeová, o Deus dos espíritos de toda sorte de carne,^&#42;1^ designe sobre a assembléia um homem
+
+[NOTE]
+====
+. Ou “espíritos de toda a carne”.
+====
+
+[[v4-27-17]]
+
+^<<v4-27-17,17>>^ que saia diante deles e que entre diante deles, e que os leve para fora e que os leve para dentro, a fim de que a assembléia de Jeová não se torne como ovelhas sem pastor.”
+
+[[v4-27-18]]
+
+^<<v4-27-18,18>>^ Portanto, Jeová disse a Moisés: “Toma para ti Josué, filho de Num, homem em quem há espírito, e tens de pôr tua mão sobre ele;
+
+[[v4-27-19]]
+
+^<<v4-27-19,19>>^ e tens de fazê-lo ficar de pé diante de Eleazar, o sacerdote, e diante de toda a assembléia, e tens de comissioná-lo diante dos seus olhos.
+
+[[v4-27-20]]
+
+^<<v4-27-20,20>>^ E tens de pôr um pouco da tua dignidade sobre ele, para que toda a assembléia dos filhos de Israel o escute.
+
+[[v4-27-21]]
+
+^<<v4-27-21,21>>^ E é diante de Eleazar, o sacerdote, que ele ficará de pé, e este tem de indagar a seu favor por meio do julgamento do Urim perante Jeová. À sua ordem sairão e à sua ordem entrarão, ele e todos os filhos de Israel com ele, e toda a assembléia.”
+
+[[v4-27-22]]
+
+^<<v4-27-22,22>>^ E Moisés passou a fazer assim como Jeová lhe ordenara. Por conseguinte, tomou Josué e o fez ficar de pé diante de Eleazar, o sacerdote, e diante de toda a assembléia,
+
+[[v4-27-23]]
+
+^<<v4-27-23,23>>^ e pôs as mãos sobre ele e o comissionou, assim como Jeová falara por meio de Moisés.
+
+'''
+
+xref:004-numeros/004-numeros-026.adoc#v4-26-0[&#60; Capítulo Anterior] | <<v4-27-0,Topo>> | xref:004-numeros/004-numeros-028.adoc#v4-28-0[Próximo Capítulo &#62;]

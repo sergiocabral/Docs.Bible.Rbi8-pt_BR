@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v4-6-0]]
+=== Números, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-6-1]]
+
+^<<v4-6-1,1>>^ E Jeová falou mais a Moisés, dizendo:
+
+[[v4-6-2]]
+
+^<<v4-6-2,2>>^ “Fala aos filhos de Israel, e tens de dizer-lhes: ‘Caso um homem ou uma mulher faça um voto especial de viver como nazireu^&#42;1^ para Jeová,
+
+[NOTE]
+====
+. Hebr.: na·zír, significando “Selecionado; Dedicado; Separado”. Veja Gên 49:26.
+====
+
+[[v4-6-3]]
+
+^<<v4-6-3,3>>^ deve manter-se apartado do vinho e da bebida inebriante. Não deve beber vinagre de vinho nem vinagre de bebida inebriante, nem deve beber qualquer líquido feito de uvas, nem comer uvas, quer frescas quer secas.
+
+[[v4-6-4]]
+
+^<<v4-6-4,4>>^ Todos os dias do seu nazireado não deve comer absolutamente nada feito da videira vinífera, desde as uvas verdes até às cascas.^&#42;1^
+
+[NOTE]
+====
+. Ou “gavinhas”.
+====
+
+[[v4-6-5]]
+
+^<<v4-6-5,5>>^ “‘Todos os dias do voto do seu nazireado não deve passar navalha sobre a sua cabeça; até se completarem os dias em que deve estar apartado para Jeová, deve mostrar-se santo, deixando crescer as madeixas do cabelo de sua cabeça.
+
+[[v4-6-6]]
+
+^<<v4-6-6,6>>^ Todos os dias em que se mantém apartado para Jeová não se pode chegar a nenhuma alma morta.^&#42;1^
+
+[NOTE]
+====
+. Ou “alma de um morto”. Hebr.: né·fesh meth; LXX: “alma falecida”; Sy: “alma do morto”; lat.: mór·tu·um, “um morto”. Veja Le 21:11 n.; Ap. 4A.
+====
+
+[[v4-6-7]]
+
+^<<v4-6-7,7>>^ Nem mesmo por seu pai ou por sua mãe, ou por seu irmão, ou por sua irmã pode aviltar-se quando morrerem, porque há sobre a sua cabeça o sinal do seu nazireado para com o seu Deus.
+
+[[v4-6-8]]
+
+^<<v4-6-8,8>>^ “‘Todos os dias do seu nazireado ele é santo para Jeová.
+
+[[v4-6-9]]
+
+^<<v4-6-9,9>>^ Mas, caso alguém morra repentinamente ao lado dele, de modo que avilte a cabeça do seu nazireado, então tem de rapar sua cabeça no dia da efetivação de sua purificação. Deve rapá-la no sétimo dia.
+
+[[v4-6-10]]
+
+^<<v4-6-10,10>>^ E no oitavo dia deve trazer ao sacerdote duas rolas ou dois pombos novos^&#42;1^ à entrada da tenda de reunião.
+
+[NOTE]
+====
+. Lit.: “filhotes de pombo”.
+====
+
+[[v4-6-11]]
+
+^<<v4-6-11,11>>^ E o sacerdote tem de manejar um como oferta pelo pecado e o outro como oferta queimada, e tem de fazer expiação por ele, visto que pecou por causa da alma [morta].^&#42;1^ Então tem de santificar-lhe a cabeça naquele dia.
+
+[NOTE]
+====
+. Lit.: “da alma”, isto é, da alma morta do v. 9. Hebr.: han·ná·fesh; gr.: psy·khés; Vg: “do morto”.
+====
+
+[[v4-6-12]]
+
+^<<v4-6-12,12>>^ E ele tem de viver como nazireu para Jeová nos dias do seu nazireado e tem de trazer um carneirinho no seu primeiro ano como oferta pela culpa; e os dias anteriores não serão contados, porque aviltou seu nazireado.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “seu nazireado ficou impuro”.
+====
+
+[[v4-6-13]]
+
+^<<v4-6-13,13>>^ “‘Ora, esta é a lei a respeito do nazireu: No dia em que se completarem os dias do seu nazireado ele será trazido^&#42;1^ à entrada da tenda de reunião.
+
+[NOTE]
+====
+. Lit.: “ele a trará”, isto é, a cabeça não-rapada de seu nazireado.
+====
+
+[[v4-6-14]]
+
+^<<v4-6-14,14>>^ E tem de apresentar como sua oferta a Jeová um carneirinho sadio no seu primeiro ano como oferta queimada, e uma cordeira sadia no seu primeiro ano como oferta pelo pecado, e um carneiro sadio como sacrifício de participação em comum,
+
+[[v4-6-15]]
+
+^<<v4-6-15,15>>^ e um cesto de bolos de forma anular, não fermentados, de flor de farinha, umedecidos com azeite, e obreias não fermentadas, untadas com azeite, e sua oferta de cereais e suas ofertas de bebida.
+
+[[v4-6-16]]
+
+^<<v4-6-16,16>>^ E o sacerdote tem de apresentá-los perante Jeová e fazer a sua oferta pelo pecado e a sua oferta queimada.
+
+[[v4-6-17]]
+
+^<<v4-6-17,17>>^ E ofertará a Jeová o carneiro como sacrifício de participação em comum, junto com o cesto de pães não fermentados; e o sacerdote tem de fazer sua oferta de cereais e sua oferta de bebida.
+
+[[v4-6-18]]
+
+^<<v4-6-18,18>>^ “‘E o nazireu tem de rapar a cabeça do seu nazireado à entrada da tenda de reunião, e tem de tomar o cabelo da cabeça do seu nazireado e pô-lo no fogo que há sob o sacrifício de participação em comum.
+
+[[v4-6-19]]
+
+^<<v4-6-19,19>>^ E o sacerdote tem de tomar uma espádua cozida do carneiro e um bolo de forma anular, não fermentado, do cesto, e uma obreia não fermentada, e tem de pô-los sobre as palmas das mãos do nazireu depois de ele ter feito rapar o sinal do seu nazireado.
+
+[[v4-6-20]]
+
+^<<v4-6-20,20>>^ E o sacerdote tem de movê-los para lá e para cá como oferta movida perante Jeová. É algo sagrado para o sacerdote, junto com o peito da oferta movida e a perna da contribuição. E após isso o nazireu pode beber vinho.
+
+[[v4-6-21]]
+
+^<<v4-6-21,21>>^ “‘Esta é a lei a respeito do nazireu que faz um voto — sua oferta a Jeová pelo seu nazireado, além daquilo que estiver ao seu alcance. Segundo o seu voto que fizer, assim deve fazer por causa da lei do seu nazireado.’”
+
+[[v4-6-22]]
+
+^<<v4-6-22,22>>^ Jeová falou então a Moisés, dizendo:
+
+[[v4-6-23]]
+
+^<<v4-6-23,23>>^ “Fala a Arão e a seus filhos, dizendo: ‘Assim é que deveis abençoar os filhos de Israel, dizendo-lhes:^&#42;1^
+
+[NOTE]
+====
+. “Dizendo[-lhes].” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v4-6-24]]
+
+^<<v4-6-24,24>>^ “Jeová te abençoe e te guarde.
+
+[[v4-6-25]]
+
+^<<v4-6-25,25>>^ Jeová faça que sua face te ilumine e te favoreça.
+
+[[v4-6-26]]
+
+^<<v4-6-26,26>>^ Jeová levante sua face para ti e te designe a paz.”’
+
+[[v4-6-27]]
+
+^<<v4-6-27,27>>^ E eles têm de pôr meu nome sobre os filhos de Israel para que eu mesmo os abençoe.”
+
+'''
+
+xref:004-numeros/004-numeros-005.adoc#v4-5-0[&#60; Capítulo Anterior] | <<v4-6-0,Topo>> | xref:004-numeros/004-numeros-007.adoc#v4-7-0[Próximo Capítulo &#62;]

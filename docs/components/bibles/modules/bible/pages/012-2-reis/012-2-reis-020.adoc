@@ -1,0 +1,124 @@
+include::./index.adoc[]
+
+[[v12-20-0]]
+=== 2 Reis, 20
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v12-20-1]]
+
+^<<v12-20-1,1>>^ Naqueles dias, Ezequias ficou doente até à morte. Por conseguinte, Isaías, filho de Amoz, o profeta, entrou até ele e disse-lhe: “Assim disse Jeová: ‘Dá ordens aos da tua casa, porque tu mesmo deveras morrerás e não viverás.’”
+
+[[v12-20-2]]
+
+^<<v12-20-2,2>>^ Então ele virou a face para a parede e começou a orar a Jeová, dizendo:
+
+[[v12-20-3]]
+
+^<<v12-20-3,3>>^ “Rogo-te, Jeová, por favor, lembra-te de como andei diante de ti em veracidade e de pleno coração, e fiz o que era bom aos teus olhos.” E Ezequias começou a chorar muito.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “com grande choro”.
+====
+
+[[v12-20-4]]
+
+^<<v12-20-4,4>>^ E aconteceu que o próprio Isaías ainda não tinha saído ao pátio^&#42;1^ central quando veio a ele a própria palavra de Jeová, dizendo:
+
+[NOTE]
+====
+. “Pátio”, MmargemLXXSyVg; M: “cidade”.
+====
+
+[[v12-20-5]]
+
+^<<v12-20-5,5>>^ “Volta, e tens de dizer a Ezequias, o líder do meu povo: ‘Assim disse Jeová, o Deus de Davi, teu antepassado: “Ouvi a tua oração. Vi as tuas lágrimas. Eis que te saro. No terceiro dia subirás à casa de Jeová.
+
+[[v12-20-6]]
+
+^<<v12-20-6,6>>^ E hei de acrescentar quinze anos aos teus dias, e livrarei a ti e a esta cidade da palma da mão do rei da Assíria, e vou defender esta cidade por minha própria causa e pela causa de Davi, meu servo.”’”
+
+[[v12-20-7]]
+
+^<<v12-20-7,7>>^ E Isaías prosseguiu, dizendo: “Tomai uma torta de figos secos, prensados.” Tomaram-na, pois, e puseram-na sobre o furúnculo, revivendo ele depois aos poucos.
+
+[[v12-20-8]]
+
+^<<v12-20-8,8>>^ Entrementes, Ezequias disse a Isaías: “Qual é o sinal de que Jeová me curará e de que hei de subir no terceiro dia à casa de Jeová?”
+
+[[v12-20-9]]
+
+^<<v12-20-9,9>>^ A isto Isaías disse: “Este é para ti o sinal da parte de Jeová, de que Jeová cumprirá a palavra que falou: Deve a sombra realmente avançar dez degraus [da escada] ou deve retroceder dez degraus?”
+
+[[v12-20-10]]
+
+^<<v12-20-10,10>>^ Ezequias^&#42;1^ disse então: “É fácil para a sombra estender-se por dez degraus, mas não que a sombra vá para trás dez degraus.”
+
+[NOTE]
+====
+. Significando “Jeová Fortalece”. Hebr.: Yehhiz·qi·yá·hu. Veja 16:20 n.
+====
+
+[[v12-20-11]]
+
+^<<v12-20-11,11>>^ Então Isaías, o profeta, começou a clamar a Jeová; e ele fez que a sombra que havia descido retrocedesse gradualmente nos degraus, isto é, nos degraus [da escada] de Acaz, dez degraus para trás.
+
+[[v12-20-12]]
+
+^<<v12-20-12,12>>^ Naquele tempo, Berodaque-Baladã, filho de Baladã, rei de Babilônia,^&#42;1^ enviou cartas e um presente a Ezequias;^&#42;2^ pois ouvira que Ezequias tinha estado doente.
+
+[NOTE]
+====
+. “Rei de Babilônia”, LXX; hebr.: me·lekh-Ba·vél, “rei de Babel”; lat.: rex Ba·by·lo·ni·ó·rum, “rei dos babilônios”. Esta é a primeira ocorrência desta expressão.
+. “Ezequias.” Hebr.: Hhiz·qi·yá·hu, a mesma grafia que em 16:20.
+====
+
+[[v12-20-13]]
+
+^<<v12-20-13,13>>^ E Ezequias passou a escutá-los^&#42;1^ e a mostrar-lhes toda a sua casa do tesouro, a prata e o ouro, e o óleo de bálsamo, e o óleo bom, e seu arsenal, e tudo o que se achava nos seus tesouros. Não se mostrou haver nada que Ezequias não lhes mostrasse na sua própria casa e em todo o seu domínio.
+
+[NOTE]
+====
+. “Escutá-los”, M; LXXSy e Is 39:2: “alegrar-se com eles”.
+====
+
+[[v12-20-14]]
+
+^<<v12-20-14,14>>^ Depois disso entrou Isaías, o profeta, até o Rei Ezequias e lhe disse: “Que disseram estes homens e donde vieram para chegar a ti?” Ezequias disse, pois: “Vieram duma terra distante, de Babilônia.”
+
+[[v12-20-15]]
+
+^<<v12-20-15,15>>^ E ele prosseguiu, dizendo: “Que viram na tua casa?” A isto Ezequias disse: “Viram tudo o que há na minha casa. Não se mostrou haver nada nos meus tesouros que não lhes mostrei.”
+
+[[v12-20-16]]
+
+^<<v12-20-16,16>>^ Isaías disse então a Ezequias: “Ouve a palavra de Jeová:
+
+[[v12-20-17]]
+
+^<<v12-20-17,17>>^ ‘“Eis que vêm dias, e tudo o que há na tua própria casa e o que os teus antepassados armazenaram até o dia de hoje será realmente levado a Babilônia. Não sobrará nada”, disse Jeová.
+
+[[v12-20-18]]
+
+^<<v12-20-18,18>>^ “E alguns dos teus próprios filhos que procederão de ti, dos quais te tornarás pai, serão eles próprios tomados e se tornarão realmente oficiais da corte no palácio^&#42;1^ do rei de Babilônia.”’”
+
+[NOTE]
+====
+. “No palácio (templo) do.” Hebr.: beheh·khál; lat.: pa·lá·ti·o. Veja n. “templo” em 1Sa 1:9; Sal 5:7; Mt 23:16; Mt 26:61.
+====
+
+[[v12-20-19]]
+
+^<<v12-20-19,19>>^ Então disse Ezequias a Isaías: “É boa a palavra de Jeová que falaste.” E prosseguiu, dizendo: “Não é assim, se a própria paz e verdade continuarão nos meus próprios dias?”
+
+[[v12-20-20]]
+
+^<<v12-20-20,20>>^ Quanto ao resto dos assuntos de Ezequias e toda a sua potência, e como fez o reservatório de água e o aqueduto, e então trouxe água à cidade, não estão escritos no livro dos assuntos dos dias dos reis de Judá?
+
+[[v12-20-21]]
+
+^<<v12-20-21,21>>^ Por fim, Ezequias deitou-se com os seus antepassados; e Manassés, seu filho, começou a reinar em seu lugar.
+
+'''
+
+xref:012-2-reis/012-2-reis-019.adoc#v12-19-0[&#60; Capítulo Anterior] | <<v12-20-0,Topo>> | xref:012-2-reis/012-2-reis-021.adoc#v12-21-0[Próximo Capítulo &#62;]

@@ -1,0 +1,104 @@
+include::./index.adoc[]
+
+[[v19-16-0]]
+=== Salmos, 16
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Mictão^&#42;1^ de Davi._
+
+[[v19-16-1]]
+
+^<<v19-16-1,1>>^ Guarda-me, ó Deus,^&#42;1^ pois em ti me refugiei.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v19-16-2]]
+
+^<<v19-16-2,2>>^ Eu disse^&#42;1^ a Jeová: “Tu és Jeová;^&#42;2^ minha bondade não é por tua causa,
+
+[NOTE]
+====
+. “Eu disse”, LXXSyVg e alguns mss. hebr.; M: “Disseste”, dirigindo-se a algo fem.
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-16-3]]
+
+^<<v19-16-3,3>>^ [Mas] para com os santos que estão na terra.
+Eles, sim, os majestosos, são os em quem tenho todo o meu agrado.”
+
+[[v19-16-4]]
+
+^<<v19-16-4,4>>^ As dores se tornam muitas para os [que], havendo outro, apressam-se [atrás dele].
+Não derramarei as suas ofertas de bebida [constituídas] de sangue,
+E não levarei seus nomes sobre os meus lábios.
+
+[[v19-16-5]]
+
+^<<v19-16-5,5>>^ Jeová é a porção do meu quinhão e do meu copo.^&#42;1^
+Tu seguras a minha sorte.
+
+[NOTE]
+====
+. “Jeová, designaste-me a minha parte e o meu copo”, mediante uma correção do M.
+====
+
+[[v19-16-6]]
+
+^<<v19-16-6,6>>^ As próprias cordas para medir caíram para mim em lugares aprazíveis.
+Realmente, [minha própria] possessão^&#42;1^ mostrou-se agradável para mim.
+
+[NOTE]
+====
+. “Minha própria possessão”, LXXSyVg.
+====
+
+[[v19-16-7]]
+
+^<<v19-16-7,7>>^ Bendirei a Jeová que me aconselhou.
+Realmente, durante as noites me corrigiram os meus rins.^&#42;1^
+
+[NOTE]
+====
+. Ou “minhas mais profundas emoções”. Hebr.: khil·yoh·thaí.
+====
+
+[[v19-16-8]]
+
+^<<v19-16-8,8>>^ Pus constantemente a Jeová diante de mim.
+Porque [ele] está à minha direita, nunca serei abalado.
+
+[[v19-16-9]]
+
+^<<v19-16-9,9>>^ Por esta razão, meu coração se alegra e minha glória^&#42;1^ se inclina a jubilar.
+Também, a minha própria carne residirá em segurança.
+
+[NOTE]
+====
+. “Língua”, LXXVg.
+====
+
+[[v19-16-10]]
+
+^<<v19-16-10,10>>^ Porque não deixarás a minha alma^&#42;1^ no Seol.^&#42;2^
+Não permitirás que aquele que te é leal veja a cova.^&#42;3^
+
+[NOTE]
+====
+. “Minha alma.” Hebr.: naf·shí; gr.: psy·khén; lat.: á·ni·mam. Veja Ap. 4A.
+. “Seol”, MSy; gr.: haí·den; lat.: in·fér·no. Veja Ap. 4B.
+. “Cova”, M; LXXSyVg: “corrupção”.
+====
+
+[[v19-16-11]]
+
+^<<v19-16-11,11>>^ Tu me farás saber a vereda da vida.
+Alegria até a fartura está com a tua face;
+Na tua direita há o agradável, para sempre.
+
+'''
+
+xref:019-salmo/019-salmo-015.adoc#v19-15-0[&#60; Capítulo Anterior] | <<v19-16-0,Topo>> | xref:019-salmo/019-salmo-017.adoc#v19-17-0[Próximo Capítulo &#62;]

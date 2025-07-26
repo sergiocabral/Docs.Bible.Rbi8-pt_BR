@@ -1,0 +1,146 @@
+include::./index.adoc[]
+
+[[v19-40-0]]
+=== Salmos, 40
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. De Davi, uma melodia._
+
+[[v19-40-1]]
+
+^<<v19-40-1,1>>^ Esperei resolutamente em Jeová,
+E por isso me inclinou [seu ouvido] e ouviu meu clamor por ajuda.
+
+[[v19-40-2]]
+
+^<<v19-40-2,2>>^ Passou também a fazer-me subir dum poço fragoroso,
+Da lama do lodaçal.
+Levantou-me então os pés sobre um rochedo;
+Estabeleceu firmemente meus passos.
+
+[[v19-40-3]]
+
+^<<v19-40-3,3>>^ Além disso, pôs-me na boca um novo cântico,
+Louvor ao nosso Deus.
+Muitos [o] verão e temerão,
+E confiarão em Jeová.
+
+[[v19-40-4]]
+
+^<<v19-40-4,4>>^ Feliz o varão vigoroso^&#42;1^ que pôs a sua confiança em Jeová
+E que não virou a sua face para os insolentes,
+Nem para os que se desviam para as mentiras.
+
+[NOTE]
+====
+. “O varão vigoroso.” Hebr.: hag·gé·ver.
+====
+
+[[v19-40-5]]
+
+^<<v19-40-5,5>>^ Tu mesmo fizeste muitas coisas,
+Ó Jeová, meu Deus, sim, as tuas obras maravilhosas e os teus pensamentos para conosco;
+Não há quem se compare a ti.
+Estivesse eu inclinado a contá-los e a falar [deles],
+Tornaram-se mais numerosos do que poderia narrar.
+
+[[v19-40-6]]
+
+^<<v19-40-6,6>>^ Não te agradaste de sacrifício e oferta;
+Abriste-me estes ouvidos meus.^&#42;1^
+Não pediste oferta queimada e oferta pelo pecado.
+
+[NOTE]
+====
+. “Sacrifício e oferta não quiseste, porém, preparaste-me um corpo”, LXX‏,אA,‏B. Lit.: “escavaste para mim ouvidos”, M. Veja He 10:5.
+====
+
+[[v19-40-7]]
+
+^<<v19-40-7,7>>^ Por esta razão eu disse: “Eis aqui vim,
+No rolo do livro está escrito a meu respeito.
+
+[[v19-40-8]]
+
+^<<v19-40-8,8>>^ Agradei-me em fazer a tua vontade,^&#42;1^ ó meu Deus,
+E a tua lei está nas minhas partes internas.
+
+[NOTE]
+====
+. Ou “prazer”.
+====
+
+[[v19-40-9]]
+
+^<<v19-40-9,9>>^ Anunciei as boas novas^&#42;1^ de justiça na grande congregação.^&#42;2^
+Eis que não contenho os meus lábios.
+Ó Jeová, tu mesmo o sabes muito bem.
+
+[NOTE]
+====
+. “Anunciei as boas novas de.” Hebr.: bis·sár·ti; gr.: eu·eg·ge·li·sá·men.
+. Veja 35:18 n.
+====
+
+[[v19-40-10]]
+
+^<<v19-40-10,10>>^ Não encobri a tua justiça dentro do meu coração.
+Declarei a tua fidelidade e a tua salvação.
+Não ocultei a tua benevolência^&#42;1^ e a tua veracidade na^&#42;2^ grande congregação.”
+
+[NOTE]
+====
+. Ou “amor leal”.
+. “Na”, T e muitos mss. hebr.; M: “à”; LXXSyVg: “da”.
+====
+
+[[v19-40-11]]
+
+^<<v19-40-11,11>>^ Não me retenhas tu mesmo a tua misericórdia, ó Jeová.
+Resguardem-me constantemente a tua benevolência e a tua veracidade.
+
+[[v19-40-12]]
+
+^<<v19-40-12,12>>^ Pois, cercaram-me calamidades até ficarem sem conta.
+Mais erros meus me alcançaram do que pude ver;
+Ficaram mais numerosos do que os cabelos da minha cabeça,
+E meu próprio coração me abandonou.
+
+[[v19-40-13]]
+
+^<<v19-40-13,13>>^ Tem prazer em livrar-me, ó Jeová.
+Ó Jeová, apressa-te deveras em meu auxílio.
+
+[[v19-40-14]]
+
+^<<v19-40-14,14>>^ Fiquem envergonhados e encabulados juntos
+Os que procuram a minha alma para a arrasar.
+Tornem atrás e sejam humilhados os que se agradam da minha calamidade.
+
+[[v19-40-15]]
+
+^<<v19-40-15,15>>^ Olhem espantados, em conseqüência da sua vergonha,
+Os que me dizem: “Ah! Ah!”
+
+[[v19-40-16]]
+
+^<<v19-40-16,16>>^ Exultem e alegrem-se em ti
+Todos os que te procuram.
+Digam estes constantemente: “Magnificado seja Jeová”,
+Os que amam a salvação por ti.
+
+[[v19-40-17]]
+
+^<<v19-40-17,17>>^ Mas eu estou atribulado e sou pobre.
+O próprio Jeová^&#42;1^ me considera.
+Tu és meu auxílio e meu Provedor de escape.
+Ó meu Deus, não te atrases.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+'''
+
+xref:019-salmo/019-salmo-039.adoc#v19-39-0[&#60; Capítulo Anterior] | <<v19-40-0,Topo>> | xref:019-salmo/019-salmo-041.adoc#v19-41-0[Próximo Capítulo &#62;]

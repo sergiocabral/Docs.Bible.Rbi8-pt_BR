@@ -1,0 +1,74 @@
+include::./index.adoc[]
+
+[[v19-52-0]]
+=== Salmos, 52
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Masquil.^&#42;1^ De Davi, quando Doegue, o edomita, chegou e passou a contar a Saul e a dizer-lhe que Davi chegara à casa de Aimeleque._
+
+[[v19-52-1]]
+
+^<<v19-52-1,1>>^ Por que te jactas do que é mau, ó poderoso?
+A benevolência^&#42;1^ de Deus^&#42;2^ existe o dia inteiro.
+
+[NOTE]
+====
+. Ou “amor leal”.
+. “Deus.” Hebr.: ’El.
+====
+
+[[v19-52-2]]
+
+^<<v19-52-2,2>>^ Tua língua maquina adversidades, afiada como navalha,
+Trabalhando com dolo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “Maquinas coisas ruins, tua língua estando afiada como uma navalha, ó enganador.”
+====
+
+[[v19-52-3]]
+
+^<<v19-52-3,3>>^ Amaste o mal mais do que o bem,
+A falsidade mais do que falar justiça. Selá.
+
+[[v19-52-4]]
+
+^<<v19-52-4,4>>^ Amaste todas as palavras devoradoras,
+Ó língua enganosa.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “língua de engano”.
+====
+
+[[v19-52-5]]
+
+^<<v19-52-5,5>>^ O próprio Deus também te demolirá para sempre;
+Ele te derrubará e te arrancará da [tua] tenda,
+E certamente te desarraigará da terra dos viventes. Selá.
+
+[[v19-52-6]]
+
+^<<v19-52-6,6>>^ E os justos [o] verão e terão medo,
+E rir-se-ão dele.
+
+[[v19-52-7]]
+
+^<<v19-52-7,7>>^ Eis o varão vigoroso que não põe Deus por seu baluarte,
+Mas que confia na abundância das suas riquezas,
+Que se abriga nas adversidades [causadas] por ele.
+
+[[v19-52-8]]
+
+^<<v19-52-8,8>>^ Mas eu serei qual oliveira frondosa na casa de Deus;
+Confio deveras na benevolência de Deus por tempo indefinido, para todo o sempre.
+
+[[v19-52-9]]
+
+^<<v19-52-9,9>>^ Vou elogiar-te por tempo indefinido, pois tomaste ação;
+E esperarei no teu nome, porque é bom, diante dos que te são leais.
+
+'''
+
+xref:019-salmo/019-salmo-051.adoc#v19-51-0[&#60; Capítulo Anterior] | <<v19-52-0,Topo>> | xref:019-salmo/019-salmo-053.adoc#v19-53-0[Próximo Capítulo &#62;]

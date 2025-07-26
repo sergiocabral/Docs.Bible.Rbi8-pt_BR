@@ -1,0 +1,30 @@
+include::./index.adoc[]
+
+[[v24-45-0]]
+=== Jeremias, 45
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-45-1]]
+
+^<<v24-45-1,1>>^ A palavra que Jeremias, o profeta, falou a Baruque, filho de Nerias, quando escreveu no livro estas palavras da boca de Jeremias, no quarto ano de Jeoiaquim, filho de Josias, rei de Judá, dizendo:
+
+[[v24-45-2]]
+
+^<<v24-45-2,2>>^ “Assim disse Jeová, o Deus de Israel, a teu respeito, ó Baruque:
+
+[[v24-45-3]]
+
+^<<v24-45-3,3>>^ ‘Disseste: “Ai de mim, pois, porque Jeová acrescentou pesar à minha dor! Fatiguei-me por causa do meu suspiro e não achei lugar de descanso.”’
+
+[[v24-45-4]]
+
+^<<v24-45-4,4>>^ “Assim lhe deves dizer: ‘Assim disse Jeová: “Eis que derrubo o que edifiquei e desarraígo o que plantei, até mesmo todo o país.
+
+[[v24-45-5]]
+
+^<<v24-45-5,5>>^ Mas, no que se refere a ti, estás procurando grandes coisas para ti. Não continues a procurar.”’
+“‘Pois eis que trago uma calamidade sobre toda a carne’, é a pronunciação de Jeová, ‘e vou dar-te a tua alma por despojo em todos os lugares aos quais fores’.”
+
+'''
+
+xref:024-jeremias/024-jeremias-044.adoc#v24-44-0[&#60; Capítulo Anterior] | <<v24-45-0,Topo>> | xref:024-jeremias/024-jeremias-046.adoc#v24-46-0[Próximo Capítulo &#62;]

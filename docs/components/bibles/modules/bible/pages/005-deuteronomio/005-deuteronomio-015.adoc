@@ -1,0 +1,124 @@
+include::./index.adoc[]
+
+[[v5-15-0]]
+=== Deuteronômio, 15
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-15-1]]
+
+^<<v5-15-1,1>>^ “Ao fim de cada sete anos deves fazer uma remissão.
+
+[[v5-15-2]]
+
+^<<v5-15-2,2>>^ E esta é a maneira da remissão: haverá remissão,^&#42;1^ da parte de cada credor, da dívida^&#42;2^ em que porventura deixou seu próximo incorrer. Não deve apertar seu próximo ou seu irmão quanto ao pagamento, pois tem de se proclamar^&#42;3^ uma remissão para Jeová.
+
+[NOTE]
+====
+. “Haverá remissão.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo.
+. Lit.: “cada dono duma dívida da sua mão”.
+. Lit.: “alguém (ele) tem de proclamar”.
+====
+
+[[v5-15-3]]
+
+^<<v5-15-3,3>>^ Ao estrangeiro podes apertar quanto ao pagamento; mas remita a tua mão tudo o que for teu, que estiver com o teu irmão.
+
+[[v5-15-4]]
+
+^<<v5-15-4,4>>^ No entanto, ninguém deve ficar pobre no teu meio, porque Jeová, sem falta, te abençoará na terra que Jeová, teu Deus, te dá por herança, para tomares posse dela,
+
+[[v5-15-5]]
+
+^<<v5-15-5,5>>^ contanto que impreterivelmente escutes a voz de Jeová, teu Deus, de modo a cuidar em cumprir todo este mandamento que hoje te ordeno.
+
+[[v5-15-6]]
+
+^<<v5-15-6,6>>^ Pois, Jeová, teu Deus, deveras te abençoará assim como te prometeu, e certamente emprestarás sob caução a muitas nações, ao passo que tu mesmo não tomarás empréstimo; e tens de dominar sobre muitas nações, ao passo que elas não dominarão sobre ti.
+
+[[v5-15-7]]
+
+^<<v5-15-7,7>>^ “Caso um dos teus irmãos fique pobre no teu meio, numa das tuas cidades,^&#42;1^ na tua terra que Jeová, teu Deus, te dá, não deves endurecer teu coração, nem fechar a mão para com o teu irmão pobre.
+
+[NOTE]
+====
+. “Cidades”, LXXSy; MSam: “portões”; Vg: “dentro dos portões de tua cidade”.
+====
+
+[[v5-15-8]]
+
+^<<v5-15-8,8>>^ Pois deves abrir generosamente tua mão para com ele e deves terminantemente emprestar-lhe sob caução tanto quanto ele necessita, de que carece.
+
+[[v5-15-9]]
+
+^<<v5-15-9,9>>^ Guarda-te de que não venha a haver alguma palavra vil^&#42;1^ no teu coração, dizendo: ‘O sétimo ano, o ano da remissão^&#42;2^ está perto’, e teu olho fique deveras sovina para com teu irmão pobre e não lhe dês nada, e ele tenha de clamar a Jeová contra ti e isso se tenha tornado um pecado da tua parte.
+
+[NOTE]
+====
+. Ou “uma palavra de belial (inutilidade)”.
+. “O ano da remissão.” Lat.: án·nus re·mis·si·ó·nis.
+====
+
+[[v5-15-10]]
+
+^<<v5-15-10,10>>^ Deves terminantemente dar-lhe e teu coração não deve ser mesquinho ao lhe dares, porque é por esta razão que Jeová, teu Deus, te abençoará em todo ato teu e em todo empreendimento teu.
+
+[[v5-15-11]]
+
+^<<v5-15-11,11>>^ Pois, nunca deixará de haver pobre no meio do país. É por isso que te ordeno, dizendo: ‘Deves abrir generosamente tua mão para com teu irmão atribulado e pobre^&#42;1^ no teu país.’
+
+[NOTE]
+====
+. Ou “para com teu irmão, teu aflito e teu pobre”.
+====
+
+[[v5-15-12]]
+
+^<<v5-15-12,12>>^ “Caso te seja vendido teu irmão, um hebreu ou uma hebréia, e ele te tenha servido por seis anos, então no sétimo ano deves mandá-lo embora como alguém liberto.
+
+[[v5-15-13]]
+
+^<<v5-15-13,13>>^ E quando o mandares embora como alguém liberto, não o deves mandar embora de mãos vazias.
+
+[[v5-15-14]]
+
+^<<v5-15-14,14>>^ Deves realmente provê-lo de alguma coisa do teu rebanho e da tua eira, e do teu lagar de azeite e vinho. Assim como Jeová, teu Deus, te tem abençoado, assim é que lhe deves dar.
+
+[[v5-15-15]]
+
+^<<v5-15-15,15>>^ E tens de lembrar-te de que te tornaste escravo na terra do Egito e que Jeová, teu Deus, passou a remir-te. É por isso que hoje te ordeno esta coisa.
+
+[[v5-15-16]]
+
+^<<v5-15-16,16>>^ “E tem de suceder que, caso ele te diga: ‘Não deixarei a tua companhia!’ porque ama tanto a ti como os de tua casa, visto que lhe ia bem contigo,
+
+[[v5-15-17]]
+
+^<<v5-15-17,17>>^ então tens de tomar uma sovela e furar-lhe a orelha contra a porta, e ele tem de tornar-se teu escravo por tempo indefinido. E também deves fazer assim com a tua escrava.
+
+[[v5-15-18]]
+
+^<<v5-15-18,18>>^ Não deve ser algo duro aos teus olhos quando o mandas embora da tua companhia como alguém liberto; pois, serviu-te seis anos pelo dobro do valor dum trabalhador contratado, e Jeová, teu Deus, te abençoou em tudo o que fazias.
+
+[[v5-15-19]]
+
+^<<v5-15-19,19>>^ “Todo primogênito macho que nascer na tua manada e no teu rebanho deves santificar para Jeová, teu Deus. Não deves fazer nenhum serviço com o primogênito do teu touro, nem tosquiar o primogênito do teu rebanho.
+
+[[v5-15-20]]
+
+^<<v5-15-20,20>>^ Deves comê-lo perante Jeová, teu Deus, ano após ano, no lugar que Jeová escolher, tu e os de tua casa.
+
+[[v5-15-21]]
+
+^<<v5-15-21,21>>^ E caso se mostre haver nele algum defeito, sendo ele coxo ou cego, qualquer defeito mau, não deves sacrificá-lo para Jeová, teu Deus.
+
+[[v5-15-22]]
+
+^<<v5-15-22,22>>^ Deves comê-lo dentro dos teus portões, o impuro e o limpo juntos, como a gazela e como o veado.
+
+[[v5-15-23]]
+
+^<<v5-15-23,23>>^ Somente não deves comer seu sangue. Deves derramá-lo na terra como água.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-014.adoc#v5-14-0[&#60; Capítulo Anterior] | <<v5-15-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-016.adoc#v5-16-0[Próximo Capítulo &#62;]

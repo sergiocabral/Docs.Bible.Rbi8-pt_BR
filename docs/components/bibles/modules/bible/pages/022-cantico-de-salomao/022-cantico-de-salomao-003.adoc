@@ -1,0 +1,68 @@
+include::./index.adoc[]
+
+[[v22-3-0]]
+=== Cântico de Salomão, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v22-3-1]]
+
+^<<v22-3-1,1>>^ “Na minha cama, durante as noites, tenho procurado aquele a quem minha alma tem amado. Procurei-o, mas não o achei.
+
+[[v22-3-2]]
+
+^<<v22-3-2,2>>^ Deixa-me levantar-me, por favor, e fazer a ronda da cidade; procure eu nas ruas e nas praças públicas aquele a quem a minha alma tem amado. Procurei-o, mas não o achei.
+
+[[v22-3-3]]
+
+^<<v22-3-3,3>>^ Acharam-me os vigias que faziam a ronda da cidade: ‘Vistes aquele a quem a minha alma tem amado?’
+
+[[v22-3-4]]
+
+^<<v22-3-4,4>>^ Assim que passei deles adiante, achei aquele a quem a minha alma tem amado. Segurei-o e não o larguei, até que o fiz entrar na casa de minha mãe e no quarto interior daquela que esteve grávida de mim.
+
+[[v22-3-5]]
+
+^<<v22-3-5,5>>^ Eu vos pus sob juramento, ó filhas de Jerusalém, pelas fêmeas das gazelas ou pelas corças do campo, que não tenteis despertar nem incitar [em mim] amor, até que [este] esteja disposto.”
+
+[[v22-3-6]]
+
+^<<v22-3-6,6>>^ “Que^&#42;1^ é isto que está subindo do ermo como colunas de fumaça, perfumado com mirra e olíbano, sim, com toda sorte de talco cheiroso de negociante?”
+
+[NOTE]
+====
+. Lit.: “Quem”, com um predicado hebr. fem.
+====
+
+[[v22-3-7]]
+
+^<<v22-3-7,7>>^ “Eis que é o seu leito, aquele que pertence a Salomão. Em volta dele há sessenta homens poderosos^&#42;1^ dos poderosos de Israel,
+
+[NOTE]
+====
+. “Homens poderosos.” Hebr.: gib·bo·rím.
+====
+
+[[v22-3-8]]
+
+^<<v22-3-8,8>>^ todos eles de posse duma espada, treinados na guerra, cada um com a sua espada sobre a sua coxa por causa do pavor durante as noites.”
+
+[[v22-3-9]]
+
+^<<v22-3-9,9>>^ “É a liteira que o Rei Salomão fez para si das árvores do Líbano.
+
+[[v22-3-10]]
+
+^<<v22-3-10,10>>^ Suas colunas ele fez de prata, seus suportes, de ouro. Seu assento é de lã tingida de roxo, seu interior foi amorosamente^&#42;1^ aprestado pelas filhas de Jerusalém.”
+
+[NOTE]
+====
+. Ou “com ébano”, mediante uma correção do M.
+====
+
+[[v22-3-11]]
+
+^<<v22-3-11,11>>^ “Saí e vede, ó filhas de Sião, o Rei Salomão com a grinalda que sua mãe lhe teceu no dia de seu casamento e no dia da alegria de seu coração.”
+
+'''
+
+xref:022-cantico-de-salomao/022-cantico-de-salomao-002.adoc#v22-2-0[&#60; Capítulo Anterior] | <<v22-3-0,Topo>> | xref:022-cantico-de-salomao/022-cantico-de-salomao-004.adoc#v22-4-0[Próximo Capítulo &#62;]

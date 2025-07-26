@@ -1,0 +1,160 @@
+include::./index.adoc[]
+
+[[v20-19-0]]
+=== Provérbios, 19
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-19-1]]
+
+^<<v20-19-1,1>>^ Alguém de poucos meios que está andando na sua integridade é melhor do que o pervertido nos seus lábios^&#42;1^ e o estúpido.
+
+[NOTE]
+====
+. “Lábios”, MVg; TSy e cerca de 50 mss. hebr.: “caminhos”.
+====
+
+[[v20-19-2]]
+
+^<<v20-19-2,2>>^ Também, não é bom que a alma esteja sem conhecimento, e quem se precipita com os seus pés está pecando.^&#42;1^
+
+[NOTE]
+====
+. Ou “errando o alvo”. Veja Ro 3:23.
+====
+
+[[v20-19-3]]
+
+^<<v20-19-3,3>>^ É a tolice do homem terreno que deturpa seu caminho, e por isso seu coração fica furioso com o próprio Jeová.
+
+[[v20-19-4]]
+
+^<<v20-19-4,4>>^ A abastança é a que acrescenta muitos companheiros, mas quem é de condição humilde é separado até mesmo do seu companheiro.
+
+[[v20-19-5]]
+
+^<<v20-19-5,5>>^ A testemunha falsa não ficará impune, e aquele que profere mentiras não escapará.
+
+[[v20-19-6]]
+
+^<<v20-19-6,6>>^ Muitos são os que abrandam a face de um nobre, e todo o mundo é companheiro do homem que distribui dádivas.
+
+[[v20-19-7]]
+
+^<<v20-19-7,7>>^ Os irmãos daquele de poucos meios odiaram-no todos. Quanto mais longe se mantiveram dele os seus amigos pessoais! Ele se empenha em dizer coisas; eles não.
+
+[[v20-19-8]]
+
+^<<v20-19-8,8>>^ Quem adquire coração^&#42;1^ ama a sua própria alma. Quem guarda o discernimento vai achar o bem.
+
+[NOTE]
+====
+. Ou: “Quem adquire boa motivação.” Hebr.: qo·neh-lév.
+====
+
+[[v20-19-9]]
+
+^<<v20-19-9,9>>^ A testemunha falsa não ficará impune, e quem profere mentiras perecerá.
+
+[[v20-19-10]]
+
+^<<v20-19-10,10>>^ O luxo não é apropriado para alguém estúpido. Quanto menos para um servo governar sobre príncipes!
+
+[[v20-19-11]]
+
+^<<v20-19-11,11>>^ A perspicácia do homem^&#42;1^ certamente torna mais vagarosa a sua ira, e é beleza da sua parte passar por alto a transgressão.
+
+[NOTE]
+====
+. Ou: “A perspicácia dum homem terreno.” Hebr.: sé·khel ’a·dhám.
+====
+
+[[v20-19-12]]
+
+^<<v20-19-12,12>>^ A fúria do rei é um rugido igual ao dum leão novo jubado, mas a sua boa vontade é igual ao orvalho sobre a vegetação.
+
+[[v20-19-13]]
+
+^<<v20-19-13,13>>^ O filho estúpido significa adversidades para seu pai e as contendas duma esposa são como a goteira do telhado, que afugenta.
+
+[[v20-19-14]]
+
+^<<v20-19-14,14>>^ A herança da parte dos pais é uma casa e abastança, mas a esposa discreta é da parte de Jeová.
+
+[[v20-19-15]]
+
+^<<v20-19-15,15>>^ A preguiça causa profundo sono e a alma indolente passa fome.
+
+[[v20-19-16]]
+
+^<<v20-19-16,16>>^ Quem guarda o mandamento guarda a sua alma; quem despreza os seus caminhos será morto.
+
+[[v20-19-17]]
+
+^<<v20-19-17,17>>^ Aquele que mostra favor ao de condição humilde está emprestando a Jeová, e Ele lhe retribuirá o seu tratamento.
+
+[[v20-19-18]]
+
+^<<v20-19-18,18>>^ Castiga teu filho enquanto há esperança; e não eleves [o desejo da] tua alma a que seja morto.
+
+[[v20-19-19]]
+
+^<<v20-19-19,19>>^ Quem é de grande furor arcará com a multa; porque, se tu [o] livrasses, também continuarias a fazê-lo vez após vez.
+
+[[v20-19-20]]
+
+^<<v20-19-20,20>>^ Escuta o conselho e aceita a disciplina, para que te tornes sábio no teu futuro.
+
+[[v20-19-21]]
+
+^<<v20-19-21,21>>^ Muitos são os planos no coração do homem,^&#42;1^ mas é o conselho de Jeová que ficará de pé.
+
+[NOTE]
+====
+. “No coração do homem.” Hebr.: belev-’ísh.
+====
+
+[[v20-19-22]]
+
+^<<v20-19-22,22>>^ A coisa desejável no homem terreno^&#42;1^ é a sua benevolência; e alguém de poucos meios é melhor do que um homem mentiroso.
+
+[NOTE]
+====
+. “A coisa desejável no homem terreno.” Hebr.: ta·’awáth ’a·dhám.
+====
+
+[[v20-19-23]]
+
+^<<v20-19-23,23>>^ O temor de Jeová tende para a vida, e passa-se a noite saciado; não se será visitado com o que é mau.
+
+[[v20-19-24]]
+
+^<<v20-19-24,24>>^ O preguiçoso encobriu a sua mão no tacho de banquete; não a pode nem trazer de volta à sua própria boca.
+
+[[v20-19-25]]
+
+^<<v20-19-25,25>>^ Deves golpear ao zombador, para que o inexperiente se torne argucioso; e deve-se repreender ao entendido, para que discirna o conhecimento.
+
+[[v20-19-26]]
+
+^<<v20-19-26,26>>^ Aquele que maltrata o pai [e] que põe em fuga a mãe é filho que age de modo vergonhoso e ignominioso.
+
+[[v20-19-27]]
+
+^<<v20-19-27,27>>^ Filho meu, deixa de escutar a disciplina [e significará] extraviar-se das declarações do conhecimento.
+
+[[v20-19-28]]
+
+^<<v20-19-28,28>>^ A testemunha imprestável^&#42;1^ caçoa da justiça, e a própria boca dos iníquos engole o que é prejudicial.
+
+[NOTE]
+====
+. Lit.: “A testemunha de belial.” Hebr.: ‛edh beli·yá·‛al.
+====
+
+[[v20-19-29]]
+
+^<<v20-19-29,29>>^ Os julgamentos foram firmemente estabelecidos para os zombadores, e os golpes para as costas dos estúpidos.
+
+'''
+
+xref:020-proverbios/020-proverbios-018.adoc#v20-18-0[&#60; Capítulo Anterior] | <<v20-19-0,Topo>> | xref:020-proverbios/020-proverbios-020.adoc#v20-20-0[Próximo Capítulo &#62;]

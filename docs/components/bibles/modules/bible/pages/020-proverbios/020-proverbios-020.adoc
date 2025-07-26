@@ -1,0 +1,166 @@
+include::./index.adoc[]
+
+[[v20-20-0]]
+=== Provérbios, 20
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-20-1]]
+
+^<<v20-20-1,1>>^ O vinho é zombador, a bebida inebriante é turbulenta, e quem se perde por ele não é sábio.
+
+[[v20-20-2]]
+
+^<<v20-20-2,2>>^ A terribilidade do rei é como o rugido do leão novo jubado. Quem atrair a sua fúria sobre si está pecando contra a sua própria alma.
+
+[[v20-20-3]]
+
+^<<v20-20-3,3>>^ Para o homem é uma glória desistir duma disputa, mas todo tolo estourará [nela].
+
+[[v20-20-4]]
+
+^<<v20-20-4,4>>^ Por causa do inverno, o preguiçoso não lavra; vai estar mendigando no tempo da colheita, mas não haverá nada.
+
+[[v20-20-5]]
+
+^<<v20-20-5,5>>^ O conselho no coração dum homem é como águas profundas, mas o homem de discernimento é quem o puxará para fora.
+
+[[v20-20-6]]
+
+^<<v20-20-6,6>>^ Uma multidão de homens^&#42;1^ proclamará cada um a sua própria benevolência,^&#42;2^ mas quem pode achar um homem fiel?^&#42;3^
+
+[NOTE]
+====
+. “Uma multidão de homens.” Hebr.: rov-’a·dhám.
+. Ou “amor leal”.
+. Lit.: “mas . . . um homem de fidelidades”. Hebr.: we’ísh ’emu·ním.
+====
+
+[[v20-20-7]]
+
+^<<v20-20-7,7>>^ O justo está andando na sua integridade. Felizes são os seus filhos depois dele.
+
+[[v20-20-8]]
+
+^<<v20-20-8,8>>^ O rei está sentado no trono do julgamento,^&#42;1^ dispersando toda a maldade com os seus próprios olhos.
+
+[NOTE]
+====
+. “Julgamento.” Hebr.: dhin; lat.: iu·dí·ci·i.
+====
+
+[[v20-20-9]]
+
+^<<v20-20-9,9>>^ Quem pode dizer: “Purifiquei meu coração; fiquei limpo de meu pecado”?
+
+[[v20-20-10]]
+
+^<<v20-20-10,10>>^ Dois tipos de pesos e dois tipos de efas — ambos são juntamente algo detestável para Jeová.
+
+[[v20-20-11]]
+
+^<<v20-20-11,11>>^ Mesmo pelas suas práticas se dá a conhecer o rapaz quanto a se a sua atuação é pura e reta.
+
+[[v20-20-12]]
+
+^<<v20-20-12,12>>^ O ouvido que ouve e o olho que vê — o próprio Jeová é que fez a ambos.
+
+[[v20-20-13]]
+
+^<<v20-20-13,13>>^ Não ames o sono, para que não venhas a ficar na pobreza. Abre os olhos; farta-te de pão.
+
+[[v20-20-14]]
+
+^<<v20-20-14,14>>^ “É ruim, é ruim!” diz o comprador e vai embora. É então que ele se jacta de si.
+
+[[v20-20-15]]
+
+^<<v20-20-15,15>>^ Há ouro, também uma abundância de corais; mas os lábios de conhecimento são vasos preciosos.
+
+[[v20-20-16]]
+
+^<<v20-20-16,16>>^ Toma a veste da pessoa, caso a pessoa tenha prestado fiança por um estranho; e no caso duma mulher estrangeira, toma dele um penhor.
+
+[[v20-20-17]]
+
+^<<v20-20-17,17>>^ O pão [ganho mediante] falsidade é agradável ao homem, mas depois a sua boca se encherá de cascalho.
+
+[[v20-20-18]]
+
+^<<v20-20-18,18>>^ Pelo conselho se estabelecem firmemente os próprios planos, e trava a tua guerra com orientação perita.
+
+[[v20-20-19]]
+
+^<<v20-20-19,19>>^ Quem anda em volta como caluniador está revelando palestra confidencial; e não deves ter associação com quem está engodado^&#42;1^ pelos seus lábios.
+
+[NOTE]
+====
+. “Está bem aberto”, por outra derivação.
+====
+
+[[v20-20-20]]
+
+^<<v20-20-20,20>>^ Quanto àquele que invocar o mal sobre seu pai e sobre sua mãe, sua lâmpada será apagada ao aproximar-se a escuridão.
+
+[[v20-20-21]]
+
+^<<v20-20-21,21>>^ Uma herança, no princípio, é obtida com avidez,^&#42;1^ mas o seu próprio futuro não será abençoado.
+
+[NOTE]
+====
+. “Obtida com avidez”, M; TSyVg: “obtida apressadamente”.
+====
+
+[[v20-20-22]]
+
+^<<v20-20-22,22>>^ Não digas: “Vou retribuir o mal!” Espera em Jeová, e ele te salvará.
+
+[[v20-20-23]]
+
+^<<v20-20-23,23>>^ Dois tipos de pesos são algo detestável para Jeová, e uma balança fraudulenta não é boa.
+
+[[v20-20-24]]
+
+^<<v20-20-24,24>>^ As passadas dum varão vigoroso são da parte de Jeová. No que se refere ao homem terreno, como pode ele discernir o seu caminho?
+
+[[v20-20-25]]
+
+^<<v20-20-25,25>>^ É um laço quando o homem terreno clama irrefletidamente: “Santo!” e após os votos [está disposto] a fazer um exame.
+
+[[v20-20-26]]
+
+^<<v20-20-26,26>>^ O rei sábio dispersa os iníquos e revolve sobre eles uma roda.^&#42;1^
+
+[NOTE]
+====
+. “Uma roda”, M; mediante uma ligeira correção: “seu próprio prejuízo”.
+====
+
+[[v20-20-27]]
+
+^<<v20-20-27,27>>^ O fôlego^&#42;1^ do homem terreno é a lâmpada de Jeová, fazendo uma busca cuidadosa em todas as partes mais íntimas do ventre.
+
+[NOTE]
+====
+. “O fôlego do.” Hebr.: nish·máth, como em Gên 2:7.
+====
+
+[[v20-20-28]]
+
+^<<v20-20-28,28>>^ Benevolência e veracidade^&#42;1^ — elas salvaguardam o rei; e ele amparou seu trono pela benevolência.
+
+[NOTE]
+====
+. Ou “e verdade”. Hebr.: we·’eméth.
+====
+
+[[v20-20-29]]
+
+^<<v20-20-29,29>>^ A beleza dos jovens é o seu poder e o esplendor dos anciãos são as suas cãs.
+
+[[v20-20-30]]
+
+^<<v20-20-30,30>>^ Feridas de contusões são o que expurga o mal; e os golpes, as partes mais íntimas do ventre.
+
+'''
+
+xref:020-proverbios/020-proverbios-019.adoc#v20-19-0[&#60; Capítulo Anterior] | <<v20-20-0,Topo>> | xref:020-proverbios/020-proverbios-021.adoc#v20-21-0[Próximo Capítulo &#62;]

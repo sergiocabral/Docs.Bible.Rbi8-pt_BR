@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v19-115-0]]
+=== Salmos, 115
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-115-1]]
+
+^<<v19-115-1,1>>^ ^&#42;1^ Nada nos pertence, ó Jeová, nada nos pertence;
+Ao teu nome, porém, dá glória
+Segundo a tua benevolência, segundo a tua veracidade.^&#42;2^
+
+[NOTE]
+====
+. LXXTh e muitos mss. hebr. juntam o Sal 114 e o 115 para formar um só salmo contínuo de 26 vv.
+. “Tua veracidade (veridicidade; verdade).” Hebr.: ’amit·té·kha; lat.: ve·ri·tá·te tú·a.
+====
+
+[[v19-115-2]]
+
+^<<v19-115-2,2>>^ Por que diriam as nações:
+“Onde, então, está o seu Deus?”
+
+[[v19-115-3]]
+
+^<<v19-115-3,3>>^ Mas o nosso Deus está nos céus;
+Fez tudo o que se agradou [em fazer].
+
+[[v19-115-4]]
+
+^<<v19-115-4,4>>^ Os ídolos deles são prata e ouro,
+Trabalho das mãos do homem terreno.^&#42;1^
+
+[NOTE]
+====
+. “Homem terreno.” Hebr.: ’a·dhám.
+====
+
+[[v19-115-5]]
+
+^<<v19-115-5,5>>^ Têm boca, mas não podem falar;
+Têm olhos, mas não podem ver;
+
+[[v19-115-6]]
+
+^<<v19-115-6,6>>^ Têm orelhas, mas não podem ouvir.
+Têm nariz, mas não podem cheirar.
+
+[[v19-115-7]]
+
+^<<v19-115-7,7>>^ As mãos são deles, mas não podem apalpar.
+Os pés são deles, mas não podem andar;
+Não proferem som algum com a sua garganta.
+
+[[v19-115-8]]
+
+^<<v19-115-8,8>>^ Iguais a eles se tornarão os que os fazem,
+Todos os que neles confiam.
+
+[[v19-115-9]]
+
+^<<v19-115-9,9>>^ Ó Israel, confia em Jeová;
+Ele é sua ajuda e seu escudo.
+
+[[v19-115-10]]
+
+^<<v19-115-10,10>>^ Ó casa de Arão, ponde vossa confiança em Jeová;
+Ele é sua ajuda e seu escudo.
+
+[[v19-115-11]]
+
+^<<v19-115-11,11>>^ Vós, os que temeis a Jeová, confiai em Jeová;
+Ele é sua ajuda e seu escudo.
+
+[[v19-115-12]]
+
+^<<v19-115-12,12>>^ O próprio Jeová se lembrou de nós; abençoará,
+Abençoará a casa de Israel,
+Abençoará a casa de Arão.
+
+[[v19-115-13]]
+
+^<<v19-115-13,13>>^ Abençoará os que temem a Jeová,
+Tanto aos pequenos como aos grandes.
+
+[[v19-115-14]]
+
+^<<v19-115-14,14>>^ Jeová vos incrementará,
+A vós e aos vossos filhos.
+
+[[v19-115-15]]
+
+^<<v19-115-15,15>>^ Vós sois os abençoados por Jeová,
+Aquele que fez o céu e a terra.
+
+[[v19-115-16]]
+
+^<<v19-115-16,16>>^ Quanto aos céus, os céus pertencem a Jeová,
+Mas a terra ele deu aos filhos dos homens.^&#42;1^
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v19-115-17]]
+
+^<<v19-115-17,17>>^ Os próprios mortos não louvam a Jah,^&#42;1^
+Nem quaisquer dos que descem ao silêncio.
+
+[NOTE]
+====
+. “Jah.” Hebr.: Yah. Veja 68:4 n.
+====
+
+[[v19-115-18]]
+
+^<<v19-115-18,18>>^ Nós,^&#42;1^ porém, bendiremos a Jah^&#42;2^
+Desde agora e por tempo indefinido.
+Louvai a Jah!^&#42;3^
+
+[NOTE]
+====
+. “Nós”, M; LXX: “nós, os viventes”; Vg: “nós, os que estamos vivos”.
+. “Jah”, MT; LXXSyVg: “Jeová”.
+. Veja 104:35 n.
+====
+
+'''
+
+xref:019-salmo/019-salmo-114.adoc#v19-114-0[&#60; Capítulo Anterior] | <<v19-115-0,Topo>> | xref:019-salmo/019-salmo-116.adoc#v19-116-0[Próximo Capítulo &#62;]

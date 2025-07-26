@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v23-52-0]]
+=== Isaías, 52
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-52-1]]
+
+^<<v23-52-1,1>>^ Desperta, desperta, reveste-te da tua força, ó Sião! Veste as tuas belas roupas, ó Jerusalém, cidade santa! Pois nunca mais entrará em ti o incircunciso e o impuro.
+
+[[v23-52-2]]
+
+^<<v23-52-2,2>>^ Sacode-te do pó, levanta-te, assenta-te, ó Jerusalém. Solta-te das ligaduras sobre o teu pescoço, ó filha cativa de Sião.
+
+[[v23-52-3]]
+
+^<<v23-52-3,3>>^ Pois assim disse Jeová: “Foi por nada que fostes vendidos e será sem dinheiro que sereis resgatados.”
+
+[[v23-52-4]]
+
+^<<v23-52-4,4>>^ Pois assim disse o Soberano Senhor Jeová: “Foi ao Egito que meu povo desceu em primeiro lugar para residir ali como forasteiros; e a Assíria, da sua parte, os oprimiu sem causa alguma.”
+
+[[v23-52-5]]
+
+^<<v23-52-5,5>>^ “E agora, que interesse tenho aqui?” é a pronunciação de Jeová. “Pois o meu povo foi tomado por nada. Os próprios que dominam sobre eles estavam uivando”,^&#42;1^ é a pronunciação de Jeová, “e constantemente, o dia inteiro, se tratou meu nome com desrespeito.
+
+[NOTE]
+====
+. Ou “faziam[-nos] uivar”.
+====
+
+[[v23-52-6]]
+
+^<<v23-52-6,6>>^ Por esta razão, meu povo saberá o meu nome, sim, por esta razão, naquele dia, porque sou Eu quem está falando. Eis que sou Eu!”
+
+[[v23-52-7]]
+
+^<<v23-52-7,7>>^ Quão lindos, sobre os montes, são os pés do portador de boas novas, do publicador de paz, do portador de boas novas de algo melhor, do publicador de salvação, daquele que diz a Sião: “Teu Deus^&#42;1^ tornou-se rei!”
+
+[NOTE]
+====
+. “Teu Deus.” Hebr.: ’Elo·há·yikh.
+====
+
+[[v23-52-8]]
+
+^<<v23-52-8,8>>^ Escuta!^&#42;1^ Teus^&#42;2^ próprios vigias levantaram a voz. Estão gritando de júbilo, em uníssono; pois verão olho a olho quando Jeová trouxer Sião de volta.
+
+[NOTE]
+====
+. Lit.: “A voz de.”
+. “Teus”, hebr. fem. sing., referindo-se a “Sião”.
+====
+
+[[v23-52-9]]
+
+^<<v23-52-9,9>>^ Ficai animados, gritai de júbilo, em uníssono, vós lugares devastados de Jerusalém, pois Jeová consolou seu povo; ele resgatou Jerusalém.
+
+[[v23-52-10]]
+
+^<<v23-52-10,10>>^ Jeová desnudou seu santo braço diante dos olhos de todas as nações; e todos os confins da terra terão de ver a salvação da parte de nosso Deus.
+
+[[v23-52-11]]
+
+^<<v23-52-11,11>>^ Desviai-vos, desviai-vos, saí de lá, não toqueis em nada impuro; saí do meio dela, mantende-vos puros, vós os que carregais os utensílios de Jeová.
+
+[[v23-52-12]]
+
+^<<v23-52-12,12>>^ Pois não saireis em pânico e não ireis em fuga. Porque Jeová irá na vossa frente e o Deus de Israel será a vossa retaguarda.^&#42;1^
+
+[NOTE]
+====
+. “Será a vossa retaguarda.” Lit.: “vos recolherá”.
+====
+
+[[v23-52-13]]
+
+^<<v23-52-13,13>>^ Eis que meu servo agirá com perspicácia. Ele estará num alto posto, e certamente será elevado e muitíssimo exaltado.
+
+[[v23-52-14]]
+
+^<<v23-52-14,14>>^ Ao ponto que muitos olharam para ele^&#42;1^ assombrados — tanta foi a desfiguração quanto à sua aparência, mais do que a de qualquer outro homem,^&#42;2^ e quanto à sua figura imponente, mais do que a dos filhos da humanidade^&#42;3^ —
+
+[NOTE]
+====
+. “Ele”, TSy; 1QIsaMLXXVg: “ti”.
+. “Do que . . . homem.” Hebr.: me·’ísh.
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v23-52-15]]
+
+^<<v23-52-15,15>>^ a tal ponto surpreenderá muitas nações. Por causa dele, reis fecharão a sua boca, pois verão realmente aquilo que não se lhes narrou e terão de dar sua consideração àquilo que não ouviram.
+
+'''
+
+xref:023-isaias/023-isaias-051.adoc#v23-51-0[&#60; Capítulo Anterior] | <<v23-52-0,Topo>> | xref:023-isaias/023-isaias-053.adoc#v23-53-0[Próximo Capítulo &#62;]

@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v24-21-0]]
+=== Jeremias, 21
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-21-1]]
+
+^<<v24-21-1,1>>^ A palavra que veio a haver para Jeremias da parte de Jeová, quando o Rei Zedequias^&#42;1^ lhe enviou Pasur, filho de Malquijá, e Sofonias, filho de Maaséias, o sacerdote, dizendo:
+
+[NOTE]
+====
+. Veja 1:3 n.
+====
+
+[[v24-21-2]]
+
+^<<v24-21-2,2>>^ “Por favor, consulta a Jeová por nós, porque Nabucodorosor, rei de Babilônia, está travando guerra contra nós. Talvez Jeová faça conosco segundo todas as suas obras maravilhosas, de modo que ele se retire de nós.”
+
+[[v24-21-3]]
+
+^<<v24-21-3,3>>^ E Jeremias passou a dizer-lhes: “Assim direis a Zedequias:
+
+[[v24-21-4]]
+
+^<<v24-21-4,4>>^ ‘Assim disse Jeová, o Deus de Israel: “Eis que estou invertendo as armas de guerra na vossa mão, com que estais lutando contra o rei de Babilônia e os caldeus que vos estão sitiando fora da muralha, e vou ajuntá-los ao meio desta cidade.
+
+[[v24-21-5]]
+
+^<<v24-21-5,5>>^ E eu mesmo vou lutar contra vós com mão estendida, e com braço forte, e com ira, e com furor, e com grande indignação.
+
+[[v24-21-6]]
+
+^<<v24-21-6,6>>^ E vou golpear os habitantes desta cidade, tanto homem^&#42;1^ como animal. Morrerão de uma grande pestilência.”’
+
+[NOTE]
+====
+. Ou “o homem terreno”. Hebr.: ha·’a·dhám.
+====
+
+[[v24-21-7]]
+
+^<<v24-21-7,7>>^ “‘“E depois disso”, é a pronunciação de Jeová, “entregarei Zedequias, rei de Judá, e seus servos, e o povo, e os que restarem nesta cidade da pestilência, da espada e da fome, na mão de Nabucodorosor, rei de Babilônia, sim, na mão dos seus inimigos e na mão dos que procuram a sua alma, e ele certamente os golpeará com o fio^&#42;1^ da espada. Não terá dó deles, nem terá compaixão, nem terá misericórdia.”’
+
+[NOTE]
+====
+. Lit.: “boca”.
+====
+
+[[v24-21-8]]
+
+^<<v24-21-8,8>>^ “E dirás a este povo: ‘Assim disse Jeová: “Eis que ponho diante de vós o caminho da vida e o caminho da morte.
+
+[[v24-21-9]]
+
+^<<v24-21-9,9>>^ Quem ficar sentado quieto nesta cidade morrerá pela espada e pela fome e pela pestilência; mas quem sair e realmente se bandear^&#42;1^ para os caldeus que vos sitiam ficará vivo e sua alma certamente se tornará sua como despojo.”’
+
+[NOTE]
+====
+. Ou “realmente desertar”.
+====
+
+[[v24-21-10]]
+
+^<<v24-21-10,10>>^ “‘“Pois fixei minha face contra esta cidade para calamidade e não para bem”, é a pronunciação de Jeová. “Ela será entregue na mão do rei de Babilônia e ele certamente a queimará com fogo.”
+
+[[v24-21-11]]
+
+^<<v24-21-11,11>>^ “‘E no que se refere aos da casa do rei de Judá, ouvi vós, homens, a palavra de Jeová.
+
+[[v24-21-12]]
+
+^<<v24-21-12,12>>^ Ó casa de Davi, assim disse Jeová: “Toda manhã proferi sentença em justiça e livrai da mão do defraudador aquele que está sendo roubado, para que meu furor não saia como um fogo e realmente arda, e não haja quem o apague, por causa da ruindade das vossas ações.”’
+
+[[v24-21-13]]
+
+^<<v24-21-13,13>>^ “‘Eis que sou contra ti, ó moradora da baixada, ó rocha da planície’, é a pronunciação de Jeová. ‘Quanto a vós os que dizeis: “Quem virá para baixo contra nós? E quem entrará nas nossas habitações?”
+
+[[v24-21-14]]
+
+^<<v24-21-14,14>>^ Também convosco vou ajustar contas segundo os frutos das vossas ações’, é a pronunciação de Jeová. ‘E vou acender um fogo na sua floresta e este há de devorar todas as coisas ao seu redor.’”
+
+'''
+
+xref:024-jeremias/024-jeremias-020.adoc#v24-20-0[&#60; Capítulo Anterior] | <<v24-21-0,Topo>> | xref:024-jeremias/024-jeremias-022.adoc#v24-22-0[Próximo Capítulo &#62;]

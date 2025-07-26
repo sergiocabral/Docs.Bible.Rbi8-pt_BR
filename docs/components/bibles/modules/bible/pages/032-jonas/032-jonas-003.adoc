@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v32-3-0]]
+=== Jonas, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v32-3-1]]
+
+^<<v32-3-1,1>>^ Então veio a haver a palavra de Jeová para Jonas pela segunda vez, dizendo:
+
+[[v32-3-2]]
+
+^<<v32-3-2,2>>^ “Levanta-te, vai a Nínive, a grande cidade, e faze-lhe a proclamação que eu te falar.”
+
+[[v32-3-3]]
+
+^<<v32-3-3,3>>^ Nisso Jonas se levantou e foi a Nínive, segundo a palavra de Jeová.^&#42;1^ Ora, a própria Nínive mostrou-se para Deus uma cidade grande,^&#42;2^ de três dias de caminhada.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 3.
+. Ou “extremamente grande; divinamente grande”. Hebr.: gedhoh·láh lE’·lo·hím; gr.: me·gá·le toi The·oí. Compare isso com a expressão “divinamente belo” em At 7:20, cuja n. veja.
+====
+
+[[v32-3-4]]
+
+^<<v32-3-4,4>>^ Por fim, Jonas principiou a entrar na cidade numa caminhada de um dia, e continuava proclamando e dizendo: “Apenas mais quarenta dias e Nínive será subvertida.”
+
+[[v32-3-5]]
+
+^<<v32-3-5,5>>^ E os homens^&#42;1^ de Nínive começaram a depositar fé em Deus, e passaram a proclamar um jejum e a pôr serapilheira, desde o maior deles até o menor deles.
+
+[NOTE]
+====
+. Veja 1:10 n.
+====
+
+[[v32-3-6]]
+
+^<<v32-3-6,6>>^ Quando a palavra atingiu o rei de Nínive, então ele se levantou do seu trono e despiu-se de seu manto oficial e cobriu-se de serapilheira, e assentou-se nas cinzas.
+
+[[v32-3-7]]
+
+^<<v32-3-7,7>>^ Além disso, fez proclamar e dizer em Nínive, pelo decreto do rei e dos seus grandes, dizendo:
+“Nenhum homem e nenhum animal doméstico, nem manada nem rebanho, deve saborear coisa alguma. Nenhum [deles] deve tomar alimento. Nem mesmo água devem beber.
+
+[[v32-3-8]]
+
+^<<v32-3-8,8>>^ E cubram-se de serapilheira, homem e animal doméstico; e clamem a Deus com força e recuem, cada um do seu mau caminho e da violência que havia nas suas mãos.
+
+[[v32-3-9]]
+
+^<<v32-3-9,9>>^ Quem sabe se o [verdadeiro] Deus [não] voltará e realmente [o] deplorará, e recuará da sua ira ardente, para que não pereçamos?”
+
+[[v32-3-10]]
+
+^<<v32-3-10,10>>^ E o [verdadeiro] Deus chegou a ver os seus trabalhos, que tinham recuado de seu mau caminho; e por isso o [verdadeiro] Deus deplorou a calamidade de que falara que lhes ia causar; e ele não [a] causou.
+
+'''
+
+xref:032-jonas/032-jonas-002.adoc#v32-2-0[&#60; Capítulo Anterior] | <<v32-3-0,Topo>> | xref:032-jonas/032-jonas-004.adoc#v32-4-0[Próximo Capítulo &#62;]

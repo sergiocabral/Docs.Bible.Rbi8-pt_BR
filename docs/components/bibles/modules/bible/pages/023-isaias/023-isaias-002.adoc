@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v23-2-0]]
+=== Isaías, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-2-1]]
+
+^<<v23-2-1,1>>^ A coisa^&#42;1^ que Isaías,^&#42;2^ filho de Amoz, visionou concernente a Judá e Jerusalém:
+
+[NOTE]
+====
+. Ou “palavra”.
+. Veja 1:1 n.: “Isaías”.
+====
+
+[[v23-2-2]]
+
+^<<v23-2-2,2>>^ E na parte final dos dias terá de acontecer [que] o monte da casa de Jeová ficará firmemente estabelecido acima do cume dos montes e certamente se elevará acima dos morros; e a ele terão de afluir todas as nações.
+
+[[v23-2-3]]
+
+^<<v23-2-3,3>>^ E muitos povos certamente irão e dirão: “Vinde, e subamos ao monte de Jeová, à casa do Deus de Jacó; e ele nos instruirá sobre os seus caminhos e nós andaremos^&#42;1^ nas suas veredas.” Pois de Sião sairá [a] lei e de Jerusalém a palavra de Jeová.
+
+[NOTE]
+====
+. Ou “iremos”.
+====
+
+[[v23-2-4]]
+
+^<<v23-2-4,4>>^ E ele certamente fará julgamento entre as nações e resolverá as questões com respeito a muitos povos. E terão de forjar das suas espadas relhas de arado, e das suas lanças, podadeiras. Não levantará espada nação contra nação, nem aprenderão mais a guerra.
+
+[[v23-2-5]]
+
+^<<v23-2-5,5>>^ Ó homens da casa de Jacó,^&#42;1^ vinde, e andemos na luz de Jeová.
+
+[NOTE]
+====
+. Lit.: “Ó casa de Jacó”, hebr. sing., mas o verbo “vinde” está no pl. no hebr.
+====
+
+[[v23-2-6]]
+
+^<<v23-2-6,6>>^ Pois abandonastes o teu povo, a casa de Jacó. Porque ficaram cheios daquilo que procede do Oriente e são praticantes da magia, iguais aos filisteus, e abundam^&#42;1^ em filhos de estrangeiros.
+
+[NOTE]
+====
+. Ou “apertam a mão de”, isto é, têm associação íntima.
+====
+
+[[v23-2-7]]
+
+^<<v23-2-7,7>>^ E sua^&#42;1^ terra está cheia de prata e de ouro, e não há limite dos seus tesouros. E sua terra está cheia de cavalos, e não há limite dos seus carros.
+
+[NOTE]
+====
+. “Sua”, referindo-se a “Jacó” no v. 6.
+====
+
+[[v23-2-8]]
+
+^<<v23-2-8,8>>^ E sua terra está cheia de deuses que nada valem. Curvam-se diante do trabalho das mãos de alguém, diante daquilo que os dedos de alguém fizeram.
+
+[[v23-2-9]]
+
+^<<v23-2-9,9>>^ E o homem terreno se encurva e o homem fica rebaixado, e não é possível que lhes perdoes.^&#42;1^
+
+[NOTE]
+====
+. Ou “e tu não lhes perdoas”.
+====
+
+[[v23-2-10]]
+
+^<<v23-2-10,10>>^ Entra na rocha e encobre-te no pó por causa do pavor de Jeová e diante da sua esplêndida superioridade.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “do esplendor de sua superioridade”.
+====
+
+[[v23-2-11]]
+
+^<<v23-2-11,11>>^ Os olhos soberbos do homem terreno terão de ficar rebaixados e o enaltecimento dos homens^&#42;1^ terá de encurvar-se; e somente Jeová terá de ser sublimado naquele dia.
+
+[NOTE]
+====
+. “Homens.” Hebr.: ’ana·shím, pl. de ’ish.
+====
+
+[[v23-2-12]]
+
+^<<v23-2-12,12>>^ Porque é o dia pertencente a Jeová dos exércitos. Vem sobre todo o altivo e altaneiro, e sobre todo o elevado ou rebaixado;
+
+[[v23-2-13]]
+
+^<<v23-2-13,13>>^ e sobre todos os cedros do Líbano, que são altaneiros e elevados, e sobre todas as árvores maciças de Basã;
+
+[[v23-2-14]]
+
+^<<v23-2-14,14>>^ e sobre todos os montes altaneiros e sobre todos os morros elevados;
+
+[[v23-2-15]]
+
+^<<v23-2-15,15>>^ e sobre toda torre alta e sobre toda muralha fortificada;
+
+[[v23-2-16]]
+
+^<<v23-2-16,16>>^ e sobre todos os navios de Társis e sobre todos os barcos desejáveis.^&#42;1^
+
+[NOTE]
+====
+. Ou “todos os objetos desejáveis de ostentação; todas as desejáveis obras de arte”.
+====
+
+[[v23-2-17]]
+
+^<<v23-2-17,17>>^ E a soberba do homem terreno^&#42;1^ terá de encurvar-se, e o enaltecimento dos homens terá de ficar rebaixado; e somente Jeová terá de ser sublimado naquele dia.
+
+[NOTE]
+====
+. “Do homem terreno.” Hebr.: ha·’a·dhám. Veja v. 11 n.
+====
+
+[[v23-2-18]]
+
+^<<v23-2-18,18>>^ E os próprios deuses que nada valem passarão inteiramente.
+
+[[v23-2-19]]
+
+^<<v23-2-19,19>>^ E as pessoas entrarão nas cavernas das rochas e nas cavidades do pó por causa do pavor de Jeová e diante da sua esplêndida superioridade,^&#42;1^ quando ele se levantar para fazer a terra sofrer tremores.
+
+[NOTE]
+====
+. Veja v. 10 n.
+====
+
+[[v23-2-20]]
+
+^<<v23-2-20,20>>^ Naquele dia, o homem terreno lançará diante dos musaranhos e dos morcegos os seus deuses de prata que nada valem e os seus deuses de ouro que nada valem, que fizeram para ele se curvar diante deles,
+
+[[v23-2-21]]
+
+^<<v23-2-21,21>>^ a fim de entrar nas grutas das rochas e nas fendas dos rochedos, por causa do pavor de Jeová e diante da sua esplêndida superioridade,^&#42;1^ quando ele se levantar para fazer a terra sofrer tremores.
+
+[NOTE]
+====
+. “De diante do temor do Senhor [gr.: Ky·rí·ou], e da glória da sua força”, LXX. Veja v. 10 n. Compare isso com 2Te 1:9.
+====
+
+[[v23-2-22]]
+
+^<<v23-2-22,22>>^ Por vossa própria causa, deixai o homem terreno, cujo fôlego^&#42;1^ está nas suas narinas, pois em que base deve ele mesmo ser tomado em consideração?
+
+[NOTE]
+====
+. “Fôlego.” Hebr.: nesha·máh, a mesma palavra que em Gên 2:7.
+====
+
+'''
+
+xref:023-isaias/023-isaias-001.adoc#v23-1-0[&#60; Capítulo Anterior] | <<v23-2-0,Topo>> | xref:023-isaias/023-isaias-003.adoc#v23-3-0[Próximo Capítulo &#62;]

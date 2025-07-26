@@ -1,0 +1,104 @@
+include::./index.adoc[]
+
+[[v17-8-0]]
+=== Ester, 8
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v17-8-1]]
+
+^<<v17-8-1,1>>^ Naquele dia deu o Rei Assuero^&#42;1^ a Ester, a rainha, a casa de Hamã, aquele que mostrara hostilidade para com os judeus; e o próprio Mordecai entrou perante o rei, porque Ester contara a este o que ele era para ela.
+
+[NOTE]
+====
+. “Artaxerxes”, LXX.
+====
+
+[[v17-8-2]]
+
+^<<v17-8-2,2>>^ O rei removeu então seu anel de sinete que retirara de Hamã e deu-o a Mordecai; e Ester foi colocar a Mordecai sobre a casa de Hamã.
+
+[[v17-8-3]]
+
+^<<v17-8-3,3>>^ Outrossim, Ester falou novamente perante o rei e se lançou aos seus pés, e chorou e implorou seu favor para afastar a maldade de Hamã, o agagita, e seu ardil que maquinara contra os judeus.
+
+[[v17-8-4]]
+
+^<<v17-8-4,4>>^ O rei estendeu então o cetro de ouro a Ester, em vista do que Ester se levantou e ficou de pé perante o rei.
+
+[[v17-8-5]]
+
+^<<v17-8-5,5>>^ Ela disse então: “Se parecer bem ao rei e se eu tiver achado favor diante dele, e a coisa for própria perante o rei, e eu for boa aos seus olhos, escreva-se a revogação dos documentos escritos, o ardil de Hamã, filho de Hamedata, o agagita, que ele escreveu para destruir os judeus que há em todos os distritos jurisdicionais do rei.
+
+[[v17-8-6]]
+
+^<<v17-8-6,6>>^ Pois, como posso [suportá-lo], tendo de olhar para a calamidade que atingirá meu povo, e como posso [suportá-lo], tendo de olhar para a destruição da minha parentela?”
+
+[[v17-8-7]]
+
+^<<v17-8-7,7>>^ Portanto, o Rei Assuero disse a Ester, a rainha, e a Mordecai, o judeu: “Eis que dei a Ester a casa de Hamã, e a ele penduraram no madeiro, pela razão de ter estendido a sua mão contra os judeus.
+
+[[v17-8-8]]
+
+^<<v17-8-8,8>>^ E escrevei vós mesmos a favor dos judeus segundo o que for bom aos vossos próprios olhos, em nome do rei, e selai-o com o anel de sinete do rei; pois a escrita que se escreveu em nome do rei e que se selou com o anel de sinete do rei não pode ser revogada.”
+
+[[v17-8-9]]
+
+^<<v17-8-9,9>>^ Por conseguinte, chamaram-se naquele tempo os secretários do rei, no terceiro mês, isto é, no mês de sivã,^&#42;1^ no [dia] vigésimo terceiro dele; e escreveu-se segundo tudo o que Mordecai ordenava aos judeus, e aos sátrapas, e aos governadores, e aos príncipes dos distritos jurisdicionais que havia desde a Índia^&#42;2^ até a Etiópia,^&#42;3^ cento e vinte e sete distritos jurisdicionais, [a] cada distrito jurisdicional no seu próprio estilo de escrita e [a] cada povo na sua própria língua, e aos judeus no seu próprio estilo de escrita e na sua própria língua.
+
+[NOTE]
+====
+. “Sivã.” Esta é na Bíblia a única ocorrência deste nome, que é de origem acadiana. Este terceiro mês do calendário sagrado corresponde à segunda metade de maio e à primeira metade de junho. Veja Ap. 8B.
+. “Desde a Índia.” Hebr.: me·Hód·du; gr.: In·di·kés, “[terra] indiana”; sir.: Hudh; lat.: Ín·di·a.
+. “Etiópia”, LXXVg; MSy: “Cus”.
+====
+
+[[v17-8-10]]
+
+^<<v17-8-10,10>>^ E ele passou a escrever em nome do Rei Assuero e a fazer a selagem com o anel de sinete do rei, e foi enviar documentos escritos pela mão de correios a cavalo, montando cavalos de posta usados no serviço real, filhos de éguas velozes,
+
+[[v17-8-11]]
+
+^<<v17-8-11,11>>^ de que o rei concedia aos judeus que havia em todas as diversas cidades congregar-se e tomar posição pelas suas almas,^&#42;1^ para aniquilar, e matar, e destruir toda a força do povo e do distrito jurisdicional que lhes mostrasse hostilidade, pequeninos e mulheres, e para saquear o seu despojo,
+
+[NOTE]
+====
+. “Pelas suas almas (vidas).” Hebr.: ‛al-naf·shám; sir.: lenaf·shehun; lat.: a·ni·má·bus.
+====
+
+[[v17-8-12]]
+
+^<<v17-8-12,12>>^ naquele único dia, em todos os distritos jurisdicionais do Rei Assuero, no décimo terceiro [dia] do décimo segundo mês, isto é, no mês de adar.^&#42;1^
+
+[NOTE]
+====
+. Veja 3:7 n.: “adar”.
+====
+
+[[v17-8-13]]
+
+^<<v17-8-13,13>>^ Uma cópia da escrita era para ser dada como lei em todos os diversos distritos jurisdicionais, publicada a todos os povos, para que os judeus se aprontassem para este dia, a fim de que se vingassem dos seus inimigos.
+
+[[v17-8-14]]
+
+^<<v17-8-14,14>>^ Os próprios correios, montando cavalos de posta usados no serviço do rei, saíram, impelidos e movidos velozmente pela palavra do rei; e a própria lei foi promulgada em Susã, o castelo.
+
+[[v17-8-15]]
+
+^<<v17-8-15,15>>^ Quanto a Mordecai, saiu de diante do rei em vestimenta real de pano azul e de linho, com uma grande coroa de ouro e uma capa de tecido fino, sim, de lã tingida de roxo. E a própria cidade de Susã gritou estridentemente e estava alegre.
+
+[[v17-8-16]]
+
+^<<v17-8-16,16>>^ Pois para os judeus veio a haver luz, e alegria, e exultação, e honra.
+
+[[v17-8-17]]
+
+^<<v17-8-17,17>>^ E em todos os diversos distritos jurisdicionais e em todas as diversas cidades aonde quer que chegava a palavra do rei e a sua lei havia alegria e exultação para os judeus, um banquete e um dia bom; e muitos dos povos da terra declaravam-se judeus,^&#42;1^ pois caíra sobre eles o pavor dos judeus.
+
+[NOTE]
+====
+. Ou “judaizavam-se”. Hebr.: mith·Ya·hadhím; LXX: “deixavam-se circuncidar e judaizavam-se”; Vgc: “juntavam-se à sua religião [lat.: re·li·gi·ó·ni] e cerimônias [lat.: cae·re·mó·ni·is]”.
+====
+
+'''
+
+xref:017-ester/017-ester-007.adoc#v17-7-0[&#60; Capítulo Anterior] | <<v17-8-0,Topo>> | xref:017-ester/017-ester-009.adoc#v17-9-0[Próximo Capítulo &#62;]

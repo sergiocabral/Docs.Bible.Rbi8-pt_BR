@@ -1,0 +1,114 @@
+include::./index.adoc[]
+
+[[v41-16-0]]
+=== Marcos, 16
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v41-16-1]]
+
+^<<v41-16-1,1>>^ Passado então o sábado, Maria Madalena e Maria, a mãe de Tiago, e Salomé, compraram aromas, a fim de virem e o untarem.
+
+[[v41-16-2]]
+
+^<<v41-16-2,2>>^ E bem cedo, no primeiro dia da semana, chegaram ao túmulo memorial depois de se levantar o sol.
+
+[[v41-16-3]]
+
+^<<v41-16-3,3>>^ E diziam uma à outra: “Quem nos rolará a pedra [da frente] da porta do túmulo memorial?”
+
+[[v41-16-4]]
+
+^<<v41-16-4,4>>^ Mas, ao olharem para cima, observaram que a pedra, embora muito grande, tinha sido rolada [da frente].
+
+[[v41-16-5]]
+
+^<<v41-16-5,5>>^ Quando entraram no túmulo memorial, viram um jovem sentado à direita, trajado duma comprida veste branca, e elas ficaram atônitas.
+
+[[v41-16-6]]
+
+^<<v41-16-6,6>>^ Ele lhes disse: “Parai de ficar atônitas. Vós estais procurando Jesus, o nazareno, que foi pregado numa estaca.^&#42;1^ Ele foi levantado, não está aqui. Eis o lugar onde o deitaram.
+
+[NOTE]
+====
+. Ou “fixado numa estaca (poste)”. Veja Ap. 5C.
+====
+
+[[v41-16-7]]
+
+^<<v41-16-7,7>>^ Mas ide, dizei aos discípulos dele e a Pedro: ‘Ele vai adiante de vós para a Galiléia; ali o vereis, assim como ele vos disse.’”
+
+[[v41-16-8]]
+
+^<<v41-16-8,8>>^ Saindo então, fugiram do túmulo memorial, pois estavam presas de tremor e de forte emoção. E não disseram nada a ninguém, pois estavam tomadas de temor.^&#42;1^
+
+[NOTE]
+====
+. O Manuscrito L 019 (Codex Regius, do oitavo séc.) contém tanto a conclusão longa como a curta, após o v. 8 , apresentando primeiro a conclusão curta e prefaciando cada conclusão com uma nota, dizendo que essas passagens estavam em voga em alguns setores, embora, evidentemente, não reconhecesse nenhuma das conclusões como de autoridade.
+====
+
+_CONCLUSÃO CURTA_
+
+_Alguns manuscritos e versões posteriores contêm uma conclusão curta depois de Marcos 16:8, como segue:_
+
+Mas, todas as coisas que se lhes mandaram, relataram brevemente aos em volta de Pedro. Outrossim, depois destas coisas, o próprio Jesus enviou por meio deles, do leste ao oeste, a santa e incorruptível proclamação da salvação eterna.
+
+[NOTE]
+====
+. O Manuscrito L 019 (Codex Regius, do oitavo séc.) contém tanto a conclusão longa como a curta, após o v. 8 , apresentando primeiro a conclusão curta e prefaciando cada conclusão com uma nota, dizendo que essas passagens estavam em voga em alguns setores, embora, evidentemente, não reconhecesse nenhuma das conclusões como de autoridade.
+====
+
+_CONCLUSÃO LONGA_
+
+_Certos manuscritos antigos (ACD) e versões antigas (VgSyc,p) acrescentam a seguinte conclusão longa, omitida por אBSysArm:_
+
+[[v41-16-9]]
+
+^<<v41-16-9,9>>^ 9 Após o levantamento dele cedo no primeiro dia da semana, apareceu primeiro a Maria Madalena, da qual tinha expulsado sete demônios.
+
+[[v41-16-10]]
+
+^<<v41-16-10,10>>^ Ela foi e [o] relatou aos que tinham estado com ele, pois pranteavam e choravam.
+
+[[v41-16-11]]
+
+^<<v41-16-11,11>>^ Mas estes, ao ouvirem que passara a viver e que tinha sido observado por ela, não [lhe] acreditaram.
+
+[[v41-16-12]]
+
+^<<v41-16-12,12>>^ Ainda mais, após estas coisas apareceu em outra forma a dois deles ao andarem, pois estavam indo para o campo;
+
+[[v41-16-13]]
+
+^<<v41-16-13,13>>^ e estes voltaram e [o] relataram aos demais. Tampouco a estes acreditaram.
+
+[[v41-16-14]]
+
+^<<v41-16-14,14>>^ Mais tarde, porém, apareceu aos próprios onze, ao estarem recostados à mesa, e exprobrou a sua falta de fé e a dureza de seus corações, porque não tinham acreditado nos que o tinham observado já levantado dentre os mortos.
+
+[[v41-16-15]]
+
+^<<v41-16-15,15>>^ 15 E ele lhes disse: “Ide a todo o mundo e pregai as boas novas a toda a criação.
+
+[[v41-16-16]]
+
+^<<v41-16-16,16>>^ Quem crer e for batizado será salvo, mas o que não crer será condenado.
+
+[[v41-16-17]]
+
+^<<v41-16-17,17>>^ Outrossim, os seguintes sinais acompanharão os que crerem: Pelo uso do meu nome expulsarão demônios, falarão em línguas,
+
+[[v41-16-18]]
+
+^<<v41-16-18,18>>^ e com as suas mãos apanharão serpentes, e, se beberem algo mortífero, absolutamente não lhes fará mal. Porão as suas mãos sobre doentes, e estes ficarão bons.”
+
+[[v41-16-19]]
+
+^<<v41-16-19,19>>^ Daí, o Senhor Jesus, depois de lhes ter falado, foi elevado para o céu e se assentou à direita de Deus.
+
+[[v41-16-20]]
+
+^<<v41-16-20,20>>^ 20 Eles, concordemente, saíram e pregaram em toda a parte, sendo que o Senhor cooperava com eles e apoiava a mensagem por meio de sinais acompanhantes.
+
+'''
+
+xref:041-marcos/041-marcos-015.adoc#v41-15-0[&#60; Capítulo Anterior] | <<v41-16-0,Topo>> | xref:042-lucas/042-lucas-001.adoc#v42-1-0[Próximo Capítulo &#62;]

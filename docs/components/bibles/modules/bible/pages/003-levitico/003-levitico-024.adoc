@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v3-24-0]]
+=== Levítico, 24
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-24-1]]
+
+^<<v3-24-1,1>>^ E Jeová passou a falar a Moisés, dizendo:
+
+[[v3-24-2]]
+
+^<<v3-24-2,2>>^ “Manda aos filhos de Israel que obtenham para ti azeite puro de oliveira, batido, para o luzeiro, para manter a lâmpada continuamente acesa.
+
+[[v3-24-3]]
+
+^<<v3-24-3,3>>^ Arão deve pô-la continuamente em ordem perante Jeová, fora da cortina do Testemunho, na tenda de reunião, desde a noitinha até à manhã. É um estatuto por tempo indefinido nas vossas gerações.
+
+[[v3-24-4]]
+
+^<<v3-24-4,4>>^ Deve pôr as lâmpadas continuamente em ordem perante Jeová, sobre o candelabro de ouro puro.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “o candelabro puro”.
+====
+
+[[v3-24-5]]
+
+^<<v3-24-5,5>>^ “E tens de tomar flor de farinha e cozer dela doze bolos de forma anular. Cada bolo de forma anular deve ter dois décimos de um efa.
+
+[[v3-24-6]]
+
+^<<v3-24-6,6>>^ E tens de colocá-los em duas pilhas, seis por pilha, sobre a mesa de ouro puro^&#42;1^ perante Jeová.
+
+[NOTE]
+====
+. Lit.: “a mesa pura”.
+====
+
+[[v3-24-7]]
+
+^<<v3-24-7,7>>^ E tens de pôr olíbano puro sobre cada pilha, e tem de servir de pão de lembrança, uma oferta a Jeová feita por fogo.
+
+[[v3-24-8]]
+
+^<<v3-24-8,8>>^ Num sábado após outro deve pô-lo continuamente em ordem perante Jeová. É um pacto por tempo indefinido com os filhos de Israel.
+
+[[v3-24-9]]
+
+^<<v3-24-9,9>>^ E tem de tornar-se de Arão e de seus filhos, e eles têm de comê-lo num lugar santo, porque é para ele algo santíssimo das ofertas de Jeová feitas por fogo, como regulamento por tempo indefinido.”
+
+[[v3-24-10]]
+
+^<<v3-24-10,10>>^ Então, o filho duma mulher israelita, o qual, porém, era filho dum homem egípcio, saiu pelo meio dos filhos de Israel, e o filho da israelita e um homem israelita começaram a brigar entre si no acampamento.
+
+[[v3-24-11]]
+
+^<<v3-24-11,11>>^ E o filho da mulher israelita começou a maldizer o Nome^&#42;1^ e a invocar o mal sobre ele. De modo que o trouxeram a Moisés. Incidentalmente, o nome de sua mãe era Selomite, filha de Dibri, da tribo de Dã.
+
+[NOTE]
+====
+. “O Nome.” Hebr.: hash·Shém; isto é, o nome “Jeová” conforme indicado pelos vv. 15, 16. O uso pós-bíblico desta expressão é encontrado na Míxena, como em Yoma 3, 8; 4, 1, 2; 6, 2. Acredita-se que a expressão “o Nome” foi substituída pelos soferins em lugar de “Jeová” para evitar o que lhes parecia ser uma flagrante blasfêmia em dizer: “começou a maldizer Jeová”.
+====
+
+[[v3-24-12]]
+
+^<<v3-24-12,12>>^ Puseram-no então em detenção até que se lhes desse um esclarecimento segundo a declaração^&#42;1^ de Jeová.
+
+[NOTE]
+====
+. Lit.: “boca”.
+====
+
+[[v3-24-13]]
+
+^<<v3-24-13,13>>^ E Jeová passou a falar a Moisés, dizendo:
+
+[[v3-24-14]]
+
+^<<v3-24-14,14>>^ “Leva para fora do acampamento aquele que invocou o mal; e todos os que o ouviram têm de pôr suas mãos sobre a cabeça dele e a assembléia inteira tem de atirar [pedras] nele.
+
+[[v3-24-15]]
+
+^<<v3-24-15,15>>^ E deves falar aos filhos de Israel, dizendo: ‘Caso algum homem invoque o mal sobre o seu Deus, então tem de responder pelo seu pecado.
+
+[[v3-24-16]]
+
+^<<v3-24-16,16>>^ Assim, quem maldisser o nome de Jeová, sem falta deve ser morto. A assembléia inteira deve sem falta atirar pedras nele. O residente forasteiro, igual ao natural, deve ser morto por maldizer o Nome.^&#42;1^
+
+[NOTE]
+====
+. “O Nome”, Sam; M: “um nome”; LXXVg: “o nome de Jeová”.
+====
+
+[[v3-24-17]]
+
+^<<v3-24-17,17>>^ “‘E caso um homem golpeie fatalmente qualquer alma do gênero humano,^&#42;1^ sem falta deve ser morto.
+
+[NOTE]
+====
+. Ou “golpeie fatalmente qualquer homem; mate qualquer homem”. Lat.: per·cús·se·rit et oc·cí·de·rit hó·mi·nem.
+====
+
+[[v3-24-18]]
+
+^<<v3-24-18,18>>^ E quem golpear fatalmente a alma dum animal doméstico deve dar compensação por ela, alma por alma.
+
+[[v3-24-19]]
+
+^<<v3-24-19,19>>^ E caso um homem cause defeito no seu colega, então, como ele fez, assim se lhe tem de fazer.
+
+[[v3-24-20]]
+
+^<<v3-24-20,20>>^ Fratura por fratura, olho por olho, dente por dente; a mesma sorte de defeito que ele cause ao homem é que se lhe deve causar.
+
+[[v3-24-21]]
+
+^<<v3-24-21,21>>^ E quem golpear fatalmente um animal deve dar compensação por ele, mas quem golpear fatalmente um homem deve ser morto.
+
+[[v3-24-22]]
+
+^<<v3-24-22,22>>^ “‘Uma só decisão judicial deve ser válida para vós. O residente forasteiro deve mostrar ser igual ao natural, porque eu sou Jeová, vosso Deus.’”
+
+[[v3-24-23]]
+
+^<<v3-24-23,23>>^ Depois, Moisés falou aos filhos de Israel e eles levaram aquele que invocara o mal para fora do acampamento, e atiraram pedras nele. Deste modo os filhos de Israel fizeram assim como Jeová mandara a Moisés.
+
+'''
+
+xref:003-levitico/003-levitico-023.adoc#v3-23-0[&#60; Capítulo Anterior] | <<v3-24-0,Topo>> | xref:003-levitico/003-levitico-025.adoc#v3-25-0[Próximo Capítulo &#62;]

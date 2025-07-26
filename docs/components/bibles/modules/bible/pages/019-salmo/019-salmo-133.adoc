@@ -1,0 +1,36 @@
+include::./index.adoc[]
+
+[[v19-133-0]]
+=== Salmos, 133
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Cântico das Subidas. De Davi._
+
+[[v19-133-1]]
+
+^<<v19-133-1,1>>^ Eis que quão bom e quão agradável é
+Irmãos morarem juntos em união!
+
+[[v19-133-2]]
+
+^<<v19-133-2,2>>^ É como óleo bom sobre a cabeça,
+Que desce^&#42;1^ sobre a barba,
+A barba de Arão,
+Que desce até o colar^&#42;2^ da sua veste.
+
+[NOTE]
+====
+. “Desce”, como no v. 3.
+. Ou “abertura”. Lit.: “boca”.
+====
+
+[[v19-133-3]]
+
+^<<v19-133-3,3>>^ É como o orvalho do Hermom
+Que desce sobre as montanhas de Sião.
+Pois ali Jeová ordenou [que estivesse] a bênção,
+[Sim,] vida por tempo indefinido.
+
+'''
+
+xref:019-salmo/019-salmo-132.adoc#v19-132-0[&#60; Capítulo Anterior] | <<v19-133-0,Topo>> | xref:019-salmo/019-salmo-134.adoc#v19-134-0[Próximo Capítulo &#62;]

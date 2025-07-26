@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v66-6-0]]
+=== Apocalipse, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v66-6-1]]
+
+^<<v66-6-1,1>>^ E eu vi quando o Cordeiro abriu um dos sete selos, e ouvi uma das quatro criaturas viventes dizer com voz como de trovão: “Vem!”
+
+[[v66-6-2]]
+
+^<<v66-6-2,2>>^ E eu vi, e eis um cavalo branco; e o que estava sentado nele tinha um arco; e foi-lhe dada uma coroa, e ele saiu vencendo e para completar a sua vitória.
+
+[[v66-6-3]]
+
+^<<v66-6-3,3>>^ E quando abriu o segundo selo, ouvi a segunda criatura vivente dizer: “Vem!”
+
+[[v66-6-4]]
+
+^<<v66-6-4,4>>^ E saiu outro, um cavalo cor de fogo; e ao que estava sentado nele foi concedido tirar da terra a paz, para que se matassem uns aos outros; e foi-lhe dada uma grande espada.
+
+[[v66-6-5]]
+
+^<<v66-6-5,5>>^ E quando abriu o terceiro selo, ouvi a terceira criatura vivente dizer: “Vem!” E eu vi, e eis um cavalo preto; e o que estava sentado nele tinha uma balança na mão.
+
+[[v66-6-6]]
+
+^<<v66-6-6,6>>^ E eu ouvi uma voz como que no meio das quatro criaturas viventes dizer: “Um litro^&#42;1^ de trigo por um denário,^&#42;2^ e três litros de cevada por um denário; e não faças dano ao azeite de oliveira e ao vinho.”
+
+[NOTE]
+====
+. Gr.: Khoí·nix. Um pouco mais de um litro.
+. Moeda romana de prata que pesava 3,85 g e equivalia ao salário de um dia. Veja Mt 20:2.
+====
+
+[[v66-6-7]]
+
+^<<v66-6-7,7>>^ E quando abriu o quarto selo, ouvi a voz da quarta criatura vivente dizer: “Vem!”
+
+[[v66-6-8]]
+
+^<<v66-6-8,8>>^ E eu vi, e eis um cavalo descorado; e o que estava sentado nele tinha o nome de Morte. E o Hades^&#42;1^ seguia-o de perto. E foi-lhes dada autoridade sobre a quarta parte da terra, para matar com uma longa espada, e com escassez de víveres,^&#42;2^ e com praga mortífera,^&#42;3^ e pelas feras da terra.
+
+[NOTE]
+====
+. “Hades”, אA; SyhJ7,8,11-14,16-18,22: “Seol”. Veja Ap. 4B.
+. Lit.: “fome”.
+. Ou “com morte”.
+====
+
+[[v66-6-9]]
+
+^<<v66-6-9,9>>^ E quando abriu o quinto selo, vi por baixo do altar as almas dos que tinham sido mortos por causa da palavra de Deus e^&#42;1^ por causa da obra de testemunho^&#42;2^ que costumavam ter.
+
+[NOTE]
+====
+. Ou “sim”.
+. “Obra de testemunho.” Lit.: “testemunho”. Gr.: mar·ty·rí·an; lat.: te·sti·mó·ni·um.
+====
+
+[[v66-6-10]]
+
+^<<v66-6-10,10>>^ E gritaram com voz alta, dizendo: “Até quando, Soberano Senhor,^&#42;1^ santo e verdadeiro, abster-te-ás de julgar e vingar o nosso sangue dos que moram na terra?”
+
+[NOTE]
+====
+. “Soberano Senhor.” Gr.: ho De·spó·tes; J17,22(hebr.): ’Adho·naí. Veja Ap. 1E.
+====
+
+[[v66-6-11]]
+
+^<<v66-6-11,11>>^ E a cada um deles foi dada uma comprida veste branca; e foi-lhes dito que descansassem mais um pouco, até que se completasse também o número dos seus co-escravos e dos seus irmãos, que estavam para ser mortos assim como eles também tinham sido.
+
+[[v66-6-12]]
+
+^<<v66-6-12,12>>^ E eu vi quando ele abriu o sexto selo, e houve um grande terremoto; e o sol ficou negro como serapilheira de pêlo e a lua inteira ficou como sangue,
+
+[[v66-6-13]]
+
+^<<v66-6-13,13>>^ e as estrelas do céu caíram para a terra, como quando a figueira, sacudida por forte vento, deixa cair os seus figos verdes.
+
+[[v66-6-14]]
+
+^<<v66-6-14,14>>^ E o céu afastou-se como um rolo que está sendo enrolado, e cada monte e [cada] ilha foram removidos dos seus lugares.
+
+[[v66-6-15]]
+
+^<<v66-6-15,15>>^ E os reis da terra, e os dignitários, e os comandantes militares,^&#42;1^ e os ricos, e os fortes, e todo escravo e [toda] pessoa livre esconderam-se em cavernas e nas rochas dos montes.
+
+[NOTE]
+====
+. Ou “os quiliarcas”, cada um deles no comando de 1.000 soldados.
+====
+
+[[v66-6-16]]
+
+^<<v66-6-16,16>>^ E estão dizendo aos montes e às rochas: “Caí sobre nós e escondei-nos do rosto Daquele que está sentado no trono e do furor do Cordeiro,
+
+[[v66-6-17]]
+
+^<<v66-6-17,17>>^ porque veio o grande dia do seu furor, e quem é que pode ficar de pé?”
+
+'''
+
+xref:066-apocalipse/066-apocalipse-005.adoc#v66-5-0[&#60; Capítulo Anterior] | <<v66-6-0,Topo>> | xref:066-apocalipse/066-apocalipse-007.adoc#v66-7-0[Próximo Capítulo &#62;]

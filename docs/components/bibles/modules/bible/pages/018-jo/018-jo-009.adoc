@@ -1,0 +1,244 @@
+include::./index.adoc[]
+
+[[v18-9-0]]
+=== Jó, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-9-1]]
+
+^<<v18-9-1,1>>^ E Jó passou a responder e a dizer:
+
+[[v18-9-2]]
+
+^<<v18-9-2,2>>^ “De fato, sei que é assim.
+Mas como pode o homem mortal ter razão num caso com Deus?^&#42;1^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El; LXX: “Jeová”.
+====
+
+[[v18-9-3]]
+
+^<<v18-9-3,3>>^ Caso se agrade em contender com ele,
+Não lhe poderá responder uma vez em mil.
+
+[[v18-9-4]]
+
+^<<v18-9-4,4>>^ Ele é sábio de coração e forte em poder.
+Quem pode ser obstinado com ele e sair ileso?
+
+[[v18-9-5]]
+
+^<<v18-9-5,5>>^ Ele transfere montes, de modo que as pessoas nem sabem [deles],
+Ele é quem os subverteu na sua ira.
+
+[[v18-9-6]]
+
+^<<v18-9-6,6>>^ Faz a terra sair abalada do seu lugar,
+De modo que estremecem as suas próprias colunas.
+
+[[v18-9-7]]
+
+^<<v18-9-7,7>>^ Ele diz ao sol^&#42;1^ que não raie,
+E põe selo em volta das estrelas,
+
+[NOTE]
+====
+. “Ao sol.” Hebr.: la·hhé·res; gr.: he·lí·oi; lat.: só·li.
+====
+
+[[v18-9-8]]
+
+^<<v18-9-8,8>>^ Estendendo sozinho os céus
+E pisando nas ondas altas^&#42;1^ do mar;
+
+[NOTE]
+====
+. Lit.: “nos altos”.
+====
+
+[[v18-9-9]]
+
+^<<v18-9-9,9>>^ Fazendo a constelação de Ás,^&#42;1^ a constelação de Quesil,^&#42;2^
+E a constelação de Quima,^&#42;3^ e os quartos interiores do Sul;^&#42;4^
+
+[NOTE]
+====
+. “A constelação de Ás.” Hebr.: ‛Ash. Considerada por alguns como sendo a constelação da Ursa Maior.
+. “A constelação de Quesil.” Hebr.: Kesíl. Considerada por alguns como sendo a constelação de Órion (Caçador).
+. “E a constelação de Quima.” Hebr.: weKhi·máh. Considerada por alguns como sendo as Plêiades na constelação do Touro.
+. “Aquele que fez as Plêiades, e o Héspero, e Arcturo, e os depósitos do Sul”, LXX; Vg: “que faz Arcturo, e Órion, e as Híades e os quartos interiores do Sul”. Entende-se que os quartos interiores do Sul sejam as constelações abaixo do equador, no hemisfério sul.
+====
+
+[[v18-9-10]]
+
+^<<v18-9-10,10>>^ Fazendo grandes coisas inescrutáveis
+E inúmeras coisas maravilhosas.
+
+[[v18-9-11]]
+
+^<<v18-9-11,11>>^ Eis que ele passa por mim e eu não [o] vejo,
+E passa adiante e eu não o discirno.
+
+[[v18-9-12]]
+
+^<<v18-9-12,12>>^ Eis que ele arrebata. Quem lhe pode resistir?
+Quem lhe dirá: ‘Que estás fazendo?’
+
+[[v18-9-13]]
+
+^<<v18-9-13,13>>^ O próprio Deus^&#42;1^ não fará voltar a sua ira;
+Abaixo dele têm de encurvar-se os ajudadores dum arremetedor.^&#42;2^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elóh·ah. Veja 3:4 n.
+. “Arremetedor.” Hebr.: rá·hav. Veja 26:12 n.
+====
+
+[[v18-9-14]]
+
+^<<v18-9-14,14>>^ Quanto mais caso eu mesmo lhe respondesse!
+Vou escolher as minhas palavras para com ele,
+
+[[v18-9-15]]
+
+^<<v18-9-15,15>>^ A quem eu não responderia, mesmo que realmente tivesse razão.
+Eu imploraria o favor de meu oponente.
+
+[[v18-9-16]]
+
+^<<v18-9-16,16>>^ Se eu o chamasse, acaso me responderia?
+Não acredito que dê ouvidos à minha voz;
+
+[[v18-9-17]]
+
+^<<v18-9-17,17>>^ Aquele que me esmaga com uma tempestade
+E certamente multiplica os meus ferimentos por razão alguma.
+
+[[v18-9-18]]
+
+^<<v18-9-18,18>>^ Não me concederá estar tomando^&#42;1^ novo fôlego,
+Pois me farta de coisas amargas.
+
+[NOTE]
+====
+. “Estar tomando.” No hebr., este é um verbo no infinitivo absoluto, indefinido quanto ao tempo, sendo usado aqui como objeto do verbo “conceder”.
+====
+
+[[v18-9-19]]
+
+^<<v18-9-19,19>>^ Se há alguém forte em poder, ei[-lo]!^&#42;1^
+E se há [alguém forte] em justiça, tomara que eu seja convocado!
+
+[NOTE]
+====
+. “Ei-lo!” T; M: “Eis!”
+====
+
+[[v18-9-20]]
+
+^<<v18-9-20,20>>^ Se eu tivesse razão, minha própria boca^&#42;1^ me pronunciaria iníquo;
+Se eu fosse inculpe, então ele me declararia pervertido.
+
+[NOTE]
+====
+. “Minha própria boca”, MLXXSyVg; mediante uma correção do M: “sua própria boca”.
+====
+
+[[v18-9-21]]
+
+^<<v18-9-21,21>>^ Se eu fosse inculpe, eu não reconheceria a minha alma;
+Eu recusaria a minha vida.
+
+[[v18-9-22]]
+
+^<<v18-9-22,22>>^ Uma coisa há. Por isso é que deveras digo:
+‘Ao inculpe, também ao iníquo, ele leva ao seu fim.’
+
+[[v18-9-23]]
+
+^<<v18-9-23,23>>^ Se uma enxurrada^&#42;1^ causasse repentinamente a morte,
+Ele caçoaria do próprio desespero do inocente.
+
+[NOTE]
+====
+. “Flagelo”, mediante outra derivação da palavra hebr.
+====
+
+[[v18-9-24]]
+
+^<<v18-9-24,24>>^ A própria terra foi entregue na mão do iníquo;
+Ele encobre a face dos seus juízes.
+Se não [ele], então quem?
+
+[[v18-9-25]]
+
+^<<v18-9-25,25>>^ Também os meus próprios dias ficaram mais velozes do que um corredor;
+Fugiram; certamente não verão o que é bom.
+
+[[v18-9-26]]
+
+^<<v18-9-26,26>>^ Passaram adiante como barcos de canas,
+Como a águia que se lança velozmente de um lado para outro [em busca] de algo para comer.
+
+[[v18-9-27]]
+
+^<<v18-9-27,27>>^ Quando eu disse: ‘Vou esquecer-me da minha preocupação,
+Vou alterar meu semblante e ser risonho’,
+
+[[v18-9-28]]
+
+^<<v18-9-28,28>>^ Fiquei amedrontado com todas as minhas dores;
+Sei deveras que não me terás por inocente.
+
+[[v18-9-29]]
+
+^<<v18-9-29,29>>^ Eu mesmo hei de tornar-me iníquo.
+Por que é que labuto apenas em vão?
+
+[[v18-9-30]]
+
+^<<v18-9-30,30>>^ Se eu realmente me lavasse em água de neve
+E realmente limpasse as minhas mãos^&#42;1^ em potassa,
+
+[NOTE]
+====
+. Ou “palmas”.
+====
+
+[[v18-9-31]]
+
+^<<v18-9-31,31>>^ Então me mergulharias numa cova,
+E meus mantos certamente me detestariam.
+
+[[v18-9-32]]
+
+^<<v18-9-32,32>>^ Pois ele não é homem igual a mim [para] eu lhe responder,
+Para entrarmos juntos em julgamento.
+
+[[v18-9-33]]
+
+^<<v18-9-33,33>>^ Não há^&#42;1^ pessoa para decidir^&#42;2^ entre nós,
+Que ponha a mão em nós dois.
+
+[NOTE]
+====
+. “Não há”, MVg; LXX: “Se tão-somente houvesse.”
+. Ou “mediador”. Gr.: me·sí·tes, como em 1Ti 2:5.
+====
+
+[[v18-9-34]]
+
+^<<v18-9-34,34>>^ Remova ele de mim a sua vara,
+E não me apavore a sua terribilidade.
+
+[[v18-9-35]]
+
+^<<v18-9-35,35>>^ Vou falar e não ter medo dele,
+Pois não estou disposto a isso no meu íntimo.
+
+'''
+
+xref:018-jo/018-jo-008.adoc#v18-8-0[&#60; Capítulo Anterior] | <<v18-9-0,Topo>> | xref:018-jo/018-jo-010.adoc#v18-10-0[Próximo Capítulo &#62;]

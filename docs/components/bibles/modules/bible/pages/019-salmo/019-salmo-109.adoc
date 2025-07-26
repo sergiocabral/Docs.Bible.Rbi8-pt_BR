@@ -1,0 +1,197 @@
+include::./index.adoc[]
+
+[[v19-109-0]]
+=== Salmos, 109
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. De Davi. Uma melodia._
+
+[[v19-109-1]]
+
+^<<v19-109-1,1>>^ Ó Deus de meu louvor, não fiques calado.
+
+[[v19-109-2]]
+
+^<<v19-109-2,2>>^ Pois a boca do iníquo e a boca do engano se abriram contra mim.
+Falaram de mim com a língua da falsidade;
+
+[[v19-109-3]]
+
+^<<v19-109-3,3>>^ E cercaram-me com palavras de ódio,
+E estão lutando contra mim sem causa alguma.
+
+[[v19-109-4]]
+
+^<<v19-109-4,4>>^ Em troca de meu amor continuam a resistir-me;
+Da minha parte, porém, há oração.
+
+[[v19-109-5]]
+
+^<<v19-109-5,5>>^ E compensam-me com o mal pelo bem
+E com ódio pelo meu amor.
+
+[[v19-109-6]]
+
+^<<v19-109-6,6>>^ Encarrega dele alguém iníquo,
+E fique mesmo um opositor^&#42;1^ parado à sua direita.
+
+[NOTE]
+====
+. “E . . . um opositor.” Hebr.: wesa·tán; LXXVg: “o Diabo”.
+====
+
+[[v19-109-7]]
+
+^<<v19-109-7,7>>^ Quando for julgado, saia ele como iníquo;
+E a própria oração dele torne-se pecado.
+
+[[v19-109-8]]
+
+^<<v19-109-8,8>>^ Mostrem ser poucos os seus dias;
+Tome outro seu cargo de superintendência.^&#42;1^
+
+[NOTE]
+====
+. “Seu cargo de superintendência.” Hebr.: pequd·da·thóh; gr.: e·pi·sko·pén au·toú; lat.: e·pi·sco·pá·tum é·ius. Veja 2Rs 11:18; At 1:20.
+====
+
+[[v19-109-9]]
+
+^<<v19-109-9,9>>^ Tornem-se os seus filhos meninos órfãos de pai
+E seja viúva a sua esposa.
+
+[[v19-109-10]]
+
+^<<v19-109-10,10>>^ E que seus filhos, sem falta, andem errantes;
+E eles terão de mendigar,
+E dos seus lugares desolados terão de buscar [alimento].
+
+[[v19-109-11]]
+
+^<<v19-109-11,11>>^ Arme o agiota ciladas a tudo o que ele tem
+E saqueiem os estranhos o fruto da sua labuta.
+
+[[v19-109-12]]
+
+^<<v19-109-12,12>>^ Não venha ele a ter ninguém que use de benevolência,
+E não venha a haver ninguém que mostre favor aos seus meninos órfãos de pai.
+
+[[v19-109-13]]
+
+^<<v19-109-13,13>>^ Seja a sua posteridade para o decepamento.
+Seja extinto o nome deles na geração seguinte.
+
+[[v19-109-14]]
+
+^<<v19-109-14,14>>^ Seja lembrado a Jeová o erro dos seus antepassados,
+E o pecado de sua mãe — não seja ele extinto.
+
+[[v19-109-15]]
+
+^<<v19-109-15,15>>^ Mostrem estar constantemente diante de Jeová;
+E decepe ele a recordação^&#42;1^ deles da própria terra;
+
+[NOTE]
+====
+. Ou “menção”.
+====
+
+[[v19-109-16]]
+
+^<<v19-109-16,16>>^ Visto que não se lembrou de usar de benevolência,
+Mas continuou a perseguir ao homem^&#42;1^ atribulado e pobre,
+E ao de coração desalentado, para [o] entregar à morte.
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’ish.
+====
+
+[[v19-109-17]]
+
+^<<v19-109-17,17>>^ E ele amava a invocação do mal, de modo que ela veio sobre ele;
+E não se agradou da bênção,
+De modo que ela ficou longe dele;
+
+[[v19-109-18]]
+
+^<<v19-109-18,18>>^ E ele ficou revestido da invocação do mal como sua veste.
+De modo que entrou como águas no seu íntimo
+E como óleo nos seus ossos.
+
+[[v19-109-19]]
+
+^<<v19-109-19,19>>^ Torne-se para ele como uma roupa em que se envolve
+E como uma cinta de que se cinge constantemente.
+
+[[v19-109-20]]
+
+^<<v19-109-20,20>>^ Da parte de Jeová é esta a remuneração daquele que se me opõe
+E daqueles que falam mal contra a minha alma.
+
+[[v19-109-21]]
+
+^<<v19-109-21,21>>^ Mas tu és Jeová, o Soberano Senhor.
+Lida comigo por causa do teu nome.
+Livra-me, porque tua benevolência é boa.
+
+[[v19-109-22]]
+
+^<<v19-109-22,22>>^ Pois estou atribulado e sou pobre,
+E meu próprio coração foi traspassado^&#42;1^ no meu íntimo.
+
+[NOTE]
+====
+. Lit.: “alguém traspassou meu próprio coração”.
+====
+
+[[v19-109-23]]
+
+^<<v19-109-23,23>>^ Como a sombra quando declina, sou obrigado a ir-me embora;
+Fui sacudido fora como um gafanhoto.
+
+[[v19-109-24]]
+
+^<<v19-109-24,24>>^ Meus joelhos vacilaram devido ao jejum
+E minha própria carne emagreceu, sem qualquer óleo.
+
+[[v19-109-25]]
+
+^<<v19-109-25,25>>^ E eu mesmo me tornei para eles algo vituperável.
+Eles me vêem — começam a menear a cabeça.
+
+[[v19-109-26]]
+
+^<<v19-109-26,26>>^ Ajuda-me, ó Jeová, meu Deus;
+Salva-me segundo a tua benevolência.
+
+[[v19-109-27]]
+
+^<<v19-109-27,27>>^ E saibam eles que esta é a tua mão;
+Que foste tu que o fizeste, ó Jeová.
+
+[[v19-109-28]]
+
+^<<v19-109-28,28>>^ Que eles, da sua parte, façam uma invocação do mal,
+Mas que tu, da tua parte, pronuncies uma bênção.
+Levantaram-se, mas sejam envergonhados,
+E alegre-se o teu próprio servo.
+
+[[v19-109-29]]
+
+^<<v19-109-29,29>>^ Revistam-se de humilhação os que se me opõem,
+E envolvam-se na sua vergonha como se fosse uma túnica sem mangas.
+
+[[v19-109-30]]
+
+^<<v19-109-30,30>>^ Elogiarei muitissimamente a Jeová com a minha boca,
+E o louvarei entre muitas pessoas.
+
+[[v19-109-31]]
+
+^<<v19-109-31,31>>^ Porque estará de pé à direita do pobre,
+Para salvá-lo dos que julgam a sua alma.
+
+'''
+
+xref:019-salmo/019-salmo-108.adoc#v19-108-0[&#60; Capítulo Anterior] | <<v19-109-0,Topo>> | xref:019-salmo/019-salmo-110.adoc#v19-110-0[Próximo Capítulo &#62;]

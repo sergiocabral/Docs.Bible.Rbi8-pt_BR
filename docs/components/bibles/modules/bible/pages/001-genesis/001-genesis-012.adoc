@@ -1,0 +1,124 @@
+include::./index.adoc[]
+
+[[v1-12-0]]
+=== Gênesis, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-12-1]]
+
+^<<v1-12-1,1>>^ E Jeová passou a dizer a Abrão: “Sai da tua terra, e da tua parentela,^&#42;1^ e da casa de teu pai, para a terra que te mostrarei;
+
+[NOTE]
+====
+. Ou “lar”.
+====
+
+[[v1-12-2]]
+
+^<<v1-12-2,2>>^ e farei de ti uma grande nação e te abençoarei, e hei de engrandecer o teu nome; e mostra-te uma bênção.
+
+[[v1-12-3]]
+
+^<<v1-12-3,3>>^ E hei de abençoar os que te abençoarem e amaldiçoarei aquele que invocar o mal sobre ti, e todas as famílias do solo certamente abençoarão a si mesmas^&#42;1^ por meio de ti.”
+
+[NOTE]
+====
+. “Serão abençoadas”, LXXVg. Veja 22:18 n.
+====
+
+[[v1-12-4]]
+
+^<<v1-12-4,4>>^ Em vista disso, Abrão foi como Jeová lhe falara e Ló foi com ele. E Abrão tinha setenta e cinco anos de idade quando saiu de Harã.
+
+[[v1-12-5]]
+
+^<<v1-12-5,5>>^ Abrão tomou, pois, Sarai, sua esposa, e Ló, filho de seu irmão, e todos os bens que tinham acumulado e as almas que tinham adquirido em Harã, e eles passaram a sair, a fim de ir para a terra de Canaã. Por fim chegaram à terra de Canaã.
+
+[[v1-12-6]]
+
+^<<v1-12-6,6>>^ E Abrão atravessou o país até o lugar de Siquém,^&#42;1^ perto das árvores grandes de Moré; e naquele tempo havia o cananeu no país.
+
+[NOTE]
+====
+. Agora vinculada com Nablus, especialmente com o vizinho Tel Balatah.
+====
+
+[[v1-12-7]]
+
+^<<v1-12-7,7>>^ Jeová apareceu então a Abrão e disse: “Vou dar esta terra à tua descendência.” Depois, ele construiu ali um altar a Jeová, que lhe havia aparecido.
+
+[[v1-12-8]]
+
+^<<v1-12-8,8>>^ Mais tarde mudou-se dali para a região montanhosa ao leste de Betel e armou a sua tenda com Betel ao oeste e Ai ao leste. Então construiu ali um altar a Jeová e começou a invocar o nome^&#42;1^ de Jeová.
+
+[NOTE]
+====
+. Ou “declarar (pregar) o nome”. Veja Êx 34:5.
+====
+
+[[v1-12-9]]
+
+^<<v1-12-9,9>>^ Posteriormente, Abrão levantou acampamento, indo de acampamento em acampamento para o Negebe.^&#42;1^
+
+[NOTE]
+====
+. Ou “o sul”, quer dizer, a parte sulina da Terra da Promessa.
+====
+
+[[v1-12-10]]
+
+^<<v1-12-10,10>>^ Houve então uma fome no país e Abrão se encaminhou para baixo ao Egito, a fim de residir ali como forasteiro, porque a fome era severa no país.
+
+[[v1-12-11]]
+
+^<<v1-12-11,11>>^ E sucedeu que, assim que chegou perto para entrar no Egito, ele disse então a Sarai, sua esposa: “Agora, por favor, bem sei que és mulher de bela aparência.
+
+[[v1-12-12]]
+
+^<<v1-12-12,12>>^ Assim, forçosamente há de acontecer que os egípcios te verão e dirão: ‘Esta é a esposa dele.’ E eles certamente me matarão, mas a ti te preservarão viva.
+
+[[v1-12-13]]
+
+^<<v1-12-13,13>>^ Dize, por favor, que és minha irmã, a fim de que me vá bem por tua causa, e minha alma por certo viverá devido a ti.”
+
+[[v1-12-14]]
+
+^<<v1-12-14,14>>^ E aconteceu que, assim que Abrão entrou no Egito, os egípcios chegaram a ver a mulher, que ela era muito bela.
+
+[[v1-12-15]]
+
+^<<v1-12-15,15>>^ E os príncipes de Faraó^&#42;1^ também chegaram a vê-la e começaram a louvá-la diante de Faraó, de modo que a mulher foi levada para a casa de Faraó.
+
+[NOTE]
+====
+. O título “Faraó” aparece em todo o M sem o artigo definido.
+====
+
+[[v1-12-16]]
+
+^<<v1-12-16,16>>^ E este tratou bem a Abrão por causa dela, e ele veio a ter ovelhas, e gado vacum, e jumentos, e servos, e servas, e jumentas, e camelos.
+
+[[v1-12-17]]
+
+^<<v1-12-17,17>>^ Jeová tocou então Faraó e os da sua casa com grandes pragas, por causa de Sarai, esposa de Abrão.
+
+[[v1-12-18]]
+
+^<<v1-12-18,18>>^ Em vista disso, Faraó chamou Abrão e disse: “Que é isto que me fizeste? Por que não me informaste de que ela era a tua esposa?
+
+[[v1-12-19]]
+
+^<<v1-12-19,19>>^ Por que disseste: ‘Ela é minha irmã’, de modo que eu estava para tomá-la por minha esposa? E agora, eis a tua esposa. Toma-a e vai-te!”
+
+[[v1-12-20]]
+
+^<<v1-12-20,20>>^ E Faraó deu ordens aos homens concernente a ele, e foram escoltar a ele e a sua esposa, e a tudo o que tinha.^&#42;1^
+
+[NOTE]
+====
+. SamLXX acrescentam: “e Ló com ele”.
+====
+
+'''
+
+xref:001-genesis/001-genesis-011.adoc#v1-11-0[&#60; Capítulo Anterior] | <<v1-12-0,Topo>> | xref:001-genesis/001-genesis-013.adoc#v1-13-0[Próximo Capítulo &#62;]

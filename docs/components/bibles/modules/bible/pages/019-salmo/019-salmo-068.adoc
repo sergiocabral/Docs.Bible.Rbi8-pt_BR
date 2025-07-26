@@ -1,0 +1,300 @@
+include::./index.adoc[]
+
+[[v19-68-0]]
+=== Salmos, 68
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. De Davi. Uma melodia, um cântico._
+
+[[v19-68-1]]
+
+^<<v19-68-1,1>>^ Levante-se Deus, sejam espalhados seus inimigos,
+E fujam por causa dele os que o odeiam intensamente.
+
+[[v19-68-2]]
+
+^<<v19-68-2,2>>^ Que tu os faças debandar assim como a fumaça é impelida;
+Como a cera se derrete por causa do fogo,
+[Assim] pereçam os iníquos diante de Deus.
+
+[[v19-68-3]]
+
+^<<v19-68-3,3>>^ Os justos, porém, alegrem-se,
+Regozijem-se eles diante de Deus
+E exultem com alegria.
+
+[[v19-68-4]]
+
+^<<v19-68-4,4>>^ Cantai a Deus, entoai melodias ao seu nome;
+Alteai [um cântico] Àquele que cavalga através das planícies desérticas
+Como Jah,^&#42;1^ que é seu nome, e rejubilai diante dele;
+
+[NOTE]
+====
+. “Como Jah.” BHSn.(hebr.): ki Yah; M(hebr.): beYáh, “por Jah”. Yah é a primeira metade do Tetragrama: YHWH. Ocorre 49 vezes no M, diferenciado por um ponto (mappik) na sua segunda letra, e uma vez, em Cân 8:6, sem o mappik. TLXXSyVg: “Jeová”. Veja Êx 15:2 n.: “Jah”; Ap. 1A.
+====
+
+[[v19-68-5]]
+
+^<<v19-68-5,5>>^ Pai de meninos órfãos de pai e juiz de viúvas
+É Deus na sua santa habitação.
+
+[[v19-68-6]]
+
+^<<v19-68-6,6>>^ Deus faz os solitários morar numa^&#42;1^ casa;
+Faz sair os prisioneiros à plena prosperidade.
+No entanto, no que se refere aos obstinados, têm de residir numa terra causticada.
+
+[NOTE]
+====
+. Segundo M; mediante uma ligeira correção do verbo hebr.: “trazendo de volta os solitários a”.
+====
+
+[[v19-68-7]]
+
+^<<v19-68-7,7>>^ Ó Deus, quando saíste diante do teu povo,
+Quando marchaste através do deserto — Selá —
+
+[[v19-68-8]]
+
+^<<v19-68-8,8>>^ A própria terra tremeu,
+Também o próprio céu gotejou por causa de Deus;
+Este Sinai [tremeu] por causa de Deus, o Deus de Israel.
+
+[[v19-68-9]]
+
+^<<v19-68-9,9>>^ Começaste a fazer cair uma chuvada copiosa, ó Deus;
+Tua herança, mesmo quando estava fatigada — tu mesmo a revigoraste.
+
+[[v19-68-10]]
+
+^<<v19-68-10,10>>^ Tua comunidade da tenda — nela moraram;
+Na tua bondade passaste a prepará-la para o atribulado, ó Deus.
+
+[[v19-68-11]]
+
+^<<v19-68-11,11>>^ O próprio Jeová^&#42;1^ dá a declaração;
+As mulheres que anunciam boas novas são um grande exército.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-68-12]]
+
+^<<v19-68-12,12>>^ Até mesmo os reis de exércitos fogem, eles fogem.
+Quanto àquela que permanece em casa, ela participa no despojo.
+
+[[v19-68-13]]
+
+^<<v19-68-13,13>>^ Embora ficásseis deitados entre os montes de cinzas^&#42;1^ [do acampamento],
+Haverá as asas duma pomba, revestidas de prata,
+E suas plumas, de ouro^&#42;2^ amarelo-esverdeado.
+
+[NOTE]
+====
+. Ou “alforjes”; ou: “apriscos”. O significado da palavra hebr. é incerto.
+. “Ouro.” Hebr.: hha·rúts.
+====
+
+[[v19-68-14]]
+
+^<<v19-68-14,14>>^ Quando o Todo-poderoso^&#42;1^ dispersou^&#42;2^ nela^&#42;3^ os reis,
+Começou a nevar em Zalmom.
+
+[NOTE]
+====
+. “O Todo-poderoso.” Hebr.: Shad·daí.
+. Ou “espalhou”.
+. “Nela”, hebr. fem., referindo-se à terra.
+====
+
+[[v19-68-15]]
+
+^<<v19-68-15,15>>^ A região montanhosa^&#42;1^ de Basã é um monte de Deus;^&#42;2^
+A região montanhosa de Basã é um monte de picos.
+
+[NOTE]
+====
+. Ou: “O monte.” Hebr.: har.
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v19-68-16]]
+
+^<<v19-68-16,16>>^ Por que estais vigiando com inveja, ó montes de picos,
+O monte que Deus desejou para si, para morar?
+Sim, o próprio Jeová residirá [ali] para sempre.
+
+[[v19-68-17]]
+
+^<<v19-68-17,17>>^ Os carros de guerra de Deus são dezenas de milhares, milhares repetidos vez após vez.
+O próprio Jeová chegou de Sinai^&#42;1^ ao lugar santo.
+
+[NOTE]
+====
+. “O próprio Jeová chegou de Sinai”, segundo uma versão proposta do texto hebr. e em harmonia com De 33:2; M: “O Soberano Senhor [hebr.: ’Adho·naí] está entre eles, [em] Sinai.” Veja v. 11 n.
+====
+
+[[v19-68-18]]
+
+^<<v19-68-18,18>>^ Ascendeste ao alto;
+Levaste contigo cativos;
+Tomaste dádivas em forma de homens,^&#42;1^
+Sim, mesmo os obstinados, para residir [entre eles], ó Jah,^&#42;2^ Deus.^&#42;3^
+
+[NOTE]
+====
+. Lit.: “nos homens”. Hebr.: ba·’a·dhám.
+. Veja v. 4 n.
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v19-68-19]]
+
+^<<v19-68-19,19>>^ Bendito seja Jeová,^&#42;1^ que diariamente carrega o fardo para nós,
+O [verdadeiro] Deus de nossa salvação. Selá.
+
+[NOTE]
+====
+. “Bendito seja Jeová.” Hebr.: ba·rúkh ’Adho·naí; LXXBagster(gr.): Ký·ri·os ho The·ós eu·lo·ge·tós, eu·lo·ge·tós Ký·ri·os, “Jeová Deus [seja] bendito, bendito [seja] Jeová”. Veja Ap. 1B, 6D.
+====
+
+[[v19-68-20]]
+
+^<<v19-68-20,20>>^ O [verdadeiro] Deus é para nós um Deus^&#42;1^ de atos salvadores;
+E a Jeová, o Soberano Senhor, pertencem as saídas^&#42;2^ da morte.
+
+[NOTE]
+====
+. “Deus de.” Hebr.: ’El.
+. Ou “fugas”.
+====
+
+[[v19-68-21]]
+
+^<<v19-68-21,21>>^ Deveras, o próprio Deus rachará a cabeça dos seus inimigos,
+O cabeludo alto da cabeça de todo aquele que anda na sua culpa.
+
+[[v19-68-22]]
+
+^<<v19-68-22,22>>^ Jeová^&#42;1^ disse: “De Basã trarei de volta,
+Eu [os] trarei de volta das^&#42;2^ profundezas do mar,
+
+[NOTE]
+====
+. Veja v. 11 n.
+. “Das”, MSy; TLXXVg: “através das”.
+====
+
+[[v19-68-23]]
+
+^<<v19-68-23,23>>^ A fim de que laves^&#42;1^ teu pé em sangue,
+Para que a língua dos teus cães tenha a sua porção da parte dos inimigos.”
+
+[NOTE]
+====
+. “Laves”, mediante uma correção do M para concordar com LXXSyVg.
+====
+
+[[v19-68-24]]
+
+^<<v19-68-24,24>>^ Eles viram os teus cortejos, ó Deus,
+Os cortejos de meu Deus,^&#42;1^ meu Rei, entrando no lugar santo.
+
+[NOTE]
+====
+. “Meu Deus.” Hebr.: ’E·lí.
+====
+
+[[v19-68-25]]
+
+^<<v19-68-25,25>>^ Os cantores iam na frente, os que tocavam instrumentos de cordas, atrás deles;
+No meio vinham as donzelas batendo pandeiros.
+
+[[v19-68-26]]
+
+^<<v19-68-26,26>>^ Em multidões congregadas,^&#42;1^ bendizei a Deus,
+Jeová,^&#42;2^ [vós os que sois] da Fonte de Israel.
+
+[NOTE]
+====
+. “Em eclésias”, LXXVg.
+. “Jeová.” Hebr.: Yehwáh; muitos mss. e ed. hebr.: ’Adho·naí. Veja Ap. 1B.
+====
+
+[[v19-68-27]]
+
+^<<v19-68-27,27>>^ Ali está o pequeno Benjamim subjugando-os,
+Os príncipes de Judá, com sua multidão clamante,
+Os príncipes de Zebulão, os príncipes de Naftali.
+
+[[v19-68-28]]
+
+^<<v19-68-28,28>>^ Teu Deus deu ordem à tua força.
+Mostra deveras a tua força, ó Deus, tu que agiste por nós.
+
+[[v19-68-29]]
+
+^<<v19-68-29,29>>^ Por causa do teu templo em Jerusalém,
+Reis trarão dádivas a ti mesmo.
+
+[[v19-68-30]]
+
+^<<v19-68-30,30>>^ Censura a fera do canavial, a assembléia dos touros,^&#42;1^
+Com os bezerros dos povos, cada um pisando em peças de prata.
+Espalhou^&#42;2^ os povos que se agradam em pelejas.
+
+[NOTE]
+====
+. Lit.: “poderosos”.
+. “Espalhou”, MT; LXXSyVg: “Espalha[!]”.
+====
+
+[[v19-68-31]]
+
+^<<v19-68-31,31>>^ Objetos de bronze^&#42;1^ virão procedentes do Egito;
+O próprio Cus^&#42;2^ estenderá rapidamente as mãos [com dádivas] para Deus.
+
+[NOTE]
+====
+. “Objetos de bronze.” Hebr.: hhash·man·ním, de significado incerto; LXXSyVg: “Embaixadores”.
+. “Cus”, MSy; LXXVg: “Etiópia”.
+====
+
+[[v19-68-32]]
+
+^<<v19-68-32,32>>^ Ó reinos da terra, cantai a Deus,
+Entoai melodias a Jeová^&#42;1^ — Selá —
+
+[NOTE]
+====
+. Veja v. 11 n.
+====
+
+[[v19-68-33]]
+
+^<<v19-68-33,33>>^ Àquele que cavalga sobre o antigo céu dos céus.
+Eis que faz ressoar a sua voz, uma voz forte.
+
+[[v19-68-34]]
+
+^<<v19-68-34,34>>^ Atribuí força a Deus.
+Sua alteza está sobre Israel e sua força está nas nuvens.
+
+[[v19-68-35]]
+
+^<<v19-68-35,35>>^ Deus é atemorizante desde o teu grandioso santuário.^&#42;1^
+O Deus de Israel^&#42;2^ é ele, dando força, sim, poderio ao povo.
+Bendito seja Deus.
+
+[NOTE]
+====
+. Lit.: “santuários”.
+. “O Deus de Israel.” Mediante a mudança dos sinais vocálicos: “A Israel.” Hebr.: ’El Yis·ra·’él; LXXSyVg: “O Deus de Israel.”
+====
+
+'''
+
+xref:019-salmo/019-salmo-067.adoc#v19-67-0[&#60; Capítulo Anterior] | <<v19-68-0,Topo>> | xref:019-salmo/019-salmo-069.adoc#v19-69-0[Próximo Capítulo &#62;]

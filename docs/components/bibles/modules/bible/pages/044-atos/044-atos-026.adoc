@@ -1,0 +1,172 @@
+include::./index.adoc[]
+
+[[v44-26-0]]
+=== Atos, 26
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v44-26-1]]
+
+^<<v44-26-1,1>>^ Agripa disse a Paulo: “Tens permissão de falar em teu favor.” Paulo estendeu então a mão e passou a dizer em sua defesa:
+
+[[v44-26-2]]
+
+^<<v44-26-2,2>>^ “Concernente a todas as coisas de que sou acusado pelos judeus, Rei Agripa, considero-me feliz de que é diante de ti que hoje devo fazer a minha defesa,
+
+[[v44-26-3]]
+
+^<<v44-26-3,3>>^ especialmente visto que tu és perito em todos os costumes bem como nas controvérsias entre os judeus. Portanto, rogo-te que me ouças pacientemente.
+
+[[v44-26-4]]
+
+^<<v44-26-4,4>>^ “Deveras, quanto à minha maneira de viver desde a mocidade, desde [o] princípio, entre a minha nação e em Jerusalém, todos os judeus
+
+[[v44-26-5]]
+
+^<<v44-26-5,5>>^ que já me conheciam desde o início, se quiserem dar testemunho, sabem que vivi como fariseu, segundo a seita mais estrita da nossa forma de adoração.^&#42;1^
+
+[NOTE]
+====
+. Ou “seita de nossa religião”. Lat.: séc·tam nó·strae re·li·gi·ó·nis.
+====
+
+[[v44-26-6]]
+
+^<<v44-26-6,6>>^ Contudo, agora estou sendo chamado a julgamento pela esperança da promessa que Deus fizera aos nossos antepassados,
+
+[[v44-26-7]]
+
+^<<v44-26-7,7>>^ ao passo que as nossas doze tribos estão esperando alcançar o cumprimento desta promessa por lhe prestarem intensamente serviço sagrado,^&#42;1^ noite e dia. Concernente a esta esperança estou sendo acusado pelos judeus, ó rei.
+
+[NOTE]
+====
+. Lit.: “prestarem . . . serviço sagrado” (sem “lhe”). J13-17: “servirem (adorarem) . . . a Jeová”.
+====
+
+[[v44-26-8]]
+
+^<<v44-26-8,8>>^ “Por que se julga incrível entre vós que Deus levante os mortos?
+
+[[v44-26-9]]
+
+^<<v44-26-9,9>>^ Eu, da minha parte, realmente pensei no meu íntimo que devia cometer muitos atos de oposição contra o nome de Jesus, o nazareno,
+
+[[v44-26-10]]
+
+^<<v44-26-10,10>>^ o que, de fato, fiz em Jerusalém, e a muitos dos santos encerrei em prisões, visto que eu tinha recebido autoridade dos principais sacerdotes; e quando eles estavam para ser executados, eu lançava o meu voto^&#42;1^ contra eles.
+
+[NOTE]
+====
+. Lit.: “seixo [de votação]”. Gr.: psé·fon. Veja Re 2:17 n.: “seixo”.
+====
+
+[[v44-26-11]]
+
+^<<v44-26-11,11>>^ E, punindo-os muitas vezes, em todas as sinagogas, tentei obrigá-los a fazer uma retratação; e, visto que eu estava extremamente enfurecido contra eles, fui ao ponto de persegui-los até mesmo nas cidades de fora.
+
+[[v44-26-12]]
+
+^<<v44-26-12,12>>^ “No meio destes esforços viajava eu para Damasco, com autoridade e comissão da parte dos principais sacerdotes, quando
+
+[[v44-26-13]]
+
+^<<v44-26-13,13>>^ vi ao meio-dia, na estrada, ó rei, uma luz, além do brilho do sol, reluzir do céu em volta de mim e em volta dos que viajavam comigo.
+
+[[v44-26-14]]
+
+^<<v44-26-14,14>>^ E caindo todos nós ao chão, ouvi uma voz dizer-me no idioma hebraico: ‘Saulo, Saulo, por que me persegues? Duro te é persistir em dar pontapés contra as aguilhadas.’
+
+[[v44-26-15]]
+
+^<<v44-26-15,15>>^ Mas eu disse: ‘Quem és, Senhor?’ E o Senhor disse: ‘Eu sou Jesus, a quem tu persegues.
+
+[[v44-26-16]]
+
+^<<v44-26-16,16>>^ Não obstante, levanta-te e fica de pé. Pois, para este fim me tornei visível a ti, a fim de te escolher como assistente e testemunha, tanto das coisas que viste como das coisas que eu te farei ver com respeito a mim;
+
+[[v44-26-17]]
+
+^<<v44-26-17,17>>^ ao passo que eu te livro [deste] povo e das nações às quais te envio,
+
+[[v44-26-18]]
+
+^<<v44-26-18,18>>^ para abrires os seus olhos, para os desviares da escuridão para a luz e da autoridade de Satanás para Deus, a fim de que recebam perdão de pecados e uma herança entre os santificados pela [sua] fé em mim.’
+
+[[v44-26-19]]
+
+^<<v44-26-19,19>>^ “Portanto, Rei Agripa, não me tornei desobediente à visão celestial,
+
+[[v44-26-20]]
+
+^<<v44-26-20,20>>^ mas, tanto aos em Damasco, primeiro, como aos em Jerusalém, e por todo o país da Judéia, e às nações, fui levar a mensagem de que se arrependessem e se voltassem para Deus por fazerem obras próprias de arrependimento.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “mudança de idéia”. Gr.: me·ta·noí·as.
+====
+
+[[v44-26-21]]
+
+^<<v44-26-21,21>>^ Por esta razão se apoderaram de mim os judeus no templo e tentaram matar-me.
+
+[[v44-26-22]]
+
+^<<v44-26-22,22>>^ No entanto, visto que obtive a ajuda que vem de Deus, continuo até o dia de hoje a dar testemunho tanto a pequenos como a grandes, mas, sem dizer nada exceto as coisas que os Profetas, bem como Moisés, declararam que iam ocorrer,
+
+[[v44-26-23]]
+
+^<<v44-26-23,23>>^ que o Cristo havia de sofrer, e que, como primeiro a ser ressuscitado^&#42;1^ dentre os mortos, ele ia publicar luz tanto a este povo como às nações.”
+
+[NOTE]
+====
+. Lit.: “primeiro dentre a ressurreição”.
+====
+
+[[v44-26-24]]
+
+^<<v44-26-24,24>>^ Ora, ao dizer estas coisas em sua defesa, Festo disse em voz alta: “Estás ficando louco, Paulo! A grande erudição está-te levando à loucura!”
+
+[[v44-26-25]]
+
+^<<v44-26-25,25>>^ Mas Paulo disse: “Não estou ficando louco, Excelência, Festo, mas estou proferindo declarações de verdade e de bom juízo.
+
+[[v44-26-26]]
+
+^<<v44-26-26,26>>^ Na realidade, o rei a quem estou falando com franqueza bem sabe estas coisas; pois estou persuadido de que nem uma única destas coisas lhe passou despercebida, porque esta coisa não se fez a um canto.
+
+[[v44-26-27]]
+
+^<<v44-26-27,27>>^ Crês tu nos Profetas, Rei Agripa? Sei que crês.”
+
+[[v44-26-28]]
+
+^<<v44-26-28,28>>^ Mas Agripa disse a Paulo: “Em pouco tempo me persuadirias a tornar-me cristão.”^&#42;1^
+
+[NOTE]
+====
+. “Cristão.” Gr.: Khri·sti·a·nón; lat.: Chri·sti·á·num.
+====
+
+[[v44-26-29]]
+
+^<<v44-26-29,29>>^ A isso Paulo disse: “Quisera eu, perante Deus, quer em pouco tempo quer com muito tempo, que não somente tu, mas também todos os que hoje me ouvem se tornassem homens tais como também eu sou, com a exceção destes laços.”
+
+[[v44-26-30]]
+
+^<<v44-26-30,30>>^ E o rei se levantou, e o mesmo fizeram o governador e Berenice, e os homens sentados com eles.
+
+[[v44-26-31]]
+
+^<<v44-26-31,31>>^ Mas, ao se retirarem, começaram a falar entre si, dizendo: “Este homem não pratica nada que mereça a morte ou laços.”
+
+[[v44-26-32]]
+
+^<<v44-26-32,32>>^ Além disso, Agripa disse a Festo: “Este homem podia ter sido livrado, se não tivesse apelado para César.”^&#42;1^
+
+[NOTE]
+====
+. Ou “o imperador”.
+====
+
+'''
+
+xref:044-atos/044-atos-025.adoc#v44-25-0[&#60; Capítulo Anterior] | <<v44-26-0,Topo>> | xref:044-atos/044-atos-027.adoc#v44-27-0[Próximo Capítulo &#62;]

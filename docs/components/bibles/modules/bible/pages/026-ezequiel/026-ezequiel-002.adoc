@@ -1,0 +1,64 @@
+include::./index.adoc[]
+
+[[v26-2-0]]
+=== Ezequiel, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v26-2-1]]
+
+^<<v26-2-1,1>>^ E ele passou a dizer-me: “Filho do homem,^&#42;1^ põe-te de pé para que eu fale contigo.”
+
+[NOTE]
+====
+. “Filho do homem.” Hebr.: ben-’a·dhám; esta é a primeira de 93 ocorrências desta expressão em Ezequiel. Gr.: hui·é an·thró·pou; lat.: fí·li hó·mi·nis.
+====
+
+[[v26-2-2]]
+
+^<<v26-2-2,2>>^ E assim que ele falou comigo passou a entrar em mim espírito e este^&#42;1^ finalmente me fez ficar de pé para ouvir Aquele que falava comigo.
+
+[NOTE]
+====
+. “Este”, no hebr. fem., referindo-se a “espírito”, hebr. fem.
+====
+
+[[v26-2-3]]
+
+^<<v26-2-3,3>>^ E ele prosseguiu, dizendo-me: “Filho do homem, envio-te aos filhos de Israel, a nações rebeldes que se rebelaram contra mim. Eles mesmos, bem como seus antepassados, transgrediram contra mim até o próprio dia de hoje.
+
+[[v26-2-4]]
+
+^<<v26-2-4,4>>^ E a filhos de face insolente e de coração duro — a estes te envio, e tens de dizer-lhes: ‘Assim disse o Soberano Senhor Jeová.’^&#42;1^
+
+[NOTE]
+====
+. “O Soberano Senhor Jeová.” Hebr.: ’Adho·naí Yeho·wíh, estando ’Adho·naí no pl. para denotar excelência, sendo por isso vertido por “Soberano Senhor”; T: “Jeová Deus”; Sy: “o Senhor de senhores”; lat.: Dó·mi·nus Dé·us; Lutero (em alemão, ed. de 1912): der Herr HErr, “o Senhor SENHOR (Jeová)”. A primeira ocorrência desta expressão está em Gên 15:2, e ela aparece 217 vezes em Ezequiel. Veja Ap. 1E.
+====
+
+[[v26-2-5]]
+
+^<<v26-2-5,5>>^ E quanto a eles, quer ouçam quer se refreiem [de ouvir] — pois são uma casa rebelde — hão de saber também que veio a haver mesmo um profeta no seu meio.
+
+[[v26-2-6]]
+
+^<<v26-2-6,6>>^ “E tu, ó filho do homem, não tenhas medo deles; e não tenhas medo das suas palavras, por haver os obstinados, e coisas que te picam, e por estares morando entre escorpiões. Não tenhas medo das suas palavras e não fiques aterrorizado diante das suas faces, pois são uma casa rebelde.
+
+[[v26-2-7]]
+
+^<<v26-2-7,7>>^ E tens de falar-lhes as minhas palavras, quer ouçam quer se refreiem [de ouvir], pois são um caso de rebelião.
+
+[[v26-2-8]]
+
+^<<v26-2-8,8>>^ “E tu, ó filho do homem, ouve o que te falo. Não te tornes rebelde igual à casa rebelde. Abre a tua boca e come o que te dou.”
+
+[[v26-2-9]]
+
+^<<v26-2-9,9>>^ E comecei a ver, e eis que se estendia para mim uma mão, e eis que havia nela o rolo dum livro.
+
+[[v26-2-10]]
+
+^<<v26-2-10,10>>^ E ele o estendeu diante de mim, aos poucos, e escrevera-se nele na frente e no verso; e estavam escritos nele endechas, e gemidos, e lamúria.
+
+'''
+
+xref:026-ezequiel/026-ezequiel-001.adoc#v26-1-0[&#60; Capítulo Anterior] | <<v26-2-0,Topo>> | xref:026-ezequiel/026-ezequiel-003.adoc#v26-3-0[Próximo Capítulo &#62;]

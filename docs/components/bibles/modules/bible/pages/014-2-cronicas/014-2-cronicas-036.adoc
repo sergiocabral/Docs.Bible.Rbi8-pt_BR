@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v14-36-0]]
+=== 2 Crônicas, 36
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v14-36-1]]
+
+^<<v14-36-1,1>>^ O povo da terra tomou então a Jeoacaz, filho de Josias, e o fez rei em lugar de seu pai em Jerusalém.
+
+[[v14-36-2]]
+
+^<<v14-36-2,2>>^ Jeoacaz^&#42;1^ tinha vinte e três anos de idade quando começou a reinar e reinou por três meses em Jerusalém.
+
+[NOTE]
+====
+. Lit.: “Joacaz”. Hebr.: Yoh·’a·hház. Mas veja 2Rs 23:30.
+====
+
+[[v14-36-3]]
+
+^<<v14-36-3,3>>^ Todavia, o rei do Egito o removeu em Jerusalém e multou o país em cem talentos^&#42;1^ de prata e um talento de ouro.
+
+[NOTE]
+====
+. Veja Ap. 8A.
+====
+
+[[v14-36-4]]
+
+^<<v14-36-4,4>>^ Outrossim, o rei do Egito fez Eliaquim, seu irmão, rei sobre Judá e sobre Jerusalém, e mudou-lhe o nome para Jeoiaquim; mas Neco tomou a seu irmão Jeoacaz e o levou ao Egito.
+
+[[v14-36-5]]
+
+^<<v14-36-5,5>>^ Jeoiaquim tinha vinte e cinco anos de idade quando começou a reinar e reinou por onze anos em Jerusalém; e continuou a fazer o que era mau aos olhos de Jeová, seu Deus.
+
+[[v14-36-6]]
+
+^<<v14-36-6,6>>^ Contra ele subiu Nabucodonosor, rei de Babilônia, para prendê-lo com dois grilhões de cobre, a fim de levá-lo a Babilônia.
+
+[[v14-36-7]]
+
+^<<v14-36-7,7>>^ E Nabucodonosor levou a Babilônia alguns dos utensílios da casa de Jeová, e então os pôs no seu palácio^&#42;1^ em Babilônia.
+
+[NOTE]
+====
+. “No seu palácio (templo).” Hebr.: beheh·kha·lóh; LXXVg: “no seu templo”.
+====
+
+[[v14-36-8]]
+
+^<<v14-36-8,8>>^ Quanto ao resto dos assuntos de Jeoiaquim e às suas coisas detestáveis que fez, e o que se podia achar contra^&#42;1^ ele, eis que estão escritos no Livro dos Reis de Israel e de Judá; e Joaquim, seu filho, começou a reinar em seu lugar.
+
+[NOTE]
+====
+. Ou “sobre”.
+====
+
+[[v14-36-9]]
+
+^<<v14-36-9,9>>^ Joaquim tinha dezoito^&#42;1^ anos de idade quando começou a reinar e reinou por três meses e dez dias em Jerusalém; e ele continuou a fazer o que era mau aos olhos de Jeová.
+
+[NOTE]
+====
+. “Dezoito”, LXXSy e 2Rs 24:8; MVg: “oito”.
+====
+
+[[v14-36-10]]
+
+^<<v14-36-10,10>>^ E na volta do ano, o Rei Nabucodonosor mandou trazê-lo a si a Babilônia, junto com os objetos desejáveis da casa de Jeová. Ademais, fez rei a Zedequias, irmão [do pai] dele, sobre Judá e Jerusalém.
+
+[[v14-36-11]]
+
+^<<v14-36-11,11>>^ Zedequias tinha vinte e um anos de idade quando começou a reinar e reinou por onze anos em Jerusalém.
+
+[[v14-36-12]]
+
+^<<v14-36-12,12>>^ E ele fazia o que era mau aos olhos de Jeová, seu Deus. Não se humilhou por causa de Jeremias, o profeta, às ordens de Jeová.
+
+[[v14-36-13]]
+
+^<<v14-36-13,13>>^ E até mesmo se rebelou contra o Rei Nabucodonosor, que o fizera jurar por Deus; e enrijecia sua cerviz e endurecia seu coração para não retornar a Jeová, o Deus de Israel.
+
+[[v14-36-14]]
+
+^<<v14-36-14,14>>^ Mesmo todos os chefes dos sacerdotes e o próprio povo praticavam infidelidade em grande escala, de acordo com todas as coisas detestáveis das nações, de modo que aviltaram a casa de Jeová, que ele havia santificado em Jerusalém.
+
+[[v14-36-15]]
+
+^<<v14-36-15,15>>^ E Jeová, o Deus de seus antepassados, enviava contra eles [avisos] por meio dos seus mensageiros, enviando-os vez após vez,^&#42;1^ porque teve compaixão do seu povo e da sua habitação.
+
+[NOTE]
+====
+. Lit.: “levantando-se cedo e enviando”. No hebr., estes verbos estão no infinitivo absoluto, indefinidos quanto ao tempo e impessoais.
+====
+
+[[v14-36-16]]
+
+^<<v14-36-16,16>>^ Eles, porém, caçoavam continuamente dos mensageiros do [verdadeiro] Deus e desprezavam as suas palavras, e zombavam dos seus profetas até que subiu o furor de Jeová contra o seu povo, até que não havia mais cura.
+
+[[v14-36-17]]
+
+^<<v14-36-17,17>>^ Portanto, fez subir contra eles o rei dos caldeus, que passou a matar os seus jovens à espada, na casa do seu santuário, tampouco teve ele compaixão com o jovem ou com a virgem, com o velho ou com o senil. Tudo Ele lhe entregou na mão.
+
+[[v14-36-18]]
+
+^<<v14-36-18,18>>^ E todos os utensílios, grandes e pequenos, da casa do [verdadeiro] Deus, e os tesouros da casa de Jeová, e os tesouros do rei e dos seus príncipes, tudo ele levou a Babilônia.
+
+[[v14-36-19]]
+
+^<<v14-36-19,19>>^ E passou a queimar a casa do [verdadeiro] Deus e a demolir a muralha de Jerusalém; e queimou com fogo todas as suas torres de habitação e também todos os seus objetos desejáveis, para causar a ruína.
+
+[[v14-36-20]]
+
+^<<v14-36-20,20>>^ Além disso, ele levou cativos a Babilônia os que foram deixados pela espada, e eles vieram a ser servos dele e dos seus filhos até o começo do reinado da realeza da Pérsia;
+
+[[v14-36-21]]
+
+^<<v14-36-21,21>>^ para se cumprir a palavra de Jeová pela boca de Jeremias, até que a terra tivesse saldado os seus sábados. Todos os dias em que jazia desolada, guardava o sábado, para cumprir setenta anos.
+
+[[v14-36-22]]
+
+^<<v14-36-22,22>>^ E no primeiro ano de Ciro,^&#42;1^ rei da Pérsia, para que se consumasse a palavra de Jeová pela boca de Jeremias, Jeová despertou o espírito de Ciro, rei da Pérsia, de modo que fez passar uma proclamação através de todo o seu reino, e também por escrito, dizendo:
+
+[NOTE]
+====
+. “De Ciro.” Hebr.: leKhóh·resh; gr.: Ký·rou; sir.: leKu·resh; lat.: Cý·ri.
+====
+
+[[v14-36-23]]
+
+^<<v14-36-23,23>>^ “Assim disse Ciro, rei da Pérsia: ‘Jeová, o Deus dos céus,^&#42;1^ deu-me todos os reinos da terra, e ele mesmo me comissionou para lhe construir uma casa em Jerusalém, que está em Judá. Quem dentre vós for de todo o seu povo, esteja com ele Jeová, seu Deus. Portanto, que suba!’”
+
+[NOTE]
+====
+. “O Deus dos céus.” Esta expressão ocorre também em Gên 24:3, 7; Esd 1:2; Ne 1:4, 5; Ne 2:4, 20; Jon 1:9.
+====
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-035.adoc#v14-35-0[&#60; Capítulo Anterior] | <<v14-36-0,Topo>> | xref:015-esdras/015-esdras-001.adoc#v15-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,132 @@
+include::./index.adoc[]
+
+[[v6-18-0]]
+=== Josué, 18
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-18-1]]
+
+^<<v6-18-1,1>>^ Então se congregou toda a assembléia dos filhos de Israel em Silo, e passaram a fixar ali a tenda de reunião, visto que o país estava então subjugado diante deles.
+
+[[v6-18-2]]
+
+^<<v6-18-2,2>>^ Mas, entre os filhos de Israel restavam ainda aqueles cuja herança não se tinha repartido, a saber, sete tribos.
+
+[[v6-18-3]]
+
+^<<v6-18-3,3>>^ De modo que Josué disse aos filhos de Israel: “Até quando sereis remissos no que se refere a entrar para tomar posse do país que Jeová, o Deus de vossos antepassados, vos deu?
+
+[[v6-18-4]]
+
+^<<v6-18-4,4>>^ Supri para vós três homens de cada tribo, e envie-os eu para que se levantem e percorram o país, e para que façam o levantamento dele de acordo com a sua herança e venham a mim.
+
+[[v6-18-5]]
+
+^<<v6-18-5,5>>^ E têm de reparti-lo entre si mesmos em sete quinhões. Judá ficará de pé no seu território no sul e a casa de José ficará de pé no seu território no norte.
+
+[[v6-18-6]]
+
+^<<v6-18-6,6>>^ Quanto a vós, fareis o levantamento do país em sete quinhões e tereis de trazer-mos para cá, e eu terei de lançar sortes aqui para vós perante Jeová, nosso Deus.
+
+[[v6-18-7]]
+
+^<<v6-18-7,7>>^ Pois os levitas não têm quinhão no vosso meio, visto que sua herança é o sacerdócio de Jeová; e Gade e Rubem, e a meia tribo de Manassés tomaram sua herança do lado do Jordão que dá para o leste, que lhes foi dada por Moisés, servo de Jeová.”
+
+[[v6-18-8]]
+
+^<<v6-18-8,8>>^ Os homens se levantaram, pois, para ir, e Josué passou a ordenar aos que iam fazer o levantamento do país, dizendo: “Ide e percorrei o país, e fazei o levantamento dele, e voltai a mim, e é aqui em Silo que tirarei sortes para vós perante Jeová.”
+
+[[v6-18-9]]
+
+^<<v6-18-9,9>>^ Em vista disso, os homens foram e percorreram o país, e fizeram o levantamento dele num livro, por cidades, em sete quinhões. Depois vieram a Josué, ao acampamento em Silo,
+
+[[v6-18-10]]
+
+^<<v6-18-10,10>>^ e Josué foi tirar sortes para eles em Silo perante Jeová. Assim repartiu Josué ali o país entre os filhos de Israel, segundo as suas partes.
+
+[[v6-18-11]]
+
+^<<v6-18-11,11>>^ Surgiu então a sorte para a tribo dos filhos de Benjamim, segundo as suas famílias, e o território da sua sorte saía entre os filhos de Judá e os filhos de José.
+
+[[v6-18-12]]
+
+^<<v6-18-12,12>>^ E seu termo, no canto setentrional, veio a ser desde o Jordão, e o termo subia para a encosta de Jericó, ao norte, e subia no monte para o oeste, e seu ponto final mostrou ser o ermo de Bete-Áven.
+
+[[v6-18-13]]
+
+^<<v6-18-13,13>>^ E o termo passava dali para Luz, na encosta meridional de Luz, isto é, Betel; e o termo descia até Atarote-Adar, no monte que está ao sul de Bete-Horom Baixa.
+
+[[v6-18-14]]
+
+^<<v6-18-14,14>>^ E o termo estava demarcado, e dava volta no lado ocidental para o sul, desde o monte que defronta com Bete-Horom ao sul; e seu ponto final mostrou ser Quiriate-Baal, isto é, Quiriate-Jearim, uma cidade dos filhos de Judá. Este era o lado ocidental.
+
+[[v6-18-15]]
+
+^<<v6-18-15,15>>^ E o lado sulino era desde a extremidade de Quiriate-Jearim, e o termo saía para o oeste e saía até o manancial das águas de Neftoa.
+
+[[v6-18-16]]
+
+^<<v6-18-16,16>>^ E o termo descia até a extremidade do monte que defronta com o vale do filho de Hinom, que se acha na baixada de Refaim, ao norte, e descia ao vale de Hinom,^&#42;1^ até a encosta do jebuseu, ao sul, e descia até En-Rogel.
+
+[NOTE]
+====
+. “Vale de Hinom.” Hebr.: geh Hin- nóm; gr.: Gaí·en·na; lat.: Ge·hén·nom. Disso deriva a palavra portuguesa “Geena”. Veja Ap. 4C.
+====
+
+[[v6-18-17]]
+
+^<<v6-18-17,17>>^ E estava demarcado para o norte e saía até En-Semes, e saía para Gelilote, que está defronte da subida de Adumim; e descia até a pedra de Boã, filho de Rubem.
+
+[[v6-18-18]]
+
+^<<v6-18-18,18>>^ E passava para a encosta setentrional defronte do Arabá e descia até o Arabá.
+
+[[v6-18-19]]
+
+^<<v6-18-19,19>>^ E o termo passava para a encosta setentrional de Bete-Hogla, e seu ponto final (a fronteira) mostrou ser a baía setentrional do Mar Salgado, na extremidade meridional do Jordão. Este era o termo meridional.
+
+[[v6-18-20]]
+
+^<<v6-18-20,20>>^ E o Jordão lhe serviu de termo no lado do leste. Esta foi a herança dos filhos de Benjamim, segundo as suas famílias, pelos seus termos, em toda a volta.
+
+[[v6-18-21]]
+
+^<<v6-18-21,21>>^ E as cidades da tribo dos filhos de Benjamim, segundo as suas famílias, mostraram ser Jericó e Bete-Hogla, e Emeque-Queziz,
+
+[[v6-18-22]]
+
+^<<v6-18-22,22>>^ e Bete-Arabá, e Zemaraim, e Betel,
+
+[[v6-18-23]]
+
+^<<v6-18-23,23>>^ e Avim, e Pará, e Ofra,
+
+[[v6-18-24]]
+
+^<<v6-18-24,24>>^ e Quefar-Amoni, e Ofni, e Geba; doze cidades e seus povoados.
+
+[[v6-18-25]]
+
+^<<v6-18-25,25>>^ Gibeão e Ramá, e Beerote,
+
+[[v6-18-26]]
+
+^<<v6-18-26,26>>^ e Mispé, e Quefira, e Moza,
+
+[[v6-18-27]]
+
+^<<v6-18-27,27>>^ e Requém, e Irpeel, e Tarala,
+
+[[v6-18-28]]
+
+^<<v6-18-28,28>>^ e Zela, Ha-Elefe e Jebusi,^&#42;1^ isto é, Jerusalém, Gibeá e Quiriate; quatorze cidades e seus povoados.
+Esta foi a herança dos filhos de Benjamim, segundo as suas famílias.
+
+[NOTE]
+====
+. Lit.: “o jebuseu”, M; LXXSyVg: “Jebus”.
+====
+
+'''
+
+xref:006-josue/006-josue-017.adoc#v6-17-0[&#60; Capítulo Anterior] | <<v6-18-0,Topo>> | xref:006-josue/006-josue-019.adoc#v6-19-0[Próximo Capítulo &#62;]

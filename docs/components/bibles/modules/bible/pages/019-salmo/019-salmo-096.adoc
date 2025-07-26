@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v19-96-0]]
+=== Salmos, 96
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-96-1]]
+
+^<<v19-96-1,1>>^ ^&#42;1^ Cantai a Jeová um novo cântico.
+Cantai a Jeová, todos [vós da] terra.^&#42;2^
+
+[NOTE]
+====
+. LXX tem o cabeçalho: “Quando a casa foi construída após o cativeiro: cântico de Davi”; Vg é similar.
+. Lit.: “toda a terra”, mas o verbo “cantai”, no hebr., está no masc. pl. Veja 33:8 n. e 66:1 n.: “terra”.
+====
+
+[[v19-96-2]]
+
+^<<v19-96-2,2>>^ Cantai a Jeová, bendizei o seu nome.
+Contai de dia em dia as boas novas da salvação por ele.
+
+[[v19-96-3]]
+
+^<<v19-96-3,3>>^ Declarai entre as nações a sua glória,
+Entre todos os povos as suas obras maravilhosas.
+
+[[v19-96-4]]
+
+^<<v19-96-4,4>>^ Pois Jeová é grande e para ser louvado muito.
+Ele é atemorizante acima de todos os [outros] deuses.
+
+[[v19-96-5]]
+
+^<<v19-96-5,5>>^ Porque todos os deuses^&#42;1^ dos povos são deuses que nada valem;^&#42;2^
+Mas, quanto a Jeová, ele fez os próprios céus.
+
+[NOTE]
+====
+. “Deuses dos.” Hebr.: ’elo·héh; gr.: the·oí; lat.: dí·i.
+. Ou “deuses inúteis”. Hebr.: ’eli·lím; LXXVg: “demônios”.
+====
+
+[[v19-96-6]]
+
+^<<v19-96-6,6>>^ Diante dele há dignidade e esplendor;
+No seu santuário há força e beleza.
+
+[[v19-96-7]]
+
+^<<v19-96-7,7>>^ Atribuí^&#42;1^ a Jeová,^&#42;2^ ó famílias dos povos,
+Atribuí a Jeová^&#42;3^ glória e força.
+
+[NOTE]
+====
+. Ou: “Dai”, pl.; hebr.: ha·vú.
+. Veja Ap. 1C sec. 8.
+. Veja Ap. 1C sec. 8.
+====
+
+[[v19-96-8]]
+
+^<<v19-96-8,8>>^ Atribuí a Jeová^&#42;1^ a glória pertencente ao seu nome;
+Carregai um presente e entrai nos seus pátios.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+====
+
+[[v19-96-9]]
+
+^<<v19-96-9,9>>^ Curvai-vos diante de Jeová^&#42;1^ em santo adorno;^&#42;2^
+Estai em severas dores por causa dele, todos [vós da] terra.^&#42;3^
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+. “No seu santo pátio”, LXXSyVg.
+. Veja v. 1 n.: “terra”.
+====
+
+[[v19-96-10]]
+
+^<<v19-96-10,10>>^ Dizei entre as nações: “O próprio Jeová^&#42;1^ se tornou rei.
+Também o solo produtivo^&#42;2^ fica firmemente estabelecido de modo que não pode ser abalado.
+Ele pleiteará a causa dos povos em retidão.”
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+. “O solo produtivo.” Hebr.: te·vél; LXX: “a terra habitada”; Vgc(lat.): ór·bem tér·rae, “o círculo da terra”.
+====
+
+[[v19-96-11]]
+
+^<<v19-96-11,11>>^ Alegrem-se os céus e jubile a terra.^&#42;1^
+Troveje o mar e o que o enche.
+
+[NOTE]
+====
+. No M, as letras iniciais das primeiras quatro palavras hebr., neste v., quando lidas da direita para a esquerda, formam um acróstico do Tetragrama, ‏) יהוהYHWH), que é o nome exclusivo de Deus. Quando transliteradas, as quatro palavras rezam: Yis·mehhú Hash·sha·má·yim Wetha·ghél Ha·’á·rets. A Massorá hebr., coleção de anotações críticas, chama atenção para este acróstico do Tetragrama.
+====
+
+[[v19-96-12]]
+
+^<<v19-96-12,12>>^ Rejubile a campina e tudo o que nela há.
+Ao mesmo tempo, irrompam todas as árvores da floresta em grito de júbilo
+
+[[v19-96-13]]
+
+^<<v19-96-13,13>>^ Perante Jeová.^&#42;1^ Porque ele chegou;
+Porque chegou para julgar a terra.
+Julgará o solo produtivo^&#42;2^ com justiça
+E os povos com a sua fidelidade.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+. Veja v. 10 n.: “produtivo”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-095.adoc#v19-95-0[&#60; Capítulo Anterior] | <<v19-96-0,Topo>> | xref:019-salmo/019-salmo-097.adoc#v19-97-0[Próximo Capítulo &#62;]

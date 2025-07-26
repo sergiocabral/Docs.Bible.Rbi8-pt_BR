@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v26-42-0]]
+=== Ezequiel, 42
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v26-42-1]]
+
+^<<v26-42-1,1>>^ E ele me levou aos poucos para fora ao pátio externo,^&#42;1^ pelo caminho que dava para o norte. E passou a levar-me ao [conjunto dos] refeitórios defronte da área separada^&#42;2^ e diante do edifício^&#42;3^ ao norte.
+
+[NOTE]
+====
+. “Ao pátio externo”, MTLXXSyVg; LXXBagster: “ao pátio interno”.
+. “Da área separada.” Hebr.: hag·giz·ráh.
+. “Do edifício.” Hebr.: hab·bin·yán.
+====
+
+[[v26-42-2]]
+
+^<<v26-42-2,2>>^ A entrada setentrional estava diante do comprimento de cem côvados, e a largura era de cinqüenta côvados.
+
+[[v26-42-3]]
+
+^<<v26-42-3,3>>^ Defronte dos vinte [côvados] que pertenciam ao pátio interno e em frente do pavimento que pertencia ao pátio externo havia galeria defronte de galeria em três [andares].
+
+[[v26-42-4]]
+
+^<<v26-42-4,4>>^ E diante dos refeitórios havia uma passagem de dez côvados de largura, do lado de dentro, um caminho de um côvado,^&#42;1^ e suas entradas estavam ao norte.
+
+[NOTE]
+====
+. “Um caminho de um côvado”, MTVg; LXXSy: “o comprimento era de cem côvados”. Veja 40:5 n.: “mão”.
+====
+
+[[v26-42-5]]
+
+^<<v26-42-5,5>>^ E no que se referia aos refeitórios, os de cima eram mais curtos porque as galerias lhes tiravam uma parte, mais do que os de baixo e do que os do meio, com respeito ao edifício.
+
+[[v26-42-6]]
+
+^<<v26-42-6,6>>^ Pois estavam em três pavimentos e não tinham colunas semelhantes às colunas dos pátios. Por isso é que se [lhes] tirava mais espaço do que dos de baixo e dos do meio, desde o chão.
+
+[[v26-42-7]]
+
+^<<v26-42-7,7>>^ E o muro de pedras do lado de fora estava perto dos refeitórios do lado do pátio externo, defronte dos [outros] refeitórios. Seu comprimento era de cinqüenta côvados.
+
+[[v26-42-8]]
+
+^<<v26-42-8,8>>^ Pois o comprimento dos refeitórios do lado do pátio externo era de cinqüenta côvados, e eis que diante do templo era de cem côvados.
+
+[[v26-42-9]]
+
+^<<v26-42-9,9>>^ E debaixo destes refeitórios a entrada estava ao leste, quando se entra neles vindo do pátio externo.
+
+[[v26-42-10]]
+
+^<<v26-42-10,10>>^ Na largura do muro de pedras do pátio para o leste, defronte da área separada e defronte do edifício, havia refeitórios.
+
+[[v26-42-11]]
+
+^<<v26-42-11,11>>^ E havia diante deles um caminho semelhante ao aspecto dos refeitórios que havia ao norte, assim era seu comprimento [e] assim era a sua largura; e todas as suas saídas [eram iguais], e seus planos eram iguais e as suas entradas eram iguais.
+
+[[v26-42-12]]
+
+^<<v26-42-12,12>>^ E assim como eram as entradas dos refeitórios do lado do sul assim era a entrada à cabeceira do caminho, do caminho diante do correspondente muro de pedras do lado do leste quando se entra neles.
+
+[[v26-42-13]]
+
+^<<v26-42-13,13>>^ E ele passou a dizer-me: “Os refeitórios do norte [e] os refeitórios do sul que estão defronte da área separada são os refeitórios sagrados,^&#42;1^ onde os sacerdotes que se chegam a Jeová comem as coisas santíssimas. Ali se depositam as coisas santíssimas, e a oferta de cereais, e a oferta pelo pecado, e a oferta pela culpa, porque o lugar é sagrado.
+
+[NOTE]
+====
+. Ou “os refeitórios do santuário”, em harmonia com LXX.
+====
+
+[[v26-42-14]]
+
+^<<v26-42-14,14>>^ Quando eles, os sacerdotes, tiverem entrado, então não sairão do lugar santo^&#42;1^ para o pátio externo, mas depositarão ali as suas vestes em que costumam ministrar, pois são algo sagrado. Vestir-se-ão de outras vestes e terão de chegar-se àquilo que tem de ver com o povo.”
+
+[NOTE]
+====
+. “Do lugar santo (santuário).” Hebr.: me·haq·qó·dhesh; gr.: ha·gí·ou.
+====
+
+[[v26-42-15]]
+
+^<<v26-42-15,15>>^ E ele terminou as medições da casa interna e me levou para fora pelo portão cuja frente dava para o leste, e mediu em todo o redor.
+
+[[v26-42-16]]
+
+^<<v26-42-16,16>>^ Mediu o lado^&#42;1^ oriental com a cana de medir. Tinha quinhentas canas^&#42;2^ segundo a cana de medir, ao redor.
+
+[NOTE]
+====
+. Lit.: “vento”. Hebr.: rú·ahh; lat.: vén·tum.
+. “Canas”, MTSyVg; LXX omite isso. Veja 40:5.
+====
+
+[[v26-42-17]]
+
+^<<v26-42-17,17>>^ Mediu o lado setentrional, quinhentas canas^&#42;1^ segundo a cana de medir, ao redor.
+
+[NOTE]
+====
+. “Canas”, MTSyVg; LXX: “côvados”.
+====
+
+[[v26-42-18]]
+
+^<<v26-42-18,18>>^ Mediu o lado meridional, quinhentas canas^&#42;1^ segundo a cana de medir.
+
+[NOTE]
+====
+. “Canas”, MTSyVg; LXX omite isso.
+====
+
+[[v26-42-19]]
+
+^<<v26-42-19,19>>^ Fez a volta para o lado ocidental.^&#42;1^ Mediu quinhentas canas segundo a cana de medir.
+
+[NOTE]
+====
+. “O lado ocidental.” Lit.: “o vento do mar”, isto é, o Mar Mediterrâneo ao oeste.
+====
+
+[[v26-42-20]]
+
+^<<v26-42-20,20>>^ Ele mediu os quatro lados.^&#42;1^ Tinha um muro ao redor com o comprimento de quinhentas [canas] e a largura de quinhentas [canas],^&#42;2^ para fazer separação entre o que é santo^&#42;3^ e o que é profano.
+
+[NOTE]
+====
+. Lit.: “ventos”.
+. “Côvados”, LXX.
+. “O que é santo.” Ou “o santuário”. Hebr.: haq·qó·dhesh; lat.: sanc·tu·á·ri·um.
+====
+
+'''
+
+xref:026-ezequiel/026-ezequiel-041.adoc#v26-41-0[&#60; Capítulo Anterior] | <<v26-42-0,Topo>> | xref:026-ezequiel/026-ezequiel-043.adoc#v26-43-0[Próximo Capítulo &#62;]

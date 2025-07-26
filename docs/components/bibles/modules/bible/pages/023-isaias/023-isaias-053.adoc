@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v23-53-0]]
+=== Isaías, 53
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-53-1]]
+
+^<<v23-53-1,1>>^ Quem depositou fé na coisa ouvida^&#42;1^ por nós? E quanto ao braço de Jeová, a quem foi revelado?
+
+[NOTE]
+====
+. Ou “no relato”.
+====
+
+[[v23-53-2]]
+
+^<<v23-53-2,2>>^ E ele subirá qual rebento perante alguém^&#42;1^ e como raiz dentre uma terra árida. Não tem nenhuma figura imponente, nem qualquer esplendor; e vendo-o nós, não há aparência, de modo que o desejássemos.
+
+[NOTE]
+====
+. Ou “ele”.
+====
+
+[[v23-53-3]]
+
+^<<v23-53-3,3>>^ Ele foi desprezado e evitado pelos homens,^&#42;1^ homem para ter dores e para conhecer doença. E era como se se ocultasse de nós^&#42;2^ a face. Foi desprezado e não o tivemos em conta.
+
+[NOTE]
+====
+. “Homens.” Hebr.: ’i·shím, pl. de ’ish, “homem”, neste mesmo v. Esta forma pl. só ocorre aqui, no Sal 141:4 e em Pr 8:4.
+. Ou “dele”.
+====
+
+[[v23-53-4]]
+
+^<<v23-53-4,4>>^ Verdadeiramente, foram as nossas doenças que ele mesmo carregou; e quanto às nossas dores, ele as levou. Mas nós mesmos o considerávamos afligido, golpeado por Deus^&#42;1^ e atribulado.^&#42;2^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+. Ou “humilhado”.
+====
+
+[[v23-53-5]]
+
+^<<v23-53-5,5>>^ Mas ele estava sendo traspassado pela nossa transgressão; estava sendo esmigalhado pelos nossos erros. O castigo intencionado para a nossa paz estava sobre ele, e por causa das suas feridas tem havido cura para nós.
+
+[[v23-53-6]]
+
+^<<v23-53-6,6>>^ Todos nós temos andado errantes quais ovelhas;^&#42;1^ viramo-nos cada um para o seu próprio caminho; e o próprio Jeová fez que o erro de todos nós atingisse aquele.
+
+[NOTE]
+====
+. Ou “qual rebanho”. Hebr.: kats·tsó’n.
+====
+
+[[v23-53-7]]
+
+^<<v23-53-7,7>>^ Viu-se apertado e deixou-se atribular; contudo, não abria a sua boca. Foi trazido qual ovídeo^&#42;1^ ao abate; e como a ovelha fica muda diante dos seus tosquiadores, tampouco ele abria a sua boca.
+
+[NOTE]
+====
+. Ou “qual cordeiro”. Hebr.: kas·séh.
+====
+
+[[v23-53-8]]
+
+^<<v23-53-8,8>>^ Por causa da restrição^&#42;1^ e do julgamento, ele foi levado embora;^&#42;2^ e quem é que se ocupará com [os pormenores de] sua geração?^&#42;3^ Pois foi cortado da terra dos viventes. Por causa da transgressão do meu povo, sofreu o golpe.^&#42;4^
+
+[NOTE]
+====
+. Ou “opressão; coerção”.
+. “Ele foi tirado da opressão e do julgamento”, Vg; LXX: “Durante a sua humilhação foi-lhe tirado o julgamento.” Veja At 8:33.
+. Ou “[os pormenores de] seu modo de vida”.
+. “Ele veio a ser golpeado até à morte”, mediante uma correção do M, em harmonia com LXX.
+====
+
+[[v23-53-9]]
+
+^<<v23-53-9,9>>^ E ele^&#42;1^ fará^&#42;2^ a sua sepultura mesmo com os iníquos e com a classe rica,^&#42;3^ na sua morte, apesar do fato de que não praticara nenhuma violência e não havia engano na sua boca.
+
+[NOTE]
+====
+. Ou “alguém”.
+. Lit.: “dará; fornecerá”.
+. Lit.: “um rico”.
+====
+
+[[v23-53-10]]
+
+^<<v23-53-10,10>>^ Mas o próprio Jeová se agradou em esmigalhá-lo; fez que adoecesse. Se puseres a sua alma^&#42;1^ como oferta pela culpa, ele verá a sua descendência, prolongará os [seus] dias, e na sua mão o agrado de Jeová será bem sucedido.
+
+[NOTE]
+====
+. “Sua alma.” Hebr.: naf·shóh; gr.: psy·khé; lat.: á·ni·mam. Veja Ap. 4A.
+====
+
+[[v23-53-11]]
+
+^<<v23-53-11,11>>^ Por causa da desgraça da sua alma, ele verá,^&#42;1^ ficará satisfeito. Por meio do seu conhecimento,^&#42;2^ o justo, meu servo, trará uma posição justa a muita gente; e ele mesmo levará os erros deles.
+
+[NOTE]
+====
+. “Ele verá”, MVg; LXX: “mostrar-lhe[-á] luz”.
+. Ou: “Por conhecê-lo.”
+====
+
+[[v23-53-12]]
+
+^<<v23-53-12,12>>^ Por isso lhe repartirei um quinhão entre os muitos e será com os potentes que ele repartirá o despojo, devido ao fato de que esvaziou a sua alma até a própria morte e foi contado com os transgressores; e ele mesmo carregou o próprio pecado de muita gente e passou a interceder pelos transgressores.
+
+'''
+
+xref:023-isaias/023-isaias-052.adoc#v23-52-0[&#60; Capítulo Anterior] | <<v23-53-0,Topo>> | xref:023-isaias/023-isaias-054.adoc#v23-54-0[Próximo Capítulo &#62;]

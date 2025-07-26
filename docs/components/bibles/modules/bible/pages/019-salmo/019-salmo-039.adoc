@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v19-39-0]]
+=== Salmos, 39
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente de Jedutum.^&#42;1^ Uma melodia de Davi._
+
+[[v19-39-1]]
+
+^<<v19-39-1,1>>^ Eu disse: “Vou vigiar os meus caminhos
+Para me guardar de pecar com a minha língua.
+Vou pôr uma mordaça como guarda à minha própria boca
+Enquanto houver um iníquo na minha frente.”
+
+[[v19-39-2]]
+
+^<<v19-39-2,2>>^ Fiquei mudo em silêncio;
+Mantive-me quieto do que é bom,
+E ficar eu condoído estava proscrito.
+
+[[v19-39-3]]
+
+^<<v19-39-3,3>>^ Meu coração se esquentou dentro de mim;
+O fogo ardia durante o meu suspiro.
+Falei com a minha língua:
+
+[[v19-39-4]]
+
+^<<v19-39-4,4>>^ “Ó Jeová, faze-me saber o meu fim,
+E a medida dos meus dias — qual ela é,
+Para que eu saiba quão transitório sou.
+
+[[v19-39-5]]
+
+^<<v19-39-5,5>>^ Eis que fizeste apenas poucos^&#42;1^ os meus dias;
+E a duração da minha vida é como nada diante de ti.
+Decerto todo homem terreno,^&#42;2^ embora se mantenha firme, não é senão uma exalação. Selá.
+
+[NOTE]
+====
+. Lit.: “apenas larguras de mão”.
+. “Homem terreno.” Hebr.: ’a·dhám.
+====
+
+[[v19-39-6]]
+
+^<<v19-39-6,6>>^ Certamente é numa similitude que o homem^&#42;1^ anda em volta.
+Certamente é em vão que são turbulentos.
+Um empilha coisas e não sabe quem as ajuntará.
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’ish.
+====
+
+[[v19-39-7]]
+
+^<<v19-39-7,7>>^ E agora, o que esperei, ó Jeová?^&#42;1^
+Minha expectativa és tu.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-39-8]]
+
+^<<v19-39-8,8>>^ Livra-me de todas as minhas transgressões.
+Não me ponhas por vitupério do insensato.
+
+[[v19-39-9]]
+
+^<<v19-39-9,9>>^ Fiquei mudo; não pude abrir a minha boca,
+Porque tu mesmo agiste.
+
+[[v19-39-10]]
+
+^<<v19-39-10,10>>^ Remove a tua praga de cima de mim.
+Eu mesmo cheguei ao fim devido à hostilidade da tua mão.
+
+[[v19-39-11]]
+
+^<<v19-39-11,11>>^ Por meio de repreensões contra o erro tens corrigido o homem,^&#42;1^
+E consomes as suas coisas desejáveis assim como a traça faz.
+De fato, todo homem terreno^&#42;2^ é uma exalação. Selá.
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’ish.
+. “Homem terreno.” Hebr.: ’a·dhám.
+====
+
+[[v19-39-12]]
+
+^<<v19-39-12,12>>^ Ouve deveras a minha oração, ó Jeová,
+E dá deveras ouvidos ao meu clamor por ajuda.
+Não fiques calado [à vista das] minhas lágrimas.
+Porque sou apenas um residente forasteiro contigo,
+Um colono, assim como todos os meus antepassados.
+
+[[v19-39-13]]
+
+^<<v19-39-13,13>>^ Deixa de atentar para mim, a fim de que eu fique risonho
+Antes de ir-me embora e não ser mais.”
+
+'''
+
+xref:019-salmo/019-salmo-038.adoc#v19-38-0[&#60; Capítulo Anterior] | <<v19-39-0,Topo>> | xref:019-salmo/019-salmo-040.adoc#v19-40-0[Próximo Capítulo &#62;]

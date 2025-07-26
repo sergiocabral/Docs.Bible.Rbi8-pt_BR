@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v1-23-0]]
+=== Gênesis, 23
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-23-1]]
+
+^<<v1-23-1,1>>^ E a vida de Sara veio a ser de cento e vinte e sete anos. Estes foram os anos de vida de Sara.
+
+[[v1-23-2]]
+
+^<<v1-23-2,2>>^ Sara morreu então em Quiriate-Arba, quer dizer, em Hébron, na terra de Canaã, e Abraão entrou para lamentar Sara e para chorar por ela.
+
+[[v1-23-3]]
+
+^<<v1-23-3,3>>^ Abraão levantou-se então de diante da sua morta e passou a falar aos filhos de Hete,^&#42;1^ dizendo:
+
+[NOTE]
+====
+. “Aos filhos de Hete.” Hebr.: beneh-Hhéth. Ou “aos hititas”.
+====
+
+[[v1-23-4]]
+
+^<<v1-23-4,4>>^ “Residente forasteiro e colono sou entre vós. Dai-me a propriedade duma sepultura entre vós, para que eu enterre a minha morta fora da minha vista.”
+
+[[v1-23-5]]
+
+^<<v1-23-5,5>>^ A isso responderam os filhos de Hete, dizendo-lhe:
+
+[[v1-23-6]]
+
+^<<v1-23-6,6>>^ “Ouve-nos, meu senhor.^&#42;1^ Um maioral de Deus^&#42;2^ és tu no meio de nós. Enterra a tua morta na mais seleta^&#42;3^ das nossas sepulturas. Nenhum de nós te vedará a sua sepultura, para impedir que enterres a tua morta.”
+
+[NOTE]
+====
+. “Meu senhor.” Hebr.: ’adho·ní, a palavra ’a·dhóhn, “senhor; amo”, com o sufixo pronominal i, “meu”.
+. Ou: “Um poderoso maioral.”
+. Lit.: “escolha”.
+====
+
+[[v1-23-7]]
+
+^<<v1-23-7,7>>^ Em vista disso, Abraão levantou-se e curvou-se diante dos nativos,^&#42;1^ os filhos de Hete,
+
+[NOTE]
+====
+. Lit.: “diante do povo da terra”. Hebr.: le‛am-ha·’á·rets.
+====
+
+[[v1-23-8]]
+
+^<<v1-23-8,8>>^ e falou com eles, dizendo: “Se as vossas almas concordarem^&#42;1^ em enterrar a minha morta fora da minha vista, escutai-me e instai por mim com Efrom, filho de Zoar,
+
+[NOTE]
+====
+. Lit.: “com a tua alma”, usada em sentido coletivo. Hebr.: ’eth-naf·shekhém; gr.: psy·kheí.
+====
+
+[[v1-23-9]]
+
+^<<v1-23-9,9>>^ para que me dê a caverna de Macpela,^&#42;1^ que é dele, a qual se acha na extremidade do seu campo. Dê-ma pelo pleno montante de prata no meio de vós, como propriedade duma sepultura.”
+
+[NOTE]
+====
+. Lit.: “a Duplicação”, possivelmente por causa da entrada dupla, ou por haver dois recantos ou nichos. Hebr.: ham·Makh·pe·láh.
+====
+
+[[v1-23-10]]
+
+^<<v1-23-10,10>>^ Acontecia que Efrom estava sentado entre os filhos de Hete. De modo que Efrom, o hitita, respondeu a Abraão aos ouvidos dos filhos de Hete, com todos os que entravam pelo portão de sua cidade, dizendo:
+
+[[v1-23-11]]
+
+^<<v1-23-11,11>>^ “Não, meu senhor! Escuta-me. Eu deveras te dou o campo, e deveras te dou a caverna que está nele. Perante os olhos dos filhos do meu povo o dou a ti. Enterra a tua morta.”
+
+[[v1-23-12]]
+
+^<<v1-23-12,12>>^ Abraão curvou-se então diante dos nativos
+
+[[v1-23-13]]
+
+^<<v1-23-13,13>>^ e falou a Efrom, aos ouvidos dos nativos, dizendo: “Tão-somente se tu — não, escuta-me! Hei de dar-te o montante de prata pelo campo. Toma-o de mim, para que eu enterre ali a minha morta.”
+
+[[v1-23-14]]
+
+^<<v1-23-14,14>>^ Efrom respondeu então a Abraão, dizendo-lhe:
+
+[[v1-23-15]]
+
+^<<v1-23-15,15>>^ “Meu senhor, escuta-me. Um terreno que vale quatrocentos siclos de prata,^&#42;1^ que é isso entre mim e ti? Portanto, enterra a tua morta.”
+
+[NOTE]
+====
+. Para calcular o valor, veja Ap. 8A.
+====
+
+[[v1-23-16]]
+
+^<<v1-23-16,16>>^ Concordemente, Abraão escutou Efrom, e Abraão pesou para Efrom o montante de prata de que falara aos ouvidos dos filhos de Hete, quatrocentos siclos de prata, [moeda] corrente entre os mercadores.
+
+[[v1-23-17]]
+
+^<<v1-23-17,17>>^ Deste modo, o campo de Efrom, que havia em Macpela, que está defronte de Manre, o campo e a caverna que havia nele, e todas as árvores que havia no campo, que estavam dentro de todos os seus termos ao redor, foram confirmados
+
+[[v1-23-18]]
+
+^<<v1-23-18,18>>^ a Abraão como sua compra diante dos olhos dos filhos de Hete, entre todos os que entravam pelo portão de sua cidade.
+
+[[v1-23-19]]
+
+^<<v1-23-19,19>>^ E depois disso, Abraão enterrou Sara, sua esposa, na caverna do campo de Macpela, defronte de Manre, quer dizer, Hébron, na terra de Canaã.
+
+[[v1-23-20]]
+
+^<<v1-23-20,20>>^ Assim foram confirmados a Abraão o campo e a caverna nele, como propriedade duma sepultura, pelas mãos dos filhos de Hete.
+
+'''
+
+xref:001-genesis/001-genesis-022.adoc#v1-22-0[&#60; Capítulo Anterior] | <<v1-23-0,Topo>> | xref:001-genesis/001-genesis-024.adoc#v1-24-0[Próximo Capítulo &#62;]

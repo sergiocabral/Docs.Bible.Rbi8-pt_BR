@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v22-6-0]]
+=== Cântico de Salomão, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v22-6-1]]
+
+^<<v22-6-1,1>>^ “Aonde foi teu querido, ó mais bela entre as mulheres? Para onde se virou teu querido, para que o procuremos contigo?”
+
+[[v22-6-2]]
+
+^<<v22-6-2,2>>^ “Meu próprio querido desceu ao seu jardim, aos canteiros das plantas de especiarias, para pastorear entre os jardins e para colher lírios.
+
+[[v22-6-3]]
+
+^<<v22-6-3,3>>^ Eu sou de meu querido e meu querido é meu. Ele pastoreia entre os lírios.”
+
+[[v22-6-4]]
+
+^<<v22-6-4,4>>^ “Tu és bela, ó companheira minha, como a Cidade Agradável,^&#42;1^ linda como Jerusalém, formidável como companhias ajuntadas em volta de estandartes.
+
+[NOTE]
+====
+. Ou “como Tirza”.
+====
+
+[[v22-6-5]]
+
+^<<v22-6-5,5>>^ Vira teus olhos da minha frente, pois eles é que me têm alarmado. Teu cabelo é como uma grei de caprídeos que desceram pulando de Gileade.
+
+[[v22-6-6]]
+
+^<<v22-6-6,6>>^ Teus dentes são como uma grei de ovelhas que subiram da lavagem, todas elas tendo gêmeos, nenhuma dentre elas tendo perdido sua cria.
+
+[[v22-6-7]]
+
+^<<v22-6-7,7>>^ Como fatia de romã são as tuas têmporas atrás do teu véu.
+
+[[v22-6-8]]
+
+^<<v22-6-8,8>>^ Talvez haja sessenta rainhas e oitenta concubinas, e donzelas sem número.
+
+[[v22-6-9]]
+
+^<<v22-6-9,9>>^ Há uma que é a minha pomba, minha inculpe. Há uma que pertence à sua mãe. Ela é a pura daquela que a deu à luz. As filhas viram-na e passaram a chamá-la feliz; rainhas e concubinas, e passaram a louvá-la:
+
+[[v22-6-10]]
+
+^<<v22-6-10,10>>^ ‘Quem é esta mulher que está olhando para baixo como a alva, bela como a lua cheia, pura como o sol brilhante, formidável como companhias ajuntadas em volta de estandartes?’”
+
+[[v22-6-11]]
+
+^<<v22-6-11,11>>^ “Eu havia descido ao jardim das nogueiras para ver os botões no vale de torrente, para ver se a videira floresceu, se as romãzeiras brotaram.
+
+[[v22-6-12]]
+
+^<<v22-6-12,12>>^ Antes de eu sabê-lo, minha própria alma me pusera junto aos carros de meu povo disposto.”^&#42;1^
+
+[NOTE]
+====
+. MLXX terminam aqui o capítulo 6.
+====
+
+[[v22-6-13]]
+
+^<<v22-6-13,13>>^ “Volta, volta, ó sulamita! Volta, volta, para que te possamos contemplar!”^&#42;1^
+“Que estais contemplando na sulamita?”
+“Algo como a dança de dois acampamentos!”^&#42;2^
+
+[NOTE]
+====
+. SyVg terminam aqui o capítulo 6.
+. Ou “dança de Maanaim”.
+====
+
+'''
+
+xref:022-cantico-de-salomao/022-cantico-de-salomao-005.adoc#v22-5-0[&#60; Capítulo Anterior] | <<v22-6-0,Topo>> | xref:022-cantico-de-salomao/022-cantico-de-salomao-007.adoc#v22-7-0[Próximo Capítulo &#62;]

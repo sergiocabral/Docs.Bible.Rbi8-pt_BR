@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v12-12-0]]
+=== 2 Reis, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v12-12-1]]
+
+^<<v12-12-1,1>>^ No sétimo ano de Jeú, Jeoás tornou-se rei e reinou por quarenta anos em Jerusalém. E o nome de sua mãe era Zibiá, de Berseba.
+
+[[v12-12-2]]
+
+^<<v12-12-2,2>>^ E Jeoás fazia o que era direito aos olhos de Jeová todos os seus dias em que Jeoiada, o sacerdote, o instruiu.
+
+[[v12-12-3]]
+
+^<<v12-12-3,3>>^ Somente os altos não desapareceram. O povo ainda oferecia sacrifícios e fazia fumaça sacrificial nos altos.
+
+[[v12-12-4]]
+
+^<<v12-12-4,4>>^ E Jeoás passou a dizer aos sacerdotes: “Todo o dinheiro^&#42;1^ para as ofertas sagradas que se traz à casa de Jeová, o dinheiro pelo qual cada um é taxado,^&#42;2^ o dinheiro pelas almas segundo a avaliação individual, todo o dinheiro que cada um trouxer de coração à casa de Jeová,
+
+[NOTE]
+====
+. Lit.: “prata”. Hebr.: ké·sef.
+. Mediante uma emenda do M, em harmonia com LXX; M: “a prata de cada um que passava”.
+====
+
+[[v12-12-5]]
+
+^<<v12-12-5,5>>^ tomem-no os sacerdotes para si, cada um do seu conhecido; e consertem eles, da sua parte, as fendas da casa onde quer que se ache uma fenda.”
+
+[[v12-12-6]]
+
+^<<v12-12-6,6>>^ E sucedeu que, por volta do vigésimo terceiro ano do Rei Jeoás, os sacerdotes ainda não tinham consertado as fendas da casa.
+
+[[v12-12-7]]
+
+^<<v12-12-7,7>>^ Portanto, o Rei Jeoás chamou a Jeoiada, o sacerdote, bem como os sacerdotes, e disse-lhes: “Por que é que não consertais as fendas da casa? Agora, pois, não tomeis mais dinheiro dos vossos conhecidos, mas deveis dá-lo para as fendas da casa.”
+
+[[v12-12-8]]
+
+^<<v12-12-8,8>>^ Os sacerdotes concordaram então em não tomar mais dinheiro do povo e em não consertar as fendas da casa.
+
+[[v12-12-9]]
+
+^<<v12-12-9,9>>^ Jeoiada, o sacerdote, tomou então um cofre^&#42;1^ e abriu um buraco na sua tampa, e o pôs ao lado do altar, à direita, conforme se entra na casa de Jeová, e os sacerdotes, os guardas das portas,^&#42;2^ punham ali todo o dinheiro que se trazia à casa de Jeová.
+
+[NOTE]
+====
+. “Cofre.” Hebr.: ’aróhn. Veja Êx 25:10 n.: “Arca”.
+. Lit.: “guardas do limiar”.
+====
+
+[[v12-12-10]]
+
+^<<v12-12-10,10>>^ E sucedeu que, assim que viam que havia muito dinheiro no cofre, subia o secretário do rei e o sumo sacerdote,^&#42;1^ e eles o amarravam e contavam o dinheiro que se achava na casa de Jeová.
+
+[NOTE]
+====
+. Ou “e o sacerdote principal”. Lit.: “e o grande (maior) sacerdote”. Hebr.: wehak·ko·hén hag·ga·dhóhl.
+====
+
+[[v12-12-11]]
+
+^<<v12-12-11,11>>^ E o dinheiro que tinham contado eles davam às mãos dos que faziam a obra, encarregados da casa de Jeová. Estes, por sua vez, pagavam os trabalhadores em madeira e os construtores que trabalhavam na casa de Jeová,
+
+[[v12-12-12]]
+
+^<<v12-12-12,12>>^ e os pedreiros e os talhadores de pedras, e para comprar madeiras e pedras lavradas para consertar as fendas da casa de Jeová, e por tudo o que se gastava com o conserto da casa.
+
+[[v12-12-13]]
+
+^<<v12-12-13,13>>^ Somente que, com respeito à casa de Jeová, não se faziam bacias de prata, nem apagadores, nem tigelas, nem trombetas, nem qualquer sorte de objeto de ouro ou objeto de prata, do dinheiro que se trazia à casa de Jeová;
+
+[[v12-12-14]]
+
+^<<v12-12-14,14>>^ pois davam-no aos que faziam a obra e com ele consertavam a casa de Jeová.
+
+[[v12-12-15]]
+
+^<<v12-12-15,15>>^ E não exigiam prestação de contas dos homens a cuja mão entregavam o dinheiro para dar aos que faziam a obra, porque trabalhavam com fidelidade.
+
+[[v12-12-16]]
+
+^<<v12-12-16,16>>^ Quanto ao dinheiro para as ofertas pela culpa e o dinheiro para as ofertas pelo pecado, não era trazido à casa de Jeová. De modo que veio a pertencer aos sacerdotes.
+
+[[v12-12-17]]
+
+^<<v12-12-17,17>>^ Foi então que Hazael, rei da Síria, passou a subir e a lutar contra Gate, e a capturá-la; depois Hazael fixou a sua face para subir contra Jerusalém.
+
+[[v12-12-18]]
+
+^<<v12-12-18,18>>^ Em vista disso, Jeoás, rei de Judá, tomou todas as ofertas sagradas que Jeosafá, e Jeorão, e Acazias, seus antepassados, reis de Judá, tinham santificado, bem como as suas próprias ofertas sagradas e todo o ouro que se achava nos tesouros da casa de Jeová e na casa do rei, e enviou-os a Hazael, rei da Síria. Assim ele se retirou de ir contra Jerusalém.
+
+[[v12-12-19]]
+
+^<<v12-12-19,19>>^ Quanto ao resto dos assuntos de Jeoás^&#42;1^ e tudo o que ele fez, não estão escritos no livro dos assuntos dos dias dos reis de Judá?
+
+[NOTE]
+====
+. Lit.: “Joás”. Mas veja vv. 1-7, 18.
+====
+
+[[v12-12-20]]
+
+^<<v12-12-20,20>>^ Todavia, seus servos se levantaram e se coligaram numa conspiração, e golpearam Jeoás junto à casa do Aterro,^&#42;1^ [no caminho] que desce a Sila.
+
+[NOTE]
+====
+. Ou “de Milo”. Hebr.: mil·ló’.
+====
+
+[[v12-12-21]]
+
+^<<v12-12-21,21>>^ E Jozacar,^&#42;1^ filho de Simeate, e Jeozabade, filho de Somer, seus servos, foram os que o golpearam de modo que morreu. Por conseguinte, enterraram-no com os seus antepassados na Cidade de Davi; e Amazias, seu filho, começou a reinar em seu lugar.
+
+[NOTE]
+====
+. “Jozacar”, AlCaVg e alguns mss. hebr.; Leningrad B 19A: “Jozabade”; em 2Cr 24:26: “Zabade”.
+====
+
+'''
+
+xref:012-2-reis/012-2-reis-011.adoc#v12-11-0[&#60; Capítulo Anterior] | <<v12-12-0,Topo>> | xref:012-2-reis/012-2-reis-013.adoc#v12-13-0[Próximo Capítulo &#62;]

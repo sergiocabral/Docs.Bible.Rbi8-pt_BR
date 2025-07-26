@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v19-72-0]]
+=== Salmos, 72
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Referente a Salomão._
+
+[[v19-72-1]]
+
+^<<v19-72-1,1>>^ Ó Deus, dá ao rei as tuas próprias decisões judiciais,
+E ao filho do rei a tua justiça.
+
+[[v19-72-2]]
+
+^<<v19-72-2,2>>^ Pleiteie ele a causa do teu povo com justiça
+E dos teus atribulados com decisão judicial.
+
+[[v19-72-3]]
+
+^<<v19-72-3,3>>^ Que os montes levem a paz ao povo,
+Também os morros, por meio da justiça.
+
+[[v19-72-4]]
+
+^<<v19-72-4,4>>^ Julgue ele os atribulados do povo,
+Salve ele os filhos do pobre
+E esmigalhe o defraudador.
+
+[[v19-72-5]]
+
+^<<v19-72-5,5>>^ Temer-te-ão^&#42;1^ enquanto houver o sol,^&#42;2^
+E diante da lua, de geração em geração.^&#42;3^
+
+[NOTE]
+====
+. Ou: “Que te temam.”
+. Lit.: “Temer-te-ão com o sol.”
+. Lit.: “geração de gerações”.
+====
+
+[[v19-72-6]]
+
+^<<v19-72-6,6>>^ Ele descerá como a chuva sobre a grama cortada,
+Como chuvas copiosas que molham a terra.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “molhamento (umedecimento) da terra”.
+====
+
+[[v19-72-7]]
+
+^<<v19-72-7,7>>^ Nos seus dias florescerá o justo^&#42;1^
+E a abundância de paz até que não haja mais lua.^&#42;2^
+
+[NOTE]
+====
+. “O justo”, M; LXXSyVg e três mss. hebr.: “justiça (justeza)”.
+. Segundo M; T: “até que os servos da lua sejam destruídos”.
+====
+
+[[v19-72-8]]
+
+^<<v19-72-8,8>>^ E terá súditos de mar a mar
+E desde o Rio^&#42;1^ até os confins da terra.
+
+[NOTE]
+====
+. “Rio”, MLXXSyVg; T: “Eufrates”.
+====
+
+[[v19-72-9]]
+
+^<<v19-72-9,9>>^ Diante dele se dobrarão os habitantes de regiões áridas,^&#42;1^
+E seus inimigos é que lamberão o próprio pó.
+
+[NOTE]
+====
+. Ou “os demônios”.
+====
+
+[[v19-72-10]]
+
+^<<v19-72-10,10>>^ Os reis de Társis e das ilhas^&#42;1^ —
+Pagarão tributo.
+Os reis de Sabá e de Sebá —
+Apresentarão uma dádiva.
+
+[NOTE]
+====
+. Ou “litorais”.
+====
+
+[[v19-72-11]]
+
+^<<v19-72-11,11>>^ E diante dele se prostrarão todos os reis;
+Todas as nações, da sua parte, o servirão.
+
+[[v19-72-12]]
+
+^<<v19-72-12,12>>^ Pois livrará ao pobre que clama por ajuda,
+Também ao atribulado e a todo aquele que não tiver ajudador.
+
+[[v19-72-13]]
+
+^<<v19-72-13,13>>^ Terá dó daquele de condição humilde e do pobre,
+E salvará as almas dos pobres.
+
+[[v19-72-14]]
+
+^<<v19-72-14,14>>^ Resgatará sua alma da opressão e da violência,
+E o sangue deles será precioso aos seus olhos.
+
+[[v19-72-15]]
+
+^<<v19-72-15,15>>^ E viva ele e dê-se-lhe do ouro de Sabá.
+E a seu favor faça-se constantemente oração;
+Seja abençoado o dia inteiro.
+
+[[v19-72-16]]
+
+^<<v19-72-16,16>>^ Virá a haver bastante cereal na terra;
+No cume dos montes haverá superabundância.
+Seu fruto será como no Líbano,
+E os da cidade florirão como a vegetação da terra.
+
+[[v19-72-17]]
+
+^<<v19-72-17,17>>^ Mostre seu nome ser por tempo indefinido;
+Aumente seu nome diante do sol,
+E abençoem eles a si mesmos por meio dele;
+Todas as nações chamem-no feliz.
+
+[[v19-72-18]]
+
+^<<v19-72-18,18>>^ Bendito seja Jeová Deus, o Deus de Israel,
+O único que faz obras maravilhosas.
+
+[[v19-72-19]]
+
+^<<v19-72-19,19>>^ E bendito seja seu glorioso nome por tempo indefinido,
+E sua glória encha a terra inteira.
+Amém e amém.^&#42;1^
+
+[NOTE]
+====
+. Veja 41:13 n.
+====
+
+[[v19-72-20]]
+
+^<<v19-72-20,20>>^ Findaram as orações de Davi, filho de Jessé.
+
+'''
+
+xref:019-salmo/019-salmo-071.adoc#v19-71-0[&#60; Capítulo Anterior] | <<v19-72-0,Topo>> | xref:019-salmo/019-salmo-073.adoc#v19-73-0[Próximo Capítulo &#62;]

@@ -1,0 +1,136 @@
+include::./index.adoc[]
+
+[[v7-4-0]]
+=== Juízes, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v7-4-1]]
+
+^<<v7-4-1,1>>^ Os filhos de Israel começaram então a fazer novamente o que era mau aos olhos de Jeová, depois de morrer Eúde.
+
+[[v7-4-2]]
+
+^<<v7-4-2,2>>^ Portanto, Jeová os vendeu à mão de Jabim, rei de Canaã, que reinava em Hazor; e o chefe^&#42;1^ do seu exército era Sísera, e este morava em Harosete das nações.^&#42;2^
+
+[NOTE]
+====
+. “E o chefe do.” Hebr.: wesár; LXX: “príncipe (governador)”; Vg: “líder”.
+. Ou “Harosete-ha-goim”.
+====
+
+[[v7-4-3]]
+
+^<<v7-4-3,3>>^ E os filhos de Israel começaram a clamar a Jeová, visto que ele tinha novecentos carros de guerra com foices de ferro,^&#42;1^ e ele próprio oprimiu os filhos de Israel com severidade por vinte anos.
+
+[NOTE]
+====
+. Lit.: “carros de guerra, de ferro”.
+====
+
+[[v7-4-4]]
+
+^<<v7-4-4,4>>^ Ora, Débora,^&#42;1^ uma profetisa, esposa de Lapidote, julgava Israel naquele tempo específico.
+
+[NOTE]
+====
+. Significando “Abelha”.
+====
+
+[[v7-4-5]]
+
+^<<v7-4-5,5>>^ E ela morava debaixo da palmeira de Débora, entre Ramá e Betel, na região montanhosa de Efraim; e os filhos de Israel subiam até ela para julgamento.
+
+[[v7-4-6]]
+
+^<<v7-4-6,6>>^ E ela passou a mandar chamar de Quedes-Naftali a Baraque, filho de Abinoão, e a dizer-lhe: “Não foi Jeová, o Deus de Israel, quem deu a ordem? ‘Vai, e tens de espalhar-te pelo monte Tabor, e tens de tomar contigo dez mil homens dentre os filhos de Naftali e dentre os filhos de Zebulão.
+
+[[v7-4-7]]
+
+^<<v7-4-7,7>>^ E a ti, ao vale da torrente de Quisom, hei de atrair Sísera, chefe do exército de Jabim, bem como os seus carros de guerra e as suas massas, e hei de entregá-lo na tua mão.’”
+
+[[v7-4-8]]
+
+^<<v7-4-8,8>>^ A isso Baraque lhe disse: “Se fores comigo, então certamente irei; mas se não fores comigo, não irei.”
+
+[[v7-4-9]]
+
+^<<v7-4-9,9>>^ A isto ela disse: “Sem falta irei contigo. De qualquer modo, a coisa que embeleza não se tornará tua no caminho em que estás andando, pois será à mão de uma mulher que Jeová venderá^&#42;1^ a Sísera.” Com isso Débora se levantou e foi com Baraque a Quedes.
+
+[NOTE]
+====
+. “Entregará”, LXXVg.
+====
+
+[[v7-4-10]]
+
+^<<v7-4-10,10>>^ E Baraque começou a convocar Zebulão e Naftali a Quedes, e subiram dez mil homens, seguindo seus passos; e Débora subiu com ele.
+
+[[v7-4-11]]
+
+^<<v7-4-11,11>>^ Incidentalmente, Héber, o queneu, se havia separado dos queneus, os filhos de Hobabe, de quem Moisés era genro,^&#42;1^ e ele armara a sua tenda perto da árvore grande em Zaananim, que está junto a Quedes.
+
+[NOTE]
+====
+. Ou “Hobabe, sogro de Moisés”.
+====
+
+[[v7-4-12]]
+
+^<<v7-4-12,12>>^ Comunicou-se então a Sísera que Baraque, filho de Abinoão, havia subido ao monte Tabor.
+
+[[v7-4-13]]
+
+^<<v7-4-13,13>>^ Sísera convocou imediatamente todos os seus carros de guerra, os novecentos carros de guerra com foices de ferro, bem como todo o povo que havia com ele, de Harosete das nações para o vale da torrente de Quisom.
+
+[[v7-4-14]]
+
+^<<v7-4-14,14>>^ Débora disse então a Baraque: “Levanta-te, pois este é o dia em que Jeová te há de entregar Sísera na mão. Não é Jeová quem saiu na tua frente?” E Baraque foi descer do monte Tabor com dez mil homens atrás de si.
+
+[[v7-4-15]]
+
+^<<v7-4-15,15>>^ E Jeová começou a lançar em confusão tanto a Sísera como a todos os seus carros de guerra e todo o acampamento pelo fio da espada, diante de Baraque. Por fim, Sísera desceu do carro e pôs-se a fugir a pé.
+
+[[v7-4-16]]
+
+^<<v7-4-16,16>>^ E Baraque foi no encalço dos carros de guerra e do acampamento até Harosete das nações, de modo que todo o acampamento de Sísera caiu ao fio da espada. Não restou nem sequer um.
+
+[[v7-4-17]]
+
+^<<v7-4-17,17>>^ Quanto a Sísera, fugiu a pé para a tenda de Jael, esposa de Héber, o queneu, pois havia paz entre Jabim, rei de Hazor, e os da casa de Héber, o queneu.
+
+[[v7-4-18]]
+
+^<<v7-4-18,18>>^ Jael saiu então ao encontro de Sísera e disse-lhe: “Desvia-te para cá, meu senhor, desvia-te para mim. Não tenhas medo.” De modo que se desviou para ela, entrando na tenda. Mais tarde ela o cobriu com um cobertor.
+
+[[v7-4-19]]
+
+^<<v7-4-19,19>>^ Então ele lhe disse: “Por favor, dá-me um pouco de água para beber, pois tenho sede.” Portanto, ela abriu um odre de leite e deu-lhe de beber, cobrindo-o depois.
+
+[[v7-4-20]]
+
+^<<v7-4-20,20>>^ E ele prosseguiu, dizendo-lhe: “Fica de pé à entrada da tenda, e tem de dar-se que, se alguém vier e deveras perguntar, e disser: ‘Há um homem aqui?’ então tens de dizer: ‘Não!’”
+
+[[v7-4-21]]
+
+^<<v7-4-21,21>>^ E Jael, esposa de Héber, passou a tomar uma estaca de tenda e a lançar mão do martelo. Então se chegou a ele sorrateiramente e cravou-lhe a estaca nas têmporas, e martelou-a no chão, enquanto ele estava em profundo sono^&#42;1^ e esgotado. Assim morreu.
+
+[NOTE]
+====
+. Ou “roncava”.
+====
+
+[[v7-4-22]]
+
+^<<v7-4-22,22>>^ E eis Baraque perseguindo a Sísera. Jael saiu então ao encontro dele e disse-lhe: “Vem e eu te mostrarei o homem que estás procurando.” De modo que foi ter com ela lá dentro, e eis que ali estava Sísera caído morto, com a estaca nas suas têmporas.
+
+[[v7-4-23]]
+
+^<<v7-4-23,23>>^ Assim subjugou Deus naquele dia a Jabim, rei de Canaã, diante dos filhos de Israel.
+
+[[v7-4-24]]
+
+^<<v7-4-24,24>>^ E a mão dos filhos de Israel ficou cada vez mais dura contra Jabim, rei de Canaã, até que tinham decepado a Jabim, rei de Canaã.
+
+'''
+
+xref:007-juizes/007-juizes-003.adoc#v7-3-0[&#60; Capítulo Anterior] | <<v7-4-0,Topo>> | xref:007-juizes/007-juizes-005.adoc#v7-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v58-4-0]]
+=== Hebreus, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v58-4-1]]
+
+^<<v58-4-1,1>>^ Portanto, visto que resta uma promessa de se entrar no descanso dele, temamos que alguma vez alguém de vós pareça não a ter atingido.
+
+[[v58-4-2]]
+
+^<<v58-4-2,2>>^ Porque também a nós se nos declararam as boas novas, do mesmo modo como a eles; mas a palavra ouvida não lhes trouxe proveito, porque não foram unidos pela fé com os que ouviram.^&#42;1^
+
+[NOTE]
+====
+. “Porque ela [a palavra] não estava unida pela fé com os que ouviram”, א.
+====
+
+[[v58-4-3]]
+
+^<<v58-4-3,3>>^ Pois nós, os que exercemos fé, entramos no descanso, assim como ele disse: “Assim jurei na minha ira: ‘Não entrarão no meu descanso’”, embora as suas^&#42;1^ obras estivessem acabadas desde a fundação^&#42;2^ do mundo.
+
+[NOTE]
+====
+. Lit. só “as”, אAB; Syp: “de Deus”; J17: “de Jeová”.
+. Lit.: “o lançamento para baixo [de semente]”. Gr.: ka·ta·bo·lés.
+====
+
+[[v58-4-4]]
+
+^<<v58-4-4,4>>^ Porque num lugar ele disse do sétimo dia o seguinte: “E Deus^&#42;1^ descansou no sétimo dia de todas as suas obras”,
+
+[NOTE]
+====
+. “Deus”, אABVgSyp; J17(hebr.): “ele”.
+====
+
+[[v58-4-5]]
+
+^<<v58-4-5,5>>^ e novamente, neste lugar: “Não entrarão no meu descanso.”
+
+[[v58-4-6]]
+
+^<<v58-4-6,6>>^ Portanto, visto que resta que alguns entrem nele, e os a quem se declararam primeiro as boas novas não entraram, por causa de desobediência,
+
+[[v58-4-7]]
+
+^<<v58-4-7,7>>^ ele especifica novamente certo dia, por dizer, depois de tanto tempo, no [salmo] de Davi: “Hoje”, assim como já foi dito: “Hoje, se escutardes a sua própria voz, não endureçais os vossos corações.”
+
+[[v58-4-8]]
+
+^<<v58-4-8,8>>^ Pois, se Josué^&#42;1^ os tivesse conduzido a um lugar de descanso, [Deus]^&#42;2^ não teria depois falado de outro dia.
+
+[NOTE]
+====
+. “Jeosué”, J17,18,22; P46אABVg: “Jesus”; Syp: “Jesu-bar-Num (Jesus, filho de Num)”. Veja Jos 1:1 n.: “Josué”.
+. Lit.: “ele”.
+====
+
+[[v58-4-9]]
+
+^<<v58-4-9,9>>^ De modo que resta um descanso sabático para o povo de Deus.
+
+[[v58-4-10]]
+
+^<<v58-4-10,10>>^ Porque o homem que entrou no descanso [de Deus]^&#42;1^ descansou também das suas próprias obras, assim como Deus das suas.
+
+[NOTE]
+====
+. Lit.: “dele”.
+====
+
+[[v58-4-11]]
+
+^<<v58-4-11,11>>^ Façamos, portanto, o máximo para entrar naquele descanso, para que ninguém caia no mesmo exemplo de desobediência.
+
+[[v58-4-12]]
+
+^<<v58-4-12,12>>^ Porque a palavra de Deus é viva e exerce poder,^&#42;1^ e é mais afiada do que qualquer espada de dois gumes, e penetra até a divisão da alma e do espírito, e das juntas e da [sua] medula, e [é] capaz de discernir^&#42;2^ os pensamentos e as intenções^&#42;3^ do coração.
+
+[NOTE]
+====
+. “Exerce poder.” Lit.: “enérgica”. Gr.: e·ner·gés.
+. “Capaz de discernir.” Lit.: “julgador[a]”. Gr.: kri·ti·kós.
+. “Intenções.” Lit.: “inclinações mentais”.
+====
+
+[[v58-4-13]]
+
+^<<v58-4-13,13>>^ E não há criação que não esteja manifesta à sua vista, mas todas as coisas estão nuas e abertamente expostas aos olhos daquele com quem temos uma prestação de contas.
+
+[[v58-4-14]]
+
+^<<v58-4-14,14>>^ Portanto, visto que temos um grande sumo sacerdote que passou pelos céus, Jesus, o Filho de Deus, apeguemo-nos à [nossa] confissão [dele].
+
+[[v58-4-15]]
+
+^<<v58-4-15,15>>^ Pois temos por sumo sacerdote,^&#42;1^ não alguém que não se possa compadecer das nossas fraquezas, mas alguém que foi provado em todos os sentidos como nós mesmos, porém, sem pecado.
+
+[NOTE]
+====
+. “Sumo sacerdote.” Gr.: ar·khi·e·ré·a; lat.: pon·tí·fi·cem, “pontífice”; J17,22(hebr.): ko·hén ga·dhóhl.
+====
+
+[[v58-4-16]]
+
+^<<v58-4-16,16>>^ Aproximemo-nos, portanto, com franqueza no falar, do trono de benignidade imerecida, para obtermos misericórdia e acharmos benignidade imerecida para ajuda no tempo certo.
+
+'''
+
+xref:058-hebreus/058-hebreus-003.adoc#v58-3-0[&#60; Capítulo Anterior] | <<v58-4-0,Topo>> | xref:058-hebreus/058-hebreus-005.adoc#v58-5-0[Próximo Capítulo &#62;]

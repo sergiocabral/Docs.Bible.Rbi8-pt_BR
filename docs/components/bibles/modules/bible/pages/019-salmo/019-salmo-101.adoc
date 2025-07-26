@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v19-101-0]]
+=== Salmos, 101
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_De Davi. Uma melodia._
+
+[[v19-101-1]]
+
+^<<v19-101-1,1>>^ Vou cantar sobre a benevolência e o julgamento.
+A ti, ó Jeová, vou entoar melodias.
+
+[[v19-101-2]]
+
+^<<v19-101-2,2>>^ Vou agir com discrição num caminho sem defeito.
+Quando chegarás a mim?
+Dentro da minha casa andarei na integridade de meu coração.
+
+[[v19-101-3]]
+
+^<<v19-101-3,3>>^ Não porei diante dos meus olhos nenhuma coisa imprestável.^&#42;1^
+Tenho odiado o feito dos renegados;
+Não se apega a mim.
+
+[NOTE]
+====
+. Lit.: “uma coisa de belial (inutilidade)”.
+====
+
+[[v19-101-4]]
+
+^<<v19-101-4,4>>^ O coração pervertido se afasta de mim;
+Não conheço nada mau.
+
+[[v19-101-5]]
+
+^<<v19-101-5,5>>^ Quem às escondidas calunia seu companheiro,
+A este silencio.
+Quem tem olhos soberbos e coração arrogante,^&#42;1^
+A este não posso suportar.
+
+[NOTE]
+====
+. Lit.: “Quem é altivo de olhos e amplo de coração”.
+====
+
+[[v19-101-6]]
+
+^<<v19-101-6,6>>^ Meus olhos estão sobre os fiéis da terra,
+Para que morem comigo.
+Quem andar num caminho sem defeito,
+Este é o que ministrará a mim.
+
+[[v19-101-7]]
+
+^<<v19-101-7,7>>^ Dentro da minha casa não morará quem fizer tramóia.
+Quanto a qualquer falando falsidades, não ficará firmemente estabelecido
+Diante dos meus olhos.
+
+[[v19-101-8]]
+
+^<<v19-101-8,8>>^ Cada manhã^&#42;1^ silenciarei todos os iníquos da terra,
+Para decepar da cidade de Jeová todos os que praticam o que é prejudicial.
+
+[NOTE]
+====
+. Lit.: “Para as manhãs.”
+====
+
+'''
+
+xref:019-salmo/019-salmo-100.adoc#v19-100-0[&#60; Capítulo Anterior] | <<v19-101-0,Topo>> | xref:019-salmo/019-salmo-102.adoc#v19-102-0[Próximo Capítulo &#62;]

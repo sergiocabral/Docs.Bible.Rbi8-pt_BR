@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v19-142-0]]
+=== Salmos, 142
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Masquil.^&#42;1^ De Davi, quando veio a estar na caverna. Uma oração._
+
+[[v19-142-1]]
+
+^<<v19-142-1,1>>^ Com a minha voz passei a clamar por socorro a Jeová;
+Com a minha voz comecei a implorar favor a Jeová.
+
+[[v19-142-2]]
+
+^<<v19-142-2,2>>^ Eu derramava diante dele a minha preocupação;
+Eu continuava a contar diante dele a minha própria aflição,
+
+[[v19-142-3]]
+
+^<<v19-142-3,3>>^ Quando meu espírito se debilitou dentro de mim.
+Tu mesmo conhecias então a minha senda.
+Na vereda em que ando
+Encobriram uma armadilha contra mim.
+
+[[v19-142-4]]
+
+^<<v19-142-4,4>>^ Olha para a mão direita e vê
+Que não há quem me dê qualquer reconhecimento.
+Pereceu para mim meu lugar de refúgio;
+Não há quem indague pela minha alma.
+
+[[v19-142-5]]
+
+^<<v19-142-5,5>>^ Clamei a ti por socorro, ó Jeová.
+Eu disse: “Tu és o meu refúgio,
+Meu quinhão na terra dos viventes.”
+
+[[v19-142-6]]
+
+^<<v19-142-6,6>>^ Presta deveras atenção ao meu clamor suplicante,
+Pois fiquei muito empobrecido.
+Livra-me dos meus perseguidores,
+Porque são mais fortes do que eu.
+
+[[v19-142-7]]
+
+^<<v19-142-7,7>>^ Leva deveras minha alma para fora do próprio calabouço
+Para elogiar teu nome.
+Ajuntem-se os justos em torno de mim,
+Porque ages apropriadamente para comigo.
+
+'''
+
+xref:019-salmo/019-salmo-141.adoc#v19-141-0[&#60; Capítulo Anterior] | <<v19-142-0,Topo>> | xref:019-salmo/019-salmo-143.adoc#v19-143-0[Próximo Capítulo &#62;]

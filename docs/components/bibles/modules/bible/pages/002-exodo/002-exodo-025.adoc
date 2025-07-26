@@ -1,0 +1,230 @@
+include::./index.adoc[]
+
+[[v2-25-0]]
+=== Êxodo, 25
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-25-1]]
+
+^<<v2-25-1,1>>^ E Jeová passou a falar a Moisés, dizendo:
+
+[[v2-25-2]]
+
+^<<v2-25-2,2>>^ “Fala aos filhos de Israel que recolham para mim uma contribuição:^&#42;1^ De todo homem cujo coração o incitar deveis recolher a contribuição para mim.
+
+[NOTE]
+====
+. Ou “porção sagrada; oferta movida”.
+====
+
+[[v2-25-3]]
+
+^<<v2-25-3,3>>^ E esta é a contribuição que deveis recolher deles: ouro e prata, e cobre,
+
+[[v2-25-4]]
+
+^<<v2-25-4,4>>^ e linha azul, e lã tingida de roxo, e fibras carmíneas, e linho fino, e pêlos de cabra,
+
+[[v2-25-5]]
+
+^<<v2-25-5,5>>^ e peles de carneiros tingidas de vermelho, e peles de focas,^&#42;1^ e madeira de acácia;
+
+[NOTE]
+====
+. Ou “e couro tahash”. Hebr.: we‛o·róth tehha·shím.
+====
+
+[[v2-25-6]]
+
+^<<v2-25-6,6>>^ óleo para o luzeiro, óleo de bálsamo para o óleo de unção e para o incenso perfumado;
+
+[[v2-25-7]]
+
+^<<v2-25-7,7>>^ e pedras de ônix e pedras de engaste para o éfode^&#42;1^ e para o peitoral.
+
+[NOTE]
+====
+. Pelo visto, era uma vestimenta semelhante a um avental, com uma parte dianteira e outra traseira.
+====
+
+[[v2-25-8]]
+
+^<<v2-25-8,8>>^ E eles têm de fazer um santuário para mim, visto que tenho de residir no meio deles.
+
+[[v2-25-9]]
+
+^<<v2-25-9,9>>^ Segundo tudo o que te estou mostrando como modelo do tabernáculo^&#42;1^ e como modelo de todos os seus implementos, assim deveis fazê-lo.
+
+[NOTE]
+====
+. Ou “da residência”.
+====
+
+[[v2-25-10]]
+
+^<<v2-25-10,10>>^ “E eles têm de fazer uma Arca^&#42;1^ de madeira de acácia, de dois côvados^&#42;2^ e meio de comprimento, e de um côvado e meio de largura, e de um côvado e meio de altura.
+
+[NOTE]
+====
+. “Uma Arca de.” Hebr.: ’aróhn; é diferente de te·váth, usada em Êx 2:3 e Gên 6:14; lat.: ár·cam.
+. Um côvado equivalia a 44,5 cm.
+====
+
+[[v2-25-11]]
+
+^<<v2-25-11,11>>^ E tens de recobri-la de ouro puro. Deves recobri-la por dentro e por fora, e tens de fazer nela uma bordadura de ouro em volta.
+
+[[v2-25-12]]
+
+^<<v2-25-12,12>>^ E tens de fundir para ela quatro argolas de ouro e pô-las acima dos seus quatro pés, com duas argolas num lado e duas argolas noutro lado dela.
+
+[[v2-25-13]]
+
+^<<v2-25-13,13>>^ E tens de fazer varais de madeira de acácia e recobri-los de ouro.
+
+[[v2-25-14]]
+
+^<<v2-25-14,14>>^ E tens de passar os varais pelas argolas nos lados da Arca, a fim de se carregar com eles a Arca.
+
+[[v2-25-15]]
+
+^<<v2-25-15,15>>^ Os varais devem ficar nas argolas da Arca. Não devem ser removidos dela.
+
+[[v2-25-16]]
+
+^<<v2-25-16,16>>^ E tens de colocar na Arca o testemunho que te darei.
+
+[[v2-25-17]]
+
+^<<v2-25-17,17>>^ “E tens de fazer uma tampa^&#42;1^ de ouro puro, de dois côvados e meio de comprimento e um côvado e meio de largura.
+
+[NOTE]
+====
+. Ou “trono de misericórdia; propiciatório”. Hebr.: khap·pó·reth; lat.: pro·pi·ti·a·tó·ri·um. Veja He 9:5 n.
+====
+
+[[v2-25-18]]
+
+^<<v2-25-18,18>>^ E tens de fazer dois querubins de ouro. Deves fazê-los [como] obra batida ao martelo, em ambas as extremidades da tampa.
+
+[[v2-25-19]]
+
+^<<v2-25-19,19>>^ E faze um querubim nesta extremidade e outro querubim naquela extremidade. Deveis fazer os querubins na tampa, nas suas duas extremidades.
+
+[[v2-25-20]]
+
+^<<v2-25-20,20>>^ E os querubins têm de estender suas duas asas para cima, abrigando a tampa com suas asas, tendo suas faces [voltadas] um para o outro. As faces dos querubins devem estar [inclinadas] para a tampa.
+
+[[v2-25-21]]
+
+^<<v2-25-21,21>>^ E tens de colocar a tampa em cima da Arca, e dentro da Arca colocarás o testemunho que te darei.
+
+[[v2-25-22]]
+
+^<<v2-25-22,22>>^ E ali me hei de apresentar a ti e falar contigo de cima da tampa, de entre os dois querubins que há sobre a arca do testemunho, sim, tudo o que eu te mandar para os filhos de Israel.
+
+[[v2-25-23]]
+
+^<<v2-25-23,23>>^ “E tens de fazer uma mesa de madeira de acácia, de dois côvados de comprimento e um côvado de largura, e um côvado e meio de altura.
+
+[[v2-25-24]]
+
+^<<v2-25-24,24>>^ E tens de recobri-la de ouro puro e tens de fazer-lhe uma bordadura de ouro em roda.
+
+[[v2-25-25]]
+
+^<<v2-25-25,25>>^ E tens de fazer-lhe em roda uma borda da largura da mão^&#42;1^ e tens de fazer a bordadura de ouro para a sua borda ao redor.
+
+[NOTE]
+====
+. Cerca de 7,4 cm.
+====
+
+[[v2-25-26]]
+
+^<<v2-25-26,26>>^ E tens de fazer-lhe quatro argolas de ouro e colocar as argolas nos quatro cantos que são para os quatro pés.
+
+[[v2-25-27]]
+
+^<<v2-25-27,27>>^ As argolas devem estar perto da borda como suportes para os varais, para se carregar a mesa.
+
+[[v2-25-28]]
+
+^<<v2-25-28,28>>^ E tens de fazer os varais de madeira de acácia e recobri-los de ouro, e com estes eles têm de carregar^&#42;1^ a mesa.
+
+[NOTE]
+====
+. “Eles têm de carregar”, SamSy.
+====
+
+[[v2-25-29]]
+
+^<<v2-25-29,29>>^ “E tens de fazer seus pratos, e suas taças, e suas bilhas, e suas tigelas com as quais derramarão [libações].^&#42;1^ Deves fazê-los de ouro puro.
+
+[NOTE]
+====
+. Lit.: “com as quais deve ser derramado”.
+====
+
+[[v2-25-30]]
+
+^<<v2-25-30,30>>^ E tens de pôr continuamente os pães da proposição^&#42;1^ na mesa diante de mim.
+
+[NOTE]
+====
+. Ou “pão da Presença”. Hebr.: lé·hhem pa·ním; Vg.: “pães da apresentação”.
+====
+
+[[v2-25-31]]
+
+^<<v2-25-31,31>>^ “E tens de fazer um candelabro de ouro puro. O candelabro deve ser feito [como] obra batida ao martelo. Sua base,^&#42;1^ suas hastes, seus cálices, seus botões e suas flores devem proceder dele.
+
+[NOTE]
+====
+. Ou “coxa; flanco”.
+====
+
+[[v2-25-32]]
+
+^<<v2-25-32,32>>^ E seis hastes saem dos seus lados, três hastes do candelabro de um lado e três hastes do candelabro do outro lado.
+
+[[v2-25-33]]
+
+^<<v2-25-33,33>>^ Três cálices em forma de flores de amêndoa estão num grupo de hastes, alternando-se botões e flores, e três cálices em forma de flores de amêndoa estão no outro grupo de hastes, alternando-se botões e flores. Assim é com as seis hastes que saem do candelabro.
+
+[[v2-25-34]]
+
+^<<v2-25-34,34>>^ E no candelabro há quatro cálices em forma de flores de amêndoa, alternando-se seus botões e suas flores.
+
+[[v2-25-35]]
+
+^<<v2-25-35,35>>^ E o botão debaixo de duas hastes provém dele, e o botão debaixo de outras duas hastes provém dele, e o botão debaixo de mais duas hastes provém dele, para as seis hastes que saem do candelabro.
+
+[[v2-25-36]]
+
+^<<v2-25-36,36>>^ Seus botões e suas hastes devem proceder dele. Todo ele é uma só peça de obra batida ao martelo, de ouro puro.
+
+[[v2-25-37]]
+
+^<<v2-25-37,37>>^ E tens de fazer-lhe sete lâmpadas; e as lâmpadas têm de estar acesas e têm de iluminar a área na frente dele.
+
+[[v2-25-38]]
+
+^<<v2-25-38,38>>^ E suas espevitadeiras e seus porta-lumes são de ouro puro.
+
+[[v2-25-39]]
+
+^<<v2-25-39,39>>^ Ele deve fazê-lo de um talento^&#42;1^ de ouro puro, com todos estes seus utensílios.
+
+[NOTE]
+====
+. Cerca de 34,2 kg. Veja Ap. 8A.
+====
+
+[[v2-25-40]]
+
+^<<v2-25-40,40>>^ E vê que os faças segundo o seu modelo que te foi mostrado no monte.
+
+'''
+
+xref:002-exodo/002-exodo-024.adoc#v2-24-0[&#60; Capítulo Anterior] | <<v2-25-0,Topo>> | xref:002-exodo/002-exodo-026.adoc#v2-26-0[Próximo Capítulo &#62;]

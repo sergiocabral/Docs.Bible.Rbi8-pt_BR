@@ -1,0 +1,72 @@
+include::./index.adoc[]
+
+[[v19-130-0]]
+=== Salmos, 130
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Cântico das Subidas._
+
+[[v19-130-1]]
+
+^<<v19-130-1,1>>^ Das funduras te invoquei, ó Jeová.
+
+[[v19-130-2]]
+
+^<<v19-130-2,2>>^ Ó Jeová,^&#42;1^ ouve deveras a minha voz.
+Mostrem-se teus ouvidos atentos à voz dos meus rogos.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-130-3]]
+
+^<<v19-130-3,3>>^ Se vigiasses os erros, ó Jah,^&#42;1^
+Ó Jeová,^&#42;2^ quem poderia ficar de pé?
+
+[NOTE]
+====
+. “Jah.” Hebr. e T(aram.): Yah; LXXVg: “Jeová”. Veja 68:4 n.
+. Veja v. 2 n.
+====
+
+[[v19-130-4]]
+
+^<<v19-130-4,4>>^ Pois contigo há o [verdadeiro] perdão,
+A fim de que sejas temido.
+
+[[v19-130-5]]
+
+^<<v19-130-5,5>>^ Tive esperança, ó Jeová, minha alma teve esperança,
+E esperei a sua palavra.
+
+[[v19-130-6]]
+
+^<<v19-130-6,6>>^ Minha alma [esperou] por Jeová,^&#42;1^
+Mais do que os vigias pela manhã,
+Vigiando a manhã.
+
+[NOTE]
+====
+. Veja v. 2 n.
+====
+
+[[v19-130-7]]
+
+^<<v19-130-7,7>>^ Que Israel continue esperando por Jeová.
+Pois com Jeová há benevolência^&#42;1^
+E há em abundância redenção com ele.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-130-8]]
+
+^<<v19-130-8,8>>^ E ele mesmo remirá Israel de todos os seus erros.
+
+'''
+
+xref:019-salmo/019-salmo-129.adoc#v19-129-0[&#60; Capítulo Anterior] | <<v19-130-0,Topo>> | xref:019-salmo/019-salmo-131.adoc#v19-131-0[Próximo Capítulo &#62;]

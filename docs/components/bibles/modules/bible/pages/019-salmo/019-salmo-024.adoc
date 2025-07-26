@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-24-0]]
+=== Salmos, 24
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_De Davi. Uma melodia._
+
+[[v19-24-1]]
+
+^<<v19-24-1,1>>^ A Jeová pertence a terra e o que a enche,
+O solo produtivo^&#42;1^ e os que moram nele.
+
+[NOTE]
+====
+. “A terra habitada”, gr.: he oi·kou·mé·ne; lat.: ór·bis ter·rá·rum, “círculo de toda a terra”.
+====
+
+[[v19-24-2]]
+
+^<<v19-24-2,2>>^ Pois ele mesmo a fixou solidamente sobre os mares
+E a mantém firmemente estabelecida sobre os rios.^&#42;1^
+
+[NOTE]
+====
+. Ou “os oceanos”, que rodeiam as grandes massas de terra do globo.
+====
+
+[[v19-24-3]]
+
+^<<v19-24-3,3>>^ Quem pode subir ao monte de Jeová
+E quem pode levantar-se no seu lugar santo?
+
+[[v19-24-4]]
+
+^<<v19-24-4,4>>^ O de mãos inocentes e de coração limpo,
+Que não levou Minha^&#42;1^ alma^&#42;2^ à mera futilidade,
+Nem fez um juramento enganoso.
+
+[NOTE]
+====
+. “Minha”, M; TLXXSyVg e muitos mss. hebr.: “Sua”.
+. Ou “Minha vida”, referindo-se à vida de Jeová, pela qual a pessoa jura. Veja Êx 20:7 n.
+====
+
+[[v19-24-5]]
+
+^<<v19-24-5,5>>^ Ele carregará com a bênção da parte de Jeová
+E com a justiça da parte do seu Deus de salvação.
+
+[[v19-24-6]]
+
+^<<v19-24-6,6>>^ Esta é a geração dos que o buscam,
+Dos que procuram a tua face, ó [Deus de] Jacó.^&#42;1^ Selá.
+
+[NOTE]
+====
+. “Deus de Jacó”, LXXSyVg; M: “ó Jacó”.
+====
+
+[[v19-24-7]]
+
+^<<v19-24-7,7>>^ “Levantai as vossas cabeças, ó portões,
+E levantai-vos, ó entradas de longa duração,^&#42;1^
+Para que entre o Rei glorioso!”
+
+[NOTE]
+====
+. Ou “duração indefinida”. Hebr.: ‛oh·lám.
+====
+
+[[v19-24-8]]
+
+^<<v19-24-8,8>>^ “Então, quem é este Rei glorioso?
+Jeová, forte e poderoso,
+Jeová, poderoso na batalha.”^&#42;1^
+
+[NOTE]
+====
+. Ou “guerra”.
+====
+
+[[v19-24-9]]
+
+^<<v19-24-9,9>>^ “Levantai as vossas cabeças, ó portões;
+Sim, levantai-as, ó entradas de longa duração,
+Para que entre o Rei glorioso!”
+
+[[v19-24-10]]
+
+^<<v19-24-10,10>>^ “Então, quem é ele, este Rei glorioso?
+Jeová dos exércitos^&#42;1^ — ele é o Rei glorioso.” Selá.
+
+[NOTE]
+====
+. Veja 1Sa 1:3 n.: “exércitos”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-023.adoc#v19-23-0[&#60; Capítulo Anterior] | <<v19-24-0,Topo>> | xref:019-salmo/019-salmo-025.adoc#v19-25-0[Próximo Capítulo &#62;]

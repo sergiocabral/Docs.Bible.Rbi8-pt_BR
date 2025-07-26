@@ -1,0 +1,213 @@
+include::./index.adoc[]
+
+[[v10-15-0]]
+=== 2 Samuel, 15
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v10-15-1]]
+
+^<<v10-15-1,1>>^ E sucedeu, depois destas coisas, que Absalão passou a mandar fazer para si um carro, com cavalos e com cinqüenta homens correndo adiante dele.
+
+[[v10-15-2]]
+
+^<<v10-15-2,2>>^ E Absalão levantou-se cedo e ficou de pé ao lado da estrada do portão. E aconteceu que, tendo algum homem uma causa a apresentar ao rei para julgamento, então Absalão o chamava e dizia: “De que cidade és?” e ele dizia: “Teu servo é de uma das tribos de Israel.”
+
+[[v10-15-3]]
+
+^<<v10-15-3,3>>^ E Absalão dizia-lhe: “Olha, tuas questões são boas e direitas; mas não há ninguém da parte do rei que te dê audiência.”
+
+[[v10-15-4]]
+
+^<<v10-15-4,4>>^ E Absalão prosseguia, dizendo: “Quem me dera ser designado juiz no país, para que viesse a mim todo homem que tivesse uma causa ou um julgamento! Eu certamente lhe faria então justiça.”
+
+[[v10-15-5]]
+
+^<<v10-15-5,5>>^ E também aconteceu que, chegando-se um homem para se curvar diante dele, estendeu a mão e o agarrou, e o beijou.
+
+[[v10-15-6]]
+
+^<<v10-15-6,6>>^ E Absalão fazia tal coisa com todos os israelitas que vinham ao rei para julgamento; e Absalão furtava os corações dos homens de Israel.
+
+[[v10-15-7]]
+
+^<<v10-15-7,7>>^ E sucedeu, ao fim de quarenta anos,^&#42;1^ que Absalão passou a dizer ao rei: “Por favor, deixa-me ir e pagar em Hébron meu voto que fiz solenemente a Jeová.
+
+[NOTE]
+====
+. “Quarenta anos”, MLXXVgc; LXXLSyVg: “quatro anos”. Talvez 40 anos desde a unção de Davi. Veja 1Sa 16:13.
+====
+
+[[v10-15-8]]
+
+^<<v10-15-8,8>>^ Pois, teu servo fez um voto solene quando morei em Gesur, na Síria, dizendo: ‘Se Jeová, sem falta, me levar de volta a Jerusalém, então terei de prestar serviço a Jeová.’”
+
+[[v10-15-9]]
+
+^<<v10-15-9,9>>^ O rei lhe disse, pois: “Vai em paz.” Então ele se levantou e foi a Hébron.
+
+[[v10-15-10]]
+
+^<<v10-15-10,10>>^ Absalão enviou então espiões através de todas as tribos de Israel, dizendo: “Assim que ouvirdes o som da buzina, tereis de dizer também: ‘Absalão tornou-se rei em Hébron!’”
+
+[[v10-15-11]]
+
+^<<v10-15-11,11>>^ Ora, com Absalão haviam ido duzentos homens de Jerusalém, que tinham sido chamados e que iam sem suspeita,^&#42;1^ e eles não sabiam de nada.
+
+[NOTE]
+====
+. Ou “na sua inocência”.
+====
+
+[[v10-15-12]]
+
+^<<v10-15-12,12>>^ Além disso, ao oferecer os sacrifícios, Absalão mandou [chamar]^&#42;1^ Aitofel, o gilonita, conselheiro de Davi, da sua cidade de Gilo. E a conspiração ficou cada vez mais forte e o povo com Absalão aumentava continuamente em número.
+
+[NOTE]
+====
+. “Mandou chamar”, M; LXX: “mandou e chamou”.
+====
+
+[[v10-15-13]]
+
+^<<v10-15-13,13>>^ Então veio a Davi um informante, dizendo: “O coração dos homens de Israel veio a estar atrás de Absalão.”
+
+[[v10-15-14]]
+
+^<<v10-15-14,14>>^ Davi disse imediatamente a todos os seus servos que estavam com ele em Jerusalém: “Levantai-vos e fujamos; pois não se mostrará haver escape para nós por causa de Absalão! Ide apressadamente, para que não venha depressa e realmente nos alcance, e traga sobre nós o mal e golpeie a cidade com o fio da espada!”
+
+[[v10-15-15]]
+
+^<<v10-15-15,15>>^ Os servos do rei disseram então ao rei: “De acordo com tudo o que meu senhor, o rei, escolher, eis os teus servos.”
+
+[[v10-15-16]]
+
+^<<v10-15-16,16>>^ Portanto, o rei saiu, com todos os da sua casa aos seus pés, e o rei deixou ficar dez mulheres, concubinas, para tomarem conta da casa.
+
+[[v10-15-17]]
+
+^<<v10-15-17,17>>^ E o rei foi saindo, com todo o povo aos seus pés; e foram parar em Bete-Meraque.^&#42;1^
+
+[NOTE]
+====
+. Significando “A Casa Distante”.
+====
+
+[[v10-15-18]]
+
+^<<v10-15-18,18>>^ E todos os seus servos atravessavam ao seu lado; e todos os queretitas, e todos os peletitas, e todos os geteus, seiscentos homens que o tinham seguido^&#42;1^ desde Gate, atravessavam diante da face do rei.
+
+[NOTE]
+====
+. Lit.: “tinham chegado aos seus pés”, isto é, aos pés do Itai mencionado no v. 19.
+====
+
+[[v10-15-19]]
+
+^<<v10-15-19,19>>^ O rei disse então a Itai, o geteu: “Por que irias tu também conosco? Volta e mora com o rei; pois és estrangeiro e além disso és um exilado do teu lugar.
+
+[[v10-15-20]]
+
+^<<v10-15-20,20>>^ Foi ontem que chegaste, e far-te-ia eu hoje andar errante conosco, para ir quando vou aonde quer que eu for? Volta e toma teus irmãos de volta contigo, [e que Jeová use para contigo de]^&#42;1^ benevolência e fidedignidade!”
+
+[NOTE]
+====
+. “E que Jeová use para contigo de”, em harmonia com LXX; M omite isso.
+====
+
+[[v10-15-21]]
+
+^<<v10-15-21,21>>^ Mas Itai respondeu ao rei e disse: “Por Jeová que vive e por meu senhor, o rei, que vive, no lugar em que meu senhor, o rei, vier a estar, quer para a morte quer para a vida, lá virá a estar o teu servo!”
+
+[[v10-15-22]]
+
+^<<v10-15-22,22>>^ Em vista disso, Davi disse a Itai: “Vai e atravessa.” Itai, o geteu, pois, fez a travessia, e também todos os homens e todos os pequeninos que estavam com ele.
+
+[[v10-15-23]]
+
+^<<v10-15-23,23>>^ E todo o povo da terra^&#42;1^ chorava em alta voz e todo o povo atravessava, e o rei estava de pé junto ao vale da torrente do Cédron, e todo o povo estava atravessando na estrada aberta para o ermo.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “E toda a terra (país).”
+. Possivelmente: “o rei estava de pé junto ao vale da torrente do Cédron, e todo o povo atravessava diante dele pelo caminho da oliveira no ermo”, LXXLucian.
+====
+
+[[v10-15-24]]
+
+^<<v10-15-24,24>>^ E eis que ali estava também Zadoque e com ele todos os levitas, carregando a arca do pacto do [verdadeiro] Deus; e passaram a colocar a arca do [verdadeiro] Deus junto a Abiatar,^&#42;1^ até que todo o povo completou a travessia desde a cidade.
+
+[NOTE]
+====
+. “Junto a Abiatar”, mediante uma emenda; M: “e Abiatar passou a subir”.
+====
+
+[[v10-15-25]]
+
+^<<v10-15-25,25>>^ Mas o rei disse a Zadoque: “Leva a arca do [verdadeiro] Deus de volta à cidade. Se eu achar favor aos olhos de Jeová, então ele certamente me trará de volta e me deixará ver tanto a ela como a seu lugar de permanência.
+
+[[v10-15-26]]
+
+^<<v10-15-26,26>>^ Mas, se ele disser assim: ‘Não me agradei de ti’, eis-me aqui, faça ele comigo o que for bom aos seus olhos.”
+
+[[v10-15-27]]
+
+^<<v10-15-27,27>>^ E o rei prosseguiu, dizendo a Zadoque, o sacerdote: “Tu és vidente, não és? Volta deveras em paz à cidade, e convosco também Aimaás, teu filho, e Jonatã, filho de Abiatar, vossos dois filhos.
+
+[[v10-15-28]]
+
+^<<v10-15-28,28>>^ Vede, demorar-me-ei junto aos vaus^&#42;1^ do ermo até que venha de vós alguma palavra para me informar.”
+
+[NOTE]
+====
+. “Junto aos vaus”, M; MmargemLXXSy(sing.)Vg: “nas planícies desérticas”.
+====
+
+[[v10-15-29]]
+
+^<<v10-15-29,29>>^ Por conseguinte, Zadoque e Abiatar levaram a arca do [verdadeiro] Deus de volta a Jerusalém e ficaram^&#42;1^ morando ali.
+
+[NOTE]
+====
+. “E ficaram”, MSyVg; LXX: “e ficou”.
+====
+
+[[v10-15-30]]
+
+^<<v10-15-30,30>>^ E Davi foi para cima pela subida das Oliveiras, chorando ao passo que subia, com a cabeça coberta; e andava descalço, e todo o povo que estava com ele cobria cada um a sua cabeça, e subiram, chorando ao passo que subiam.
+
+[[v10-15-31]]
+
+^<<v10-15-31,31>>^ E foi relatado a Davi, dizendo-se: “O próprio Aitofel está entre os que conspiram com Absalão.” Então disse Davi: “Por favor, transforma em estultícia o conselho de Aitofel, ó Jeová!”
+
+[[v10-15-32]]
+
+^<<v10-15-32,32>>^ E sucedeu que, chegando o próprio Davi ao cume onde o povo^&#42;1^ costumava curvar-se diante de Deus, eis que vinha ao seu encontro Husai, o arquita, com a sua veste comprida rasgada e com terra na sua cabeça.
+
+[NOTE]
+====
+. Ou “alguém; ele”.
+====
+
+[[v10-15-33]]
+
+^<<v10-15-33,33>>^ No entanto, Davi disse-lhe: “Se realmente fizeres a travessia comigo, então certamente te tornarás uma carga para mim.
+
+[[v10-15-34]]
+
+^<<v10-15-34,34>>^ Mas, se retornares à cidade e realmente disseres a Absalão: ‘Sou teu servo, ó rei. Eu costumava mostrar ser servo de teu pai, sim, eu, naquele tempo, mas agora até mesmo eu sou teu servo’, então terás de frustrar-me o conselho de Aitofel.
+
+[[v10-15-35]]
+
+^<<v10-15-35,35>>^ Não estão lá contigo Zadoque e Abiatar, os sacerdotes? E terá de dar-se que tudo o que ouvires da casa do rei deves contar a Zadoque e a Abiatar, os sacerdotes.
+
+[[v10-15-36]]
+
+^<<v10-15-36,36>>^ Eis que seus dois filhos estão com eles, Aimaás que pertence a Zadoque e Jonatã que pertence a Abiatar; e por meio deles tereis de enviar-me tudo o que possais ouvir.”
+
+[[v10-15-37]]
+
+^<<v10-15-37,37>>^ Assim Husai, companheiro de Davi, entrou na cidade. Quanto a Absalão, passou a entrar em Jerusalém.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-014.adoc#v10-14-0[&#60; Capítulo Anterior] | <<v10-15-0,Topo>> | xref:010-2-samuel/010-2-samuel-016.adoc#v10-16-0[Próximo Capítulo &#62;]

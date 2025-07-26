@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v19-95-0]]
+=== Salmos, 95
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-95-1]]
+
+^<<v19-95-1,1>>^ Vinde, gritemos de júbilo a Jeová!
+Brademos em triunfo à nossa Rocha de salvação.
+
+[[v19-95-2]]
+
+^<<v19-95-2,2>>^ Compareçamos perante a sua pessoa^&#42;1^ com agradecimento;
+Brademos a ele em triunfo com melodias.
+
+[NOTE]
+====
+. Lit.: “face”. Veja Êx 33:14, 15 n. e 2Sa 17:11 n.: “pessoa”.
+====
+
+[[v19-95-3]]
+
+^<<v19-95-3,3>>^ Pois Jeová é um grande Deus^&#42;1^
+E um grande Rei sobre todos os [outros] deuses,^&#42;2^
+
+[NOTE]
+====
+. “Um grande Deus.” Hebr.: ’El ga·dhóhl.
+. “Sobre todos os [outros] deuses.” Hebr.: ‛al-kol-’elo·hím.
+====
+
+[[v19-95-4]]
+
+^<<v19-95-4,4>>^ Aquele em cuja mão estão as profundezas mais interiores^&#42;1^ da terra
+E a quem pertencem os picos dos montes;
+
+[NOTE]
+====
+. Ou “os campos [para exploração]”. Mediante uma correção do M, em harmonia com LXX: “os lugares distantes”.
+====
+
+[[v19-95-5]]
+
+^<<v19-95-5,5>>^ A quem pertence o mar, que ele mesmo fez,
+E cujas próprias mãos formaram a terra seca.
+
+[[v19-95-6]]
+
+^<<v19-95-6,6>>^ Entrai, adoremos e dobremo-nos;
+Ajoelhemo-nos diante de Jeová, Aquele que nos fez.
+
+[[v19-95-7]]
+
+^<<v19-95-7,7>>^ Pois ele é nosso Deus, e nós somos o povo do seu pasto e as ovelhas da sua mão.
+Hoje, se escutardes a sua própria voz,
+
+[[v19-95-8]]
+
+^<<v19-95-8,8>>^ Não endureçais os vossos corações como em Meribá,^&#42;1^
+Como no dia de Massá,^&#42;2^ no ermo,
+
+[NOTE]
+====
+. Ou “altercação”, M; LXX: “na amargura”; Vg: “na irritação”.
+. Significando “Prova; Provação”; LXXVg: “tentação”.
+====
+
+[[v19-95-9]]
+
+^<<v19-95-9,9>>^ Quando os vossos antepassados me puseram à prova;
+Examinaram-me, viram também a minha atuação.
+
+[[v19-95-10]]
+
+^<<v19-95-10,10>>^ Por quarenta anos eu tive aversão [a esta]^&#42;1^ geração,
+E passei a dizer:
+“São um povo que se perde no coração,
+E eles mesmos não chegaram a conhecer os meus caminhos”;
+
+[NOTE]
+====
+. “A esta”, LXXSyVg; MT omitem isso.
+====
+
+[[v19-95-11]]
+
+^<<v19-95-11,11>>^ Acerca deles jurei na minha ira:
+“Não entrarão no meu lugar de descanso.”^&#42;1^
+
+[NOTE]
+====
+. “Descanso”, LXXVg.
+====
+
+'''
+
+xref:019-salmo/019-salmo-094.adoc#v19-94-0[&#60; Capítulo Anterior] | <<v19-95-0,Topo>> | xref:019-salmo/019-salmo-096.adoc#v19-96-0[Próximo Capítulo &#62;]

@@ -1,0 +1,311 @@
+include::./index.adoc[]
+
+[[v43-1-0]]
+=== João, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v43-1-1]]
+
+^<<v43-1-1,1>>^ No princípio era a Palavra,^&#42;1^ e a Palavra estava com o Deus,^&#42;2^ e a Palavra era [um] deus.^&#42;3^
+
+[NOTE]
+====
+. Ou “o Logos”. Gr.: ho ló·gos; lat.: Vér·bum; J17,18,22(hebr.): had·Da·vár.
+. Lit.: “estava para com o Deus”. Gr.: en pros ton The·ón; J17,18(hebr.): ha·yáh ’eth ha·’Elo·hím.
+. “[Um] deus.” Gr.: the·ós, em contraste com ton The·ón, “o Deus”, na mesma sentença; J17,22(hebr.): we’·lo·hím, “e deus”. Veja o exame da expressão “um deus” no Ap. 6A.
+====
+
+[[v43-1-2]]
+
+^<<v43-1-2,2>>^ Este estava no princípio com o Deus.
+
+[[v43-1-3]]
+
+^<<v43-1-3,3>>^ Todas as coisas vieram à existência por intermédio dele, e à parte dele nem mesmo uma só coisa veio à existência.
+O que veio à existência
+
+[[v43-1-4]]
+
+^<<v43-1-4,4>>^ por meio dele foi a vida, e a vida era a luz dos homens.^&#42;1^
+
+[NOTE]
+====
+. A pontuação dos vv. 3 e 4 segue WH, Vgww, UBS e Nestle-Aland.
+====
+
+[[v43-1-5]]
+
+^<<v43-1-5,5>>^ E a luz está brilhando na escuridão, mas a escuridão não a tem vencido.
+
+[[v43-1-6]]
+
+^<<v43-1-6,6>>^ Surgiu um homem enviado como representante de Deus: seu nome era João.^&#42;1^
+
+[NOTE]
+====
+. Veja Mt 3:1 n.: “João”.
+====
+
+[[v43-1-7]]
+
+^<<v43-1-7,7>>^ Este [homem] veio em testemunho, a fim de dar testemunho da luz, para que pessoas de toda sorte cressem por intermédio dele.
+
+[[v43-1-8]]
+
+^<<v43-1-8,8>>^ Ele não era essa luz, mas havia de dar testemunho dessa luz.
+
+[[v43-1-9]]
+
+^<<v43-1-9,9>>^ A verdadeira luz que dá luz a toda sorte de homem estava para vir ao mundo.^&#42;1^
+
+[NOTE]
+====
+. Veja 3:16 n.
+====
+
+[[v43-1-10]]
+
+^<<v43-1-10,10>>^ Ele estava no mundo, e o mundo veio à existência por intermédio dele, mas o mundo não o conheceu.
+
+[[v43-1-11]]
+
+^<<v43-1-11,11>>^ Veio ao seu próprio lar, mas os seus não o acolheram.
+
+[[v43-1-12]]
+
+^<<v43-1-12,12>>^ No entanto, a tantos quantos o receberam, a estes deu autoridade para se tornarem filhos de Deus, porque exerciam fé no seu nome;
+
+[[v43-1-13]]
+
+^<<v43-1-13,13>>^ e nasceram, não do sangue,^&#42;1^ nem da vontade carnal, nem da vontade do homem, mas de Deus.
+
+[NOTE]
+====
+. Lit.: “sangues”.
+====
+
+[[v43-1-14]]
+
+^<<v43-1-14,14>>^ De modo que a Palavra se tornou carne e residiu^&#42;1^ entre nós, e observamos a sua glória, uma glória tal como a de um filho unigênito dum pai; e ele estava cheio de benignidade imerecida e de verdade.
+
+[NOTE]
+====
+. Lit.: “habitou em tenda; abarracou”. Veja Re 21:3 n.
+====
+
+[[v43-1-15]]
+
+^<<v43-1-15,15>>^ (João deu testemunho dele, sim, ele realmente clamou — este era aquele que [o] disse — dizendo: “Aquele que vem atrás de mim avançou na minha frente, porque existiu antes de mim.”)
+
+[[v43-1-16]]
+
+^<<v43-1-16,16>>^ Pois todos nós recebemos de sua plenitude, sim, benignidade imerecida sobre benignidade imerecida.
+
+[[v43-1-17]]
+
+^<<v43-1-17,17>>^ Porque a Lei foi dada por intermédio de Moisés, a benignidade imerecida e a verdade vieram à existência por intermédio de Jesus Cristo.
+
+[[v43-1-18]]
+
+^<<v43-1-18,18>>^ Nenhum homem jamais viu a Deus; o deus unigênito,^&#42;1^ que está [na posição] junto ao seio do Pai, é quem o tem explicado.
+
+[NOTE]
+====
+. “O deus unigênito”, P75אc; P66א°BC°: “deus unigênito”; ACcItVgSyc,h: “o Filho unigênito”.
+====
+
+[[v43-1-19]]
+
+^<<v43-1-19,19>>^ Ora, este é o testemunho^&#42;1^ de João, quando os judeus lhe enviaram sacerdotes e levitas de Jerusalém para perguntar-lhe: “Quem és?”
+
+[NOTE]
+====
+. “Testemunho.” Gr.: mar·ty·rí·a; lat.: te·sti·mó·ni·um.
+====
+
+[[v43-1-20]]
+
+^<<v43-1-20,20>>^ E ele confessou e não negou, mas confessou: “Eu não sou o Cristo.”
+
+[[v43-1-21]]
+
+^<<v43-1-21,21>>^ E perguntaram-lhe: “O que, então? És tu Elias?”^&#42;1^ E ele disse: “Não sou.” “És tu O Profeta?” E ele respondeu: “Não!”
+
+[NOTE]
+====
+. “Elias” (significando “Meu Deus É Jeová”), J17,18,22; gr.: E·leí·as.
+====
+
+[[v43-1-22]]
+
+^<<v43-1-22,22>>^ Disseram-lhe, portanto: “Quem és? para que possamos dar uma resposta aos que nos enviaram. Que dizes a respeito de ti mesmo?”
+
+[[v43-1-23]]
+
+^<<v43-1-23,23>>^ Ele disse: “Eu sou a voz de alguém clamando no ermo: ‘Fazei reto o caminho de Jeová’,^&#42;1^ assim como disse Isaías, o profeta.”
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v43-1-24]]
+
+^<<v43-1-24,24>>^ Ora, os que tinham sido enviados eram dos fariseus.
+
+[[v43-1-25]]
+
+^<<v43-1-25,25>>^ De modo que o interrogaram e lhe disseram: “Então, por que batizas, se tu mesmo não és o Cristo, nem Elias, nem O Profeta?”
+
+[[v43-1-26]]
+
+^<<v43-1-26,26>>^ João respondeu-lhes, dizendo: “Eu batizo^&#42;1^ em água. No meio de vós está parado um a quem não conheceis,
+
+[NOTE]
+====
+. Ou: “Eu imerjo; eu submerjo (mergulho).” Gr.: ba·ptí·zo.
+====
+
+[[v43-1-27]]
+
+^<<v43-1-27,27>>^ o que vem atrás de mim, não sendo eu nem digno de desatar o cordão de suas sandálias.”
+
+[[v43-1-28]]
+
+^<<v43-1-28,28>>^ Estas coisas ocorreram em Betânia,^&#42;1^ do outro lado do Jordão, onde João estava batizando.
+
+[NOTE]
+====
+. Não a Betânia perto de Jerusalém.
+====
+
+[[v43-1-29]]
+
+^<<v43-1-29,29>>^ No dia seguinte viu Jesus aproximar-se dele e disse: “Eis o Cordeiro de Deus, que tira o pecado do mundo!^&#42;1^
+
+[NOTE]
+====
+. Veja 3:16 n.
+====
+
+[[v43-1-30]]
+
+^<<v43-1-30,30>>^ Este é aquele a respeito de quem eu disse: Atrás de mim vem um homem que avançou na minha frente, porque existiu antes de mim.
+
+[[v43-1-31]]
+
+^<<v43-1-31,31>>^ Até eu não o conhecia, mas a razão por que vim batizar em água era que ele fosse manifestado a Israel.”
+
+[[v43-1-32]]
+
+^<<v43-1-32,32>>^ João deu também testemunho, dizendo: “Observei o espírito descer como pomba do céu; e permaneceu sobre ele.
+
+[[v43-1-33]]
+
+^<<v43-1-33,33>>^ Até eu não o conhecia, mas o Mesmo que me enviou a batizar em água disse-me: ‘Sobre quem for que vires descer o espírito e permanecer, este é quem batiza em espírito santo.’
+
+[[v43-1-34]]
+
+^<<v43-1-34,34>>^ E eu [o] vi e dei testemunho de que este é o Filho de Deus.”
+
+[[v43-1-35]]
+
+^<<v43-1-35,35>>^ Novamente, no dia seguinte, João estava parado com dois dos seus discípulos,
+
+[[v43-1-36]]
+
+^<<v43-1-36,36>>^ e ao olhar para Jesus andando [ali], disse: “Eis o Cordeiro de Deus!”
+
+[[v43-1-37]]
+
+^<<v43-1-37,37>>^ E os dois discípulos o ouviram falar e seguiram a Jesus.
+
+[[v43-1-38]]
+
+^<<v43-1-38,38>>^ Jesus voltou-se então, e, observando que o seguiam, disse-lhes: “O que estais procurando?” Disseram-lhe: “Rabi, (que, traduzido, quer dizer: Instrutor,) onde estás pousando?”
+
+[[v43-1-39]]
+
+^<<v43-1-39,39>>^ Disse-lhes: “Vinde, e vereis.” Concordemente, foram e viram onde estava pousando, e ficaram com ele aquele dia; isso foi cerca da décima hora.^&#42;1^
+
+[NOTE]
+====
+. Isto é, por volta das 16 horas, contada desde o nascer do sol.
+====
+
+[[v43-1-40]]
+
+^<<v43-1-40,40>>^ André, irmão de Simão Pedro, foi um dos dois que ouviram o que João dissera e que seguiram [a Jesus].^&#42;1^
+
+[NOTE]
+====
+. Lit.: “a ele”.
+====
+
+[[v43-1-41]]
+
+^<<v43-1-41,41>>^ Este, primeiro,^&#42;1^ achou seu próprio irmão, Simão, e disse-lhe: “Achamos o Messias”^&#42;2^ (que, traduzido, quer dizer: Cristo).
+
+[NOTE]
+====
+. “Cedo na manhã seguinte”, Itmss.Sys.
+. Ou “o Ungido”. Gr.: ton Mes·sí·an; lat.: Mes·sí·am; J17,18,22(hebr.): ham·Ma·shí·ahh.
+====
+
+[[v43-1-42]]
+
+^<<v43-1-42,42>>^ Conduziu-o a Jesus. Olhando Jesus para ele, disse: “Tu és Simão, filho de João;^&#42;1^ serás chamado Cefas”^&#42;2^ (que, traduzido, é Pedro).^&#42;3^
+
+[NOTE]
+====
+. “João”, P66,75אB°It; ABcVgcSyp,s: “Jona”.
+. “Cefas.” Gr.: Ke·fás. Este é um nome aram. (Keh·fa’), aqui no masc., como em Mt 16:18 nos mss. sir. Veja Mt 16:18 n.: “rocha”.
+. Significando “Um Pedaço de Rocha”. Gr.: Pé·tros.
+====
+
+[[v43-1-43]]
+
+^<<v43-1-43,43>>^ No dia seguinte, ele desejava partir para a Galiléia. Jesus achou assim Filipe e disse-lhe: “Sê meu seguidor.”
+
+[[v43-1-44]]
+
+^<<v43-1-44,44>>^ Ora, Filipe era de Betsaida, da cidade de André e Pedro.
+
+[[v43-1-45]]
+
+^<<v43-1-45,45>>^ Filipe achou Natanael e disse-lhe: “Achamos aquele de quem escreveram Moisés, na Lei, e os Profetas: Jesus, filho de José, de Nazaré.”
+
+[[v43-1-46]]
+
+^<<v43-1-46,46>>^ Mas, Natanael disse-lhe: “Pode sair algo bom de Nazaré?” Filipe disse-lhe: “Vem e vê.”
+
+[[v43-1-47]]
+
+^<<v43-1-47,47>>^ Jesus viu Natanael aproximar-se e disse a respeito dele: “Eis um israelita de verdade, em quem não há fraude.”
+
+[[v43-1-48]]
+
+^<<v43-1-48,48>>^ Natanael disse-lhe: “Como é que me conheces?” Jesus, em resposta, disse-lhe: “Antes de Filipe te chamar, enquanto estavas debaixo da figueira, eu te vi.”
+
+[[v43-1-49]]
+
+^<<v43-1-49,49>>^ Natanael respondeu-lhe: “Rabi, tu és o Filho de Deus, tu és o Rei de Israel.”
+
+[[v43-1-50]]
+
+^<<v43-1-50,50>>^ Jesus, em resposta, disse-lhe: “Porque eu te disse que te vi debaixo da figueira tu crês? Verás coisas maiores do que estas.”
+
+[[v43-1-51]]
+
+^<<v43-1-51,51>>^ Disse-lhe ainda mais: “Eu vos digo em toda a verdade:^&#42;1^ Vereis o céu aberto e os anjos^&#42;2^ de Deus ascendendo e descendo para^&#42;3^ o Filho do homem.”
+
+[NOTE]
+====
+. Lit.: “Verdadeiramente, verdadeiramente.” Gr.: A·mén, a·mén.
+. Ou “mensageiros”. Gr.: ag·gé·lous; lat.: án·ge·los. Veja Jó 33:23; Sal 91:11.
+. Ou “a serviço do”.
+====
+
+'''
+
+xref:042-lucas/042-lucas-024.adoc#v42-24-0[&#60; Capítulo Anterior] | <<v43-1-0,Topo>> | xref:043-joao/043-joao-002.adoc#v43-2-0[Próximo Capítulo &#62;]

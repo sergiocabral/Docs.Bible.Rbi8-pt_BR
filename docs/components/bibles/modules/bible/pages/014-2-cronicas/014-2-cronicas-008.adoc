@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v14-8-0]]
+=== 2 Crônicas, 8
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v14-8-1]]
+
+^<<v14-8-1,1>>^ E sucedeu, ao fim de vinte anos, nos quais Salomão havia construído a casa de Jeová e a sua própria casa,
+
+[[v14-8-2]]
+
+^<<v14-8-2,2>>^ que as cidades que Hirão^&#42;1^ tinha dado a Salomão — Salomão as reconstruiu e então fez os filhos de Israel morar ali.
+
+[NOTE]
+====
+. “Hirão”, LXXSyVg; M: “Hurão”.
+====
+
+[[v14-8-3]]
+
+^<<v14-8-3,3>>^ Outrossim, Salomão foi a Hamate-Zobá e prevaleceu sobre ela.
+
+[[v14-8-4]]
+
+^<<v14-8-4,4>>^ Então reconstruiu Tadmor,^&#42;1^ no ermo, e todas as cidades-armazéns que havia construído em Hamate.
+
+[NOTE]
+====
+. “Tadmor”, MLXXSy; Vg: “Palmira”.
+====
+
+[[v14-8-5]]
+
+^<<v14-8-5,5>>^ E prosseguiu, construindo Bete-Horom Alta e Bete-Horom Baixa, cidades fortificadas com muralhas, portas e tranca,
+
+[[v14-8-6]]
+
+^<<v14-8-6,6>>^ e Baalate e todas as cidades-armazéns que vieram a ser de Salomão, e todas as cidades de carros e as cidades para os cavaleiros, e toda coisa desejável de Salomão, que ele desejou construir em Jerusalém e no Líbano, e em toda a terra do seu domínio.
+
+[[v14-8-7]]
+
+^<<v14-8-7,7>>^ Quanto a todo o povo que sobrava dos hititas, e dos amorreus, e dos perizeus, e dos heveus, e dos jebuseus, que não eram parte de Israel,
+
+[[v14-8-8]]
+
+^<<v14-8-8,8>>^ dos seus filhos que tinham sobrado depois deles no país, que os filhos de Israel não tinham exterminado, Salomão fazia deles homens^&#42;1^ de trabalho forçado até o dia de hoje.
+
+[NOTE]
+====
+. Lit.: “recrutava-os para”.
+====
+
+[[v14-8-9]]
+
+^<<v14-8-9,9>>^ Mas não havia nenhuns dentre os filhos de Israel que Salomão constituísse escravos para a sua obra; pois eram guerreiros, e chefes dos seus ajudantes-de-ordens, e chefes dos seus condutores de carros e dos seus cavaleiros.
+
+[[v14-8-10]]
+
+^<<v14-8-10,10>>^ Estes eram os chefes dos prepostos que pertenciam ao Rei Salomão, duzentos e cinqüenta, os capatazes sobre o povo.
+
+[[v14-8-11]]
+
+^<<v14-8-11,11>>^ E Salomão fez subir a filha de Faraó da Cidade de Davi à casa que tinha construído para ela, porque disse: “Embora seja esposa minha, não deve morar na casa de Davi, o rei de Israel, porque os lugares aos quais chegou a arca de Jeová são algo sagrado.”
+
+[[v14-8-12]]
+
+^<<v14-8-12,12>>^ Foi então que Salomão ofereceu a Jeová sacrifícios queimados sobre o altar de Jeová, que tinha construído diante do pórtico,
+
+[[v14-8-13]]
+
+^<<v14-8-13,13>>^ sim, como questão rotineira diária, para fazer ofertas segundo o mandamento de Moisés para os sábados, e para as luas novas, e para as festividades determinadas três vezes no ano, na festividade dos pães não fermentados, e na festividade das semanas, e na festividade das barracas.
+
+[[v14-8-14]]
+
+^<<v14-8-14,14>>^ Além disso, pôs turmas dos sacerdotes sobre os seus serviços segundo a regra de Davi, seu pai, e os levitas nos seus postos de dever, para que louvassem e ministrassem diante dos sacerdotes como questão rotineira diária, e os porteiros nas suas turmas para os diversos portões, porque tal foi o mandamento de Davi, o homem do [verdadeiro] Deus.^&#42;1^
+
+[NOTE]
+====
+. “O homem do [verdadeiro] Deus.” Hebr.: ’ish-ha·’Elo·hím. Veja Ap. 1F.
+====
+
+[[v14-8-15]]
+
+^<<v14-8-15,15>>^ E eles não se desviaram do mandamento do rei aos sacerdotes e aos levitas referente a qualquer assunto e referente aos suprimentos.
+
+[[v14-8-16]]
+
+^<<v14-8-16,16>>^ De modo que a obra de Salomão estava toda num estado preparado desde o dia em que se lançou o alicerce da casa de Jeová até que ela foi acabada. [De modo que] a casa de Jeová estava completa.
+
+[[v14-8-17]]
+
+^<<v14-8-17,17>>^ Foi então que Salomão foi a Eziom-Géber e a Elote, à beira do mar, na terra de Edom.
+
+[[v14-8-18]]
+
+^<<v14-8-18,18>>^ E Hirão, por meio dos seus servos, enviou-lhe regularmente navios e servos que tinham conhecimento do mar, e estes iam com os servos de Salomão a Ofir, e foram tomar de lá quatrocentos e cinqüenta talentos^&#42;1^ de ouro e trazê-lo ao Rei Salomão.
+
+[NOTE]
+====
+. Veja Ap. 8A.
+====
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-007.adoc#v14-7-0[&#60; Capítulo Anterior] | <<v14-8-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-009.adoc#v14-9-0[Próximo Capítulo &#62;]

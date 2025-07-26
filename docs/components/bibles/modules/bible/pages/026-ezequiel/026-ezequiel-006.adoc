@@ -1,0 +1,80 @@
+include::./index.adoc[]
+
+[[v26-6-0]]
+=== Ezequiel, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v26-6-1]]
+
+^<<v26-6-1,1>>^ E continuou a vir a haver para mim a palavra de Jeová, dizendo:
+
+[[v26-6-2]]
+
+^<<v26-6-2,2>>^ “Filho do homem, fixa tua face para os montes de Israel e profetiza a eles.
+
+[[v26-6-3]]
+
+^<<v26-6-3,3>>^ E tens de dizer: ‘Ó montes de Israel, ouvi a palavra do Soberano Senhor Jeová: Assim disse o Soberano Senhor Jeová aos montes e aos morros, aos regos e aos vales: “Eis-me aqui! Estou trazendo sobre vós uma espada e hei de destruir os vossos altos.
+
+[[v26-6-4]]
+
+^<<v26-6-4,4>>^ E os vossos altares terão de ser desolados e os vossos pedestais-incensários terão de ser destroçados, e vou fazer os vossos mortos cair diante dos vossos ídolos sórdidos.
+
+[[v26-6-5]]
+
+^<<v26-6-5,5>>^ E vou pôr os cadáveres dos filhos de Israel diante dos seus ídolos sórdidos e vou espalhar os vossos ossos ao redor dos vossos altares.
+
+[[v26-6-6]]
+
+^<<v26-6-6,6>>^ Em todas as vossas moradas, as próprias cidades ficarão devastadas e os próprios altos ficarão desolados, para que jazam devastadas e os vossos altares jazam desolados e sejam realmente destroçados, e realmente se façam cessar os vossos ídolos sórdidos, e se cortem os vossos pedestais-incensários, e se obliterem os vossos trabalhos.
+
+[[v26-6-7]]
+
+^<<v26-6-7,7>>^ E os mortos hão de cair no vosso meio e tereis de saber que eu sou Jeová.^&#42;1^
+
+[NOTE]
+====
+. “E tereis de saber que eu sou Jeová.” Hebr.: wi·dha‛·tém ki-’aní Yehwáh. Esta é a primeira de mais de 60 ocorrências desta frase em Ezequiel, referindo-se à vindicação do nome de Jeová na terra.
+====
+
+[[v26-6-8]]
+
+^<<v26-6-8,8>>^ “‘“E quando acontecer, vou deixar-vos como restante os que escaparem da espada entre as nações, quando fordes espalhados entre as terras.
+
+[[v26-6-9]]
+
+^<<v26-6-9,9>>^ E os vossos fugitivos hão de lembrar-se de mim entre as nações às quais terão sido levados cativos, porque fiquei quebrantado diante do seu coração fornicador que se desviou de mim e diante dos seus olhos que vão fornicando atrás dos seus ídolos sórdidos; e hão de ter aversão nas suas faces diante das coisas más que fizeram em todas as suas coisas detestáveis.
+
+[[v26-6-10]]
+
+^<<v26-6-10,10>>^ E terão de saber que eu sou Jeová; não foi à toa que falei em fazer-lhes esta coisa calamitosa.”’
+
+[[v26-6-11]]
+
+^<<v26-6-11,11>>^ “Assim disse o Soberano Senhor Jeová: ‘Bate palmas e bate com o pé, e dize: “Ai!” por causa de todas as más coisas detestáveis da casa de Israel, porque cairão à espada, pela fome e pela peste.
+
+[[v26-6-12]]
+
+^<<v26-6-12,12>>^ Quanto ao que estiver longe, morrerá de peste; e quanto ao que estiver próximo, cairá à espada; e quanto ao que tiver remanescido e tiver sido resguardado, morrerá de fome, e eu vou levar a cabo o meu furor contra eles.
+
+[[v26-6-13]]
+
+^<<v26-6-13,13>>^ E vós tereis de saber que eu sou Jeová, quando os seus mortos vierem a estar entre os seus ídolos sórdidos, ao redor dos seus altares, sobre cada morro alto, em todos os cumes dos montes e debaixo de cada árvore frondosa, e debaixo de cada árvore grande, ramosa, lugar onde ofereceram um cheiro repousante^&#42;1^ a todos os seus ídolos sórdidos.
+
+[NOTE]
+====
+. Ou “calmante; tranqüilizante; aplacador”.
+====
+
+[[v26-6-14]]
+
+^<<v26-6-14,14>>^ E vou estender minha mão contra eles e fazer do país um baldio desolado, sim, uma desolação pior do que o ermo na direção de Dibla,^&#42;1^ em todas as suas moradas. E terão de saber que eu sou Jeová.’”
+
+[NOTE]
+====
+. “Dibla”, M; um ms. hebr.: “Ribla”.
+====
+
+'''
+
+xref:026-ezequiel/026-ezequiel-005.adoc#v26-5-0[&#60; Capítulo Anterior] | <<v26-6-0,Topo>> | xref:026-ezequiel/026-ezequiel-007.adoc#v26-7-0[Próximo Capítulo &#62;]

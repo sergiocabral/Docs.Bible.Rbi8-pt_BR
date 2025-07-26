@@ -1,0 +1,62 @@
+include::./index.adoc[]
+
+[[v9-27-0]]
+=== 1 Samuel, 27
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-27-1]]
+
+^<<v9-27-1,1>>^ No entanto, Davi disse no seu coração: “Agora serei algum dia arrasado pela mão de Saul. Não há nada melhor para mim do que sem falta escapar para a terra dos filisteus; e Saul terá de desesperar-se de me procurar mais em todo o território de Israel, e eu hei de escapar da sua mão.”
+
+[[v9-27-2]]
+
+^<<v9-27-2,2>>^ Portanto, Davi levantou-se, e ele e seiscentos homens com ele passaram-se para Aquis, filho de Maoque, rei de Gate.
+
+[[v9-27-3]]
+
+^<<v9-27-3,3>>^ E Davi ficou morando com Aquis em Gate, ele e seus homens, cada um com os da sua casa, Davi e suas duas esposas, Ainoã, a jezreelita, e Abigail, esposa de Nabal, a carmelita.
+
+[[v9-27-4]]
+
+^<<v9-27-4,4>>^ Com o tempo comunicou-se a Saul que Davi havia fugido para Gate, e por isso não mais o procurou outra vez.
+
+[[v9-27-5]]
+
+^<<v9-27-5,5>>^ Davi disse então a Aquis: “Se eu, pois, tiver achado favor aos teus olhos, dê-se-me um lugar numa das cidades da zona rural, a fim de que eu more lá; pois, por que devia o teu servo morar contigo na cidade real?”
+
+[[v9-27-6]]
+
+^<<v9-27-6,6>>^ Por conseguinte, Aquis deu-lhe naquele dia Ziclague. É por isso que Ziclague veio a pertencer aos reis de Judá até o dia de hoje.
+
+[[v9-27-7]]
+
+^<<v9-27-7,7>>^ E o número dos dias que Davi morava na zona rural dos filisteus veio a ser um ano e quatro meses.
+
+[[v9-27-8]]
+
+^<<v9-27-8,8>>^ E Davi passou a subir com os seus homens para fazer incursões contra os gesuritas, e contra os girzitas, e contra os amalequitas; pois habitavam o país que [se estendia] desde Telão^&#42;1^ até Sur, e para baixo até a terra do Egito.
+
+[NOTE]
+====
+. “Desde Telão (Telam)”, LXX12 mss.; hebr.: me·‛oh·lám, “desde há muito”. Veja 15:4; Jos 15:24.
+====
+
+[[v9-27-9]]
+
+^<<v9-27-9,9>>^ E Davi golpeou o país, mas não preservou vivo nem homem nem mulher; e tomou rebanhos e manadas, e jumentos, e camelos, e roupas, retornando depois e chegando a Aquis.
+
+[[v9-27-10]]
+
+^<<v9-27-10,10>>^ Aquis disse então: “Onde fostes fazer hoje a incursão?” Ao que Davi disse: “No sul de Judá e no sul dos jerameelitas, e no sul dos queneus.”
+
+[[v9-27-11]]
+
+^<<v9-27-11,11>>^ Quanto a homem e mulher, Davi não preservava a ninguém vivo para trazê-los a Gate, dizendo: “Para que não nos denunciem, dizendo: ‘Assim fez Davi.’” (E assim procedia todos os dias em que morava na zona rural dos filisteus.)
+
+[[v9-27-12]]
+
+^<<v9-27-12,12>>^ Por conseguinte, Aquis acreditava em Davi, dizendo para si: “Indubitavelmente, ele se tornou mau cheiro entre o seu povo de Israel; e terá de tornar-se meu servo por tempo indefinido.”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-026.adoc#v9-26-0[&#60; Capítulo Anterior] | <<v9-27-0,Topo>> | xref:009-1-samuel/009-1-samuel-028.adoc#v9-28-0[Próximo Capítulo &#62;]

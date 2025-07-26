@@ -1,0 +1,148 @@
+include::./index.adoc[]
+
+[[v19-80-0]]
+=== Salmos, 80
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, segundo Os Lírios.^&#42;1^ Uma advertência.^&#42;2^ De Asafe. Uma melodia._
+
+[[v19-80-1]]
+
+^<<v19-80-1,1>>^ Ó Pastor de Israel, dá deveras ouvidos,
+Tu que conduzes a José como a um rebanho.
+Ó tu que estás sentado sobre os querubins, reluz deveras.
+
+[[v19-80-2]]
+
+^<<v19-80-2,2>>^ Desperta deveras a tua potência diante de Efraim, e de Benjamim, e de Manassés,
+E vem deveras para a nossa salvação.
+
+[[v19-80-3]]
+
+^<<v19-80-3,3>>^ Ó Deus, traze-nos de volta;
+E ilumina a tua face, para que sejamos salvos.
+
+[[v19-80-4]]
+
+^<<v19-80-4,4>>^ Ó Jeová Deus dos exércitos, até quando tens de fumegar contra a oração do teu povo?
+
+[[v19-80-5]]
+
+^<<v19-80-5,5>>^ Tu os fizeste comer o pão de lágrimas
+E continuas a fazê-los beber lágrimas e mais lágrimas em [grande] medida.^&#42;1^
+
+[NOTE]
+====
+. “Em [grande] medida.” Lit.: “terceira parte”, isto é, de alguma medida indeterminada. Hebr.: sha·lísh.
+====
+
+[[v19-80-6]]
+
+^<<v19-80-6,6>>^ Tu nos puseste por contenda para os nossos vizinhos,
+E os nossos próprios inimigos continuam a caçoar a seu bel-prazer.
+
+[[v19-80-7]]
+
+^<<v19-80-7,7>>^ Ó Deus dos exércitos,^&#42;1^ traze-nos de volta;
+E ilumina a tua face, para que sejamos salvos.
+
+[NOTE]
+====
+. “Deus dos exércitos”, MTSy; gr.: Ký·ri·e ho The·ós ton dy·ná·me·on, “Jeová Deus dos exércitos”, como no v. 19 (79:20, LXX).
+====
+
+[[v19-80-8]]
+
+^<<v19-80-8,8>>^ Passaste a fazer uma videira partir do Egito.
+Continuaste a expulsar as nações, a fim de plantá-la.
+
+[[v19-80-9]]
+
+^<<v19-80-9,9>>^ Fizeste diante dela uma clareira para que se arraigasse e enchesse a terra.
+
+[[v19-80-10]]
+
+^<<v19-80-10,10>>^ Os montes foram cobertos pela sua sombra
+E os cedros de Deus com os seus galhos.
+
+[[v19-80-11]]
+
+^<<v19-80-11,11>>^ Enviou gradualmente seus ramos até o mar,
+E seus rebentos, até o Rio.^&#42;1^
+
+[NOTE]
+====
+. Isto é, o Eufrates.
+====
+
+[[v19-80-12]]
+
+^<<v19-80-12,12>>^ Por que derrocaste os seus muros de pedras,
+E [por que] puxaram dela todos os que passavam na estrada?
+
+[[v19-80-13]]
+
+^<<v19-80-13,13>>^ Um javali da floresta^&#42;1^ a está devorando
+E a multidão de animais da campina a pastam.
+
+[NOTE]
+====
+. Neste substantivo hebr., a letra Aine está suspensa para indicar o meio dos Salmos.
+====
+
+[[v19-80-14]]
+
+^<<v19-80-14,14>>^ Ó Deus dos exércitos,^&#42;1^ volta,^&#42;2^ por favor;
+Olha desde o céu e vê, e toma conta desta videira
+
+[NOTE]
+====
+. “Deus dos exércitos.” Hebr.: ’Elo·hím tseva·’óhth.
+. Ou “novamente”, referindo-se aos verbos na linha seguinte.
+====
+
+[[v19-80-15]]
+
+^<<v19-80-15,15>>^ E da cepa^&#42;1^ que a tua direita plantou,
+E [olha] para o filho^&#42;2^ que para ti fortificaste.
+
+[NOTE]
+====
+. Ou “ramo [de videira]”. Mediante a mudança da primeira letra hebr.: “jardim”.
+. “Filho”, M; LXXSyVgc: “filho do homem”; T: “rei Messias (ungido)”.
+====
+
+[[v19-80-16]]
+
+^<<v19-80-16,16>>^ Está queimada com fogo, está cortada.
+Perecem pela censura da tua face.
+
+[[v19-80-17]]
+
+^<<v19-80-17,17>>^ Mostre a tua mão estar sobre o homem^&#42;1^ da tua direita,
+Sobre o filho da humanidade^&#42;2^ a quem para ti fortificaste,
+
+[NOTE]
+====
+. “Homem da.” Hebr.: ’ish.
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v19-80-18]]
+
+^<<v19-80-18,18>>^ E nós não retrocederemos de ti.
+Que tu nos preserves vivos, para que possamos invocar o teu próprio nome.
+
+[[v19-80-19]]
+
+^<<v19-80-19,19>>^ Ó Jeová Deus dos exércitos,^&#42;1^ traze-nos de volta;
+Ilumina a tua face, para que sejamos salvos.
+
+[NOTE]
+====
+. Veja v. 7a.
+====
+
+'''
+
+xref:019-salmo/019-salmo-079.adoc#v19-79-0[&#60; Capítulo Anterior] | <<v19-80-0,Topo>> | xref:019-salmo/019-salmo-081.adoc#v19-81-0[Próximo Capítulo &#62;]

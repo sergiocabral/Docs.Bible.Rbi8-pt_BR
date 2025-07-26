@@ -1,0 +1,47 @@
+include::./index.adoc[]
+
+[[v19-70-0]]
+=== Salmos, 70
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. De Davi, para fazer lembrar._
+
+[[v19-70-1]]
+
+^<<v19-70-1,1>>^ Ó Deus, para livrar-me,
+Ó Jeová, para vir em meu auxílio age deveras depressa.
+
+[[v19-70-2]]
+
+^<<v19-70-2,2>>^ Fiquem envergonhados e encabulados os que procuram a minha alma.^&#42;1^
+Tornem atrás e sejam humilhados os que se agradam da minha calamidade.
+
+[NOTE]
+====
+. “Minha alma (vida).” Hebr.: naf·shí.
+====
+
+[[v19-70-3]]
+
+^<<v19-70-3,3>>^ Retornem por causa da sua vergonha os que dizem: “Ah! Ah!”
+
+[[v19-70-4]]
+
+^<<v19-70-4,4>>^ Exultem e alegrem-se em ti todos os que te procuram,
+E digam constantemente: “Magnificado seja Deus!”^&#42;1^ — os que amam a tua salvação.
+
+[NOTE]
+====
+. “Deus”, M(hebr.: ’Elo·hím)LXXSy; Vgc e muitos mss. hebr.: “Jeová”; T: “A glória de Jeová.”
+====
+
+[[v19-70-5]]
+
+^<<v19-70-5,5>>^ Mas eu estou atribulado e sou pobre.
+Ó Deus, age deveras depressa por mim.
+Tu és minha ajuda e Aquele que me põe a salvo.
+Ó Jeová, não te atrases.
+
+'''
+
+xref:019-salmo/019-salmo-069.adoc#v19-69-0[&#60; Capítulo Anterior] | <<v19-70-0,Topo>> | xref:019-salmo/019-salmo-071.adoc#v19-71-0[Próximo Capítulo &#62;]

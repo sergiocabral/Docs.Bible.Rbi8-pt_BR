@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v8-1-0]]
+=== Rute, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v8-1-1]]
+
+^<<v8-1-1,1>>^ Ora, aconteceu nos dias em que os juízes administravam a justiça que houve fome no país; e um homem passou a ir de Belém de Judá para residir como forasteiro nos campos de Moabe, ele com sua esposa e seus dois filhos.
+
+[[v8-1-2]]
+
+^<<v8-1-2,2>>^ E o nome do homem era Elimeleque,^&#42;1^ e o nome de sua esposa era Noemi, e os nomes de seus dois filhos eram Malom e Quiliom, efratitas^&#42;2^ de Belém de Judá. Por fim chegaram aos campos de Moabe e permaneceram ali.
+
+[NOTE]
+====
+. Significando “Deus É Rei”.
+. Ou “habitantes de Efrate”. Veja Gên 35:16, 19.
+====
+
+[[v8-1-3]]
+
+^<<v8-1-3,3>>^ Com o tempo morreu Elimeleque, esposo de Noemi, de modo que restou ela com os seus dois filhos.
+
+[[v8-1-4]]
+
+^<<v8-1-4,4>>^ Mais tarde, os homens tomaram para si esposas, mulheres moabitas. O nome de uma era Orpa e o nome da outra era Rute. E ficaram morando ali por cerca de dez anos.
+
+[[v8-1-5]]
+
+^<<v8-1-5,5>>^ Com o tempo morreram também os dois, Malom^&#42;1^ e Quiliom,^&#42;2^ de modo que restou a mulher sem os seus dois filhos e sem o seu esposo.
+
+[NOTE]
+====
+. Significando “Doentio; Inválido”.
+. Significando “Fragilidade”.
+====
+
+[[v8-1-6]]
+
+^<<v8-1-6,6>>^ E ela passou a levantar-se, junto com as suas noras, e a voltar dos campos de Moabe, pois tinha ouvido, no campo de Moabe, que Jeová voltara a sua atenção para^&#42;1^ seu povo, dando-lhes pão.
+
+[NOTE]
+====
+. Ou “havia visitado”.
+====
+
+[[v8-1-7]]
+
+^<<v8-1-7,7>>^ E ela foi sair do lugar em que havia ficado, e com ela ambas as suas noras, e seguiram andando pela estrada para voltar à terra de Judá.
+
+[[v8-1-8]]
+
+^<<v8-1-8,8>>^ Por fim, Noemi disse a ambas as suas noras: “Ide, voltai, cada uma à casa de sua mãe. Que Jeová use de benevolência^&#42;1^ para convosco assim como vós usastes de benevolência para com os homens agora já mortos e para comigo.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v8-1-9]]
+
+^<<v8-1-9,9>>^ Que Jeová vos dê uma dádiva, e achai deveras um lugar de descanso, cada uma na casa de seu esposo.” Então as beijou, e elas começaram a levantar as suas vozes e a chorar.
+
+[[v8-1-10]]
+
+^<<v8-1-10,10>>^ E diziam-lhe: “Não, mas voltaremos contigo ao teu povo.”
+
+[[v8-1-11]]
+
+^<<v8-1-11,11>>^ Noemi disse, porém: “Voltai, minhas filhas. Por que devíeis ir comigo? Acaso tenho ainda filhos nas minhas entranhas e teriam de tornar-se eles os vossos maridos?
+
+[[v8-1-12]]
+
+^<<v8-1-12,12>>^ Voltai, minhas filhas, ide, pois fiquei velha demais para vir a pertencer a um esposo. Se eu dissesse que também tenho esperança de certamente vir a ser hoje de noite de um esposo e também de certamente dar à luz filhos,
+
+[[v8-1-13]]
+
+^<<v8-1-13,13>>^ ficaríeis esperando por eles^&#42;1^ até crescerem? Manter-vos-íeis isoladas para eles para não virdes a ser de algum esposo? Não, minhas filhas, pois é muito amargo para mim, por vossa causa, que a mão de Jeová tenha saído contra mim.”
+
+[NOTE]
+====
+. “Eles”, masc., LXXSyVg.
+====
+
+[[v8-1-14]]
+
+^<<v8-1-14,14>>^ A isso levantaram as suas vozes e choraram de novo, após o que Orpa beijou a sua sogra. Quanto a Rute, apegou-se a ela.
+
+[[v8-1-15]]
+
+^<<v8-1-15,15>>^ Por isso ela disse: “Eis que a tua cunhada enviuvada^&#42;1^ voltou ao seu povo e aos seus deuses. Volta com a tua cunhada enviuvada.”
+
+[NOTE]
+====
+. Isto é, a viúva do irmão do marido da esposa. Veja De 25:5 ,7.
+====
+
+[[v8-1-16]]
+
+^<<v8-1-16,16>>^ E Rute passou a dizer: “Não instes comigo para te abandonar, para recuar de te acompanhar;^&#42;1^ pois, aonde quer que fores, irei eu, e onde quer que pernoitares, pernoitarei eu. Teu povo será o meu povo, e teu Deus, o meu Deus.
+
+[NOTE]
+====
+. Ou “de te seguir”. Lit.: “de atrás de ti”. Hebr.: me·’a·hhará·yikh. Veja Gên 16:13 n.: “aquele”; Jz 13:11 n.
+====
+
+[[v8-1-17]]
+
+^<<v8-1-17,17>>^ Onde quer que morreres, morrerei eu e ali serei enterrada. Assim me faça Jeová e assim lhe acrescente mais, se outra coisa senão a morte fizer separação entre mim e ti.”
+
+[[v8-1-18]]
+
+^<<v8-1-18,18>>^ Quando via que se obstinava em ir com ela, então deixou de falar com ela.
+
+[[v8-1-19]]
+
+^<<v8-1-19,19>>^ E ambas seguiram adiante até que chegaram a Belém. E sucedeu que, assim que chegaram a Belém, toda a cidade ficou alvoroçada por causa delas, e as mulheres diziam: “É esta Noemi?”
+
+[[v8-1-20]]
+
+^<<v8-1-20,20>>^ E ela dizia às mulheres: “Não me chameis Noemi.^&#42;1^ Chamai-me Mara,^&#42;2^ pois o Todo-poderoso^&#42;3^ o fez muito amargo para mim.
+
+[NOTE]
+====
+. Significando “Minha Agradabilidade”.
+. Significando “Amarga”.
+. “O Todo-poderoso.” Hebr.: Shad·daí; sir.: ’El·Shad·dai, “Deus Todo-poderoso”; lat.: O·mní·po·tens. Veja Re 1:8 n.: “Todo-poderoso”.
+====
+
+[[v8-1-21]]
+
+^<<v8-1-21,21>>^ Eu estava cheia quando fui, e é de mãos vazias que Jeová me fez voltar. Por que me devíeis chamar Noemi, quando foi Jeová quem me humilhou e o Todo-poderoso quem me causou a calamidade?”
+
+[[v8-1-22]]
+
+^<<v8-1-22,22>>^ Assim retornou Noemi, estando com ela Rute, a moabita, sua nora, quando voltou dos campos de Moabe; e elas chegaram a Belém no início da sega da cevada.
+
+'''
+
+xref:007-juizes/007-juizes-021.adoc#v7-21-0[&#60; Capítulo Anterior] | <<v8-1-0,Topo>> | xref:008-rute/008-rute-002.adoc#v8-2-0[Próximo Capítulo &#62;]

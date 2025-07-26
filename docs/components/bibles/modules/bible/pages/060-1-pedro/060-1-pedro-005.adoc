@@ -1,0 +1,108 @@
+include::./index.adoc[]
+
+[[v60-5-0]]
+=== 1 Pedro, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v60-5-1]]
+
+^<<v60-5-1,1>>^ Portanto, dou esta exortação aos anciãos^&#42;1^ entre vós, pois eu também sou ancião com [eles]^&#42;2^ e testemunha dos sofrimentos do Cristo, parceiro na glória que há de ser revelada:
+
+[NOTE]
+====
+. “Anciãos.” Gr.: pre·sby·té·rous.
+. “Ancião com [eles].” Lit.: “co-ancião”. Gr.: syn·pre·sbý·te·ros.
+====
+
+[[v60-5-2]]
+
+^<<v60-5-2,2>>^ Pastoreai o rebanho de Deus, que está aos vossos cuidados, não sob compulsão,^&#42;1^ mas espontaneamente;^&#42;2^ nem por amor de ganho desonesto, mas com anelo;
+
+[NOTE]
+====
+. Lit.: “não compulsoriamente”.
+. Ou “voluntariamente”.
+====
+
+[[v60-5-3]]
+
+^<<v60-5-3,3>>^ nem como que dominando sobre os que são a herança de Deus,^&#42;1^ mas tornando-vos exemplos para o rebanho.
+
+[NOTE]
+====
+. Lit. sem “de Deus”. J13,14,17,18: “de Jeová”. “Herança de Deus.” Gr.: klé·ron. Ou “os que [vos] foram aquinhoados [por Deus]”.
+====
+
+[[v60-5-4]]
+
+^<<v60-5-4,4>>^ E, quando o pastor principal tiver sido manifestado, recebereis^&#42;1^ a coroa imarcescível da glória.
+
+[NOTE]
+====
+. Ou “levareis como prêmio”.
+====
+
+[[v60-5-5]]
+
+^<<v60-5-5,5>>^ Igualmente vós, homens mais jovens, sujeitai-vos aos homens mais idosos. Todos vós, porém, cingi-vos de humildade mental uns para com os outros, porque Deus se opõe aos soberbos, mas dá benignidade imerecida aos humildes.
+
+[[v60-5-6]]
+
+^<<v60-5-6,6>>^ Humilhai-vos, portanto, sob a mão poderosa de Deus, para que ele vos enalteça no tempo devido,
+
+[[v60-5-7]]
+
+^<<v60-5-7,7>>^ ao passo que lançais sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.
+
+[[v60-5-8]]
+
+^<<v60-5-8,8>>^ Mantende os vossos sentidos, sede vigilantes. Vosso adversário, o Diabo, anda em volta como leão que ruge, procurando [a quem] devorar.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “beber [de uma só vez]”.
+====
+
+[[v60-5-9]]
+
+^<<v60-5-9,9>>^ Mas, tomai vossa posição contra ele, sólidos na fé, sabendo que as mesmas coisas, em matéria de sofrimentos, estão sendo efetuadas na associação inteira dos vossos irmãos^&#42;1^ no mundo.
+
+[NOTE]
+====
+. “Associação inteira dos . . . irmãos.” Lit.: “fraternidade”. Gr.: a·del·fó·te·ti.
+====
+
+[[v60-5-10]]
+
+^<<v60-5-10,10>>^ Porém, depois de terdes sofrido por um pouco, o próprio Deus de toda a benignidade imerecida, que vos chamou à sua eterna glória em união com Cristo, completará o vosso treinamento; ele vos fará firmes, ele vos fará fortes.
+
+[[v60-5-11]]
+
+^<<v60-5-11,11>>^ Dele seja o poderio para sempre. Amém.
+
+[[v60-5-12]]
+
+^<<v60-5-12,12>>^ Por intermédio de Silvano,^&#42;1^ irmão fiel, como eu o considero, escrevi-vos em poucas [palavras] para vos dar encorajamento e um sério testemunho de que esta é a verdadeira benignidade imerecida de Deus; nesta ficai firmes.
+
+[NOTE]
+====
+. Ou “Silas”.
+====
+
+[[v60-5-13]]
+
+^<<v60-5-13,13>>^ Aquela que está em Babilônia,^&#42;1^ escolhida igual [a vós], manda-vos os seus cumprimentos, e assim também Marcos, meu filho.
+
+[NOTE]
+====
+. “Babilônia.” Gr.: Ba·by·ló·ni; J17,22(hebr.): beVa·vél, “em Babilônia”.
+====
+
+[[v60-5-14]]
+
+^<<v60-5-14,14>>^ Cumprimentai-vos uns aos outros com beijo de amor.
+Que todos vós os que estais em união com Cristo tenhais paz.
+
+'''
+
+xref:060-1-pedro/060-1-pedro-004.adoc#v60-4-0[&#60; Capítulo Anterior] | <<v60-5-0,Topo>> | xref:061-2-pedro/061-2-pedro-001.adoc#v61-1-0[Próximo Capítulo &#62;]

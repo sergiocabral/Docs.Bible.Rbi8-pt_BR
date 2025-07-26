@@ -1,0 +1,38 @@
+include::./index.adoc[]
+
+[[v19-123-0]]
+=== Salmos, 123
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Cântico das Subidas._
+
+[[v19-123-1]]
+
+^<<v19-123-1,1>>^ A ti elevei os meus olhos,
+Ó Tu, que moras nos céus.
+
+[[v19-123-2]]
+
+^<<v19-123-2,2>>^ Eis que como os olhos dos servos estão [fitos] na mão do seu amo,^&#42;1^
+Como os olhos da serva estão [fitos] na mão de sua senhora,
+Assim os nossos olhos estão [fitos] em Jeová, nosso Deus,
+Até que ele nos mostre favor.
+
+[NOTE]
+====
+. “Seu amo.” Hebr.: ’adhoh·neh·hém, pl. de ’a·dhóhn, para denotar excelência. Veja Ge 39:2 n.
+====
+
+[[v19-123-3]]
+
+^<<v19-123-3,3>>^ Mostra-nos favor, ó Jeová, mostra-nos favor;
+Pois fomos empanturrados em abundância com desprezo.
+
+[[v19-123-4]]
+
+^<<v19-123-4,4>>^ Nossa alma foi empanturrada em abundância com a caçoada dos despreocupados,
+Do desprezo da parte dos arrogantes.
+
+'''
+
+xref:019-salmo/019-salmo-122.adoc#v19-122-0[&#60; Capítulo Anterior] | <<v19-123-0,Topo>> | xref:019-salmo/019-salmo-124.adoc#v19-124-0[Próximo Capítulo &#62;]

@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v19-3-0]]
+=== Salmos, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma melodia de Davi, quando fugia por causa de Absalão, seu filho.^&#42;1^_
+
+[[v19-3-1]]
+
+^<<v19-3-1,1>>^ Ó Jeová, por que se tornaram muitos os meus adversários?
+Por que se levantam muitos contra mim?
+
+[[v19-3-2]]
+
+^<<v19-3-2,2>>^ Muitos dizem da minha alma:
+“Não há salvação para ele da parte de Deus.”^&#42;1^ Selá.^&#42;2^
+
+[NOTE]
+====
+. “Da parte de Deus.” Hebr.: vE’·lo·hím, pl. para denotar excelência ou majestade. Veja Gên 1:1 n.: “Deus”.
+. “Selá.” Termo técnico hebr. usado na música ou na recitação. Seu significado é incerto.
+====
+
+[[v19-3-3]]
+
+^<<v19-3-3,3>>^ Contudo, tu, ó Jeová, és um escudo ao meu redor,
+Minha glória e Aquele que ergue a minha cabeça.
+
+[[v19-3-4]]
+
+^<<v19-3-4,4>>^ Com a minha voz clamarei ao próprio Jeová
+E ele me responderá do seu santo monte.^&#42;1^ Selá.
+
+[NOTE]
+====
+. Veja 2:6 n.
+====
+
+[[v19-3-5]]
+
+^<<v19-3-5,5>>^ Quanto a mim, vou deitar-me para dormir;
+Hei de acordar, porque o próprio Jeová continua a sustentar-me.
+
+[[v19-3-6]]
+
+^<<v19-3-6,6>>^ Não terei medo de dezenas de milhares do povo,
+Que se puseram contra mim ao [meu] redor.
+
+[[v19-3-7]]
+
+^<<v19-3-7,7>>^ Levanta-te deveras, ó Jeová! Salva-me, ó meu Deus!
+Porque terás de socar no queixo todos os meus inimigos.
+Terás de quebrar os dentes dos iníquos.
+
+[[v19-3-8]]
+
+^<<v19-3-8,8>>^ A salvação pertence a Jeová.
+Tua bênção está sobre o teu povo. Selá.
+
+'''
+
+xref:019-salmo/019-salmo-002.adoc#v19-2-0[&#60; Capítulo Anterior] | <<v19-3-0,Topo>> | xref:019-salmo/019-salmo-004.adoc#v19-4-0[Próximo Capítulo &#62;]

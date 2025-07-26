@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v19-120-0]]
+=== Salmos, 120
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Cântico das Subidas.^&#42;1^_
+
+[[v19-120-1]]
+
+^<<v19-120-1,1>>^ Invoquei a Jeová na minha aflição
+E ele passou a responder-me.
+
+[[v19-120-2]]
+
+^<<v19-120-2,2>>^ Ó Jeová, livra deveras a minha alma de lábios falsos,
+Da língua dolosa.
+
+[[v19-120-3]]
+
+^<<v19-120-3,3>>^ O que se dará a ti e o que se te acrescentará,
+Ó língua dolosa?
+
+[[v19-120-4]]
+
+^<<v19-120-4,4>>^ Flechas afiadas dum poderoso,
+Junto com carvões acesos de giestas-das-vassouras.
+
+[[v19-120-5]]
+
+^<<v19-120-5,5>>^ Ai de mim, pois tenho residido como forasteiro em Meseque!
+Tenho residido junto com as tendas de Quedar.
+
+[[v19-120-6]]
+
+^<<v19-120-6,6>>^ Minha alma tem residido por demasiado tempo
+Com os odiadores^&#42;1^ da paz.
+
+[NOTE]
+====
+. “Odiadores”, LXXSyVg e oito mss. hebr.; M: “odiador”.
+====
+
+[[v19-120-7]]
+
+^<<v19-120-7,7>>^ Sou pela paz; mas, quando falo,
+Eles são pela guerra.
+
+'''
+
+xref:019-salmo/019-salmo-119.adoc#v19-119-0[&#60; Capítulo Anterior] | <<v19-120-0,Topo>> | xref:019-salmo/019-salmo-121.adoc#v19-121-0[Próximo Capítulo &#62;]

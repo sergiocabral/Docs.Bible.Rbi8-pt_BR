@@ -1,0 +1,124 @@
+include::./index.adoc[]
+
+[[v5-19-0]]
+=== Deuteronômio, 19
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-19-1]]
+
+^<<v5-19-1,1>>^ “Quando Jeová, teu Deus, decepar as nações cuja terra Jeová, teu Deus, te dá, e as tiveres desapossado, e tiveres morado nas suas cidades e nas suas casas,
+
+[[v5-19-2]]
+
+^<<v5-19-2,2>>^ separarás para ti três cidades no meio da tua terra que Jeová, teu Deus, te dá para tomares posse dela.
+
+[[v5-19-3]]
+
+^<<v5-19-3,3>>^ Prepararás para ti o caminho e terás de dividir em três partes o território da tua terra que Jeová, teu Deus, passou a dar-te como propriedade, e terá de ser para qualquer homicida fugir para lá.
+
+[[v5-19-4]]
+
+^<<v5-19-4,4>>^ “Ora, este é o caso do homicida que fugir para lá e que há de viver: Quando ele, sem saber, golpear seu próximo e não o tiver anteriormente odiado;
+
+[[v5-19-5]]
+
+^<<v5-19-5,5>>^ ou quando for com o seu próximo à floresta para ajuntar^&#42;1^ lenha e sua mão se tiver levantado para golpear com o machado para cortar a árvore, e o ferro tiver saltado do cabo de madeira e atingido seu próximo, e este tiver morrido, ele mesmo deve fugir para uma destas cidades e terá de viver.
+
+[NOTE]
+====
+. Ou “cortar”.
+====
+
+[[v5-19-6]]
+
+^<<v5-19-6,6>>^ Do contrário, o vingador do sangue,^&#42;1^ por arder-lhe o coração, poderá ir no encalço do homicida e realmente alcançá-lo, visto que o caminho é longo; e deveras poderá golpear fatalmente a sua alma,^&#42;2^ visto que não há sentença de morte contra ele, pois não o odiou anteriormente.
+
+[NOTE]
+====
+. “O vingador (goel) do sangue.” Hebr.: go·’él had·dám; Vg: “o próximo daquele cujo sangue foi derramado”.
+. Lit.: “golpeá-lo até a alma”, M; LXXBagsterVg: “golpear-lhe a alma”.
+====
+
+[[v5-19-7]]
+
+^<<v5-19-7,7>>^ É por isso que te ordeno, dizendo: ‘Separarás para ti três cidades.’
+
+[[v5-19-8]]
+
+^<<v5-19-8,8>>^ “E se Jeová,^&#42;1^ teu Deus, ampliar o teu território segundo jurou aos teus antepassados e te der toda a terra que prometeu dar aos teus antepassados,
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-19-9]]
+
+^<<v5-19-9,9>>^ por guardares todo este mandamento que hoje te ordeno, cumprindo-o, de amar a Jeová, teu Deus, e de andar nos seus caminhos para sempre, então terás de acrescentar para ti mais três cidades a estas três,
+
+[[v5-19-10]]
+
+^<<v5-19-10,10>>^ para que não se derrame sangue inocente no meio da tua terra que Jeová, teu Deus, te dá por herança e não venha sobre ti culpa de sangue.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “sangues”. Hebr.: da·mím.
+====
+
+[[v5-19-11]]
+
+^<<v5-19-11,11>>^ “Porém, caso haja um homem que odeie seu próximo, e ele se tenha posto de emboscada contra este e se tenha levantado contra ele e golpeado fatalmente a sua alma, e ele tenha morrido, e o homem tenha fugido para uma destas cidades,
+
+[[v5-19-12]]
+
+^<<v5-19-12,12>>^ então os anciãos da sua cidade têm de mandar tirá-lo de lá, e têm de entregá-lo na mão do vingador do sangue,^&#42;1^ e ele tem de morrer.
+
+[NOTE]
+====
+. Veja v. 6 n.: “sangue”.
+====
+
+[[v5-19-13]]
+
+^<<v5-19-13,13>>^ Teu olho não deve ter dó dele, e tens de eliminar de Israel a culpa pelo sangue inocente, para que te vá bem.
+
+[[v5-19-14]]
+
+^<<v5-19-14,14>>^ “Não deves recuar os marcos divisórios do teu próximo, quando os antecessores tiverem fixado os termos na tua herança que herdarás na terra que Jeová,^&#42;1^ teu Deus, te dá para tomares posse dela.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-19-15]]
+
+^<<v5-19-15,15>>^ “Uma só testemunha não se deve levantar contra um homem com respeito a qualquer erro ou qualquer pecado, no caso de qualquer pecado que ele cometa. O assunto deve ficar de pé pela boca de duas testemunhas ou pela boca de três testemunhas.
+
+[[v5-19-16]]
+
+^<<v5-19-16,16>>^ Caso se levante contra um homem uma testemunha que trame violência, para levantar contra ele uma acusação de revolta,
+
+[[v5-19-17]]
+
+^<<v5-19-17,17>>^ então os dois homens que tiverem a disputa têm de ficar de pé perante Jeová, perante os sacerdotes e perante os juízes que estiverem em exercício naqueles dias.
+
+[[v5-19-18]]
+
+^<<v5-19-18,18>>^ E os juízes têm de pesquisar cabalmente, e se a testemunha for uma testemunha falsa e tiver levantado uma acusação falsa contra seu irmão,
+
+[[v5-19-19]]
+
+^<<v5-19-19,19>>^ então tendes de fazer-lhe assim como ele tramou fazer ao seu irmão, e tens de eliminar o mal do teu meio.
+
+[[v5-19-20]]
+
+^<<v5-19-20,20>>^ Assim, os remanescentes ouvirão e ficarão com medo, e nunca mais farão no teu meio algo mau como isso.
+
+[[v5-19-21]]
+
+^<<v5-19-21,21>>^ E teu olho não deve ter dó: será alma por alma, olho por olho, dente por dente, mão por mão, pé por pé.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-018.adoc#v5-18-0[&#60; Capítulo Anterior] | <<v5-19-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-020.adoc#v5-20-0[Próximo Capítulo &#62;]

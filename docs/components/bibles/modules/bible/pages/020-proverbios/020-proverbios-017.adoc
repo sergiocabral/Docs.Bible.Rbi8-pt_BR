@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v20-17-0]]
+=== Provérbios, 17
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-17-1]]
+
+^<<v20-17-1,1>>^ Melhor um pedaço de pão seco com tranqüilidade, do que uma casa cheia dos sacrifícios da altercação.
+
+[[v20-17-2]]
+
+^<<v20-17-2,2>>^ O servo que mostra perspicácia governará o filho que age vergonhosamente, e participará da herança entre os irmãos.
+
+[[v20-17-3]]
+
+^<<v20-17-3,3>>^ O cadinho de refinação^&#42;1^ é para a prata e o forno de fundição para o ouro, mas Jeová é o examinador dos corações.
+
+[NOTE]
+====
+. Lit.: “fundição”.
+====
+
+[[v20-17-4]]
+
+^<<v20-17-4,4>>^ O malfeitor presta atenção ao lábio prejudicial. O falsificador^&#42;1^ dá ouvidos à língua que causa adversidades.
+
+[NOTE]
+====
+. Lit.: “A falsidade.”
+====
+
+[[v20-17-5]]
+
+^<<v20-17-5,5>>^ Quem caçoa daquele que tem poucos meios realmente vitupera Aquele que o fez. Quem se alegra com o desastre [de outrem] não ficará impune.
+
+[[v20-17-6]]
+
+^<<v20-17-6,6>>^ A coroa dos anciãos são os netos, e a beleza dos filhos são os seus pais.
+
+[[v20-17-7]]
+
+^<<v20-17-7,7>>^ Para quem é insensato não é apropriado o lábio de retidão. Quanto menos para o nobre o lábio de falsidade!
+
+[[v20-17-8]]
+
+^<<v20-17-8,8>>^ O presente é uma pedra que ganha favor aos olhos do seu grandioso dono.^&#42;1^ Para onde quer que ele se vire tem bom êxito.
+
+[NOTE]
+====
+. “Grandioso dono.” Lit.: “donos”, pl. para denotar grandiosidade. Veja GK, sec. 124 i.
+====
+
+[[v20-17-9]]
+
+^<<v20-17-9,9>>^ Quem encobre uma transgressão está procurando amor, e aquele que continua falando sobre um assunto separa os que estão familiarizados uns com os outros.
+
+[[v20-17-10]]
+
+^<<v20-17-10,10>>^ Uma censura penetra mais em quem tem entendimento do que golpear cem vezes um estúpido.
+
+[[v20-17-11]]
+
+^<<v20-17-11,11>>^ O que o mau está procurando é somente a rebelião, e cruel é o mensageiro enviado contra ele.
+
+[[v20-17-12]]
+
+^<<v20-17-12,12>>^ Haja um encontro de um homem com uma ursa privada dos seus filhotes, em vez de com alguém estúpido na sua tolice.
+
+[[v20-17-13]]
+
+^<<v20-17-13,13>>^ Quanto a alguém que paga de volta o mal pelo bem, não se afastará da sua casa o mal.
+
+[[v20-17-14]]
+
+^<<v20-17-14,14>>^ O princípio da contenda é como alguém deixando sair águas; portanto, retira-te antes de estourar a altercação.
+
+[[v20-17-15]]
+
+^<<v20-17-15,15>>^ Quem declarar justo ao iníquo e quem pronunciar iníquo ao justo — sim, ambos são algo detestável para Jeová.
+
+[[v20-17-16]]
+
+^<<v20-17-16,16>>^ Por que é que na mão do estúpido há o preço para adquirir sabedoria, sendo que ele não tem coração?^&#42;1^
+
+[NOTE]
+====
+. Ou “sendo que ele não tem boa motivação”. Hebr.: welev-’á·yin.
+====
+
+[[v20-17-17]]
+
+^<<v20-17-17,17>>^ O verdadeiro companheiro está amando todo o tempo e é um irmão nascido para quando há aflição.^&#42;1^
+
+[NOTE]
+====
+. Ou “e nasce um irmão até mesmo para quando há aflição”.
+====
+
+[[v20-17-18]]
+
+^<<v20-17-18,18>>^ O homem falto de coração^&#42;1^ dá apertos de mão,^&#42;2^ prestando plena fiança diante do seu companheiro.
+
+[NOTE]
+====
+. Ou “falto de boa motivação”. Hebr.: hhasar-lév.
+. Lit.: “bate palma (mão)”. Hebr.: toh·qé·a‛ kaf.
+====
+
+[[v20-17-19]]
+
+^<<v20-17-19,19>>^ Quem ama a transgressão ama a rixa. Quem faz alta a sua entrada está procurando a derrocada.
+
+[[v20-17-20]]
+
+^<<v20-17-20,20>>^ Aquele que é pervertido no coração não achará o bem, e quem é revirado na sua língua cairá em calamidade.
+
+[[v20-17-21]]
+
+^<<v20-17-21,21>>^ Aquele que se torna pai dum filho estúpido — para ele é um pesar; e o pai dum filho insensato não se alegra.
+
+[[v20-17-22]]
+
+^<<v20-17-22,22>>^ O coração alegre faz bem como o que cura,^&#42;1^ mas o espírito abatido resseca os ossos.
+
+[NOTE]
+====
+. “Faz bem ao corpo”, mediante uma correção do M.
+====
+
+[[v20-17-23]]
+
+^<<v20-17-23,23>>^ Quem for iníquo tomará do peito até mesmo um suborno para encurvar as veredas do juízo.
+
+[[v20-17-24]]
+
+^<<v20-17-24,24>>^ A sabedoria está diante da face do entendido, mas os olhos do estúpido estão na extremidade da terra.
+
+[[v20-17-25]]
+
+^<<v20-17-25,25>>^ O filho estúpido é um vexame para seu pai e amargura para aquela que o deu à luz.
+
+[[v20-17-26]]
+
+^<<v20-17-26,26>>^ Além disso, não é boa a imposição de multa ao justo. Golpear os nobres é contra o que é reto.
+
+[[v20-17-27]]
+
+^<<v20-17-27,27>>^ Quem refreia as suas declarações é possuído de conhecimento e o homem de discernimento é de espírito frio.
+
+[[v20-17-28]]
+
+^<<v20-17-28,28>>^ Até mesmo o tolo, quando fica calado, é tido por sábio; aquele que fecha os seus próprios lábios, por entendido.
+
+'''
+
+xref:020-proverbios/020-proverbios-016.adoc#v20-16-0[&#60; Capítulo Anterior] | <<v20-17-0,Topo>> | xref:020-proverbios/020-proverbios-018.adoc#v20-18-0[Próximo Capítulo &#62;]

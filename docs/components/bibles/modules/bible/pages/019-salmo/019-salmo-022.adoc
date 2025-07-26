@@ -1,0 +1,250 @@
+include::./index.adoc[]
+
+[[v19-22-0]]
+=== Salmos, 22
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, segundo a Gama^&#42;1^ da Alva. Uma melodia de Davi._
+
+[[v19-22-1]]
+
+^<<v19-22-1,1>>^ Deus meu, Deus meu, por que me abandonaste?^&#42;1^
+[Por que estás] longe de salvar-me,
+[Das] palavras do meu bramido?^&#42;2^
+
+[NOTE]
+====
+. “Deus meu, Deus meu, por que me abandonaste?” Hebr.: ’E·lí, ’E·lí, la·máh ‛azav·tá·ni?; sir.: ’A·lahi ’A·lahi lema·na’ shebaq·tani? Veja Mt 27:46; Mr 15:34.
+. “Longe da minha salvação estão as palavras das minhas transgressões”, LXXVg.
+====
+
+[[v19-22-2]]
+
+^<<v19-22-2,2>>^ Ó meu Deus,^&#42;1^ chamo de dia, e não me respondes;
+E de noite, e não há silêncio da minha parte.
+
+[NOTE]
+====
+. “Meu Deus.” Hebr.: ’Elo·haí, hebr. pl.
+====
+
+[[v19-22-3]]
+
+^<<v19-22-3,3>>^ Mas tu és santo,
+Habitando nos louvores de Israel.
+
+[[v19-22-4]]
+
+^<<v19-22-4,4>>^ Em ti confiaram os nossos pais;
+Confiaram, e tu continuaste a pô-los a salvo.
+
+[[v19-22-5]]
+
+^<<v19-22-5,5>>^ Clamaram a ti, e conseguiram pôr-se a salvo;
+Em ti confiaram, e não foram envergonhados.
+
+[[v19-22-6]]
+
+^<<v19-22-6,6>>^ Mas, eu sou verme, e não homem,^&#42;1^
+Vitupério para os homens^&#42;2^ e desprezível para o povo.
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’ish.
+. Lit.: “homem terreno”, usado coletivamente. Hebr.: ’a·dhám.
+====
+
+[[v19-22-7]]
+
+^<<v19-22-7,7>>^ Quanto a todos os que me vêem, caçoam de mim;
+Abrem muito a sua boca,^&#42;1^ meneiam a cabeça:
+
+[NOTE]
+====
+. Lit.: “fazem separação com o lábio”. Ou “puxam sua boca”.
+====
+
+[[v19-22-8]]
+
+^<<v19-22-8,8>>^ “Fiou-se^&#42;1^ em Jeová. Que Ele o ponha a salvo!
+Livre-o ele, visto que se agradou dele!”
+
+[NOTE]
+====
+. Ou: “Fia[-te]”, M; LXXVg: “Ele esperava.”
+====
+
+[[v19-22-9]]
+
+^<<v19-22-9,9>>^ Pois foste tu que me tiraste do ventre,
+Que me fizeste confiar, enquanto estava aos peitos de minha mãe.
+
+[[v19-22-10]]
+
+^<<v19-22-10,10>>^ Sobre ti fui lançado desde a madre;
+Desde o ventre de minha mãe tens sido meu Deus.^&#42;1^
+
+[NOTE]
+====
+. “Meu Deus.” Hebr.: ’É·li.
+====
+
+[[v19-22-11]]
+
+^<<v19-22-11,11>>^ Não fiques longe de mim, porque está perto a aflição,
+Pois não há outro ajudador.
+
+[[v19-22-12]]
+
+^<<v19-22-12,12>>^ Muitos novilhos me cercaram;
+Os próprios possantes de Basã se puseram em torno de mim.
+
+[[v19-22-13]]
+
+^<<v19-22-13,13>>^ Abriram a boca contra mim,
+Como o leão, dilacerando e bramindo.
+
+[[v19-22-14]]
+
+^<<v19-22-14,14>>^ Fui derramado como água,
+E todos os meus ossos foram separados uns dos outros.
+Meu coração ficou como cera;
+Derreteu-se fundo nas minhas entranhas.
+
+[[v19-22-15]]
+
+^<<v19-22-15,15>>^ Meu poder^&#42;1^ secou-se como um caco,
+E faz-se a minha língua apegar-se às minhas gengivas;^&#42;2^
+E tu me pões no pó da morte.
+
+[NOTE]
+====
+. “Palato”, mediante uma correção do M.
+. Ou “maxilas”.
+====
+
+[[v19-22-16]]
+
+^<<v19-22-16,16>>^ Pois, cercaram-me cães;
+Rodeou-me a assembléia dos próprios malfeitores.
+Iguais a um leão [atacam] as minhas mãos e os meus pés.^&#42;1^
+
+[NOTE]
+====
+. “Iguais a um leão — as minhas mãos e os (meus) pés”, M; T: “Mordendo, iguais a um leão, as minhas mãos e os meus pés”; LXXVg: “Furaram (cavoucaram) as minhas mãos e os meus pés.”
+====
+
+[[v19-22-17]]
+
+^<<v19-22-17,17>>^ Posso contar todos os meus ossos.
+Eles mesmos olham, vêem-me.
+
+[[v19-22-18]]
+
+^<<v19-22-18,18>>^ Repartem entre si a minha roupa
+E lançam sortes sobre a minha vestimenta.
+
+[[v19-22-19]]
+
+^<<v19-22-19,19>>^ Tu, porém, ó Jeová, não fiques longe.
+Ó tu, minha força, apressa-te em meu auxílio.
+
+[[v19-22-20]]
+
+^<<v19-22-20,20>>^ Livra deveras minha alma da espada,
+Minha única,^&#42;1^ da própria pata do cão;
+
+[NOTE]
+====
+. “Minha única”, hebr. fem., referindo-se a “minha alma”.
+====
+
+[[v19-22-21]]
+
+^<<v19-22-21,21>>^ Salva-me da boca do leão,
+E dos chifres de touros selvagens tens de responder-me [e salvar-me].
+
+[[v19-22-22]]
+
+^<<v19-22-22,22>>^ Vou declarar o teu nome aos meus irmãos;
+No meio da congregação^&#42;1^ te louvarei.
+
+[NOTE]
+====
+. “Congregação.” Hebr.: qa·hál; gr.: ek·kle·sí·as; lat.: ec·clé·si·a.
+====
+
+[[v19-22-23]]
+
+^<<v19-22-23,23>>^ Vós os que temeis a Jeová, louvai-o!
+Todos vós, descendência de Jacó, glorificai-o!
+E amedrontai-vos dele, todos vós, descendência de Israel.
+
+[[v19-22-24]]
+
+^<<v19-22-24,24>>^ Pois ele não desprezou,
+Nem teve repugnância da tribulação do atribulado;
+E não escondeu dele a sua face,
+E ouviu quando clamou a ele por ajuda.
+
+[[v19-22-25]]
+
+^<<v19-22-25,25>>^ De ti virá meu louvor na grande congregação;
+Pagarei meus votos diante dos que o temem.
+
+[[v19-22-26]]
+
+^<<v19-22-26,26>>^ Os mansos comerão e se fartarão;
+Os que o buscam louvarão a Jeová.
+Vivam os vossos corações^&#42;1^ para todo o sempre.
+
+[NOTE]
+====
+. Lit.: “coração”.
+====
+
+[[v19-22-27]]
+
+^<<v19-22-27,27>>^ Todos os confins da terra lembrar-se-ão e retornarão a Jeová.
+E todas as famílias das nações curvar-se-ão diante de ti.
+
+[[v19-22-28]]
+
+^<<v19-22-28,28>>^ Pois o reinado pertence a Jeová
+E ele domina as nações.
+
+[[v19-22-29]]
+
+^<<v19-22-29,29>>^ Todos os gordos da terra comerão e se curvarão;
+Diante dele se dobrarão todos os que descem ao pó,
+E ninguém jamais preservará viva a sua própria alma.^&#42;1^
+
+[NOTE]
+====
+. “E . . . sua própria alma.” Hebr.: wenaf·shóh. Veja Ap. 4A.
+====
+
+[[v19-22-30]]
+
+^<<v19-22-30,30>>^ Uma descendência^&#42;1^ é que o servirá;
+Isso será declarado à geração concernente a Jeová.^&#42;2^
+
+[NOTE]
+====
+. Ou “prole”.
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-22-31]]
+
+^<<v19-22-31,31>>^ Chegarão e contarão a sua justiça
+Ao povo que há de nascer, que ele^&#42;1^ tem feito [isso].
+
+[NOTE]
+====
+. “Ele”, MT; LXXSyVg: “Jeová”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-021.adoc#v19-21-0[&#60; Capítulo Anterior] | <<v19-22-0,Topo>> | xref:019-salmo/019-salmo-023.adoc#v19-23-0[Próximo Capítulo &#62;]

@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v20-9-0]]
+=== Provérbios, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-9-1]]
+
+^<<v20-9-1,1>>^ A verdadeira sabedoria construiu a sua casa; talhou as suas sete colunas.
+
+[[v20-9-2]]
+
+^<<v20-9-2,2>>^ Ela organizou seu abate^&#42;1^ de carne; misturou seu vinho; ainda mais, pôs em ordem a sua mesa.
+
+[NOTE]
+====
+. Lit.: “Ela abateu seu abate.”
+====
+
+[[v20-9-3]]
+
+^<<v20-9-3,3>>^ Ela enviou as suas criadas, para que clamassem no cume das elevações da vila:
+
+[[v20-9-4]]
+
+^<<v20-9-4,4>>^ “Quem for inexperiente, desvie-se para cá.” Quem for falto de coração^&#42;1^ — ela lhe disse:
+
+[NOTE]
+====
+. Ou: “Quem for falto de boa motivação.” Hebr.: hhasar-lév.
+====
+
+[[v20-9-5]]
+
+^<<v20-9-5,5>>^ “Vinde, alimentai-vos do meu pão e participai em beber do vinho que misturei.
+
+[[v20-9-6]]
+
+^<<v20-9-6,6>>^ Deixai os inexperientes e continuai vivendo, e andai direito no caminho do entendimento.”
+
+[[v20-9-7]]
+
+^<<v20-9-7,7>>^ Quem corrige ao zombador toma para si desonra, e quem dá repreensão a um iníquo — defeito nele.
+
+[[v20-9-8]]
+
+^<<v20-9-8,8>>^ Não repreendas ao zombador, para que não te odeie. Dá repreensão ao sábio e ele te amará.
+
+[[v20-9-9]]
+
+^<<v20-9-9,9>>^ Dá ao sábio e ele se tornará ainda mais sábio. Transmite conhecimento a alguém justo e ele aumentará em erudição.
+
+[[v20-9-10]]
+
+^<<v20-9-10,10>>^ O temor de Jeová é o início da sabedoria, e o conhecimento do Santíssimo^&#42;1^ é o que é entendimento.
+
+[NOTE]
+====
+. “Santíssimo.” Lit.: “os santos”. Hebr.: Qedho·shím, pl. de qa·dhóhsh, para denotar excelência, e referindo-se a “Jeová”. Veja GK, sec. 124 h.
+====
+
+[[v20-9-11]]
+
+^<<v20-9-11,11>>^ Pois, por meio de mim, teus dias se tornarão muitos e acrescentar-se-ão anos à tua vida.
+
+[[v20-9-12]]
+
+^<<v20-9-12,12>>^ Se te tornaste sábio, tornaste-te sábio em teu próprio benefício; e se tiveres zombado, tu, somente tu, [o] suportarás.
+
+[[v20-9-13]]
+
+^<<v20-9-13,13>>^ A mulher estúpida é turbulenta. Ela é a própria simploriedade e não veio a saber coisa alguma.
+
+[[v20-9-14]]
+
+^<<v20-9-14,14>>^ E ela se assentou à entrada da sua casa, num assento, [nos] lugares altos da vila,
+
+[[v20-9-15]]
+
+^<<v20-9-15,15>>^ para chamar os que passam pelo caminho, os que seguem diretamente adiante nas suas veredas:
+
+[[v20-9-16]]
+
+^<<v20-9-16,16>>^ “Quem for inexperiente, desvie-se para cá.” E quem for falto de coração^&#42;1^ — ela também lhe disse:
+
+[NOTE]
+====
+. Ou: “E quem for falto de boa motivação.” Hebr.: wa·hhasar-lév.
+====
+
+[[v20-9-17]]
+
+^<<v20-9-17,17>>^ “As próprias águas furtadas são doces, e pão [comido] às escondidas — é agradável.”
+
+[[v20-9-18]]
+
+^<<v20-9-18,18>>^ Mas ele não veio a saber que ali estão os impotentes na morte,^&#42;1^ que os que ela chamou para dentro estão nas funduras do Seol.^&#42;2^
+
+[NOTE]
+====
+. “Os impotentes na morte.” Hebr.: refa·’ím; TSyVg(lat.: gi·gán·tes), “os gigantes”; LXX: “os nascidos na terra”. Veja 2:18 n.
+. “Seol.” Hebr.: she’óhl; gr.: haí·dou; lat.: in·fér·ni.
+====
+
+'''
+
+xref:020-proverbios/020-proverbios-008.adoc#v20-8-0[&#60; Capítulo Anterior] | <<v20-9-0,Topo>> | xref:020-proverbios/020-proverbios-010.adoc#v20-10-0[Próximo Capítulo &#62;]

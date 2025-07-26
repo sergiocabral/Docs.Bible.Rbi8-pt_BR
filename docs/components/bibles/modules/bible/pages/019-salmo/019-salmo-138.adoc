@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v19-138-0]]
+=== Salmos, 138
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_De Davi._
+
+[[v19-138-1]]
+
+^<<v19-138-1,1>>^ Eu te elogiarei de todo o meu coração.
+Entoar-te-ei melodias na frente de outros deuses.^&#42;1^
+
+[NOTE]
+====
+. “Deuses.” Hebr.: ’elo·hím; LXXVg: “anjos”; Sy: “reis”; T: “juízes”.
+====
+
+[[v19-138-2]]
+
+^<<v19-138-2,2>>^ Curvar-me-ei em direção ao teu santo templo
+E elogiarei o teu nome,
+Por causa da tua benevolência^&#42;1^ e por causa da tua veracidade.^&#42;2^
+Pois magnificaste a tua declaração até mesmo acima de todo o teu nome.
+
+[NOTE]
+====
+. Ou “amor leal”.
+. “Tua veracidade (veridicidade; verdade).” Hebr.: ’amit·té·kha (de ’eméth).
+====
+
+[[v19-138-3]]
+
+^<<v19-138-3,3>>^ No dia em que chamei, também passaste a responder-me;
+Com força começaste a fazer-me ousado na minha alma.
+
+[[v19-138-4]]
+
+^<<v19-138-4,4>>^ Todos os reis da terra te elogiarão, ó Jeová,
+Pois terão ouvido as declarações da tua boca.
+
+[[v19-138-5]]
+
+^<<v19-138-5,5>>^ E cantarão sobre os caminhos de Jeová,
+Pois grande é a glória de Jeová.
+
+[[v19-138-6]]
+
+^<<v19-138-6,6>>^ Pois Jeová é enaltecido, e ainda assim vê ao humilde;
+Mas ao soberbo ele só conhece de longe.
+
+[[v19-138-7]]
+
+^<<v19-138-7,7>>^ Se eu andar no meio de aflição, tu me preservarás vivo.
+Por causa^&#42;1^ da ira dos meus inimigos, estenderás a tua mão,
+E a tua direita me salvará.
+
+[NOTE]
+====
+. Ou: “Contra a.”
+====
+
+[[v19-138-8]]
+
+^<<v19-138-8,8>>^ O próprio Jeová completará o que é a meu favor.
+Ó Jeová, tua benevolência é por tempo indefinido.
+Não desampares os trabalhos das tuas próprias mãos.
+
+'''
+
+xref:019-salmo/019-salmo-137.adoc#v19-137-0[&#60; Capítulo Anterior] | <<v19-138-0,Topo>> | xref:019-salmo/019-salmo-139.adoc#v19-139-0[Próximo Capítulo &#62;]

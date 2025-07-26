@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v19-26-0]]
+=== Salmos, 26
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_De Davi._
+
+[[v19-26-1]]
+
+^<<v19-26-1,1>>^ Julga-me, ó Jeová, porque eu mesmo tenho andado na minha própria integridade
+E tenho confiado em Jeová, para não vacilar.
+
+[[v19-26-2]]
+
+^<<v19-26-2,2>>^ Examina-me, ó Jeová, e põe-me à prova;
+Refina-me os rins^&#42;1^ e o coração.
+
+[NOTE]
+====
+. Ou “minhas emoções mais profundas”. Hebr.: khil·yoh·thaí.
+====
+
+[[v19-26-3]]
+
+^<<v19-26-3,3>>^ Porque a tua benevolência está diante dos meus olhos
+E tenho andado na tua verdade.
+
+[[v19-26-4]]
+
+^<<v19-26-4,4>>^ Não me sentei com homens de inveracidade;
+E não entro com os que ocultam o que são.
+
+[[v19-26-5]]
+
+^<<v19-26-5,5>>^ Tenho odiado a congregação^&#42;1^ dos malfeitores
+E não me sento com os iníquos.
+
+[NOTE]
+====
+. “Congregação dos.” Hebr.: qehál; gr.: ek·kle·sí·an; lat.: ec·clé·si·am.
+====
+
+[[v19-26-6]]
+
+^<<v19-26-6,6>>^ Lavarei as mãos na própria inocência
+E vou marchar ao redor do teu altar, ó Jeová,
+
+[[v19-26-7]]
+
+^<<v19-26-7,7>>^ Para fazer ouvir alto^&#42;1^ o agradecimento
+E para declarar todas as tuas obras maravilhosas.
+
+[NOTE]
+====
+. Lit.: “com voz”.
+====
+
+[[v19-26-8]]
+
+^<<v19-26-8,8>>^ Jeová, tenho amado a habitação da tua casa
+E o lugar do domicílio da tua glória.
+
+[[v19-26-9]]
+
+^<<v19-26-9,9>>^ Não tires^&#42;1^ a minha alma junto com os pecadores,
+Nem a minha vida junto com os homens culpados de sangue,
+
+[NOTE]
+====
+. Lit.: “Não recolhas.”
+====
+
+[[v19-26-10]]
+
+^<<v19-26-10,10>>^ Em cujas mãos há conduta desenfreada
+E cuja direita está cheia de suborno.
+
+[[v19-26-11]]
+
+^<<v19-26-11,11>>^ Quanto a mim, andarei na minha integridade.
+Oh! redime-me e mostra-me favor.
+
+[[v19-26-12]]
+
+^<<v19-26-12,12>>^ Meu próprio pé certamente ficará posto em lugar plano;
+Bendirei a Jeová^&#42;1^ no meio das multidões congregadas.^&#42;2^
+
+[NOTE]
+====
+. “Bendirei a Jeová”, MTSy; LXXVg: “bendirei a ti, ó Jeová”.
+. “No meio das multidões congregadas.” Hebr.: bemaq·he·lím; gr.: ek·kle·sí·ais; lat.: ec·clé·si·is.
+====
+
+'''
+
+xref:019-salmo/019-salmo-025.adoc#v19-25-0[&#60; Capítulo Anterior] | <<v19-26-0,Topo>> | xref:019-salmo/019-salmo-027.adoc#v19-27-0[Próximo Capítulo &#62;]

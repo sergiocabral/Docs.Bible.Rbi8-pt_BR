@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v44-1-0]]
+=== Atos, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v44-1-1]]
+
+^<<v44-1-1,1>>^ O primeiro relato, ó Teófilo, eu compus a respeito de todas as coisas que Jesus principiou tanto a fazer como a ensinar,
+
+[[v44-1-2]]
+
+^<<v44-1-2,2>>^ até o dia em que foi tomado para cima, depois de ter dado mandamento, por intermédio de espírito santo, aos apóstolos que escolhera.
+
+[[v44-1-3]]
+
+^<<v44-1-3,3>>^ A estes mostrou-se também vivo, por meio de muitas provas positivas, depois de ter sofrido, sendo visto por eles durante quarenta dias, e contando as coisas a respeito do reino de Deus.
+
+[[v44-1-4]]
+
+^<<v44-1-4,4>>^ E, reunindo-se com eles, deu-lhes as ordens: “Não vos retireis de Jerusalém, mas persisti em esperar por aquilo que o Pai tem prometido, a respeito do qual me ouvistes [falar];
+
+[[v44-1-5]]
+
+^<<v44-1-5,5>>^ porque João, deveras, batizou com água, mas vós sereis batizados em espírito santo, não muitos dias depois disso.”
+
+[[v44-1-6]]
+
+^<<v44-1-6,6>>^ Tendo-se eles então reunido, perguntavam-lhe: “Senhor,^&#42;1^ é neste tempo que restabeleces o reino a Israel?”
+
+[NOTE]
+====
+. Ou “Amo”.
+====
+
+[[v44-1-7]]
+
+^<<v44-1-7,7>>^ Disse-lhes ele: “Não vos cabe obter conhecimento dos tempos ou das épocas^&#42;1^ que o Pai tem colocado sob a sua própria jurisdição;^&#42;2^
+
+[NOTE]
+====
+. Ou “dos tempos designados”. Gr.: kai·roús.
+. Lit.: “autoridade”. Gr.: e·xou·sí·ai.
+====
+
+[[v44-1-8]]
+
+^<<v44-1-8,8>>^ mas, ao chegar sobre vós o espírito santo, recebereis poder e sereis testemunhas^&#42;1^ de mim tanto em Jerusalém como em toda a Judéia e Samaria, e até à parte mais distante^&#42;2^ da terra.”
+
+[NOTE]
+====
+. “Testemunhas.” Gr.: már·ty·res; lat.: té·stes.
+. “Parte mais distante.” Ou “extremidade”. Gr.: e·skhá·tou; J17,18,22(hebr.): qetséh. Veja Jer 25:31, 33 n. Compare isso com Mt 12:42 n.
+====
+
+[[v44-1-9]]
+
+^<<v44-1-9,9>>^ E, depois de dizer estas coisas, enquanto olhavam, foi elevado e uma nuvem o arrebatou para cima, fora da vista deles.
+
+[[v44-1-10]]
+
+^<<v44-1-10,10>>^ E, enquanto fitavam os olhos no céu, durante a partida dele, eis que havia também dois homens em roupas brancas^&#42;1^ em pé ao lado deles,
+
+[NOTE]
+====
+. Ou “brilhantes”.
+====
+
+[[v44-1-11]]
+
+^<<v44-1-11,11>>^ e estes disseram: “Homens da Galiléia, por que estais parados aí olhando para o céu? Este Jesus, que dentre vós foi acolhido em cima, no céu, virá assim da mesma maneira em que o observastes ir para o céu.”^&#42;1^
+
+[NOTE]
+====
+. “Céu”. Gr.: ou·ra·nón; lat.: caé·lum; J17(hebr.): hash·sha·má·yemah, “em direção ao céu”.
+====
+
+[[v44-1-12]]
+
+^<<v44-1-12,12>>^ Voltaram então a Jerusalém, do monte chamado Monte das Oliveiras, que está perto de Jerusalém, à distância da jornada de um sábado.^&#42;1^
+
+[NOTE]
+====
+. Segundo fontes rabínicas, baseadas em Jos 3:4, esta era de cerca de 2.000 côvados (890 m).
+====
+
+[[v44-1-13]]
+
+^<<v44-1-13,13>>^ Assim, tendo entrado, subiram para o quarto de andar superior onde ficavam, tanto Pedro como João, e Tiago, e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, [filho] de Alfeu, e Simão, o zeloso,^&#42;1^ e Judas, [filho] de Tiago.
+
+[NOTE]
+====
+. “O zeloso.” Veja Lu 6:15 n.
+====
+
+[[v44-1-14]]
+
+^<<v44-1-14,14>>^ De comum acordo, todos eles persistiam em oração, junto com algumas mulheres e Maria, a mãe de Jesus, e com os irmãos dele.
+
+[[v44-1-15]]
+
+^<<v44-1-15,15>>^ Ora, durante esses dias, Pedro levantou-se no meio dos irmãos e disse (a multidão^&#42;1^ de pessoas era ao todo de cerca de cento e vinte):
+
+[NOTE]
+====
+. Ou “ao número”.
+====
+
+[[v44-1-16]]
+
+^<<v44-1-16,16>>^ “Homens, irmãos, era necessário que se cumprisse a escritura, que o espírito santo predissera pela boca de Davi a respeito de Judas, que se tornou guia dos que prenderam a Jesus,
+
+[[v44-1-17]]
+
+^<<v44-1-17,17>>^ porque tinha sido contado entre nós e obtivera uma parte neste ministério.
+
+[[v44-1-18]]
+
+^<<v44-1-18,18>>^ (Este mesmo homem, portanto, comprou um campo com o salário da injustiça, e, jogando-se de cabeça para baixo,^&#42;1^ rebentou ruidosamente pelo meio e se derramaram todos os seus intestinos.
+
+[NOTE]
+====
+. Ou “e, inchando”.
+====
+
+[[v44-1-19]]
+
+^<<v44-1-19,19>>^ Também todos os habitantes de Jerusalém ficaram sabendo disso, de modo que aquele campo foi chamado na língua deles Acéldama, isto é: Campo de Sangue.)
+
+[[v44-1-20]]
+
+^<<v44-1-20,20>>^ Pois, está escrito no livro dos Salmos: ‘Fique desolada a sua pousada e não haja nela morador’, e: ‘Tome outro seu cargo de superintendência.’^&#42;1^
+
+[NOTE]
+====
+. “Cargo de superintendência.” Gr.: e·pi·sko·pén; J17,18(hebr.): u·fequd·da·thóh, “e . . . seu cargo de superintendência”. Veja 2Rs 11:18 n.
+====
+
+[[v44-1-21]]
+
+^<<v44-1-21,21>>^ Portanto, é necessário que dentre os homens que se reuniam conosco durante todo o tempo em que o Senhor Jesus entrava e saía^&#42;1^ entre nós,
+
+[NOTE]
+====
+. Ou “se desincumbia de suas atividades”.
+====
+
+[[v44-1-22]]
+
+^<<v44-1-22,22>>^ principiando com o seu batismo por João e até o dia em que dentre nós foi acolhido em cima, um destes homens se torne testemunha conosco de sua ressurreição.”
+
+[[v44-1-23]]
+
+^<<v44-1-23,23>>^ Propuseram assim dois: José, chamado Barsabás, cognominado Justo, e Matias.
+
+[[v44-1-24]]
+
+^<<v44-1-24,24>>^ E oraram e disseram: “Ó Jeová,^&#42;1^ tu que conheces os corações de todos, indica qual destes dois homens tens escolhido
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v44-1-25]]
+
+^<<v44-1-25,25>>^ para tomar o lugar deste ministério e apostolado, do qual Judas se desviou para ir para o seu próprio lugar.”
+
+[[v44-1-26]]
+
+^<<v44-1-26,26>>^ Lançaram assim sortes sobre eles, e a sorte caiu em Matias; e ele foi contado com os onze apóstolos.
+
+'''
+
+xref:043-joao/043-joao-021.adoc#v43-21-0[&#60; Capítulo Anterior] | <<v44-1-0,Topo>> | xref:044-atos/044-atos-002.adoc#v44-2-0[Próximo Capítulo &#62;]

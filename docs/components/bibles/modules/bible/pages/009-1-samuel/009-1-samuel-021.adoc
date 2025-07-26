@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v9-21-0]]
+=== 1 Samuel, 21
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-21-1]]
+
+^<<v9-21-1,1>>^ Mais tarde, Davi veio a Nobe, a Aimeleque, o sacerdote; e Aimeleque começou a tremer ao se encontrar com Davi, e ele lhe disse então: “Por que é que vieste sozinho e não há ninguém contigo?”
+
+[[v9-21-2]]
+
+^<<v9-21-2,2>>^ A isso Davi disse a Aimeleque, o sacerdote: “O próprio rei me ordenou com respeito a um assunto e foi dizer-me: ‘Não saiba ninguém do assunto em que te envio e a respeito do qual te dei ordem.’ E eu marquei encontro com os moços^&#42;1^ em tal e tal lugar.
+
+[NOTE]
+====
+. “Moços”, isto é, de sua escolta.
+====
+
+[[v9-21-3]]
+
+^<<v9-21-3,3>>^ E agora, se tiveres cinco pães à tua disposição, entrega-mos simplesmente na mão, ou^&#42;1^ o que for que se achar.”
+
+[NOTE]
+====
+. “Se houver cinco pães sob a tua mão, entrega na minha mão”, LXX; MSy: “o que há sob a tua mão? Entrega simplesmente cinco pães à minha mão, ou”.
+====
+
+[[v9-21-4]]
+
+^<<v9-21-4,4>>^ Mas o sacerdote respondeu a Davi e disse: “Não há pão comum sob a minha mão, porém, há pão sagrado, desde que os moços pelo menos se tenham mantido apartados das mulheres.”
+
+[[v9-21-5]]
+
+^<<v9-21-5,5>>^ Davi respondeu, pois, ao sacerdote e lhe disse: “Mas as mulheres foram mantidas apartadas de nós assim como antes quando saí,^&#42;1^ e os organismos^&#42;2^ dos moços continuam santos, embora a própria missão seja comum. E quanto mais hoje, quando a pessoa se torna santa no [seu] organismo?”
+
+[NOTE]
+====
+. Isto é, numa expedição militar.
+. Ou “vasos”.
+====
+
+[[v9-21-6]]
+
+^<<v9-21-6,6>>^ Em vista disso, o sacerdote deu-lhe o que era sagrado, pois não havia ali pão senão o pão da proposição^&#42;1^ que fora removido de diante de Jeová para se colocar lá pão fresco^&#42;2^ no dia em que foi tirado.
+
+[NOTE]
+====
+. Ou “pão da Presença”, M; Vg: “pão da apresentação”.
+. Lit.: “quente”, isto é, recém-saído do forno.
+====
+
+[[v9-21-7]]
+
+^<<v9-21-7,7>>^ Ora, naquele dia estava ali um dos servos de Saul, retido perante Jeová, e seu nome era Doegue, o edomita, principal dos pastores^&#42;1^ que pertenciam a Saul.
+
+[NOTE]
+====
+. “O mais poderoso dos batedores”, mediante uma ligeira emenda do M.
+====
+
+[[v9-21-8]]
+
+^<<v9-21-8,8>>^ E Davi prosseguiu, dizendo a Aimeleque: “Não há nada aqui à tua disposição, alguma lança ou espada? Pois, nem a minha própria espada nem as minhas armas tomei na minha mão, visto que o assunto do rei mostrou ser urgente.”
+
+[[v9-21-9]]
+
+^<<v9-21-9,9>>^ A isso o sacerdote disse: “A espada de Golias, o filisteu, a quem golpeaste na baixada de Elá — eis que está aqui, envolvida numa capa, atrás do éfode. Se é o que queres tomar para ti, toma-a, porque não há outra aqui senão ela.” E Davi prosseguiu, dizendo: “Não há outra igual a ela. Dá-ma.”
+
+[[v9-21-10]]
+
+^<<v9-21-10,10>>^ Davi levantou-se então e continuou a fugir naquele dia por causa de Saul, e por fim chegou a Aquis, rei de Gate.
+
+[[v9-21-11]]
+
+^<<v9-21-11,11>>^ E os servos de Aquis começaram a dizer-lhe: “Não é este Davi, rei do país? Não foi a este que respondiam com^&#42;1^ danças, dizendo:
+‘Saul golpeou os seus milhares,
+E Davi as suas dezenas de milhares’?”^&#42;2^
+
+[NOTE]
+====
+. Lit.: “nas”.
+. Ou “suas miríades”.
+====
+
+[[v9-21-12]]
+
+^<<v9-21-12,12>>^ E Davi começou a tomar estas palavras ao coração e ele ficou com muito medo por causa de Aquis, rei de Gate.
+
+[[v9-21-13]]
+
+^<<v9-21-13,13>>^ Disfarçou, portanto, a sua sanidade sob os olhos deles e começou a agir como demente na mão deles, e fazia cruzinhas^&#42;1^ nas portas do portão^&#42;2^ e deixava correr a saliva sobre a sua barba.
+
+[NOTE]
+====
+. “E tamborilava”, LXX.
+. Ou “cidade”, representada pelo portão. LXX: “cidade”.
+====
+
+[[v9-21-14]]
+
+^<<v9-21-14,14>>^ Por fim, Aquis disse aos seus servos: “Eis que vedes um homem comportar-se como louco. Por que iríeis trazê-lo a mim?
+
+[[v9-21-15]]
+
+^<<v9-21-15,15>>^ Careço eu de gente enlouquecida de modo que me trouxestes este que age como louco diante de mim? Deve este entrar na minha casa?”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-020.adoc#v9-20-0[&#60; Capítulo Anterior] | <<v9-21-0,Topo>> | xref:009-1-samuel/009-1-samuel-022.adoc#v9-22-0[Próximo Capítulo &#62;]

@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v16-8-0]]
+=== Neemias, 8
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v16-8-1]]
+
+^<<v16-8-1,1>>^ E todo o povo passou a ajuntar-se como um só homem na praça pública que havia diante do Portão das Águas. Disseram então a Esdras, o copista, que trouxesse o livro da lei de Moisés, que Jeová ordenara a Israel.
+
+[[v16-8-2]]
+
+^<<v16-8-2,2>>^ Por conseguinte, Esdras, o sacerdote, levou a lei perante a congregação^&#42;1^ de homens, bem como de mulheres e de todos os suficientemente inteligentes para escutar, no primeiro dia do sétimo mês.
+
+[NOTE]
+====
+. “A congregação de.” Hebr.: haq·qa·hál; gr.: ek·kle·sí·as.
+====
+
+[[v16-8-3]]
+
+^<<v16-8-3,3>>^ E ele continuou a lê-la em voz alta diante da praça pública que havia na frente do Portão das Águas, desde o amanhecer até o meio-dia, diante dos homens, e das mulheres, e dos outros inteligentes; e os ouvidos de todo o povo estavam [atentos] ao livro da lei.
+
+[[v16-8-4]]
+
+^<<v16-8-4,4>>^ E Esdras, o copista, ficou de pé num estrado de madeira^&#42;1^ que fora feito para a ocasião;^&#42;2^ e ao lado dele estavam de pé Matitias, e Sema, e Anaías, e Urias, e Hilquias, e Maaséias, à sua direita, e à sua esquerda Pedaías, e Misael, e Malquijá, e Hasum, e Has-Badana, Zacarias [e] Mesulão.
+
+[NOTE]
+====
+. “Num estrado de madeira.” Hebr.: ‛al·migh·dal-‛éts; gr.: e·pí bé·ma·tos xy·lí·nou.
+. Lit.: “palavra; declaração; coisa”.
+====
+
+[[v16-8-5]]
+
+^<<v16-8-5,5>>^ E Esdras passou a abrir o livro diante dos olhos de todo o povo, pois viera a estar acima de todo o povo; e abrindo-o ele, todo o povo se pôs de pé.
+
+[[v16-8-6]]
+
+^<<v16-8-6,6>>^ Esdras bendisse então a Jeová, o [verdadeiro] Deus, o Grande, a que todo o povo respondeu: “Amém! Amém!” com a elevação das suas mãos. Inclinaram-se então e prostraram-se perante Jeová com os rostos por terra.
+
+[[v16-8-7]]
+
+^<<v16-8-7,7>>^ E Jesua, e Bani, e Serebias, Jamim, Acube, Sabetai, Hodias, Maaséias, Quelita, Azarias, Jozabade, Hanã, Pelaías, sim, os levitas, explicavam a lei ao povo,^&#42;1^ ao passo que o povo se mantinha de pé.
+
+[NOTE]
+====
+. Ou “instruíam o povo na lei”.
+====
+
+[[v16-8-8]]
+
+^<<v16-8-8,8>>^ E continuaram a ler alto no livro, na lei do [verdadeiro] Deus, fornecendo-se esclarecimento^&#42;1^ e dando-se^&#42;2^ o sentido [dela]; e continuaram a tornar a leitura compreensível.
+
+[NOTE]
+====
+. Ou “sendo ela interpretada”. Hebr.: mefo·rásh; Vg: “distintamente”.
+. “Dando-se.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v16-8-9]]
+
+^<<v16-8-9,9>>^ E Neemias, isto é, o Tirsata, e Esdras, o sacerdote, o copista, e os levitas que instruíam o povo passaram a dizer a todo o povo: “O dia de hoje é santo para Jeová, vosso Deus. Não pranteeis nem choreis.” Porque todo o povo estava chorando ao ouvir as palavras da lei.
+
+[[v16-8-10]]
+
+^<<v16-8-10,10>>^ E ele prosseguiu, dizendo-lhes: “Ide, comei as coisas gordurosas e bebei as coisas doces, e enviai porções àquele para quem nada se preparou; pois este dia é santo para o nosso Senhor,^&#42;1^ e não vos sintais magoados, porque o regozijo de Jeová é o vosso baluarte.”
+
+[NOTE]
+====
+. “Para o nosso Senhor.” Hebr.: la·’Adho·néh·nu.
+====
+
+[[v16-8-11]]
+
+^<<v16-8-11,11>>^ E os levitas ordenavam a todo o povo que ficasse quieto, dizendo: “Ficai calados! Pois este dia é santo; e não vos sintais magoados.”
+
+[[v16-8-12]]
+
+^<<v16-8-12,12>>^ Portanto, todo o povo se foi para comer e beber, e para enviar porções e para entregar-se a grande alegria, porque tinham entendido as palavras que se lhes deram a conhecer.
+
+[[v16-8-13]]
+
+^<<v16-8-13,13>>^ E no segundo dia, os cabeças dos pais de todo o povo, os sacerdotes e os levitas ajuntaram-se a Esdras, o copista, sim, para se inteirarem das palavras da lei.
+
+[[v16-8-14]]
+
+^<<v16-8-14,14>>^ Então acharam escrito na lei, que Jeová, por meio de Moisés, ordenara que os filhos de Israel morassem em barracas durante a festividade do sétimo mês,
+
+[[v16-8-15]]
+
+^<<v16-8-15,15>>^ e que apregoassem e fizessem passar uma proclamação por todas as suas cidades e em Jerusalém, dizendo: “Saí à região montanhosa e trazei folhas de oliveira, e folhas de oleastro, e folhas de murta, e folhas de palmeira, e as folhas de árvores ramosas para fazer barracas, segundo o que está escrito.”
+
+[[v16-8-16]]
+
+^<<v16-8-16,16>>^ E o povo passou a sair e a trazê-las, e a fazer para si barracas, cada um no seu próprio terraço, e nos seus pátios, e nos pátios da casa do [verdadeiro] Deus, e na praça pública do Portão das Águas, e na praça pública do Portão de Efraim.
+
+[[v16-8-17]]
+
+^<<v16-8-17,17>>^ Deste modo, toda a congregação dos que tinham voltado do cativeiro fez barracas e passou a morar nas barracas; pois os filhos de Israel não tinham feito assim desde os dias de Josué,^&#42;1^ filho de Num, até aquele dia, de modo que veio a haver muitíssima alegria.
+
+[NOTE]
+====
+. “Josué.” Hebr.: Ye·shú·a‛; LXX: “Jesus”. Veja Jos 1:1 n.: “Josué”.
+====
+
+[[v16-8-18]]
+
+^<<v16-8-18,18>>^ E de dia em dia lia-se alto a lei do [verdadeiro] Deus, desde o primeiro dia até o último dia; e prosseguiram celebrando a festividade por sete dias, e no oitavo dia houve uma assembléia solene, segundo a regra.
+
+'''
+
+xref:016-neemias/016-neemias-007.adoc#v16-7-0[&#60; Capítulo Anterior] | <<v16-8-0,Topo>> | xref:016-neemias/016-neemias-009.adoc#v16-9-0[Próximo Capítulo &#62;]

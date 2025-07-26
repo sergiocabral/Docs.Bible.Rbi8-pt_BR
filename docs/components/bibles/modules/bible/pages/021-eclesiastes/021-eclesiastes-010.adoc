@@ -1,0 +1,116 @@
+include::./index.adoc[]
+
+[[v21-10-0]]
+=== Eclesiastes, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v21-10-1]]
+
+^<<v21-10-1,1>>^ Moscas mortas^&#42;1^ fazem o óleo do fabricante de ungüento cheirar mal, borbulhar. [Assim] faz um pouco de estultícia àquele que é precioso pela sabedoria e pela glória.
+
+[NOTE]
+====
+. Lit.: “Moscas da morte.”
+====
+
+[[v21-10-2]]
+
+^<<v21-10-2,2>>^ O coração do sábio está à sua direita, mas o coração do estúpido está à sua esquerda.
+
+[[v21-10-3]]
+
+^<<v21-10-3,3>>^ E também, qualquer que seja o caminho em que o estulto andar, seu próprio coração é falto,^&#42;1^ e ele certamente diz a todos que é estulto.
+
+[NOTE]
+====
+. Ou “sua própria boa motivação está faltando”. Hebr.: lib·bóh hha·sér.
+====
+
+[[v21-10-4]]
+
+^<<v21-10-4,4>>^ Se o espírito de um governante se levantar contra ti, não deixes o teu próprio lugar, pois a própria calma aquieta grandes pecados.
+
+[[v21-10-5]]
+
+^<<v21-10-5,5>>^ Existe algo calamitoso que tenho visto debaixo do sol, como quando há um engano que se propaga por causa de quem está em poder:
+
+[[v21-10-6]]
+
+^<<v21-10-6,6>>^ A estultícia^&#42;1^ tem sido posta em muitas posições elevadas, mas os próprios ricos continuam morando apenas numa condição rebaixada.
+
+[NOTE]
+====
+. “A estultícia”, M; LXXSyVg: “O estulto.”
+====
+
+[[v21-10-7]]
+
+^<<v21-10-7,7>>^ Vi servos sobre cavalos, mas príncipes andando na terra como se fossem servos.
+
+[[v21-10-8]]
+
+^<<v21-10-8,8>>^ Quem cava um buraco, cairá nele; e quem rompe por um muro de pedras, a este morderá uma serpente.
+
+[[v21-10-9]]
+
+^<<v21-10-9,9>>^ Quem extrai pedras, ferir-se-á com elas. Quem racha toras, terá de ter cuidado com elas.
+
+[[v21-10-10]]
+
+^<<v21-10-10,10>>^ Se uma ferramenta ficou embotada e alguém não lhe amolou o fio, então terá de usar as suas próprias energias vitais. De modo que usar de sabedoria para bom êxito significa uma vantagem.
+
+[[v21-10-11]]
+
+^<<v21-10-11,11>>^ Se a serpente morde quando não se produz encantamento, então não há vantagem para quem se empenha na língua.
+
+[[v21-10-12]]
+
+^<<v21-10-12,12>>^ As palavras da boca do sábio significam favor, mas os lábios do estúpido o engolem.
+
+[[v21-10-13]]
+
+^<<v21-10-13,13>>^ O início das palavras da sua boca é estultícia, e o fim posterior da sua boca é doidice calamitosa.
+
+[[v21-10-14]]
+
+^<<v21-10-14,14>>^ E o estulto fala muitas palavras.
+O homem^&#42;1^ não sabe o que virá a ser; e daquilo que virá a ser após ele, quem o pode informar?
+
+[NOTE]
+====
+. Lit.: “O homem terreno.” Hebr.: ha·’a·dhám.
+====
+
+[[v21-10-15]]
+
+^<<v21-10-15,15>>^ O trabalho árduo dos estúpidos os fatiga, porque ninguém ficou sabendo como ir à cidade.
+
+[[v21-10-16]]
+
+^<<v21-10-16,16>>^ O que será de ti, ó terra, quando teu rei é rapaz e os teus próprios príncipes continuam a comer até mesmo de manhã?
+
+[[v21-10-17]]
+
+^<<v21-10-17,17>>^ Feliz és, ó terra, quando teu rei é filho de nobres e teus próprios príncipes comem no tempo devido para [ter] potência, não para somente beber.
+
+[[v21-10-18]]
+
+^<<v21-10-18,18>>^ Pela grande preguiça arria o vigamento, e pelo abaixamento das mãos a casa tem goteiras.
+
+[[v21-10-19]]
+
+^<<v21-10-19,19>>^ O pão^&#42;1^ é para o riso dos trabalhadores, e o próprio vinho alegra a vida; mas o dinheiro^&#42;2^ é o que encontra resposta em todas as coisas.
+
+[NOTE]
+====
+. Ou “alimento”. Hebr.: lé·hhem.
+. Lit.: “mas a prata”. Hebr.: wehak·ké·sef.
+====
+
+[[v21-10-20]]
+
+^<<v21-10-20,20>>^ Não invoques o mal sobre o próprio rei nem mesmo no teu quarto de dormir, e não invoques o mal sobre o rico nos quartos interiores, onde te deitas; pois uma criatura voadora dos céus transmitirá o som e o que tem asas contará o assunto.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-009.adoc#v21-9-0[&#60; Capítulo Anterior] | <<v21-10-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-011.adoc#v21-11-0[Próximo Capítulo &#62;]

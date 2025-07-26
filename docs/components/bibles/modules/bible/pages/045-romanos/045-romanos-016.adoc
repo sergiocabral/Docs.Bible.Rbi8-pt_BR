@@ -1,0 +1,154 @@
+include::./index.adoc[]
+
+[[v45-16-0]]
+=== Romanos, 16
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v45-16-1]]
+
+^<<v45-16-1,1>>^ Recomendo-vos^&#42;1^ Febe, nossa irmã, que é ministra^&#42;2^ da congregação que está em Cencréia,
+
+[NOTE]
+====
+. Ou: “Apresento-vos.”
+. Ou “serva”. Gr.: di·á·ko·non; lat.: in mi·ni·sté·ri·o; J18(hebr.): mesha·ráth, “ministra”.
+====
+
+[[v45-16-2]]
+
+^<<v45-16-2,2>>^ a fim de que a acolhais no Senhor dum modo digno dos santos, e para que a auxilieis em qualquer assunto em que possa necessitar de vós, pois ela mesma também se mostrou defensora de muitos, sim, de mim mesmo.
+
+[[v45-16-3]]
+
+^<<v45-16-3,3>>^ Dai os meus cumprimentos a Prisca e Áquila, meus colaboradores em Cristo Jesus,
+
+[[v45-16-4]]
+
+^<<v45-16-4,4>>^ que, pela minha alma,^&#42;1^ arriscaram os seus próprios pescoços, aos quais não somente eu, mas também todas as congregações das nações expressamos agradecimentos;
+
+[NOTE]
+====
+. Ou “vida”.
+====
+
+[[v45-16-5]]
+
+^<<v45-16-5,5>>^ e [cumprimentai] a congregação que está na casa deles. Cumprimentai o meu amado Epêneto, que é uma das primícias da Ásia para Cristo.
+
+[[v45-16-6]]
+
+^<<v45-16-6,6>>^ Cumprimentai Maria, que tem realizado muitos labores para vós.
+
+[[v45-16-7]]
+
+^<<v45-16-7,7>>^ Cumprimentai Andrônico e Júnias, meus parentes e meus companheiros de cativeiro,^&#42;1^ que são homens notáveis entre os apóstolos e que têm estado em união com Cristo por mais tempo do que eu.
+
+[NOTE]
+====
+. Ou “companheiros de prisão”.
+====
+
+[[v45-16-8]]
+
+^<<v45-16-8,8>>^ Dai os meus cumprimentos a Amplíato, meu amado no Senhor.
+
+[[v45-16-9]]
+
+^<<v45-16-9,9>>^ Cumprimentai Urbano, nosso colaborador em Cristo, e meu amado Estáquis.
+
+[[v45-16-10]]
+
+^<<v45-16-10,10>>^ Cumprimentai Apeles, o aprovado em Cristo. Cumprimentai os da família de Aristóbulo.
+
+[[v45-16-11]]
+
+^<<v45-16-11,11>>^ Cumprimentai Herodião, meu parente. Cumprimentai os da família de Narciso, que estão no Senhor.
+
+[[v45-16-12]]
+
+^<<v45-16-12,12>>^ Cumprimentai Trifena e Trifosa, [mulheres] que trabalharam arduamente no Senhor. Cumprimentai Pérside, nossa amada, pois ela realizou muitos labores no Senhor.
+
+[[v45-16-13]]
+
+^<<v45-16-13,13>>^ Cumprimentai Rufo, o escolhido no Senhor, e sua mãe e minha.
+
+[[v45-16-14]]
+
+^<<v45-16-14,14>>^ Cumprimentai Asíncrito, Flégon, Hermes, Pátrobas, Hermas e os irmãos com eles.
+
+[[v45-16-15]]
+
+^<<v45-16-15,15>>^ Cumprimentai Filólogo e Júlia, Nereu e sua irmã, e Olimpas, e todos os santos com eles.
+
+[[v45-16-16]]
+
+^<<v45-16-16,16>>^ Cumprimentai-vos uns aos outros com beijo santo. Todas as congregações do Cristo vos cumprimentam.
+
+[[v45-16-17]]
+
+^<<v45-16-17,17>>^ Exorto-vos agora, irmãos, que fiqueis de olho nos que causam divisões e motivos para tropeço contra o ensino que aprendestes, e que os eviteis.
+
+[[v45-16-18]]
+
+^<<v45-16-18,18>>^ Pois homens dessa sorte são escravos, não de nosso Senhor Cristo, mas de seus próprios ventres; e, com conversa suave e palavras elogiosas seduzem os corações dos cândidos.
+
+[[v45-16-19]]
+
+^<<v45-16-19,19>>^ Pois a vossa obediência tem sido notada por todos. Alegro-me, portanto, convosco. Mas, quero que sejais sábios quanto ao que é bom, porém inocentes quanto ao que é mau.
+
+[[v45-16-20]]
+
+^<<v45-16-20,20>>^ O Deus que dá paz, por sua parte, esmagará em breve a Satanás debaixo dos vossos pés. A benignidade imerecida de nosso Senhor Jesus seja convosco.
+
+[[v45-16-21]]
+
+^<<v45-16-21,21>>^ Timóteo, meu colaborador, vos cumprimenta, e assim também Lúcio, e Jasão, e Sosípatro, meus parentes.
+
+[[v45-16-22]]
+
+^<<v45-16-22,22>>^ Eu, Tércio, que fiz a escrita desta carta, vos cumprimento no Senhor.
+
+[[v45-16-23]]
+
+^<<v45-16-23,23>>^ Gaio, meu hospedeiro e o de toda a congregação, vos cumprimenta. Erasto, o mordomo da cidade, vos cumprimenta, e assim também Quarto, seu^&#42;1^ irmão.
+
+[NOTE]
+====
+. Ou “nosso”.
+====
+
+[[v45-16-24]]
+
+^<<v45-16-24,24>>^ ^&#42;1^ ——
+
+[NOTE]
+====
+. P46אABC omitem isso; DItVgc: “A benignidade imerecida de nosso Senhor Jesus Cristo esteja com todos vós. Amém”, que corresponde ao fim do v. 20.
+====
+
+[[v45-16-25]]
+
+^<<v45-16-25,25>>^ Ora, àquele que vos pode fazer firmes de acordo com as boas novas que eu declaro e^&#42;1^ a pregação de Jesus Cristo, segundo a revelação^&#42;2^ do segredo sagrado que por tempos de longa duração tem sido guardado em silêncio,
+
+[NOTE]
+====
+. Ou “sim”.
+. Lit.: “exposição; exibição”. Gr.: a·po·ká·ly·psin; lat.: re·ve·la·ti·ó·nem.
+====
+
+[[v45-16-26]]
+
+^<<v45-16-26,26>>^ mas que agora tem sido manifestado e tem sido dado a conhecer entre todas as nações, por intermédio das escrituras proféticas, de acordo com o mandado do Deus eterno, para fomentar a obediência pela fé;
+
+[[v45-16-27]]
+
+^<<v45-16-27,27>>^ a Deus, único sábio, seja a glória por intermédio de Jesus Cristo, para sempre.^&#42;1^ Amém.
+
+[NOTE]
+====
+. “Para sempre”, P46BC; אADItVgArm: “para todo o sempre”.
+====
+
+'''
+
+xref:045-romanos/045-romanos-015.adoc#v45-15-0[&#60; Capítulo Anterior] | <<v45-16-0,Topo>> | xref:046-1-corintios/046-1-corintios-001.adoc#v46-1-0[Próximo Capítulo &#62;]

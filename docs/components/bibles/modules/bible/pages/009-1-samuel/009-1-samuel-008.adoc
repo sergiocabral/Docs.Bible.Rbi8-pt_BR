@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v9-8-0]]
+=== 1 Samuel, 8
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-8-1]]
+
+^<<v9-8-1,1>>^ E sucedeu que, assim que Samuel ficou velho, foi constituir seus filhos como juízes para Israel.
+
+[[v9-8-2]]
+
+^<<v9-8-2,2>>^ Ora, o nome de seu filho primogênito veio a ser Joel e o nome de seu segundo [filho], Abias; eles julgavam em Berseba.
+
+[[v9-8-3]]
+
+^<<v9-8-3,3>>^ E seus filhos não andavam nos seus caminhos, mas inclinavam-se a seguir o lucro injusto, e aceitavam suborno e desvirtuavam o julgamento.
+
+[[v9-8-4]]
+
+^<<v9-8-4,4>>^ Reuniram-se então todos os anciãos de Israel e vieram a Samuel, a Ramá,
+
+[[v9-8-5]]
+
+^<<v9-8-5,5>>^ e disseram-lhe: “Eis que tu mesmo ficaste velho, mas os teus próprios filhos não têm andado nos teus caminhos. Agora, designa-nos deveras um rei para nos julgar, igual a todas as nações.”
+
+[[v9-8-6]]
+
+^<<v9-8-6,6>>^ Mas a coisa era má aos olhos de Samuel, visto que haviam dito: “Dá-nos deveras um rei para nos julgar”, e Samuel começou a orar a Jeová.
+
+[[v9-8-7]]
+
+^<<v9-8-7,7>>^ Jeová disse então a Samuel: “Escuta a voz do povo referente a tudo o que te dizem; pois, não é a ti que rejeitaram, mas é a mim que rejeitaram como rei sobre eles.
+
+[[v9-8-8]]
+
+^<<v9-8-8,8>>^ Conforme todos os seus feitos que praticaram desde o dia em que os fiz sair do Egito até o dia de hoje, continuamente me abandonando e servindo a outros deuses, assim estão também fazendo a ti.
+
+[[v9-8-9]]
+
+^<<v9-8-9,9>>^ E agora escuta a sua voz. Somente o seguinte: deves adverti-los solenemente e tens de informá-los da prerrogativa legítima do rei que reinará sobre eles.”
+
+[[v9-8-10]]
+
+^<<v9-8-10,10>>^ Portanto, Samuel disse todas as palavras de Jeová ao povo que lhe pedia um rei.
+
+[[v9-8-11]]
+
+^<<v9-8-11,11>>^ E passou a dizer: “A seguinte será a prerrogativa legítima do rei que reinará sobre vós: Tomará os vossos filhos e os porá como seus nos seus carros e entre os seus cavaleiros, e alguns terão de correr na frente dos seus carros;
+
+[[v9-8-12]]
+
+^<<v9-8-12,12>>^ e a fim de designar para si chefes^&#42;1^ sobre mil e chefes sobre cinqüenta, e [alguns] para lavrarem por ele e para ceifarem a sua colheita, e para fazerem seus instrumentos de guerra e os petrechos de seus carros.
+
+[NOTE]
+====
+. Veja Êx 18:21 n.
+====
+
+[[v9-8-13]]
+
+^<<v9-8-13,13>>^ E tomará as vossas filhas para misturadoras de ungüento, e cozinheiras, e padeiras.
+
+[[v9-8-14]]
+
+^<<v9-8-14,14>>^ E os vossos campos, e os vossos vinhedos, e os vossos olivais, os melhores, ele tomará e realmente dará aos seus servos.
+
+[[v9-8-15]]
+
+^<<v9-8-15,15>>^ E tomará o décimo de vossos campos de sementeira e de vossos vinhedos, e ele certamente [os] dará aos seus oficiais da corte e aos seus servos.
+
+[[v9-8-16]]
+
+^<<v9-8-16,16>>^ E tomará os vossos servos e as vossas servas, e as vossas melhores manadas^&#42;1^ e os vossos jumentos, e terá de usá-los para a sua obra.
+
+[NOTE]
+====
+. “Manadas”, LXX; MSyVg: “moços”.
+====
+
+[[v9-8-17]]
+
+^<<v9-8-17,17>>^ E tomará o décimo de vossos rebanhos e vós mesmos vos tornareis seus como servos.
+
+[[v9-8-18]]
+
+^<<v9-8-18,18>>^ E naquele dia certamente clamareis por causa do vosso rei que escolhestes para vós, mas Jeová não vos responderá naquele dia.”
+
+[[v9-8-19]]
+
+^<<v9-8-19,19>>^ No entanto, o povo negou-se a escutar a voz de Samuel e disse: “Não, mas um rei virá a estar sobre nós.
+
+[[v9-8-20]]
+
+^<<v9-8-20,20>>^ E também nós teremos de tornar-nos iguais a todas as nações, e o nosso rei terá de julgar-nos, e terá de sair na nossa frente e travar as nossas batalhas.”
+
+[[v9-8-21]]
+
+^<<v9-8-21,21>>^ E Samuel deu ouvidos a todas as palavras do povo; falou-as então aos ouvidos de Jeová.
+
+[[v9-8-22]]
+
+^<<v9-8-22,22>>^ E Jeová passou a dizer a Samuel: “Escuta a sua voz, e tens de fazer um rei reinar para eles.” Por conseguinte, Samuel disse aos homens de Israel: “Ide cada um para a sua cidade.”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-007.adoc#v9-7-0[&#60; Capítulo Anterior] | <<v9-8-0,Topo>> | xref:009-1-samuel/009-1-samuel-009.adoc#v9-9-0[Próximo Capítulo &#62;]

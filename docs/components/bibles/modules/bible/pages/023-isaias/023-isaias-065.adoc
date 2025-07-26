@@ -1,0 +1,172 @@
+include::./index.adoc[]
+
+[[v23-65-0]]
+=== Isaías, 65
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-65-1]]
+
+^<<v23-65-1,1>>^ “Deixei-me buscar por aqueles que não perguntaram [por mim].^&#42;1^ Deixei-me achar por aqueles que não me tinham procurado.^&#42;2^ Eu disse: ‘Eis-me aqui, eis-me aqui!’ a uma nação que não invocava^&#42;3^ o meu nome.
+
+[NOTE]
+====
+. “Por mim”, LXXSy e três mss. hebr.
+. “Fui encontrado pelos que não me buscavam”, LXXBagster. Veja Ro 10:20.
+. “Invocava”, mediante uma ligeira mudança dos sinais vocálicos, em harmonia com TSyVg; M: “foi chamada pelo”.
+====
+
+[[v23-65-2]]
+
+^<<v23-65-2,2>>^ “O dia inteiro estendi as minhas mãos para um povo obstinado, os que andam no caminho que não é bom, atrás dos seus pensamentos;
+
+[[v23-65-3]]
+
+^<<v23-65-3,3>>^ o povo [que se compõe] dos que de contínuo me ofendem diretamente à minha face, sacrificando nos jardins e fazendo fumaça sacrificial sobre os tijolos,^&#42;1^
+
+[NOTE]
+====
+. Possivelmente o piso do local da oferta de sacrifícios, ou, senão, telhas.
+====
+
+[[v23-65-4]]
+
+^<<v23-65-4,4>>^ sentando-se entre as sepulturas, que também passam a noite nas guaritas das sentinelas,^&#42;1^ comendo carne de porco, havendo nos seus vasos até mesmo caldo de coisas imundas;
+
+[NOTE]
+====
+. “Entre as rochas”, mediante uma correção; LXXSy: “nas cavernas”.
+====
+
+[[v23-65-5]]
+
+^<<v23-65-5,5>>^ os que dizem: ‘Fica onde estás. Não te aproximes de mim, pois eu certamente te transmitirei santidade.’^&#42;1^ Estes são fumaça nas minhas narinas, um fogo ardendo o dia inteiro.^&#42;2^
+
+[NOTE]
+====
+. Ou “eu certamente me tornarei santo para ti”, M.
+. “Quanto a estes, sua ira é como fumaça perante mim; sua punição será na Gehinam (Geena), onde o fogo arde o dia inteiro”, T. Veja Ap. 4C.
+====
+
+[[v23-65-6]]
+
+^<<v23-65-6,6>>^ “Eis que está escrito diante de mim. Não ficarei quieto, mas vou dar uma recompensa; vou pôr mesmo uma recompensa no seu próprio seio,^&#42;1^
+
+[NOTE]
+====
+. “Mas vou dar-lhes a punição pelas suas transgressões e vou entregar os cadáveres deles à segunda morte”, T.
+====
+
+[[v23-65-7]]
+
+^<<v23-65-7,7>>^ pelos seus^&#42;1^ próprios erros e pelos erros dos seus antepassados ao mesmo tempo”, disse Jeová. “Visto que fizeram fumaça sacrificial sobre os montes e me vituperaram sobre os morros, também eu vou medir-lhes seu salário primeiro de tudo no seu próprio seio.”
+
+[NOTE]
+====
+. “Seus”, AqLXXSymThSy; MTVg: “teus”.
+====
+
+[[v23-65-8]]
+
+^<<v23-65-8,8>>^ Assim disse Jeová: “Do mesmo modo como o vinho novo se acha no cacho e alguém tem de dizer: ‘Não o arruínes, porque há uma bênção nele’, assim farei por causa dos meus servos,^&#42;1^ para não arruinar a todos.
+
+[NOTE]
+====
+. “Servos”, MTSyVg; LXX e sete mss. hebr.: “servo”.
+====
+
+[[v23-65-9]]
+
+^<<v23-65-9,9>>^ E eu vou fazer sair de Jacó uma descendência^&#42;1^ e de Judá o possuidor hereditário dos meus montes; e meus escolhidos terão de tomar posse dela^&#42;2^ e meus próprios servos residirão ali.
+
+[NOTE]
+====
+. Lit.: “semente”.
+. “Dela”, hebr. fem. sing., referindo-se à possessão hereditária.
+====
+
+[[v23-65-10]]
+
+^<<v23-65-10,10>>^ E Sarom terá de tornar-se pastagem para ovelhas e a baixada de Acor, um lugar de repouso para o gado vacum, para meu povo que me terá buscado.
+
+[[v23-65-11]]
+
+^<<v23-65-11,11>>^ “Mas vós sois os que abandonais a Jeová, os que vos esqueceis do meu santo monte, os que pondes em ordem uma mesa para o deus da Boa Sorte^&#42;1^ e os que estais enchendo vinho misturado para o deus do Destino.^&#42;2^
+
+[NOTE]
+====
+. “Para o deus da Boa Sorte.” Hebr.: lag·gádh; LXX: “o demônio”; lat.: For·tú·nae. Veja Gên 30:11 n.
+. Ou “para o deus da Sorte”. Hebr.: lam·ní; gr.: tei tý·khei.
+====
+
+[[v23-65-12]]
+
+^<<v23-65-12,12>>^ E eu vou destinar-vos à espada e todos vós vos dobrareis para serdes abatidos; visto que eu chamei, mas vós não respondestes; falei, mas vós não escutastes; e continuastes a fazer o que era mau aos meus olhos e escolhestes a coisa de que não me agradei.”
+
+[[v23-65-13]]
+
+^<<v23-65-13,13>>^ Portanto, assim disse o Soberano Senhor Jeová: “Eis que os meus próprios servos comerão, mas vós passareis fome. Eis que os meus próprios servos beberão, mas vós passareis sede. Eis que os meus próprios servos se alegrarão, mas vós passareis vergonha.
+
+[[v23-65-14]]
+
+^<<v23-65-14,14>>^ Eis que os meus próprios servos gritarão de júbilo por causa da boa condição do coração, mas vós fareis clamores por causa da dor de coração e uivareis por causa do puro quebrantamento do espírito.
+
+[[v23-65-15]]
+
+^<<v23-65-15,15>>^ E certamente depositareis o vosso nome para um juramento^&#42;1^ pelos meus escolhidos, e o Soberano Senhor Jeová realmente [vos] entregará individualmente^&#42;2^ à morte,^&#42;3^ mas aos seus próprios servos ele chamará por outro nome;
+
+[NOTE]
+====
+. Isto é, uma maldição.
+. “[Vos] . . . individualmente.” Lit.: “te”, hebr. masc. sing., para mostrar individualismo.
+. “À morte”, M; T: “à morte com a segunda morte”.
+====
+
+[[v23-65-16]]
+
+^<<v23-65-16,16>>^ de modo que todo aquele que abençoar a si mesmo na terra abençoará a si mesmo pelo Deus^&#42;1^ de fé,^&#42;2^ e todo aquele que fizer uma declaração juramentada na terra jurará pelo Deus de fé; porque as aflições anteriores realmente terão sido esquecidas e porque ficarão realmente escondidas dos meus olhos.
+
+[NOTE]
+====
+. “Pelo Deus de.” Hebr.: bE’·lo·héh.
+. Ou “fidelidade”, mediante a mudança dos sinais vocálicos para rezar ’e·mún; hebr.: ’a·mén: “Amém; Certamente!”
+====
+
+[[v23-65-17]]
+
+^<<v23-65-17,17>>^ “Pois eis que crio novos céus e uma nova terra; e não haverá recordação das coisas anteriores, nem subirão ao coração.
+
+[[v23-65-18]]
+
+^<<v23-65-18,18>>^ Mas exultai e jubilai para todo o sempre naquilo que estou criando. Pois eis que crio Jerusalém como causa para júbilo e seu povo como causa para exultação.
+
+[[v23-65-19]]
+
+^<<v23-65-19,19>>^ E eu vou jubilar em Jerusalém e exultar pelo meu povo; e não se ouvirá mais nela o som de choro, nem o som dum clamor de queixume.”
+
+[[v23-65-20]]
+
+^<<v23-65-20,20>>^ “Não virá a haver mais um nenê de poucos dias procedente daquele lugar, nem ancião que não tenha cumprido os seus dias; pois morrer-se-á como mero rapaz, embora da idade de cem anos; e quanto ao pecador, embora tenha cem anos de idade, invocar-se-á sobre ele o mal.
+
+[[v23-65-21]]
+
+^<<v23-65-21,21>>^ E hão de construir casas e [as] ocuparão; e hão de plantar vinhedos e comer os [seus] frutos.
+
+[[v23-65-22]]
+
+^<<v23-65-22,22>>^ Não construirão e outro terá morada; não plantarão e outro comerá. Porque os dias do meu povo serão como os dias da árvore; e meus escolhidos usufruirão plenamente o trabalho das suas próprias mãos.
+
+[[v23-65-23]]
+
+^<<v23-65-23,23>>^ Não labutarão em vão, nem darão à luz para perturbação; porque são a descendência composta dos abençoados por Jeová, e seus descendentes com eles.
+
+[[v23-65-24]]
+
+^<<v23-65-24,24>>^ E há de acontecer que antes que clamem, eu mesmo responderei; enquanto ainda estiverem falando, eu mesmo ouvirei.
+
+[[v23-65-25]]
+
+^<<v23-65-25,25>>^ “O lobo e o cordeirinho é que pastarão como se fossem um, e o leão comerá palha como o touro; e quanto à serpente, seu alimento será o pó. Não farão dano nem causarão ruína em todo o meu santo monte”, disse Jeová.
+
+'''
+
+xref:023-isaias/023-isaias-064.adoc#v23-64-0[&#60; Capítulo Anterior] | <<v23-65-0,Topo>> | xref:023-isaias/023-isaias-066.adoc#v23-66-0[Próximo Capítulo &#62;]

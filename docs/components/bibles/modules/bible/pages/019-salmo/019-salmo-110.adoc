@@ -1,0 +1,72 @@
+include::./index.adoc[]
+
+[[v19-110-0]]
+=== Salmos, 110
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_De Davi. Uma melodia._
+
+[[v19-110-1]]
+
+^<<v19-110-1,1>>^ A pronunciação de Jeová a meu Senhor^&#42;1^ é:
+“Senta-te à minha direita,
+Até que eu ponha os teus inimigos como escabelo para os teus pés.”
+
+[NOTE]
+====
+. “A meu Senhor (Amo).” Hebr.: lA’·dho·ní.
+====
+
+[[v19-110-2]]
+
+^<<v19-110-2,2>>^ Jeová enviará de Sião o bastão da tua força, [dizendo:]
+“Subjuga no meio dos teus inimigos.”
+
+[[v19-110-3]]
+
+^<<v19-110-3,3>>^ Teu povo se oferecerá voluntariamente^&#42;1^ no dia da tua força militar.
+Nos esplendores da santidade, da madre da alva,^&#42;2^
+Tens a tua companhia de homens jovens assim como gotas de orvalho.^&#42;3^
+
+[NOTE]
+====
+. “Se oferecerá voluntariamente (livremente).” Lit.: “[será] ofertas voluntárias”, isto é, voluntários dispostos. Veja Êx 35:29; Êx 36:3; Núm 15:3 n.
+. “Alva.” Hebr.: mish·hhár; gr.: he·o·sfó·rou; lat.: lu·cí·fe·rum. Veja Is 14:12.
+. Lit.: “tens o orvalho da tua juventude”, ou: “tens a tua juventude como o próprio orvalho”.
+====
+
+[[v19-110-4]]
+
+^<<v19-110-4,4>>^ Jeová jurou (e não o deplorará):
+“Tu és sacerdote por tempo indefinido
+À maneira de Melquisedeque!”
+
+[[v19-110-5]]
+
+^<<v19-110-5,5>>^ O próprio Jeová,^&#42;1^ à tua direita,
+Há de despedaçar reis no dia da sua ira.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-110-6]]
+
+^<<v19-110-6,6>>^ Executará julgamento entre as nações;
+Causará uma plenitude de corpos mortos.
+Ele há de despedaçar aquele que é cabeça sobre uma terra populosa.
+
+[[v19-110-7]]
+
+^<<v19-110-7,7>>^ Beberá do vale de torrente no caminho.
+Por isso erguerá alto a cabeça.^&#42;1^
+
+[NOTE]
+====
+. “A cabeça”, MLXXVg; Sy e dois mss. hebr.: “sua cabeça”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-109.adoc#v19-109-0[&#60; Capítulo Anterior] | <<v19-110-0,Topo>> | xref:019-salmo/019-salmo-111.adoc#v19-111-0[Próximo Capítulo &#62;]

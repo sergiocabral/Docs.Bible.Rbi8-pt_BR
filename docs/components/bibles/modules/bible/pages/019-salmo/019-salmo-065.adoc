@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v19-65-0]]
+=== Salmos, 65
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Uma melodia de Davi. Um cântico._
+
+[[v19-65-1]]
+
+^<<v19-65-1,1>>^ Para ti há louvor — silêncio — ó Deus, em Sião;
+E a ti se pagará o voto.
+
+[[v19-65-2]]
+
+^<<v19-65-2,2>>^ Ó Ouvinte de oração, sim, a ti chegarão pessoas de toda carne.
+
+[[v19-65-3]]
+
+^<<v19-65-3,3>>^ Coisas do erro mostraram-se mais poderosas do que eu.
+Quanto às nossas transgressões, tu mesmo as cobrirás.
+
+[[v19-65-4]]
+
+^<<v19-65-4,4>>^ Feliz aquele a quem tu escolhes e fazes chegar perto
+Para que resida nos teus pátios.
+Havemos^&#42;1^ de ficar satisfeitos com a bondade da tua casa,
+O lugar santo do teu templo.
+
+[NOTE]
+====
+. “Havemos”, M; Sy: “Ele há”.
+====
+
+[[v19-65-5]]
+
+^<<v19-65-5,5>>^ Tu nos responderás com coisas atemorizantes em justiça,
+Ó Deus de nossa salvação,
+A Confiança de todos os limites da terra e dos que estão longe no mar.
+
+[[v19-65-6]]
+
+^<<v19-65-6,6>>^ Ele estabelece firmemente os montes com o seu poder;
+Está deveras cingido de potência.
+
+[[v19-65-7]]
+
+^<<v19-65-7,7>>^ Aplaca o fragor dos mares,
+O fragor das suas ondas e o tumulto dos grupos nacionais.
+
+[[v19-65-8]]
+
+^<<v19-65-8,8>>^ E os habitantes das partes mais remotas terão medo dos teus sinais;
+Fazes gritar de júbilo as saídas da manhã e da noitinha.
+
+[[v19-65-9]]
+
+^<<v19-65-9,9>>^ Voltaste a tua atenção para a terra, para dar-lhe abundância;
+Tu a enriqueces muitíssimo.
+A corrente da parte de Deus está cheia de água.
+Preparas seu cereal,
+Pois é assim que preparas a terra.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “ela”, hebr. fem., referindo-se à “terra”.
+====
+
+[[v19-65-10]]
+
+^<<v19-65-10,10>>^ Encharcam-se os seus sulcos, nivelam-se os seus torrões;
+Tu a amoleces com chuvas copiosas; abençoas os seus próprios renovos.
+
+[[v19-65-11]]
+
+^<<v19-65-11,11>>^ Coroaste o ano com^&#42;1^ a tua bondade,
+E os teus próprios trilhos destilam gordura.
+
+[NOTE]
+====
+. Lit.: “da”.
+====
+
+[[v19-65-12]]
+
+^<<v19-65-12,12>>^ As pastagens do ermo continuam destilando,
+E os próprios morros se cingem de júbilo.
+
+[[v19-65-13]]
+
+^<<v19-65-13,13>>^ Os pastos ficaram revestidos de rebanhos,
+E as próprias baixadas estão envolvidas em cereais.
+Bradam em triunfo, sim, cantam.
+
+'''
+
+xref:019-salmo/019-salmo-064.adoc#v19-64-0[&#60; Capítulo Anterior] | <<v19-65-0,Topo>> | xref:019-salmo/019-salmo-066.adoc#v19-66-0[Próximo Capítulo &#62;]

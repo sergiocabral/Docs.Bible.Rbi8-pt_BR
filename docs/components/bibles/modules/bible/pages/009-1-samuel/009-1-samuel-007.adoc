@@ -1,0 +1,104 @@
+include::./index.adoc[]
+
+[[v9-7-0]]
+=== 1 Samuel, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-7-1]]
+
+^<<v9-7-1,1>>^ Conseqüentemente, os homens de Quiriate-Jearim vieram e levaram a arca de Jeová para cima, e levaram-na à casa de Abinadabe, no morro,^&#42;1^ e foi Eleazar, seu filho, a quem eles santificaram para guardar a arca de Jeová.
+
+[NOTE]
+====
+. “No morro”, MLXX; Vg: “em Gibeá”.
+====
+
+[[v9-7-2]]
+
+^<<v9-7-2,2>>^ E sucedeu que se multiplicavam os dias desde o dia em que a Arca ficou em Quiriate-Jearim, de modo que vieram a ser vinte anos, e toda a casa de Israel lamentava-se atrás de^&#42;1^ Jeová.
+
+[NOTE]
+====
+. Ou “Israel apegava-se a”.
+====
+
+[[v9-7-3]]
+
+^<<v9-7-3,3>>^ E Samuel passou a dizer a toda a casa de Israel: “Se é com todo o vosso coração que retornais a Jeová, removei do vosso meio os deuses estrangeiros^&#42;1^ e também as imagens de Astorete, e dirigi vosso coração inabalavelmente para Jeová e servi somente a ele, e ele vos livrará da mão dos filisteus.”
+
+[NOTE]
+====
+. Lit.: “os deuses do (país) estrangeiro”.
+====
+
+[[v9-7-4]]
+
+^<<v9-7-4,4>>^ Então, os filhos de Israel removeram os Baalins e as imagens de Astorete, e começaram a servir somente a Jeová.
+
+[[v9-7-5]]
+
+^<<v9-7-5,5>>^ Samuel disse então: “Reuni todo o Israel em Mispá, para que eu ore por vós a Jeová.”
+
+[[v9-7-6]]
+
+^<<v9-7-6,6>>^ Reuniram-se, pois, em Mispá, e foram puxar água e derramá-la perante Jeová,^&#42;1^ e guardaram jejum naquele dia. E começaram a dizer ali: “Pecamos contra Jeová.” E Samuel passou a julgar os filhos de Israel em Mispá.
+
+[NOTE]
+====
+. LXX acrescenta: “na terra”.
+====
+
+[[v9-7-7]]
+
+^<<v9-7-7,7>>^ E os filisteus chegaram a ouvir que os filhos de Israel se haviam reunido em Mispá, e os senhores do eixo dos filisteus puseram-se a caminho, subindo contra Israel. Quando os filhos de Israel ouviram isso, ficaram com medo por causa dos filisteus.
+
+[[v9-7-8]]
+
+^<<v9-7-8,8>>^ De modo que os filhos de Israel disseram a Samuel: “Não fiques calado por nossa causa de clamar a Jeová, nosso Deus, por socorro, para que nos salve da mão dos filisteus.”
+
+[[v9-7-9]]
+
+^<<v9-7-9,9>>^ Samuel tomou, então, um cordeirinho que ainda mamava e o ofereceu a Jeová como oferta queimada, uma oferta inteira; e Samuel começou a clamar a Jeová por socorro a favor de Israel e Jeová passou a responder-lhe.
+
+[[v9-7-10]]
+
+^<<v9-7-10,10>>^ E sucedeu que, enquanto Samuel oferecia a oferta queimada, os próprios filisteus se chegaram à batalha contra Israel. E então Jeová fez naquele dia trovejar com um forte barulho contra os filisteus, a fim de lançá-los em confusão; e eles foram derrotados diante de Israel.
+
+[[v9-7-11]]
+
+^<<v9-7-11,11>>^ Em vista disso, os homens de Israel fizeram uma surtida de Mispá e foram no encalço dos filisteus, e golpearam-nos até ao sul de Bete-Car.
+
+[[v9-7-12]]
+
+^<<v9-7-12,12>>^ Samuel tomou então uma pedra e a pôs entre Mispá e Jesana,^&#42;1^ e começou a chamá-la pelo nome de Ebenezer.^&#42;2^ Por conseguinte, ele disse: “Até agora Jeová nos ajudou.”
+
+[NOTE]
+====
+. “Jesana.” Sy: “Bete-Jasã”. (Veja 2Cr 13:19.) Lit.: “o Dente”. Hebr.: hash·Shén.
+. Significando “a Pedra de Ajuda”. Hebr.: ’É·ven ha·‛Á·zer. É diferente de “Ebenezer” em 4:1 e 5:1.
+====
+
+[[v9-7-13]]
+
+^<<v9-7-13,13>>^ Assim os filisteus foram subjugados e não mais entraram outra vez no território de Israel; e a mão de Jeová continuou a ser contra os filisteus todos os dias de Samuel.
+
+[[v9-7-14]]
+
+^<<v9-7-14,14>>^ E as cidades que os filisteus haviam tomado de Israel voltavam a Israel, desde Ecrom até Gate, e Israel livrou o território delas da mão dos filisteus.
+E veio a haver paz entre Israel e os amorreus.
+
+[[v9-7-15]]
+
+^<<v9-7-15,15>>^ E Samuel continuou a julgar Israel todos os dias da sua vida.
+
+[[v9-7-16]]
+
+^<<v9-7-16,16>>^ E de ano em ano ele viajava e percorria o circuito de Betel, e Gilgal, e Mispá, e julgava Israel em todos estes lugares.
+
+[[v9-7-17]]
+
+^<<v9-7-17,17>>^ Mas retornava a Ramá, porque ali estava sua casa e ali julgava a Israel. E ele passou a construir ali um altar a Jeová.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-006.adoc#v9-6-0[&#60; Capítulo Anterior] | <<v9-7-0,Topo>> | xref:009-1-samuel/009-1-samuel-008.adoc#v9-8-0[Próximo Capítulo &#62;]

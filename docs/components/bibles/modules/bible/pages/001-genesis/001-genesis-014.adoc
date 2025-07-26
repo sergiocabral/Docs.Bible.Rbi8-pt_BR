@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v1-14-0]]
+=== Gênesis, 14
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-14-1]]
+
+^<<v1-14-1,1>>^ Sucedeu então, nos dias de^&#42;1^ Anrafel, rei^&#42;2^ de Sinear, Arioque, rei de Elasar, Quedorlaomer, rei de Elão, e Tidal, rei de Goim,^&#42;3^
+
+[NOTE]
+====
+. “Sucedeu então, nos dias de.” Hebr.: wai·hí bi·méh. Esta frase ocorre seis vezes no M; aqui, e também em Ru 1:1; Es 1:1; Is 7:1; Je 1:3, e com uma inserção em 2Sa 21:1. Indica um período de provações que terminou numa bênção.
+. “Rei.” Hebr.: mé·lekh; a primeira ocorrência deste título, e sem o artigo definido, mas seguido por um nome próprio no caso genitivo.
+. “Nações”, LXXVg.
+====
+
+[[v1-14-2]]
+
+^<<v1-14-2,2>>^ que estes fizeram guerra contra Bera, rei de Sodoma, e contra Birsa, rei de Gomorra, e Sinabe, rei de Admá, e Semeber, rei de Zeboim, e contra o rei de Bela (isto é, Zoar).
+
+[[v1-14-3]]
+
+^<<v1-14-3,3>>^ Todos estes marcharam como aliados para a Baixada de Sidim,^&#42;1^ isto é, o Mar Salgado.
+
+[NOTE]
+====
+. Ou “Vale dos Campos”.
+====
+
+[[v1-14-4]]
+
+^<<v1-14-4,4>>^ Doze anos tinham servido a Quedorlaomer, mas no décimo terceiro ano rebelaram-se.
+
+[[v1-14-5]]
+
+^<<v1-14-5,5>>^ E no décimo quarto ano veio Quedorlaomer, e também os reis que estavam com ele, e infligiram derrotas aos refains em Asterote-Carnaim, e aos zuzins em Hã, e aos emins em Savé-Quiriataim,
+
+[[v1-14-6]]
+
+^<<v1-14-6,6>>^ e aos horeus na sua montanha de Seir, descendo até El-Parã, que está junto ao ermo.
+
+[[v1-14-7]]
+
+^<<v1-14-7,7>>^ Depois deram volta e vieram a En-Mispate, isto é, Cades, e derrotaram todo o campo dos amalequitas e também os amorreus que moravam em Hazazom-Tamar.
+
+[[v1-14-8]]
+
+^<<v1-14-8,8>>^ Neste ponto, o rei de Sodoma pôs-se em marcha, bem como o rei de Gomorra, e o rei de Admá, e o rei de Zeboim, e o rei de Bela, (isto é, Zoar,) e puseram-se em ordem de batalha contra eles na Baixada de Sidim,
+
+[[v1-14-9]]
+
+^<<v1-14-9,9>>^ contra Quedorlaomer, rei de Elão, e Tidal, rei de Goim, e Anrafel, rei de Sinear, e Arioque, rei de Elasar; quatro reis contra os cinco.
+
+[[v1-14-10]]
+
+^<<v1-14-10,10>>^ Ora, a Baixada de Sidim era de poços e mais poços de betume; e os reis de Sodoma e Gomorra puseram-se em fuga e caíram neles, e os remanescentes fugiram para a região montanhosa.
+
+[[v1-14-11]]
+
+^<<v1-14-11,11>>^ Os vencedores^&#42;1^ tomaram então todos os bens de Sodoma e Gomorra, e todos os seus víveres, e seguiram seu caminho.
+
+[NOTE]
+====
+. Lit.: “Então eles”, isto é, os vencedores.
+====
+
+[[v1-14-12]]
+
+^<<v1-14-12,12>>^ Tomaram também Ló, filho do irmão de Abrão, e os seus bens, e prosseguiram no seu caminho. Ele morava então em Sodoma.
+
+[[v1-14-13]]
+
+^<<v1-14-13,13>>^ Depois veio um homem que escapara e o contou a Abrão, o hebreu.^&#42;1^ Ele residia então entre as árvores grandes de Manre, o amorreu, irmão de Escol e irmão de Aner; e eles eram confederados^&#42;2^ de Abrão.
+
+[NOTE]
+====
+. “O hebreu.” Hebr.: ha·‛Iv·rí; a primeira ocorrência; as próximas encontram-se em 39:14, 17.
+. Lit.: “donos (amos) do pacto de”. Hebr.: ba·‛aléh veríth.
+====
+
+[[v1-14-14]]
+
+^<<v1-14-14,14>>^ Abrão ouviu, pois, que seu irmão tinha sido levado cativo. Em vista disso convocou seus homens treinados, trezentos e dezoito escravos nascidos na sua casa,^&#42;1^ e foi no encalço [deles] até Dã.
+
+[NOTE]
+====
+. Lit.: “dos nascidos da sua casa”. Eram filhos de escravos, não comprados.
+====
+
+[[v1-14-15]]
+
+^<<v1-14-15,15>>^ E de noite ele recorreu à divisão das suas forças contra eles, ele e seus escravos, e assim os derrotou e foi persegui-los até Hobá, que fica ao norte^&#42;1^ de Damasco.
+
+[NOTE]
+====
+. Lit.: “à esquerda”, isto é, quando se encara o leste.
+====
+
+[[v1-14-16]]
+
+^<<v1-14-16,16>>^ E passou a recuperar todos os bens e recuperou também a Ló, seu irmão, e os bens dele, e também as mulheres e o povo.
+
+[[v1-14-17]]
+
+^<<v1-14-17,17>>^ O rei de Sodoma saiu-lhe então ao encontro, depois de ele ter voltado de derrotar Quedorlaomer e os reis que havia com ele, à Baixada de Savé,^&#42;1^ isto é, à Baixada do rei.
+
+[NOTE]
+====
+. Ou “Vale da Planície.” Este vale ficava perto de Salém, ou Jerusalém.
+====
+
+[[v1-14-18]]
+
+^<<v1-14-18,18>>^ E Melquisedeque, rei de Salém, trouxe para fora pão e vinho; e ele era sacerdote^&#42;1^ do Deus Altíssimo.^&#42;2^
+
+[NOTE]
+====
+. “Sacerdote de.” Hebr.: kho·hén; a primeira ocorrência desta palavra.
+. “Do Deus Altíssimo.” Hebr.: le’Él ‛El·yóhn. A palavra hebr., aqui, não é ’Elo·hím, mas ’El, sem o artigo definido, embora ’El seja seguido pelo adjetivo ‛El·yóhn, “Altíssimo”.
+====
+
+[[v1-14-19]]
+
+^<<v1-14-19,19>>^ Abençoou-o então e disse:
+“Bendito seja Abrão do Deus Altíssimo,
+Produtor^&#42;1^ do céu e da terra;
+
+[NOTE]
+====
+. “Produtor.” LXXVg: “que criou”; mas no v. 22 a Vg reza: “Possuidor.”
+====
+
+[[v1-14-20]]
+
+^<<v1-14-20,20>>^ E bendito seja o Deus Altíssimo,
+Que entregou os teus opressores na tua mão!”
+Então, Abrão^&#42;1^ deu-lhe um décimo^&#42;2^ de tudo.
+
+[NOTE]
+====
+. Lit.: “ele”.
+. Ou “dízimo”. A primeira menção do dízimo ou décimo.
+====
+
+[[v1-14-21]]
+
+^<<v1-14-21,21>>^ Depois, o rei de Sodoma disse a Abrão: “Dá-me as almas,^&#42;1^ mas toma para ti os bens.”
+
+[NOTE]
+====
+. “As almas”, M(hebr.: han·né·fesh, sing., mas usada coletivamente)SyVg; LXX: “homens”.
+====
+
+[[v1-14-22]]
+
+^<<v1-14-22,22>>^ A isso Abrão disse ao rei de Sodoma: “Ergo deveras minha mão [em juramento] a Jeová, o Deus Altíssimo, Produtor do céu e da terra,
+
+[[v1-14-23]]
+
+^<<v1-14-23,23>>^ que, desde o fio até o cordão de sandália, não, não tomarei nada daquilo que é teu, para que não digas: ‘Fui eu que enriqueci a Abrão.’
+
+[[v1-14-24]]
+
+^<<v1-14-24,24>>^ Nada para mim! Somente o que os jovens já comeram e o quinhão dos homens que foram comigo, Aner, Escol e Manre — que tomem o quinhão deles.”
+
+'''
+
+xref:001-genesis/001-genesis-013.adoc#v1-13-0[&#60; Capítulo Anterior] | <<v1-14-0,Topo>> | xref:001-genesis/001-genesis-015.adoc#v1-15-0[Próximo Capítulo &#62;]

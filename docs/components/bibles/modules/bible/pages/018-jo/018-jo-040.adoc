@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v18-40-0]]
+=== Jó, 40
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-40-1]]
+
+^<<v18-40-1,1>>^ E Jeová passou a responder a Jó e a dizer:
+
+[[v18-40-2]]
+
+^<<v18-40-2,2>>^ “Acaso devia haver contenda^&#42;1^ da parte do caturra com o Todo-poderoso?
+Responda a isto o próprio repreendedor de Deus.”^&#42;2^
+
+[NOTE]
+====
+. “Acaso devia haver contenda.” No hebr., isto é um verbo no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+. “Deus.” Hebr.: ’Elóh·ah.
+====
+
+[[v18-40-3]]
+
+^<<v18-40-3,3>>^ E Jó passou a responder a Jeová e a dizer:
+
+[[v18-40-4]]
+
+^<<v18-40-4,4>>^ “Eis que me tornei de pouca importância.
+Que te replicarei?
+Pus a minha mão sobre a boca.
+
+[[v18-40-5]]
+
+^<<v18-40-5,5>>^ Falei uma vez, e não vou responder;
+E duas vezes, e não vou acrescentar nada.”
+
+[[v18-40-6]]
+
+^<<v18-40-6,6>>^ E Jeová prosseguiu, respondendo a Jó de dentro do vendaval e dizendo:
+
+[[v18-40-7]]
+
+^<<v18-40-7,7>>^ “Por favor, cinge os teus lombos como um varão vigoroso;
+Eu te perguntarei e tu mo farás saber.
+
+[[v18-40-8]]
+
+^<<v18-40-8,8>>^ Realmente, invalidarás tu a minha justiça?
+Pronunciar-me-ás iníquo, a fim de teres razão?^&#42;1^
+
+[NOTE]
+====
+. “Imaginas que te tratei de outro modo senão que parecesses justo?”, LXX.
+====
+
+[[v18-40-9]]
+
+^<<v18-40-9,9>>^ Ou acaso tens um braço igual ao do [verdadeiro] Deus,^&#42;1^
+E podes fazer trovejar com uma voz igual à sua?
+
+[NOTE]
+====
+. “Igual ao do [verdadeiro] Deus.” Hebr.: ka·’Él. Veja De 33:26 n.: “Deus”.
+====
+
+[[v18-40-10]]
+
+^<<v18-40-10,10>>^ Por favor, atavia-te com superioridade e eminência;
+E veste-te com dignidade e esplendor.
+
+[[v18-40-11]]
+
+^<<v18-40-11,11>>^ Dá vazão aos acessos de fúria da tua ira,
+E vê todo o altivo e rebaixa-o.
+
+[[v18-40-12]]
+
+^<<v18-40-12,12>>^ Vê todo o altivo, humilha-o,
+E calca os iníquos lá mesmo onde estão.
+
+[[v18-40-13]]
+
+^<<v18-40-13,13>>^ Encobre-os juntos no pó,
+Pensa as suas próprias faces no lugar encoberto,
+
+[[v18-40-14]]
+
+^<<v18-40-14,14>>^ E eu, sim eu, te elogiarei,
+Porque a tua direita pode salvar-te.
+
+[[v18-40-15]]
+
+^<<v18-40-15,15>>^ Eis aqui o beemote^&#42;1^ que eu fiz tanto quanto a ti.
+Come erva verde assim como o touro.
+
+[NOTE]
+====
+. Ou “hipopótamo”. Hebr.: vehe·móhth, pl. de behe·máh (veja Gên 1:24 n.: “doméstico”); gr.: the·rí·a, “feras”; lat.(v. 10): Be·hé·moth.
+====
+
+[[v18-40-16]]
+
+^<<v18-40-16,16>>^ Eis que seu poder está nas suas ancas
+E sua energia dinâmica nos cordões musculares do seu ventre.
+
+[[v18-40-17]]
+
+^<<v18-40-17,17>>^ Deixa pender a sua cauda como um cedro;
+Os tendões das suas coxas estão entrelaçados.
+
+[[v18-40-18]]
+
+^<<v18-40-18,18>>^ Seus ossos são tubos de cobre;
+Seus ossos fortes são como barras de ferro forjado.
+
+[[v18-40-19]]
+
+^<<v18-40-19,19>>^ É o princípio dos caminhos de Deus;^&#42;1^
+Aquele que o fez pode levar perto a sua espada.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v18-40-20]]
+
+^<<v18-40-20,20>>^ Porque os próprios montes lhe produzem os seus produtos,
+E todas as feras do campo divertem-se ali.^&#42;1^
+
+[NOTE]
+====
+. “Ele proporcionou alegria às criaturas quadrúpedes na profundeza [gr.: en toi tar·tá·roi, “no tártaro”]”, LXX. Veja Ap. 4D.
+====
+
+[[v18-40-21]]
+
+^<<v18-40-21,21>>^ Deita-se debaixo dos lódãos espinhosos,
+No esconderijo de canas e no brejo.
+
+[[v18-40-22]]
+
+^<<v18-40-22,22>>^ Os lódãos espinhosos mantêm-no bloqueado com a sua sombra;
+Cercam-no os choupos do vale da torrente.
+
+[[v18-40-23]]
+
+^<<v18-40-23,23>>^ Quando o rio fica turbulento, não corre tomado de pânico.
+Mantém-se confiante, mesmo que o Jordão irrompa contra a sua boca.
+
+[[v18-40-24]]
+
+^<<v18-40-24,24>>^ Pode alguém tomá-lo diante dos seus olhos?
+Pode alguém furar-lhe o nariz com laços?^&#42;1^
+
+[NOTE]
+====
+. MLXX continuam este capítulo por mais oito vv.
+====
+
+'''
+
+xref:018-jo/018-jo-039.adoc#v18-39-0[&#60; Capítulo Anterior] | <<v18-40-0,Topo>> | xref:018-jo/018-jo-041.adoc#v18-41-0[Próximo Capítulo &#62;]

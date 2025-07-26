@@ -1,0 +1,248 @@
+include::./index.adoc[]
+
+[[v6-19-0]]
+=== Josué, 19
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-19-1]]
+
+^<<v6-19-1,1>>^ Então saiu a segunda sorte para Simeão, para a tribo dos filhos de Simeão, segundo as suas famílias. E a sua herança veio a ser no meio da herança dos filhos de Judá.
+
+[[v6-19-2]]
+
+^<<v6-19-2,2>>^ E vieram a ter na sua herança Berseba com Seba,^&#42;1^ e Moladá,
+
+[NOTE]
+====
+. “Seba.” LXXB(gr.): Sa·ma·á, “Sema”.
+====
+
+[[v6-19-3]]
+
+^<<v6-19-3,3>>^ e Hazar-Sual, e Balá, e Ezem,
+
+[[v6-19-4]]
+
+^<<v6-19-4,4>>^ e Eltolade, e Betul, e Hormá,
+
+[[v6-19-5]]
+
+^<<v6-19-5,5>>^ e Ziclague, e Bete-Marcabote, e Hazar-Susa,
+
+[[v6-19-6]]
+
+^<<v6-19-6,6>>^ e Bete-Lebaote, e Saruem; treze cidades e seus povoados.
+
+[[v6-19-7]]
+
+^<<v6-19-7,7>>^ Aim, Rimom e Eter, e Asã; quatro cidades e seus povoados,
+
+[[v6-19-8]]
+
+^<<v6-19-8,8>>^ e todos os povoados que havia em volta destas cidades, até Baalate-Beer, Ramá do sul.^&#42;1^ Esta foi a herança da tribo dos filhos de Simeão, segundo as suas famílias.
+
+[NOTE]
+====
+. Ou “do Negebe”.
+====
+
+[[v6-19-9]]
+
+^<<v6-19-9,9>>^ A herança dos filhos de Simeão procedia do lote dos filhos de Judá, porque o quinhão dos filhos de Judá mostrou ser grande demais para eles. Portanto, os filhos de Simeão receberam uma propriedade no meio da herança deles.
+
+[[v6-19-10]]
+
+^<<v6-19-10,10>>^ A seguir surgiu a terceira sorte para os filhos de Zebulão, segundo as suas famílias, e o termo da sua herança veio a ser até Saride.
+
+[[v6-19-11]]
+
+^<<v6-19-11,11>>^ E seu termo subia também para o oeste até Mareal e atingia Dabesete, e atingia o vale da torrente que está defronte de Jocneão.
+
+[[v6-19-12]]
+
+^<<v6-19-12,12>>^ E de Saride voltava para o leste, em direção ao nascente do sol, para a fronteira de Quislote-Tabor, e saía para Daberate e subia a Jafia.
+
+[[v6-19-13]]
+
+^<<v6-19-13,13>>^ E dali passava para o leste, em direção ao nascente, até Gate-Héfer, até Ete-Cazim, e saía até Rimom, e estava demarcado até Neá.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “que estava demarcado até Neá”.
+====
+
+[[v6-19-14]]
+
+^<<v6-19-14,14>>^ E o termo a contornava ao norte até Hanatom, e seu ponto final mostrou ser o vale de Iftá-El,
+
+[[v6-19-15]]
+
+^<<v6-19-15,15>>^ e Catate, e Naalal, e Sinrom, e Idala, e Belém; doze cidades e seus povoados.
+
+[[v6-19-16]]
+
+^<<v6-19-16,16>>^ Esta foi a herança dos filhos de Zebulão, segundo as suas famílias. Estas foram as cidades e seus povoados.
+
+[[v6-19-17]]
+
+^<<v6-19-17,17>>^ Foi para Issacar que saiu a quarta sorte, para os filhos de Issacar, segundo as suas famílias.
+
+[[v6-19-18]]
+
+^<<v6-19-18,18>>^ E seu termo veio a ser até Jezreel, e Quesulote, e Suném,
+
+[[v6-19-19]]
+
+^<<v6-19-19,19>>^ e Hafaraim, e Siom, e Anaarate,
+
+[[v6-19-20]]
+
+^<<v6-19-20,20>>^ e Rabite, e Quisiom, e Ebes,
+
+[[v6-19-21]]
+
+^<<v6-19-21,21>>^ e Remete, e En-Ganim, e En-Hadá, e Bete-Pazes.
+
+[[v6-19-22]]
+
+^<<v6-19-22,22>>^ E o termo atingia Tabor, e Saazuma, e Bete-Semes, e o ponto final da sua fronteira mostrou ser o Jordão; dezesseis cidades e seus povoados.
+
+[[v6-19-23]]
+
+^<<v6-19-23,23>>^ Esta foi a herança da tribo dos filhos de Issacar, segundo as suas famílias, as cidades e seus povoados.
+
+[[v6-19-24]]
+
+^<<v6-19-24,24>>^ Então saiu a quinta sorte para a tribo dos filhos de Aser, segundo as suas famílias.
+
+[[v6-19-25]]
+
+^<<v6-19-25,25>>^ E seu termo veio a ser Helcate, e Hali, e Béten, e Acsafe,
+
+[[v6-19-26]]
+
+^<<v6-19-26,26>>^ e Alameleque, e Amade, e Misal. E ao oeste atingia o Carmelo e Sior-Libnate,
+
+[[v6-19-27]]
+
+^<<v6-19-27,27>>^ e voltava em direção ao nascente do sol até Bete-Dagom, e atingia Zebulão e o vale de Iftá-El ao norte, Bete-Emeque e Neiel, e saía para Cabul à esquerda,
+
+[[v6-19-28]]
+
+^<<v6-19-28,28>>^ e até Ebrom, e Reobe, e Hamom, e Cana, até a populosa Sídon.
+
+[[v6-19-29]]
+
+^<<v6-19-29,29>>^ E o termo voltava até Ramá e até a cidade fortificada de Tiro. E o termo voltava até Hosa, e seu ponto final veio a ser o mar, na região de Aczibe,^&#42;1^
+
+[NOTE]
+====
+. “Na região de Aczibe.” Possivelmente: “e até Meelebe e Aczibe”. LXXB: “e em direção a Lebe e Ecozobe”.
+====
+
+[[v6-19-30]]
+
+^<<v6-19-30,30>>^ e Umá, e Afeque, e Reobe; vinte e duas cidades e seus povoados.
+
+[[v6-19-31]]
+
+^<<v6-19-31,31>>^ Esta foi a herança da tribo dos filhos de Aser, segundo as suas famílias. Estas foram as cidades e seus povoados.
+
+[[v6-19-32]]
+
+^<<v6-19-32,32>>^ Foi para os filhos de Naftali que saiu a sexta sorte, para os filhos de Naftali, segundo as suas famílias.
+
+[[v6-19-33]]
+
+^<<v6-19-33,33>>^ E seu termo veio a ser desde Helefe, desde a árvore grande em Zaananim, e Adami-Nequebe e Jabneel, até Lacum; e seu ponto final veio a ser o Jordão.
+
+[[v6-19-34]]
+
+^<<v6-19-34,34>>^ E o termo voltava para o oeste até Aznote-Tabor e saía dali para Hucoque, e atingia Zebulão ao sul, e atingia Aser ao oeste e Judá no Jordão,^&#42;1^ em direção ao nascente do sol.
+
+[NOTE]
+====
+. “E Judá no Jordão.” Possivelmente: “e pelas margens do Jordão”, mediante uma leve correção do M, proposta por C. F. Houbigant; LXX: “e o Jordão”. Veja 3:15.
+====
+
+[[v6-19-35]]
+
+^<<v6-19-35,35>>^ E as cidades fortificadas eram Zidim, Zer e Hamate, Racate e Quinerete,
+
+[[v6-19-36]]
+
+^<<v6-19-36,36>>^ e Adamá, e Ramá, e Hazor,
+
+[[v6-19-37]]
+
+^<<v6-19-37,37>>^ e Quedes, e Edrei, e En-Hazor,
+
+[[v6-19-38]]
+
+^<<v6-19-38,38>>^ e Irom, e Migdal-El, Horém e Bete-Anate, e Bete-Semes; dezenove cidades e seus povoados.
+
+[[v6-19-39]]
+
+^<<v6-19-39,39>>^ Esta foi a herança da tribo dos filhos de Naftali, segundo as suas famílias, as cidades e seus povoados.
+
+[[v6-19-40]]
+
+^<<v6-19-40,40>>^ Foi para a tribo dos filhos de Dã, segundo as suas famílias, que saiu a sétima sorte.
+
+[[v6-19-41]]
+
+^<<v6-19-41,41>>^ E a fronteira da sua herança veio a ser Zorá, e Estaol, e Ir-Semes,
+
+[[v6-19-42]]
+
+^<<v6-19-42,42>>^ e Saalabim, e Aijalom, e Itla,
+
+[[v6-19-43]]
+
+^<<v6-19-43,43>>^ e Elom, e Timná, e Ecrom,
+
+[[v6-19-44]]
+
+^<<v6-19-44,44>>^ e Eltequé, e Gibetom, e Baalate,
+
+[[v6-19-45]]
+
+^<<v6-19-45,45>>^ e Jeúde,^&#42;1^ e Bene-Beraque, e Gate-Rimom,
+
+[NOTE]
+====
+. LXXB: “Azor”.
+====
+
+[[v6-19-46]]
+
+^<<v6-19-46,46>>^ e Me-Jarcom, e Racom, com a fronteira defronte de Jope.
+
+[[v6-19-47]]
+
+^<<v6-19-47,47>>^ E o território dos filhos de Dã lhes era apertado demais.^&#42;1^ E os filhos de Dã passaram a subir e a guerrear contra Lesem, e passaram a capturá-la e a golpeá-la com o fio da espada. Tomaram então posse dela e foram morar nela, e começaram a chamar Lesem [pelo nome] de Dã, de acordo com o nome de Dã, seu antepassado.
+
+[NOTE]
+====
+. Lit.: “E o território dos filhos de Dã saía (fugia; se perdia) deles.”
+====
+
+[[v6-19-48]]
+
+^<<v6-19-48,48>>^ Esta foi a herança da tribo dos filhos de Dã, segundo as suas famílias. Estas foram as cidades e seus povoados.
+
+[[v6-19-49]]
+
+^<<v6-19-49,49>>^ Assim acabaram de repartir o país como propriedade, segundo os seus territórios. Os filhos de Israel deram então uma herança a Josué, filho de Num, no seu meio.
+
+[[v6-19-50]]
+
+^<<v6-19-50,50>>^ Por ordem de Jeová deram-lhe a cidade que pediu, a saber, Timnate-Sera, na região montanhosa de Efraim; e ele começou a edificar a cidade e a morar nela.
+
+[[v6-19-51]]
+
+^<<v6-19-51,51>>^ Estas foram as heranças que Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças dos pais das tribos dos filhos de Israel distribuíram por sortes como propriedade, em Silo, perante Jeová, à entrada da tenda de reunião. Pararam, pois, de repartir o país.
+
+'''
+
+xref:006-josue/006-josue-018.adoc#v6-18-0[&#60; Capítulo Anterior] | <<v6-19-0,Topo>> | xref:006-josue/006-josue-020.adoc#v6-20-0[Próximo Capítulo &#62;]

@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v17-4-0]]
+=== Ester, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v17-4-1]]
+
+^<<v17-4-1,1>>^ E o próprio Mordecai soube de tudo o que se tinha feito; e Mordecai passou a rasgar as suas vestes e a vestir-se de serapilheira e a pôr cinzas, e foi saindo ao meio da cidade e a clamar com um clamor alto e amargo.
+
+[[v17-4-2]]
+
+^<<v17-4-2,2>>^ Por fim chegou até defronte do portão do rei, pois ninguém devia entrar pelo portão do rei vestido de serapilheira.
+
+[[v17-4-3]]
+
+^<<v17-4-3,3>>^ E em todos os diversos distritos jurisdicionais, aonde quer que chegasse a palavra do rei e a sua lei, havia grande pranto entre os judeus, bem como jejum, e choro, e lamento. Mesmo serapilheira e cinzas vieram a ser estendidas como leito para muitos.
+
+[[v17-4-4]]
+
+^<<v17-4-4,4>>^ E as moças de Ester e seus eunucos começaram a entrar e a contar-lhe [isso]. E a rainha sentiu-se muito condoída. Ela enviou então roupas para vestir a Mordecai e para remover dele a sua serapilheira. E ele não [as] aceitou.
+
+[[v17-4-5]]
+
+^<<v17-4-5,5>>^ Ester chamou então a Hataque, um dos eunucos do rei, que este fizera assistir a ela, e passou a dar-lhe uma ordem concernente a Mordecai, para saber o que isto significava e de que se tratava.
+
+[[v17-4-6]]
+
+^<<v17-4-6,6>>^ Portanto, Hataque saiu até Mordecai, à praça pública da cidade, que estava diante do portão do rei.
+
+[[v17-4-7]]
+
+^<<v17-4-7,7>>^ Mordecai contou-lhe então todas as coisas que lhe sobrevieram e a especificação do dinheiro que Hamã disse que se pagaria ao tesouro do rei contra os judeus, para destruí-los.
+
+[[v17-4-8]]
+
+^<<v17-4-8,8>>^ E entregou-lhe uma cópia da escrita da lei que tinha sido promulgada em Susã para aniquilá-los, para mostrar a Ester, e para comunicar-lhe e impor-lhe a ordem de que entrasse até o rei e implorasse o favor dele, e para que fizesse diretamente diante dele uma solicitação pelo seu próprio povo.
+
+[[v17-4-9]]
+
+^<<v17-4-9,9>>^ Hataque entrou então e contou a Ester as palavras de Mordecai.
+
+[[v17-4-10]]
+
+^<<v17-4-10,10>>^ Ester disse então a Hataque e ordenou-lhe com respeito a Mordecai:
+
+[[v17-4-11]]
+
+^<<v17-4-11,11>>^ “Todos os servos do rei e o povo dos distritos jurisdicionais se apercebem de que, no que se refere a qualquer homem ou mulher entrar até o rei no pátio interno, não tendo sido chamado, sua única lei é mandar entregar [tal] à morte; apenas se o rei lhe estender o cetro de ouro, então é que ficará vivo. Quanto a mim, não fui chamada para entrar até o rei já por trinta dias.”
+
+[[v17-4-12]]
+
+^<<v17-4-12,12>>^ E passaram a contar a Mordecai as palavras de Ester.
+
+[[v17-4-13]]
+
+^<<v17-4-13,13>>^ Mordecai disse então que replicassem a Ester: “Não imagines no íntimo da tua própria alma que dentre todos os outros judeus escaparão os da casa do rei.
+
+[[v17-4-14]]
+
+^<<v17-4-14,14>>^ Pois se tu, neste tempo, ficares completamente calada, o próprio alívio e livramento, procedentes de outro lugar, pôr-se-ão de pé para os judeus; mas, quanto a ti e a casa de teu pai, vós perecereis. E quem sabe se [não] foi para um tempo como este que atingiste a realeza?”
+
+[[v17-4-15]]
+
+^<<v17-4-15,15>>^ Por conseguinte, Ester disse que se replicasse a Mordecai:
+
+[[v17-4-16]]
+
+^<<v17-4-16,16>>^ “Vai, reúne todos os judeus que se acham em Susã e jejuai por mim, e não comais nem bebais por três dias, noite e dia. Também eu, com as minhas moças, jejuarei igualmente, e então entrarei até o rei, o que não é segundo a lei; e se eu tiver de perecer, terei de perecer.”
+
+[[v17-4-17]]
+
+^<<v17-4-17,17>>^ Então Mordecai passou adiante e foi fazer segundo tudo o que Ester lhe ordenara.
+
+'''
+
+xref:017-ester/017-ester-003.adoc#v17-3-0[&#60; Capítulo Anterior] | <<v17-4-0,Topo>> | xref:017-ester/017-ester-005.adoc#v17-5-0[Próximo Capítulo &#62;]

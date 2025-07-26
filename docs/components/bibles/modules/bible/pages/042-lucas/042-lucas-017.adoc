@@ -1,0 +1,202 @@
+include::./index.adoc[]
+
+[[v42-17-0]]
+=== Lucas, 17
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v42-17-1]]
+
+^<<v42-17-1,1>>^ Ele disse então aos seus discípulos: “É inevitável que venham causas para tropeço. Não obstante, ai daquele por meio de quem vêm!
+
+[[v42-17-2]]
+
+^<<v42-17-2,2>>^ Seria mais proveitoso para ele que se lhe pendurasse no pescoço uma mó e que fosse lançado no mar, do que fazer ele tropeçar a um destes pequenos.
+
+[[v42-17-3]]
+
+^<<v42-17-3,3>>^ Prestai atenção a vós mesmos. Se o teu irmão cometer um pecado, censura-o, e, se ele se arrepender, perdoa-lhe.
+
+[[v42-17-4]]
+
+^<<v42-17-4,4>>^ Mesmo se pecar contra ti sete vezes por dia e voltar a ti sete vezes, dizendo: ‘Arrependo-me’, tens de perdoar-lhe.”
+
+[[v42-17-5]]
+
+^<<v42-17-5,5>>^ Os apóstolos disseram então ao Senhor:^&#42;1^ “Dá-nos mais fé.”
+
+[NOTE]
+====
+. Ou “Amo”.
+====
+
+[[v42-17-6]]
+
+^<<v42-17-6,6>>^ O Senhor disse então: “Se tivésseis fé do tamanho dum grão de mostarda, diríeis a esta amoreira-preta:^&#42;1^ ‘Sê desarraigada e plantada no mar!’ e ela vos obedeceria.
+
+[NOTE]
+====
+. Ou “esta [árvore] sicamina”.
+====
+
+[[v42-17-7]]
+
+^<<v42-17-7,7>>^ “Quem de vós, que tiver um escravo arando ou cuidando do rebanho, lhe dirá, ao chegar ele do campo: ‘Vem logo para cá, e recosta-te à mesa’?
+
+[[v42-17-8]]
+
+^<<v42-17-8,8>>^ Antes, não lhe dirá: ‘Apronta-me algo para a minha refeição noturna, e põe o avental e ministra-me até eu ter acabado de comer e de beber, e depois podes comer e beber’?
+
+[[v42-17-9]]
+
+^<<v42-17-9,9>>^ Será que ele sentirá gratidão pelo escravo porque ele fez as coisas determinadas?
+
+[[v42-17-10]]
+
+^<<v42-17-10,10>>^ Assim também vós, quando tiverdes feito todas as coisas que vos foram determinadas, dizei: ‘Somos escravos imprestáveis. O que temos feito é o que devíamos fazer.’”
+
+[[v42-17-11]]
+
+^<<v42-17-11,11>>^ E, enquanto ele ia a Jerusalém, passava pelo meio de Samaria e Galiléia.
+
+[[v42-17-12]]
+
+^<<v42-17-12,12>>^ E, ao entrar em certa aldeia, vieram ao encontro dele dez homens leprosos, mas ficaram parados de longe.
+
+[[v42-17-13]]
+
+^<<v42-17-13,13>>^ E elevaram as suas vozes e disseram: “Jesus, Preceptor, tem misericórdia de nós!”
+
+[[v42-17-14]]
+
+^<<v42-17-14,14>>^ E quando os avistou, disse-lhes: “Ide e mostrai-vos aos sacerdotes.” Então, enquanto se afastavam, ocorreu a purificação deles.
+
+[[v42-17-15]]
+
+^<<v42-17-15,15>>^ Um deles, quando viu que estava curado, voltou, glorificando a Deus com voz alta.
+
+[[v42-17-16]]
+
+^<<v42-17-16,16>>^ E ele se prostrou com o rosto [em terra] aos pés [de Jesus],^&#42;1^ agradecendo-lhe; ademais, ele era samaritano.
+
+[NOTE]
+====
+. Lit.: “dele”.
+====
+
+[[v42-17-17]]
+
+^<<v42-17-17,17>>^ Jesus disse, em resposta: “Dez foram purificados, não foram? Onde estão, então, os outros nove?
+
+[[v42-17-18]]
+
+^<<v42-17-18,18>>^ Não se achou nenhum que voltasse para dar glória a Deus, exceto este homem de outra nação?”
+
+[[v42-17-19]]
+
+^<<v42-17-19,19>>^ E disse-lhe: “Levanta-te e vai; a tua fé te fez ficar bom.”^&#42;1^
+
+[NOTE]
+====
+. Ou “te salvou”.
+====
+
+[[v42-17-20]]
+
+^<<v42-17-20,20>>^ Mas, perguntando-lhe os fariseus quando havia de vir o reino de Deus, ele lhes respondeu e disse: “O reino de Deus não vem de modo impressionantemente observável,
+
+[[v42-17-21]]
+
+^<<v42-17-21,21>>^ nem dirão as pessoas: ‘Eis aqui!’ ou: ‘Ali!’ Pois, eis que o reino de Deus está no vosso meio.”^&#42;1^
+
+[NOTE]
+====
+. Ou “está entre vós”.
+====
+
+[[v42-17-22]]
+
+^<<v42-17-22,22>>^ Ele disse então aos discípulos: “Virão dias em que desejareis ver um dos dias do Filho do homem, mas não [o] vereis.
+
+[[v42-17-23]]
+
+^<<v42-17-23,23>>^ E as pessoas vos dirão: ‘Eis ali!’ ou: ‘Eis aqui!’ Não saiais nem corrais atrás [deles].
+
+[[v42-17-24]]
+
+^<<v42-17-24,24>>^ Pois assim como o relâmpago, com o seu lampejo, brilha duma parte sob o céu à outra parte sob o céu, assim será o Filho do homem.
+
+[[v42-17-25]]
+
+^<<v42-17-25,25>>^ Primeiro, porém, ele tem de passar por muitos sofrimentos e ser rejeitado por esta geração.
+
+[[v42-17-26]]
+
+^<<v42-17-26,26>>^ Ademais, assim como ocorreu nos dias de Noé, assim será também nos dias do Filho do homem:
+
+[[v42-17-27]]
+
+^<<v42-17-27,27>>^ comiam, bebiam, os homens casavam-se, as mulheres eram dadas em casamento, até aquele dia em que Noé entrou na arca, e chegou o dilúvio^&#42;1^ e destruiu a todos.
+
+[NOTE]
+====
+. Ou “grande inundação; cataclismo”. Gr.: ka·ta·kly·smós; lat.: di·lú·vi·um; J17,18,22(hebr.): ham·mab·búl, “o dilúvio”.
+====
+
+[[v42-17-28]]
+
+^<<v42-17-28,28>>^ Igualmente, assim como ocorreu nos dias de Ló: comiam, bebiam, compravam, vendiam, plantavam, construíam.
+
+[[v42-17-29]]
+
+^<<v42-17-29,29>>^ Mas no dia em que Ló saiu de Sodoma, choveu do céu fogo e enxofre, e destruiu a todos.
+
+[[v42-17-30]]
+
+^<<v42-17-30,30>>^ Do mesmo modo será naquele dia em que o Filho do homem há de ser revelado.
+
+[[v42-17-31]]
+
+^<<v42-17-31,31>>^ “Naquele dia, quem estiver no alto da casa, mas cujas coisas móveis estiverem na casa, não desça para apanhá-las, e quem estiver no campo, do mesmo modo, não volte para as coisas atrás.
+
+[[v42-17-32]]
+
+^<<v42-17-32,32>>^ Lembrai-vos da mulher de Ló.
+
+[[v42-17-33]]
+
+^<<v42-17-33,33>>^ Todo aquele que buscar manter a sua alma^&#42;1^ a salvo para si mesmo, perdê-la-á, mas todo aquele que a perder, preservá-la-á viva.
+
+[NOTE]
+====
+. Ou “vida”. Gr.: psy·khén; J17,18,22(hebr.): naf·shóh (de né·fesh).
+====
+
+[[v42-17-34]]
+
+^<<v42-17-34,34>>^ Eu vos digo: Naquela noite, dois [homens] estarão numa só cama; um será levado junto, mas o outro será abandonado.
+
+[[v42-17-35]]
+
+^<<v42-17-35,35>>^ Haverá duas [mulheres] moendo no mesmo moinho; uma será levada junto, mas a outra será abandonada.”
+
+[[v42-17-36]]
+
+^<<v42-17-36,36>>^ ^&#42;1^ ——
+
+[NOTE]
+====
+. P75אABW omitem isso; DVgSyc,h,p,s: “Dois homens estarão no campo; um será levado junto, e o outro será abandonado.” (Veja Mt 24:40.)
+====
+
+[[v42-17-37]]
+
+^<<v42-17-37,37>>^ De modo que lhe disseram em resposta: “Onde, Senhor?”^&#42;1^ Ele lhes disse: “Onde estiver o corpo, ali se ajuntarão também as águias.”
+
+[NOTE]
+====
+. Ou “Amo”.
+====
+
+'''
+
+xref:042-lucas/042-lucas-016.adoc#v42-16-0[&#60; Capítulo Anterior] | <<v42-17-0,Topo>> | xref:042-lucas/042-lucas-018.adoc#v42-18-0[Próximo Capítulo &#62;]

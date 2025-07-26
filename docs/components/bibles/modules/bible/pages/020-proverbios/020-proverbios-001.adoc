@@ -1,0 +1,156 @@
+include::./index.adoc[]
+
+[[v20-1-0]]
+=== Provérbios, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-1-1]]
+
+^<<v20-1-1,1>>^ Os provérbios de Salomão, filho de Davi, rei de Israel,
+
+[[v20-1-2]]
+
+^<<v20-1-2,2>>^ para se conhecer sabedoria e disciplina, para se discernirem as declarações de entendimento,
+
+[[v20-1-3]]
+
+^<<v20-1-3,3>>^ para se receber a disciplina que dá perspicácia, justiça e juízo, e retidão,
+
+[[v20-1-4]]
+
+^<<v20-1-4,4>>^ para se dar argúcia aos inexperientes, conhecimento e raciocínio ao moço.
+
+[[v20-1-5]]
+
+^<<v20-1-5,5>>^ O sábio escutará e absorverá mais instrução, e homem de entendimento é aquele que adquire orientação perita
+
+[[v20-1-6]]
+
+^<<v20-1-6,6>>^ para entender um provérbio e uma expressão enigmática, as palavras de sábios e seus enigmas.
+
+[[v20-1-7]]
+
+^<<v20-1-7,7>>^ O temor de Jeová é o princípio do conhecimento. Sabedoria e disciplina são o que os meros tolos têm desprezado.
+
+[[v20-1-8]]
+
+^<<v20-1-8,8>>^ Escuta, meu filho, a disciplina de teu pai e não abandones a lei de tua mãe.
+
+[[v20-1-9]]
+
+^<<v20-1-9,9>>^ Porque são uma grinalda de encanto para a tua cabeça e um fino colar para a tua garganta.
+
+[[v20-1-10]]
+
+^<<v20-1-10,10>>^ Filho meu, se pecadores tentarem seduzir-te, não consintas [nisso].
+
+[[v20-1-11]]
+
+^<<v20-1-11,11>>^ Se continuarem a dizer: “Vem deveras conosco. Fiquemos deveras de tocaia por sangue. Fiquemos deveras às escondidas contra os inocentes, sem qualquer causa.
+
+[[v20-1-12]]
+
+^<<v20-1-12,12>>^ Traguemo-los vivos assim como o Seol,^&#42;1^ sim, inteiros, como aos que descem ao poço.
+
+[NOTE]
+====
+. “Assim como o Seol.” Hebr.: kish·’óhl; gr.: haí·des; sir.: shiul; lat.: in·fér·nus. Veja Ap. 4B.
+====
+
+[[v20-1-13]]
+
+^<<v20-1-13,13>>^ Achemos toda sorte de valores preciosos. Enchamos as nossas casas de despojo.
+
+[[v20-1-14]]
+
+^<<v20-1-14,14>>^ Devias lançar a tua sorte entre nós. Venha a haver apenas uma só bolsa pertencente a todos nós” —
+
+[[v20-1-15]]
+
+^<<v20-1-15,15>>^ meu filho, não vás com eles no caminho. Retém teu pé da sua senda.
+
+[[v20-1-16]]
+
+^<<v20-1-16,16>>^ Porque os seus pés são os que correm para a pura maldade, e eles continuam a apressar-se para derramar sangue.
+
+[[v20-1-17]]
+
+^<<v20-1-17,17>>^ Pois é debalde que se estende a rede diante dos olhos de algo que tem asas.
+
+[[v20-1-18]]
+
+^<<v20-1-18,18>>^ Por conseguinte, eles mesmos ficam de tocaia pelo próprio sangue destes; ficam às escondidas contra as suas almas.^&#42;1^
+
+[NOTE]
+====
+. “Contra as suas almas (vidas).” Hebr.: lenaf·sho·thám, pl.; lat.: á·ni·mas. Veja Ap. 4A.
+====
+
+[[v20-1-19]]
+
+^<<v20-1-19,19>>^ Assim são as veredas de todo aquele que obtém lucro injusto. Tira a própria alma dos seus donos.
+
+[[v20-1-20]]
+
+^<<v20-1-20,20>>^ A verdadeira sabedoria é que grita na própria rua. Nas praças públicas está emitindo a sua voz.
+
+[[v20-1-21]]
+
+^<<v20-1-21,21>>^ Clama na extremidade superior das ruas barulhentas.^&#42;1^ Às entradas dos portões da cidade diz as suas próprias declarações:
+
+[NOTE]
+====
+. “No alto das muralhas”, LXX e mediante uma correção do M.
+====
+
+[[v20-1-22]]
+
+^<<v20-1-22,22>>^ “Até quando continuareis vós, inexperientes, a amar a falta de experiência, e [até quando] tendes de desejar vós, zombadores, a flagrante zombaria, e [até quando] continuareis vós, estúpidos, a odiar o conhecimento?
+
+[[v20-1-23]]
+
+^<<v20-1-23,23>>^ Retornai em vista da minha repreensão. Então vou fazer meu espírito borbulhar para vós; vou dar-vos a conhecer as minhas palavras.
+
+[[v20-1-24]]
+
+^<<v20-1-24,24>>^ Visto que chamei, mas vós continuais a negar-vos, estendi a minha mão, mas não há quem preste atenção,
+
+[[v20-1-25]]
+
+^<<v20-1-25,25>>^ e continuais a negligenciar todo o meu conselho e não aceitastes a minha repreensão,
+
+[[v20-1-26]]
+
+^<<v20-1-26,26>>^ também eu, da minha parte, rir-me-ei de vosso próprio desastre, caçoarei quando chegar aquilo de que tendes pavor,
+
+[[v20-1-27]]
+
+^<<v20-1-27,27>>^ quando aquilo de que tendes pavor chegar como tempestade e o vosso próprio desastre vier para cá como um tufão, quando chegarem sobre vós aflição e tempos difíceis.
+
+[[v20-1-28]]
+
+^<<v20-1-28,28>>^ Naquele tempo persistirão em invocar-me, mas eu não responderei; continuarão à minha procura, mas não me acharão,
+
+[[v20-1-29]]
+
+^<<v20-1-29,29>>^ visto que odiaram o conhecimento e não escolheram o temor de Jeová.
+
+[[v20-1-30]]
+
+^<<v20-1-30,30>>^ Não consentiram no meu conselho; desrespeitaram toda a minha repreensão.
+
+[[v20-1-31]]
+
+^<<v20-1-31,31>>^ De modo que comerão dos frutos do seu caminho e ficarão empanturrados com os seus próprios conselhos.
+
+[[v20-1-32]]
+
+^<<v20-1-32,32>>^ Pois a renegação dos inexperientes é o que os matará e a despreocupação dos estúpidos é o que os destruirá.
+
+[[v20-1-33]]
+
+^<<v20-1-33,33>>^ Quanto àquele que me escuta, residirá em segurança e estará despreocupado do pavor da calamidade.”
+
+'''
+
+xref:019-salmo/019-salmo-150.adoc#v19-150-0[&#60; Capítulo Anterior] | <<v20-1-0,Topo>> | xref:020-proverbios/020-proverbios-002.adoc#v20-2-0[Próximo Capítulo &#62;]

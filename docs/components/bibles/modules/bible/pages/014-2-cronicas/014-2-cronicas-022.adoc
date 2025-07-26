@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v14-22-0]]
+=== 2 Crônicas, 22
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v14-22-1]]
+
+^<<v14-22-1,1>>^ Então os habitantes de Jerusalém fizeram rei a Acazias,^&#42;1^ filho mais moço dele, em seu lugar, (porque a guerrilha que chegara com os árabes ao acampamento matara todos os mais velhos,) e Acazias, filho de Jeorão, começou a reinar como rei de Judá.
+
+[NOTE]
+====
+. “Acazias.” Hebr.: ’Ahhaz·yá·hu. É o mesmo que o “Jeoacaz” em 21:17, também significando “Jeová se Apoderou”. Aqui, o nome de Deus, abreviado como Yá·hu, segue a “Acaz” em vez de vir antes deste nome.
+====
+
+[[v14-22-2]]
+
+^<<v14-22-2,2>>^ Acazias tinha vinte e dois^&#42;1^ anos de idade quando começou a reinar e reinou por um ano em Jerusalém. E o nome de sua mãe era Atalia, neta^&#42;2^ de Onri.
+
+[NOTE]
+====
+. “Vinte e dois”, LXXLSy e 2Rs 8:26; MVg: “quarenta e dois”; LXX: “vinte”.
+. Lit.: “filha”.
+====
+
+[[v14-22-3]]
+
+^<<v14-22-3,3>>^ Ele mesmo também andou nos caminhos da casa de Acabe, porque a sua própria mãe tornou-se sua conselheira em agir iniquamente.
+
+[[v14-22-4]]
+
+^<<v14-22-4,4>>^ E ele fazia o que era mau aos olhos de Jeová, igual à casa de Acabe, pois estes mesmos se lhe tornaram conselheiros depois da morte de seu pai, para a sua ruína.
+
+[[v14-22-5]]
+
+^<<v14-22-5,5>>^ Foi também no seu conselho que ele andou, de modo que foi com Jeorão, filho de Acabe, rei de Israel, à guerra contra Hazael, rei da Síria, em Ramote-Gileade, onde os atiradores chegaram a golpear Jeorão.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Jorão”.
+====
+
+[[v14-22-6]]
+
+^<<v14-22-6,6>>^ Por isso ele voltou para se curar em Jezreel das feridas que lhe infligiram em Ramá, quando lutou contra Hazael, rei da Síria.
+Quanto a Azarias,^&#42;1^ filho de Jeorão, rei de Judá, desceu ele para visitar Jeorão, filho de Acabe, em Jezreel, pois estava doente.
+
+[NOTE]
+====
+. “Quanto a Azarias.” Hebr.: wa·‛Azar·yá·hu; nos vv. 1, 2, 7-11: “Acazias”.
+====
+
+[[v14-22-7]]
+
+^<<v14-22-7,7>>^ Mas era da parte de Deus que ocorreu a queda de Acazias, porque fora ter com Jeorão; e quando chegou, saiu com Jeorão a Jeú, neto^&#42;1^ de Ninsi, a quem Jeová havia ungido para decepar a casa de Acabe.
+
+[NOTE]
+====
+. Lit.: “filho”.
+====
+
+[[v14-22-8]]
+
+^<<v14-22-8,8>>^ E sucedeu que, assim que Jeú tinha entrado em disputa com a casa de Acabe, ele foi achar os príncipes de Judá e os filhos dos irmãos de Acazias, ministros de Acazias, e passou a matá-los.
+
+[[v14-22-9]]
+
+^<<v14-22-9,9>>^ Depois foi procurar Acazias, e por fim o capturaram, enquanto se escondia em Samaria, e o trouxeram a Jeú. Entregaram-no então à morte e enterraram-no, pois disseram: “Ele é neto de Jeosafá que buscou a Jeová de todo o seu coração.” E não havia ninguém da casa de Acazias que retivesse poder para o reino.
+
+[[v14-22-10]]
+
+^<<v14-22-10,10>>^ Quanto a Atalia, mãe de Acazias, viu ela que seu filho tinha morrido. Ela se levantou, pois, e destruiu toda a descendência real da casa de Judá.
+
+[[v14-22-11]]
+
+^<<v14-22-11,11>>^ No entanto, Jeosabeate, filha do rei, tomou a Jeoás,^&#42;1^ filho de Acazias, e o furtou dentre os filhos do rei que iam ser mortos, e pôs tanto a ele como a sua ama no quarto interior dos leitos. E Jeosabeate, filha do Rei Jeorão, esposa de Jeoiada, o sacerdote, (pois acontecia que ela mesma era irmã de Acazias,) manteve-o escondido por causa de Atalia e esta não o entregou à morte.
+
+[NOTE]
+====
+. Lit.: “Joás”. Veja 2Rs 11:21 n.
+====
+
+[[v14-22-12]]
+
+^<<v14-22-12,12>>^ E ele permaneceu escondido com eles na casa do [verdadeiro] Deus por seis anos, enquanto Atalia governava como rainha sobre o país.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-021.adoc#v14-21-0[&#60; Capítulo Anterior] | <<v14-22-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-023.adoc#v14-23-0[Próximo Capítulo &#62;]

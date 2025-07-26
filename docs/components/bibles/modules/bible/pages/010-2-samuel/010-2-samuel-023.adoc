@@ -1,0 +1,249 @@
+include::./index.adoc[]
+
+[[v10-23-0]]
+=== 2 Samuel, 23
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v10-23-1]]
+
+^<<v10-23-1,1>>^ E estas são as últimas palavras de Davi:
+“A pronunciação de Davi, filho de Jessé,
+E a pronunciação do varão vigoroso^&#42;1^ que foi levantado ao alto,
+O ungido do Deus de Jacó,
+E o agradável das melodias^&#42;2^ de Israel.^&#42;3^
+
+[NOTE]
+====
+. “Do varão vigoroso.” Hebr.: hag·gé·ver.
+. “Melodias de.” Hebr.: zemi·róhth, isto é, cânticos acompanhados por música.
+. Ou “e o cantor agradável de Israel”.
+====
+
+[[v10-23-2]]
+
+^<<v10-23-2,2>>^ Foi o espírito de Jeová que falou por meu intermédio,
+E a sua palavra^&#42;1^ estava na minha língua.
+
+[NOTE]
+====
+. “E a sua palavra.” Hebr.: u·mil·la·thóh (de mil·láh), uma palavra usada apenas em poesia, como no Sal 19:4; Sal 139:4; Pr 23:9 e 34 vezes em Jó.
+====
+
+[[v10-23-3]]
+
+^<<v10-23-3,3>>^ O Deus de Israel disse,
+A mim me falou a Rocha de Israel:
+‘Quando aquele que governa a humanidade é justo,
+Governando no temor de Deus,
+
+[[v10-23-4]]
+
+^<<v10-23-4,4>>^ Então é como a luz da manhã quando raia o sol,
+Uma manhã sem nuvens.
+Da claridade, da chuva, há relva saindo da terra.’
+
+[[v10-23-5]]
+
+^<<v10-23-5,5>>^ Pois, não é a minha casa como a que está com Deus?^&#42;1^
+Pois me designou um pacto de duração indefinida,^&#42;2^
+Bem ordenado em tudo e seguro.
+Visto que é toda a minha salvação e todo o meu agrado,
+Não é por isto que ele fará isso crescer?
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El; lat.: Dé·um; LXX: “o Forte”.
+. Ou “um pacto por tempo indefinido”.
+====
+
+[[v10-23-6]]
+
+^<<v10-23-6,6>>^ Mas as pessoas imprestáveis são afugentadas, iguais a espinheiros, todas elas;
+Porque não devem ser tomadas pela mão.
+
+[[v10-23-7]]
+
+^<<v10-23-7,7>>^ E quando um homem as tocar,
+Deve estar plenamente armado com ferro e com a haste duma lança,
+E serão completamente queimadas com fogo.”^&#42;1^
+
+[NOTE]
+====
+. M acrescenta: “na morada”, mas esta expressão parece ter sido inserida inadvertidamente por causa da expressão hebr. similar bash·shé·veth na próxima linha.
+====
+
+[[v10-23-8]]
+
+^<<v10-23-8,8>>^ Estes são os nomes dos poderosos que pertenciam a Davi: Josebe-Bassebete, taquemonita, cabeça dos três.^&#42;1^ Ele tinha brandido sua lança^&#42;2^ sobre oitocentos que foram mortos de uma só vez.
+
+[NOTE]
+====
+. “Três”, LXXL.
+. “Ele tinha brandido sua lança”, mediante uma correção do M, em harmonia com 1Cr 11:11; M: “Ele era Adino, o eznita.”
+====
+
+[[v10-23-9]]
+
+^<<v10-23-9,9>>^ Depois dele Eleazar, filho de Dodo, filho de Aoí, estava entre os três poderosos com Davi quando escarneceram dos filisteus. Tinham-se^&#42;1^ ajuntado ali para a batalha, e então os homens de Israel retrocederam.
+
+[NOTE]
+====
+. “Com Davi em Pas-Damim, onde os filisteus”, em 1Cr 11:13.
+====
+
+[[v10-23-10]]
+
+^<<v10-23-10,10>>^ Foi ele quem se levantou e continuou a golpear os filisteus até que a sua mão se fatigou e sua mão ficou apegada à espada, de modo que Jeová realizou naquele dia uma grande salvação; e quanto ao povo, só retornaram atrás dele para despir [os mortos].
+
+[[v10-23-11]]
+
+^<<v10-23-11,11>>^ E depois dele vinha Samá, filho de Agé, o hararita. E os filisteus passaram a ajuntar-se em Leí, onde veio a haver um pedaço de campo cheio de lentilhas; e o próprio povo fugiu por causa dos filisteus.
+
+[[v10-23-12]]
+
+^<<v10-23-12,12>>^ Mas ele tomou a sua posição no meio do pedaço [de campo] e o livrou, e continuou a golpear os filisteus, de modo que Jeová realizou uma grande salvação.
+
+[[v10-23-13]]
+
+^<<v10-23-13,13>>^ E três dos trinta cabeças passaram a descer e a chegar na colheita^&#42;1^ a Davi na caverna de Adulão; e havia uma aldeia de tendas dos filisteus acampada na baixada de Refaim.^&#42;2^
+
+[NOTE]
+====
+. “Na colheita”, M; LXXL e 1Cr 11:15: “à rocha”.
+. “Refaim.” Hebr.: Refa·’ím; gr.: Rha·fa·ím; SyVg: “dos gigantes”.
+====
+
+[[v10-23-14]]
+
+^<<v10-23-14,14>>^ E Davi estava então no lugar de difícil acesso; e havia então em Belém um posto avançado dos filisteus.
+
+[[v10-23-15]]
+
+^<<v10-23-15,15>>^ Depois de um tempo, Davi expressou o seu almejo e disse: “Quem me dera beber da água da cisterna de Belém, que está junto ao portão!”
+
+[[v10-23-16]]
+
+^<<v10-23-16,16>>^ Então os três poderosos romperam pelo acampamento dos filisteus e puxaram água da cisterna de Belém, que está junto ao portão, e vieram carregá-la e trazê-la a Davi; e ele não consentiu em bebê-la, mas derramou-a para Jeová.
+
+[[v10-23-17]]
+
+^<<v10-23-17,17>>^ E ele prosseguiu, dizendo: “É inconcebível, da minha parte, ó Jeová, fazer isso! [Beberia eu]^&#42;1^ o sangue dos homens que andam arriscando as suas almas?” E ele não consentiu em bebê-la.
+Estas são as coisas feitas pelos três poderosos.
+
+[NOTE]
+====
+. “Beberia eu?”, LXX; falta no M como aposiopese (silêncio repentino).
+====
+
+[[v10-23-18]]
+
+^<<v10-23-18,18>>^ Quanto a Abisai, irmão de Joabe, filho de Zeruia, era o cabeça dos trinta,^&#42;1^ e ele tinha brandido a sua lança sobre trezentos que foram mortos e tinha uma reputação igual à dos três.
+
+[NOTE]
+====
+. “Trinta”, Sy e dois mss. hebr.; MLXXVg: “três”.
+====
+
+[[v10-23-19]]
+
+^<<v10-23-19,19>>^ Embora se distinguisse ainda mais do que o resto dos trinta^&#42;1^ e viesse a ser o seu chefe, não chegou à categoria dos [primeiros] três.
+
+[NOTE]
+====
+. “Trinta”, em harmonia com o v. 18; MLXXVg: “três”.
+====
+
+[[v10-23-20]]
+
+^<<v10-23-20,20>>^ Quanto a Benaia,^&#42;1^ filho de Jeoiada, filho dum homem valente, que fez muitas façanhas em Cabzeel, golpeou ele mesmo os dois filhos de Ariel de Moabe; e ele mesmo desceu e golpeou um leão^&#42;2^ dentro de uma cisterna num dia em que nevou.
+
+[NOTE]
+====
+. Lit.: “Benaiahu.”
+. Lit.: “o leão”. Hebr.: ha·’aríh, o leão africano.
+====
+
+[[v10-23-21]]
+
+^<<v10-23-21,21>>^ E foi ele quem golpeou o homem egípcio de tamanho extraordinário.^&#42;1^ Embora houvesse uma lança na mão do egípcio, ainda assim desceu a ele com uma vara e arrebatou a lança da mão do egípcio, e matou-o com a sua própria lança.
+
+[NOTE]
+====
+. “De tamanho extraordinário”, em harmonia com 1Cr 11:23; MLXX: “de aparência”.
+====
+
+[[v10-23-22]]
+
+^<<v10-23-22,22>>^ Estas coisas fez Benaia, filho de Jeoiada; e ele tinha uma reputação igual à dos três poderosos.
+
+[[v10-23-23]]
+
+^<<v10-23-23,23>>^ Embora se distinguisse ainda mais do que os trinta, não chegou à categoria dos três; porém, Davi o designou para a sua própria escolta.
+
+[[v10-23-24]]
+
+^<<v10-23-24,24>>^ Asael, irmão de Joabe, estava entre os trinta; Elanã, filho de Dodo de Belém,
+
+[[v10-23-25]]
+
+^<<v10-23-25,25>>^ Samá, o harodita, Elica, o harodita,
+
+[[v10-23-26]]
+
+^<<v10-23-26,26>>^ Helez, o paltita, Ira, filho de Iques, o tecoíta,
+
+[[v10-23-27]]
+
+^<<v10-23-27,27>>^ Abiezer, o anatotita, Mebunai, o husatita,
+
+[[v10-23-28]]
+
+^<<v10-23-28,28>>^ Zalmom, o aoíta, Maarai, o netofatita,
+
+[[v10-23-29]]
+
+^<<v10-23-29,29>>^ Helebe, filho de Baaná, o netofatita, Itai, filho de Ribai de Gibeá dos filhos de Benjamim,
+
+[[v10-23-30]]
+
+^<<v10-23-30,30>>^ Benaia, piratonita, Hidai, dos vales de torrente de Gaás,
+
+[[v10-23-31]]
+
+^<<v10-23-31,31>>^ Abi-Albom, o arbatita, Asmavete, o barumita,
+
+[[v10-23-32]]
+
+^<<v10-23-32,32>>^ Eliaba, o saalbonita, os filhos de Jásen, Jonatã,
+
+[[v10-23-33]]
+
+^<<v10-23-33,33>>^ Samá, o hararita, Aião, filho de Sarar, o hararita,
+
+[[v10-23-34]]
+
+^<<v10-23-34,34>>^ Elifelete, filho de Aasbai, filho do maacatita, Elião, filho de Aitofel, o gilonita,
+
+[[v10-23-35]]
+
+^<<v10-23-35,35>>^ Hezro, o carmelita, Paarai, o arbita,
+
+[[v10-23-36]]
+
+^<<v10-23-36,36>>^ Igal, filho de Natã de Zobá, Bani, o gadita,
+
+[[v10-23-37]]
+
+^<<v10-23-37,37>>^ Zeleque, o amonita, Naarai, o beerotita, escudeiros de Joabe, filho de Zeruia,
+
+[[v10-23-38]]
+
+^<<v10-23-38,38>>^ Ira, o itrita, Garebe, o itrita,
+
+[[v10-23-39]]
+
+^<<v10-23-39,39>>^ Urias, o hitita — trinta e sete ao todo.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-022.adoc#v10-22-0[&#60; Capítulo Anterior] | <<v10-23-0,Topo>> | xref:010-2-samuel/010-2-samuel-024.adoc#v10-24-0[Próximo Capítulo &#62;]

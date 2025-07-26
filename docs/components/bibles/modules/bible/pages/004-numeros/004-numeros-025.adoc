@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v4-25-0]]
+=== Números, 25
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-25-1]]
+
+^<<v4-25-1,1>>^ Ora, Israel estava morando em Sitim. O povo principiou então a ter relações imorais com as filhas de Moabe.
+
+[[v4-25-2]]
+
+^<<v4-25-2,2>>^ E as mulheres vieram chamar o povo aos sacrifícios dos seus deuses, e o povo começou a comer e a curvar-se diante dos seus deuses.
+
+[[v4-25-3]]
+
+^<<v4-25-3,3>>^ Israel^&#42;1^ ligou-se assim a Baal de Peor;^&#42;2^ e a ira de Jeová começou a acender-se contra Israel.
+
+[NOTE]
+====
+. “Israel”, MLXXSyVg; Sam: “alguns dos filhos de Israel”.
+. Ou “a Baal-Peor”.
+====
+
+[[v4-25-4]]
+
+^<<v4-25-4,4>>^ Por isso, Jeová disse a Moisés: “Toma todos os cabeças^&#42;1^ do povo e expõe-nos^&#42;2^ a Jeová em direção ao sol, para que a ira ardente de Jeová retorne de Israel.”
+
+[NOTE]
+====
+. Ou “todas as cabeças”.
+. “Expõe-nos”, isto é, com pernas e braços quebrados, MSy; TJVg: “suspende-os”; LXX: “faze deles um exemplo”.
+====
+
+[[v4-25-5]]
+
+^<<v4-25-5,5>>^ Moisés disse então aos juízes de Israel: “Matai cada um de vós os seus homens que tiverem ligação com Baal de Peor.”
+
+[[v4-25-6]]
+
+^<<v4-25-6,6>>^ Mas, eis que veio um homem dos filhos de Israel e ele trazia para perto dos seus irmãos^&#42;1^ uma mulher midianita, perante os olhos de Moisés e perante os olhos de toda a assembléia dos filhos de Israel, enquanto eles choravam à entrada da tenda de reunião.
+
+[NOTE]
+====
+. Possivelmente: “de sua tenda”. Veja Gên 31:25 n.
+====
+
+[[v4-25-7]]
+
+^<<v4-25-7,7>>^ Vendo isso Finéias, filho de Eleazar, filho de Arão, o sacerdote, levantou-se imediatamente do meio da assembléia e tomou uma lança na sua mão.
+
+[[v4-25-8]]
+
+^<<v4-25-8,8>>^ Então foi atrás do homem de Israel para dentro da tenda arqueada^&#42;1^ e traspassou a ambos, o homem de Israel e a mulher, pelas suas partes genitais.^&#42;2^ Com isso se fez parar o flagelo sobre os filhos de Israel.
+
+[NOTE]
+====
+. Ou “parte das mulheres (na tenda)”.
+. “As partes genitais”, Vg; LXX: “sua madre”.
+====
+
+[[v4-25-9]]
+
+^<<v4-25-9,9>>^ E os que morreram do flagelo somaram vinte e quatro mil.
+
+[[v4-25-10]]
+
+^<<v4-25-10,10>>^ Jeová falou então a Moisés, dizendo:
+
+[[v4-25-11]]
+
+^<<v4-25-11,11>>^ “Finéias, filho de Eleazar, filho de Arão, o sacerdote, fez retornar meu furor de sobre os filhos de Israel por não tolerar nenhuma rivalidade para comigo no meio deles, de modo que não exterminei os filhos de Israel na minha insistência na devoção exclusiva.
+
+[[v4-25-12]]
+
+^<<v4-25-12,12>>^ Por esta razão, dize: ‘Eis que lhe dou o meu pacto de paz.
+
+[[v4-25-13]]
+
+^<<v4-25-13,13>>^ E tem de servir por tempo indefinido como pacto dum sacerdócio para ele e para a sua descendência após ele, devido ao fato de não ter tolerado rivalidade para com o seu Deus e ter passado a fazer expiação pelos filhos de Israel.’”
+
+[[v4-25-14]]
+
+^<<v4-25-14,14>>^ Incidentalmente, o nome do homem israelita golpeado fatalmente, que foi golpeado fatalmente junto com a midianita, era Zinri, filho de Salu, maioral duma casa paterna dos simeonitas.
+
+[[v4-25-15]]
+
+^<<v4-25-15,15>>^ E o nome da mulher midianita, golpeada fatalmente, era Cosbi, filha de Zur; ele era um cabeça dos clãs duma casa paterna em Midiã.
+
+[[v4-25-16]]
+
+^<<v4-25-16,16>>^ Mais tarde, Jeová falou a Moisés, dizendo:
+
+[[v4-25-17]]
+
+^<<v4-25-17,17>>^ “Sejam hostilizados^&#42;1^ os midianitas, e tendes de golpeá-los,
+
+[NOTE]
+====
+. “Sejam hostilizados.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo.
+====
+
+[[v4-25-18]]
+
+^<<v4-25-18,18>>^ porque vos hostilizam com as suas ações astutas que praticaram astutamente contra vós no caso de Peor e no caso de Cosbi, filha dum maioral de Midiã, irmã deles, que foi golpeada fatalmente no dia do flagelo por causa do caso de Peor.”
+
+'''
+
+xref:004-numeros/004-numeros-024.adoc#v4-24-0[&#60; Capítulo Anterior] | <<v4-25-0,Topo>> | xref:004-numeros/004-numeros-026.adoc#v4-26-0[Próximo Capítulo &#62;]

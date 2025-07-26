@@ -1,0 +1,177 @@
+include::./index.adoc[]
+
+[[v40-20-0]]
+=== Mateus, 20
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v40-20-1]]
+
+^<<v40-20-1,1>>^ “Porque o reino dos céus é semelhante a um homem, um dono de casa, que saiu cedo de manhã para contratar trabalhadores para o seu vinhedo.
+
+[[v40-20-2]]
+
+^<<v40-20-2,2>>^ Tendo concordado com os trabalhadores em um denário^&#42;1^ por dia, mandou-os ao seu vinhedo.
+
+[NOTE]
+====
+. Uma moeda romana de prata, que pesava 3,85 g.
+====
+
+[[v40-20-3]]
+
+^<<v40-20-3,3>>^ Saindo também por volta da terceira hora, viu outros parados, sem emprego, na feira;
+
+[[v40-20-4]]
+
+^<<v40-20-4,4>>^ e ele disse a estes: ‘Vós também, ide ao vinhedo, e eu vos darei o que for justo.’
+
+[[v40-20-5]]
+
+^<<v40-20-5,5>>^ De modo que eles foram. Ele saiu novamente por volta da sexta hora e da nona hora, e fez o mesmo.
+
+[[v40-20-6]]
+
+^<<v40-20-6,6>>^ Finalmente, por volta da décima primeira hora, saiu e encontrou outros parados, e disse-lhes: ‘Por que ficastes parados aqui o dia todo sem emprego?’
+
+[[v40-20-7]]
+
+^<<v40-20-7,7>>^ Eles lhe disseram: ‘Porque ninguém nos contratou.’ Disse-lhes: ‘Ide vós também ao vinhedo.’
+
+[[v40-20-8]]
+
+^<<v40-20-8,8>>^ “Quando anoiteceu, o dono do vinhedo disse ao seu encarregado: ‘Chama os trabalhadores e paga-lhes o seu salário, passando dos últimos para os primeiros.’
+
+[[v40-20-9]]
+
+^<<v40-20-9,9>>^ Ao chegarem os homens da décima primeira hora, cada um deles recebeu um denário.
+
+[[v40-20-10]]
+
+^<<v40-20-10,10>>^ Portanto, ao chegarem os primeiros, concluíram que receberiam mais; mas eles também receberam o pagamento à razão de um denário.
+
+[[v40-20-11]]
+
+^<<v40-20-11,11>>^ Tendo-o recebido, começaram a murmurar contra o dono de casa
+
+[[v40-20-12]]
+
+^<<v40-20-12,12>>^ e disseram: ‘Estes últimos fizeram uma só hora de trabalho; ainda assim os fizestes iguais a nós, os que levamos o fardo do dia e o calor abrasador!’
+
+[[v40-20-13]]
+
+^<<v40-20-13,13>>^ Mas ele disse, em resposta, a um deles: ‘Amigo, não te faço nenhuma injustiça. Não concordaste comigo em um denário?
+
+[[v40-20-14]]
+
+^<<v40-20-14,14>>^ Toma o que é teu e vai. Eu quero dar a este último o mesmo que a ti.
+
+[[v40-20-15]]
+
+^<<v40-20-15,15>>^ Não me é lícito fazer o que quero com as minhas próprias coisas? Ou é o teu olho iníquo^&#42;1^ porque sou bom?’
+
+[NOTE]
+====
+. Ou “invejoso”.
+====
+
+[[v40-20-16]]
+
+^<<v40-20-16,16>>^ Deste modo, os últimos serão primeiros e os primeiros, últimos.”
+
+[[v40-20-17]]
+
+^<<v40-20-17,17>>^ Estando então prestes a subir a Jerusalém, Jesus tomou os doze discípulos à parte e disse-lhes na estrada:
+
+[[v40-20-18]]
+
+^<<v40-20-18,18>>^ “Eis que estamos subindo a Jerusalém, e o Filho do homem será entregue aos principais sacerdotes e escribas, e eles o condenarão à morte,
+
+[[v40-20-19]]
+
+^<<v40-20-19,19>>^ e o entregarão a [homens das] nações, para se divertirem às custas dele e para o açoitarem e pregarem numa estaca,^&#42;1^ e no terceiro dia ele será levantado.”
+
+[NOTE]
+====
+. Ou “fixarem numa estaca (poste)”. Veja Ap. 5C.
+====
+
+[[v40-20-20]]
+
+^<<v40-20-20,20>>^ Aproximou-se dele então a mãe dos filhos de Zebedeu com os seus filhos, prestando homenagem e pedindo-lhe algo.
+
+[[v40-20-21]]
+
+^<<v40-20-21,21>>^ Ele lhe disse: “O que queres?” Disse-lhe ela: “Manda que estes dois filhos meus se assentem, no teu reino, um à tua direita e outro à tua esquerda.”
+
+[[v40-20-22]]
+
+^<<v40-20-22,22>>^ Jesus disse, em resposta: “Vós não sabeis o que pedis. Podeis beber o copo que eu estou para beber?” Disseram-lhe: “Podemos.”
+
+[[v40-20-23]]
+
+^<<v40-20-23,23>>^ Disse-lhes ele: “Bebereis, de fato, o meu copo, mas, assentar-se à minha direita e à minha esquerda não é meu para dar, mas pertence àqueles para quem tem sido preparado por meu Pai.”
+
+[[v40-20-24]]
+
+^<<v40-20-24,24>>^ Quando os outros dez ficaram sabendo disso, indignaram-se com os dois irmãos.
+
+[[v40-20-25]]
+
+^<<v40-20-25,25>>^ Jesus, porém, chamando-os a si, disse: “Sabeis que os governantes das nações dominam sobre elas e que os grandes homens exercem autoridade sobre elas.
+
+[[v40-20-26]]
+
+^<<v40-20-26,26>>^ Não é assim entre vós; mas, quem quiser tornar-se grande entre vós tem de ser o vosso ministro,^&#42;1^
+
+[NOTE]
+====
+. Ou “servo”. Gr.: di·á·ko·nos; lat.: mi·ní·ster (de mí·nus, “menos”); J22(hebr.): mesha·réth.
+====
+
+[[v40-20-27]]
+
+^<<v40-20-27,27>>^ e quem quiser ser o primeiro entre vós tem de ser o vosso escravo.
+
+[[v40-20-28]]
+
+^<<v40-20-28,28>>^ Assim como o Filho do homem não veio para que se lhe ministrasse, mas para ministrar^&#42;1^ e dar a sua alma^&#42;2^ como resgate^&#42;3^ em troca de muitos.”
+
+[NOTE]
+====
+. Ou “para servir (assistir)”. Gr.: di·a·ko·né·sai; lat.: mi·ni·strá·re; J17,18,22(hebr.): lesha·réth.
+. Ou “vida”. Gr.: psy·khén; lat.: á·ni·mam; J17,18,22(hebr.): naf·shóh, “sua vida”.
+. “Resgate.” Gr.: lý·tron; lat.: re·dem·pti·ó·nem; J17,18,22(hebr.): kó·fer. Veja 1Ti 2:6 n.: “correspondente”.
+====
+
+[[v40-20-29]]
+
+^<<v40-20-29,29>>^ Ora, ao saírem de Jericó, seguia-lhe uma grande multidão.
+
+[[v40-20-30]]
+
+^<<v40-20-30,30>>^ E eis que dois cegos, sentados à beira da estrada, ao ouvirem que Jesus estava passando por ali, clamaram, dizendo: “Senhor,^&#42;1^ tem misericórdia de nós, Filho de Davi!”
+
+[NOTE]
+====
+. “Senhor”, P45BCWVg; א: “Jesus”; DSyc omitem isso.
+====
+
+[[v40-20-31]]
+
+^<<v40-20-31,31>>^ Mas a multidão disse-lhes severamente que ficassem calados; não obstante, clamavam ainda mais alto, dizendo: “Senhor, tem misericórdia de nós, Filho de Davi!”
+
+[[v40-20-32]]
+
+^<<v40-20-32,32>>^ Jesus parou, então, chamou-os e disse: “Que quereis que eu faça para vós?”
+
+[[v40-20-33]]
+
+^<<v40-20-33,33>>^ Disseram-lhe: “Senhor, faze que os nossos olhos se abram.”
+
+[[v40-20-34]]
+
+^<<v40-20-34,34>>^ Penalizado, Jesus tocou-lhes os olhos e eles receberam imediatamente visão, e o seguiram.
+
+'''
+
+xref:040-mateus/040-mateus-019.adoc#v40-19-0[&#60; Capítulo Anterior] | <<v40-20-0,Topo>> | xref:040-mateus/040-mateus-021.adoc#v40-21-0[Próximo Capítulo &#62;]

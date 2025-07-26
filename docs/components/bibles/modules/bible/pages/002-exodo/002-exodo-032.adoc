@@ -1,0 +1,204 @@
+include::./index.adoc[]
+
+[[v2-32-0]]
+=== Êxodo, 32
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-32-1]]
+
+^<<v2-32-1,1>>^ Entrementes, o povo via que Moisés demorava em descer do monte. De modo que o povo se congregou em volta de Arão e lhe disse: “Levanta-te, faze para nós um deus^&#42;1^ que vá adiante de nós, pois quanto a este Moisés, o homem que nos fez subir da terra do Egito, certamente não sabemos o que lhe aconteceu.”
+
+[NOTE]
+====
+. “Um deus.” Hebr.: ’elo·hím, pl., provavelmente para denotar excelência; LXXVg: “deuses”; também pl. em At 7:40, que evidentemente cita a LXX. Veja v. 4 n.: “Deus”; v. 31 n.
+====
+
+[[v2-32-2]]
+
+^<<v2-32-2,2>>^ A isso Arão disse-lhes: “Arrancai as arrecadas de ouro que há nas orelhas de vossas esposas, de vossos filhos e de vossas filhas, e trazei-mas.”
+
+[[v2-32-3]]
+
+^<<v2-32-3,3>>^ E todo o povo começou a arrancar as arrecadas de ouro que havia nas suas orelhas e a trazê-las a Arão.
+
+[[v2-32-4]]
+
+^<<v2-32-4,4>>^ Ele tomou então [o ouro]^&#42;1^ das suas mãos e moldou-o com um buril, e passou a fazer dele uma estátua fundida de bezerro. E começaram^&#42;2^ a dizer: “Este é o teu Deus,^&#42;3^ ó Israel, que te fez subir da terra do Egito.”
+
+[NOTE]
+====
+. Entende-se que as palavras entre colchetes correspondam a “-o” e “dele” no mesmo versículo.
+. “Começaram”, MSyVg; LXX: “começou”.
+. Lit.: “Estes [são] os teus deuses.” Hebr.: ’él·leh ’elo·heí·kha. Mas Ne 9:18 explica que isso significa: “Este é o teu Deus”, hebr.: zeh ’elo·heí·kha; o pronome hebr. e o verbo acompanhante estão no sing., e ’elo·hím está no pl. para denotar excelência. Veja Sal 106:19-21.
+====
+
+[[v2-32-5]]
+
+^<<v2-32-5,5>>^ Quando Arão chegou a ver isso, foi construir um altar diante dele. Por fim, Arão clamou e disse: “Amanhã há uma festividade para Jeová.”
+
+[[v2-32-6]]
+
+^<<v2-32-6,6>>^ Assim, no dia seguinte, levantaram-se cedo e começaram a oferecer ofertas queimadas e a apresentar sacrifícios de participação em comum. Depois o povo se assentou para comer e beber. Levantaram-se então para se divertir.
+
+[[v2-32-7]]
+
+^<<v2-32-7,7>>^ Jeová disse então a Moisés: “Vai, desce, porque o teu povo que fizeste subir da terra do Egito tem agido ruinosamente.
+
+[[v2-32-8]]
+
+^<<v2-32-8,8>>^ Desviaram-se depressa do caminho em que os mandei ir. Fizeram para si uma estátua fundida de bezerro, e persistem em curvar-se diante dele e em oferecer-lhe sacrifícios, e em dizer: ‘Este é o teu Deus,^&#42;1^ ó Israel, que te fez subir da terra do Egito.’”
+
+[NOTE]
+====
+. Veja v. 4 n.: “Deus”.
+====
+
+[[v2-32-9]]
+
+^<<v2-32-9,9>>^ E Jeová prosseguiu, dizendo a Moisés: “Olhei para este povo e eis que é um povo de dura cerviz.
+
+[[v2-32-10]]
+
+^<<v2-32-10,10>>^ Portanto, deixa-me agora, para que a minha ira se acenda contra eles e eu os extermine, e faça eu de ti uma grande nação.”
+
+[[v2-32-11]]
+
+^<<v2-32-11,11>>^ E Moisés passou a abrandar a face de Jeová, seu Deus, e a dizer: “Por que, ó Jeová, devia acender-se a tua ira contra o teu povo que fizeste sair da terra do Egito, com grande poder e com mão forte?
+
+[[v2-32-12]]
+
+^<<v2-32-12,12>>^ Por que deviam os egípcios dizer: ‘Com mau intento os fez sair, a fim de matá-los entre os montes e exterminá-los da superfície do solo’? Desvia-te da tua ira ardente e deplora o mal contra o teu povo.
+
+[[v2-32-13]]
+
+^<<v2-32-13,13>>^ Lembra-te de Abraão, Isaque e Israel, teus servos, a quem juraste por ti mesmo, dizendo-lhes: ‘Multiplicarei a vossa descendência^&#42;1^ como as estrelas dos céus, e toda esta terra que indiquei, eu a darei à vossa descendência para que deveras tomem posse dela por tempo indefinido.’”
+
+[NOTE]
+====
+. Ou “prole; posteridade”.
+====
+
+[[v2-32-14]]
+
+^<<v2-32-14,14>>^ E Jeová começou a deplorar o mal que falou que ia fazer ao seu povo.
+
+[[v2-32-15]]
+
+^<<v2-32-15,15>>^ Depois, Moisés virou-se e desceu do monte com as duas tábuas do Testemunho na sua mão, tábuas inscritas em ambos os seus lados. Estavam inscritas deste lado e daquele lado.
+
+[[v2-32-16]]
+
+^<<v2-32-16,16>>^ E as tábuas eram o trabalho de Deus e a escrita era a escrita de Deus, gravada nas tábuas.
+
+[[v2-32-17]]
+
+^<<v2-32-17,17>>^ E Josué^&#42;1^ começou a ouvir o barulho do povo por causa da sua gritaria, e ele passou a dizer a Moisés: “Há um barulho de batalha no acampamento.”
+
+[NOTE]
+====
+. Veja 17:9 n.
+====
+
+[[v2-32-18]]
+
+^<<v2-32-18,18>>^ Mas ele disse:
+“Não é o som de um canto de realizações potentes,
+E não é o som de um canto de derrota;
+É o som de outro canto que estou ouvindo.”
+
+[[v2-32-19]]
+
+^<<v2-32-19,19>>^ Sucedeu então que, assim que chegou perto do acampamento e ele pôde ver o bezerro e as danças, começou a acender-se a ira de Moisés e ele lançou imediatamente das mãos as tábuas e as destroçou ao pé do monte.
+
+[[v2-32-20]]
+
+^<<v2-32-20,20>>^ Tomou então o bezerro que tinham feito e o queimou no fogo e o triturou até ficar miúdo, depois o espalhou sobre a superfície das águas e fez que os filhos de Israel bebessem.
+
+[[v2-32-21]]
+
+^<<v2-32-21,21>>^ Depois, Moisés disse a Arão: “Que te fez este povo para teres trazido um grande pecado sobre ele?”
+
+[[v2-32-22]]
+
+^<<v2-32-22,22>>^ A isso Arão disse: “Não se acenda a ira do meu senhor. Tu mesmo conheces bem o povo, que estão inclinados para o mal.
+
+[[v2-32-23]]
+
+^<<v2-32-23,23>>^ Assim, disseram-me: ‘Faze para nós um deus^&#42;1^ que vá adiante de nós, pois quanto a este Moisés, o homem que nos fez subir da terra do Egito, certamente não sabemos o que lhe aconteceu.’
+
+[NOTE]
+====
+. “Um deus.” Hebr.: ’elo·hím; gr.: the·oús, “deuses”; lat.: dé·os, “deuses”. Veja v. 1 n.
+====
+
+[[v2-32-24]]
+
+^<<v2-32-24,24>>^ Por isso eu lhes disse: ‘Quem tem ouro? Têm de arrancá-lo de si mesmos para o darem a mim.’ E eu passei a lançá-lo no fogo e saiu este bezerro.”
+
+[[v2-32-25]]
+
+^<<v2-32-25,25>>^ E Moisés chegou a ver que o povo ficara desenfreado, porque Arão os deixara ficar desenfreados para ignomínia entre seus opositores.
+
+[[v2-32-26]]
+
+^<<v2-32-26,26>>^ Moisés postou-se então no portão do acampamento e disse: “Quem está do lado de Jeová?^&#42;1^ A mim!” E todos os filhos de Levi começaram a ajuntar-se a ele.
+
+[NOTE]
+====
+. Ou: “Quem é por Jeová?” ou: “Quem é de Jeová?”
+====
+
+[[v2-32-27]]
+
+^<<v2-32-27,27>>^ Disse-lhes então: “Assim disse Jeová, o Deus de Israel: ‘Ponde cada um de vós a sua espada ao seu lado. Percorrei o acampamento e voltai, de portão a portão, e matai cada um o seu irmão, e cada um o seu próximo, e cada um o seu conhecido íntimo.’”
+
+[[v2-32-28]]
+
+^<<v2-32-28,28>>^ E os filhos de Levi passaram a fazer o que Moisés dissera, de modo que naquele dia caíram do povo cerca de três^&#42;1^ mil homens.
+
+[NOTE]
+====
+. “Três”, MLXXSy; Vgc: “vinte e três”.
+====
+
+[[v2-32-29]]
+
+^<<v2-32-29,29>>^ E Moisés prosseguiu, dizendo: “Enchei hoje vossas mãos de poder^&#42;1^ para Jeová, porque cada um de vós é contra seu próprio filho e contra seu próprio irmão, e para que ele vos conceda hoje uma bênção.”
+
+[NOTE]
+====
+. Ou: “Empossai-vos hoje.”
+====
+
+[[v2-32-30]]
+
+^<<v2-32-30,30>>^ E sucedeu, logo no dia seguinte, que Moisés passou a dizer ao povo: “Vós é que pecastes com um grande pecado, e eu subirei agora até Jeová. Talvez eu possa fazer reparação pelo vosso pecado.”
+
+[[v2-32-31]]
+
+^<<v2-32-31,31>>^ De modo que Moisés voltou a Jeová e disse: “Ai! este povo pecou com um grande pecado, visto que fizeram para si um deus^&#42;1^ de ouro!
+
+[NOTE]
+====
+. “Um deus.” Hebr.: ’elo·héh, pl., para denotar excelência, referindo-se àquele único bezerro de ouro; LXXVg: “deuses”.
+====
+
+[[v2-32-32]]
+
+^<<v2-32-32,32>>^ Mas agora, se perdoares o seu pecado, . . . e se não, por favor, extingue-me do teu livro que tens escrito.”
+
+[[v2-32-33]]
+
+^<<v2-32-33,33>>^ No entanto, Jeová disse a Moisés: “Extinguirei do meu livro aquele que tiver pecado contra mim.
+
+[[v2-32-34]]
+
+^<<v2-32-34,34>>^ E agora, vem, guia o povo para onde te falei. Eis que meu anjo irá adiante de ti, e no dia em que eu trouxer punição certamente trarei punição sobre eles pelo seu pecado.”
+
+[[v2-32-35]]
+
+^<<v2-32-35,35>>^ E Jeová começou a ferir o povo por terem feito o bezerro que Arão fizera.
+
+'''
+
+xref:002-exodo/002-exodo-031.adoc#v2-31-0[&#60; Capítulo Anterior] | <<v2-32-0,Topo>> | xref:002-exodo/002-exodo-033.adoc#v2-33-0[Próximo Capítulo &#62;]

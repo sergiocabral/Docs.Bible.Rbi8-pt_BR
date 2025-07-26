@@ -1,0 +1,138 @@
+include::./index.adoc[]
+
+[[v9-10-0]]
+=== 1 Samuel, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-10-1]]
+
+^<<v9-10-1,1>>^ Samuel tomou então o frasco de óleo e o despejou sobre a sua cabeça, e beijou-o e disse: “Não é porque Jeová^&#42;1^ te ungiu como líder da sua herança?
+
+[NOTE]
+====
+. O escriba hebr. talvez fizesse aqui uma omissão (causada por um homeotelêuton). LXX reza: “Não te ungiu Jeová como líder sobre o seu povo, sobre Israel? E governarás o povo de Jeová, e os salvarás da mão dos seus inimigos em volta. E este será para ti o sinal de que Jeová”; Vgc reza de modo similar.
+====
+
+[[v9-10-2]]
+
+^<<v9-10-2,2>>^ Hoje, quando te afastares de mim, hás de encontrar dois homens perto do túmulo de Raquel, no território de Benjamim, em Zelza, e eles hão de dizer-te: ‘Acharam-se as jumentas que foste procurar, porém, eis que teu pai abandonou o assunto das jumentas e se inquieta por vós, dizendo: “Que farei a respeito do meu filho?”’
+
+[[v9-10-3]]
+
+^<<v9-10-3,3>>^ E de lá tens de passar mais adiante e chegar até a árvore grande de Tabor, e ali terão de vir ao teu encontro três homens subindo até o [verdadeiro] Deus em Betel, um carregando três cabritinhos, e outro carregando três pães redondos, e outro carregando uma grande talha de vinho.
+
+[[v9-10-4]]
+
+^<<v9-10-4,4>>^ E eles certamente te perguntarão sobre o teu bem-estar e te darão dois pães, e tu terás de aceitá-los da sua mão.
+
+[[v9-10-5]]
+
+^<<v9-10-5,5>>^ É depois disso que chegarás ao morro do [verdadeiro] Deus, onde há uma guarnição de filisteus. E deve acontecer, por volta do tempo de chegares lá à cidade, que hás de encontrar-te com um grupo de profetas descendo do alto, e na frente deles um instrumento de cordas, e pandeiro, e flauta, e harpa, falando eles como profetas.
+
+[[v9-10-6]]
+
+^<<v9-10-6,6>>^ E o espírito de Jeová há de tornar-se ativo em ti, e hás de falar como profeta junto com eles e ser transformado em outro homem.
+
+[[v9-10-7]]
+
+^<<v9-10-7,7>>^ E tem de dar-se que, vindo a ti estes sinais, faze para ti o que a tua mão achar possível, porque o [verdadeiro] Deus está contigo.
+
+[[v9-10-8]]
+
+^<<v9-10-8,8>>^ E tens de descer na minha frente a Gilgal; e eis que desço a ti para oferecer sacrifícios queimados, para ofertar sacrifícios de participação em comum. Deves ficar esperando por sete dias, até a minha vinda a ti, e certamente te deixarei saber o que deves fazer.”
+
+[[v9-10-9]]
+
+^<<v9-10-9,9>>^ E sucedeu que, assim que virou o ombro para se afastar de Samuel, Deus começou a transformar-lhe o coração em outro; e naquele dia passaram a cumprir-se todos estes sinais.
+
+[[v9-10-10]]
+
+^<<v9-10-10,10>>^ Assim, foram dali ao morro, e eis que vinha ao encontro dele um grupo de profetas; o espírito de Deus tornou-se imediatamente ativo nele e ele começou a falar como profeta no seu meio.
+
+[[v9-10-11]]
+
+^<<v9-10-11,11>>^ E sucedeu que, vendo-o todos os que já o conheciam, eis que profetizava com os profetas! Por conseguinte, o povo dizia, um ao outro: “Que é isto que aconteceu ao filho de Quis? Está Saul também entre os profetas?”
+
+[[v9-10-12]]
+
+^<<v9-10-12,12>>^ Respondeu então um homem de lá e disse: “Mas quem é o pai deles?” É por isso que se tornou expressão proverbial: “Está Saul também entre os profetas?”
+
+[[v9-10-13]]
+
+^<<v9-10-13,13>>^ Por fim acabou de falar como profeta e chegou ao alto.
+
+[[v9-10-14]]
+
+^<<v9-10-14,14>>^ Mais tarde, o irmão do pai de Saul disse tanto a ele como ao seu ajudante: “Aonde fostes?” A que ele disse: “Procurar as jumentas, e fomos indo para ver, mas elas não se achavam [lá]. De modo que fomos ter com Samuel.”
+
+[[v9-10-15]]
+
+^<<v9-10-15,15>>^ Então disse o tio de Saul: “Por favor, conta-me deveras: Que foi que vos disse Samuel?”
+
+[[v9-10-16]]
+
+^<<v9-10-16,16>>^ Saul, por sua vez, disse a seu tio: “Ele nos informou inequivocamente que as jumentas foram achadas.” E não lhe contou o assunto do reinado de que Samuel havia falado.
+
+[[v9-10-17]]
+
+^<<v9-10-17,17>>^ E Samuel passou a convocar o povo a Jeová em Mispá
+
+[[v9-10-18]]
+
+^<<v9-10-18,18>>^ e a dizer aos filhos de Israel: “Assim disse Jeová, o Deus de Israel: ‘Fui eu quem fez Israel subir do Egito e quem vos foi livrar da mão do Egito e da mão de todos os reinos que vos oprimiam:
+
+[[v9-10-19]]
+
+^<<v9-10-19,19>>^ Mas vós é que rejeitastes hoje o vosso Deus que foi para vós um salvador em todos os vossos males e vossas aflições, e fostes dizer: “Não, mas^&#42;1^ é um rei que deves pôr sobre nós.” E agora, tomai vossa posição perante Jeová, segundo as vossas tribos e segundo os vossos milhares.’”^&#42;2^
+
+[NOTE]
+====
+. “Dizer: ‘Não, mas’”, LXXSyVg e 35 mss. hebr.; M: “dizer-lhe: ‘Mas’”.
+. Ou “subdivisões tribais”.
+====
+
+[[v9-10-20]]
+
+^<<v9-10-20,20>>^ Conseqüentemente, Samuel fez chegar perto todas as tribos de Israel e veio a ser selecionada a tribo de Benjamim.
+
+[[v9-10-21]]
+
+^<<v9-10-21,21>>^ Então fez chegar perto a tribo de Benjamim, segundo as suas famílias, e veio a ser selecionada a família dos matritas.^&#42;1^ Finalmente veio a ser selecionado Saul, filho de Quis. E foram procurá-lo, e ele não podia ser achado.
+
+[NOTE]
+====
+. LXX acrescenta: “E fazem chegar a família dos matritas, homem por homem.”
+====
+
+[[v9-10-22]]
+
+^<<v9-10-22,22>>^ Por isso indagaram mais de Jeová: “Já chegou o homem para cá?” A isso Jeová disse: “Eis aí está, escondido entre a bagagem.”
+
+[[v9-10-23]]
+
+^<<v9-10-23,23>>^ Foram assim correndo e o trouxeram de lá. Quando ele tomou sua posição no meio do povo, era mais alto do que todo o resto do povo, dos seus ombros para cima.
+
+[[v9-10-24]]
+
+^<<v9-10-24,24>>^ Samuel disse então a todo o povo: “Vistes aquele que Jeová escolheu, que não há quem lhe seja igual entre todo o povo?” E todo o povo começou a gritar e a dizer: “Viva o rei!”
+
+[[v9-10-25]]
+
+^<<v9-10-25,25>>^ Samuel falou então ao povo sobre a prerrogativa legítima do reinado, e escreveu-a num livro e depositou-o perante Jeová. Depois, Samuel mandou todo o povo embora, cada um para a sua casa.
+
+[[v9-10-26]]
+
+^<<v9-10-26,26>>^ Quanto ao próprio Saul, foi para a sua casa em Gibeá e homens valentes, cujo coração Deus havia tocado, passaram a ir com ele.
+
+[[v9-10-27]]
+
+^<<v9-10-27,27>>^ Quanto aos homens imprestáveis, disseram: “Como é que este nos salvará?” Conseqüentemente, desprezaram-no e não lhe trouxeram nenhum presente. Mas ele continuou como alguém que ficou sem fala.^&#42;1^
+
+[NOTE]
+====
+. “Mas ele continuou como alguém que ficou sem fala”, M; mediante uma emenda, em harmonia com LXX: “E sucedeu aproximadamente um mês mais tarde.” LXX inicia o capítulo 11 com estas palavras.
+====
+
+'''
+
+xref:009-1-samuel/009-1-samuel-009.adoc#v9-9-0[&#60; Capítulo Anterior] | <<v9-10-0,Topo>> | xref:009-1-samuel/009-1-samuel-011.adoc#v9-11-0[Próximo Capítulo &#62;]

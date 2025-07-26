@@ -1,0 +1,178 @@
+include::./index.adoc[]
+
+[[v10-14-0]]
+=== 2 Samuel, 14
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v10-14-1]]
+
+^<<v10-14-1,1>>^ Ora, Joabe, filho de Zeruia, ficou sabendo que o coração do rei era para com Absalão.
+
+[[v10-14-2]]
+
+^<<v10-14-2,2>>^ Por conseguinte, Joabe enviou [alguém] a Tecoa e trouxe de lá uma mulher sábia, e disse-lhe: “Por favor, põe-te de luto, e por favor, veste-te de roupas de luto e não te esfregues com óleo; e terás de ficar aqui como uma mulher que por muitos dias tem pranteado algum morto.
+
+[[v10-14-3]]
+
+^<<v10-14-3,3>>^ E terás de entrar até o rei e falar-lhe uma palavra como esta.” Com isto Joabe lhe pôs as palavras na boca.
+
+[[v10-14-4]]
+
+^<<v10-14-4,4>>^ E a mulher tecoíta passou a entrar^&#42;1^ até o rei e a lançar-se com o rosto por terra, e a prostrar-se, e passou a dizer: “Salva deveras, ó rei!”
+
+[NOTE]
+====
+. “Entrar”, LXXSyVg e muitos mss. hebr.; M: “dizer”.
+====
+
+[[v10-14-5]]
+
+^<<v10-14-5,5>>^ Então lhe disse o rei: “Que tens?” A isto ela disse: “Sou de fato uma mulher enviuvada, agora que meu esposo morreu.
+
+[[v10-14-6]]
+
+^<<v10-14-6,6>>^ E a tua serva tinha dois filhos, e os dois começaram a brigar entre si no campo quando não havia libertador para os separar.^&#42;1^ Finalmente, um golpeou o outro e o entregou à morte.
+
+[NOTE]
+====
+. Lit.: “entre eles”.
+====
+
+[[v10-14-7]]
+
+^<<v10-14-7,7>>^ E eis que se levantou toda a família contra a tua serva, e estão dizendo: ‘Entrega-nos aquele que golpeou seu irmão, para que o entreguemos à morte pela alma de seu irmão a quem matou, e aniquilemos até mesmo o herdeiro!’ E eles certamente apagarão o fulgor restante das minhas brasas, de modo a não atribuir a meu esposo nem nome nem restante^&#42;1^ na superfície do solo.”
+
+[NOTE]
+====
+. Ou “sobrevivente”.
+====
+
+[[v10-14-8]]
+
+^<<v10-14-8,8>>^ O rei disse então à mulher: “Vai para a tua casa e eu mesmo darei ordens a teu respeito.”
+
+[[v10-14-9]]
+
+^<<v10-14-9,9>>^ Então a mulher tecoíta disse ao rei: “Sobre mim recaia o erro, ó meu senhor, o rei, e também sobre a casa de meu pai, ao passo que o rei e seu trono sejam inocentes.”
+
+[[v10-14-10]]
+
+^<<v10-14-10,10>>^ E o rei prosseguiu, dizendo: “Se alguém falar contigo, então tens de trazê-lo a mim e ele nunca mais te tocará.”
+
+[[v10-14-11]]
+
+^<<v10-14-11,11>>^ Mas ela disse: “Por favor, lembre-se o rei de Jeová, teu Deus, para que o vingador do sangue não cause continuamente a ruína e para que não aniquilem meu filho.” A isto ele disse: “Por Jeová que vive, nem um único cabelo do teu filho cairá por terra.”
+
+[[v10-14-12]]
+
+^<<v10-14-12,12>>^ A mulher disse então: “Por favor, deixa tua serva falar uma palavra ao meu senhor, o rei.” Ele disse, portanto: “Fala!”
+
+[[v10-14-13]]
+
+^<<v10-14-13,13>>^ E a mulher prosseguiu, dizendo: “Por que, então, arrazoaste assim contra o povo de Deus? Falando o rei esta palavra é ele igual a alguém culpado, visto que o rei não traz de volta o seu próprio banido.
+
+[[v10-14-14]]
+
+^<<v10-14-14,14>>^ Pois, sem falta morreremos e seremos como águas derramadas na terra, que não podem ser ajuntadas. Mas Deus não tirará uma alma, e ele pensou em razões por que o banido não deve ser banido dele.
+
+[[v10-14-15]]
+
+^<<v10-14-15,15>>^ E agora que entrei para falar esta palavra ao rei, meu senhor, é porque o povo me amedrontou. A tua serva disse, pois: ‘Por favor, fale eu ao rei. Talvez o rei atue de acordo com a palavra de sua escrava.
+
+[[v10-14-16]]
+
+^<<v10-14-16,16>>^ Porque o rei passou a escutar, de modo a livrar a sua escrava da palma da mão do homem [que procura] aniquilar a mim^&#42;1^ e ao meu único filho da herança dada por Deus’,^&#42;2^
+
+[NOTE]
+====
+. “Que procura aniquilar a mim”, LXX; M omite “que procura”.
+. “Deus”, MLXXSyVg; TLXXL: “Jeová”.
+====
+
+[[v10-14-17]]
+
+^<<v10-14-17,17>>^ então a tua serva disse: ‘Por favor, sirva a palavra do meu senhor, o rei, para dar descanso.’ Pois, meu senhor, o rei, é como um anjo do [verdadeiro] Deus, para discernir o que é bom e o que é mau, e que o próprio Jeová, teu Deus, mostre estar contigo.”
+
+[[v10-14-18]]
+
+^<<v10-14-18,18>>^ O rei respondeu então e disse à mulher: “Por favor, não me ocultes coisa alguma daquilo que eu te perguntar.” A isto a mulher disse: “Por favor, fale meu senhor, o rei.”
+
+[[v10-14-19]]
+
+^<<v10-14-19,19>>^ E o rei prosseguiu, dizendo: “Está contigo a mão de Joabe em tudo isso?” A mulher respondeu então e disse: “Por tua alma que vive, ó meu senhor, o rei, nenhum homem pode desviar-se quer para a direita quer para a esquerda de tudo o que meu senhor, o rei, falou; porque foi o teu servo Joabe quem me ordenou e foi ele quem pôs todas estas palavras na boca da tua serva.
+
+[[v10-14-20]]
+
+^<<v10-14-20,20>>^ Teu servo Joabe fez esta coisa para alterar o aspecto do assunto, mas o meu senhor é sábio, como que com a sabedoria do anjo do [verdadeiro] Deus, de modo a saber tudo o que há na terra.”
+
+[[v10-14-21]]
+
+^<<v10-14-21,21>>^ Subseqüentemente, o rei disse a Joabe: “Eis que agora hei de fazer^&#42;1^ esta coisa. Portanto, vai, traze de volta o moço Absalão.”
+
+[NOTE]
+====
+. “Eis que agora fizeste”, muitos mss. hebr.
+====
+
+[[v10-14-22]]
+
+^<<v10-14-22,22>>^ Nisto Joabe se lançou com a face por terra e bendisse o rei; e Joabe prosseguiu, dizendo: “Hoje o teu servo sabe deveras que tenho achado favor aos teus olhos, ó meu senhor, o rei, porque o rei agiu segundo a palavra do seu servo.”
+
+[[v10-14-23]]
+
+^<<v10-14-23,23>>^ Com isto Joabe se levantou e foi a Gesur, e ele trouxe Absalão a Jerusalém.
+
+[[v10-14-24]]
+
+^<<v10-14-24,24>>^ No entanto, o rei disse: “Torne para a sua própria casa, mas não veja ele a minha face.” Portanto, Absalão tornou para a sua própria casa e não viu a face do rei.
+
+[[v10-14-25]]
+
+^<<v10-14-25,25>>^ Ora, em todo o Israel não se mostrava haver homem que se comparasse com Absalão em beleza, de modo a ser tão louvado. Desde a sola de seu pé até o alto de sua cabeça não se mostrou haver defeito nele.
+
+[[v10-14-26]]
+
+^<<v10-14-26,26>>^ E quando rapava a sua cabeça — e sucedia ao fim de cada ano que ele a rapava; rapava-a porque era muito pesado sobre ele — pesava o cabelo de sua cabeça: duzentos siclos^&#42;1^ segundo o peso real de pedra.^&#42;2^
+
+[NOTE]
+====
+. Cerca de 2,3 kg.
+. “Peso real de pedra.” Este pode ter sido um peso-padrão guardado no palácio real, ou um siclo “real” diferente do siclo comum. Veja Êx 30:13 n.: “santo”.
+====
+
+[[v10-14-27]]
+
+^<<v10-14-27,27>>^ E vieram nascer a Absalão três filhos e uma filha, cujo nome era Tamar. Ela mostrou ser mulher de aparência muitíssimo bela.
+
+[[v10-14-28]]
+
+^<<v10-14-28,28>>^ E Absalão continuou a morar em Jerusalém por dois anos inteiros, e não viu a face do rei.
+
+[[v10-14-29]]
+
+^<<v10-14-29,29>>^ Portanto, Absalão mandou [chamar a] Joabe, a fim de enviá-lo ao rei, e ele não quis vir a ele. Então mandou [chamá-lo] novamente, pela segunda vez, e ele não quis vir.
+
+[[v10-14-30]]
+
+^<<v10-14-30,30>>^ Por fim disse aos seus servos: “Vede o lote de terreno de Joabe ao lado do meu, e lá ele tem cevada. Ide e ponde-lhe fogo.” Por conseguinte, os servos de Absalão puseram fogo ao lote de terreno.
+
+[[v10-14-31]]
+
+^<<v10-14-31,31>>^ Em vista disso, Joabe levantou-se e foi ter com Absalão na casa [dele], e disse-lhe: “Por que é que os teus servos puseram fogo ao meu lote de terreno?”
+
+[[v10-14-32]]
+
+^<<v10-14-32,32>>^ Absalão disse, pois, a Joabe: “Eis que te mandei dizer: ‘Vem para cá e deixa-me enviar-te ao rei, dizendo: “Por que vim eu de Gesur? Melhor teria sido para mim ficar por lá, e agora, deixa-me ver a face do rei, e se houver em mim qualquer erro, então terá de entregar-me à morte.”’”
+
+[[v10-14-33]]
+
+^<<v10-14-33,33>>^ Subseqüentemente, Joabe entrou até o rei e contou-lhe isso. Ele chamou, pois, a Absalão, que entrou então até o rei e se prostrou, [lançando-se]^&#42;1^ com o rosto por terra perante o rei; depois o rei beijou a Absalão.
+
+[NOTE]
+====
+. “Lançando-se”, em harmonia com LXX: “e ele se lançou”; M omite isso.
+====
+
+'''
+
+xref:010-2-samuel/010-2-samuel-013.adoc#v10-13-0[&#60; Capítulo Anterior] | <<v10-14-0,Topo>> | xref:010-2-samuel/010-2-samuel-015.adoc#v10-15-0[Próximo Capítulo &#62;]

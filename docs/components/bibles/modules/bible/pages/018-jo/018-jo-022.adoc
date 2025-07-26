@@ -1,0 +1,214 @@
+include::./index.adoc[]
+
+[[v18-22-0]]
+=== Jó, 22
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-22-1]]
+
+^<<v18-22-1,1>>^ E Elifaz, o temanita, passou a responder e a dizer:
+
+[[v18-22-2]]
+
+^<<v18-22-2,2>>^ “Pode um varão vigoroso^&#42;1^ ser de utilidade para o próprio Deus,^&#42;2^
+Que alguém com perspicácia lhe seja útil?
+
+[NOTE]
+====
+. “Um varão vigoroso.” Hebr.: gá·ver.
+. “Para . . . Deus.” Hebr.: hal·’Él. Aqui, ha é uma partícula interrogatória que introduz uma pergunta.
+====
+
+[[v18-22-3]]
+
+^<<v18-22-3,3>>^ É do agrado do Todo-poderoso que sejas justo,
+Ou tem ele lucro em que faças teu caminho ser imaculado?
+
+[[v18-22-4]]
+
+^<<v18-22-4,4>>^ Repreender-te-á pela tua reverência,
+Entrará contigo em julgamento?
+
+[[v18-22-5]]
+
+^<<v18-22-5,5>>^ Não é já demais a tua própria maldade,
+E não haverá fim dos teus erros?
+
+[[v18-22-6]]
+
+^<<v18-22-6,6>>^ Pois, sem causa tomas um penhor dos teus irmãos,
+E despes de roupa até mesmo gente nua.
+
+[[v18-22-7]]
+
+^<<v18-22-7,7>>^ Não dás de beber água ao cansado,
+E negas o pão ao faminto.
+
+[[v18-22-8]]
+
+^<<v18-22-8,8>>^ Quanto ao homem^&#42;1^ de força,^&#42;2^ a terra é dele,
+E quem é tratado com parcialidade é que mora nela.
+
+[NOTE]
+====
+. “Quanto ao homem.” Hebr.: we’ísh.
+. Lit.: “braço”.
+====
+
+[[v18-22-9]]
+
+^<<v18-22-9,9>>^ As viúvas mandaste embora de mãos vazias,
+E os braços de meninos órfãos de pai estão esmigalhados.^&#42;1^
+
+[NOTE]
+====
+. “Estão esmigalhados”, M; TLXXSyVg: “esmigalhas”.
+====
+
+[[v18-22-10]]
+
+^<<v18-22-10,10>>^ Por isso há armadilhas de pássaros em volta de ti,
+E te perturba o pavor repentino;
+
+[[v18-22-11]]
+
+^<<v18-22-11,11>>^ Ou a escuridão, [de modo que] não podes ver,
+E te cobre a massa movimentada da própria água.
+
+[[v18-22-12]]
+
+^<<v18-22-12,12>>^ Não é Deus^&#42;1^ a altura do céu?
+Vê^&#42;2^ também a soma total das estrelas,^&#42;3^ que elas estão altas.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elóh·ah.
+. “Vê”, imperativo, M; LXXSy: “Ele vê”.
+. Ou “a cabeça das estrelas”, isto é, a estrela mais alta.
+====
+
+[[v18-22-13]]
+
+^<<v18-22-13,13>>^ Contudo, disseste: ‘O que é que Deus^&#42;1^ realmente sabe?
+Pode ele julgar através de densas trevas?
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v18-22-14]]
+
+^<<v18-22-14,14>>^ As nuvens lhe são um esconderijo, de modo que não vê nada,
+E ele anda sobre a abóbada do céu.’
+
+[[v18-22-15]]
+
+^<<v18-22-15,15>>^ Manter-te-ás no próprio caminho de há muito tempo,
+Pisado por homens prejudiciais,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “homens [causadores] de prejuízo”. Hebr.: metheh-’á·wen.
+====
+
+[[v18-22-16]]
+
+^<<v18-22-16,16>>^ [Homens] que foram arrebatados antes do seu tempo,
+Cujo alicerce é despejado como se fosse um rio,
+
+[[v18-22-17]]
+
+^<<v18-22-17,17>>^ Os quais dizem ao [verdadeiro] Deus:^&#42;1^ ‘Desvia-te de nós!
+E que pode o Todo-poderoso conseguir contra nós?’^&#42;2^
+
+[NOTE]
+====
+. “Ao [verdadeiro] Deus.” Hebr.: la·’Él; LXX: “Jeová”. Veja Ap. 1G.
+. “Contra nós”, LXXSy; M: “contra ele”.
+====
+
+[[v18-22-18]]
+
+^<<v18-22-18,18>>^ Contudo, ele mesmo encheu-lhes as casas de coisas boas;
+E o próprio conselho dos iníquos se manteve longe de mim.
+
+[[v18-22-19]]
+
+^<<v18-22-19,19>>^ Os justos verão e se alegrarão,
+E o próprio inocente caçoará deles:
+
+[[v18-22-20]]
+
+^<<v18-22-20,20>>^ ‘Deveras, foram eliminados os nossos antagonistas;^&#42;1^
+E o que sobra deles há de ser devorado por um fogo.’
+
+[NOTE]
+====
+. “Nossos antagonistas”, M; mediante uma correção: “a propriedade deles”.
+====
+
+[[v18-22-21]]
+
+^<<v18-22-21,21>>^ Por favor, familiariza-te com ele e mantém a paz;
+Assim virão a ti coisas boas.
+
+[[v18-22-22]]
+
+^<<v18-22-22,22>>^ Por favor, toma a lei procedente da sua própria boca,
+E põe as suas declarações no teu coração.
+
+[[v18-22-23]]
+
+^<<v18-22-23,23>>^ Se retornares ao Todo-poderoso, serás edificado;
+[Se] mantiveres a injustiça longe da tua tenda,
+
+[[v18-22-24]]
+
+^<<v18-22-24,24>>^ E [se] se puser minério precioso no pó
+E ouro de Ofir na rocha de vales de torrente,
+
+[[v18-22-25]]
+
+^<<v18-22-25,25>>^ Também o Todo-poderoso deveras se tornará teus minérios preciosos
+E prata, a mais seleta, para ti.
+
+[[v18-22-26]]
+
+^<<v18-22-26,26>>^ Pois então te deleitarás no Todo-poderoso
+E levantarás a tua face para o próprio Deus.^&#42;1^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elóh·ah.
+====
+
+[[v18-22-27]]
+
+^<<v18-22-27,27>>^ Far-lhe-ás súplicas, e ele te ouvirá;
+E pagarás os teus votos.
+
+[[v18-22-28]]
+
+^<<v18-22-28,28>>^ E decidirás algo, e ficará de pé para ti;
+E certamente resplandecerá luz sobre os teus caminhos.
+
+[[v18-22-29]]
+
+^<<v18-22-29,29>>^ Pois tem de haver rebaixamento quando falas arrogantemente;
+Mas o que abaixar os olhos será salvo.
+
+[[v18-22-30]]
+
+^<<v18-22-30,30>>^ Ele salvará ao homem inocente,^&#42;1^
+E certamente serás salvo pela limpeza das tuas mãos.”^&#42;2^
+
+[NOTE]
+====
+. Possivelmente: “Deus socorrerá o inocente.” Lit.: “Socorrerá aquele que não é inocente.” M parece aqui defeituoso.
+. Lit.: “palmas”.
+====
+
+'''
+
+xref:018-jo/018-jo-021.adoc#v18-21-0[&#60; Capítulo Anterior] | <<v18-22-0,Topo>> | xref:018-jo/018-jo-023.adoc#v18-23-0[Próximo Capítulo &#62;]

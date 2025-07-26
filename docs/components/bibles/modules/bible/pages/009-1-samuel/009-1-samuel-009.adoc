@@ -1,0 +1,164 @@
+include::./index.adoc[]
+
+[[v9-9-0]]
+=== 1 Samuel, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-9-1]]
+
+^<<v9-9-1,1>>^ Ora, havia um homem de Benjamim, e seu nome era Quis, filho de Abiel, filho de Zeror, filho de Becorate, filho de Afia, benjaminita,^&#42;1^ homem poderoso em riqueza.
+
+[NOTE]
+====
+. Lit.: “filho dum homem, um jaminita”.
+====
+
+[[v9-9-2]]
+
+^<<v9-9-2,2>>^ E sucedeu que ele tinha um filho de nome Saul, jovem e bem-parecido,^&#42;1^ e não havia homem dos filhos de Israel que fosse mais bem-parecido do que ele; dos seus ombros para cima era mais alto do que todo o povo.
+
+[NOTE]
+====
+. Ou “bom”.
+====
+
+[[v9-9-3]]
+
+^<<v9-9-3,3>>^ E perderam-se as jumentas pertencentes a Quis, pai de Saul. De modo que Quis disse a Saul, seu filho: “Por favor, toma contigo um dos ajudantes e levanta-te, vai procurar as jumentas.”
+
+[[v9-9-4]]
+
+^<<v9-9-4,4>>^ E ele^&#42;1^ foi atravessar a região montanhosa de Efraim e atravessou a terra de Salisa, e não [as] acharam. E foram atravessar a terra de Saalim, mas elas não estavam [ali]. E foram atravessar a terra dos benjaminitas, e não [as] acharam.
+
+[NOTE]
+====
+. “Ele”, MSy; LXXVg: “eles”.
+====
+
+[[v9-9-5]]
+
+^<<v9-9-5,5>>^ Eles mesmos entraram então na terra de Zufe; e Saul, da sua parte, disse ao seu ajudante que estava com ele: “Vem deveras e voltemos, para que meu pai não deixe de se preocupar com as jumentas e realmente se inquiete por nós.”
+
+[[v9-9-6]]
+
+^<<v9-9-6,6>>^ Mas ele lhe disse: “Por favor, eis que há um homem de Deus^&#42;1^ nesta cidade e o homem é tido em honra. Tudo o que ele diz se cumpre sem falta. Vamos para lá agora. Talvez ele nos possa informar sobre o caminho em que temos de andar.”
+
+[NOTE]
+====
+. “Um homem de Deus.” Hebr.: ’ish-’Elo·hím.
+====
+
+[[v9-9-7]]
+
+^<<v9-9-7,7>>^ Então Saul disse ao seu ajudante: “E se formos, que traremos ao homem? Pois o próprio pão já desapareceu dos nossos receptáculos e não há nada que possamos levar como dádiva ao homem do [verdadeiro] Deus. Que é que temos conosco?”
+
+[[v9-9-8]]
+
+^<<v9-9-8,8>>^ Assim, pois, o ajudante respondeu mais uma vez a Saul e disse: “Eis que se acha um quarto de siclo^&#42;1^ de prata na minha mão, e eu hei^&#42;2^ de dá-lo ao homem do [verdadeiro] Deus e ele há de dizer-nos o nosso caminho.”
+
+[NOTE]
+====
+. Veja Ap. 8A.
+. “Eu hei”, M; LXX: “tu hás”.
+====
+
+[[v9-9-9]]
+
+^<<v9-9-9,9>>^ (Antigamente, em Israel, era assim que o homem falava ao ir buscar a Deus: “Vinde e vamos ao vidente.” Pois o profeta de hoje costumava ser chamado outrora de vidente.)
+
+[[v9-9-10]]
+
+^<<v9-9-10,10>>^ Saul disse então ao seu ajudante: “Tua palavra é boa. Vem deveras, vamos.” E eles se foram à cidade onde estava o homem do [verdadeiro] Deus.
+
+[[v9-9-11]]
+
+^<<v9-9-11,11>>^ Indo eles para cima pela subida da cidade, encontraram umas moças que saíam para tirar água. Disseram-lhes, pois: “Está o vidente neste lugar?”
+
+[[v9-9-12]]
+
+^<<v9-9-12,12>>^ Responderam-lhes então e disseram: “Está. Eis que está na vossa frente. Apressai-vos agora, porque ele veio hoje à cidade, pois há hoje um sacrifício no alto, para o povo.
+
+[[v9-9-13]]
+
+^<<v9-9-13,13>>^ Assim que entrardes na cidade, ireis logo achá-lo antes de ele subir ao alto para comer; porque o povo não pode comer até que venha, visto que é ele quem abençoa o sacrifício. Só depois é que os convidados podem comer. E agora subi, porque a ele — agora mesmo o achareis.”
+
+[[v9-9-14]]
+
+^<<v9-9-14,14>>^ Por conseguinte, subiram à cidade. Entrando para o meio da cidade, ora, eis que vinha Samuel ao seu encontro para subir ao alto.
+
+[[v9-9-15]]
+
+^<<v9-9-15,15>>^ Quanto a Jeová, havia destapado o ouvido de Samuel no dia antes de chegar Saul, dizendo:
+
+[[v9-9-16]]
+
+^<<v9-9-16,16>>^ “Amanhã, por volta desta hora, enviar-te-ei um homem da terra de Benjamim, e tu terás de ungi-lo como líder do meu povo Israel; e ele terá de salvar meu povo da mão dos filisteus, porque vi [a tribulação do] meu povo,^&#42;1^ pois o seu clamor tem chegado a mim.”
+
+[NOTE]
+====
+. “A tribulação do meu povo”, TLXX; MSyVg: “meu povo”.
+====
+
+[[v9-9-17]]
+
+^<<v9-9-17,17>>^ E o próprio Samuel viu a Saul, e Jeová, da sua parte, respondeu-lhe: “Eis o homem de quem te disse: ‘É este quem manterá meu povo dentro dos limites.’”
+
+[[v9-9-18]]
+
+^<<v9-9-18,18>>^ Saul aproximou-se então de Samuel no meio do portão e disse: “Por favor, dize-me deveras: Onde é que é a casa do vidente?”
+
+[[v9-9-19]]
+
+^<<v9-9-19,19>>^ E Samuel passou a responder a Saul e a dizer: “Eu sou o vidente. Sobe diante de mim ao alto, e hoje tereis de comer comigo e eu terei de mandar-te embora pela manhã e te comunicarei tudo o que há no teu coração.
+
+[[v9-9-20]]
+
+^<<v9-9-20,20>>^ Quanto às jumentas que perdeste há três dias, não fixes nelas teu coração, pois foram achadas. E a quem pertence tudo o que é desejável de Israel? Não é a ti e a toda a casa de teu pai?”
+
+[[v9-9-21]]
+
+^<<v9-9-21,21>>^ A isso Saul respondeu e disse: “Não sou eu benjaminita da menor das tribos de Israel e a minha família a mais insignificante de todas as famílias da tribo de Benjamim? Então, por que me falaste uma coisa destas?”
+
+[[v9-9-22]]
+
+^<<v9-9-22,22>>^ Samuel tomou então Saul e seu ajudante, e levou-os ao refeitório e deu-lhes um lugar à cabeceira dos convidados; e havia cerca de trinta homens.
+
+[[v9-9-23]]
+
+^<<v9-9-23,23>>^ Mais tarde Samuel disse ao cozinheiro: “Entrega deveras a porção que te dei, da qual eu te disse: ‘Põe-na à parte contigo.’”
+
+[[v9-9-24]]
+
+^<<v9-9-24,24>>^ Então, o cozinheiro retirou a perna e o que havia nela e a pôs diante de Saul. E ele prosseguiu, dizendo: “Eis o que se reservou.^&#42;1^ Põe-no diante de ti. Come, porque se reservou para ti para o tempo designado, a fim de comeres com os convidados.”^&#42;2^ De modo que Saul comeu naquele dia com Samuel.
+
+[NOTE]
+====
+. “O que se reservou”, mediante uma ligeira emenda; M: “o que sobrou”.
+. “Para ti . . . , a fim de comeres com os convidados”, mediante uma emenda. Lit.: “para ti — dizendo: ‘O povo que convidei.’” M é obscuro.
+====
+
+[[v9-9-25]]
+
+^<<v9-9-25,25>>^ Depois desceram do alto para a cidade e ele continuou a falar com Saul no terraço da casa.
+
+[[v9-9-26]]
+
+^<<v9-9-26,26>>^ Levantaram-se então cedo,^&#42;1^ e assim que subiu a alva sucedeu que Samuel passou a chamar Saul ao terraço, dizendo: “Levanta-te deveras, para que eu te mande embora.” Saul levantou-se, pois, e ambos, ele e Samuel, saíram portas afora.
+
+[NOTE]
+====
+. “E ele continuou a falar com Saul no terraço da casa. (26) Levantaram-se então cedo”, M; LXX: “e prepararam um leito para Saul no terraço da casa, (26) e ele dormiu”; Vgc: “e ele falou com Saul no terraço da casa; e Saul estirou-se no terraço e dormiu. (26) E quando se tinham levantado de manhã.”
+====
+
+[[v9-9-27]]
+
+^<<v9-9-27,27>>^ Descendo eles na beirada da cidade, disse Samuel a Saul: “Dize ao ajudante que passe adiante de nós” — de modo que passou adiante — “e no que se refere a ti, fica agora parado para que eu te deixe ouvir a palavra de Deus”.^&#42;1^
+
+[NOTE]
+====
+. “A palavra de Deus.” Hebr.: devár ’Elo·hím. Veja Jz 3:20.
+====
+
+'''
+
+xref:009-1-samuel/009-1-samuel-008.adoc#v9-8-0[&#60; Capítulo Anterior] | <<v9-9-0,Topo>> | xref:009-1-samuel/009-1-samuel-010.adoc#v9-10-0[Próximo Capítulo &#62;]

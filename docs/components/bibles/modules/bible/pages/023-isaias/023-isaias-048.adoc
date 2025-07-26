@@ -1,0 +1,130 @@
+include::./index.adoc[]
+
+[[v23-48-0]]
+=== Isaías, 48
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-48-1]]
+
+^<<v23-48-1,1>>^ Ouvi isto, ó casa de Jacó, vós os que vos chamais pelo nome de Israel e que procedestes das próprias águas^&#42;1^ de Judá, vós os que jurais pelo nome de Jeová e que fazeis menção até mesmo do Deus^&#42;2^ de Israel, não em verdade^&#42;3^ e não em justiça.
+
+[NOTE]
+====
+. “Intestinos; entranhas”, mediante uma correção do M; cerca de 40 mss. hebr.: “dias”.
+. “E . . . do Deus de.” Hebr.: u·v·E’·lo·héh.
+. Ou “veracidade”.
+====
+
+[[v23-48-2]]
+
+^<<v23-48-2,2>>^ Pois chamaram-se como sendo da cidade santa e firmaram-se no Deus de Israel, cujo nome é Jeová dos exércitos.
+
+[[v23-48-3]]
+
+^<<v23-48-3,3>>^ “Contei as primeiras coisas mesmo desde aquele tempo e saíram da minha própria boca, e eu fazia que fossem ouvidas. Repentinamente agi, e as coisas passaram a entrar.
+
+[[v23-48-4]]
+
+^<<v23-48-4,4>>^ Por eu saber que és duro e que a tua cerviz é um tendão de ferro e que a tua testa é cobre,
+
+[[v23-48-5]]
+
+^<<v23-48-5,5>>^ também eu te informava desde aquele tempo. Antes que pudesse entrar, fiz que [o] ouvisses, para que não dissesses: ‘Meu próprio ídolo as fez, e minha própria imagem esculpida e minha própria imagem fundida as ordenaram.’
+
+[[v23-48-6]]
+
+^<<v23-48-6,6>>^ Tu ouviste. Observa tudo. Quanto a vós, não [o] contareis? Eu te fiz ouvir coisas novas do tempo atual, sim, coisas mantidas em reserva,^&#42;1^ que não conhecias.
+
+[NOTE]
+====
+. Ou “mantidas em segurança”.
+====
+
+[[v23-48-7]]
+
+^<<v23-48-7,7>>^ Terão de ser criadas no tempo atual e não desde aquele tempo, sim, coisas de que antes de hoje não ouviste [falar], para que não digas: ‘Eis que eu já as conhecia.’
+
+[[v23-48-8]]
+
+^<<v23-48-8,8>>^ “Além disso não ouviste, nem soubeste, nem foi aberto teu ouvido daquele tempo em diante. Pois eu bem sei que, sem falta, agias traiçoeiramente e foste chamado de ‘transgressor desde o ventre’.^&#42;1^
+
+[NOTE]
+====
+. Isto é, desde o ventre da mãe.
+====
+
+[[v23-48-9]]
+
+^<<v23-48-9,9>>^ Por causa do meu nome controlarei a minha ira e por meu louvor me refrearei para contigo, para que não haja decepamento.
+
+[[v23-48-10]]
+
+^<<v23-48-10,10>>^ Eis que eu te refinei, mas não em [forma de] prata. Fiz a escolha de ti no forno de fundição da tribulação.
+
+[[v23-48-11]]
+
+^<<v23-48-11,11>>^ Por minha própria causa, por minha própria causa agirei, pois como pode alguém deixar-se profanar? E a minha própria glória não darei a outrem.
+
+[[v23-48-12]]
+
+^<<v23-48-12,12>>^ “Escuta-me, ó Jacó, e tu, Israel, meu chamado. Eu sou o Mesmo. Sou o primeiro. Além disso, sou o último.
+
+[[v23-48-13]]
+
+^<<v23-48-13,13>>^ Ainda mais, a minha própria mão lançou o alicerce da terra e a minha própria direita estendeu os céus. Eu os chamo para que juntos se mantenham firmes.
+
+[[v23-48-14]]
+
+^<<v23-48-14,14>>^ “Reuni-vos, todos vós, e ouvi. Quem dentre eles^&#42;1^ contou estas coisas? O próprio Jeová o amou. Ele fará com a Babilônia o que for do seu agrado e seu próprio braço estará sobre os caldeus.
+
+[NOTE]
+====
+. “Eles”, 1QIsaMTLXXVg; Sy e cerca de 40 mss. hebr.: “vós”.
+====
+
+[[v23-48-15]]
+
+^<<v23-48-15,15>>^ Eu é que tenho falado. Além disso, eu o chamei. Eu o fiz entrar, e far-se-á que seu caminho seja bem sucedido.
+
+[[v23-48-16]]
+
+^<<v23-48-16,16>>^ “Chegai-vos a mim. Ouvi isto. Desde o começo, absolutamente não tenho falado num esconderijo. Estive ali desde o tempo da sua ocorrência.”
+E agora me enviou o próprio Soberano Senhor Jeová, sim,^&#42;1^ seu espírito.
+
+[NOTE]
+====
+. Ou “e”.
+====
+
+[[v23-48-17]]
+
+^<<v23-48-17,17>>^ Assim disse Jeová, teu Resgatador, o Santo de Israel: “Eu, Jeová, sou teu Deus, Aquele que te ensina a tirar proveito, Aquele que te faz pisar no caminho em que deves andar.
+
+[[v23-48-18]]
+
+^<<v23-48-18,18>>^ Oh! se tão-somente prestasses realmente atenção aos meus mandamentos! A tua paz se tornaria então como um rio e a tua justiça como as ondas do mar.
+
+[[v23-48-19]]
+
+^<<v23-48-19,19>>^ E a tua descendência se tornaria como a areia, e os descendentes das tuas entranhas como os grãos dela. Não se deceparia nem se aniquilaria o nome da pessoa^&#42;1^ diante de mim.”
+
+[NOTE]
+====
+. Ou “seu nome”, 1QIsaMTSyVg; LXX: “teu nome”.
+====
+
+[[v23-48-20]]
+
+^<<v23-48-20,20>>^ Saí de Babilônia! Fugi dos caldeus. Proclamai até com o som dum clamor jubilante, fazei que se ouça isso. Fazei que saia até a extremidade da terra. Dizei: “Jeová resgatou seu servo Jacó.
+
+[[v23-48-21]]
+
+^<<v23-48-21,21>>^ E eles não ficaram sedentos quando os fez andar mesmo através de lugares devastados. Fez que fluísse para eles água duma rocha e ele passou a fender uma rocha para que manasse água.”
+
+[[v23-48-22]]
+
+^<<v23-48-22,22>>^ “Não há paz para os iníquos”, disse Jeová.
+
+'''
+
+xref:023-isaias/023-isaias-047.adoc#v23-47-0[&#60; Capítulo Anterior] | <<v23-48-0,Topo>> | xref:023-isaias/023-isaias-049.adoc#v23-49-0[Próximo Capítulo &#62;]

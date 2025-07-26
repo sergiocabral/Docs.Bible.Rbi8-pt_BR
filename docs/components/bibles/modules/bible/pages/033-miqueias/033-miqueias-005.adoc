@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v33-5-0]]
+=== Miqueias, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v33-5-1]]
+
+^<<v33-5-1,1>>^ “Neste tempo fazes cortes em ti mesma, ó filha duma invasão; ele nos pôs em sítio. Com a vara golpearão a face do juiz de Israel.^&#42;1^
+
+[NOTE]
+====
+. MLXXSy terminam aqui o cap. 4; TLXXBagsterVg iniciam o cap. 5 com este v.
+====
+
+[[v33-5-2]]
+
+^<<v33-5-2,2>>^ “E tu, Belém^&#42;1^ Efrata, pequena demais para chegar a estar entre os milhares de Judá, de ti^&#42;2^ me sairá aquele que há de tornar-se governante em Israel, cuja origem^&#42;3^ é desde os tempos primitivos, desde os dias do tempo indefinido.
+
+[NOTE]
+====
+. Significando “Casa de Pão”. Hebr.: Behth-lé·hhem.
+. “Ti”, hebr. masc. sing.
+. “Origem”, segundo BDB, p. 426 e KB, p. 505.
+====
+
+[[v33-5-3]]
+
+^<<v33-5-3,3>>^ “Portanto, ele os entregará até o tempo em que aquela que dá à luz realmente dá à luz. E o resto dos seus irmãos retornará aos filhos de Israel.
+
+[[v33-5-4]]
+
+^<<v33-5-4,4>>^ “E ele certamente ficará de pé e pastoreará na força de Jeová,^&#42;1^ na superioridade do nome de Jeová,^&#42;2^ seu Deus. E eles certamente continuarão morando, porque agora ele será grande até os confins^&#42;3^ da terra.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 2.
+. Veja Ap. 1C sec. 2.
+. Veja Je 16:19 n.
+====
+
+[[v33-5-5]]
+
+^<<v33-5-5,5>>^ E este terá de tornar-se paz. Quanto ao assírio, quando ele entrar na nossa terra e quando pisar nas nossas torres de habitação,^&#42;1^ então teremos de suscitar contra ele sete pastores, sim, oito caudilhos da humanidade.^&#42;2^
+
+[NOTE]
+====
+. Possivelmente: “nosso solo (chão)”, em harmonia com LXXSy.
+. Ou “de homens terrenos”. Hebr.: ’a·dhám.
+====
+
+[[v33-5-6]]
+
+^<<v33-5-6,6>>^ E eles realmente pastorearão a terra da Assíria com a espada e a terra de Ninrode nas suas entradas. E ele certamente trará livramento do assírio, quando entrar na nossa terra e quando pisar no nosso território.
+
+[[v33-5-7]]
+
+^<<v33-5-7,7>>^ “E os remanescentes^&#42;1^ de Jacó terão de tornar-se no meio de muitos povos como orvalho da parte de Jeová, como chuvas copiosas sobre a vegetação, que não espera o homem^&#42;2^ nem aguarda os filhos do homem terreno.^&#42;3^
+
+[NOTE]
+====
+. Ou “o resto; o restante”.
+. “O homem.” Hebr.: le’ísh.
+. Ou “humanidade”. Hebr.: ’a·dhám.
+====
+
+[[v33-5-8]]
+
+^<<v33-5-8,8>>^ E os remanescentes de Jacó terão de tornar-se entre as nações, no meio de muitos povos, como o leão entre os animais da floresta, como o leão novo jubado entre as greis de ovelhas, que, quando realmente passa, certamente tanto pisoteia como dilacera; e não há livrador.
+
+[[v33-5-9]]
+
+^<<v33-5-9,9>>^ Tua^&#42;1^ mão estará enaltecida acima dos teus adversários e todos os teus inimigos serão decepados.”
+
+[NOTE]
+====
+. “Tua”, hebr. masc. sing.
+====
+
+[[v33-5-10]]
+
+^<<v33-5-10,10>>^ “E naquele dia terá de acontecer”, é a pronunciação de Jeová, “que vou decepar os teus cavalos do teu meio e destruir os teus carros.
+
+[[v33-5-11]]
+
+^<<v33-5-11,11>>^ E vou decepar as cidades da tua terra e derrubar todas as tuas praças fortes.
+
+[[v33-5-12]]
+
+^<<v33-5-12,12>>^ E vou decepar da tua mão as feitiçarias e não mais continuarás a ter quaisquer praticantes da magia.
+
+[[v33-5-13]]
+
+^<<v33-5-13,13>>^ E vou decepar do teu meio as tuas imagens entalhadas e as tuas colunas, e não mais te curvarás diante do trabalho das tuas mãos.
+
+[[v33-5-14]]
+
+^<<v33-5-14,14>>^ E vou desarraigar do teu meio os teus postes sagrados^&#42;1^ e aniquilar as tuas cidades.
+
+[NOTE]
+====
+. Ou “Axerás”.
+====
+
+[[v33-5-15]]
+
+^<<v33-5-15,15>>^ E em ira e em furor vou executar vingança sobre as nações que não obedeceram.”
+
+'''
+
+xref:033-miqueias/033-miqueias-004.adoc#v33-4-0[&#60; Capítulo Anterior] | <<v33-5-0,Topo>> | xref:033-miqueias/033-miqueias-006.adoc#v33-6-0[Próximo Capítulo &#62;]

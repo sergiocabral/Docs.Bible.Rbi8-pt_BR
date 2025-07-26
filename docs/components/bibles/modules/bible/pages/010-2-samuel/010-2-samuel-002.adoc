@@ -1,0 +1,184 @@
+include::./index.adoc[]
+
+[[v10-2-0]]
+=== 2 Samuel, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v10-2-1]]
+
+^<<v10-2-1,1>>^ E sucedeu, depois, que Davi passou a indagar de Jeová, dizendo: “Devo subir a uma das cidades de Judá?” Então Jeová lhe disse: “Sobe.” E Davi prosseguiu, dizendo: “Para onde subirei?” Ele disse então: “Para Hébron.”
+
+[[v10-2-2]]
+
+^<<v10-2-2,2>>^ Por conseguinte, Davi subiu para lá e assim também as suas duas esposas, Ainoã, a jezreelita, e Abigail, esposa de Nabal, o carmelita.
+
+[[v10-2-3]]
+
+^<<v10-2-3,3>>^ E Davi levou para cima os homens que estavam com ele, cada um com os da sua casa; e passaram a morar nas cidades [do território] de Hébron.
+
+[[v10-2-4]]
+
+^<<v10-2-4,4>>^ Então vieram os homens de Judá e ungiram ali a Davi rei sobre a casa de Judá.
+E vieram informar Davi, dizendo: “Os homens de Jabes-Gileade foram os que enterraram Saul.”
+
+[[v10-2-5]]
+
+^<<v10-2-5,5>>^ Davi enviou por isso mensageiros aos homens de Jabes-Gileade e disse-lhes: “Benditos de Jeová sejais vós, porque usastes desta benevolência^&#42;1^ para com o vosso senhor,^&#42;2^ para com Saul, enterrando-o.
+
+[NOTE]
+====
+. Ou “amor leal”.
+. “Vosso senhor.” Hebr.: ’adho·neh·khém, pl., para denotar excelência. Veja Gên 39:2 n.
+====
+
+[[v10-2-6]]
+
+^<<v10-2-6,6>>^ E agora, Jeová use para convosco de benevolência e de fidedignidade,^&#42;1^ e também eu usarei para convosco desta bondade por terdes feito esta coisa.
+
+[NOTE]
+====
+. Ou “verdade”.
+====
+
+[[v10-2-7]]
+
+^<<v10-2-7,7>>^ E agora, fortaleçam-se as vossas mãos e mostrai-vos homens valentes, porque o vosso senhor Saul está morto e foi a mim que a casa de Judá ungiu rei sobre si.”
+
+[[v10-2-8]]
+
+^<<v10-2-8,8>>^ Quanto a Abner, filho de Ner, chefe do exército que havia pertencido a Saul, tomou a Is-Bosete, filho de Saul, e passou a fazê-lo atravessar^&#42;1^ para Maanaim
+
+[NOTE]
+====
+. “Fazê-lo sair do acampamento”, LXX.
+====
+
+[[v10-2-9]]
+
+^<<v10-2-9,9>>^ e a fazê-lo rei sobre Gileade, e os asuritas,^&#42;1^ e Jezreel, e sobre Efraim e Benjamim, e sobre Israel, todo ele.
+
+[NOTE]
+====
+. “Gesuritas”, SyVg; T: “aseritas”.
+====
+
+[[v10-2-10]]
+
+^<<v10-2-10,10>>^ Is-Bosete, filho de Saul, tinha quarenta anos de idade quando se tornou rei sobre Israel e reinou por dois anos. Somente a casa de Judá mostrava estar seguindo a Davi.
+
+[[v10-2-11]]
+
+^<<v10-2-11,11>>^ E o número dos dias que Davi mostrou ser rei em Hébron sobre a casa de Judá veio a ser sete anos e seis meses.
+
+[[v10-2-12]]
+
+^<<v10-2-12,12>>^ Passado tempo, Abner, filho de Ner, e os servos de Is-Bosete, filho de Saul, saíram de Maanaim para Gibeão.
+
+[[v10-2-13]]
+
+^<<v10-2-13,13>>^ Quanto a Joabe, filho de Zeruia, e os servos de Davi, saíram^&#42;1^ e mais tarde se encontraram junto ao reservatório de água de Gibeão; e ficaram sentados, estes deste lado e aqueles daquele lado do reservatório.
+
+[NOTE]
+====
+. “Saíram de Hébron”, LXX.
+====
+
+[[v10-2-14]]
+
+^<<v10-2-14,14>>^ Por fim disse Abner a Joabe: “Por favor, levantem-se os moços e travem um combate diante de nós.” A isto Joabe disse: “Levantem-se.”
+
+[[v10-2-15]]
+
+^<<v10-2-15,15>>^ Levantaram-se, pois, e atravessaram por número, doze pertencentes a Benjamim e Is-Bosete, filho de Saul, e doze dos servos de Davi.
+
+[[v10-2-16]]
+
+^<<v10-2-16,16>>^ E começaram a agarrar-se um ao outro pela cabeça, com a espada de cada um no lado do outro, de modo que caíram juntos. E aquele lugar passou a ser chamado de Helcate-Hazurim,^&#42;1^ que está em Gibeão.
+
+[NOTE]
+====
+. Significando “Campo de Facas de Pederneira”; ou, mediante uma emenda: “Campo de Lados”. Veja Jos 5:2 n.
+====
+
+[[v10-2-17]]
+
+^<<v10-2-17,17>>^ E a luta ficou naquele dia extremamente dura, e Abner e seus homens foram finalmente derrotados diante dos servos de Davi.
+
+[[v10-2-18]]
+
+^<<v10-2-18,18>>^ Ora, acontecia que estavam ali os três filhos de Zeruia, Joabe, e Abisai, e Asael; e Asael era ligeiro de pés, como uma das gazelas que há no campo aberto.
+
+[[v10-2-19]]
+
+^<<v10-2-19,19>>^ E Asael foi no encalço de Abner, e indo, não mudou de rumo nem para a direita nem para a esquerda ao seguir Abner.
+
+[[v10-2-20]]
+
+^<<v10-2-20,20>>^ Finalmente, Abner virou-se para trás e disse: “És tu, Asael?” a que ele disse: “Sou eu.”
+
+[[v10-2-21]]
+
+^<<v10-2-21,21>>^ Abner disse-lhe então: “Muda de rumo para a tua direita ou para a tua esquerda e pega para ti um dos moços, e toma para ti aquilo de que o despires.” E Asael não quis desviar-se de segui-lo.
+
+[[v10-2-22]]
+
+^<<v10-2-22,22>>^ De modo que Abner lhe disse novamente: “Desvia-te de seguir-me. Por que devia eu golpear-te^&#42;1^ por terra? Como poderia então levantar a minha face para Joabe, teu irmão?”
+
+[NOTE]
+====
+. “Seguir-me para que eu não . . . golpeie”, LXX.
+====
+
+[[v10-2-23]]
+
+^<<v10-2-23,23>>^ Mas ele se negava a desviar-se; e Abner foi golpeá-lo no abdome com o conto^&#42;1^ da lança, de maneira que a lança lhe saiu pelas costas; e ele caiu ali e morreu onde estava. E sucedeu que todos os que vinham ao lugar onde Asael havia caído e onde havia morrido ficavam parados.
+
+[NOTE]
+====
+. Ou “a parte traseira”, possivelmente com um golpe para trás com a lança.
+====
+
+[[v10-2-24]]
+
+^<<v10-2-24,24>>^ E Joabe e Abisai foram no encalço de Abner. Ao se pôr o sol chegaram eles mesmos ao morro de Amá, que está defronte de Gia, no caminho para o ermo de Gibeão.
+
+[[v10-2-25]]
+
+^<<v10-2-25,25>>^ E os filhos de Benjamim foram reunir-se atrás de Abner e chegaram a ser uma só tropa, e ficaram parados no cume de um morro.
+
+[[v10-2-26]]
+
+^<<v10-2-26,26>>^ E Abner começou a clamar a Joabe e a dizer: “Consumirá a espada interminavelmente? Não sabes realmente que por fim resultará em amargura? Então, até quando não dirás ao povo que retorne de seguir os seus irmãos?”
+
+[[v10-2-27]]
+
+^<<v10-2-27,27>>^ A isto disse Joabe: “Pelo [verdadeiro] Deus^&#42;1^ que vive, se não tivesses falado, então só de manhã se teria retirado o povo, cada um de seguir o seu irmão.”
+
+[NOTE]
+====
+. “Pelo [verdadeiro] Deus.” Veja Ap. 1F.
+====
+
+[[v10-2-28]]
+
+^<<v10-2-28,28>>^ Joabe tocou então a buzina, e todo o povo chegou a parar e não mais continuou no encalço de Israel, e não renovaram mais a luta.
+
+[[v10-2-29]]
+
+^<<v10-2-29,29>>^ Quanto a Abner e seus homens, marcharam através do Arabá durante toda aquela noite, e foram atravessar o Jordão e marchar através de toda a ravina, e por fim chegaram a Maanaim.
+
+[[v10-2-30]]
+
+^<<v10-2-30,30>>^ Quanto a Joabe, retornou de seguir a Abner e começou a reunir todo o povo. E dos servos que eram de Davi faltavam dezenove homens e Asael.
+
+[[v10-2-31]]
+
+^<<v10-2-31,31>>^ E os servos de Davi, da sua parte, tinham golpeado os que eram de Benjamim e dos homens de Abner — foram trezentos e sessenta homens os que morreram.
+
+[[v10-2-32]]
+
+^<<v10-2-32,32>>^ E passaram a levar Asael e a enterrá-lo na sepultura de seu pai, que está em Belém. Então Joabe e seus homens seguiram marchando a noite inteira, e clareava para eles em Hébron.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-001.adoc#v10-1-0[&#60; Capítulo Anterior] | <<v10-2-0,Topo>> | xref:010-2-samuel/010-2-samuel-003.adoc#v10-3-0[Próximo Capítulo &#62;]

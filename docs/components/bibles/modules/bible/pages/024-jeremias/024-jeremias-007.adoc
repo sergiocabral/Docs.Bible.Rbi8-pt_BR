@@ -1,0 +1,206 @@
+include::./index.adoc[]
+
+[[v24-7-0]]
+=== Jeremias, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-7-1]]
+
+^<<v24-7-1,1>>^ A palavra que veio a haver para Jeremias^&#42;1^ da parte de Jeová, dizendo:
+
+[NOTE]
+====
+. Veja 1:1 n.: “Jeremias”.
+====
+
+[[v24-7-2]]
+
+^<<v24-7-2,2>>^ “Põe-te de pé no portão da casa de Jeová, e ali tens de proclamar esta palavra e tens de dizer: ‘Ouvi a palavra de Jeová, todos vós de Judá, que estais entrando por estes portões para vos curvardes diante de Jeová.
+
+[[v24-7-3]]
+
+^<<v24-7-3,3>>^ Assim disse Jeová dos exércitos, o Deus^&#42;1^ de Israel: “Tornai bons os vossos caminhos e as vossas ações, e eu vou manter-vos residindo neste lugar.
+
+[NOTE]
+====
+. “O Deus de.” Hebr.: ’Elo·héh.
+====
+
+[[v24-7-4]]
+
+^<<v24-7-4,4>>^ Não confieis em palavras falazes,^&#42;1^ dizendo: ‘O templo^&#42;2^ de Jeová, o templo de Jeová, o templo de Jeová é o que são!’
+
+[NOTE]
+====
+. Lit.: “palavras [ou: coisas] de falsidade”.
+. “Templo de.” Hebr.: heh·khál; gr.: na·ós; lat.: tém·plum. Compare isso com 2Rs 20:18 n. Veja Mt 23:16 n.
+====
+
+[[v24-7-5]]
+
+^<<v24-7-5,5>>^ Pois, se positivamente tornardes bons os vossos caminhos e as vossas ações, se positivamente fizerdes justiça entre um homem^&#42;1^ e seu companheiro,
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’ish.
+====
+
+[[v24-7-6]]
+
+^<<v24-7-6,6>>^ se não oprimirdes o residente forasteiro,^&#42;1^ o menino órfão de pai e a viúva, e se não derramardes sangue inocente neste lugar e não andardes atrás de outros deuses^&#42;2^ para a vossa calamidade,
+
+[NOTE]
+====
+. Ou “residente temporário”.
+. “Deuses.” Hebr.: ’elo·hím.
+====
+
+[[v24-7-7]]
+
+^<<v24-7-7,7>>^ eu, da minha parte, certamente vos manterei residindo neste lugar, na terra que dei aos vossos antepassados, de tempo indefinido a tempo indefinido.”’”
+
+[[v24-7-8]]
+
+^<<v24-7-8,8>>^ “Eis que confiais em palavras falazes — isto certamente não será de nenhum proveito.
+
+[[v24-7-9]]
+
+^<<v24-7-9,9>>^ Pode haver furto, assassinato, e adultério, e perjúrio, e [oferta de] fumaça sacrificial a Baal, e a ida atrás de outros deuses que não conhecestes,
+
+[[v24-7-10]]
+
+^<<v24-7-10,10>>^ e é preciso que chegueis e que fiqueis de pé diante de mim nesta casa sobre a qual se invocou meu nome e que digais: ‘Havemos de ser livrados’, visto que fazeis todas estas coisas detestáveis?
+
+[[v24-7-11]]
+
+^<<v24-7-11,11>>^ Tornou-se esta casa sobre a qual se invocou meu nome um mero covil de salteadores aos vossos olhos? Eis que eu mesmo também [o] vi”, é a pronunciação de Jeová.
+
+[[v24-7-12]]
+
+^<<v24-7-12,12>>^ “‘Todavia, ide, pois, ao meu lugar que estava em Silo, onde fiz meu nome residir no princípio, e vede o que lhe fiz por causa da maldade do meu povo Israel.
+
+[[v24-7-13]]
+
+^<<v24-7-13,13>>^ E agora, visto que continuastes a fazer todos estes trabalhos’, é a pronunciação de Jeová, ‘e eu continuei a falar convosco, levantando-me cedo e falando, mas vós não escutastes, e continuei a chamar-vos, mas vós não respondestes,
+
+[[v24-7-14]]
+
+^<<v24-7-14,14>>^ vou fazer também à casa sobre a qual se invocou meu nome, em que confiais, e ao lugar que dei a vós e aos vossos antepassados, assim como fiz a Silo.
+
+[[v24-7-15]]
+
+^<<v24-7-15,15>>^ E vou lançar-vos fora de diante da minha face, assim como lancei fora todos os vossos irmãos, toda a descendência de Efraim.’
+
+[[v24-7-16]]
+
+^<<v24-7-16,16>>^ “E no que se refere a ti, não ores por este povo, nem eleves por eles um clamor suplicante ou uma oração, nem instes comigo, porque não te escutarei.
+
+[[v24-7-17]]
+
+^<<v24-7-17,17>>^ Não vês o que estão fazendo nas cidades de Judá e nas ruas de Jerusalém?
+
+[[v24-7-18]]
+
+^<<v24-7-18,18>>^ Os filhos apanham pedaços de pau e os pais acendem o fogo, e as esposas^&#42;1^ sovam a massa para fazer bolos de oferenda à ‘rainha^&#42;2^ dos céus’; e há um derramamento^&#42;3^ de ofertas de bebida a outros deuses para me ofenderem.
+
+[NOTE]
+====
+. Ou “mulheres”.
+. “À ‘rainha dos’.” Hebr.: lim·lé·kheth; LXX: “ao exército”; 52 mss. hebr.: “à obra (adoração) dos”.
+. “Há um derramamento.” No hebr., isto é um verbo no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v24-7-19]]
+
+^<<v24-7-19,19>>^ ‘É a mim que estão ofendendo?’ é a pronunciação de Jeová. ‘Não é a eles mesmos, para a vergonha das suas faces?’
+
+[[v24-7-20]]
+
+^<<v24-7-20,20>>^ Portanto, assim disse o Soberano Senhor Jeová: ‘Eis que se despeja a minha ira e o meu furor sobre este lugar, sobre o gênero humano^&#42;1^ e sobre o animal doméstico, e sobre a árvore do campo e sobre os frutos do solo; e terá de arder, e não se apagará.’
+
+[NOTE]
+====
+. Ou “o homem terreno”. Hebr.: ha·’a·dhám.
+====
+
+[[v24-7-21]]
+
+^<<v24-7-21,21>>^ “Assim disse Jeová dos exércitos, o Deus^&#42;1^ de Israel: ‘Acrescentai estes vossos holocaustos aos vossos sacrifícios e comei carne.
+
+[NOTE]
+====
+. Veja v. 3 n.
+====
+
+[[v24-7-22]]
+
+^<<v24-7-22,22>>^ Pois não falei com os vossos antepassados, nem lhes dei ordem, no dia em que os fiz sair da terra do Egito, a respeito dos assuntos do holocausto e do sacrifício.
+
+[[v24-7-23]]
+
+^<<v24-7-23,23>>^ Mas esta é a palavra que lhes dei como ordem, dizendo: “Obedecei à minha voz, e eu vou tornar-me vosso Deus, e vós mesmos vos tornareis meu povo; e tereis de andar em todo o caminho que eu vos ordenar, para que vos vá bem.”’
+
+[[v24-7-24]]
+
+^<<v24-7-24,24>>^ Mas eles não escutaram, nem inclinaram seu ouvido, mas foram andar nos conselhos da obstinação do seu mau coração, de modo que deram para trás e não foram para diante,
+
+[[v24-7-25]]
+
+^<<v24-7-25,25>>^ desde o dia em que os vossos antepassados saíram da terra do Egito até o dia de hoje; e eu continuei a enviar-vos todos os meus servos, os profetas, diariamente levantando-me cedo e enviando-os.
+
+[[v24-7-26]]
+
+^<<v24-7-26,26>>^ Mas não me escutaram e não inclinaram seu ouvido, mas continuaram a endurecer sua cerviz. Agiram pior do que os seus antepassados!
+
+[[v24-7-27]]
+
+^<<v24-7-27,27>>^ “E tens de falar-lhes todas estas palavras, mas não te escutarão; e tens de chamá-los, mas não te responderão.
+
+[[v24-7-28]]
+
+^<<v24-7-28,28>>^ E tens de dizer-lhes: ‘Esta é a nação cujo povo não obedeceu à voz de Jeová, seu Deus, e que não aceitou a disciplina. Pereceu a fidelidade, e ela foi decepada da sua boca.’
+
+[[v24-7-29]]
+
+^<<v24-7-29,29>>^ “Raspa o teu^&#42;1^ cabelo não cortado^&#42;2^ e lança-o fora, e levanta uma endecha sobre os morros calvos, pois Jeová rejeitou e abandonará a geração com a qual está furioso.^&#42;3^
+
+[NOTE]
+====
+. “Teu”, hebr. fem. sing., dirigido a Sião ou Jerusalém.
+. “Teu cabelo não cortado (dedicado).” Hebr.: niz·rékh.
+. Lit.: “geração de sua fúria”.
+====
+
+[[v24-7-30]]
+
+^<<v24-7-30,30>>^ ‘Pois os filhos de Judá fizeram o que é mau aos meus olhos’, é a pronunciação de Jeová. ‘Colocaram as suas coisas repugnantes na casa sobre a qual se invocou meu nome, para a aviltarem.
+
+[[v24-7-31]]
+
+^<<v24-7-31,31>>^ E construíram os altos de Tofete, que está no vale do filho de Hinom,^&#42;1^ para queimarem no fogo a seus filhos e suas filhas, coisa que eu não havia ordenado e que não me havia subido ao coração.’
+
+[NOTE]
+====
+. “No vale do filho de Hinom.” Hebr.: beghéh’ ven-Hin·nóm; gr.: en fá·rag·gi hui·oú En·nóm; lat.: in vál·le fí·li·i Én·nom. Veja Ap. 4C.
+====
+
+[[v24-7-32]]
+
+^<<v24-7-32,32>>^ “‘Portanto, eis que vêm dias’, é a pronunciação de Jeová, ‘em que não mais se dirá [que é] Tofete e o vale do filho de Hinom, mas o vale da matança; e terá de se fazer o sepultamento em Tofete sem haver bastante lugar.^&#42;1^
+
+[NOTE]
+====
+. Ou “por não haver [outro] lugar”.
+====
+
+[[v24-7-33]]
+
+^<<v24-7-33,33>>^ E os cadáveres deste povo terão de tornar-se comida para as criaturas voadoras dos céus e para os animais da terra, sem que alguém [os] faça tremer.
+
+[[v24-7-34]]
+
+^<<v24-7-34,34>>^ E eu vou fazer cessar nas cidades de Judá e nas ruas de Jerusalém a voz de exultação e a voz de alegria, a voz do noivo e a voz da noiva; porque a terra se tornará nada mais que um lugar devastado.’”
+
+'''
+
+xref:024-jeremias/024-jeremias-006.adoc#v24-6-0[&#60; Capítulo Anterior] | <<v24-7-0,Topo>> | xref:024-jeremias/024-jeremias-008.adoc#v24-8-0[Próximo Capítulo &#62;]

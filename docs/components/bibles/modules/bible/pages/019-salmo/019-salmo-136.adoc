@@ -1,0 +1,174 @@
+include::./index.adoc[]
+
+[[v19-136-0]]
+=== Salmos, 136
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-136-1]]
+
+^<<v19-136-1,1>>^ Agradecei a Jeová, porque ele é bom:
+Pois a sua benevolência^&#42;1^ é por tempo indefinido;
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-136-2]]
+
+^<<v19-136-2,2>>^ Agradecei ao Deus dos deuses:^&#42;1^
+Pois a sua benevolência é por tempo indefinido;
+
+[NOTE]
+====
+. “Ao Deus dos deuses.” Hebr.: l·E’·lo·héh ha·’elo·hím; gr.: toi The·oí ton the·ón.
+====
+
+[[v19-136-3]]
+
+^<<v19-136-3,3>>^ Agradecei ao Senhor dos senhores:^&#42;1^
+Pois a sua benevolência é por tempo indefinido;
+
+[NOTE]
+====
+. “Ao Senhor dos senhores.” Hebr.: la·’Adho·néh (pl. para denotar excelência) ha·’adho·ním (pl. numérico). Veja Ge 39:2 n.
+====
+
+[[v19-136-4]]
+
+^<<v19-136-4,4>>^ Àquele que sozinho fez coisas maravilhosas, grandes:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-5]]
+
+^<<v19-136-5,5>>^ Àquele que com entendimento fez os céus:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-6]]
+
+^<<v19-136-6,6>>^ Àquele que estirou^&#42;1^ a terra acima das águas:
+Pois a sua benevolência é por tempo indefinido;
+
+[NOTE]
+====
+. Ou “esticou”, como que por bater.
+====
+
+[[v19-136-7]]
+
+^<<v19-136-7,7>>^ Àquele que fez as grandes luzes:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-8]]
+
+^<<v19-136-8,8>>^ Até mesmo o sol para o domínio de dia:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-9]]
+
+^<<v19-136-9,9>>^ A lua e as estrelas para o domínio conjunto^&#42;1^ de noite:
+Pois a sua benevolência é por tempo indefinido;
+
+[NOTE]
+====
+. “Para o domínio conjunto.” Lit.: “para domínios”.
+====
+
+[[v19-136-10]]
+
+^<<v19-136-10,10>>^ Àquele que golpeou o Egito nos seus primogênitos:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-11]]
+
+^<<v19-136-11,11>>^ E Àquele que fez Israel sair do meio deles:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-12]]
+
+^<<v19-136-12,12>>^ Por mão forte e por um braço estendido:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-13]]
+
+^<<v19-136-13,13>>^ Àquele que cortou o Mar Vermelho em pedaços:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-14]]
+
+^<<v19-136-14,14>>^ E que fez Israel passar pelo meio dele:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-15]]
+
+^<<v19-136-15,15>>^ E que se desembaraçou de Faraó e da sua força militar dentro do Mar Vermelho:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-16]]
+
+^<<v19-136-16,16>>^ Àquele que fez seu povo andar pelo ermo:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-17]]
+
+^<<v19-136-17,17>>^ Àquele que golpeou grandes reis:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-18]]
+
+^<<v19-136-18,18>>^ E que passou a matar reis majestosos:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-19]]
+
+^<<v19-136-19,19>>^ Mesmo a Síon, rei dos amorreus:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-20]]
+
+^<<v19-136-20,20>>^ E a Ogue, rei de Basã:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-21]]
+
+^<<v19-136-21,21>>^ E que entregou a terra deles por herança:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-22]]
+
+^<<v19-136-22,22>>^ Por herança a Israel, seu servo:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-23]]
+
+^<<v19-136-23,23>>^ Que se lembrou de nós na nossa condição rebaixada:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-24]]
+
+^<<v19-136-24,24>>^ E que repetidamente nos arrancou dos nossos adversários:
+Pois a sua benevolência é por tempo indefinido;
+
+[[v19-136-25]]
+
+^<<v19-136-25,25>>^ Aquele que dá alimento^&#42;1^ a toda a carne:
+Pois a sua benevolência é por tempo indefinido;
+
+[NOTE]
+====
+. Lit.: “pão”.
+====
+
+[[v19-136-26]]
+
+^<<v19-136-26,26>>^ Agradecei ao Deus^&#42;1^ dos céus:
+Pois a sua benevolência é por tempo indefinido.
+
+[NOTE]
+====
+. “Ao Deus dos.” Hebr.: le’Él.
+====
+
+'''
+
+xref:019-salmo/019-salmo-135.adoc#v19-135-0[&#60; Capítulo Anterior] | <<v19-136-0,Topo>> | xref:019-salmo/019-salmo-137.adoc#v19-137-0[Próximo Capítulo &#62;]

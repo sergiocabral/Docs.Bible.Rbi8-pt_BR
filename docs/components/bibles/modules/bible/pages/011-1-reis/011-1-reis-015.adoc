@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v11-15-0]]
+=== 1 Reis, 15
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v11-15-1]]
+
+^<<v11-15-1,1>>^ E no décimo oitavo ano do Rei Jeroboão, filho de Nebate, Abijão tornou-se rei sobre Judá.
+
+[[v11-15-2]]
+
+^<<v11-15-2,2>>^ Reinou três anos em Jerusalém; e o nome de sua mãe era Maacá, neta^&#42;1^ de Abisalão.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “filha”. Hebr.: bath. Veja 2Cr 13:1, 2.
+. “Absalão” em 2Cr 11:20, 21.
+====
+
+[[v11-15-3]]
+
+^<<v11-15-3,3>>^ E ele prosseguiu andando em todos os pecados de seu pai, que este cometera antes dele; e seu coração não se mostrou pleno para com Jeová, seu Deus, tal como o coração de Davi, seu antepassado.
+
+[[v11-15-4]]
+
+^<<v11-15-4,4>>^ Pois, por causa de Davi, Jeová, seu Deus, deu-lhe uma lâmpada em Jerusalém, suscitando seu filho após ele e mantendo Jerusalém em existência,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “fazendo Jerusalém ficar de pé”. Veja Êx 9:16.
+====
+
+[[v11-15-5]]
+
+^<<v11-15-5,5>>^ porque Davi fez o que era direito aos olhos de Jeová e não se desviou daquilo que Ele lhe tinha ordenado, todos os dias da sua vida, exceto no assunto de Urias, o hitita.
+
+[[v11-15-6]]
+
+^<<v11-15-6,6>>^ E sucedeu haver mesmo guerra entre Roboão^&#42;1^ e Jeroboão todos os dias da sua vida.
+
+[NOTE]
+====
+. “Roboão”, MVg; 12 mss. hebr.: “Abijão (Abias)”; Sy: “Abias, filho de Roboão”.
+====
+
+[[v11-15-7]]
+
+^<<v11-15-7,7>>^ Quanto ao resto dos assuntos de Abijão e tudo o que ele fez, não estão escritos no livro dos assuntos dos dias dos reis de Judá? Sucedeu haver também guerra entre Abijão e Jeroboão.
+
+[[v11-15-8]]
+
+^<<v11-15-8,8>>^ Por fim, Abijão deitou-se com os seus antepassados, e enterraram-no na Cidade de Davi; e Asa, seu filho, começou a reinar em seu lugar.
+
+[[v11-15-9]]
+
+^<<v11-15-9,9>>^ No vigésimo ano de Jeroboão, rei de Israel, Asa reinou como rei de Judá.
+
+[[v11-15-10]]
+
+^<<v11-15-10,10>>^ E reinou quarenta e um anos em Jerusalém; e o nome de sua avó^&#42;1^ era Maacá, neta de Abisalão.
+
+[NOTE]
+====
+. Lit.: “de sua mãe”. Hebr.: ’im·móh.
+====
+
+[[v11-15-11]]
+
+^<<v11-15-11,11>>^ E Asa passou a fazer o que era direito aos olhos de Jeová, igual a Davi, seu antepassado.
+
+[[v11-15-12]]
+
+^<<v11-15-12,12>>^ Conseqüentemente, fez os homens que se prostituíam no serviço dum templo passar para fora do país e removeu todos os ídolos sórdidos que seus antepassados haviam feito.
+
+[[v11-15-13]]
+
+^<<v11-15-13,13>>^ Quanto a Maacá, sua avó, passou a removê-la de [ser] senhora, porque ela tinha feito um ídolo horrível ao poste sagrado; depois, Asa decepou o ídolo horrível dela e o queimou no vale da torrente do Cédron.
+
+[[v11-15-14]]
+
+^<<v11-15-14,14>>^ E não removeu os altos. Não obstante, o próprio coração de Asa mostrou-se pleno para com Jeová em todos os seus dias.
+
+[[v11-15-15]]
+
+^<<v11-15-15,15>>^ E ele começou a levar para dentro da casa de Jeová as coisas tornadas sagradas por seu pai e as coisas que ele mesmo tornou sagradas, prata e ouro, e objetos.
+
+[[v11-15-16]]
+
+^<<v11-15-16,16>>^ E sucedeu haver mesmo guerra entre Asa e Baasa, rei de Israel, em todos os seus dias.
+
+[[v11-15-17]]
+
+^<<v11-15-17,17>>^ Subiu, pois, Baasa, rei de Israel, contra Judá e começou a construir Ramá, para não deixar ninguém sair nem entrar até Asa, rei de Judá.
+
+[[v11-15-18]]
+
+^<<v11-15-18,18>>^ Em vista disso, Asa tomou toda a prata e o ouro que tinham sobrado nos tesouros da casa de Jeová e os tesouros da casa do rei, e os pôs na mão dos seus servos; e o Rei Asa os enviou então a Ben-Hadade, filho de Tabrimom, filho de Heziom, rei da Síria, que morava em Damasco, dizendo:
+
+[[v11-15-19]]
+
+^<<v11-15-19,19>>^ “Há um pacto entre mim e ti, entre meu pai e teu pai. Eis que te enviei um presente de prata e de ouro. Vem, rompe o teu pacto com Baasa, rei de Israel, para que se retire de mim.”
+
+[[v11-15-20]]
+
+^<<v11-15-20,20>>^ Por conseguinte, Ben-Hadade escutou o Rei Asa e enviou os chefes das suas forças militares contra as cidades de Israel e foi golpear Ijom, e Dã, e Abel-Bete-Maacá, e todo o Quinerete, até toda a terra de Naftali.
+
+[[v11-15-21]]
+
+^<<v11-15-21,21>>^ E sucedeu que, assim que Baasa ouviu isso, deixou imediatamente de construir Ramá e continuou a morar em Tirza.
+
+[[v11-15-22]]
+
+^<<v11-15-22,22>>^ E o Rei Asa, da sua parte, convocou todo o Judá — não se isentando a ninguém — e passaram a carregar as pedras de Ramá e as madeiras dela com que Baasa estivera construindo; e o Rei Asa começou a construir com elas a Geba, em Benjamim, e a Mispá.
+
+[[v11-15-23]]
+
+^<<v11-15-23,23>>^ Quanto ao resto de todos os assuntos de Asa e toda a sua potência, e tudo o que ele fez, e as cidades que construiu, não estão escritos no livro dos assuntos dos dias dos reis de Judá? Somente no tempo da sua velhice ficou doente dos pés.
+
+[[v11-15-24]]
+
+^<<v11-15-24,24>>^ Por fim, Asa deitou-se com os seus antepassados e foi enterrado com os seus antepassados na Cidade de Davi, seu antepassado; e Jeosafá, seu filho, começou a reinar em seu lugar.
+
+[[v11-15-25]]
+
+^<<v11-15-25,25>>^ Quanto a Nadabe, filho de Jeroboão, tornou-se ele rei sobre Israel no segundo ano de Asa, rei de Judá; e ele continuou a reinar sobre Israel por dois anos.
+
+[[v11-15-26]]
+
+^<<v11-15-26,26>>^ E fazia o que era mau aos olhos de Jeová, e andava no caminho de seu pai e no seu pecado com que fez Israel pecar.
+
+[[v11-15-27]]
+
+^<<v11-15-27,27>>^ E Baasa, filho de Aijá, da casa de Issacar, começou a conspirar contra ele; e Baasa foi golpeá-lo em Gibetom, que pertencia aos filisteus, enquanto Nadabe e todo o Israel sitiavam a Gibetom.
+
+[[v11-15-28]]
+
+^<<v11-15-28,28>>^ De modo que Baasa o entregou à morte no terceiro ano de Asa, rei de Judá, e começou a reinar em seu lugar.
+
+[[v11-15-29]]
+
+^<<v11-15-29,29>>^ E sucedeu que, assim que se tornou rei, golpeou toda a casa de Jeroboão. Não deixou restar de Jeroboão quem respirasse,^&#42;1^ até que os tinha aniquilado, segundo a palavra de Jeová, que ele falara por intermédio do seu servo Aijá, o silonita,
+
+[NOTE]
+====
+. Lit.: “todo fôlego”, MLXX.
+====
+
+[[v11-15-30]]
+
+^<<v11-15-30,30>>^ por causa dos pecados de Jeroboão com que pecara e com que fizera Israel pecar, [e] pela sua ofensa que ofendera a Jeová, o Deus de Israel.
+
+[[v11-15-31]]
+
+^<<v11-15-31,31>>^ Quanto ao resto dos assuntos de Nadabe e tudo o que ele fez, não estão escritos no livro dos assuntos dos dias dos reis de Israel?
+
+[[v11-15-32]]
+
+^<<v11-15-32,32>>^ E sucedeu haver mesmo guerra entre Asa e Baasa, rei de Israel, em todos os seus dias.
+
+[[v11-15-33]]
+
+^<<v11-15-33,33>>^ No terceiro ano de Asa, rei de Judá, Baasa, filho de Aijá, tornou-se rei sobre todo o Israel em Tirza, por vinte e quatro anos.
+
+[[v11-15-34]]
+
+^<<v11-15-34,34>>^ E ele fazia o que era mau aos olhos de Jeová e andava no caminho de Jeroboão e no seu pecado com que fez Israel pecar.
+
+'''
+
+xref:011-1-reis/011-1-reis-014.adoc#v11-14-0[&#60; Capítulo Anterior] | <<v11-15-0,Topo>> | xref:011-1-reis/011-1-reis-016.adoc#v11-16-0[Próximo Capítulo &#62;]

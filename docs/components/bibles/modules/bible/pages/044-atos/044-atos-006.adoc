@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v44-6-0]]
+=== Atos, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v44-6-1]]
+
+^<<v44-6-1,1>>^ Ora, naqueles dias, aumentando os discípulos, surgiram resmungos da parte dos judeus que falavam grego^&#42;1^ contra os judeus que falavam hebraico,^&#42;2^ porque as suas viúvas estavam sendo passadas por alto na distribuição^&#42;3^ diária.
+
+[NOTE]
+====
+. Lit.: “dos helenistas”. Gr.: ton Hel·le·ni·stón; lat.: Grae·có·rum.
+. Lit.: “os hebreus”. Gr.: tous E·braí·ous; lat.: He·braé·os.
+. Ou “na ministração”. Gr.: en tei di·a·ko·ní·ai; lat.: in mi·ni·sté·ri·o.
+====
+
+[[v44-6-2]]
+
+^<<v44-6-2,2>>^ De modo que os doze chamaram a si a multidão dos discípulos e disseram: “Não é agradável que deixemos a palavra de Deus para distribuir [comida]^&#42;1^ às mesas.
+
+[NOTE]
+====
+. Ou “para ministrar”. Gr.: di·a·ko·neín; lat.: mi·ni·strá·re.
+====
+
+[[v44-6-3]]
+
+^<<v44-6-3,3>>^ Portanto, irmãos, procurai vós mesmos, dentre vós, sete homens acreditados, cheios de espírito e de sabedoria, para que os possamos designar para esta incumbência necessária;
+
+[[v44-6-4]]
+
+^<<v44-6-4,4>>^ mas, nós mesmos nos devotaremos à oração e ao ministério da palavra.”
+
+[[v44-6-5]]
+
+^<<v44-6-5,5>>^ E a palavra falada agradou a toda a multidão, e selecionaram Estêvão, homem cheio de fé e espírito santo, e Filipe, e Prócoro, e Nicanor, e Timão, e Pármenas, e Nicolau, prosélito de Antioquia;
+
+[[v44-6-6]]
+
+^<<v44-6-6,6>>^ e puseram-nos diante dos apóstolos, e, depois de terem orado, estes puseram as suas mãos sobre eles.
+
+[[v44-6-7]]
+
+^<<v44-6-7,7>>^ Conseqüentemente, a palavra de Deus crescia e o número dos discípulos multiplicava-se grandemente em Jerusalém; e uma grande multidão de sacerdotes começou a ser obediente à fé.
+
+[[v44-6-8]]
+
+^<<v44-6-8,8>>^ Ora, Estêvão, cheio de graça e de poder, realizava grandes portentos e sinais entre o povo.
+
+[[v44-6-9]]
+
+^<<v44-6-9,9>>^ Mas, levantaram-se certos homens da chamada Sinagoga dos Libertos,^&#42;1^ e dos cireneus e alexandrinos, e dos de Cilícia e Ásia, para discutirem com Estêvão;
+
+[NOTE]
+====
+. Lit.: “Libertos; Alforriados.” Arm: “Líbios”.
+====
+
+[[v44-6-10]]
+
+^<<v44-6-10,10>>^ contudo, não podiam fazer face à sabedoria e ao espírito com que ele falava.
+
+[[v44-6-11]]
+
+^<<v44-6-11,11>>^ Induziram então secretamente uns homens a dizer: “Nós o ouvimos falar declarações blasfemas contra Moisés e Deus.”
+
+[[v44-6-12]]
+
+^<<v44-6-12,12>>^ E atiçaram o povo, e os anciãos,^&#42;1^ e os escribas, e, vindo contra ele repentinamente, tomaram-no à força e o conduziram ao Sinédrio.
+
+[NOTE]
+====
+. “Anciãos.” Gr.: pre·sby·té·rous.
+====
+
+[[v44-6-13]]
+
+^<<v44-6-13,13>>^ E apresentaram testemunhas falsas, que diziam: “Este homem não pára de falar coisas contra este santo lugar e contra a Lei.
+
+[[v44-6-14]]
+
+^<<v44-6-14,14>>^ Por exemplo, nós o ouvimos dizer que esse Jesus, o nazareno, derrubará este lugar e mudará os costumes que Moisés nos transmitiu.”
+
+[[v44-6-15]]
+
+^<<v44-6-15,15>>^ E, enquanto todos os sentados no Sinédrio fitavam os olhos nele, viram que o seu rosto era como o rosto dum anjo.
+
+'''
+
+xref:044-atos/044-atos-005.adoc#v44-5-0[&#60; Capítulo Anterior] | <<v44-6-0,Topo>> | xref:044-atos/044-atos-007.adoc#v44-7-0[Próximo Capítulo &#62;]

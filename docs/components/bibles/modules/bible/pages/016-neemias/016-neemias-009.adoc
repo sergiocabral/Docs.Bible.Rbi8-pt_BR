@@ -1,0 +1,221 @@
+include::./index.adoc[]
+
+[[v16-9-0]]
+=== Neemias, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v16-9-1]]
+
+^<<v16-9-1,1>>^ E no vigésimo quarto dia deste mês, os filhos de Israel se ajuntaram com jejum, e com serapilheira, e com terra sobre si.
+
+[[v16-9-2]]
+
+^<<v16-9-2,2>>^ E a descendência de Israel passou a separar-se de todos os estrangeiros,^&#42;1^ e a ficar de pé e a fazer confissão dos seus próprios pecados e dos erros de seus pais.
+
+[NOTE]
+====
+. Lit.: “filhos dum (país) estrangeiro”.
+====
+
+[[v16-9-3]]
+
+^<<v16-9-3,3>>^ Então se levantaram no seu lugar e leram alto do livro da lei de Jeová, seu Deus, por uma quarta parte do dia; e por uma quarta parte faziam confissão e se curvavam diante de Jeová, seu Deus.
+
+[[v16-9-4]]
+
+^<<v16-9-4,4>>^ E Jesua e Bani, Cadmiel, Sebanias, Buni, Serebias, Bani [e] Quenani passaram a levantar-se no palanque dos levitas e a clamar com alta voz a Jeová, seu Deus.
+
+[[v16-9-5]]
+
+^<<v16-9-5,5>>^ E os levitas Jesua e Cadmiel, Bani, Hasabnéias, Serebias, Hodias, Sebanias [e] Petaías prosseguiram, dizendo: “Levantai-vos, bendizei a Jeová, vosso Deus, de tempo indefinido a tempo indefinido. E bendigam o teu glorioso nome, que é enaltecido acima de toda bênção e louvor.
+
+[[v16-9-6]]
+
+^<<v16-9-6,6>>^ “Só tu és Jeová; tu mesmo fizeste os céus, [sim,] o céu dos céus e todo o seu exército, a terra e tudo o que há sobre ela, os mares e tudo o que há neles; e tu preservas vivos a todos eles; e o exército dos céus se curva diante de ti.
+
+[[v16-9-7]]
+
+^<<v16-9-7,7>>^ Tu és Jeová, o [verdadeiro] Deus, que escolheste a Abrão e o fizeste sair de Ur dos Caldeus e lhe puseste o nome de Abraão.
+
+[[v16-9-8]]
+
+^<<v16-9-8,8>>^ E achaste seu coração fiel diante de ti; de modo que se celebrou^&#42;1^ com ele o pacto de [lhe] dar a terra dos cananeus, dos hititas, dos amorreus e dos perizeus, e dos jebuseus, e dos girgaseus, a fim de [a] dar à sua descendência; e passaste a cumprir as tuas palavras porque és justo.
+
+[NOTE]
+====
+. “Se celebrou.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v16-9-9]]
+
+^<<v16-9-9,9>>^ “Portanto, viste a tribulação de nossos antepassados no Egito e ouviste seu clamor junto ao Mar Vermelho.
+
+[[v16-9-10]]
+
+^<<v16-9-10,10>>^ Deste então sinais e milagres contra Faraó e todos os seus servos, e todo o povo da sua terra, pois sabias que agiram presunçosamente contra ti; e passaste a fazer para ti um nome como no dia de hoje.
+
+[[v16-9-11]]
+
+^<<v16-9-11,11>>^ E partiste o mar diante deles, de modo que passaram pelo meio do mar em terra seca; e aos seus perseguidores lançaste nas profundidades como uma pedra em águas potentes.
+
+[[v16-9-12]]
+
+^<<v16-9-12,12>>^ E guiaste-os de dia por uma coluna de nuvem e de noite por uma coluna de fogo, para iluminar-lhes o caminho em que deviam andar.
+
+[[v16-9-13]]
+
+^<<v16-9-13,13>>^ E desceste sobre o monte Sinai e falaste com eles desde o céu, e prosseguiste a dar-lhes decisões judiciais retas e leis de verdade, regulamentos e mandamentos bons.
+
+[[v16-9-14]]
+
+^<<v16-9-14,14>>^ E deste-lhes a conhecer teu santo sábado e ordenaste-lhes mandamentos, e regulamentos, e uma lei, por intermédio de Moisés, teu servo.
+
+[[v16-9-15]]
+
+^<<v16-9-15,15>>^ E deste-lhes pão desde o céu para a sua fome e fizeste-lhes sair águas do rochedo para a sua sede, e prosseguiste, dizendo-lhes que entrassem e se apossassem da terra a respeito da qual ergueste tua mão [em juramento] de dá-la a eles.
+
+[[v16-9-16]]
+
+^<<v16-9-16,16>>^ “E eles mesmos, sim, nossos antepassados, agiram presunçosamente e passaram a endurecer sua cerviz, e não escutaram teus mandamentos.
+
+[[v16-9-17]]
+
+^<<v16-9-17,17>>^ Negaram-se, pois, a escutar e não se lembraram dos teus atos maravilhosos que realizaste com eles, mas endureceram a sua cerviz e designaram um cabeça para retornar à sua servidão no Egito.^&#42;1^ Tu, porém, és um Deus^&#42;2^ de atos de perdão, clemente e misericordioso, vagaroso em irar-se e abundante em benevolência, e não os abandonaste.
+
+[NOTE]
+====
+. “No Egito”, LXX e alguns mss. hebr.; M: “na sua rebelião”.
+. “Um Deus.” Hebr.: ’Elóh·ah, sing. de ’Elo·hím.
+====
+
+[[v16-9-18]]
+
+^<<v16-9-18,18>>^ Sim, quando fizeram para si a estátua fundida dum bezerro e começaram a dizer: ‘Este é o teu Deus^&#42;1^ que te fez subir do Egito’, e passaram a cometer grandes atos de desrespeito,
+
+[NOTE]
+====
+. “Teu Deus.” Hebr.: ’elo·heí·kha, pl., para denotar excelência, porque o pronome demonstrativo zeh, “este”, e o verbo he·‛el·khá, “te fez subir”, são sing., mostrando que “Deus” é sing.; gr.: hoi the·oí, “deuses”; lat.: Dé·us tú·us, “teu Deus”. Veja Êx 32:4 n.: “Deus”.
+====
+
+[[v16-9-19]]
+
+^<<v16-9-19,19>>^ tu, sim, tu, na tua abundante misericórdia, não os abandonaste no ermo. A própria coluna de nuvem não se afastou de cima deles de dia, para guiá-los no caminho, nem a coluna de fogo de noite, para iluminar-lhes o caminho em que deviam andar.
+
+[[v16-9-20]]
+
+^<<v16-9-20,20>>^ E deste-lhes o teu bom espírito para fazê-los circunspetos, e não negaste teu maná à sua boca, e deste-lhes água para a sua sede.
+
+[[v16-9-21]]
+
+^<<v16-9-21,21>>^ E por quarenta anos lhes proveste alimento no ermo. Não careceram de nada. Seus próprios mantos não se gastaram e os próprios pés deles não ficaram inchados.
+
+[[v16-9-22]]
+
+^<<v16-9-22,22>>^ “E passaste a dar-lhes reinos e povos, e a repartir estes pedaço por pedaço; de modo que tomaram posse da terra de Síon, sim, da terra do rei de Hésbon, e da terra de Ogue, rei de Basã.
+
+[[v16-9-23]]
+
+^<<v16-9-23,23>>^ E fizeste seus filhos tantos quantas as estrelas dos céus. Então os levaste à terra de que prometeste aos seus antepassados que entrariam [nela] para tomar posse.
+
+[[v16-9-24]]
+
+^<<v16-9-24,24>>^ De modo que seus filhos entraram e tomaram posse da terra, e passaste a subjugar diante deles os habitantes do país, os cananeus, e a entregá-los na sua mão, mesmo os seus reis e os povos da terra, para que fizessem com eles segundo o seu bel-prazer.
+
+[[v16-9-25]]
+
+^<<v16-9-25,25>>^ E foram capturar cidades fortificadas e solo gordo, e tomar posse de casas cheias de todas as coisas boas, de cisternas escavadas, de vinhedos e de olivais, e de árvores para alimento em abundância, e começaram a comer, e a fartar-se, e a engordar, e a deleitar-se na tua grande bondade.
+
+[[v16-9-26]]
+
+^<<v16-9-26,26>>^ “Todavia, ficaram desobedientes e rebelaram-se contra ti, e persistiram em lançar a tua lei atrás das suas costas, e mataram os teus próprios profetas que testificaram contra eles para trazê-los de volta a ti; e eles prosseguiram cometendo atos de grande desrespeito.
+
+[[v16-9-27]]
+
+^<<v16-9-27,27>>^ Por causa disso os entregaste na mão dos seus adversários, os quais lhes causavam aflição; mas no tempo da sua aflição clamavam a ti e tu mesmo os ouvias desde os próprios céus; e segundo a tua abundante misericórdia lhes davas salvadores que os salvavam da mão dos seus adversários.
+
+[[v16-9-28]]
+
+^<<v16-9-28,28>>^ “Mas assim que tinham descanso, voltavam a fazer o que era mau diante de ti, e tu os abandonavas na mão de seus inimigos, os quais os espezinhavam. Então retornavam e clamavam por socorro, e tu mesmo ouvias desde os próprios céus e os livravas de acordo com a tua abundante misericórdia, vez após vez.
+
+[[v16-9-29]]
+
+^<<v16-9-29,29>>^ Embora testificasses contra eles, a fim de trazê-los de volta à tua lei, eles mesmos agiram até mesmo presunçosamente e não escutaram os teus mandamentos; e pecaram contra as tuas próprias decisões judiciais, as quais, praticando-as o homem,^&#42;1^ ele também tem de viver por meio delas.^&#42;2^ E persistiram em dar um ombro obstinado e endureceram a sua cerviz, e não escutaram.
+
+[NOTE]
+====
+. Ou “o homem terreno”. Hebr.: ’a·dhám.
+. Ou “viver nelas”.
+====
+
+[[v16-9-30]]
+
+^<<v16-9-30,30>>^ Mas tu foste indulgente para com eles por muitos anos e continuaste a testificar contra eles por teu espírito, por intermédio dos teus profetas, e eles não deram ouvidos. Por fim os entregaste na mão dos povos das terras.
+
+[[v16-9-31]]
+
+^<<v16-9-31,31>>^ E tu, na tua abundante misericórdia, não os exterminaste nem os abandonaste; pois és um Deus^&#42;1^ clemente e misericordioso.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v16-9-32]]
+
+^<<v16-9-32,32>>^ “E agora, ó nosso Deus, o Deus^&#42;1^ grande, poderoso e atemorizante,^&#42;2^ guardando o pacto e a benevolência,^&#42;3^ não deixes parecer pouco diante de ti toda a dificuldade que achou a nós, a nossos reis, a nossos príncipes, e a nossos sacerdotes, e a nossos profetas, e a nossos antepassados, e a todo o teu povo, desde os dias dos reis da Assíria até o dia de hoje.
+
+[NOTE]
+====
+. Ou “o [verdadeiro] Deus”. O título ’El é precedido pelo artigo definido hebr. ha, “o”, mas seguido pelas qualificações “grande, poderoso e atemorizante”. Veja Ap. 1G.
+. “E atemorizante (reverente).” Hebr.: wehan·noh·rá’.
+. Ou “amor leal”.
+====
+
+[[v16-9-33]]
+
+^<<v16-9-33,33>>^ E tu és justo no que se refere a tudo o que veio sobre nós, pois agiste fielmente, mas nós fomos os que agimos de modo iníquo.
+
+[[v16-9-34]]
+
+^<<v16-9-34,34>>^ Quanto a nossos reis, nossos príncipes, nossos sacerdotes e nossos antepassados, não praticaram a tua lei, nem prestaram atenção aos teus mandamentos ou aos teus testemunhos^&#42;1^ com que testificaste contra eles.
+
+[NOTE]
+====
+. Ou “advertências; exortações”.
+====
+
+[[v16-9-35]]
+
+^<<v16-9-35,35>>^ E eles mesmos — durante o seu^&#42;1^ reinado e no meio de tuas abundantes coisas boas que lhes deste, e na terra ampla e gorda que lhes fizeste disponível, não te serviram nem recuaram das suas práticas más.
+
+[NOTE]
+====
+. “Seu”, MVg; LXXSy e dois mss. hebr.: “teu”.
+====
+
+[[v16-9-36]]
+
+^<<v16-9-36,36>>^ Eis que hoje somos escravos; e quanto à terra que deste aos nossos antepassados para que comessem dos seus frutos e das suas coisas boas, eis que somos escravos nela,
+
+[[v16-9-37]]
+
+^<<v16-9-37,37>>^ e seus produtos abundam para os reis que puseste sobre nós por causa dos nossos pecados, e eles governam sobre os nossos corpos e sobre os nossos animais domésticos, segundo o seu bel-prazer, e estamos em grande aflição.^&#42;1^
+
+[NOTE]
+====
+. MLXX terminam aqui o capítulo.
+====
+
+[[v16-9-38]]
+
+^<<v16-9-38,38>>^ “Portanto, em vista de tudo isso, estamos pactuando^&#42;1^ um arranjo fidedigno, tanto por escrito como atestado pelo selo de nossos príncipes,^&#42;2^ nossos levitas [e] nossos sacerdotes.”
+
+[NOTE]
+====
+. Lit.: “cortando”.
+. Lit.: “como sobre o que foi selado [havia] os nossos príncipes”.
+====
+
+'''
+
+xref:016-neemias/016-neemias-008.adoc#v16-8-0[&#60; Capítulo Anterior] | <<v16-9-0,Topo>> | xref:016-neemias/016-neemias-010.adoc#v16-10-0[Próximo Capítulo &#62;]

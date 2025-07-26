@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v26-1-0]]
+=== Ezequiel, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v26-1-1]]
+
+^<<v26-1-1,1>>^ Ora, sucedeu no trigésimo ano, no quarto [mês], no quinto [dia] do mês, enquanto eu estava no meio do povo exilado junto ao rio Quebar, que se abriram os céus e comecei a ver visões de Deus.^&#42;1^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v26-1-2]]
+
+^<<v26-1-2,2>>^ No quinto [dia] do mês, isto é, [no] quinto ano de exílio do Rei Joaquim,^&#42;1^
+
+[NOTE]
+====
+. “Joaquim.” Hebr.: Yoh·ya·khín; gr.: I·o·a·kím.
+====
+
+[[v26-1-3]]
+
+^<<v26-1-3,3>>^ veio a haver a palavra de Jeová especificamente para Ezequiel, filho de Buzi, o sacerdote, na terra dos caldeus, junto ao rio Quebar, e naquele lugar veio a estar sobre ele a mão de Jeová.
+
+[[v26-1-4]]
+
+^<<v26-1-4,4>>^ E comecei a ver, e eis que havia um vento^&#42;1^ tempestuoso procedente do norte, uma grande massa de nuvens e um fogo cintilante, e havia ao redor dela^&#42;2^ uma claridade, e do meio dele^&#42;3^ procedia algo que tinha o aspecto de electro,^&#42;4^ do meio do fogo.
+
+[NOTE]
+====
+. “Vento.” Hebr.: rúahh. Veja Gên 1:2 n.: “ativa”.
+. “Dela”, no hebr. masc., referindo-se à “massa de nuvens”, hebr. masc.
+. “Dele”, no hebr. fem., evidentemente referindo-se ao “fogo”, hebr. fem.
+. Lit.: “o electro”. Hebr.: ha·hhash·mál; gr.: e·lék·trou; lat.: e·léc·tri. Trata-se duma liga brilhante de ouro e prata.
+====
+
+[[v26-1-5]]
+
+^<<v26-1-5,5>>^ E do meio dele procedia a semelhança de quatro criaturas viventes,^&#42;1^ e seu aspecto era o seguinte: elas tinham a semelhança de homem terreno.^&#42;2^
+
+[NOTE]
+====
+. Ou “formas; figuras”.
+. “Homem terreno.” Hebr.: ’a·dhám.
+====
+
+[[v26-1-6]]
+
+^<<v26-1-6,6>>^ E [cada] uma tinha quatro faces, e [cada] uma delas, quatro asas.
+
+[[v26-1-7]]
+
+^<<v26-1-7,7>>^ E seus pés eram pés retos e a planta de seus pés era como a planta do pé de um bezerro; e reluziam como que com o brilho^&#42;1^ de cobre brunido.
+
+[NOTE]
+====
+. Lit.: “como o olho de”. Hebr.: ke‛éhn.
+====
+
+[[v26-1-8]]
+
+^<<v26-1-8,8>>^ E havia mãos de homem^&#42;1^ debaixo das suas asas nos seus quatro lados, e as quatro tinham suas faces e suas asas.
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v26-1-9]]
+
+^<<v26-1-9,9>>^ Suas asas estavam unidas umas às outras. Não se viravam ao irem; cada uma ia diretamente para a frente.
+
+[[v26-1-10]]
+
+^<<v26-1-10,10>>^ E quanto à semelhança das suas faces, as quatro tinham uma face de homem, com uma face de leão à direita, e as quatro tinham uma face de touro à esquerda; as quatro tinham também uma face de águia.
+
+[[v26-1-11]]
+
+^<<v26-1-11,11>>^ Assim eram as suas faces. E suas asas separavam-se para cima. Cada uma tinha duas unidas entre si e duas cobrindo seu corpo.
+
+[[v26-1-12]]
+
+^<<v26-1-12,12>>^ E cada uma delas ia diretamente para a frente. Elas iam aonde quer que o espírito^&#42;1^ se inclinava a ir. Não se viravam ao irem.
+
+[NOTE]
+====
+. “O espírito.” Hebr.: ha·rú·ahh; gr.: pneú·ma; lat.: spí·ri·tus. Veja v. 4 n.: “vento”.
+====
+
+[[v26-1-13]]
+
+^<<v26-1-13,13>>^ E quanto à semelhança das criaturas viventes,^&#42;1^ seu aspecto era como o de brasas de fogo. Algo como a aparência de tochas movia-se para lá e para cá entre as criaturas viventes, e o fogo era resplendente, e do fogo procediam relâmpagos.
+
+[NOTE]
+====
+. “Das criaturas viventes.” Hebr.: ha·hhai·yóhth, fem. pl.; gr.: zoí·on, a mesma palavra que em Re 4:6-9; lat.: a·ni·má·li·um.
+====
+
+[[v26-1-14]]
+
+^<<v26-1-14,14>>^ E da parte das criaturas viventes, saíam correndo e retornavam com o aspecto de relâmpagos.
+
+[[v26-1-15]]
+
+^<<v26-1-15,15>>^ Enquanto eu via as criaturas viventes, ora, eis que havia uma só roda na terra ao lado das criaturas viventes, junto às quatro faces de cada uma.
+
+[[v26-1-16]]
+
+^<<v26-1-16,16>>^ Quanto ao aspecto das rodas e da sua estrutura, era como o brilho de crisólito; e as quatro tinham uma só semelhança. E seu aspecto e sua estrutura eram como quando uma roda mostra estar no meio^&#42;1^ de uma roda.
+
+[NOTE]
+====
+. Possivelmente centrada em ângulo reto no mesmo eixo.
+====
+
+[[v26-1-17]]
+
+^<<v26-1-17,17>>^ Quando iam, iam pelos seus quatro lados respectivos.^&#42;1^ Não se viravam para outro lado ao irem.
+
+[NOTE]
+====
+. Ou “para as suas quatro direções”.
+====
+
+[[v26-1-18]]
+
+^<<v26-1-18,18>>^ E quanto às suas cambotas, eram de tal altura que metiam medo; e suas cambotas estavam cheias de olhos ao redor das quatro.
+
+[[v26-1-19]]
+
+^<<v26-1-19,19>>^ E quando as criaturas viventes iam, as rodas iam ao lado delas, e quando as criaturas viventes se elevavam da terra, as rodas se elevavam.
+
+[[v26-1-20]]
+
+^<<v26-1-20,20>>^ Iam aonde quer que o espírito se inclinava a ir, [inclinando-se] o espírito a ir para lá; e as próprias rodas se elevavam bem ao lado delas, porque o espírito da criatura vivente estava nas rodas.
+
+[[v26-1-21]]
+
+^<<v26-1-21,21>>^ Quando iam, estas iam; e quando paravam, estas paravam; e quando se elevavam da terra, as rodas se elevavam bem ao lado delas, porque o espírito da criatura vivente estava nas rodas.
+
+[[v26-1-22]]
+
+^<<v26-1-22,22>>^ E sobre as cabeças das criaturas viventes havia a semelhança duma expansão igual à cintilação de gelo que mete medo, estendida acima das suas cabeças.
+
+[[v26-1-23]]
+
+^<<v26-1-23,23>>^ E debaixo da expansão, suas asas eram retas, uma em direção à outra. Cada uma tinha duas asas cobrindo este lado e cada uma tinha duas cobrindo aquele lado do seu corpo.
+
+[[v26-1-24]]
+
+^<<v26-1-24,24>>^ E eu estava ouvindo o ruído de suas asas quando iam, um ruído igual ao de vastas águas, igual ao som do Todo-poderoso, o ruído dum tumulto, igual ao ruído dum acampamento. Quando paravam, abaixavam as suas asas.
+
+[[v26-1-25]]
+
+^<<v26-1-25,25>>^ E veio a haver uma voz acima da expansão que havia sobre a sua cabeça. (Quando paravam, abaixavam as suas asas.)
+
+[[v26-1-26]]
+
+^<<v26-1-26,26>>^ E acima da expansão que havia sobre a sua cabeça havia algo da aparência de pedra de safira, a semelhança dum trono. E sobre a semelhança do trono havia nele, por cima, a semelhança de alguém com aspecto de homem terreno.
+
+[[v26-1-27]]
+
+^<<v26-1-27,27>>^ E eu estava vendo algo semelhante ao brilho de electro, semelhante ao aspecto do fogo, em todo o redor, por dentro, da aparência dos seus quadris para cima; e da aparência dos seus quadris para baixo vi algo semelhante ao aspecto do fogo, e ele tinha uma claridade em todo o redor.
+
+[[v26-1-28]]
+
+^<<v26-1-28,28>>^ Havia algo semelhante ao aspecto do arco que vem a haver numa massa de nuvens no dia duma chuvada. Assim era a aparência da claridade ao redor. Tinha o aspecto da semelhança da glória de Jeová. Quando cheguei a ver [isto], então me lancei com a face [por terra] e comecei a ouvir a voz de alguém falando.
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-005.adoc#v25-5-0[&#60; Capítulo Anterior] | <<v26-1-0,Topo>> | xref:026-ezequiel/026-ezequiel-002.adoc#v26-2-0[Próximo Capítulo &#62;]

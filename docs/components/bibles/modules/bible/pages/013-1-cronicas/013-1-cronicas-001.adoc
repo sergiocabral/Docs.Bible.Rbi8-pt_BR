@@ -1,0 +1,312 @@
+include::./index.adoc[]
+
+[[v13-1-0]]
+=== 1 Crônicas, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v13-1-1]]
+
+^<<v13-1-1,1>>^ Adão,
+Sete,
+Enos,
+
+[[v13-1-2]]
+
+^<<v13-1-2,2>>^ Quenã,
+Malalel,
+Jarede,
+
+[[v13-1-3]]
+
+^<<v13-1-3,3>>^ Enoque,
+Metusalém,
+Lameque,
+
+[[v13-1-4]]
+
+^<<v13-1-4,4>>^ Noé,
+Sem, Cã e Jafé.
+
+[[v13-1-5]]
+
+^<<v13-1-5,5>>^ Os filhos de Jafé foram Gômer, e Magogue, e Madai, e Javã, e Tubal, e Meseque, e Tiras.
+
+[[v13-1-6]]
+
+^<<v13-1-6,6>>^ E os filhos de Gômer foram Asquenaz, e Rifá,^&#42;1^ e Togarma.
+
+[NOTE]
+====
+. “Rifá”, LXXVg, cerca de 30 mss. hebr. e Gên 10:3; M: “Difá”.
+====
+
+[[v13-1-7]]
+
+^<<v13-1-7,7>>^ E os filhos de Javã foram Elisá e Társis,^&#42;1^ Quitim e Rodanim.^&#42;2^
+
+[NOTE]
+====
+. “Társis”, LXXVg e Gên 10:4; M: “Tarsisá”.
+. “Rodanim”, MLXX; SyVg, muitos mss. hebr. e Gên 10:4: “Dodanim”.
+====
+
+[[v13-1-8]]
+
+^<<v13-1-8,8>>^ Os filhos de Cã foram Cus e Mizraim, Pute e Canaã.
+
+[[v13-1-9]]
+
+^<<v13-1-9,9>>^ E os filhos de Cus foram Sebá, e Havilá, e Sabtá, e Raamá, e Sabteca.
+E os filhos de Raamá foram Sabá e Dedã.
+
+[[v13-1-10]]
+
+^<<v13-1-10,10>>^ E o próprio Cus tornou-se pai de Ninrode. Foi ele quem principiou a tornar-se poderoso na terra.
+
+[[v13-1-11]]
+
+^<<v13-1-11,11>>^ Quanto a Mizraim, tornou-se ele pai de Ludim, e de Anamim, e de Leabim, e de Naftuim,
+
+[[v13-1-12]]
+
+^<<v13-1-12,12>>^ e de Patrusim, e de Casluim (dentre quem procederam os filisteus), e de Caftorim.
+
+[[v13-1-13]]
+
+^<<v13-1-13,13>>^ Quanto a Canaã, tornou-se ele pai de Sídon, seu primogênito, e de Hete,
+
+[[v13-1-14]]
+
+^<<v13-1-14,14>>^ e do jebuseu, e do amorreu, e do girgaseu,
+
+[[v13-1-15]]
+
+^<<v13-1-15,15>>^ e do heveu, e do arqueu, e do sineu,
+
+[[v13-1-16]]
+
+^<<v13-1-16,16>>^ e do arvadeu, e do zemareu, e do hamateu.
+
+[[v13-1-17]]
+
+^<<v13-1-17,17>>^ Os filhos de Sem foram Elão, e Assur, e Arpaxade, e Lude, e Arã,
+E Uz,^&#42;1^ e Hul, e Géter, e Más.^&#42;2^
+
+[NOTE]
+====
+. “E Uz”, MSyVg; LXXA, ms.Kennicºtt 175 hebr. e Gên 10:23: “e os filhos de Arã foram Uz”.
+. “Más”, Sy, seis mss. hebr. e Gên 10:23; MLXXAVg: “Meseque”.
+====
+
+[[v13-1-18]]
+
+^<<v13-1-18,18>>^ Quanto a Arpaxade, tornou-se ele pai de Selá, e o próprio Selá tornou-se pai de Éber.
+
+[[v13-1-19]]
+
+^<<v13-1-19,19>>^ E a Éber nasceram dois filhos. O nome de um foi Pelegue,^&#42;1^ porque nos seus dias foi dividida a terra;^&#42;2^ e o nome de seu irmão foi Joctã.
+
+[NOTE]
+====
+. Significando “Divisão; Corrente [curso de água]”.
+. Ou “população da terra”.
+====
+
+[[v13-1-20]]
+
+^<<v13-1-20,20>>^ Quanto a Joctã, tornou-se ele pai de Almodade, e de Selefe, e de Hazarmavete, e de Jerá,
+
+[[v13-1-21]]
+
+^<<v13-1-21,21>>^ e de Hadorão, e de Uzal, e de Dicla,
+
+[[v13-1-22]]
+
+^<<v13-1-22,22>>^ e de Obal,^&#42;1^ e de Abimael, e de Sabá,
+
+[NOTE]
+====
+. “Obal”, Sy, 19 mss. hebr. e Gên 10:28; MVg: “Ebal”.
+====
+
+[[v13-1-23]]
+
+^<<v13-1-23,23>>^ e de Ofir, e de Havilá, e de Jobabe; todos estes foram os filhos de Joctã.
+
+[[v13-1-24]]
+
+^<<v13-1-24,24>>^ Sem,
+Arpaxade,
+Selá,
+
+[[v13-1-25]]
+
+^<<v13-1-25,25>>^ Éber,
+Pelegue,
+Reú,
+
+[[v13-1-26]]
+
+^<<v13-1-26,26>>^ Serugue,
+Naor,
+Tera,
+
+[[v13-1-27]]
+
+^<<v13-1-27,27>>^ Abrão, isto é, Abraão.
+
+[[v13-1-28]]
+
+^<<v13-1-28,28>>^ Os filhos de Abraão foram Isaque e Ismael.
+
+[[v13-1-29]]
+
+^<<v13-1-29,29>>^ Estas são as suas origens de família: O primogênito de Ismael, Nebaiote, e Quedar, e Adbeel, e Mibsão,
+
+[[v13-1-30]]
+
+^<<v13-1-30,30>>^ Misma e Dumá, Massa, Hadade e Tema,
+
+[[v13-1-31]]
+
+^<<v13-1-31,31>>^ Jetur, Nafis e Quedemá. Estes foram os filhos de Ismael.
+
+[[v13-1-32]]
+
+^<<v13-1-32,32>>^ Quanto aos filhos de Quetura, concubina de Abraão, deu ela à luz Zinrã, e Jocsã, e Medã, e Midiã, e Isbaque, e Suá.
+E os filhos de Jocsã foram Sabá e Dedã.
+
+[[v13-1-33]]
+
+^<<v13-1-33,33>>^ E os filhos de Midiã foram Efá, e Efer, e Anoque, e Abida, e Elda.
+Todos estes foram os filhos de Quetura.
+
+[[v13-1-34]]
+
+^<<v13-1-34,34>>^ E Abraão tornou-se pai de Isaque. Os filhos de Isaque foram Esaú e Israel.
+
+[[v13-1-35]]
+
+^<<v13-1-35,35>>^ Os filhos de Esaú foram Elifaz, Reuel e Jeús, e Jalão, e Corá.
+
+[[v13-1-36]]
+
+^<<v13-1-36,36>>^ Os filhos de Elifaz foram Temã e Omar, Zefô^&#42;1^ e Gátão, Quenaz e Timna, e Amaleque.
+
+[NOTE]
+====
+. “Zefô”, cerca de 30 mss. hebr. e Gên 36:11; M: “Zefi”.
+====
+
+[[v13-1-37]]
+
+^<<v13-1-37,37>>^ Os filhos de Reuel foram Naate, Zerá, Samá e Mizá.
+
+[[v13-1-38]]
+
+^<<v13-1-38,38>>^ E os filhos de Seir foram Lotã, e Sobal, e Zibeão, e Aná, e Disom, e Ezer, e Disã.
+
+[[v13-1-39]]
+
+^<<v13-1-39,39>>^ E os filhos de Lotã foram Hori e Homão.^&#42;1^ E a irmã de Lotã foi Timna.
+
+[NOTE]
+====
+. “Homão”, MSyVg; LXX e Gên 36:22: “Hemão”.
+====
+
+[[v13-1-40]]
+
+^<<v13-1-40,40>>^ Os filhos de Sobal foram Alvã^&#42;1^ e Manaate, e Ebal, Sefô^&#42;2^ e Onão.
+E os filhos de Zibeão foram Aiá e Aná.
+
+[NOTE]
+====
+. “Alvã”, muitos mss. hebr. e Gên 36:23; MVg: “Aliã”.
+. “Sefô”, alguns mss. hebr. e Gên 36:23; MVgc: “Sefi”.
+====
+
+[[v13-1-41]]
+
+^<<v13-1-41,41>>^ Os filhos de Aná: Disom.
+E os filhos de Disom foram Hendã^&#42;1^ e Esbã, e Itrã, e Querã.
+
+[NOTE]
+====
+. “Hendã”, LXXA, muitos mss. hebr. e Gên 36:26; MSy: “Hanrã”; Vgc: “Hanrão”.
+====
+
+[[v13-1-42]]
+
+^<<v13-1-42,42>>^ Os filhos de Ezer foram Bilã e Zaavã, e Ácã.^&#42;1^
+Os filhos de Disã^&#42;2^ foram Uz e Árã.
+
+[NOTE]
+====
+. “E Ácã”, LXXA, 22 mss. hebr. e Gên 36:27; M: “Jaacã”.
+. “Disã”, Vgc e Gên 36:28; MLXXSyVg: “Disom”.
+====
+
+[[v13-1-43]]
+
+^<<v13-1-43,43>>^ E estes foram os reis que reinaram na terra de Edom antes de qualquer rei reinar sobre os filhos de Israel: Bela, filho de Beor, o nome de sua cidade era Dinabá.
+
+[[v13-1-44]]
+
+^<<v13-1-44,44>>^ Por fim morreu Bela, e Jobabe, filho de Zerá, de Bozra, começou a reinar em seu lugar.
+
+[[v13-1-45]]
+
+^<<v13-1-45,45>>^ Por fim morreu Jobabe, e Husão, da terra dos temanitas, começou a reinar em seu lugar.
+
+[[v13-1-46]]
+
+^<<v13-1-46,46>>^ Por fim morreu Husão, e Hadade, filho de Bedade, que derrotou Midiã no campo de Moabe, começou a reinar em seu lugar. E o nome de sua cidade era Avite.
+
+[[v13-1-47]]
+
+^<<v13-1-47,47>>^ Por fim morreu Hadade, e Samlá, de Masreca, começou a reinar em seu lugar.
+
+[[v13-1-48]]
+
+^<<v13-1-48,48>>^ Por fim morreu Samlá, e Saul, de Reobote, junto ao Rio, começou a reinar em seu lugar.
+
+[[v13-1-49]]
+
+^<<v13-1-49,49>>^ Por fim morreu Saul, e Baal-Hanã, filho de Acbor, começou a reinar em seu lugar.
+
+[[v13-1-50]]
+
+^<<v13-1-50,50>>^ Por fim morreu Baal-Hanã, e Hadade^&#42;1^ começou a reinar em seu lugar; e o nome de sua cidade era Pau^&#42;2^ e o nome de sua esposa era Meetabel, filha de Matrede, filha de Mezaabe.
+
+[NOTE]
+====
+. “Hadade”, MLXXSyVg; em Gên 36:39: “Hadar”.
+. “Pau”, TLXXLSyVgc, muitos mss. hebr. e Gên 36:39; M: “Pai”.
+====
+
+[[v13-1-51]]
+
+^<<v13-1-51,51>>^ Por fim morreu Hadade.
+E os xeques de Edom vieram a ser Xeque Timna, Xeque Alva,^&#42;1^ Xeque Jetete,
+
+[NOTE]
+====
+. “Alva”, MmargemTVg, muitos mss. hebr. e Gên 36:40; M: “Alia”.
+====
+
+[[v13-1-52]]
+
+^<<v13-1-52,52>>^ Xeque Oolibama, Xeque Elá, Xeque Pinom,
+
+[[v13-1-53]]
+
+^<<v13-1-53,53>>^ Xeque Quenaz, Xeque Temã, Xeque Mibzar,
+
+[[v13-1-54]]
+
+^<<v13-1-54,54>>^ Xeque Magdiel, Xeque Irão. Estes foram os xeques de Edom.
+
+'''
+
+xref:012-2-reis/012-2-reis-025.adoc#v12-25-0[&#60; Capítulo Anterior] | <<v13-1-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-002.adoc#v13-2-0[Próximo Capítulo &#62;]

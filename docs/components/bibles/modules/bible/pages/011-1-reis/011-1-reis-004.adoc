@@ -1,0 +1,204 @@
+include::./index.adoc[]
+
+[[v11-4-0]]
+=== 1 Reis, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v11-4-1]]
+
+^<<v11-4-1,1>>^ E o rei Salomão continuou como rei sobre todo o Israel.
+
+[[v11-4-2]]
+
+^<<v11-4-2,2>>^ E estes eram os príncipes^&#42;1^ que ele tinha: Azarias,^&#42;2^ filho de Zadoque, o sacerdote;
+
+[NOTE]
+====
+. “Os príncipes.” Hebr.: has·sa·rím; lat.: prín·ci·pes.
+. Hebr.: ‛Azar·yá·hu.
+====
+
+[[v11-4-3]]
+
+^<<v11-4-3,3>>^ Eliorefe e Aijá, filhos de Sisa, secretários; Jeosafá, filho de Ailude, o cronista;^&#42;1^
+
+[NOTE]
+====
+. Ou “recordador”.
+====
+
+[[v11-4-4]]
+
+^<<v11-4-4,4>>^ e Benaia, filho de Jeoiada, estava sobre o exército, e Zadoque e Abiatar eram sacerdotes;
+
+[[v11-4-5]]
+
+^<<v11-4-5,5>>^ e Azarias, filho de Natã, estava sobre os prepostos, e Zabude, filho de Natã, era sacerdote, amigo do rei;
+
+[[v11-4-6]]
+
+^<<v11-4-6,6>>^ e Aisar estava sobre os da casa, e Adonirão, filho de Abda, sobre os recrutados para trabalho forçado.
+
+[[v11-4-7]]
+
+^<<v11-4-7,7>>^ E Salomão tinha doze prepostos sobre todo o Israel, e eles proviam de alimento o rei e os da sua casa. Cabia a cada um prover o alimento por um mês no ano.
+
+[[v11-4-8]]
+
+^<<v11-4-8,8>>^ E estes eram os seus nomes: O filho de Hur na região montanhosa de Efraim;
+
+[[v11-4-9]]
+
+^<<v11-4-9,9>>^ o filho de Dequer em Macaz e em Saalbim, e em Bete-Semes, e em Elom-Bete-Hanã;
+
+[[v11-4-10]]
+
+^<<v11-4-10,10>>^ o filho de Hesede em Arubote (ele tinha Socó e toda a terra de Héfer);
+
+[[v11-4-11]]
+
+^<<v11-4-11,11>>^ e o filho de Abinadabe, todo o serro de Dor (a própria Tafate, filha de Salomão, tornou-se sua esposa);
+
+[[v11-4-12]]
+
+^<<v11-4-12,12>>^ Baana, filho de Ailude, em Taanaque e em Megido, e em toda a Bete-Seã, que está ao lado de Zaretã, abaixo de Jezreel, desde Bete-Seã até Abel-Meolá, até a região de Jocmeão;
+
+[[v11-4-13]]
+
+^<<v11-4-13,13>>^ o filho de Geber em Ramote-Gileade (ele tinha as aldeias de tendas de Jair,^&#42;1^ filho de Manassés, que estão em Gileade; tinha a região de Argobe, que está em Basã: sessenta cidades grandes com muralha e tranca de cobre);
+
+[NOTE]
+====
+. Ou “ele tinha Havote-Jair”.
+====
+
+[[v11-4-14]]
+
+^<<v11-4-14,14>>^ Ainadabe, filho de Ido, em Maanaim;
+
+[[v11-4-15]]
+
+^<<v11-4-15,15>>^ Aimaás em Naftali (ele, também, tomou por esposa Basemate, filha de Salomão);
+
+[[v11-4-16]]
+
+^<<v11-4-16,16>>^ Baana, filho de Husai, em Aser e em Bealote;
+
+[[v11-4-17]]
+
+^<<v11-4-17,17>>^ Jeosafá, filho de Parua, em Issacar;
+
+[[v11-4-18]]
+
+^<<v11-4-18,18>>^ Simei, filho de Ela, em Benjamim;
+
+[[v11-4-19]]
+
+^<<v11-4-19,19>>^ Geber, filho de Uri, na terra de Gileade, a terra de Síon, rei dos amorreus, e de Ogue, rei de Basã, e havia um preposto [sobre todos os outros prepostos] que havia no país.
+
+[[v11-4-20]]
+
+^<<v11-4-20,20>>^ Judá e Israel eram muitos, em multidão, iguais aos grãos de areia junto ao mar, comendo e bebendo, e alegrando-se.^&#42;1^
+
+[NOTE]
+====
+. M termina aqui o capítulo 4.
+====
+
+[[v11-4-21]]
+
+^<<v11-4-21,21>>^ Quanto a Salomão, mostrou ser o governante sobre todos os reinos, desde o Rio^&#42;1^ até a terra dos filisteus e até o termo do Egito. Traziam presentes e serviam a Salomão todos os dias da sua vida.
+
+[NOTE]
+====
+. Isto é, o Eufrates.
+====
+
+[[v11-4-22]]
+
+^<<v11-4-22,22>>^ E o alimento de Salomão, para cada dia,^&#42;1^ mostrou ser regularmente trinta coros^&#42;2^ de flor de farinha e sessenta coros de farinha,
+
+[NOTE]
+====
+. Lit.: “o pão de Salomão para um dia”.
+. Um coro equivalia a 220 l. Veja Ez 45:14.
+====
+
+[[v11-4-23]]
+
+^<<v11-4-23,23>>^ dez cabeças de gado vacum cevado e vinte cabeças de gado vacum de pasto, e cem ovelhas, além de alguns veados, e gazelas, e corços, e cucos cevados.
+
+[[v11-4-24]]
+
+^<<v11-4-24,24>>^ Pois mantinha tudo em sujeição deste lado do Rio, desde Tifsa até Gaza, sim, todos os reis deste lado do Rio; e a própria paz veio a ser sua em cada região dele, em toda a volta.^&#42;1^
+
+[NOTE]
+====
+. “E a própria paz veio a ser sua às instâncias de todos os seus servos em toda a volta”, em muitos mss. e edições hebr.
+====
+
+[[v11-4-25]]
+
+^<<v11-4-25,25>>^ E Judá e Israel continuaram a morar em segurança, cada um debaixo da sua própria videira e debaixo da sua própria figueira, desde Dã até Berseba, todos os dias de Salomão.
+
+[[v11-4-26]]
+
+^<<v11-4-26,26>>^ E Salomão veio a ter quarenta mil baias para cavalos, para os seus carros, e doze mil cavaleiros.
+
+[[v11-4-27]]
+
+^<<v11-4-27,27>>^ E estes prepostos supriam de alimento o Rei Salomão e todo aquele que se chegava à mesa do Rei Salomão, cada um no seu mês. Não deixavam faltar nada.
+
+[[v11-4-28]]
+
+^<<v11-4-28,28>>^ E a cevada e a palha para os cavalos e para as parelhas de corcéis eles traziam aonde quer que mostrasse ser o lugar, cada um segundo a sua comissão.
+
+[[v11-4-29]]
+
+^<<v11-4-29,29>>^ E Deus^&#42;1^ continuou a dar a Salomão sabedoria e entendimento^&#42;2^ em medida muito grande, bem como largueza de coração, igual à areia que há à beira do mar.
+
+[NOTE]
+====
+. “Deus”, MSyVg; TLXXSyHexapla: “Jeová”.
+. Ou “discernimento”.
+====
+
+[[v11-4-30]]
+
+^<<v11-4-30,30>>^ E a sabedoria de Salomão era mais vasta do que a sabedoria de todos os orientais^&#42;1^ e do que toda a sabedoria do Egito.
+
+[NOTE]
+====
+. Lit.: “todos os filhos do Oriente”.
+====
+
+[[v11-4-31]]
+
+^<<v11-4-31,31>>^ E ele era mais sábio do que qualquer outro homem,^&#42;1^ [mais] do que Etã, o ezraíta, e Hemã, e Calcol, e Darda, filhos de Maol; e veio a ter fama^&#42;2^ em todas as nações ao redor.
+
+[NOTE]
+====
+. Ou “humanidade”. Lit.: “o homem terreno”. Hebr.: ha·’a·dhám.
+. Lit.: “nome”.
+====
+
+[[v11-4-32]]
+
+^<<v11-4-32,32>>^ E ele podia falar três mil provérbios, e seus cânticos vieram a ser mil e cinco.^&#42;1^
+
+[NOTE]
+====
+. “Mil e cinco”, MSyVg; LXXVg12 mss.: “cinco mil”.
+====
+
+[[v11-4-33]]
+
+^<<v11-4-33,33>>^ E falava sobre as árvores, desde o cedro que há no Líbano até o hissopo que brota no muro; e falava sobre os animais e sobre as criaturas voadoras, e sobre as coisas moventes, e sobre os peixes.
+
+[[v11-4-34]]
+
+^<<v11-4-34,34>>^ E vinham de todos os povos para ouvir a sabedoria de Salomão, sim, de todos os reis da terra que tinham ouvido [falar] da sua sabedoria.
+
+'''
+
+xref:011-1-reis/011-1-reis-003.adoc#v11-3-0[&#60; Capítulo Anterior] | <<v11-4-0,Topo>> | xref:011-1-reis/011-1-reis-005.adoc#v11-5-0[Próximo Capítulo &#62;]

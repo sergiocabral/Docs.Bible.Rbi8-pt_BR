@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v21-3-0]]
+=== Eclesiastes, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v21-3-1]]
+
+^<<v21-3-1,1>>^ Para tudo há um tempo determinado, sim, há um tempo^&#42;1^ para todo assunto debaixo dos céus:
+
+[NOTE]
+====
+. Ou “estação; época; temporada”.
+====
+
+[[v21-3-2]]
+
+^<<v21-3-2,2>>^ tempo para nascer e tempo para morrer; tempo para plantar e tempo para desarraigar o que se plantou;
+
+[[v21-3-3]]
+
+^<<v21-3-3,3>>^ tempo para matar e tempo para curar; tempo para derrocar e tempo para construir;
+
+[[v21-3-4]]
+
+^<<v21-3-4,4>>^ tempo para chorar e tempo para rir; tempo para lamentar e tempo para saltitar;
+
+[[v21-3-5]]
+
+^<<v21-3-5,5>>^ tempo para lançar fora pedras e tempo para reunir pedras; tempo para abraçar e tempo para manter-se longe dos abraços;
+
+[[v21-3-6]]
+
+^<<v21-3-6,6>>^ tempo para procurar e tempo para dar por perdido; tempo para guardar e tempo para lançar fora;
+
+[[v21-3-7]]
+
+^<<v21-3-7,7>>^ tempo para rasgar e tempo para costurar; tempo para ficar quieto e tempo para falar;
+
+[[v21-3-8]]
+
+^<<v21-3-8,8>>^ tempo para amar e tempo para odiar; tempo para guerra e tempo para paz.
+
+[[v21-3-9]]
+
+^<<v21-3-9,9>>^ Que vantagem tem o realizador naquilo em que trabalha arduamente?
+
+[[v21-3-10]]
+
+^<<v21-3-10,10>>^ Vi a ocupação que Deus deu aos filhos da humanidade para se ocuparem nela.
+
+[[v21-3-11]]
+
+^<<v21-3-11,11>>^ Tudo ele fez bonito no seu tempo. Pôs até mesmo tempo indefinido no seu coração, para que a humanidade^&#42;1^ nunca descobrisse o trabalho que o [verdadeiro] Deus tem feito do começo^&#42;2^ ao fim.
+
+[NOTE]
+====
+. Lit.: “o homem terreno”. Hebr.: ha·’a·dhám.
+. Lit.: “cabeça”.
+====
+
+[[v21-3-12]]
+
+^<<v21-3-12,12>>^ Vim saber que não há nada melhor para eles do que alegrar-se e fazer o bem durante a sua vida;
+
+[[v21-3-13]]
+
+^<<v21-3-13,13>>^ e também que todo homem^&#42;1^ coma e deveras beba, e veja o que é bom por todo o seu trabalho árduo. É a dádiva de Deus.
+
+[NOTE]
+====
+. Ou “todo homem terreno”. Hebr.: kol-ha·’a·dhám.
+====
+
+[[v21-3-14]]
+
+^<<v21-3-14,14>>^ Vim saber que tudo o que o [verdadeiro] Deus faz mostrará ser por tempo indefinido. Não há nada a acrescentar-lhe e não há nada a subtrair-lhe; mas, o próprio [verdadeiro] Deus o fez para que as pessoas tivessem medo por causa dele.
+
+[[v21-3-15]]
+
+^<<v21-3-15,15>>^ O que veio a ser, já tem sido, e o que virá a ser, já veio a ser; e o próprio [verdadeiro] Deus continua a procurar aquilo pelo qual há empenho.
+
+[[v21-3-16]]
+
+^<<v21-3-16,16>>^ E além disso, vi debaixo do sol o lugar do juízo onde havia iniqüidade e o lugar da justiça onde havia iniqüidade.
+
+[[v21-3-17]]
+
+^<<v21-3-17,17>>^ Eu mesmo disse no meu coração: “O [verdadeiro] Deus julgará tanto o justo como o iníquo, pois há um tempo para todo assunto e referente a todo trabalho ali.”
+
+[[v21-3-18]]
+
+^<<v21-3-18,18>>^ Eu é que disse no meu coração, com respeito aos filhos da humanidade, que o [verdadeiro] Deus vai selecioná-los, para que vejam que eles mesmos são animais.
+
+[[v21-3-19]]
+
+^<<v21-3-19,19>>^ Pois há um evento conseqüente^&#42;1^ com respeito aos filhos da humanidade e um evento conseqüente com respeito ao animal, e há para eles o mesmo evento conseqüente. Como morre um,^&#42;2^ assim morre o outro; e todos eles têm apenas um só espírito,^&#42;3^ de modo que não há nenhuma superioridade do homem sobre o animal, pois tudo é vaidade.
+
+[NOTE]
+====
+. Ou só “um evento”. Hebr.: miq·réh.
+. Lit.: “Como morre este.” Hebr.: kemóhth zeh.
+. Ou “e . . . fôlego”. Hebr.: werú·ahh; gr.: pneú·ma.
+====
+
+[[v21-3-20]]
+
+^<<v21-3-20,20>>^ Todos vão para um só lugar. Todos eles vieram a ser do pó^&#42;1^ e todos eles retornam ao pó.
+
+[NOTE]
+====
+. “Do pó.” Hebr.: min-he·‛a·fár. Veja Gên 2:7 n.: “pó”.
+====
+
+[[v21-3-21]]
+
+^<<v21-3-21,21>>^ Quem é que conhece o espírito dos filhos da humanidade, se ele vai para cima; e o espírito do animal, se ele vai para baixo, para a terra?
+
+[[v21-3-22]]
+
+^<<v21-3-22,22>>^ E eu vi que não há nada melhor do que o homem alegrar-se com o seu trabalho, porque este é seu quinhão; pois, quem o fará entrar para ver o que vai ser após ele?
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-002.adoc#v21-2-0[&#60; Capítulo Anterior] | <<v21-3-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-004.adoc#v21-4-0[Próximo Capítulo &#62;]

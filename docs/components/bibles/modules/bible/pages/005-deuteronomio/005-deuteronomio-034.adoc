@@ -1,0 +1,68 @@
+include::./index.adoc[]
+
+[[v5-34-0]]
+=== Deuteronômio, 34
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-34-1]]
+
+^<<v5-34-1,1>>^ Moisés passou então a subir das planícies desérticas de Moabe ao monte Nebo, ao cume do Pisga, que defronta com Jericó. E Jeová foi mostrar-lhe todo o país, Gileade até Dã,
+
+[[v5-34-2]]
+
+^<<v5-34-2,2>>^ e todo Naftali, e a terra de Efraim e Manassés, e toda a terra de Judá, até o mar ocidental,
+
+[[v5-34-3]]
+
+^<<v5-34-3,3>>^ e o Negebe e o Distrito,^&#42;1^ o vale plano de Jericó, a cidade das palmeiras, até Zoar.^&#42;2^
+
+[NOTE]
+====
+. Ou “a Bacia”. Veja Gên 13:10 n.: “Distrito”.
+. Nos vv. 1b-3: “E Jeová foi mostrar-lhe . . . até Zoar”, Sam reza: “E Jeová foi mostrar-lhe toda a terra, desde o rio do Egito até o grande rio, o rio Eufrates, e até o mar ocidental.” Veja 11:24; Gên 15:18.
+====
+
+[[v5-34-4]]
+
+^<<v5-34-4,4>>^ E Jeová prosseguiu, dizendo-lhe: “Esta é a terra de que jurei a Abraão, Isaque e Jacó, dizendo: ‘Dá-la-ei à tua descendência.’ Eu te fiz vê-la com os teus próprios olhos, visto que não passarás para lá.”
+
+[[v5-34-5]]
+
+^<<v5-34-5,5>>^ Depois, Moisés, o servo^&#42;1^ de Jeová, morreu ali na terra de Moabe, por ordem de Jeová.
+
+[NOTE]
+====
+. Ou “escravo”.
+====
+
+[[v5-34-6]]
+
+^<<v5-34-6,6>>^ E ele passou a enterrá-lo no vale da terra de Moabe defronte de Bete-Peor, e até o dia de hoje ninguém soube do seu sepulcro.
+
+[[v5-34-7]]
+
+^<<v5-34-7,7>>^ E Moisés tinha cento e vinte anos de idade por ocasião da sua morte. Seu olho não se havia turvado e seu vigor vital não [lhe] havia fugido.
+
+[[v5-34-8]]
+
+^<<v5-34-8,8>>^ E os filhos de Israel passaram a chorar Moisés nas planícies desérticas de Moabe por trinta dias. Por fim se completaram os dias de choro do período de luto por Moisés.
+
+[[v5-34-9]]
+
+^<<v5-34-9,9>>^ E Josué, filho de Num, estava cheio do espírito de sabedoria, pois Moisés tinha posto sua mão sobre ele; e os filhos de Israel começaram a escutá-lo e foram fazer assim como Jeová mandara a Moisés.
+
+[[v5-34-10]]
+
+^<<v5-34-10,10>>^ Mas, nunca mais se levantou em Israel um profeta semelhante a Moisés, a quem Jeová conhecia face a face,
+
+[[v5-34-11]]
+
+^<<v5-34-11,11>>^ com respeito a todos os sinais e milagres que Jeová o mandara fazer na terra do Egito, a Faraó e a todos os seus servos, e a toda a sua terra,
+
+[[v5-34-12]]
+
+^<<v5-34-12,12>>^ e concernente a toda mão forte e toda coisa mui espantosa que Moisés fizera perante os olhos de todo o Israel.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-033.adoc#v5-33-0[&#60; Capítulo Anterior] | <<v5-34-0,Topo>> | xref:006-josue/006-josue-001.adoc#v6-1-0[Próximo Capítulo &#62;]

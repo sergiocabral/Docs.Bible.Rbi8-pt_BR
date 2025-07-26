@@ -1,0 +1,232 @@
+include::./index.adoc[]
+
+[[v4-21-0]]
+=== Números, 21
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-21-1]]
+
+^<<v4-21-1,1>>^ Ora, o cananeu, o rei de Arade, que morava no Negebe,^&#42;1^ chegou a ouvir que Israel tinha vindo pelo caminho de Atarim, e ele começou a lutar com Israel e a levar alguns deles cativos.
+
+[NOTE]
+====
+. Ou “no sul”, isto é, na parte sulina da Terra da Promessa.
+====
+
+[[v4-21-2]]
+
+^<<v4-21-2,2>>^ Por conseguinte, Israel fez um voto a Jeová e disse: “Se tu, sem falta, entregares este povo na minha mão, então hei de devotar suas cidades à destruição.”
+
+[[v4-21-3]]
+
+^<<v4-21-3,3>>^ De modo que Jeová escutou a voz de Israel e entregou os cananeus; e devotaram-nos à destruição, tanto a eles como as suas cidades. Por isso, o lugar veio a ser chamado pelo nome de Hormá.^&#42;1^
+
+[NOTE]
+====
+. Significando “Devotamento à Destruição”. Hebr.: Hhor·máh; gr.: A·ná·the·ma; Vg: “Hormá, isto é, anátema”.
+====
+
+[[v4-21-4]]
+
+^<<v4-21-4,4>>^ Enquanto continuavam a avançar desde o monte Hor pelo caminho do Mar Vermelho para contornar a terra de Edom, a alma do povo começou a cansar-se por causa do caminho.
+
+[[v4-21-5]]
+
+^<<v4-21-5,5>>^ E o povo falava contra Deus e Moisés: “Por que nos fizeste subir do Egito para morrermos no ermo? Pois não há pão nem água, e nossa alma chegou a abominar o pão desprezível.”
+
+[[v4-21-6]]
+
+^<<v4-21-6,6>>^ Assim, Jeová enviou serpentes venenosas^&#42;1^ entre o povo e elas mordiam o povo, de modo que muito povo de Israel morreu.
+
+[NOTE]
+====
+. Ou “serpentes ardentes (provocando inflamação)”. LXX: “serpentes mortíferas”; Vg: “serpentes ardentes”. Veja v. 8.
+====
+
+[[v4-21-7]]
+
+^<<v4-21-7,7>>^ Por fim, o povo veio a Moisés e disse: “Pecamos porque falamos contra Jeová e contra ti. Intercede junto a Jeová para que remova de nós as serpentes.” E Moisés foi interceder pelo povo.
+
+[[v4-21-8]]
+
+^<<v4-21-8,8>>^ Jeová disse então a Moisés: “Faze para ti uma cobra ardente^&#42;1^ e coloca-a numa haste de sinal. E terá de acontecer que, quando alguém for mordido, então deve olhar para ela e assim terá de ficar vivo.”
+
+[NOTE]
+====
+. Lit.: “uma [cobra] ardente”. Hebr.: sa·ráf, venenosa no v. 6; M omite aqui “cobra”; gr.: ó·fin, “serpente”; lat.: ser·pén·tem.
+====
+
+[[v4-21-9]]
+
+^<<v4-21-9,9>>^ Moisés fez imediatamente uma serpente de cobre e a colocou numa haste de sinal; e acontecia que, quando alguma serpente mordia um homem e ele fitava os olhos na serpente de cobre, então ficava vivo.
+
+[[v4-21-10]]
+
+^<<v4-21-10,10>>^ Depois, os filhos de Israel partiram e se acamparam em Obote.
+
+[[v4-21-11]]
+
+^<<v4-21-11,11>>^ Partiram então de Obote e se acamparam em Ijé-Abarim,^&#42;1^ no ermo que vai até defronte de Moabe, para o nascente do sol.
+
+[NOTE]
+====
+. Significando “Ruínas dos Vaus (Travessias); Ruínas da Terra Fronteiriça (Regiões Além)”. Sua localização exata é incerta, mas estava perto do vale da torrente de Zerede.
+====
+
+[[v4-21-12]]
+
+^<<v4-21-12,12>>^ Dali partiram e se acamparam junto ao vale da torrente de Zerede.
+
+[[v4-21-13]]
+
+^<<v4-21-13,13>>^ Dali partiram e foram acampar-se na região do Árnon, que está no ermo que se estende desde a fronteira dos amorreus; pois o Árnon é o termo de Moabe, entre Moabe e os amorreus.
+
+[[v4-21-14]]
+
+^<<v4-21-14,14>>^ É por isso que se diz no livro das Guerras de Jeová:
+“Vaebe,^&#42;1^ em Sufá, e os vales de torrente do Árnon,^&#42;2^
+
+[NOTE]
+====
+. Pelo visto, trata-se dum lugar desconhecido, perto do vale da torrente do Árnon.
+. “Assim como fez no Mar Vermelho, assim fará nas torrentes do Árnon”, Vg.
+====
+
+[[v4-21-15]]
+
+^<<v4-21-15,15>>^ e a desembocadura dos vales de torrente, que se vira para a sede de Ar e se encosta na fronteira de Moabe.”
+
+[[v4-21-16]]
+
+^<<v4-21-16,16>>^ A seguir, dali para Beer.^&#42;1^ Este é o poço de que Jeová disse a Moisés: “Ajunta o povo e dê-lhes eu água.”
+
+[NOTE]
+====
+. Significando “Poço; Cova”.
+====
+
+[[v4-21-17]]
+
+^<<v4-21-17,17>>^ Naquele tempo Israel passou a entoar o seguinte cântico:
+“Brota, ó poço! Respondei-lhe!
+
+[[v4-21-18]]
+
+^<<v4-21-18,18>>^ Um poço, príncipes o cavaram. Os nobres^&#42;1^ do povo o escavaram.
+Com bastão de comandante, com seus próprios bastões.”^&#42;2^
+Então do ermo para Mataná.
+
+[NOTE]
+====
+. Ou “dadores generosos”.
+. Ou “com um comandante, com seus governantes”.
+====
+
+[[v4-21-19]]
+
+^<<v4-21-19,19>>^ E de Mataná para Naaliel, e de Naaliel para Bamote.
+
+[[v4-21-20]]
+
+^<<v4-21-20,20>>^ E de Bamote para o vale que está no campo de Moabe, junto ao cume do Pisga, e ele se projeta em direção à face de Jesimom.^&#42;1^
+
+[NOTE]
+====
+. Ou “o deserto (ermo)”.
+====
+
+[[v4-21-21]]
+
+^<<v4-21-21,21>>^ Israel enviou então mensageiros a Síon, rei dos amorreus, dizendo:
+
+[[v4-21-22]]
+
+^<<v4-21-22,22>>^ “Deixa-me passar pela tua terra. Não nos desviaremos nem para um campo, nem para um vinhedo. De nenhum poço beberemos água. Marcharemos pela estrada real até termos passado pelo teu território.”
+
+[[v4-21-23]]
+
+^<<v4-21-23,23>>^ E Síon não deixou Israel passar pelo seu território, mas Síon ajuntou todo o seu povo e saiu ao encontro de Israel, no ermo, e veio a Jaaz e começou a lutar com Israel.
+
+[[v4-21-24]]
+
+^<<v4-21-24,24>>^ Em vista disso, Israel o golpeou ao fio da espada e tomou posse de sua terra, desde o Árnon até o Jaboque, perto dos filhos de Amom; pois Jázer^&#42;1^ é a fronteira dos filhos de Amom.
+
+[NOTE]
+====
+. “Jázer”, LXX, provavelmente refletindo o texto original. (Veja v. 32.) Lit.: “forte”. Hebr.: ‛az; Vg: “ocupado por uma forte guarnição”.
+====
+
+[[v4-21-25]]
+
+^<<v4-21-25,25>>^ Israel tomou assim todas estas cidades e Israel começou a morar em todas as cidades dos amorreus, em Hésbon e em todas as suas aldeias dependentes.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “todas as suas filhas”.
+====
+
+[[v4-21-26]]
+
+^<<v4-21-26,26>>^ Pois Hésbon era a cidade de Síon. Ele era o rei dos amorreus, e foi ele quem lutara anteriormente com o rei de Moabe e lhe tirara da mão toda a sua terra até o Árnon.
+
+[[v4-21-27]]
+
+^<<v4-21-27,27>>^ É por isso que os recitadores de versos zombeteiros^&#42;1^ diziam:
+“Vinde a Hésbon.
+Edifique-se a cidade de Síon e mostre-se ela firmemente estabelecida.
+
+[NOTE]
+====
+. Ou “proverbistas; rapsodistas”.
+====
+
+[[v4-21-28]]
+
+^<<v4-21-28,28>>^ Pois de Hésbon saiu fogo, da vila de Síon, uma chama.
+Consumiu Ar de Moabe,^&#42;1^ os donos dos altos do Árnon.
+
+[NOTE]
+====
+. “Consumiu Ar dos moabitas”, Vg; LXX: “consumiu até Moabe”.
+====
+
+[[v4-21-29]]
+
+^<<v4-21-29,29>>^ Ai de ti, Moabe! Hás de perecer, ó povo de Quemós!
+Ele há de dar seus filhos como os que escaparam e suas filhas em cativeiro ao rei dos amorreus, Síon.
+
+[[v4-21-30]]
+
+^<<v4-21-30,30>>^ Portanto, atiremos contra eles.
+Hésbon há de perecer até Díbon,
+E as mulheres,^&#42;1^ até Nofá, os homens, até Medeba.”^&#42;2^
+
+[NOTE]
+====
+. “As mulheres”, LXX.
+. “E . . . Medeba”, segundo um criticismo textual dos soferins, que marcaram esta linha com um ponto extraordinário. Não se tomando em consideração o ponto extraordinário, o texto rezaria: “portanto, desolemo-lo até Nofá, que está perto de Medeba”. Veja Ap. 2A.
+====
+
+[[v4-21-31]]
+
+^<<v4-21-31,31>>^ E Israel começou a morar na terra dos amorreus.
+
+[[v4-21-32]]
+
+^<<v4-21-32,32>>^ Moisés enviou então alguns para espionarem Jázer. De modo que capturaram suas aldeias dependentes e desapossaram os amorreus que lá havia.
+
+[[v4-21-33]]
+
+^<<v4-21-33,33>>^ Depois se viraram e subiram pelo caminho de Basã. Em vista disso, saiu-lhes ao encontro Ogue, rei de Basã, ele e todo o seu povo, à batalha de Edrei.
+
+[[v4-21-34]]
+
+^<<v4-21-34,34>>^ Jeová disse então a Moisés: “Não tenhas medo dele, pois certamente entregarei na tua mão tanto a ele como a todo o seu povo, e sua terra; e tens de fazer-lhe assim como fizeste a Síon, rei dos amorreus, que morava em Hésbon.”
+
+[[v4-21-35]]
+
+^<<v4-21-35,35>>^ Assim, foram golpear tanto a ele como seus filhos e todo o seu povo, até que não lhe restou mais sobrevivente; e foram tomar posse de sua terra.
+
+'''
+
+xref:004-numeros/004-numeros-020.adoc#v4-20-0[&#60; Capítulo Anterior] | <<v4-21-0,Topo>> | xref:004-numeros/004-numeros-022.adoc#v4-22-0[Próximo Capítulo &#62;]

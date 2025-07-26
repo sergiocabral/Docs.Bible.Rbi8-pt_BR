@@ -1,0 +1,232 @@
+include::./index.adoc[]
+
+[[v27-5-0]]
+=== Daniel, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v27-5-1]]
+
+^<<v27-5-1,1>>^ No que se refere a Belsazar,^&#42;1^ o rei, deu ele um grande banquete^&#42;2^ a mil dos seus grandes e bebia vinho na frente dos mil.
+
+[NOTE]
+====
+. “Belsazar.” Aram.: Bel·sha’ts·tsár; gr.: Bal·tá·sar; sir.: Belit·sha·tsar; Vgc(lat.): Bal·tás·sar. Na tabuinha babilônica N.º 38.299, no Museu Britânico, o nome aparece como “Bel-sharusur”. Diz Nabonidus and Belshazzar, de R. P. Dougherty, New Haven, EUA, 1929, p. 186: “Alusões cuneiformes a Belsazar têm lançado tanta luz sobre o papel que ele desempenhava, que seu lugar na história é claramente revelado. Há muitos textos que indicam que Belsazar era quase igual a Nabonido em posição e prestígio.”
+. Lit.: “grande pão”. Aram.: lehhém rav.
+====
+
+[[v27-5-2]]
+
+^<<v27-5-2,2>>^ Belsazar, sob a influência do vinho, disse que trouxessem os vasos de ouro e de prata que Nabucodonosor, seu pai, retirara do templo^&#42;1^ em Jerusalém, para que bebessem neles o rei e seus grandes, suas concubinas e suas esposas secundárias.
+
+[NOTE]
+====
+. “Do templo.” Aram.: heh·khelá’; LXXBagster(gr.): na·oú; lat.: tém·plo. Veja Mt 23:16 n.
+====
+
+[[v27-5-3]]
+
+^<<v27-5-3,3>>^ Naquele tempo trouxeram os vasos de ouro retirados do templo da casa de Deus^&#42;1^ em Jerusalém, e bebiam neles o rei e seus grandes, suas concubinas e suas esposas secundárias.
+
+[NOTE]
+====
+. “Deus.” Aram.: ’Ela·há’; sir.: dA’·la·ha’.
+====
+
+[[v27-5-4]]
+
+^<<v27-5-4,4>>^ Beberam vinho e louvaram os deuses^&#42;1^ de ouro e de prata, cobre, ferro, madeira e pedra.
+
+[NOTE]
+====
+. “Os deuses de.” Aram.: le’·la·héh; sir.: la’·la·he’.
+====
+
+[[v27-5-5]]
+
+^<<v27-5-5,5>>^ Naquele momento apareceram dedos de mão de homem e escreveram defronte do candelabro sobre o reboco da parede do palácio do rei, e o rei via as costas da mão que escrevia.
+
+[[v27-5-6]]
+
+^<<v27-5-6,6>>^ Nisso, no que se refere ao rei, ele mudou de cor e seus próprios pensamentos começaram a amedrontá-lo, e as juntas dos seus quadris se afrouxavam e os próprios joelhos dele batiam um no outro.
+
+[[v27-5-7]]
+
+^<<v27-5-7,7>>^ O rei clamou em alta [voz] que fizessem chegar os conjuradores, os caldeus e os astrólogos. O rei respondeu e disse aos sábios de Babilônia: “Qualquer homem que ler esta escrita e que me mostrar a própria interpretação dela será vestido de púrpura, com um colar de ouro em volta do pescoço, e ele dominará como o terceiro no reino.”
+
+[[v27-5-8]]
+
+^<<v27-5-8,8>>^ Nesta ocasião entraram todos os sábios do rei, mas não eram suficientemente competentes para ler a própria escrita ou para fazer saber ao rei a interpretação.
+
+[[v27-5-9]]
+
+^<<v27-5-9,9>>^ Conseqüentemente, o Rei Belsazar estava muito amedrontado e mudou de cor; e seus grandes estavam perplexos.
+
+[[v27-5-10]]
+
+^<<v27-5-10,10>>^ Quanto à rainha, em vista das palavras do rei e dos seus grandes, entrou logo na sala de banquete. A rainha respondeu e disse: “Ó rei, continua vivendo por tempos indefinidos. Não te amedrontem os teus pensamentos, nem mudes de cor.
+
+[[v27-5-11]]
+
+^<<v27-5-11,11>>^ Há no teu reino um varão idôneo em quem há o espírito de deuses^&#42;1^ santos; e nos dias de teu pai acharam-se nele iluminação, e perspicácia, e sabedoria como a sabedoria de deuses, e o próprio Rei Nabucodonosor, teu pai, constituiu-o chefe dos sacerdotes-magos, dos conjuradores, dos caldeus [e] dos astrólogos, [sim,] teu pai, ó rei,
+
+[NOTE]
+====
+. Veja 4:18 n.
+====
+
+[[v27-5-12]]
+
+^<<v27-5-12,12>>^ visto que se acharam nele, em Daniel, a quem o próprio rei chamou pelo nome de Beltessazar, um espírito extraordinário, e conhecimento, e perspicácia para interpretar sonhos, e a explicação de enigmas, e o desatamento de nós. Agora, chame-se ao próprio Daniel para que mostre a própria interpretação.”
+
+[[v27-5-13]]
+
+^<<v27-5-13,13>>^ Por conseguinte, o próprio Daniel foi introduzido perante o rei. O rei falou e disse a Daniel: “És tu o Daniel que é dos exilados^&#42;1^ de Judá, a quem o rei, meu pai, trouxe de Judá?
+
+[NOTE]
+====
+. Veja 2:25 n.
+====
+
+[[v27-5-14]]
+
+^<<v27-5-14,14>>^ Ouvi também [falar] a teu respeito que há em ti o espírito de deuses^&#42;1^ e que se acharam em ti iluminação, e perspicácia, e sabedoria extraordinária.
+
+[NOTE]
+====
+. Veja 4:18 n.
+====
+
+[[v27-5-15]]
+
+^<<v27-5-15,15>>^ E agora, foram introduzidos perante mim os sábios [e] os conjuradores, para que me lessem esta mesma escrita, sim, para me fazerem saber a sua interpretação; mas eles não são suficientemente competentes para mostrar a própria interpretação da palavra.
+
+[[v27-5-16]]
+
+^<<v27-5-16,16>>^ E eu mesmo tenho ouvido [falar] a teu respeito que és capaz de dar interpretações e desatar os próprios nós. Agora, se puderes ler a escrita e fazer-me saber a própria interpretação dela, serás vestido de púrpura, com um colar de ouro em volta do teu pescoço, e dominarás como o terceiro no reino.”
+
+[[v27-5-17]]
+
+^<<v27-5-17,17>>^ Nisso Daniel respondeu e disse perante o rei: “Venham a ser as tuas dádivas para ti mesmo e dá os teus presentes a outros. No entanto, eu lerei a própria escrita ao rei e lhe farei saber a interpretação.
+
+[[v27-5-18]]
+
+^<<v27-5-18,18>>^ Quanto a ti, ó rei, o próprio Deus Altíssimo^&#42;1^ deu a Nabucodonosor, teu pai, o reino, e a grandeza, e a dignidade, e a majestade.
+
+[NOTE]
+====
+. “O . . . Deus Altíssimo.” Aram.: ’Ela·há’ ‛Il·lai·’á; LXXBagster(gr.): ho The·ós ho Hý·psi·stos.
+====
+
+[[v27-5-19]]
+
+^<<v27-5-19,19>>^ E por causa da grandeza que Ele lhe deu, todos os povos, grupos nacionais e línguas vieram a estar tremendo e mostrando medo diante dele. Matava a quem quisesse; e golpeava^&#42;1^ a quem quisesse; e enaltecia a quem quisesse; e humilhava a quem quisesse.
+
+[NOTE]
+====
+. “Deixava viver”, se for derivado de outro verbo de forma similar.
+====
+
+[[v27-5-20]]
+
+^<<v27-5-20,20>>^ Mas, quando seu coração se enalteceu e seu próprio espírito se endureceu, de modo a agir presunçosamente, ele foi derrubado do trono do seu reino e foi-lhe tirada a sua própria dignidade.
+
+[[v27-5-21]]
+
+^<<v27-5-21,21>>^ E ele foi expulso de entre os filhos da humanidade,^&#42;1^ e seu próprio coração foi feito semelhante ao de um animal, e sua morada era com os jumentos selvagens. Davam-lhe vegetação para comer, como a touros, e seu próprio corpo foi molhado pelo orvalho dos céus, até ele saber que o Altíssimo é Governante^&#42;2^ no reino da humanidade e que estabelece sobre ele a quem quiser.
+
+[NOTE]
+====
+. Ou “filhos de homens”. Aram.: benéh ’ana·shá’.
+. Ou “está governando”. Veja 4:17 n.: “Governante”.
+====
+
+[[v27-5-22]]
+
+^<<v27-5-22,22>>^ “E no que se refere a ti, seu filho Belsazar, não humilhaste teu coração, embora soubesses de tudo isso.
+
+[[v27-5-23]]
+
+^<<v27-5-23,23>>^ Mas enalteceste-te contra o Senhor dos céus^&#42;1^ e fizeste trazer perante ti até mesmo os vasos da sua casa; e tu e os teus grandes, tuas concubinas e tuas esposas secundárias bebestes vinho neles, e louvaste os meros deuses^&#42;2^ de prata e de ouro, cobre, ferro, madeira e pedra, que nada vêem, nem ouvem, nem sabem; mas não glorificaste o Deus^&#42;3^ em cuja mão está o teu fôlego^&#42;4^ e a quem pertencem todos os teus caminhos.
+
+[NOTE]
+====
+. “O Senhor dos céus.” Aram.: ma·re’-shemai·yá’.
+. “E . . . deuses de.” Aram.: wele’·la·héh.
+. “Mas . . . o Deus.” Aram.: welE’·la·há’; LXXBagster(gr.): The·ón.
+. “Teu fôlego.” Aram.: nish·methákh. Veja Pr 20:27 n.
+====
+
+[[v27-5-24]]
+
+^<<v27-5-24,24>>^ Conseqüentemente, de diante dele foram enviadas as costas da mão e se escreveu esta mesma escrita.
+
+[[v27-5-25]]
+
+^<<v27-5-25,25>>^ E esta é a escrita que se escreveu: MENE, MENE, TEQUEL e PARSIM.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Uma mina, uma mina, um siclo e meio siclos.” Aram.: Mené’ Mené’ Teqél u·Far·sín. Far·sín é o pl. de Perés, “meio siclo”.
+====
+
+[[v27-5-26]]
+
+^<<v27-5-26,26>>^ Esta é a interpretação da palavra: MENE: Deus contou^&#42;1^ [os dias do] teu reino e acabou^&#42;2^ com ele.
+
+[NOTE]
+====
+. “MENE: Deus contou.” Aram.: Mené’ menah-’Ela·há’.
+. Ou “abandonou-o”.
+====
+
+[[v27-5-27]]
+
+^<<v27-5-27,27>>^ “TEQUEL: foste pesado^&#42;1^ na balança e achado deficiente.
+
+[NOTE]
+====
+. “TEQUEL: foste pesado.” Aram.: Teqél teqíl·tah.
+====
+
+[[v27-5-28]]
+
+^<<v27-5-28,28>>^ “PERES: teu reino foi dividido^&#42;1^ e dado aos medos e aos persas.”^&#42;2^
+
+[NOTE]
+====
+. “PERES: teu reino foi dividido.” Aram.: Perés pari·sáth mal·khu·thákh. Perés é o sing. de Far·sín. Veja v. 25 n.
+. “Aos medos e aos persas.” Aram.: leMa·dhaí u·Fa·rás. A palavra aram. para “persas” tem as mesmas três consoantes que Perés.
+====
+
+[[v27-5-29]]
+
+^<<v27-5-29,29>>^ Então Belsazar deu ordem,^&#42;1^ e eles vestiram Daniel de púrpura, com um colar de ouro em volta de seu pescoço; e proclamaram^&#42;2^ a seu respeito que se tornaria o terceiro governante no reino.
+
+[NOTE]
+====
+. Lit.: “disse”.
+. Ou “e pregoaram”. Aram.: wehakh·rí·zu; LXXBagster(gr.): e·ké·ry·xe; lat.: prae·di·cá·tum est. Veja 3:4 n.
+====
+
+[[v27-5-30]]
+
+^<<v27-5-30,30>>^ Naquela mesma noite^&#42;1^ foi morto Belsazar, o rei caldeu,
+
+[NOTE]
+====
+. Veja “Caiu Babilônia, a Grande!” O Reino de Deus já Domina! distribuído pela Sociedade Torre de Vigia de Bíblias e Tratados, Cesário Lange, SP, Brasil, ed. em inglês, 1963, p. 227 n.; veja também ad sob o verbete “Belsazar”.
+====
+
+[[v27-5-31]]
+
+^<<v27-5-31,31>>^ ^&#42;1^ e o próprio Dario,^&#42;2^ o medo, recebeu o reino ao ter cerca de sessenta e dois anos de idade.
+
+[NOTE]
+====
+. MLXX iniciam aqui o cap. 6.
+. “E . . . Dario.” Aram.: weDhor·yá·wesh; LXXBagster(gr.): Da·reí·os; lat.: Da·rí·us; gr.: Ar·ta·xér·xes.
+====
+
+'''
+
+xref:027-daniel/027-daniel-004.adoc#v27-4-0[&#60; Capítulo Anterior] | <<v27-5-0,Topo>> | xref:027-daniel/027-daniel-006.adoc#v27-6-0[Próximo Capítulo &#62;]

@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v19-4-0]]
+=== Salmos, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, em instrumentos de cordas. Uma melodia de Davi._
+
+[[v19-4-1]]
+
+^<<v19-4-1,1>>^ Quando chamo, responde-me, ó meu Deus justo.
+Na aflição tens de fazer para mim um amplo espaço.
+Mostra-me favor e ouve a minha oração.
+
+[[v19-4-2]]
+
+^<<v19-4-2,2>>^ Filhos de homens,^&#42;1^ até quando terá de ser a minha glória para insulto,
+[Enquanto] continuais a amar coisas vãs,
+[Enquanto] continuais a procurar uma mentira? Selá.
+
+[NOTE]
+====
+. “Homens.” Hebr.: ’ish, evidentemente em sentido coletivo.
+====
+
+[[v19-4-3]]
+
+^<<v19-4-3,3>>^ Portanto, ficai sabendo que Jeová certamente distinguirá aquele que lhe é leal;^&#42;1^
+O próprio Jeová ouvirá quando eu o chamar.
+
+[NOTE]
+====
+. “Jeová fez maravilhoso seu homem de benevolência [Vg: “seu santo”]”, LXX.
+====
+
+[[v19-4-4]]
+
+^<<v19-4-4,4>>^ Ficai agitados, mas não pequeis.
+Falai no vosso coração, na vossa cama, e ficai quietos. Selá.
+
+[[v19-4-5]]
+
+^<<v19-4-5,5>>^ Oferecei os sacrifícios da justiça
+E confiai em Jeová.
+
+[[v19-4-6]]
+
+^<<v19-4-6,6>>^ Há muitos que dizem: “Quem nos mostrará o que é bom?”
+Levanta sobre nós a luz da tua face, ó Jeová.
+
+[[v19-4-7]]
+
+^<<v19-4-7,7>>^ Certamente me darás alegria no coração,
+Maior do que no tempo em que abundavam seu cereal e seu vinho novo.
+
+[[v19-4-8]]
+
+^<<v19-4-8,8>>^ Vou tanto deitar-me como dormir em paz,
+Pois somente tu, ó Jeová, me fazes morar em segurança.
+
+'''
+
+xref:019-salmo/019-salmo-003.adoc#v19-3-0[&#60; Capítulo Anterior] | <<v19-4-0,Topo>> | xref:019-salmo/019-salmo-005.adoc#v19-5-0[Próximo Capítulo &#62;]

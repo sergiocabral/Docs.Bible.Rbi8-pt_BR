@@ -1,0 +1,146 @@
+include::./index.adoc[]
+
+[[v26-13-0]]
+=== Ezequiel, 13
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v26-13-1]]
+
+^<<v26-13-1,1>>^ E continuou a vir a haver para mim a palavra de Jeová, dizendo:
+
+[[v26-13-2]]
+
+^<<v26-13-2,2>>^ “Filho do homem, profetiza a respeito dos profetas de Israel, que estão profetizando, e tens de dizer aos que profetizam do seu próprio coração: ‘Ouvi a palavra de Jeová.
+
+[[v26-13-3]]
+
+^<<v26-13-3,3>>^ Assim disse o Soberano Senhor Jeová: “Ai dos profetas estúpidos que estão andando atrás do seu próprio espírito,^&#42;1^ quando não viram coisa alguma!
+
+[NOTE]
+====
+. “Seu próprio espírito.” Hebr.: ru·hhám; lat.: spí·ri·tum; gr.: kar·dí·as, “coração”.
+====
+
+[[v26-13-4]]
+
+^<<v26-13-4,4>>^ Como raposas em lugares devastados é que se tornaram os teus próprios profetas, ó Israel.
+
+[[v26-13-5]]
+
+^<<v26-13-5,5>>^ Vós certamente não subireis às brechas, nem construireis um muro de pedras para a casa de Israel, para ficar de pé na batalha^&#42;1^ no dia de Jeová.”
+
+[NOTE]
+====
+. Ou “guerra”.
+====
+
+[[v26-13-6]]
+
+^<<v26-13-6,6>>^ “Visionaram o que é inverídico e uma adivinhação mentirosa, os que estão dizendo: ‘A pronunciação de Jeová é’, quando o próprio Jeová não os enviou, e eles esperavam que se cumprisse a palavra.
+
+[[v26-13-7]]
+
+^<<v26-13-7,7>>^ Acaso não é uma visão inverídica a que visionastes e uma adivinhação mentirosa a que dissestes, dizendo: ‘A pronunciação de Jeová é’, quando eu mesmo não falei nada?”’
+
+[[v26-13-8]]
+
+^<<v26-13-8,8>>^ “‘Portanto, assim disse o Soberano Senhor Jeová: “‘Visto que vós falastes o que não é verdade e visionastes uma mentira, por isso, eis que sou contra vós’, é a pronunciação do Soberano Senhor Jeová.”
+
+[[v26-13-9]]
+
+^<<v26-13-9,9>>^ E a minha mão veio a estar contra os profetas que visionam o que não é verdade e que adivinham uma mentira. Não continuarão no grupo íntimo do meu povo e não serão inscritos no registro^&#42;1^ da casa de Israel, e não chegarão ao solo de Israel; e tereis^&#42;2^ de saber que eu sou o Soberano Senhor Jeová,
+
+[NOTE]
+====
+. Lit.: “na escrita”.
+. “Tereis”, MTSyVg; LXX: “terão”.
+====
+
+[[v26-13-10]]
+
+^<<v26-13-10,10>>^ pela razão, sim, pela razão de que desencaminhastes meu povo, dizendo: “Há paz!” quando não há paz, e há quem constrói uma parede de separação, mas é em vão que há os que a rebocam a cal.’
+
+[[v26-13-11]]
+
+^<<v26-13-11,11>>^ “Dize aos que rebocam a cal que ela cairá. Certamente ocorrerá um aguaceiro inundante, e vós, ó pedras de saraiva, caireis,^&#42;1^ e o próprio sopro^&#42;2^ de vendavais causará fendas.
+
+[NOTE]
+====
+. Segundo M; LXX: “e darei pedras de arremesso contra seus ligamentos, e eles cairão”; Vg: “e darei pedras muito grandes precipitando-se de cima”.
+. “E o . . . sopro de.” Hebr.: werú·ahh; gr.: pneú·ma; lat.: vén·tum, “vento”.
+====
+
+[[v26-13-12]]
+
+^<<v26-13-12,12>>^ E eis que a parede terá de cair. Não se dirá a vós: ‘Onde está o revestimento^&#42;1^ com que rebocastes?’
+
+[NOTE]
+====
+. Ou “reboco”.
+====
+
+[[v26-13-13]]
+
+^<<v26-13-13,13>>^ “Portanto, assim disse o Soberano Senhor Jeová: ‘Vou fazer irromper também um sopro de vendavais no meu furor, e na minha ira ocorrerá um aguaceiro inundante, e no meu furor haverá pedras de saraiva para uma exterminação.
+
+[[v26-13-14]]
+
+^<<v26-13-14,14>>^ E vou derrubar a parede que rebocastes a cal e pô-la em contato com a terra, e seu alicerce terá de ser exposto. E ela^&#42;1^ certamente cairá e vós tereis de chegar ao fim no meio dela; e tereis de saber que eu sou Jeová.’
+
+[NOTE]
+====
+. “Ela”, hebr. fem. sing.; não se refere à “parede”, hebr. masc., mas possivelmente à cidade.
+====
+
+[[v26-13-15]]
+
+^<<v26-13-15,15>>^ “‘E eu vou levar a cabo meu furor contra a parede e contra os que a rebocam a cal, e eu vos direi: “A parede não existe mais e os que a rebocaram não existem mais,
+
+[[v26-13-16]]
+
+^<<v26-13-16,16>>^ os profetas de Israel que estão profetizando a Jerusalém e que estão tendo para ela uma visão de paz, quando não há paz”’, é a pronunciação do Soberano Senhor Jeová.
+
+[[v26-13-17]]
+
+^<<v26-13-17,17>>^ “E no que se refere a ti, ó filho do homem, fixa a tua face contra as filhas do teu povo, que agem como profetisas, do seu próprio coração, e profetiza contra elas.
+
+[[v26-13-18]]
+
+^<<v26-13-18,18>>^ E tens de dizer: ‘Assim disse o Soberano Senhor Jeová: “Ai das mulheres que cosem faixas sobre todos os cotovelos^&#42;1^ e fazem véus para cabeças de todo tamanho, a fim de caçar almas!^&#42;2^ Pertencem ao meu povo as almas que vós mulheres estais caçando e são as almas que pertencem a vós as que preservais vivas?
+
+[NOTE]
+====
+. Lit.: “as juntas das mãos”.
+. “Almas.” Hebr.: nefa·shóhth, fem. pl.; gr.: psy·khás; lat.: á·ni·mas.
+====
+
+[[v26-13-19]]
+
+^<<v26-13-19,19>>^ E porventura me profanareis para com o meu povo em troca de punhados de cevada e por pedacinhos de pão, para entregardes à morte as almas que não deviam morrer e para preservardes vivas as almas que não deviam viver, pela vossa mentira ao meu povo, os que ouvem a mentira?”’
+
+[[v26-13-20]]
+
+^<<v26-13-20,20>>^ “Portanto, assim disse o Soberano Senhor Jeová: ‘Eis que sou contra as vossas faixas, mulheres, com que estais caçando as almas como se fossem coisas voadoras,^&#42;1^ e vou arrancá-las dos vossos braços e soltar^&#42;2^ as almas que caçastes, almas^&#42;3^ como se fossem coisas voadoras.
+
+[NOTE]
+====
+. Ou “como moscas”.
+. Lit.: “e mandar embora”.
+. “Almas.” Hebr.: nefa·shím, masc. pl. de né·fesh, fem. Esta é a única ocorrência no M; portanto, provavelmente devesse rezar: hhof·shím, “livres”.
+====
+
+[[v26-13-21]]
+
+^<<v26-13-21,21>>^ E vou arrancar os vossos véus e livrar meu povo da vossa mão e não mais mostrarão estar na vossa mão como algo apanhado na caça; e tereis de saber que eu sou Jeová.
+
+[[v26-13-22]]
+
+^<<v26-13-22,22>>^ Visto que desalentastes o coração do justo com falsidade, quando eu mesmo não lhe causei dor, e por terdes fortalecido a mão do iníquo, para que não recuasse do seu caminho mau, para preservá-lo vivo,
+
+[[v26-13-23]]
+
+^<<v26-13-23,23>>^ por isso não continuareis vós, mulheres, a visionar o que não é verdade e não fareis mais adivinhação; e eu vou livrar meu povo da vossa mão, e tereis de saber que eu sou Jeová.’”
+
+'''
+
+xref:026-ezequiel/026-ezequiel-012.adoc#v26-12-0[&#60; Capítulo Anterior] | <<v26-13-0,Topo>> | xref:026-ezequiel/026-ezequiel-014.adoc#v26-14-0[Próximo Capítulo &#62;]

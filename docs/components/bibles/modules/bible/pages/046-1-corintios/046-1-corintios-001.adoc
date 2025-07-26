@@ -1,0 +1,176 @@
+include::./index.adoc[]
+
+[[v46-1-0]]
+=== 1 Coríntios, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v46-1-1]]
+
+^<<v46-1-1,1>>^ Paulo, chamado para ser apóstolo de Jesus Cristo, por intermédio da vontade de Deus, e Sóstenes, nosso irmão,
+
+[[v46-1-2]]
+
+^<<v46-1-2,2>>^ à congregação de Deus que está em Corinto, a vós os que fostes santificados em união com Cristo Jesus, chamados para ser santos, junto com todos os que em toda a parte estão invocando o nome de nosso Senhor, Jesus Cristo, Senhor deles e nosso:
+
+[[v46-1-3]]
+
+^<<v46-1-3,3>>^ Que tenhais benignidade imerecida e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.
+
+[[v46-1-4]]
+
+^<<v46-1-4,4>>^ Eu sempre agradeço a Deus por vós, em vista da benignidade imerecida de Deus, dada a vós em Cristo Jesus,
+
+[[v46-1-5]]
+
+^<<v46-1-5,5>>^ que em tudo fostes enriquecidos nele, na plena capacidade de falar e no pleno conhecimento,
+
+[[v46-1-6]]
+
+^<<v46-1-6,6>>^ assim como o testemunho^&#42;1^ a respeito do Cristo foi feito firme entre vós,
+
+[NOTE]
+====
+. “Testemunho.” Gr.: mar·tý·ri·on; lat.: te·sti·mó·ni·um.
+====
+
+[[v46-1-7]]
+
+^<<v46-1-7,7>>^ de modo que não deixastes de atingir nenhum dom, enquanto estais esperando ardentemente a revelação de nosso Senhor Jesus Cristo.
+
+[[v46-1-8]]
+
+^<<v46-1-8,8>>^ Ele vos fará também firmes até o fim,^&#42;1^ para que não estejais expostos a nenhuma acusação no dia^&#42;2^ de nosso Senhor Jesus Cristo.^&#42;3^
+
+[NOTE]
+====
+. Ou “término”. Gr.: té·lous.
+. “Dia”, אAB; D: “presença”; Vg: “dia do advento”.
+. “Cristo”, אACDVgSyh,hi,p; P46B omitem isso.
+====
+
+[[v46-1-9]]
+
+^<<v46-1-9,9>>^ Fiel é Deus, por quem fostes chamados a uma parceria com seu Filho, Jesus Cristo, nosso Senhor.
+
+[[v46-1-10]]
+
+^<<v46-1-10,10>>^ Exorto-vos agora, irmãos, por intermédio do nome de nosso Senhor Jesus Cristo, que todos faleis de acordo, e que não haja entre vós divisões,^&#42;1^ mas que estejais aptamente unidos na mesma mente e na mesma maneira de pensar.
+
+[NOTE]
+====
+. Ou “cismas”. Gr.: skhí·sma·ta; lat.: scí·sma·ta.
+====
+
+[[v46-1-11]]
+
+^<<v46-1-11,11>>^ Pois, foi-me exposto a respeito de vós, meus irmãos, pelos [da casa] de Cloe, que existem dissensões entre vós.
+
+[[v46-1-12]]
+
+^<<v46-1-12,12>>^ O que eu quero dizer é o seguinte: que cada um de vós diz: “Eu pertenço a Paulo”, “mas eu a Apolo”, “mas eu a Cefas”, “mas eu a Cristo”.
+
+[[v46-1-13]]
+
+^<<v46-1-13,13>>^ O Cristo existe dividido. Será que Paulo foi pregado numa estaca^&#42;1^ para vós? Ou fostes batizados no nome de Paulo?
+
+[NOTE]
+====
+. Ou “fixado numa estaca (poste)”. Veja Ap. 5C.
+====
+
+[[v46-1-14]]
+
+^<<v46-1-14,14>>^ Sou grato que não batizei a nenhum de vós, exceto a Crispo e a Gaio,
+
+[[v46-1-15]]
+
+^<<v46-1-15,15>>^ para que ninguém diga que fostes batizados no meu nome.
+
+[[v46-1-16]]
+
+^<<v46-1-16,16>>^ Sim, batizei também a família de Estéfanas. Quanto aos demais, não sei se batizei mais alguém.
+
+[[v46-1-17]]
+
+^<<v46-1-17,17>>^ Pois Cristo não me mandou para estar batizando, mas para estar declarando as boas novas, não com sabedoria de palavra, a fim de que a estaca de tortura^&#42;1^ do Cristo não se torne inútil.
+
+[NOTE]
+====
+. Veja Ap. 5C.
+====
+
+[[v46-1-18]]
+
+^<<v46-1-18,18>>^ Pois a palavra a respeito da estaca de tortura é tolice para os que estão perecendo, mas para nós, os que estamos sendo salvos, é o poder de Deus.
+
+[[v46-1-19]]
+
+^<<v46-1-19,19>>^ Porque está escrito: “Farei perecer a sabedoria dos sábios e repelirei a inteligência dos intelectuais.”
+
+[[v46-1-20]]
+
+^<<v46-1-20,20>>^ Onde está o sábio? Onde o escriba? Onde o polemista deste sistema de coisas?^&#42;1^ Não tornou Deus tola a sabedoria do mundo?
+
+[NOTE]
+====
+. Ou “ordem de coisas”. Gr.: ai·ó·nos; lat.: saé·cu·li; J17,22(hebr.): ha·‛oh·lám haz·zéh, “desta ordem de coisas”.
+====
+
+[[v46-1-21]]
+
+^<<v46-1-21,21>>^ Pois, uma vez que, na sabedoria de Deus, o mundo, pela sua sabedoria, não chegou a conhecer a Deus, Deus achou bom salvar os que crêem, por intermédio da tolice do que se prega.
+
+[[v46-1-22]]
+
+^<<v46-1-22,22>>^ Porque, tanto os judeus pedem sinais como os gregos procuram sabedoria;
+
+[[v46-1-23]]
+
+^<<v46-1-23,23>>^ mas nós pregamos Cristo pregado numa estaca, [que é] para os judeus causa de tropeço, mas para as nações, tolice;
+
+[[v46-1-24]]
+
+^<<v46-1-24,24>>^ no entanto, para os chamados, tanto judeus como gregos, Cristo [é] o poder de Deus e a sabedoria de Deus.
+
+[[v46-1-25]]
+
+^<<v46-1-25,25>>^ Porque uma coisa tola^&#42;1^ de Deus é mais sábia do que os homens, e uma coisa fraca^&#42;2^ de Deus é mais forte do que os homens.
+
+[NOTE]
+====
+. Ou “a tolice”.
+. Ou “a fraqueza”.
+====
+
+[[v46-1-26]]
+
+^<<v46-1-26,26>>^ Pois observais a vossa chamada [da parte] dele, irmãos, que não foram chamados muitos sábios em sentido carnal, nem muitos poderosos, nem muitos de nobre estirpe;
+
+[[v46-1-27]]
+
+^<<v46-1-27,27>>^ mas Deus escolheu as coisas tolas do mundo, para envergonhar os sábios; e Deus escolheu as coisas fracas do mundo, para envergonhar as coisas fortes;
+
+[[v46-1-28]]
+
+^<<v46-1-28,28>>^ e Deus escolheu as coisas ignóbeis do mundo e as coisas menosprezadas, as coisas que não são, para reduzir a nada as coisas que são,
+
+[[v46-1-29]]
+
+^<<v46-1-29,29>>^ a fim de que nenhuma carne se jacte à vista de Deus.
+
+[[v46-1-30]]
+
+^<<v46-1-30,30>>^ Mas, é devido a ele que estais em união com Cristo Jesus, que se tornou para nós sabedoria de Deus, também justiça e santificação, e livramento por meio de resgate;
+
+[[v46-1-31]]
+
+^<<v46-1-31,31>>^ para que fosse assim como está escrito: “Quem se jactar, jacte-se em Jeová.”^&#42;1^
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+'''
+
+xref:045-romanos/045-romanos-016.adoc#v45-16-0[&#60; Capítulo Anterior] | <<v46-1-0,Topo>> | xref:046-1-corintios/046-1-corintios-002.adoc#v46-2-0[Próximo Capítulo &#62;]

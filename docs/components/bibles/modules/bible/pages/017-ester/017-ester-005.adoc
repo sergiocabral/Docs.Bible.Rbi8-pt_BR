@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v17-5-0]]
+=== Ester, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v17-5-1]]
+
+^<<v17-5-1,1>>^ E sucedeu, no terceiro dia, que Ester foi vestir-se regiamente, tomando depois sua posição no pátio interno da casa do rei, defronte da casa do rei, enquanto o rei estava sentado no seu trono real, na casa real, defronte da entrada da casa.
+
+[[v17-5-2]]
+
+^<<v17-5-2,2>>^ E aconteceu que, assim que o rei viu Ester, a rainha, parada no pátio, ela obteve favor aos seus olhos, de modo que o rei estendeu a Ester o cetro de ouro que estava na sua mão. Ester chegou-se então perto e tocou a ponta do cetro.
+
+[[v17-5-3]]
+
+^<<v17-5-3,3>>^ O rei disse-lhe então: “Que tens, ó Ester, a rainha, e qual é a tua solicitação? Até a metade do reinado — a ti seja dado!”
+
+[[v17-5-4]]
+
+^<<v17-5-4,4>>^ Ester disse, por sua vez: “Se parecer bem ao rei, venha o rei com Hamã hoje^&#42;1^ ao banquete que preparei para ele.”
+
+[NOTE]
+====
+. “Venha o rei com Hamã hoje.” Este parece ser o segundo acróstico do Tetragrama, YHWH, em Ester. Ya·vóh’ Ham·mé·lekh Weha·mán Hai·yóhm, em hebr. Sabe-se de três antigos mss. hebr. que apresentam as letras hebr. do nome divino, יהוה (YHWH), num acróstico em letras maiúsculas, como segue: יוםה המןו מלךה בואי. A Massorá, numa rubrica, ou em letras vermelhas, traz isso à atenção. Veja 1:20 n.
+====
+
+[[v17-5-5]]
+
+^<<v17-5-5,5>>^ Por conseguinte, o rei disse: “Vós, fazei a Hamã agir depressa segundo a palavra de Ester.” Mais tarde chegaram o rei e Hamã ao banquete preparado por Ester.
+
+[[v17-5-6]]
+
+^<<v17-5-6,6>>^ Após um tempo disse o rei a Ester, durante o banquete de vinho: “Qual é o teu pedido? Seja-te concedido! E qual é a tua solicitação? Até a metade do reinado — seja feito!”
+
+[[v17-5-7]]
+
+^<<v17-5-7,7>>^ A isto respondeu Ester e disse: “Meu pedido e minha solicitação é:
+
+[[v17-5-8]]
+
+^<<v17-5-8,8>>^ Se eu tiver achado favor aos olhos do rei e se parecer bem ao rei conceder o meu pedido e agir segundo a minha solicitação, venha o rei e Hamã ao banquete que lhes darei [amanhã],^&#42;1^ e amanhã farei segundo a palavra do rei.”
+
+[NOTE]
+====
+. “Amanhã”, LXX; MVg omitem isso.
+====
+
+[[v17-5-9]]
+
+^<<v17-5-9,9>>^ Conseqüentemente, Hamã saiu naquele dia alegre e contente de coração; mas assim que Hamã viu a Mordecai no portão do rei, e que ele não se levantou nem trepidou por causa dele, Hamã se encheu imediatamente de furor contra Mordecai.
+
+[[v17-5-10]]
+
+^<<v17-5-10,10>>^ No entanto, Hamã controlou-se e entrou na sua casa. Sentou-se então e fez que se trouxessem seus amigos^&#42;1^ e Zeres, sua esposa;
+
+[NOTE]
+====
+. Ou “amantes (ou: “os que o amavam”)”.
+====
+
+[[v17-5-11]]
+
+^<<v17-5-11,11>>^ e Hamã passou a narrar-lhes a glória das suas riquezas e o grande número dos seus filhos, e tudo com que o rei o enaltecera, e como o exaltara acima dos príncipes e dos servos do rei.
+
+[[v17-5-12]]
+
+^<<v17-5-12,12>>^ E Hamã prosseguiu, dizendo: “Além disso, Ester, a rainha, introduziu com o rei no banquete que preparara a nenhum outro senão a mim, e também amanhã sou convidado por ela com o rei.
+
+[[v17-5-13]]
+
+^<<v17-5-13,13>>^ Mas tudo isso — nada disso me convém^&#42;1^ enquanto eu estiver vendo a Mordecai, o judeu, sentado no portão do rei.”
+
+[NOTE]
+====
+. “Mas tudo isso — nada disso me convém.” Hebr.: wekhol-zéH ’eh·nén·nU sho·wéH lI. O U corresponde aqui ao W, e o I corresponde ao Y. Este parece ser o terceiro acróstico do Tetragrama, יהוה (YHWH), em Ester. Sabe-se de três antigos mss. hebr. que apresentam as letras hebr. do nome divino, יהוה, aqui escritas em ordem invertida, num acróstico em letras maiúsculas, como segue: יל השו ואיננ הוכל־ז. A Massorá, numa rubrica, ou em letras vermelhas, traz isso à atenção. Veja notas sobre o v. 4 e 1:20.
+====
+
+[[v17-5-14]]
+
+^<<v17-5-14,14>>^ Então disseram-lhe Zeres, sua esposa, e todos os seus amigos: “Faça-se um madeiro^&#42;1^ de cinqüenta côvados^&#42;2^ de altura. Então, de manhã, dize ao rei que se deve pendurar nele a Mordecai. Então entra alegremente com o rei para o banquete.” De modo que a coisa parecia boa a Hamã e ele passou a mandar fazer o madeiro.
+
+[NOTE]
+====
+. Lit.: “árvore (madeira)”. Hebr.: ‛ets; gr.: xý·lon; lat.: trá·bem. Veja Gên 40:19 n.
+. Cerca de 22,3 m.
+====
+
+'''
+
+xref:017-ester/017-ester-004.adoc#v17-4-0[&#60; Capítulo Anterior] | <<v17-5-0,Topo>> | xref:017-ester/017-ester-006.adoc#v17-6-0[Próximo Capítulo &#62;]

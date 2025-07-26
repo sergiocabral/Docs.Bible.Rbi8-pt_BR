@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v20-23-0]]
+=== Provérbios, 23
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-23-1]]
+
+^<<v20-23-1,1>>^ Caso te assentes com um rei para te alimentar, deves considerar diligentemente o que há diante de ti,
+
+[[v20-23-2]]
+
+^<<v20-23-2,2>>^ e tens de pôr uma faca à tua garganta, se fores dono [dum desejo] de alma.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “alma”. Hebr.: né·fesh; lat.: á·ni·mam.
+====
+
+[[v20-23-3]]
+
+^<<v20-23-3,3>>^ Não te mostres almejante dos seus pratos gostosos, visto ser alimento de mentiras.
+
+[[v20-23-4]]
+
+^<<v20-23-4,4>>^ Não labutes para enriquecer. Deixa da tua própria compreensão.
+
+[[v20-23-5]]
+
+^<<v20-23-5,5>>^ Fizeste teus olhos relanceá-la sendo que ela não é nada? Pois, sem falta fará para si asas como as da águia e sairá voando em direção aos céus.
+
+[[v20-23-6]]
+
+^<<v20-23-6,6>>^ Não te alimentes do alimento de alguém de olho não generoso,^&#42;1^ nem te mostres almejante dos seus pratos gostosos.
+
+[NOTE]
+====
+. Lit.: “mau quanto ao olho”. Hebr.: ra‛ ‛á·yin.
+====
+
+[[v20-23-7]]
+
+^<<v20-23-7,7>>^ Pois ele é como alguém que estava calculando na sua alma. “Come e bebe”, ele te diz, mas o seu coração mesmo não está contigo.
+
+[[v20-23-8]]
+
+^<<v20-23-8,8>>^ Vomitarás o teu bocado que comeste e terás desperdiçado as tuas palavras agradáveis.
+
+[[v20-23-9]]
+
+^<<v20-23-9,9>>^ Não fales aos ouvidos de alguém estúpido, porque ele desprezará as tuas palavras discretas.
+
+[[v20-23-10]]
+
+^<<v20-23-10,10>>^ Não recues o termo [existente] há muito tempo e não entres no campo de meninos órfãos de pai.
+
+[[v20-23-11]]
+
+^<<v20-23-11,11>>^ Porque o Redentor^&#42;1^ deles é forte; ele mesmo pleiteará contigo a causa deles.
+
+[NOTE]
+====
+. “O Redentor (Resgatador) deles.” Ampliando a idéia: “o Vingador (Vindicador) deles”. Hebr.: gho·’alám. Veja Jó 19:25 n. e Sal 19:14 n.
+====
+
+[[v20-23-12]]
+
+^<<v20-23-12,12>>^ Faze deveras teu coração chegar-se à disciplina e teu ouvido às declarações de conhecimento.
+
+[[v20-23-13]]
+
+^<<v20-23-13,13>>^ Não retenhas a disciplina do mero rapaz. Não morrerá se lhe bateres com a vara.
+
+[[v20-23-14]]
+
+^<<v20-23-14,14>>^ Tu mesmo lhe deves bater com a vara, para que livres a sua alma do próprio Seol.^&#42;1^
+
+[NOTE]
+====
+. “Do . . . Seol.” Hebr.: mish·she’óhl; LXX: “morte”; sir.: shiul; lat.: in·fér·no. Veja Ap. 4B.
+====
+
+[[v20-23-15]]
+
+^<<v20-23-15,15>>^ Filho meu, se teu coração se tiver tornado sábio, alegrar-se-á meu coração, sim, o meu.
+
+[[v20-23-16]]
+
+^<<v20-23-16,16>>^ E meus rins^&#42;1^ rejubilarão quando os teus lábios falarem retidão.
+
+[NOTE]
+====
+. Ou “minhas mais profundas emoções”. Hebr.: khil·yoh·thaí.
+====
+
+[[v20-23-17]]
+
+^<<v20-23-17,17>>^ Não inveje teu coração os pecadores, mas tenha ele temor de Jeová o dia inteiro.
+
+[[v20-23-18]]
+
+^<<v20-23-18,18>>^ Pois neste caso haverá futuro, e a tua própria esperança não será decepada.
+
+[[v20-23-19]]
+
+^<<v20-23-19,19>>^ Tu, meu filho, ouve e torna-te sábio, e encaminha teu coração no caminho.
+
+[[v20-23-20]]
+
+^<<v20-23-20,20>>^ Não venhas a ficar entre os beberrões de vinho, entre os que são comilões de carne.
+
+[[v20-23-21]]
+
+^<<v20-23-21,21>>^ Porque o beberrão e o glutão ficarão pobres, e a sonolência vestirá a pessoa de meros trapos.
+
+[[v20-23-22]]
+
+^<<v20-23-22,22>>^ Escuta teu pai que causou o teu nascimento e não desprezes a tua mãe só porque ela envelheceu.
+
+[[v20-23-23]]
+
+^<<v20-23-23,23>>^ Compra a própria verdade e não a vendas — sabedoria, e disciplina, e compreensão.
+
+[[v20-23-24]]
+
+^<<v20-23-24,24>>^ O pai de um justo sem falta jubilará; quem se torna pai de um sábio também se alegrará dele.
+
+[[v20-23-25]]
+
+^<<v20-23-25,25>>^ Teu pai e tua mãe se alegrarão, e aquela que te deu à luz jubilará.
+
+[[v20-23-26]]
+
+^<<v20-23-26,26>>^ Filho meu, dá-me deveras teu coração, e agradem-se estes olhos teus dos meus próprios caminhos.
+
+[[v20-23-27]]
+
+^<<v20-23-27,27>>^ Pois a prostituta é uma cova funda e a mulher estrangeira é um poço estreito.
+
+[[v20-23-28]]
+
+^<<v20-23-28,28>>^ Ela, igual a um assaltante, seguramente está de tocaia; e ela incrementa entre os homens os traiçoeiros.
+
+[[v20-23-29]]
+
+^<<v20-23-29,29>>^ Quem tem ais? Quem tem apreensão? Quem tem contendas? Quem tem preocupação? Quem tem ferimentos sem razão alguma? Quem tem embaciamento dos olhos?
+
+[[v20-23-30]]
+
+^<<v20-23-30,30>>^ Os que ficam muito tempo com o vinho, os que entram para descobrir vinho misturado.
+
+[[v20-23-31]]
+
+^<<v20-23-31,31>>^ Não olhes para o vinho quando apresenta uma cor vermelha, quando está cintilando no copo, [quando] escorre suavemente.
+
+[[v20-23-32]]
+
+^<<v20-23-32,32>>^ No seu fim morde igual a uma serpente e segrega veneno igual a uma víbora.
+
+[[v20-23-33]]
+
+^<<v20-23-33,33>>^ Teus próprios olhos verão coisas estranhas^&#42;1^ e teu próprio coração falará coisas perversas.
+
+[NOTE]
+====
+. Ou “mulheres estranhas”.
+====
+
+[[v20-23-34]]
+
+^<<v20-23-34,34>>^ E hás de tornar-te como quem se deita no coração do mar, sim, como quem se deita no topo de um mastro.
+
+[[v20-23-35]]
+
+^<<v20-23-35,35>>^ “Golpearam-me, mas não adoeci; surraram-me, mas eu não o sabia. Quando é que acordarei? Eu o procurarei ainda mais.”
+
+'''
+
+xref:020-proverbios/020-proverbios-022.adoc#v20-22-0[&#60; Capítulo Anterior] | <<v20-23-0,Topo>> | xref:020-proverbios/020-proverbios-024.adoc#v20-24-0[Próximo Capítulo &#62;]

@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v24-19-0]]
+=== Jeremias, 19
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-19-1]]
+
+^<<v24-19-1,1>>^ Assim disse Jeová: “Vai,^&#42;1^ e tens de obter uma botija de barro de oleiro e [tomar] alguns dos anciãos do povo e alguns dos anciãos dos sacerdotes.
+
+[NOTE]
+====
+. Veja 2:2 n.: “Vai.”
+====
+
+[[v24-19-2]]
+
+^<<v24-19-2,2>>^ E tens de sair ao vale do filho de Hinom,^&#42;1^ que está à entrada do Portão dos Cacos.^&#42;2^ E ali tens de proclamar as palavras que eu te falar.
+
+[NOTE]
+====
+. “Vale do filho de Hinom.” Hebr.: geh’ ven-Hin·nóm; lat.: vál·lem fí·li·i Én·nom. Veja Ap. 4C.
+. “Portão dos Cacos.” Visto que este portão dava para a parte mais oriental do vale de Hinom, é provavelmente o mesmo que o Portão dos Montes de Cinzas ou o Portão do Esterco. Na obra Jerusalem in the Old Testament, p. 230, n. 1, o Dr. J. Simons diz: “Em vez de ‘Portão dos Cacos’, é possível traduzi-lo por ‘Portão dos Oleiros’, ou, talvez melhor ainda, por ‘Portão das Panelas de Barro’.”
+====
+
+[[v24-19-3]]
+
+^<<v24-19-3,3>>^ E tens de dizer: ‘Ouvi a palavra de Jeová, ó reis de Judá e vós habitantes de Jerusalém. Assim disse Jeová dos exércitos, o Deus^&#42;1^ de Israel:
+“‘“Eis que trago sobre este lugar uma calamidade tal que, ouvindo alguém [falar dela], lhe tinirão os ouvidos;
+
+[NOTE]
+====
+. “O Deus de.” Hebr.: ’Elo·héh.
+====
+
+[[v24-19-4]]
+
+^<<v24-19-4,4>>^ pela razão de que me abandonaram e passaram a fazer este lugar irreconhecível e a fazer nele fumaça sacrificial a outros deuses^&#42;1^ que não conheceram, nem eles, nem seus antepassados, nem os reis de Judá; e encheram este lugar com o sangue dos inocentes.
+
+[NOTE]
+====
+. “A . . . deuses.” Hebr.: le’·lo·hím.
+====
+
+[[v24-19-5]]
+
+^<<v24-19-5,5>>^ E construíram os altos de Baal para queimar seus filhos no fogo como holocaustos a Baal, algo que não ordenei nem falei, e que nem me subiu ao coração.”’
+
+[[v24-19-6]]
+
+^<<v24-19-6,6>>^ “‘“Portanto, eis que vêm dias”, é a pronunciação de Jeová, “em que este lugar não mais será chamado Tofete e o vale do filho de Hinom, mas o vale da matança.
+
+[[v24-19-7]]
+
+^<<v24-19-7,7>>^ E eu vou invalidar o conselho de Judá e de Jerusalém neste lugar e vou fazê-los cair à espada diante dos seus inimigos e pela mão dos que procuram a sua alma. E vou dar os seus cadáveres como alimento às criaturas voadoras dos céus e aos animais da terra.
+
+[[v24-19-8]]
+
+^<<v24-19-8,8>>^ E vou fazer desta cidade um assombro e objeto de assobio. Todo aquele que passar por ela olhará espantado e assobiará por causa de todas as suas pragas.
+
+[[v24-19-9]]
+
+^<<v24-19-9,9>>^ E vou fazê-los comer a carne de seus filhos e a carne de suas filhas; e comerão, cada um, a carne de seu próximo, por causa do cerco e por causa do aperto com que os assediarão os seus inimigos e os que procuram a sua alma.”’
+
+[[v24-19-10]]
+
+^<<v24-19-10,10>>^ “E tens de destroçar a botija diante dos olhos dos homens que vão contigo.
+
+[[v24-19-11]]
+
+^<<v24-19-11,11>>^ E tens de dizer-lhes: ‘Assim disse Jeová dos exércitos: “Assim destroçarei este povo e esta cidade, como alguém destroça o vaso do oleiro de modo que não possa ser consertado; e far-se-á o sepultamento em Tofete até que não haja mais lugar^&#42;1^ em que sepultar.”’
+
+[NOTE]
+====
+. Lit.: “por não haver lugar”.
+====
+
+[[v24-19-12]]
+
+^<<v24-19-12,12>>^ “‘Assim é que farei a este lugar’, é a pronunciação de Jeová, ‘e aos seus habitantes, sim, para fazer esta cidade igual a Tofete.
+
+[[v24-19-13]]
+
+^<<v24-19-13,13>>^ E as casas de Jerusalém e as casas dos reis de Judá terão de tornar-se como o lugar de Tofete, imundas, isto é, todas as casas em cujos terraços fizeram fumaça sacrificial a todo o exército dos céus e onde se derramavam ofertas de bebida a outros deuses.’”^&#42;1^
+
+[NOTE]
+====
+. Veja v. 4 n.
+====
+
+[[v24-19-14]]
+
+^<<v24-19-14,14>>^ E Jeremias passou a chegar de Tofete, aonde Jeová o enviara para profetizar, e a ficar de pé no pátio da casa de Jeová e a dizer a todo o povo:
+
+[[v24-19-15]]
+
+^<<v24-19-15,15>>^ “Assim disse Jeová dos exércitos, o Deus^&#42;1^ de Israel: ‘Eis que trago sobre esta cidade e sobre todas as suas cidades toda a calamidade que proferi contra ela, por terem endurecido a sua cerviz para não obedecerem às minhas palavras.’”
+
+[NOTE]
+====
+. Veja v. 3 n.
+====
+
+'''
+
+xref:024-jeremias/024-jeremias-018.adoc#v24-18-0[&#60; Capítulo Anterior] | <<v24-19-0,Topo>> | xref:024-jeremias/024-jeremias-020.adoc#v24-20-0[Próximo Capítulo &#62;]

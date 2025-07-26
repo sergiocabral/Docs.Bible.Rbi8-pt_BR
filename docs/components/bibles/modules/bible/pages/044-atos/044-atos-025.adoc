@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v44-25-0]]
+=== Atos, 25
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v44-25-1]]
+
+^<<v44-25-1,1>>^ Festo, portanto, depois de assumir o [governo da] província,^&#42;1^ subiu três dias mais tarde de Cesaréia a Jerusalém;
+
+[NOTE]
+====
+. Isto é, da Judéia, servindo Cesaréia de residência para o governador.
+====
+
+[[v44-25-2]]
+
+^<<v44-25-2,2>>^ e os principais sacerdotes e os homens de destaque dos judeus deram-lhe informação contra Paulo. De modo que começaram a suplicar-lhe,
+
+[[v44-25-3]]
+
+^<<v44-25-3,3>>^ pedindo para si mesmos como favor contra o [homem], que mandasse buscá-lo para vir a Jerusalém, visto que estavam armando uma emboscada, para o eliminarem ao longo da estrada.
+
+[[v44-25-4]]
+
+^<<v44-25-4,4>>^ No entanto, Festo respondeu que Paulo seria mantido em Cesaréia e que ele mesmo estava partindo para lá em breve.
+
+[[v44-25-5]]
+
+^<<v44-25-5,5>>^ “Portanto”, disse ele, “desçam comigo os que estão em poder entre vós e o acusem, se há algo de condenável nesse homem”.
+
+[[v44-25-6]]
+
+^<<v44-25-6,6>>^ Assim, não tendo passado mais de oito ou dez dias entre eles, desceu a Cesaréia, e no dia seguinte assentou-se na cadeira de juiz e mandou que se trouxesse Paulo.
+
+[[v44-25-7]]
+
+^<<v44-25-7,7>>^ Quando ele chegou, os judeus que tinham descido de Jerusalém ficaram de pé em volta dele, lançando contra ele muitas acusações sérias, para as quais não podiam mostrar evidência.
+
+[[v44-25-8]]
+
+^<<v44-25-8,8>>^ Mas Paulo disse em defesa: “Nem contra a Lei dos judeus, nem contra o templo, nem contra César^&#42;1^ cometi qualquer pecado.”
+
+[NOTE]
+====
+. Ou “o imperador”.
+====
+
+[[v44-25-9]]
+
+^<<v44-25-9,9>>^ Festo, desejoso de ganhar o favor dos judeus, disse a Paulo, em resposta: “Desejas subir a Jerusalém e ser julgado ali diante de mim a respeito dessas coisas?”
+
+[[v44-25-10]]
+
+^<<v44-25-10,10>>^ Mas Paulo disse: “Estou perante a cadeira de juiz de César, onde devo ser julgado. Não tenho feito nenhuma injustiça aos judeus, como tu mesmo estás descobrindo muito bem.
+
+[[v44-25-11]]
+
+^<<v44-25-11,11>>^ Se, por um lado, sou realmente delinqüente e tenho cometido algo que mereça a morte, não me escuso de morrer; se, por outro lado, não existe nenhuma dessas coisas de que estes [homens] me acusam, nenhum homem me pode entregar a eles como favor. Apelo para César!”
+
+[[v44-25-12]]
+
+^<<v44-25-12,12>>^ Então Festo, depois de falar com a assembléia dos conselheiros, replicou: “Para César apelaste, para César irás.”
+
+[[v44-25-13]]
+
+^<<v44-25-13,13>>^ Ora, havendo passado alguns dias, chegaram a Cesaréia Agripa,^&#42;1^ o rei, e Berenice,^&#42;2^ para uma visita de cortesia a Festo.
+
+[NOTE]
+====
+. Isto é, Herodes Agripa II.
+. A irmã de Herodes Agripa II, mas vivendo incestuosamente com ele.
+====
+
+[[v44-25-14]]
+
+^<<v44-25-14,14>>^ Assim, visto que passavam ali alguns dias, Festo apresentou ao rei os assuntos concernentes a Paulo, dizendo:
+“Há um certo homem deixado prisioneiro por Félix,
+
+[[v44-25-15]]
+
+^<<v44-25-15,15>>^ e quando estive em Jerusalém, os principais sacerdotes e os anciãos^&#42;1^ dos judeus trouxeram-me informação a respeito dele, pedindo um julgamento de condenação contra ele.
+
+[NOTE]
+====
+. “Anciãos.” Gr.: pre·sbý·te·roi.
+====
+
+[[v44-25-16]]
+
+^<<v44-25-16,16>>^ Mas eu lhes repliquei que não é procedimento romano entregar qualquer homem como favor, antes de o acusado enfrentar face a face os seus acusadores e obter a oportunidade de falar em sua defesa a respeito da queixa.
+
+[[v44-25-17]]
+
+^<<v44-25-17,17>>^ Portanto, quando se ajuntaram aqui, não demorei, mas no dia seguinte assentei-me na cadeira de juiz e mandei que trouxessem o homem para dentro.
+
+[[v44-25-18]]
+
+^<<v44-25-18,18>>^ Tomando o posto, os acusadores não forneceram nenhuma acusação das coisas iníquas que eu supusera a respeito dele.
+
+[[v44-25-19]]
+
+^<<v44-25-19,19>>^ Eles simplesmente tinham certas disputas com ele concernentes à sua própria adoração da deidade^&#42;1^ e concernente a certo Jesus, que estava morto, mas que Paulo asseverava estar vivo.
+
+[NOTE]
+====
+. “Adoração da deidade.” Lit.: “pavor dos demônios”. Gr.: dei·si·dai·mo·ní·as; lat.: su·per·sti·ti·ó·ne; J17,18: “serviço de seu Deus”. Veja 17:22 n.
+====
+
+[[v44-25-20]]
+
+^<<v44-25-20,20>>^ Assim, estando perplexo quanto à disputa sobre estes assuntos, passei a perguntar se ele gostaria de ir a Jerusalém e ser julgado ali concernente a estes assuntos.
+
+[[v44-25-21]]
+
+^<<v44-25-21,21>>^ Mas, quando Paulo apelou para ser guardado para a decisão do Augusto,^&#42;1^ mandei que fosse guardado até que eu o enviasse a César.”
+
+[NOTE]
+====
+. “Augusto”; ou “o imperador”. Gr.: Se·ba·stoú; lat.: Au·gú·sti. Era o título do Nero César, quarto na sucessão desde Otaviano, que foi o primeiro a ter este título.
+====
+
+[[v44-25-22]]
+
+^<<v44-25-22,22>>^ Então, Agripa [disse] a Festo: “Eu mesmo também gostaria de ouvir o homem.” “Amanhã o ouvirás”, disse ele.
+
+[[v44-25-23]]
+
+^<<v44-25-23,23>>^ Portanto, no dia seguinte, Agripa e Berenice vieram com muita pompa e entraram na sala de audiências, junto com os comandantes militares^&#42;1^ e também os homens eminentes da cidade, e, quando Festo deu a ordem, trouxeram Paulo.
+
+[NOTE]
+====
+. Lit.: “com quiliarcas”.
+====
+
+[[v44-25-24]]
+
+^<<v44-25-24,24>>^ E Festo disse: “Rei Agripa e todos os homens que estais presentes conosco, observais este homem a respeito de quem toda a multidão dos judeus junta se dirigiu a mim, tanto em Jerusalém como aqui, gritando que ele não mais devia viver.
+
+[[v44-25-25]]
+
+^<<v44-25-25,25>>^ Mas eu percebi que ele não tinha cometido nada que merecesse a morte. Assim, quando este [homem] mesmo apelou para o Augusto, decidi mandá-lo.
+
+[[v44-25-26]]
+
+^<<v44-25-26,26>>^ Mas não tenho nada de certo para escrever acerca dele a [meu] Senhor.^&#42;1^ Portanto, eu o apresentei a vós, e especialmente a ti, Rei Agripa, a fim de que, depois de se fazer o exame judicial, eu obtenha algo para escrever.
+
+[NOTE]
+====
+. Ou “ao Senhor”.
+====
+
+[[v44-25-27]]
+
+^<<v44-25-27,27>>^ Pois me parece desarrazoado enviar um prisioneiro e não indicar também as acusações contra ele.”
+
+'''
+
+xref:044-atos/044-atos-024.adoc#v44-24-0[&#60; Capítulo Anterior] | <<v44-25-0,Topo>> | xref:044-atos/044-atos-026.adoc#v44-26-0[Próximo Capítulo &#62;]

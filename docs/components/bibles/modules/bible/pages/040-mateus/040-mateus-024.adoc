@@ -1,0 +1,313 @@
+include::./index.adoc[]
+
+[[v40-24-0]]
+=== Mateus, 24
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v40-24-1]]
+
+^<<v40-24-1,1>>^ Afastando-se então, Jesus ia sair do templo, mas os seus discípulos aproximaram-se para mostrar-lhe os edifícios do templo.
+
+[[v40-24-2]]
+
+^<<v40-24-2,2>>^ Ele, porém, disse-lhes: “Não observais todas estas coisas? Deveras, eu vos digo: De modo algum ficará aqui pedra sobre pedra sem ser derrubada.”
+
+[[v40-24-3]]
+
+^<<v40-24-3,3>>^ Enquanto estava sentado no Monte das Oliveiras, aproximaram-se dele os discípulos, em particular, dizendo: “Dize-nos: Quando sucederão estas coisas e qual será o sinal da tua presença^&#42;1^ e da terminação^&#42;2^ do sistema de coisas?”^&#42;3^
+
+[NOTE]
+====
+. Gr.: pa·rou·sí·as. Veja Ap. 5B.
+. Ou “fim conjunto; fim conjugado; consumação”. Gr.: syn·te·leí·as; lat.: con·sum·ma·ti·ó·nis.
+. Ou “da ordem de coisas”. Gr.: ai·ó·nos; lat.: saé·cu·li; J1-14,16-18,22(hebr.): ha·‛oh·lám.
+====
+
+[[v40-24-4]]
+
+^<<v40-24-4,4>>^ E Jesus, em resposta, disse-lhes: “Olhai para que ninguém vos desencaminhe;
+
+[[v40-24-5]]
+
+^<<v40-24-5,5>>^ pois muitos virão à base do meu nome, dizendo: ‘Eu sou o Cristo’,^&#42;1^ e desencaminharão a muitos.
+
+[NOTE]
+====
+. “O Cristo.” Gr.: ho Khri·stós; lat.: Chrí·stus; J17,18,22(hebr.): ham·Ma·shí·ahh.
+====
+
+[[v40-24-6]]
+
+^<<v40-24-6,6>>^ Ouvireis falar de guerras e relatos de guerras; vede que não fiqueis apavorados. Pois estas coisas têm de acontecer, mas ainda não é o fim.^&#42;1^
+
+[NOTE]
+====
+. Ou “remate; fim completo”.
+====
+
+[[v40-24-7]]
+
+^<<v40-24-7,7>>^ “Porque nação se levantará^&#42;1^ contra nação e reino contra reino, e haverá escassez de víveres e terremotos num lugar após outro.
+
+[NOTE]
+====
+. Ou “se agitará; se excitará”.
+====
+
+[[v40-24-8]]
+
+^<<v40-24-8,8>>^ Todas essas coisas são um princípio das dores de aflição.
+
+[[v40-24-9]]
+
+^<<v40-24-9,9>>^ “Então vos entregarão a tribulação e vos matarão, e sereis pessoas odiadas por todas as nações, por causa do meu nome.
+
+[[v40-24-10]]
+
+^<<v40-24-10,10>>^ Então, também, muitos tropeçarão e trairão uns aos outros, e se odiarão uns aos outros.
+
+[[v40-24-11]]
+
+^<<v40-24-11,11>>^ E surgirão muitos falsos profetas, e desencaminharão a muitos;
+
+[[v40-24-12]]
+
+^<<v40-24-12,12>>^ e, por causa do aumento do que é contra a lei, o amor da maioria se esfriará.
+
+[[v40-24-13]]
+
+^<<v40-24-13,13>>^ Mas, quem tiver perseverado até o fim^&#42;1^ é o que será salvo.
+
+[NOTE]
+====
+. Veja v. 14 n: “fim”.
+====
+
+[[v40-24-14]]
+
+^<<v40-24-14,14>>^ E estas boas novas do reino serão pregadas^&#42;1^ em toda a terra habitada,^&#42;2^ em testemunho^&#42;3^ a todas as nações; e então virá o fim.^&#42;4^
+
+[NOTE]
+====
+. Ou “serão proclamadas”. Gr.: ke·ry·khthé·se·tai; lat.: prae·di·cá·bi·tur. Veja Da 5:29 n.: “proclamaram”.
+. Lit.: “em toda a habitada”. Gr.: en hó·lei tei oi·kou·mé·nei, fem. sing., subentendendo-se a terra; lat.: in u·ni·vér·so ór·be, “no círculo universal”, isto é, da terra. Veja Is 13:11 n.: “produtivo”; Na 1:5 n.
+. “Testemunho.” Gr.: mar·tý·ri·on; lat.: te·sti·mó·ni·um.
+. Ou “remate; fim completo; término”. Gr.: té·los.
+====
+
+[[v40-24-15]]
+
+^<<v40-24-15,15>>^ “Portanto, quando avistardes a coisa repugnante que causa desolação, conforme falado por intermédio de Daniel, o profeta, estar em pé num lugar santo,^&#42;1^ (que o leitor use de discernimento,)^&#42;2^
+
+[NOTE]
+====
+. “Num lugar santo.” Gr.: en tó·poi ha·gí·oi; lat.: in ló·co sánc·to; J17,18(hebr.): bim·qóhm qó·dhesh.
+. Lit.: “atente aquele que lê”.
+====
+
+[[v40-24-16]]
+
+^<<v40-24-16,16>>^ então, os que estiverem na Judéia comecem a fugir para os montes.
+
+[[v40-24-17]]
+
+^<<v40-24-17,17>>^ O homem [que estiver] no alto da casa não desça para tirar de sua casa os bens;
+
+[[v40-24-18]]
+
+^<<v40-24-18,18>>^ e o homem [que estiver] no campo não volte para casa para apanhar a sua roupa exterior.
+
+[[v40-24-19]]
+
+^<<v40-24-19,19>>^ Ai das mulheres grávidas e das que amamentarem naqueles dias!
+
+[[v40-24-20]]
+
+^<<v40-24-20,20>>^ Persisti em orar que a vossa fuga não ocorra no tempo do inverno, nem no dia de sábado;^&#42;1^
+
+[NOTE]
+====
+. Veja At 1:12 n.
+====
+
+[[v40-24-21]]
+
+^<<v40-24-21,21>>^ pois então haverá grande tribulação,^&#42;1^ tal como nunca ocorreu desde o princípio do mundo até agora, não, nem tampouco ocorrerá de novo.
+
+[NOTE]
+====
+. “Grande tribulação.” Gr.: thlí·psis me·gá·le; lat.: tri·bu·lá·ti·o má·gna; J17,18(hebr.): tsa·ráh ghedhoh·láh.
+====
+
+[[v40-24-22]]
+
+^<<v40-24-22,22>>^ De fato, se não se abreviassem aqueles dias, nenhuma carne seria salva; mas, por causa dos escolhidos, aqueles dias serão abreviados.
+
+[[v40-24-23]]
+
+^<<v40-24-23,23>>^ “Então, se alguém vos disser: ‘Eis aqui está o Cristo!’, ou: ‘Ali!’, não o acrediteis.
+
+[[v40-24-24]]
+
+^<<v40-24-24,24>>^ Porque surgirão falsos cristos e falsos profetas, e farão grandes sinais e prodígios, a fim de desencaminhar, se possível, até mesmo os escolhidos.
+
+[[v40-24-25]]
+
+^<<v40-24-25,25>>^ Eis que eu vos avisei de antemão.
+
+[[v40-24-26]]
+
+^<<v40-24-26,26>>^ Portanto, se vos disserem: ‘Eis que ele está no deserto!’, não saiais; ‘eis que ele está nos aposentos interiores!’, não o acrediteis.
+
+[[v40-24-27]]
+
+^<<v40-24-27,27>>^ Pois, assim como o relâmpago sai das regiões orientais e brilha sobre as regiões ocidentais, assim será a presença^&#42;1^ do Filho do homem.
+
+[NOTE]
+====
+. Veja Ap. 5B.
+====
+
+[[v40-24-28]]
+
+^<<v40-24-28,28>>^ Onde estiver o cadáver, ali se ajuntarão as águias.
+
+[[v40-24-29]]
+
+^<<v40-24-29,29>>^ “Imediatamente depois da tribulação daqueles dias, o sol ficará escurecido, e a lua não dará a sua luz, e as estrelas cairão do céu, e os poderes dos céus serão abalados.
+
+[[v40-24-30]]
+
+^<<v40-24-30,30>>^ Então aparecerá no céu o sinal do Filho do homem, e todas as tribos da terra se baterão então em lamento, e verão o Filho do homem vir^&#42;1^ nas nuvens do céu, com poder e grande glória.^&#42;2^
+
+[NOTE]
+====
+. “Vir.” Gr.: er·khó·me·non.
+. Ou “com grande poder e glória”.
+====
+
+[[v40-24-31]]
+
+^<<v40-24-31,31>>^ E enviará os seus anjos com grande som de trombeta, e eles ajuntarão os seus escolhidos desde os quatro ventos, de uma extremidade dos céus até à outra extremidade deles.
+
+[[v40-24-32]]
+
+^<<v40-24-32,32>>^ “Aprendei, pois, da figueira o seguinte ponto, como ilustração: Assim que os seus ramos novos se tornam tenros e brotam folhas, sabeis que o verão está próximo.
+
+[[v40-24-33]]
+
+^<<v40-24-33,33>>^ Do mesmo modo, também, quando virdes todas estas coisas, sabei que ele está próximo às portas.
+
+[[v40-24-34]]
+
+^<<v40-24-34,34>>^ Deveras, eu vos digo que esta geração^&#42;1^ de modo algum passará até que todas estas coisas ocorram.
+
+[NOTE]
+====
+. “Geração.” Gr.: ge·ne·á; é diferente de gé·nos, “raça”, como em 1Pe 2:9.
+====
+
+[[v40-24-35]]
+
+^<<v40-24-35,35>>^ Céu e terra passarão, mas as minhas palavras de modo algum passarão.
+
+[[v40-24-36]]
+
+^<<v40-24-36,36>>^ “Acerca daquele dia e daquela hora ninguém sabe, nem os anjos dos céus, nem o Filho,^&#42;1^ mas unicamente o Pai.
+
+[NOTE]
+====
+. “Nem o Filho”, א°BDVgmss.ArmJ18,21,22.
+====
+
+[[v40-24-37]]
+
+^<<v40-24-37,37>>^ Pois assim como eram os dias de Noé, assim será a presença^&#42;1^ do Filho do homem.
+
+[NOTE]
+====
+. Veja Ap. 5B.
+====
+
+[[v40-24-38]]
+
+^<<v40-24-38,38>>^ Porque assim como eles eram naqueles dias antes do dilúvio,^&#42;1^ comendo e bebendo, os homens casando-se e as mulheres sendo dadas em casamento, até o dia em que Noé entrou na arca,
+
+[NOTE]
+====
+. Ou “grande inundação; cataclismo”. Gr.: ka·ta·kly·smoú; lat.: di·lú·vi·um.
+====
+
+[[v40-24-39]]
+
+^<<v40-24-39,39>>^ e não fizeram caso, até que veio o dilúvio e os varreu a todos, assim será a presença^&#42;1^ do Filho do homem.
+
+[NOTE]
+====
+. Veja Ap. 5B.
+====
+
+[[v40-24-40]]
+
+^<<v40-24-40,40>>^ Dois homens estarão então no campo: um será levado junto e o outro será abandonado;
+
+[[v40-24-41]]
+
+^<<v40-24-41,41>>^ duas mulheres estarão moendo no moinho manual: uma será levada junto e a outra será abandonada.
+
+[[v40-24-42]]
+
+^<<v40-24-42,42>>^ Portanto, mantende-vos vigilantes, porque não sabeis em que dia virá o vosso Senhor.
+
+[[v40-24-43]]
+
+^<<v40-24-43,43>>^ “Mas, sabei isto, que, se o dono de casa tivesse sabido em que vigília viria o ladrão, teria ficado acordado e não teria permitido que a sua casa fosse arrombada.
+
+[[v40-24-44]]
+
+^<<v40-24-44,44>>^ Por esta razão, vós também mostrai-vos prontos, porque o Filho do homem vem numa hora em que não pensais.
+
+[[v40-24-45]]
+
+^<<v40-24-45,45>>^ “Quem é realmente o escravo fiel e discreto a quem o seu amo designou sobre os seus domésticos, para dar-lhes o seu alimento no tempo apropriado?
+
+[[v40-24-46]]
+
+^<<v40-24-46,46>>^ Feliz aquele escravo, se o seu amo, ao chegar,^&#42;1^ o achar fazendo assim!
+
+[NOTE]
+====
+. Lit.: “tendo chegado”. Gr.: el·thón.
+====
+
+[[v40-24-47]]
+
+^<<v40-24-47,47>>^ Deveras, eu vos digo: Ele o designará sobre todos os seus bens.
+
+[[v40-24-48]]
+
+^<<v40-24-48,48>>^ “Mas, se é que aquele escravo mau disser no seu coração: ‘Meu amo demora’,
+
+[[v40-24-49]]
+
+^<<v40-24-49,49>>^ e principiar a espancar os seus co-escravos, e a comer e beber com os beberrões inveterados,
+
+[[v40-24-50]]
+
+^<<v40-24-50,50>>^ o amo daquele escravo virá num dia em que não espera e numa hora que não sabe,
+
+[[v40-24-51]]
+
+^<<v40-24-51,51>>^ e o punirá com a maior severidade^&#42;1^ e lhe determinará a sua parte com os hipócritas. Ali é onde haverá o [seu]^&#42;2^ choro e o ranger^&#42;3^ de [seus]^&#42;4^ dentes.
+
+[NOTE]
+====
+. Ou “o cortará em dois”.
+. Ou “o [choro] deles”. Lit.: “o [choro]”.
+. Ou “rilhar; cerrar”.
+. Ou “dos [dentes] deles”. Lit.: “dos [dentes]”.
+====
+
+'''
+
+xref:040-mateus/040-mateus-023.adoc#v40-23-0[&#60; Capítulo Anterior] | <<v40-24-0,Topo>> | xref:040-mateus/040-mateus-025.adoc#v40-25-0[Próximo Capítulo &#62;]

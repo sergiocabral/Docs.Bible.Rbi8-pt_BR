@@ -1,0 +1,243 @@
+include::./index.adoc[]
+
+[[v40-25-0]]
+=== Mateus, 25
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v40-25-1]]
+
+^<<v40-25-1,1>>^ “O reino dos céus se tornará então semelhante a dez virgens que tomaram as suas lâmpadas e saíram ao encontro do noivo.
+
+[[v40-25-2]]
+
+^<<v40-25-2,2>>^ Cinco delas foram tolas e cinco foram discretas.
+
+[[v40-25-3]]
+
+^<<v40-25-3,3>>^ Pois as tolas tomaram as suas lâmpadas, mas não levaram óleo,
+
+[[v40-25-4]]
+
+^<<v40-25-4,4>>^ ao passo que as discretas levaram óleo nos seus recipientes, junto com as suas lâmpadas.
+
+[[v40-25-5]]
+
+^<<v40-25-5,5>>^ Demorando o noivo, todas elas cochilaram e adormeceram.
+
+[[v40-25-6]]
+
+^<<v40-25-6,6>>^ Logo no meio da noite levantou-se um grito: ‘Aqui está o noivo! Ide ao encontro dele.’
+
+[[v40-25-7]]
+
+^<<v40-25-7,7>>^ Todas aquelas virgens levantaram-se então e puseram as suas lâmpadas em ordem.
+
+[[v40-25-8]]
+
+^<<v40-25-8,8>>^ As tolas disseram às discretas: ‘Dai-nos do vosso óleo, porque as nossas lâmpadas estão prestes a apagar-se.’
+
+[[v40-25-9]]
+
+^<<v40-25-9,9>>^ As discretas responderam com as palavras: ‘Talvez não haja suficiente para nós e para vós. Ide, antes, aos que o vendem e comprai-o para vós.’
+
+[[v40-25-10]]
+
+^<<v40-25-10,10>>^ Enquanto foram comprá-lo, chegou o noivo, e as virgens que estavam prontas entraram com ele para a festa de casamento; e a porta foi fechada.
+
+[[v40-25-11]]
+
+^<<v40-25-11,11>>^ Depois veio também o resto das virgens, dizendo: ‘Senhor, senhor, abre para nós!’
+
+[[v40-25-12]]
+
+^<<v40-25-12,12>>^ Ele disse, em resposta: ‘Eu vos digo a verdade: não vos conheço.’
+
+[[v40-25-13]]
+
+^<<v40-25-13,13>>^ “Portanto, mantende-vos vigilantes, porque não sabeis nem o dia nem a hora.
+
+[[v40-25-14]]
+
+^<<v40-25-14,14>>^ “Pois é assim como quando um homem, prestes a viajar para fora, convocou escravos seus e confiou-lhes os seus bens.
+
+[[v40-25-15]]
+
+^<<v40-25-15,15>>^ E a um deles deu cinco talentos,^&#42;1^ a outro dois, e a ainda outro um, a cada um segundo a sua própria capacidade, e viajou para fora.
+
+[NOTE]
+====
+. Um talento gr. pesava 20,4 kg. Veja Ap. 8A.
+====
+
+[[v40-25-16]]
+
+^<<v40-25-16,16>>^ Aquele que recebera cinco talentos foi imediatamente e negociou com eles, e ganhou outros cinco.
+
+[[v40-25-17]]
+
+^<<v40-25-17,17>>^ Do mesmo modo, aquele que recebera dois ganhou mais dois.
+
+[[v40-25-18]]
+
+^<<v40-25-18,18>>^ Mas aquele que recebera apenas um foi e cavou no chão, e escondeu o dinheiro de prata de seu amo.
+
+[[v40-25-19]]
+
+^<<v40-25-19,19>>^ “Depois de muito tempo voltou o amo daqueles escravos e ajustou contas com eles.
+
+[[v40-25-20]]
+
+^<<v40-25-20,20>>^ Apresentou-se então o que recebera cinco talentos^&#42;1^ e trouxe cinco talentos adicionais, dizendo: ‘Amo, confiaste-me cinco talentos; eis que ganhei mais cinco talentos.’
+
+[NOTE]
+====
+. Veja v. 15 n.
+====
+
+[[v40-25-21]]
+
+^<<v40-25-21,21>>^ Seu amo disse-lhe: ‘Muito bem, escravo bom e fiel! Foste fiel em poucas coisas. Designar-te-ei sobre muitas coisas. Entra na alegria do teu amo.’
+
+[[v40-25-22]]
+
+^<<v40-25-22,22>>^ A seguir, apresentou-se aquele que recebera dois talentos e disse: ‘Amo, confiaste-me dois talentos; eis que ganhei mais dois talentos.’
+
+[[v40-25-23]]
+
+^<<v40-25-23,23>>^ Seu amo disse-lhe: ‘Muito bem, escravo bom e fiel! Foste fiel em poucas coisas. Designar-te-ei sobre muitas coisas. Entra na alegria do teu amo.’
+
+[[v40-25-24]]
+
+^<<v40-25-24,24>>^ “Por fim, apresentou-se aquele que recebera um talento e disse: ‘Amo, eu sabia que és homem exigente,^&#42;1^ ceifando onde não semeaste e ajuntando onde não joeiraste.
+
+[NOTE]
+====
+. Ou “duro”.
+====
+
+[[v40-25-25]]
+
+^<<v40-25-25,25>>^ Por isso fiquei com medo, e fui e escondi no chão o teu talento. Aqui tens o que é teu.’
+
+[[v40-25-26]]
+
+^<<v40-25-26,26>>^ Em resposta, seu amo disse-lhe: ‘Escravo iníquo e indolente,^&#42;1^ sabias, não é verdade, que ceifo onde não semeei e ajunto onde não joeirei?
+
+[NOTE]
+====
+. Ou “tímido; hesitante”.
+====
+
+[[v40-25-27]]
+
+^<<v40-25-27,27>>^ Pois bem, devias ter depositado meu dinheiro de prata junto aos banqueiros, e, na minha chegada, eu estaria recebendo o meu com juros.
+
+[[v40-25-28]]
+
+^<<v40-25-28,28>>^ “‘Portanto, tirai-lhe o talento^&#42;1^ e dai-o àquele que tem dez talentos.
+
+[NOTE]
+====
+. Veja v. 15 n.
+====
+
+[[v40-25-29]]
+
+^<<v40-25-29,29>>^ Pois a todo aquele que tem, mais será dado, e ele terá abundância; mas, quanto àquele que não tem, até mesmo o que tem lhe será tirado.
+
+[[v40-25-30]]
+
+^<<v40-25-30,30>>^ E lançai o escravo imprestável na escuridão lá fora. Ali é onde haverá o [seu] choro e o ranger^&#42;1^ de [seus] dentes.’
+
+[NOTE]
+====
+. Ou “rilhar; cerrar”.
+====
+
+[[v40-25-31]]
+
+^<<v40-25-31,31>>^ “Quando o Filho do homem chegar na sua glória, e com ele todos os anjos, então se assentará no seu trono glorioso.
+
+[[v40-25-32]]
+
+^<<v40-25-32,32>>^ E diante dele serão ajuntadas todas as nações, e ele separará uns dos outros assim como o pastor separa as ovelhas dos cabritos.
+
+[[v40-25-33]]
+
+^<<v40-25-33,33>>^ E porá as ovelhas à sua direita, mas os cabritos^&#42;1^ à sua esquerda.
+
+[NOTE]
+====
+. Lit.: “cabritinhos”.
+====
+
+[[v40-25-34]]
+
+^<<v40-25-34,34>>^ “O rei dirá então aos à sua direita: ‘Vinde, vós os que tendes sido abençoados por meu Pai, herdai o reino preparado para vós desde a fundação^&#42;1^ do mundo.
+
+[NOTE]
+====
+. Lit.: “o lançamento para baixo [de semente]”. Gr.: ka·ta·bo·lés.
+====
+
+[[v40-25-35]]
+
+^<<v40-25-35,35>>^ Pois fiquei com fome, e vós me destes algo para comer; fiquei com sede, e vós me destes algo para beber. Eu era estranho, e vós me recebestes hospitaleiramente;
+
+[[v40-25-36]]
+
+^<<v40-25-36,36>>^ [estava] nu,^&#42;1^ e vós me vestistes. Fiquei doente, e vós cuidastes de mim. Eu estava na prisão, e vós me visitastes.’
+
+[NOTE]
+====
+. Ou “insuficientemente vestido”. Gr.: gy·mnós, significando “pouco vestido; só de roupa de baixo”, não necessariamente nu ou despido.
+====
+
+[[v40-25-37]]
+
+^<<v40-25-37,37>>^ Então, os justos lhe responderão com as palavras: ‘Senhor, quando te vimos com fome, e te alimentamos, ou com sede, e te demos algo para beber?
+
+[[v40-25-38]]
+
+^<<v40-25-38,38>>^ Quando te vimos como estranho, e te recebemos hospitaleiramente, ou nu, e te vestimos?
+
+[[v40-25-39]]
+
+^<<v40-25-39,39>>^ Quando te vimos doente, ou na prisão, e te fomos visitar?’
+
+[[v40-25-40]]
+
+^<<v40-25-40,40>>^ E o rei lhes dirá, em resposta: ‘Deveras, eu vos digo: Ao ponto que o fizestes a um dos mínimos destes meus irmãos, a mim o fizestes.’
+
+[[v40-25-41]]
+
+^<<v40-25-41,41>>^ “Então dirá, por sua vez, aos à sua esquerda: ‘Afastai-vos de mim, vós os que tendes sido amaldiçoados, para o fogo eterno, preparado para o Diabo e seus anjos.
+
+[[v40-25-42]]
+
+^<<v40-25-42,42>>^ Pois fiquei com fome, mas vós não me destes nada para comer, e fiquei com sede, mas vós não me destes nada para beber.
+
+[[v40-25-43]]
+
+^<<v40-25-43,43>>^ Eu era estranho, mas vós não me recebestes hospitaleiramente; [estava] nu, mas vós não me vestistes; doente e na prisão, mas vós não cuidastes de mim.’
+
+[[v40-25-44]]
+
+^<<v40-25-44,44>>^ Então responderão também estes com as palavras: ‘Senhor, quando te vimos com fome, ou com sede, ou estranho, ou nu, ou doente, ou na prisão, e não te ministramos?’
+
+[[v40-25-45]]
+
+^<<v40-25-45,45>>^ Então lhes responderá com as palavras: ‘Deveras, eu vos digo: Ao ponto que não o fizestes a um destes mínimos, a mim não o fizestes.’
+
+[[v40-25-46]]
+
+^<<v40-25-46,46>>^ E estes partirão para o decepamento^&#42;1^ eterno, mas os justos, para a vida eterna.”
+
+[NOTE]
+====
+. Ou “truncamento; poda”. Gr.: kó·la·sin. Veja 1Jo 4:18 n.
+====
+
+'''
+
+xref:040-mateus/040-mateus-024.adoc#v40-24-0[&#60; Capítulo Anterior] | <<v40-25-0,Topo>> | xref:040-mateus/040-mateus-026.adoc#v40-26-0[Próximo Capítulo &#62;]

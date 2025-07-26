@@ -1,0 +1,154 @@
+include::./index.adoc[]
+
+[[v18-29-0]]
+=== Jó, 29
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-29-1]]
+
+^<<v18-29-1,1>>^ E Jó passou a encetar novamente seu dito proverbial e prosseguiu, dizendo:
+
+[[v18-29-2]]
+
+^<<v18-29-2,2>>^ “Quem me dera estar nos meses lunares de outrora,
+Como nos dias em que Deus^&#42;1^ cuidava de mim;
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elóh·ah.
+====
+
+[[v18-29-3]]
+
+^<<v18-29-3,3>>^ Quando fez a sua lâmpada brilhar sobre a minha cabeça,
+[Quando] eu andava [através da] escuridão pela sua luz;
+
+[[v18-29-4]]
+
+^<<v18-29-4,4>>^ Assim como vim a estar nos dias do meu vigor,
+Quando havia intimidade com Deus na minha tenda;
+
+[[v18-29-5]]
+
+^<<v18-29-5,5>>^ Quando o Todo-poderoso ainda estava comigo,
+[Quando] meus ajudantes estavam ao redor de mim!
+
+[[v18-29-6]]
+
+^<<v18-29-6,6>>^ Quando eu lavava os meus passos em manteiga,
+E a rocha despejava correntes de azeite para mim;^&#42;1^
+
+[NOTE]
+====
+. Lit.: “estava sendo despejada como correntes de azeite comigo”.
+====
+
+[[v18-29-7]]
+
+^<<v18-29-7,7>>^ Quando eu saía ao portão junto à vila,
+Eu preparava meu assento na praça pública!
+
+[[v18-29-8]]
+
+^<<v18-29-8,8>>^ Os rapazes me viam e se escondiam,
+E até mesmo os idosos se levantavam, ficavam de pé.
+
+[[v18-29-9]]
+
+^<<v18-29-9,9>>^ Os próprios príncipes reprimiam as palavras
+E punham a palma da mão sobre a sua boca.
+
+[[v18-29-10]]
+
+^<<v18-29-10,10>>^ A voz dos próprios líderes se escondia,
+E a própria língua deles se apegava ao céu da sua boca.
+
+[[v18-29-11]]
+
+^<<v18-29-11,11>>^ Pois o próprio ouvido escutava e passava a chamar-me feliz,
+E o próprio olho via e passava a dar testemunho por mim.
+
+[[v18-29-12]]
+
+^<<v18-29-12,12>>^ Pois eu salvava ao atribulado que clamava por ajuda,
+E ao menino órfão de pai e a qualquer que não tinha ajudador.
+
+[[v18-29-13]]
+
+^<<v18-29-13,13>>^ A bênção daquele prestes a perecer vinha sobre mim.
+E eu alegrava o coração da viúva.
+
+[[v18-29-14]]
+
+^<<v18-29-14,14>>^ Vestia-me de justiça e ela me revestia.
+Meu juízo era como uma túnica sem mangas — e um turbante.
+
+[[v18-29-15]]
+
+^<<v18-29-15,15>>^ Tornei-me olhos para o cego;
+E eu era pés para o coxo.
+
+[[v18-29-16]]
+
+^<<v18-29-16,16>>^ Eu era um verdadeiro pai para os pobres;
+E a causa jurídica de alguém que eu não conhecia — eu a examinava.
+
+[[v18-29-17]]
+
+^<<v18-29-17,17>>^ E quebrava as mandíbulas do contraventor,
+Dos seus dentes eu arrancava^&#42;1^ a presa.
+
+[NOTE]
+====
+. “Arrancava”, mediante uma ligeira correção; M: “arremetia”.
+====
+
+[[v18-29-18]]
+
+^<<v18-29-18,18>>^ E eu costumava dizer: ‘Expirarei dentro do meu ninho^&#42;1^
+E multiplicarei os [meus] dias como os grãos da areia.
+
+[NOTE]
+====
+. “Dentro do meu ninho.” Possivelmente: “Na minha velhice”, para concordar com LXX.
+====
+
+[[v18-29-19]]
+
+^<<v18-29-19,19>>^ Minha raiz está aberta para as águas,
+E o próprio orvalho pernoitará sobre o meu ramo.
+
+[[v18-29-20]]
+
+^<<v18-29-20,20>>^ Nova é a minha glória comigo,
+E meu arco na minha mão atirará repetidamente.’
+
+[[v18-29-21]]
+
+^<<v18-29-21,21>>^ Escutavam-me; e esperavam,
+E silenciavam pelo meu conselho.
+
+[[v18-29-22]]
+
+^<<v18-29-22,22>>^ Após as minhas palavras não falavam mais,
+E sobre eles gotejava a minha palavra.
+
+[[v18-29-23]]
+
+^<<v18-29-23,23>>^ E esperavam-me como a chuva
+E escancaravam a sua boca à chuva da primavera.
+
+[[v18-29-24]]
+
+^<<v18-29-24,24>>^ Eu sorria para eles — eles não [o] acreditavam —
+E não lançavam [de si] a luz da minha face.
+
+[[v18-29-25]]
+
+^<<v18-29-25,25>>^ Eu lhes escolhia o caminho e ficava sentado como cabeça;
+E residia como um rei entre as [suas] tropas,
+Como quem consola os que pranteiam.
+
+'''
+
+xref:018-jo/018-jo-028.adoc#v18-28-0[&#60; Capítulo Anterior] | <<v18-29-0,Topo>> | xref:018-jo/018-jo-030.adoc#v18-30-0[Próximo Capítulo &#62;]

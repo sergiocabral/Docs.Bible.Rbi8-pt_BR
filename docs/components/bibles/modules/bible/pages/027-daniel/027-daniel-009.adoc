@@ -1,0 +1,252 @@
+include::./index.adoc[]
+
+[[v27-9-0]]
+=== Daniel, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v27-9-1]]
+
+^<<v27-9-1,1>>^ No primeiro ano de Dario, filho de Assuero,^&#42;1^ da descendência dos medos, que fora constituído rei sobre o reino dos caldeus,
+
+[NOTE]
+====
+. “Assuero”, MLXXBagsterSyVg; LXX: “Xerxes”.
+====
+
+[[v27-9-2]]
+
+^<<v27-9-2,2>>^ no primeiro ano do seu reinado, eu, Daniel, compreendi pelos livros o número de anos a respeito dos quais viera a haver a palavra de Jeová^&#42;1^ para Jeremias, o profeta, para se cumprirem as devastações de Jerusalém, [a saber,] setenta anos.
+
+[NOTE]
+====
+. “Jeová.” Hebr.: Yehwáh; gr.: tei gei, “para a terra”. Numa breve informação publicada no Journal of Biblical Literature, Vol. 40, 1921, p. 86, James A. Montgomery escreveu “que τῃ γῃ [tei gei] é um resquício da presença do Tetragrama hebraico, i.e., ΤΗΓΗ = ΓΙΓΙ, a tradição patrística para a transliteração de יהוה. A variante foi provavelmente obtida pela redistribuição das linhas verticais . . . Na forma de ΤΗΓΗ, a transliteração tinha certo sentido e por isso foi preservada.”
+====
+
+[[v27-9-3]]
+
+^<<v27-9-3,3>>^ E passei a pôr a minha face para Jeová,^&#42;1^ o [verdadeiro] Deus,^&#42;2^ para [o] procurar com oração e com rogos, com jejum e com serapilheira e cinzas.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+. “O [verdadeiro] Deus.” Hebr.: ha·’Elo·hím, com o artigo definido ha, “o”, precedendo ’Elo·hím para dar ênfase; gr.: The·ón; lat.: Dé·um. Veja Ap. 1F.
+====
+
+[[v27-9-4]]
+
+^<<v27-9-4,4>>^ E comecei a orar a Jeová, meu Deus, e a fazer confissão e a dizer:
+“Ai! Jeová,^&#42;1^ o [verdadeiro] Deus,^&#42;2^ o Grande e o Atemorizante, que guarda o pacto e a benevolência^&#42;3^ para com os que o amam e para com os que guardam os seus mandamentos,
+
+[NOTE]
+====
+. Veja v. 3 n.: “Jeová”.
+. “O [verdadeiro] Deus.” Hebr.: ha·’Él; gr.: ho The·ós; lat.: Dé·us. Veja Ap. 1G.
+. Ou “e o amor leal”. Hebr.: weha·hhé·sedh.
+====
+
+[[v27-9-5]]
+
+^<<v27-9-5,5>>^ pecamos e cometemos faltas, e agimos iniquamente, e nos rebelamos; e houve um desvio dos teus mandamentos e das tuas decisões judiciais.
+
+[[v27-9-6]]
+
+^<<v27-9-6,6>>^ E não escutamos os teus servos, os profetas, que falaram em teu nome aos nossos reis, nossos príncipes e nossos antepassados, e a todo o povo da terra.^&#42;1^
+
+[NOTE]
+====
+. Veja Ez Eze 7:27 n.
+====
+
+[[v27-9-7]]
+
+^<<v27-9-7,7>>^ A ti, ó Jeová,^&#42;1^ pertence a justiça, mas a nós a vergonha da face, assim como no dia de hoje, aos homens^&#42;2^ de Judá, e aos habitantes de Jerusalém, e a todos os de Israel, os de perto e os de longe, em todas as terras às quais os dispersaste por causa da sua infidelidade com que agiram contra ti.
+
+[NOTE]
+====
+. Veja v. 3 n.: “Jeová”.
+. Ou “a cada um”. Hebr.: le’ísh.
+====
+
+[[v27-9-8]]
+
+^<<v27-9-8,8>>^ “Ó Jeová,^&#42;1^ a vergonha da face é nossa, de nossos reis, de nossos príncipes e de nossos antepassados, porque pecamos contra ti.
+
+[NOTE]
+====
+. “Jeová”, Leningrad B 19A.
+====
+
+[[v27-9-9]]
+
+^<<v27-9-9,9>>^ A Jeová,^&#42;1^ nosso Deus,^&#42;2^ pertencem as misericórdias e os atos de perdão, pois nós nos rebelamos contra ele.
+
+[NOTE]
+====
+. Veja v. 3 n.: “Jeová”.
+. “Nosso Deus.” Hebr.: ’Elo·héh·nu, pl.
+====
+
+[[v27-9-10]]
+
+^<<v27-9-10,10>>^ E não obedecemos^&#42;1^ à voz de Jeová, nosso Deus, por andarmos nas suas leis que ele pôs perante nós pela mão de seus servos, os profetas.
+
+[NOTE]
+====
+. Ou “escutamos”.
+====
+
+[[v27-9-11]]
+
+^<<v27-9-11,11>>^ E todos os que são de Israel infringiram a tua lei, e houve um desvio por não se obedecer à tua voz, de modo que derramaste sobre nós a maldição e o juramento escrito na lei de Moisés, o servo do [verdadeiro] Deus, pois pecamos contra Ele.^&#42;1^
+
+[NOTE]
+====
+. “Ele”, MLXXSyVg; muitos mss. hebr.: “ti”.
+====
+
+[[v27-9-12]]
+
+^<<v27-9-12,12>>^ E ele passou a cumprir as suas palavras que falou contra nós e contra os nossos juízes que nos julgavam, trazendo sobre nós grande calamidade, tal como não se causara sob todos os céus assim como se causara em Jerusalém.
+
+[[v27-9-13]]
+
+^<<v27-9-13,13>>^ Assim como está escrito na lei de Moisés, toda esta calamidade — ela veio sobre nós, e não abrandamos a face de Jeová, nosso Deus,^&#42;1^ recuando de nosso erro e mostrando perspicácia quanto a tua veracidade.
+
+[NOTE]
+====
+. Veja v. 9 n.: “Deus”.
+====
+
+[[v27-9-14]]
+
+^<<v27-9-14,14>>^ “E Jeová se manteve alerta para com a calamidade e finalmente a trouxe sobre nós, porque Jeová, nosso Deus, é justo em todos os seus trabalhos que fez; e nós não obedecemos^&#42;1^ à sua voz.
+
+[NOTE]
+====
+. Ou “escutamos a”.
+====
+
+[[v27-9-15]]
+
+^<<v27-9-15,15>>^ “E agora, ó Jeová,^&#42;1^ nosso Deus, tu que fizeste teu povo sair da terra do Egito por mão forte e passaste a fazer um nome para ti mesmo, como no dia de hoje, nós pecamos, temos agido iniquamente.
+
+[NOTE]
+====
+. Veja v. 3 n.: “Jeová”.
+====
+
+[[v27-9-16]]
+
+^<<v27-9-16,16>>^ Ó Jeová,^&#42;1^ por favor, segundo todos os teus atos de justiça, faze tua ira e teu furor recuar da tua cidade de Jerusalém, teu santo monte; pois, por causa de nossos pecados e por causa dos erros de nossos antepassados, Jerusalém e teu povo são objeto de vitupério para todos os em volta de nós.
+
+[NOTE]
+====
+. Veja v. 3 n.: “Jeová”.
+====
+
+[[v27-9-17]]
+
+^<<v27-9-17,17>>^ E agora, ó nosso Deus,^&#42;1^ escuta a oração de teu servo e os seus rogos, e faze a tua face brilhar sobre o teu santuário que está desolado, pela causa de Jeová.^&#42;2^
+
+[NOTE]
+====
+. Veja v. 9 n.: “Deus”.
+. Veja v. 3 n.: “Jeová”.
+====
+
+[[v27-9-18]]
+
+^<<v27-9-18,18>>^ Inclina teu ouvido, ó meu Deus, e ouve. Abre deveras os teus olhos e vê as nossas condições desoladas e a cidade que se chamou pelo teu nome;^&#42;1^ pois não é segundo os nossos atos justos que lançamos os nossos rogos diante de ti, mas segundo as tuas muitas misericórdias.
+
+[NOTE]
+====
+. Lit.: “sobre a qual se invocou teu nome”.
+====
+
+[[v27-9-19]]
+
+^<<v27-9-19,19>>^ Ó Jeová,^&#42;1^ ouve deveras. Ó Jeová,^&#42;2^ perdoa deveras. Ó Jeová,^&#42;3^ presta deveras atenção e age. Não tardes, por tua própria causa, ó meu Deus, pois o teu próprio nome foi invocado sobre a tua cidade e sobre o teu povo.”
+
+[NOTE]
+====
+. Veja v. 3 n.: “Jeová”.
+. Veja v. 3 n.: “Jeová”.
+. Veja v. 3 n.: “Jeová”.
+====
+
+[[v27-9-20]]
+
+^<<v27-9-20,20>>^ Enquanto eu ainda falava, e orava, e confessava meu pecado e o pecado de meu povo Israel, e deixava meu pedido de favor cair diante de Jeová, meu Deus, referente ao santo monte de meu Deus,
+
+[[v27-9-21]]
+
+^<<v27-9-21,21>>^ e [enquanto] eu ainda falava em oração, ora, o homem^&#42;1^ Gabriel,^&#42;2^ a quem eu tinha visto na visão, no início, tendo ficado fatigado de cansaço,^&#42;3^ chegou a mim no tempo da oferenda da noitinha.
+
+[NOTE]
+====
+. “Ora, o homem.” Hebr.: weha·’ísh; gr.: kai i·doú ho a·nér; lat.: éc·ce vir.
+. Veja 8:16 n.: “Gabriel”.
+. Segundo M; LXX: “sendo levado velozmente”; Vg: “voando velozmente”.
+====
+
+[[v27-9-22]]
+
+^<<v27-9-22,22>>^ E ele passou a dar-me entendimento e a falar comigo, e a dizer:
+“Ó Daniel, saí agora para te dar perspicácia com compreensão.
+
+[[v27-9-23]]
+
+^<<v27-9-23,23>>^ No início dos teus rogos saiu uma palavra, e eu mesmo vim para fazer um relatório, porque tu és alguém muito desejável. Portanto, dá consideração ao assunto e tem entendimento da coisa vista.
+
+[[v27-9-24]]
+
+^<<v27-9-24,24>>^ “Setenta semanas^&#42;1^ foram determinadas^&#42;2^ sobre o teu povo e sobre a tua cidade santa, para acabar com a transgressão e encerrar o pecado, e para fazer expiação^&#42;3^ pelo erro, e para introduzir justiça por tempos indefinidos, e para apor um selo^&#42;4^ à visão e ao profeta,^&#42;5^ e para ungir o Santo dos Santos.^&#42;6^
+
+[NOTE]
+====
+. “Setenta semanas.” Hebr.: sha·vu·‛ím shiv·‛ím; isto é, 70 semanas de anos que totalizam 490 anos. A expressão “semana de anos” é mencionada na Míxena judaica em Baba Metzia 9,x e em Sanhedrin 5,i. Veja a tradução da Míxena para o inglês por H. Danby, ed. de 1950, pp. 363, 388. Veja Le 25:8 n.
+. Ou “foram decididas (decretadas)”. Lit.: “foram cortadas (decepadas)”. Hebr.: nehh·tákh.
+. Ou “e para fazer propiciação”. Hebr.: u·lekhap·pér.
+. Ou “e para confirmar”; ou: “e para dar autoridade à”. Lit.: “e para selar”. Hebr.: welahh·tóm.
+. “Profeta”, isto é, a profecia.
+. Ou “o Santíssimo”. Hebr.: Qó·dhesh Qo·dha·shím. Veja Núm 18:10; 1Rs (6:16; 7:50; 8:6).
+====
+
+[[v27-9-25]]
+
+^<<v27-9-25,25>>^ E deves saber e ter a perspicácia [de que] desde a saída da palavra para se restaurar e reconstruir Jerusalém até [o] Messias,^&#42;1^ [o] Líder, haverá sete semanas, também sessenta e duas semanas. Ela tornará [a ser] e será realmente reconstruída, com praça pública e fosso, mas no aperto dos tempos.
+
+[NOTE]
+====
+. Ou “Ungido”. Hebr.: Ma·shí·ahh; LXXBagster(gr.): Khri·stoú; sir.: Meshi·hha’, “o Messias”; lat.: Chrí·stum.
+====
+
+[[v27-9-26]]
+
+^<<v27-9-26,26>>^ “E depois das sessenta e duas semanas [o] Messias^&#42;1^ será decepado, sem ter nada^&#42;2^ para si mesmo.
+“E a cidade e o lugar santo serão arruinados pelo povo de um líder que há de vir. E o fim disso^&#42;3^ será pela inundação. E até [o] fim haverá guerra; o que foi determinado são desolações.
+
+[NOTE]
+====
+. Veja v. 25 n.
+. Ou “ninguém”.
+. Ou “dele”, hebr. masc.; não se referindo à “cidade”, hebr. fem.
+====
+
+[[v27-9-27]]
+
+^<<v27-9-27,27>>^ “E ele terá de manter em vigor^&#42;1^ [o] pacto para com muitos^&#42;2^ por uma semana; e na metade da semana fará cessar o sacrifício e a oferenda.
+“E sobre a asa^&#42;3^ de coisas repugnantes haverá um causando desolação; e até a exterminação derramar-se-á^&#42;4^ a coisa determinada também sobre aquele que jaz desolado.”^&#42;5^
+
+[NOTE]
+====
+. Lit.: “E terá de tornar poderoso um pacto.”
+. Ou “para com os grandiosos”. Hebr.: la·rab·bím; LXXBagster(gr.): pol·loís; lat.: múl·tis.
+. Ou “extremidade”. Hebr.: kenáf.
+. Ou “será derramada”.
+. Possivelmente, “um causando desolação”. Hebr.: sho·mém, um particípio desenvolvido da forma pó·‛el do particípio, mesho·mém, “um causando desolação”, encontrada já antes neste v. Veja 8:13 n.
+====
+
+'''
+
+xref:027-daniel/027-daniel-008.adoc#v27-8-0[&#60; Capítulo Anterior] | <<v27-9-0,Topo>> | xref:027-daniel/027-daniel-010.adoc#v27-10-0[Próximo Capítulo &#62;]

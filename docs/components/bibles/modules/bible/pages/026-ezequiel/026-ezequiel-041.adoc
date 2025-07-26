@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v26-41-0]]
+=== Ezequiel, 41
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v26-41-1]]
+
+^<<v26-41-1,1>>^ E ele passou a levar-me ao templo^&#42;1^ e prosseguiu medindo as pilastras laterais, a largura sendo de seis côvados aqui e de seis côvados ali, a largura da pilastra lateral.^&#42;2^
+
+[NOTE]
+====
+. “Ao templo.” Heb.: ha·heh·khál; gr.: na·ón; lat.: tém·plum. Veja Mt 23:16 n.
+. “Pilastra lateral”, mediante uma correção; M: “tenda”.
+====
+
+[[v26-41-2]]
+
+^<<v26-41-2,2>>^ E a largura da entrada era de dez côvados, e os lados da entrada tinham cinco côvados aqui e cinco côvados ali. E ele prosseguiu medindo seu comprimento, quarenta côvados; e a largura, vinte côvados.
+
+[[v26-41-3]]
+
+^<<v26-41-3,3>>^ E ele entrou e passou a medir a pilastra lateral da entrada, dois côvados; e a entrada, seis côvados; e a largura da entrada era de sete côvados.
+
+[[v26-41-4]]
+
+^<<v26-41-4,4>>^ E prosseguiu medindo seu comprimento, vinte côvados; e [sua] largura, vinte côvados, diante do templo. Então me disse: “Este é o Santíssimo.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Este é o Santo dos Santos.” Hebr.: zeh Qó·dhesh haq·Qodha·shím.
+====
+
+[[v26-41-5]]
+
+^<<v26-41-5,5>>^ E ele passou a medir a parede da casa, seis côvados. E a largura da câmara lateral era de quatro côvados em redor; estava em volta da casa, em todo o redor.
+
+[[v26-41-6]]
+
+^<<v26-41-6,6>>^ E as câmaras laterais estavam câmara lateral sobre câmara lateral, três [andares], e trinta vezes; e penetravam na parede pertencente à casa, isto é, as câmaras laterais em redor, para que ficassem seguras, mas não estavam seguras à parede da casa.
+
+[[v26-41-7]]
+
+^<<v26-41-7,7>>^ E havia um alargamento e um rodeio quanto mais se subia^&#42;1^ às câmaras laterais, pois a passagem em caracol, da casa, subia mais e mais, em torno da casa. Portanto, havia um alargamento da casa para cima, e do^&#42;2^ [andar] inferior podia-se subir ao [andar] superior [passando-se] pelo [andar] do meio.
+
+[NOTE]
+====
+. “Quanto mais se subia.” Ou “de andar em andar”, segundo uma correção sugerida em KB3, p. 580.
+. “Do”, LXXSy; M: “assim”; Vg: “assim do”.
+====
+
+[[v26-41-8]]
+
+^<<v26-41-8,8>>^ E eu vi que havia um patamar elevado^&#42;1^ em redor da casa. Quanto aos alicerces das câmaras laterais, eram de uma cana inteira de seis côvados até à junção.
+
+[NOTE]
+====
+. Lit.: “uma altura; uma proeminência”.
+====
+
+[[v26-41-9]]
+
+^<<v26-41-9,9>>^ A largura da parede pertencente à câmara lateral, do lado de fora, era de cinco côvados. E deixara-se uma área aberta^&#42;1^ [junto] ao edifício das câmaras laterais pertencente à casa.
+
+[NOTE]
+====
+. “Área aberta.” Hebr.: mun·náhh.
+====
+
+[[v26-41-10]]
+
+^<<v26-41-10,10>>^ E entre os refeitórios a largura era de vinte côvados em volta da casa, em todo o redor.
+
+[[v26-41-11]]
+
+^<<v26-41-11,11>>^ E a entrada da câmara lateral era pela área que se deixara aberta, uma entrada ao norte e outra entrada ao sul; e a largura do espaço da área deixada aberta era de cinco côvados, em todo o redor.
+
+[[v26-41-12]]
+
+^<<v26-41-12,12>>^ E o edifício^&#42;1^ que enfrentava a área separada,^&#42;2^ [cujo] lado dava para o oeste,^&#42;3^ tinha setenta côvados de largura. E a parede do edifício tinha cinco côvados de grossura, em todo o redor; e tinha o comprimento de noventa côvados.
+
+[NOTE]
+====
+. “E o edifício.” Hebr.: wehab·bin·yán.
+. “A área separada.” Hebr.: hag·giz·ráh.
+. Lit.: “o mar”, isto é, o Mar Mediterrâneo. Hebr.: hai·yám.
+====
+
+[[v26-41-13]]
+
+^<<v26-41-13,13>>^ E ele mediu a casa, cem côvados de comprimento; e a área separada e o edifício e suas paredes, cem côvados de comprimento.
+
+[[v26-41-14]]
+
+^<<v26-41-14,14>>^ E a largura da frente da casa e da área separada ao leste era de cem côvados.
+
+[[v26-41-15]]
+
+^<<v26-41-15,15>>^ E ele mediu o comprimento do edifício que enfrentava a área separada, que havia atrás dela, e suas galerias deste lado e daquele lado, cem côvados.
+Também o templo, o lugar interno e os pórticos do pátio;
+
+[[v26-41-16]]
+
+^<<v26-41-16,16>>^ os limiares, e as janelas de vãos que se estreitavam, e as galerias estavam ao redor dos três. Defronte do limiar havia painéis de madeira em todo o redor, e [do] chão^&#42;1^ até as janelas; e as janelas eram [janelas] cobertas.
+
+[NOTE]
+====
+. Lit.: “e [da] terra”. Hebr.: weha·’á·rets.
+====
+
+[[v26-41-17]]
+
+^<<v26-41-17,17>>^ Até acima da entrada e até a casa interna, e do lado de fora e sobre toda a parede em redor, na [casa] interna e por fora, havia demarcações,
+
+[[v26-41-18]]
+
+^<<v26-41-18,18>>^ sim, esculpiram-se^&#42;1^ querubins e figuras de palmeiras, havendo uma figura de palmeira entre querubim e querubim, e o querubim tinha duas faces.
+
+[NOTE]
+====
+. Lit.: “fizeram-se”.
+====
+
+[[v26-41-19]]
+
+^<<v26-41-19,19>>^ E a face de homem^&#42;1^ estava [virada] para a figura de palmeira deste lado e a face de leão novo jubado estava [virada] para a figura de palmeira daquele lado, esculpidos na casa inteira, em todo o redor.
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v26-41-20]]
+
+^<<v26-41-20,20>>^ Desde o chão até acima da entrada esculpiram-se querubins e figuras de palmeiras [na] parede do templo.^&#42;1^
+
+[NOTE]
+====
+. “Do templo.” Hebr.: ha·heh·khál. No M, esta palavra foi assinalada com pontos extraordinários pelos soferins, evidentemente para indicar que fora incluída aqui por engano, visto que a próxima sentença começa com a mesma palavra. Veja Ap. 2A.
+====
+
+[[v26-41-21]]
+
+^<<v26-41-21,21>>^ Quanto ao templo, as ombreiras da porta eram retangulares; e defronte do lugar santo havia o que tinha aparência do [seguinte] aspecto:
+
+[[v26-41-22]]
+
+^<<v26-41-22,22>>^ o altar de madeira tinha três côvados de altura, e seu comprimento era de dois côvados,^&#42;1^ e tinha seus postes de quina. E seu comprimento e suas paredes eram de madeira. E ele passou a falar comigo: “Esta é a mesa que está diante de Jeová.”
+
+[NOTE]
+====
+. LXX acrescenta: “e a largura era de dois côvados”.
+====
+
+[[v26-41-23]]
+
+^<<v26-41-23,23>>^ E o templo^&#42;1^ e o lugar santo^&#42;2^ tinham portas de dois [batentes].
+
+[NOTE]
+====
+. Lit.: “ao templo”. Hebr.: la·heh·khál; gr.: na·oí; lat.: tém·plo. Veja v. 1 n.: “templo”.
+. Lit.: “e ao lugar santo (santuário)”. Hebr.: welaq·qó·dhesh; gr.: ha·gí·oi; lat.: sanc·tu·á·ri·o.
+====
+
+[[v26-41-24]]
+
+^<<v26-41-24,24>>^ E duas eram as folhas [de cada batente] da porta, as duas sendo dobráveis. Um [batente da] porta tinha duas folhas e o outro tinha duas folhas.
+
+[[v26-41-25]]
+
+^<<v26-41-25,25>>^ E fizeram-se sobre elas, sobre as portas do templo, querubins e figuras de palmeiras, semelhantes às feitas para as paredes, e havia um alpendre de madeira sobre a frente do pórtico, por fora.
+
+[[v26-41-26]]
+
+^<<v26-41-26,26>>^ E havia janelas de vãos que se estreitavam e figuras de palmeiras para cá e para lá aos lados do pórtico, e das câmaras laterais, e dos alpendres.
+
+'''
+
+xref:026-ezequiel/026-ezequiel-040.adoc#v26-40-0[&#60; Capítulo Anterior] | <<v26-41-0,Topo>> | xref:026-ezequiel/026-ezequiel-042.adoc#v26-42-0[Próximo Capítulo &#62;]

@@ -1,0 +1,88 @@
+include::./index.adoc[]
+
+[[v23-46-0]]
+=== Isaías, 46
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-46-1]]
+
+^<<v23-46-1,1>>^ Bel se dobrou, Nebo se corcova; seus ídolos ficaram para os animais selváticos e para os animais domésticos, seus carregamentos, as peças de bagagem, uma carga para os animais cansados.
+
+[[v23-46-2]]
+
+^<<v23-46-2,2>>^ Terão de corcovar-se; terão de dobrar-se, cada um igual; são simplesmente incapazes de pôr a carga a salvo, mas a sua própria alma terá de ir ao cativeiro.
+
+[[v23-46-3]]
+
+^<<v23-46-3,3>>^ “Escuta-me, ó casa de Jacó, e todos vós remanescentes^&#42;1^ da casa de Israel, vós os que fostes transportados [por mim] desde o ventre, os que fostes carregados desde a madre.
+
+[NOTE]
+====
+. Ou “tu, todo o restante”.
+====
+
+[[v23-46-4]]
+
+^<<v23-46-4,4>>^ Mesmo até a velhice [da pessoa], eu sou o Mesmo; e até as cãs [da pessoa], eu mesmo continuarei a sustentar. Eu mesmo hei de agir, para que eu mesmo carregue e para que eu mesmo sustente e ponha a salvo.
+
+[[v23-46-5]]
+
+^<<v23-46-5,5>>^ “A quem me assemelhareis ou [me] fareis igual, ou [com quem] me comparareis para que nos assemelhemos?
+
+[[v23-46-6]]
+
+^<<v23-46-6,6>>^ Há os que são pródigos com o ouro da bolsa e eles pesam a prata com a báscula. Contratam um trabalhador em metal, e ele o transforma num deus.^&#42;1^ Prostram-se, sim, curvam-se.
+
+[NOTE]
+====
+. Lit.: “e ele faz disso um deus”. Hebr.: weya‛asé·hu ’el.
+====
+
+[[v23-46-7]]
+
+^<<v23-46-7,7>>^ Carregam-no sobre o ombro, sustentam-no e depositam-no no seu lugar para que fique parado. Não se afasta do lugar da sua posição. Clama-se até mesmo para ele, mas não responde; não salva a ninguém da sua aflição.
+
+[[v23-46-8]]
+
+^<<v23-46-8,8>>^ “Lembrai-vos disso, para que cobreis ânimo.^&#42;1^ Fixai-o no coração, vós transgressores.
+
+[NOTE]
+====
+. Ou “crieis coragem”, KB3, p. 96.
+====
+
+[[v23-46-9]]
+
+^<<v23-46-9,9>>^ Lembrai-vos das primeiras coisas de há muito tempo, que eu sou o Divino^&#42;1^ e não há outro Deus,^&#42;2^ nem alguém semelhante a mim;
+
+[NOTE]
+====
+. Ou “Deus”. Hebr.: ’El; gr.: ho The·ós.
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v23-46-10]]
+
+^<<v23-46-10,10>>^ Aquele que desde o princípio conta o final e desde outrora as coisas que não se fizeram; Aquele que diz: ‘Meu próprio conselho ficará de pé e farei tudo o que for do meu agrado’;
+
+[[v23-46-11]]
+
+^<<v23-46-11,11>>^ Aquele que desde o nascente chama a ave de rapina, de uma terra distante o homem^&#42;1^ para executar o meu^&#42;2^ conselho. Eu até mesmo [o] falei; também o introduzirei. Eu [o] formei, também o farei.
+
+[NOTE]
+====
+. Lit.: “homem de”. Hebr.: ’ish.
+. “Meu”, Mmargem em harmonia com LXX; 1QIsaM: “seu”.
+====
+
+[[v23-46-12]]
+
+^<<v23-46-12,12>>^ “Escutai-me, vós poderosos de coração, vós os que estais longe da justiça.
+
+[[v23-46-13]]
+
+^<<v23-46-13,13>>^ Fiz chegar perto a minha justiça. Ela não está longe, e a própria salvação da minha parte não tardará. E eu vou dar salvação em Sião a Israel, minha beleza.”
+
+'''
+
+xref:023-isaias/023-isaias-045.adoc#v23-45-0[&#60; Capítulo Anterior] | <<v23-46-0,Topo>> | xref:023-isaias/023-isaias-047.adoc#v23-47-0[Próximo Capítulo &#62;]

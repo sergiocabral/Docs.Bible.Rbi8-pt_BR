@@ -1,0 +1,192 @@
+include::./index.adoc[]
+
+[[v20-6-0]]
+=== Provérbios, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-6-1]]
+
+^<<v20-6-1,1>>^ Filho meu, se tiveres prestado fiança pelo teu próximo, [se] tiveres dado teu aperto de mão até mesmo a um estranho,
+
+[[v20-6-2]]
+
+^<<v20-6-2,2>>^ [se] tiveres sido enlaçado pelas declarações da tua boca, [se] tiveres sido apanhado pelas declarações da tua boca,
+
+[[v20-6-3]]
+
+^<<v20-6-3,3>>^ então toma esta ação, meu filho, e livra-te, porque chegaste a ficar na palma da mão do teu próximo: Vai humilhar-te^&#42;1^ e arremete contra o teu próximo com importunações.
+
+[NOTE]
+====
+. Ou “pisoteia-te”.
+====
+
+[[v20-6-4]]
+
+^<<v20-6-4,4>>^ Não dês sono aos teus olhos, nem cochilo aos teus olhos radiantes.
+
+[[v20-6-5]]
+
+^<<v20-6-5,5>>^ Livra-te como a gazela [se livra] da mão e como o pássaro da mão do passarinheiro.
+
+[[v20-6-6]]
+
+^<<v20-6-6,6>>^ Vai ter com a formiga, ó preguiçoso; vê os seus caminhos e torna-te sábio.
+
+[[v20-6-7]]
+
+^<<v20-6-7,7>>^ Embora não tenha comandante, nem oficial ou governante,
+
+[[v20-6-8]]
+
+^<<v20-6-8,8>>^ prepara seu alimento no próprio verão; tem recolhido seus alimentos na própria colheita.
+
+[[v20-6-9]]
+
+^<<v20-6-9,9>>^ Até quando, ó preguiçoso, ficarás deitado? Quando é que te levantarás do teu sono?
+
+[[v20-6-10]]
+
+^<<v20-6-10,10>>^ Mais um pouco de sono, mais um pouco de cochilo, mais um pouco de cruzar as mãos ao estar deitado,
+
+[[v20-6-11]]
+
+^<<v20-6-11,11>>^ e certamente chegará a tua pobreza como um bandoleiro e a tua carência como um homem armado.^&#42;1^
+
+[NOTE]
+====
+. Ou “como um homem insolente”. Lit.: “como um homem de escudo”. Hebr.: ke’ísh ma·ghén.
+====
+
+[[v20-6-12]]
+
+^<<v20-6-12,12>>^ O homem imprestável,^&#42;1^ o homem daquilo que é prejudicial^&#42;2^ está andando com perversão de fala,^&#42;3^
+
+[NOTE]
+====
+. Lit.: “O homem de belial.” Hebr.: ’a·dhám beli·yá·‛al.
+. “O homem daquilo que é prejudicial.” Hebr.: ’ish ’á·wen.
+. Lit.: “boca”.
+====
+
+[[v20-6-13]]
+
+^<<v20-6-13,13>>^ piscando o olho, fazendo sinais com o pé, dando indicações com os dedos.
+
+[[v20-6-14]]
+
+^<<v20-6-14,14>>^ Há perversidade no seu coração. Todo o tempo projeta algo mau. Continua enviando meramente contendas.
+
+[[v20-6-15]]
+
+^<<v20-6-15,15>>^ É por isso que chegará repentinamente o seu desastre; num instante será quebrantado, e não haverá cura.
+
+[[v20-6-16]]
+
+^<<v20-6-16,16>>^ Há seis coisas que Jeová deveras odeia; sim, há sete coisas detestáveis para a sua alma:
+
+[[v20-6-17]]
+
+^<<v20-6-17,17>>^ olhos altaneiros, língua falsa e mãos que derramam sangue inocente,
+
+[[v20-6-18]]
+
+^<<v20-6-18,18>>^ o coração que projeta ardis prejudiciais, pés que se apressam a correr para a maldade,
+
+[[v20-6-19]]
+
+^<<v20-6-19,19>>^ a testemunha falsa que profere mentiras e todo aquele que cria contendas entre irmãos.
+
+[[v20-6-20]]
+
+^<<v20-6-20,20>>^ Observa, filho meu, o mandamento de teu pai e não abandones a lei de tua mãe.
+
+[[v20-6-21]]
+
+^<<v20-6-21,21>>^ Ata as^&#42;1^ [declarações] constantemente ao teu coração; enrola-as em volta da tua garganta.
+
+[NOTE]
+====
+. “As”, no hebr. é masc., portanto, não se refere a “mandamento” e “lei” (no v. 20), ambos fem. no hebr., mas pode referir-se às “declarações” do pai (como em 4:10, 20), hebr. masc. pl.
+====
+
+[[v20-6-22]]
+
+^<<v20-6-22,22>>^ Ao andares, isso^&#42;1^ te guiará; ao te deitares, isso ficará de guarda sobre ti; e quando tiveres acordado, isso mesmo se ocupará de ti.
+
+[NOTE]
+====
+. Ou “ela”, hebr. fem.
+====
+
+[[v20-6-23]]
+
+^<<v20-6-23,23>>^ Pois o mandamento é uma lâmpada e a lei é uma luz, e as repreensões da disciplina são o caminho da vida,
+
+[[v20-6-24]]
+
+^<<v20-6-24,24>>^ para guardar-te da mulher má,^&#42;1^ da maciez da língua da mulher estrangeira.
+
+[NOTE]
+====
+. “Mulher má”, MTSyVg; LXX: “mulher casada”.
+====
+
+[[v20-6-25]]
+
+^<<v20-6-25,25>>^ Não desejes no teu coração a sua lindeza e não te cative ela com os seus olhos lustrosos,
+
+[[v20-6-26]]
+
+^<<v20-6-26,26>>^ visto que por causa duma mulher prostituta [fica-se reduzido] a um pão redondo; mas, no que se refere à esposa de [outro] homem, ela caça até mesmo a alma preciosa.
+
+[[v20-6-27]]
+
+^<<v20-6-27,27>>^ Pode um homem juntar fogo no seu seio sem se queimarem as suas vestes?
+
+[[v20-6-28]]
+
+^<<v20-6-28,28>>^ Ou pode um homem andar sobre brasas sem se chamuscarem os seus pés?
+
+[[v20-6-29]]
+
+^<<v20-6-29,29>>^ Assim é com aquele que tem relações com a esposa do seu próximo; ninguém que tocar nela ficará impune.
+
+[[v20-6-30]]
+
+^<<v20-6-30,30>>^ As pessoas não desprezam o ladrão só porque furta para encher a sua alma quando está com fome.
+
+[[v20-6-31]]
+
+^<<v20-6-31,31>>^ Mas, quando descoberto, ele o compensará com sete vezes tanto; dará todos os valores da sua casa.
+
+[[v20-6-32]]
+
+^<<v20-6-32,32>>^ Quem comete adultério com uma mulher é falto de coração;^&#42;1^ quem faz isso, arruína^&#42;2^ a sua própria alma.
+
+[NOTE]
+====
+. Ou “falto de boa motivação”. Hebr.: hhasar-lév.
+. Ou “destrói”.
+====
+
+[[v20-6-33]]
+
+^<<v20-6-33,33>>^ Achará praga^&#42;1^ e desonra, e seu próprio vitupério não será extinto.
+
+[NOTE]
+====
+. Ou “golpe”.
+====
+
+[[v20-6-34]]
+
+^<<v20-6-34,34>>^ Pois o furor dum varão vigoroso é ciúme, e ele não terá compaixão no dia da vingança.
+
+[[v20-6-35]]
+
+^<<v20-6-35,35>>^ Não terá consideração para com nenhuma sorte de resgate, nem consentirá, não importa quão grande faças o presente.
+
+'''
+
+xref:020-proverbios/020-proverbios-005.adoc#v20-5-0[&#60; Capítulo Anterior] | <<v20-6-0,Topo>> | xref:020-proverbios/020-proverbios-007.adoc#v20-7-0[Próximo Capítulo &#62;]

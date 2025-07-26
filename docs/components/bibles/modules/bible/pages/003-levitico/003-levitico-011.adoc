@@ -1,0 +1,264 @@
+include::./index.adoc[]
+
+[[v3-11-0]]
+=== Levítico, 11
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-11-1]]
+
+^<<v3-11-1,1>>^ E Jeová passou a falar a Moisés e a Arão, dizendo-lhes:
+
+[[v3-11-2]]
+
+^<<v3-11-2,2>>^ “Falai aos filhos de Israel, dizendo: ‘Esta é a criatura vivente que podeis comer dentre todos os animais que há sobre a terra:
+
+[[v3-11-3]]
+
+^<<v3-11-3,3>>^ Toda criatura de casco partido e de fenda nos cascos, e que rumina,^&#42;1^ dentre os animais, é a que podeis comer.
+
+[NOTE]
+====
+. Lit.: “faz subir [regurgita]”.
+====
+
+[[v3-11-4]]
+
+^<<v3-11-4,4>>^ “‘Somente isto é o que não deveis comer dentre os ruminantes e os de casco partido: o camelo, porque é ruminante, mas não tem casco partido. É impuro para vós.
+
+[[v3-11-5]]
+
+^<<v3-11-5,5>>^ Também o procávia,^&#42;1^ porque é ruminante, mas não tem casco partido. É impuro para vós.
+
+[NOTE]
+====
+. Ou “damão; hírace”.
+====
+
+[[v3-11-6]]
+
+^<<v3-11-6,6>>^ Também a lebre,^&#42;1^ porque é ruminante, mas não tem casco partido. É impura para vós.
+
+[NOTE]
+====
+. Ou “coelho”.
+====
+
+[[v3-11-7]]
+
+^<<v3-11-7,7>>^ Também o porco, porque tem casco partido e tem fenda no casco, mas não é ruminante. É impuro para vós.
+
+[[v3-11-8]]
+
+^<<v3-11-8,8>>^ Não deveis comer nenhuma carne sua e não deveis tocar no seu cadáver. São impuros para vós.
+
+[[v3-11-9]]
+
+^<<v3-11-9,9>>^ “‘Isto é o que podeis comer de tudo o que há nas águas: Tudo o que tem barbatanas e escamas, nas águas, nos mares e nas torrentes — estes podeis comer.
+
+[[v3-11-10]]
+
+^<<v3-11-10,10>>^ E tudo, nos mares e nas torrentes, que não tem barbatanas e escamas, dentre todas as criaturas pululantes das águas e dentre toda alma^&#42;1^ vivente que há nas águas — são para vós algo repugnante.
+
+[NOTE]
+====
+. “Alma.” Hebr.: né·fesh; gr.: psy·khés; sir.: naf·sha’.
+====
+
+[[v3-11-11]]
+
+^<<v3-11-11,11>>^ Sim, tornar-se-ão para vós algo repugnante. Não deveis comer nada da sua carne e deveis ter repugnância de seu cadáver.
+
+[[v3-11-12]]
+
+^<<v3-11-12,12>>^ Tudo nas águas que não tem barbatanas e escamas é para vós algo repugnante.
+
+[[v3-11-13]]
+
+^<<v3-11-13,13>>^ “‘E estas são as de que tereis repugnância dentre as criaturas voadoras. Não devem ser comidas. São algo repugnante: a águia, e o brita-ossos,^&#42;1^ e o abutre-fusco,
+
+[NOTE]
+====
+. Lit.: “o britador”, uma ave de rapina.
+====
+
+[[v3-11-14]]
+
+^<<v3-11-14,14>>^ e o milhafre vermelho, e o milhafre-preto segundo a sua espécie,^&#42;1^
+
+[NOTE]
+====
+. Veja Gên 1:11 n.
+====
+
+[[v3-11-15]]
+
+^<<v3-11-15,15>>^ e todo corvo segundo a sua espécie,
+
+[[v3-11-16]]
+
+^<<v3-11-16,16>>^ e a avestruz,^&#42;1^ e a coruja,^&#42;2^ e a gaivota, e o falcão segundo a sua espécie,
+
+[NOTE]
+====
+. “Avestruz.” Hebr.: bath hai·ya·‛anáh, entendido como significando “filha do ganancioso” ou “filha do solo árido”.
+. “Coruja”, LXXVg.
+====
+
+[[v3-11-17]]
+
+^<<v3-11-17,17>>^ e o mocho, e o corvo-marinho, e o mocho-orelhudo,
+
+[[v3-11-18]]
+
+^<<v3-11-18,18>>^ e o cisne,^&#42;1^ e o pelicano, e o abutre,
+
+[NOTE]
+====
+. “Cisne”, Vg; LXX: “pássaro roxo”.
+====
+
+[[v3-11-19]]
+
+^<<v3-11-19,19>>^ e a cegonha, a garça segundo a sua espécie, e a poupa e o morcego.
+
+[[v3-11-20]]
+
+^<<v3-11-20,20>>^ Toda criatura pululante alada que anda de quatro é para vós algo repugnante.
+
+[[v3-11-21]]
+
+^<<v3-11-21,21>>^ “‘Somente isto é o que podeis comer de todas as criaturas pululantes aladas que andam de quatro: as que têm^&#42;1^ pernas de salto sobre os seus pés, com que saltam na terra.
+
+[NOTE]
+====
+. “Que têm”, LXXSyVg; M: “que não [tem]”. Veja v. 23.
+====
+
+[[v3-11-22]]
+
+^<<v3-11-22,22>>^ Delas são estas as que podeis comer: o gafanhoto migratório^&#42;1^ segundo a sua espécie, e o gafanhoto comestível segundo a sua espécie, e o grilo segundo a sua espécie, e o gafanhoto [comum]^&#42;2^ segundo a sua espécie.
+
+[NOTE]
+====
+. O gafanhoto no estágio alado, plenamente desenvolvido.
+. Uma espécie de gafanhoto; possivelmente saltador, não voador.
+====
+
+[[v3-11-23]]
+
+^<<v3-11-23,23>>^ E toda outra criatura pululante alada que tem quatro pernas é para vós algo repugnante.
+
+[[v3-11-24]]
+
+^<<v3-11-24,24>>^ Assim, por meio destas vos faríeis impuros. Todo aquele que tocar nos seus cadáveres será impuro até à noitinha.
+
+[[v3-11-25]]
+
+^<<v3-11-25,25>>^ E todo aquele que carregar um dos seus cadáveres lavará suas vestes e terá de ser impuro até à noitinha.
+
+[[v3-11-26]]
+
+^<<v3-11-26,26>>^ “‘Quanto a qualquer animal de casco partido, mas que não tem fenda, e que não é ruminante — são impuros para vós. Todo aquele que tocar neles será impuro.
+
+[[v3-11-27]]
+
+^<<v3-11-27,27>>^ Quanto a toda criatura que anda nas suas patas, dentre todas as criaturas viventes que andam de quatro — são impuras para vós. Todo aquele que tocar nos seus cadáveres será impuro até à noitinha.
+
+[[v3-11-28]]
+
+^<<v3-11-28,28>>^ E quem carregar os seus cadáveres lavará suas vestes e terá de ser impuro até à noitinha. São impuros para vós.
+
+[[v3-11-29]]
+
+^<<v3-11-29,29>>^ “‘E isto é o que é impuro para vós dentre todas as criaturas pululantes que pululam sobre a terra: o espálace, e o gerbo, e o lagarto,^&#42;1^ segundo a sua espécie,
+
+[NOTE]
+====
+. “Lagarto”, M; LXX: “lagarto; monitor (do deserto); varano(-terrestre)”; Vg: “crocodilo”.
+====
+
+[[v3-11-30]]
+
+^<<v3-11-30,30>>^ e o geco, e o lagarto grande, e a salamandra, e o lagarto de areia, e o camaleão.^&#42;1^
+
+[NOTE]
+====
+. “Toupeira”, LXXVg.
+====
+
+[[v3-11-31]]
+
+^<<v3-11-31,31>>^ Estes são impuros para vós dentre todas as criaturas pululantes. Todo aquele que tocar neles no seu estado morto será impuro até à noitinha.
+
+[[v3-11-32]]
+
+^<<v3-11-32,32>>^ “‘Ora, aquilo em que cair um deles no seu estado morto será impuro, quer seja algum vaso de madeira, quer uma veste, quer uma pele, quer serapilheira. Qualquer vaso de que se faça uso será metido na água e terá de ser impuro até à noitinha, e então terá de ser limpo.
+
+[[v3-11-33]]
+
+^<<v3-11-33,33>>^ Quanto a algum vaso de barro em que cair um deles, tudo o que houver nele será impuro, e vós o destroçareis.
+
+[[v3-11-34]]
+
+^<<v3-11-34,34>>^ Qualquer sorte de alimento que se coma, sobre que vier água procedente dele, será impuro, e qualquer bebida que se beba, em qualquer vaso, será impura.
+
+[[v3-11-35]]
+
+^<<v3-11-35,35>>^ E tudo aquilo em que cair algo dos seus cadáveres será impuro. Quer seja forno, quer suporte para pote, deve ser demolido. São impuros e tornar-se-ão impuros para vós.
+
+[[v3-11-36]]
+
+^<<v3-11-36,36>>^ Somente o manancial ou a vala de águas represadas continuarão limpos, mas todo aquele que tocar nos seus cadáveres será impuro.
+
+[[v3-11-37]]
+
+^<<v3-11-37,37>>^ E se algo dos seus cadáveres cair sobre uma semente de planta que há de ser semeada, ela será limpa.
+
+[[v3-11-38]]
+
+^<<v3-11-38,38>>^ Mas, caso se ponha água sobre a semente e algo dos seus cadáveres caia sobre ela, será impura para vós.
+
+[[v3-11-39]]
+
+^<<v3-11-39,39>>^ “‘Ora, caso morra algum animal vosso que é para alimento, quem tocar no seu cadáver será impuro até à noitinha.
+
+[[v3-11-40]]
+
+^<<v3-11-40,40>>^ E quem comer alguma coisa do seu cadáver lavará suas vestes e terá de ser impuro até à noitinha; e quem carregar seu cadáver lavará suas vestes e terá de ser impuro até à noitinha.
+
+[[v3-11-41]]
+
+^<<v3-11-41,41>>^ E toda criatura pululante que pulula sobre a terra é algo repugnante. Não deve ser comida.
+
+[[v3-11-42]]
+
+^<<v3-11-42,42>>^ Quanto a qualquer criatura que anda sobre o ventre^&#42;1^ e qualquer criatura que anda de quatro ou em grande número de pés, de todas as criaturas pululantes que pululam na terra, não as deveis comer, porque são algo repugnante.
+
+[NOTE]
+====
+. “Ventre.” Gins., BHS e muitos mss. hebr. têm a terceira letra, Waw (ו), ampliada na palavra para “ventre”, para destacá-la como a letra central do Pentateuco, mostrando que os soferins contavam as próprias letras. A pequena Massorá traz isso à atenção.
+====
+
+[[v3-11-43]]
+
+^<<v3-11-43,43>>^ Não façais as vossas almas repugnantes com qualquer criatura pululante que pulula, e não deveis fazer-vos impuros com elas e realmente ser impuros por elas.
+
+[[v3-11-44]]
+
+^<<v3-11-44,44>>^ Pois eu sou Jeová, vosso Deus; e tendes de santificar-vos e tendes de mostrar ser santos, porque eu sou santo. Assim, não deveis fazer vossas almas impuras com qualquer criatura pululante que se move sobre a terra.
+
+[[v3-11-45]]
+
+^<<v3-11-45,45>>^ Pois eu sou Jeová, que vos conduzo para fora da terra do Egito, a fim de me mostrar Deus para vós; e tendes de mostrar ser santos, porque eu sou santo.
+
+[[v3-11-46]]
+
+^<<v3-11-46,46>>^ “‘Esta é a lei a respeito do animal e da criatura voadora, e de toda alma vivente que se move nas águas, e com respeito a toda alma que pulula na terra,
+
+[[v3-11-47]]
+
+^<<v3-11-47,47>>^ a fim de se fazer diferença entre o impuro e o puro, e entre a criatura vivente que se pode comer e a criatura vivente que não se pode comer.’”
+
+'''
+
+xref:003-levitico/003-levitico-010.adoc#v3-10-0[&#60; Capítulo Anterior] | <<v3-11-0,Topo>> | xref:003-levitico/003-levitico-012.adoc#v3-12-0[Próximo Capítulo &#62;]

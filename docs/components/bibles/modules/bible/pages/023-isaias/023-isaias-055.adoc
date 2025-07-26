@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v23-55-0]]
+=== Isaías, 55
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-55-1]]
+
+^<<v23-55-1,1>>^ Eh! todos vós sedentos! Vinde à água. E vós os que não tendes dinheiro! Vinde, comprai e comei. Sim, vinde, comprai vinho e leite mesmo sem dinheiro e sem preço.
+
+[[v23-55-2]]
+
+^<<v23-55-2,2>>^ Por que continuais a pagar dinheiro por aquilo que não é pão e por que é a vossa labuta por aquilo que não resulta em saciedade? Escutai-me atentamente e comei o que é bom, e deleite-se a vossa alma com a própria gordura.
+
+[[v23-55-3]]
+
+^<<v23-55-3,3>>^ Inclinai o vosso ouvido e vinde a mim. Escutai, e a vossa alma ficará viva, e eu concluirei convosco prontamente um pacto de duração indefinida referente às benevolências^&#42;1^ para com Davi, que são fiéis.^&#42;2^
+
+[NOTE]
+====
+. Ou “à plena benevolência; ao pleno amor leal”.
+. Ou “duradouras; firmemente estabelecidas”.
+====
+
+[[v23-55-4]]
+
+^<<v23-55-4,4>>^ Eis que o dei como testemunha para os grupos nacionais,^&#42;1^ como líder e comandante para os grupos nacionais.
+
+[NOTE]
+====
+. Ou “as populações; as massas”. LXX: “nações”.
+====
+
+[[v23-55-5]]
+
+^<<v23-55-5,5>>^ Eis que chamarás uma nação que tu^&#42;1^ não conheces e correrão a ti os de uma nação que não te conheceram, por causa de Jeová, teu Deus,^&#42;2^ e pelo Santo de Israel, porque ele te terá embelezado.
+
+[NOTE]
+====
+. “Tu”, hebr. masc. sing., referindo-se a Jacó ou Israel.
+. “Teu Deus.” Hebr.: ’Elo·heí·kha.
+====
+
+[[v23-55-6]]
+
+^<<v23-55-6,6>>^ Buscai a Jeová enquanto pode ser achado. Chamai-o enquanto mostra estar perto.
+
+[[v23-55-7]]
+
+^<<v23-55-7,7>>^ Deixe o iníquo o seu caminho e o homem prejudicial os seus pensamentos; e retorne ele a Jeová, que terá misericórdia com ele, e ao nosso Deus, porque perdoará amplamente.
+
+[[v23-55-8]]
+
+^<<v23-55-8,8>>^ “Pois os vossos pensamentos não são os meus pensamentos, nem os meus caminhos, os vossos caminhos”, é a pronunciação de Jeová.
+
+[[v23-55-9]]
+
+^<<v23-55-9,9>>^ “Porque assim como os céus são mais altos do que a terra, assim os meus caminhos são mais altos do que os vossos caminhos, e os meus pensamentos, do que os vossos pensamentos.
+
+[[v23-55-10]]
+
+^<<v23-55-10,10>>^ Pois assim como desce dos céus a chuvada e a neve, e não volta àquele lugar, a menos que realmente sature a terra e a faça produzir e brotar, e se dê de fato semente ao semeador e pão ao comedor,
+
+[[v23-55-11]]
+
+^<<v23-55-11,11>>^ assim mostrará ser a minha palavra que sai da minha boca. Não voltará a mim sem resultados, mas certamente fará aquilo em que me agradei e terá êxito certo naquilo para que a enviei.
+
+[[v23-55-12]]
+
+^<<v23-55-12,12>>^ “Pois saireis com alegria e sereis trazidos para dentro com paz. Os próprios montes e morros ficarão animados diante de vós com clamor jubilante, e as próprias árvores do campo, todas, baterão palmas.
+
+[[v23-55-13]]
+
+^<<v23-55-13,13>>^ Em lugar da moita de silvas subirá o junípero. Em lugar da urtiga subirá a murta. E terá de tornar-se para Jeová algo famoso,^&#42;1^ um sinal por tempo indefinido, que não será decepado.”
+
+[NOTE]
+====
+. Ou “fama; reputação”. Lit.: “nome”.
+====
+
+'''
+
+xref:023-isaias/023-isaias-054.adoc#v23-54-0[&#60; Capítulo Anterior] | <<v23-55-0,Topo>> | xref:023-isaias/023-isaias-056.adoc#v23-56-0[Próximo Capítulo &#62;]

@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v13-23-0]]
+=== 1 Crônicas, 23
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v13-23-1]]
+
+^<<v13-23-1,1>>^ E o próprio Davi tinha ficado velho e farto de dias, e por isso fez a Salomão, seu filho, rei sobre Israel.
+
+[[v13-23-2]]
+
+^<<v13-23-2,2>>^ E ele passou a ajuntar todos os príncipes de Israel, bem como os sacerdotes e os levitas.
+
+[[v13-23-3]]
+
+^<<v13-23-3,3>>^ Por conseguinte, os levitas foram contados da idade de trinta anos para cima; e seu número, cabeça por cabeça deles, varão vigoroso por varão vigoroso, veio a ser trinta e oito mil.
+
+[[v13-23-4]]
+
+^<<v13-23-4,4>>^ Destes, para supervisionarem a obra da casa de Jeová, havia vinte e quatro mil; e como oficiais e juízes, seis mil;
+
+[[v13-23-5]]
+
+^<<v13-23-5,5>>^ e quatro mil porteiros e quatro mil louvadores de Jeová com os instrumentos de [que Davi disse:] “Feitos por mim para dar louvor.”
+
+[[v13-23-6]]
+
+^<<v13-23-6,6>>^ Então Davi os distribuiu em turmas aos filhos de Levi, a Gérson, a Coate e a Merari.
+
+[[v13-23-7]]
+
+^<<v13-23-7,7>>^ Aos gersonitas: Ladã e Simei.
+
+[[v13-23-8]]
+
+^<<v13-23-8,8>>^ Os filhos de Ladã foram Jeiel, o cabeça, e Zetão e Joel, três.
+
+[[v13-23-9]]
+
+^<<v13-23-9,9>>^ Os filhos de Simei foram Selomote, e Haziel, e Harã, três. Estes foram os cabeças dos pais para Ladã.
+
+[[v13-23-10]]
+
+^<<v13-23-10,10>>^ E os filhos de Simei foram Jaate, Zina^&#42;1^ e Jeús, e Berias. Estes quatro foram os filhos de Simei.
+
+[NOTE]
+====
+. “Zina”, M; LXXVg, um ms. hebr. e v. 11: “Zizá”.
+====
+
+[[v13-23-11]]
+
+^<<v13-23-11,11>>^ E Jaate veio a ser o cabeça, e Zizá, o segundo. Quanto a Jeús e Berias, não tiveram muitos filhos; de modo que se tornaram casa paterna para uma classe oficial.
+
+[[v13-23-12]]
+
+^<<v13-23-12,12>>^ Os filhos de Coate foram Anrão, Izar, Hébron e Uziel, quatro.
+
+[[v13-23-13]]
+
+^<<v13-23-13,13>>^ Os filhos de Anrão foram Arão e Moisés. Mas Arão foi separado para santificar^&#42;1^ o Santíssimo, ele e seus filhos, por tempo indefinido, para fazer fumaça sacrificial perante Jeová, para ministrar-lhe e para proferir bênção em seu nome por tempo indefinido.
+
+[NOTE]
+====
+. “Para santificar (ter por sagrado; tratar como santo).” Hebr.: lehaq·di·shóh; gr.: tou ha·gi·a·sthé·nai.
+====
+
+[[v13-23-14]]
+
+^<<v13-23-14,14>>^ Quanto a Moisés, homem do [verdadeiro] Deus,^&#42;1^ seus próprios filhos continuaram a ser chamados entre a tribo dos levitas.
+
+[NOTE]
+====
+. “Homem do [verdadeiro] Deus.” Hebr.: ’ish ha·’Elo·hím. Veja Ap. 1F.
+====
+
+[[v13-23-15]]
+
+^<<v13-23-15,15>>^ Os filhos de Moisés foram Gersom e Eliézer.
+
+[[v13-23-16]]
+
+^<<v13-23-16,16>>^ Os filhos de Gersom: Sebuel,^&#42;1^ o cabeça.
+
+[NOTE]
+====
+. Significando “Ele Retornou a Deus; Cativo de Deus”; em 24:20: “Subael”. Entende-se que se refere a um filho ou descendente do filho de Moisés, Gersom.
+====
+
+[[v13-23-17]]
+
+^<<v13-23-17,17>>^ E os filhos de Eliézer vieram a ser Reabias, o cabeça; e Eliézer não veio a ter outros filhos, mas os próprios filhos de Reabias tornaram-se extraordinariamente muitos.
+
+[[v13-23-18]]
+
+^<<v13-23-18,18>>^ Os filhos de Izar: Selomite, o cabeça.
+
+[[v13-23-19]]
+
+^<<v13-23-19,19>>^ Os filhos de Hébron foram Jerias, o cabeça, Amarias, o segundo, Jaaziel, o terceiro, e Jecameão, o quarto.
+
+[[v13-23-20]]
+
+^<<v13-23-20,20>>^ Os filhos de Uziel foram Micá, o cabeça, e Issias, o segundo.
+
+[[v13-23-21]]
+
+^<<v13-23-21,21>>^ Os filhos de Merari foram Mali e Musi. Os filhos de Mali foram Eleazar e Quis.
+
+[[v13-23-22]]
+
+^<<v13-23-22,22>>^ Mas Eleazar morreu; e ele não veio a ter filhos, mas filhas. De modo que os filhos de Quis, seus irmãos, as tomaram [por esposas].
+
+[[v13-23-23]]
+
+^<<v13-23-23,23>>^ Os filhos de Musi foram Mali, e Éder, e Jeremote, três.
+
+[[v13-23-24]]
+
+^<<v13-23-24,24>>^ Estes foram os filhos de Levi segundo a casa de seus pais, os cabeças dos pais, pelos seus comissionados, pelo número dos nomes, cabeça por cabeça^&#42;1^ deles, os que faziam a obra para o serviço da casa de Jeová, da idade de vinte anos para cima.
+
+[NOTE]
+====
+. Lit.: “crânio”.
+====
+
+[[v13-23-25]]
+
+^<<v13-23-25,25>>^ Porque Davi havia dito: “Jeová, o Deus de Israel, deu descanso ao seu povo e residirá em Jerusalém por tempo indefinido.
+
+[[v13-23-26]]
+
+^<<v13-23-26,26>>^ E também os levitas não terão de carregar o tabernáculo nem qualquer dos seus utensílios para o seu serviço.”
+
+[[v13-23-27]]
+
+^<<v13-23-27,27>>^ Porque pelas últimas palavras de Davi, este foi o número dos filhos de Levi da idade de vinte anos para cima.
+
+[[v13-23-28]]
+
+^<<v13-23-28,28>>^ Pois a sua função era estarem à disposição^&#42;1^ dos filhos de Arão para o serviço da casa de Jeová referente aos pátios, e referente aos refeitórios, e referente à purificação de toda coisa sagrada e ao trabalho do serviço da casa do [verdadeiro] Deus,
+
+[NOTE]
+====
+. Lit.: “mão”.
+====
+
+[[v13-23-29]]
+
+^<<v13-23-29,29>>^ mesmo para o pão de pilha e para a flor de farinha para a oferta de cereais, e para as obreias não fermentadas, e para os [bolos] de assadeira, e para a massa misturada, e para todas as medidas de quantidade e tamanho;
+
+[[v13-23-30]]
+
+^<<v13-23-30,30>>^ e para ficarem de pé, manhã após manhã, para agradecer e para louvar a Jeová, e igualmente à noitinha;
+
+[[v13-23-31]]
+
+^<<v13-23-31,31>>^ e para toda oferta de sacrifícios queimados a Jeová, nos sábados, nas luas novas e nas épocas festivas, por número, segundo a regra a respeito deles, constantemente perante Jeová.
+
+[[v13-23-32]]
+
+^<<v13-23-32,32>>^ E cuidavam de guardar a tenda de reunião, e de guardar o lugar santo, e de guardar os filhos de Arão, seus irmãos, para o serviço da casa de Jeová.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-022.adoc#v13-22-0[&#60; Capítulo Anterior] | <<v13-23-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-024.adoc#v13-24-0[Próximo Capítulo &#62;]

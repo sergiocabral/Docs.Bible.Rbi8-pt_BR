@@ -1,0 +1,242 @@
+include::./index.adoc[]
+
+[[v43-19-0]]
+=== João, 19
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v43-19-1]]
+
+^<<v43-19-1,1>>^ Naquela ocasião, portanto, Pilatos tomou Jesus e o açoitou.
+
+[[v43-19-2]]
+
+^<<v43-19-2,2>>^ E os soldados trançaram uma coroa de espinhos e a puseram na cabeça dele, e vestiram-no com uma roupa exterior de púrpura;
+
+[[v43-19-3]]
+
+^<<v43-19-3,3>>^ e começaram a chegar-se a ele e a dizer: “Bom dia, ó Rei dos judeus!” Davam-lhe também bofetadas.
+
+[[v43-19-4]]
+
+^<<v43-19-4,4>>^ E Pilatos saiu novamente e disse-lhes: “Eis que vo-lo trago para fora, a fim de que saibais que eu não acho falta nele.”
+
+[[v43-19-5]]
+
+^<<v43-19-5,5>>^ Concordemente, Jesus veio para fora, levando a coroa de espinhos e a roupa exterior de púrpura. E ele lhes disse: “Eis o homem!”^&#42;1^
+
+[NOTE]
+====
+. “Eis o homem!” Gr.: I·doú ho án·thro·pos; lat.: éc·ce hó·mo; J22(hebr.): Hin·néh ha·’ísh; J17(hebr.): Hin·néh ha·’a·dhám, “Eis o homem terreno!”; J18(hebr.): Hin·néh hag·ga·vér, “Eis o varão vigoroso!” Veja Za 6:12 n.: “homem”.
+====
+
+[[v43-19-6]]
+
+^<<v43-19-6,6>>^ No entanto, quando os principais sacerdotes e os oficiais o viram, gritaram, dizendo: “Para a estaca [com ele]!^&#42;1^ Para a estaca [com ele]!” Pilatos disse-lhes: “Tomai-o vós mesmos e pregai-o numa estaca, pois eu não acho nenhuma falta nele.”
+
+[NOTE]
+====
+. Ou: “Fixa[-o] numa estaca (poste)!” Veja Ap. 5C.
+====
+
+[[v43-19-7]]
+
+^<<v43-19-7,7>>^ Os judeus responderam-lhe: “Nós temos uma lei, e é segundo a lei que ele deve morrer, porque se fez filho de Deus.”
+
+[[v43-19-8]]
+
+^<<v43-19-8,8>>^ Ouvindo Pilatos, portanto, esta palavra, ficou mais temeroso ainda;
+
+[[v43-19-9]]
+
+^<<v43-19-9,9>>^ e entrou novamente no palácio do governador e disse a Jesus: “Donde és?” Mas Jesus não lhe deu resposta.
+
+[[v43-19-10]]
+
+^<<v43-19-10,10>>^ Pilatos disse-lhe por isso: “Não falas comigo? Não sabes que tenho autoridade para te livrar e que tenho autoridade para te pregar numa estaca?”
+
+[[v43-19-11]]
+
+^<<v43-19-11,11>>^ Jesus respondeu-lhe: “Não terias absolutamente nenhuma autoridade^&#42;1^ contra mim, se não te tivesse sido concedida de cima.^&#42;2^ É por isso que o homem que me entregou a ti tem maior pecado.”
+
+[NOTE]
+====
+. “Autoridade.” Gr.: e·xou·sí·an; lat.: po·te·stá·tem; J17(hebr.): reshúth.
+. Ou “desde o céu”.
+====
+
+[[v43-19-12]]
+
+^<<v43-19-12,12>>^ Por esta razão, Pilatos procurava um modo de livrá-lo. Mas os judeus gritavam, dizendo: “Se livrares este [homem], não és amigo de César.^&#42;1^ Todo homem que se faz rei fala contra César.”
+
+[NOTE]
+====
+. Ou “do imperador”. Gr.: tou Kaí·sa·ros.
+====
+
+[[v43-19-13]]
+
+^<<v43-19-13,13>>^ Portanto, Pilatos, depois de ouvir estas palavras, trouxe Jesus para fora e se assentou numa cadeira de juiz, num lugar chamado O Pavimento de Pedra, mas, em hebraico, Gabatá.
+
+[[v43-19-14]]
+
+^<<v43-19-14,14>>^ Ora, era a preparação da páscoa; era cerca da sexta hora.^&#42;1^ E ele disse aos judeus: “Eis o vosso rei!”
+
+[NOTE]
+====
+. Isto é, por volta do meio-dia, contada desde o nascer do sol.
+====
+
+[[v43-19-15]]
+
+^<<v43-19-15,15>>^ No entanto, eles gritavam: “Fora [com ele]! Fora [com ele]! Para a estaca com ele!” Pilatos disse-lhes: “Hei de pregar na estaca o vosso rei?” Os principais sacerdotes responderam: “Não temos rei senão César.”
+
+[[v43-19-16]]
+
+^<<v43-19-16,16>>^ Nesta ocasião, portanto, entregou-o a eles, para ser pregado numa estaca.
+Então tomaram conta de Jesus.
+
+[[v43-19-17]]
+
+^<<v43-19-17,17>>^ E, levando ele mesmo a estaca de tortura,^&#42;1^ saiu para o chamado Lugar da Caveira,^&#42;2^ que em hebraico é chamado Gólgota;^&#42;3^
+
+[NOTE]
+====
+. Veja Ap. 5C.
+. Veja Mt 27:33 n.: “Lugar da Caveira.”
+. “Gólgota.” Gr.: Gol·go·thá; J17,18(hebr.): Gol·gol·tá’.
+====
+
+[[v43-19-18]]
+
+^<<v43-19-18,18>>^ e ali o pregaram numa estaca, e, junto com ele, mais dois [homens], um deste lado e um daquele, mas Jesus no meio.
+
+[[v43-19-19]]
+
+^<<v43-19-19,19>>^ Pilatos escreveu também um título e o pôs na estaca de tortura. Estava escrito: “Jesus, o Nazareno, o Rei dos Judeus.”^&#42;1^
+
+[NOTE]
+====
+. Veja 18:33 n.
+====
+
+[[v43-19-20]]
+
+^<<v43-19-20,20>>^ Portanto, muitos dos judeus leram este título, porque o lugar onde Jesus estava pregado numa estaca era perto da cidade; e estava escrito em hebraico, em latim, em grego.^&#42;1^
+
+[NOTE]
+====
+. Veja Lu 23:38 n.
+====
+
+[[v43-19-21]]
+
+^<<v43-19-21,21>>^ No entanto, os principais sacerdotes dos judeus começaram a dizer a Pilatos: “Não escrevas ‘O Rei dos Judeus’, mas que ele disse: ‘Eu sou o Rei dos Judeus.’”
+
+[[v43-19-22]]
+
+^<<v43-19-22,22>>^ Pilatos respondeu: “O que escrevi, escrevi.”
+
+[[v43-19-23]]
+
+^<<v43-19-23,23>>^ Então, quando os soldados tinham pregado Jesus numa estaca, tomaram as suas roupas exteriores e fizeram quatro partes, para cada soldado uma parte, e a roupa interior. Mas a roupa interior era sem costura, sendo tecida desde a parte de cima, por todo o seu comprimento.
+
+[[v43-19-24]]
+
+^<<v43-19-24,24>>^ Portanto, disseram um ao outro: “Não a rasguemos, mas decidamos por sortes de quem será.” Isto foi para que se cumprisse a escritura: “Repartiram entre si a minha roupagem exterior, e lançaram sortes sobre a minha vestimenta.” E, assim, os soldados fizeram realmente estas coisas.
+
+[[v43-19-25]]
+
+^<<v43-19-25,25>>^ Junto à estaca de tortura de Jesus, porém, estavam paradas a sua mãe e a irmã de sua mãe; Maria, esposa de Clopas, e Maria Madalena.
+
+[[v43-19-26]]
+
+^<<v43-19-26,26>>^ Jesus, portanto, vendo sua mãe e o discípulo a quem amava^&#42;1^ parados ali, disse à sua mãe: “Mulher, eis o teu filho!”
+
+[NOTE]
+====
+. Ou “preferia”.
+====
+
+[[v43-19-27]]
+
+^<<v43-19-27,27>>^ A seguir disse ao discípulo: “Eis a tua mãe!” E daquela hora em diante, o discípulo levou-a para o seu próprio lar.
+
+[[v43-19-28]]
+
+^<<v43-19-28,28>>^ Depois disso, sabendo Jesus que já se tinham efetuado todas as coisas, a fim de que se cumprisse a escritura, disse: “Tenho sede.”
+
+[[v43-19-29]]
+
+^<<v43-19-29,29>>^ Havia ali um vaso cheio de vinho acre. Portanto, puseram uma esponja cheia de vinho acre numa [haste] de hissopo e a chegaram à sua boca.
+
+[[v43-19-30]]
+
+^<<v43-19-30,30>>^ Tendo então recebido o vinho acre, Jesus disse: “Está consumado!” e, inclinando a cabeça, entregou o [seu] espírito.^&#42;1^
+
+[NOTE]
+====
+. Ou “parou de respirar”. Lit.: “entregou o espírito”. Gr.: pa·ré·do·ken to pneú·ma.
+====
+
+[[v43-19-31]]
+
+^<<v43-19-31,31>>^ Então, os judeus, visto ser a Preparação, a fim de que os corpos não permanecessem nas estacas de tortura no sábado, (pois era grande o dia daquele sábado,) solicitaram que Pilatos fizesse quebrar-lhes as pernas e retirar os [corpos].^&#42;1^
+
+[NOTE]
+====
+. Ou “retirá-los”.
+====
+
+[[v43-19-32]]
+
+^<<v43-19-32,32>>^ Os soldados vieram, portanto, e quebraram as pernas do primeiro [homem] e as do outro [homem] que com ele tinham sido pregados em estacas.
+
+[[v43-19-33]]
+
+^<<v43-19-33,33>>^ Mas, ao chegarem a Jesus, vendo que já estava morto, não lhe quebraram as pernas.
+
+[[v43-19-34]]
+
+^<<v43-19-34,34>>^ No entanto, um dos soldados furou-lhe o lado com uma lança, e saiu imediatamente sangue e água.
+
+[[v43-19-35]]
+
+^<<v43-19-35,35>>^ E aquele que viu [isso] tem dado testemunho, e o seu testemunho é verdadeiro, e esse homem sabe que diz coisas verdadeiras, a fim de que vós também creiais.
+
+[[v43-19-36]]
+
+^<<v43-19-36,36>>^ De fato, estas coisas ocorreram, a fim de que se cumprisse a escritura: “Nenhum osso seu será esmagado.”
+
+[[v43-19-37]]
+
+^<<v43-19-37,37>>^ E, novamente, uma escritura diferente diz: “Olharão para Aquele a quem traspassaram.”
+
+[[v43-19-38]]
+
+^<<v43-19-38,38>>^ Então, depois destas coisas, José de Arimatéia, que era discípulo de Jesus, mas em secreto, por temor dos judeus, solicitou a Pilatos que pudesse retirar o corpo de Jesus; e Pilatos deu-lhe permissão. Ele veio, portanto, e retirou o corpo dele.
+
+[[v43-19-39]]
+
+^<<v43-19-39,39>>^ Também Nicodemos, o homem que viera a ele pela primeira vez de noite, veio trazer um rolo^&#42;1^ de mirra e aloés, cerca de trinta e três quilos^&#42;2^ [disso].
+
+[NOTE]
+====
+. “Rolo”, א°B; P66אcAVgSyp: “uma mistura”.
+. Ou “cem libras”. Gr.: lí·tras, de modo geral igualada à libra romana, que pesava 327 g; lat.: lí·bras.
+====
+
+[[v43-19-40]]
+
+^<<v43-19-40,40>>^ Tomaram assim o corpo de Jesus e o envolveram com faixas, junto com os aromas, do modo como os judeus costumam preparar para o enterro.
+
+[[v43-19-41]]
+
+^<<v43-19-41,41>>^ Incidentalmente, no lugar onde fora pregado numa estaca havia um jardim, e no jardim um túmulo memorial novo, no qual ainda ninguém tinha sido deitado.
+
+[[v43-19-42]]
+
+^<<v43-19-42,42>>^ Ali, então, por causa da preparação dos judeus, deitaram Jesus, porque o túmulo memorial estava perto.
+
+'''
+
+xref:043-joao/043-joao-018.adoc#v43-18-0[&#60; Capítulo Anterior] | <<v43-19-0,Topo>> | xref:043-joao/043-joao-020.adoc#v43-20-0[Próximo Capítulo &#62;]

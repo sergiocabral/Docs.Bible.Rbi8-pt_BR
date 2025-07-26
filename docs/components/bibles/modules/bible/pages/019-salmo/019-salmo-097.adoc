@@ -1,0 +1,118 @@
+include::./index.adoc[]
+
+[[v19-97-0]]
+=== Salmos, 97
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-97-1]]
+
+^<<v19-97-1,1>>^ O próprio Jeová^&#42;1^ se tornou rei! Jubile a terra.
+Alegrem-se as muitas ilhas.^&#42;2^
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+. Ou “litorais”.
+====
+
+[[v19-97-2]]
+
+^<<v19-97-2,2>>^ Nuvens e densas trevas estão ao redor dele;
+Justiça e juízo são o lugar estabelecido do seu trono.
+
+[[v19-97-3]]
+
+^<<v19-97-3,3>>^ Diante dele vai o próprio fogo
+E consome os seus adversários em todo o redor.
+
+[[v19-97-4]]
+
+^<<v19-97-4,4>>^ Seus relâmpagos iluminaram o solo produtivo;
+A terra viu e ficou em severas dores.
+
+[[v19-97-5]]
+
+^<<v19-97-5,5>>^ Os próprios montes passaram a derreter-se como a cera por causa de Jeová,^&#42;1^
+Por causa do Senhor^&#42;2^ de toda a terra.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+. “Senhor de.” Hebr.: ’Adhóhn.
+====
+
+[[v19-97-6]]
+
+^<<v19-97-6,6>>^ Os céus contaram a Sua justiça
+E todos os povos viram a Sua glória.
+
+[[v19-97-7]]
+
+^<<v19-97-7,7>>^ Sejam envergonhados todos os que servem^&#42;1^ a uma imagem esculpida,
+Os que se jactam de deuses que nada valem.^&#42;2^
+Curvai-vos diante dele, todos os deuses.^&#42;3^
+
+[NOTE]
+====
+. Ou “os que adoram”. Hebr.: ‛o·vedhéh.
+. Ou “de deuses inúteis”. Hebr.: ba·’eli·lím; LXX: “dos seus ídolos”; Vg: “das suas imagens (semelhanças)”.
+. “Deuses.” Hebr.: ’elo·hím; LXXSyVg: “os anjos dele”.
+====
+
+[[v19-97-8]]
+
+^<<v19-97-8,8>>^ Sião ouviu e começou a alegrar-se
+E as aldeias dependentes^&#42;1^ de Judá começaram a jubilar
+Por motivo das tuas decisões judiciais, ó Jeová.
+
+[NOTE]
+====
+. Lit.: “as filhas”.
+====
+
+[[v19-97-9]]
+
+^<<v19-97-9,9>>^ Pois tu, ó Jeová,^&#42;1^ és o Altíssimo sobre toda a terra;
+Tu estás muito elevado acima de todos os [outros] deuses.^&#42;2^
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+. “Deuses.” Hebr.: ’elo·hím.
+====
+
+[[v19-97-10]]
+
+^<<v19-97-10,10>>^ Ó vós amantes de Jeová,^&#42;1^ odiai o que é mau.
+Ele guarda as almas dos que lhe são leais;
+Livra-os da mão dos iníquos.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+====
+
+[[v19-97-11]]
+
+^<<v19-97-11,11>>^ A própria luz brilhou^&#42;1^ para o justo
+E [a] alegria, até mesmo para os retos no coração.
+
+[NOTE]
+====
+. “Brilhou”, TLXXSyVg e um ms. hebr.; M: “é semeada (propagada)”. Veja 112:4 n.
+====
+
+[[v19-97-12]]
+
+^<<v19-97-12,12>>^ Alegrai-vos em Jeová,^&#42;1^ ó justos,
+E dai graças à sua santa recordação.^&#42;2^
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+. Ou “à memória de sua santidade”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-096.adoc#v19-96-0[&#60; Capítulo Anterior] | <<v19-97-0,Topo>> | xref:019-salmo/019-salmo-098.adoc#v19-98-0[Próximo Capítulo &#62;]

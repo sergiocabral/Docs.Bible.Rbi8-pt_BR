@@ -1,0 +1,104 @@
+include::./index.adoc[]
+
+[[v33-6-0]]
+=== Miqueias, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v33-6-1]]
+
+^<<v33-6-1,1>>^ Ouvi, por favor, o que Jeová está dizendo.^&#42;1^ Levanta-te, pleiteia uma causa com os montes e ouçam os morros a tua voz.
+
+[NOTE]
+====
+. “Ouvi, pois, a palavra de Jeová. Jeová disse”, LXX.
+====
+
+[[v33-6-2]]
+
+^<<v33-6-2,2>>^ Ouvi, ó montes, a causa jurídica de Jeová, também vós, objetos duráveis, alicerces da terra; porque Jeová tem uma causa jurídica com o seu povo, e é com Israel que ele argumentará:
+
+[[v33-6-3]]
+
+^<<v33-6-3,3>>^ “Ó meu povo, que te fiz? E de que modo te fatiguei? Testifica contra mim.
+
+[[v33-6-4]]
+
+^<<v33-6-4,4>>^ Pois eu te fiz subir da terra do Egito e te remi da casa dos escravos; e passei a enviar diante de ti Moisés, Arão e Miriã.
+
+[[v33-6-5]]
+
+^<<v33-6-5,5>>^ Ó meu povo, por favor, lembra-te do que Balaque, rei de Moabe, aconselhou e o que Balaão, filho de Beor, lhe respondeu. Procedia de Sitim,^&#42;1^ até Gilgal, com o fim de que se conhecessem os atos justos de Jeová.”
+
+[NOTE]
+====
+. Ou “das acácias”.
+====
+
+[[v33-6-6]]
+
+^<<v33-6-6,6>>^ Com que confrontarei a Jeová? [Com que] me encurvarei diante de Deus no alto? Confrontá-lo-ei com holocaustos, com bezerros de um ano de idade?
+
+[[v33-6-7]]
+
+^<<v33-6-7,7>>^ Terá Jeová prazer em milhares de carneiros, com dezenas de milhares de torrentes de azeite? Darei o meu primogênito pela minha revolta, o fruto do meu ventre pelo pecado da minha alma?
+
+[[v33-6-8]]
+
+^<<v33-6-8,8>>^ Ele te informou, ó homem terreno,^&#42;1^ sobre o que é bom. E o que é que Jeová pede de volta de ti senão que exerças a justiça, e ames a benignidade,^&#42;2^ e andes modestamente com o teu Deus?
+
+[NOTE]
+====
+. Ou “ó homem”. Hebr.: ’a·dhám.
+. Ou “benevolência; amor leal”. Hebr.: hhé·sedh.
+====
+
+[[v33-6-9]]
+
+^<<v33-6-9,9>>^ A própria voz de Jeová clama à cidade e [a pessoa de] sabedoria prática temerá o teu nome. Ouvi [o] bastão e quem foi que designou isso.^&#42;1^
+
+[NOTE]
+====
+. “Isso”, hebr. fem., portanto, não se refere ao “bastão”, hebr. masc., mas possivelmente à punição por meio do bastão.
+====
+
+[[v33-6-10]]
+
+^<<v33-6-10,10>>^ Existem ainda os tesouros da iniqüidade na casa do iníquo, e o efa minguado que se denunciou?
+
+[[v33-6-11]]
+
+^<<v33-6-11,11>>^ Acaso posso ser [moralmente] puro com balança iníqua e com uma bolsa de enganosos pesos de pedra?
+
+[[v33-6-12]]
+
+^<<v33-6-12,12>>^ Pois os seus próprios ricos ficaram cheios de violência e seus próprios habitantes falaram falsidade, e a língua deles é insidiosa na sua boca.
+
+[[v33-6-13]]
+
+^<<v33-6-13,13>>^ “E também eu, da minha parte, certamente [te] farei adoecer por golpear-te; [serás] desolado por causa dos teus pecados.
+
+[[v33-6-14]]
+
+^<<v33-6-14,14>>^ Tu, da tua parte, comerás e não te fartarás, e haverá um vazio no meio de ti.^&#42;1^ E removerás [coisas], mas não [as] porás a salvo; e aquilo que irias pôr a salvo eu entregarei à própria espada.
+
+[NOTE]
+====
+. “E não haverá nenhum poder no meio de ti”, por meio duma correção; Sy: “e a disenteria estará nos teus intestinos”.
+====
+
+[[v33-6-15]]
+
+^<<v33-6-15,15>>^ Tu, da tua parte, semearás, mas não ceifarás. Tu, da tua parte, pisarás azeitonas, mas não te untarás com óleo; também vinho doce, mas não beberás vinho.
+
+[[v33-6-16]]
+
+^<<v33-6-16,16>>^ E observam-se os estatutos de Onri e todo o trabalho da casa de Acabe, e vós andais nos seus conselhos; a fim de que eu faça de ti um assombro, e dos habitantes dela objeto de assobio; e certamente levareis o vitupério dos povos.”^&#42;1^
+
+[NOTE]
+====
+. “Povos”, LXX; MTSyVg: “meu povo”.
+====
+
+'''
+
+xref:033-miqueias/033-miqueias-005.adoc#v33-5-0[&#60; Capítulo Anterior] | <<v33-6-0,Topo>> | xref:033-miqueias/033-miqueias-007.adoc#v33-7-0[Próximo Capítulo &#62;]

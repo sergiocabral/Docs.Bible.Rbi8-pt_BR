@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v58-1-0]]
+=== Hebreus, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v58-1-1]]
+
+^<<v58-1-1,1>>^ Deus, que há muito, em muitas ocasiões e de muitos modos, falou aos nossos antepassados por intermédio dos profetas,
+
+[[v58-1-2]]
+
+^<<v58-1-2,2>>^ no fim destes dias nos falou por intermédio dum Filho, a quem designou herdeiro de todas as coisas e por meio de quem fez os sistemas de coisas.^&#42;1^
+
+[NOTE]
+====
+. Ou “as ordens de coisas”. Gr.: tous ai·ó·nas; lat.: saé·cu·la; J22(hebr.): ha·‛oh·la·mím.
+====
+
+[[v58-1-3]]
+
+^<<v58-1-3,3>>^ Ele é o reflexo^&#42;1^ da [sua] glória e a representação exata do seu próprio ser,^&#42;2^ e sustenta todas as coisas pela palavra do seu poder; e, depois de ter feito uma purificação pelos nossos pecados, assentou-se à direita da Majestade^&#42;3^ nas alturas.
+
+[NOTE]
+====
+. Lit.: “está raiando desde”.
+. Ou “a imagem estampada pela sua substância”.
+. Lit.: “da Grandeza”. Gr.: tes Ma·ga·lo·sý·nes; lat.: Ma·ie·stá·tis; J17,18,22(hebr.): hag·Gedhul·láh.
+====
+
+[[v58-1-4]]
+
+^<<v58-1-4,4>>^ De modo que ele se tornou melhor do que os anjos, a ponto de ter herdado um nome mais excelente do que o deles.
+
+[[v58-1-5]]
+
+^<<v58-1-5,5>>^ Por exemplo, a qual dos anjos disse ele alguma vez: “Tu és meu filho; hoje eu me tornei teu pai”? E, novamente: “Eu é que me tornarei seu pai e ele é que se tornará meu filho”?
+
+[[v58-1-6]]
+
+^<<v58-1-6,6>>^ Mas, ao trazer novamente o seu Primogênito à terra habitada, ele diz: “E todos os anjos de Deus lhe prestem homenagem.”^&#42;1^
+
+[NOTE]
+====
+. Ou “o adorem”. Gr.: pro·sky·ne·sá·to·san; lat.: a·dó·rent. Veja 2Rs 2:15 e n.
+====
+
+[[v58-1-7]]
+
+^<<v58-1-7,7>>^ Também, com referência aos anjos, ele diz: “E ele faz os seus anjos espíritos e os seus servidores públicos,^&#42;1^ chama de fogo.”
+
+[NOTE]
+====
+. Lit.: “trabalhadores públicos”. Gr.: lei·tour·goús.
+====
+
+[[v58-1-8]]
+
+^<<v58-1-8,8>>^ Mas, com referência ao Filho: “Deus é o teu trono para todo o sempre, e [o] cetro do teu^&#42;1^ reino é o cetro da retidão.^&#42;2^
+
+[NOTE]
+====
+. “Teu”, ADItVgSyh,p e Sal 45:6; P46אB: “seu”.
+. Lit.: “bastão da direiteza (direitura)”.
+====
+
+[[v58-1-9]]
+
+^<<v58-1-9,9>>^ Amaste a justiça e odiaste o que é contra a lei. É por isso que Deus, o teu Deus, te ungiu com óleo de exultação mais do que a teus associados.”
+
+[[v58-1-10]]
+
+^<<v58-1-10,10>>^ E: “Tu, ó Senhor, lançaste no princípio os alicerces da própria terra, e os céus são obras das tuas mãos.
+
+[[v58-1-11]]
+
+^<<v58-1-11,11>>^ Eles é que perecerão,^&#42;1^ mas tu é que hás de permanecer continuamente; e todos eles envelhecerão qual roupa exterior,
+
+[NOTE]
+====
+. Lit.: “se destruirão”.
+====
+
+[[v58-1-12]]
+
+^<<v58-1-12,12>>^ e tu os enrolarás assim como a uma capa, como a uma roupa exterior;^&#42;1^ e eles serão mudados, mas tu és o mesmo, e os teus anos nunca se acabarão.”
+
+[NOTE]
+====
+. “Como a uma roupa exterior”, P46אAB; VgSyp e TR omitem isso.
+====
+
+[[v58-1-13]]
+
+^<<v58-1-13,13>>^ Mas, com referência a qual dos anjos disse ele alguma vez: “Senta-te à minha direita, até que eu ponha os teus inimigos como escabelo para os teus pés”?
+
+[[v58-1-14]]
+
+^<<v58-1-14,14>>^ Não são todos eles espíritos para serviço público, enviados para ministrar aos que hão de herdar a salvação?
+
+'''
+
+xref:057-filemon/057-filemon-001.adoc#v57-1-0[&#60; Capítulo Anterior] | <<v58-1-0,Topo>> | xref:058-hebreus/058-hebreus-002.adoc#v58-2-0[Próximo Capítulo &#62;]

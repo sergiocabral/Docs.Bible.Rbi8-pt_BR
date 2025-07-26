@@ -1,0 +1,134 @@
+include::./index.adoc[]
+
+[[v9-6-0]]
+=== 1 Samuel, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-6-1]]
+
+^<<v9-6-1,1>>^ E a arca de Jeová veio a estar no campo dos filisteus por sete meses.^&#42;1^
+
+[NOTE]
+====
+. LXX acrescenta: “e na sua terra irromperam camundongos”.
+====
+
+[[v9-6-2]]
+
+^<<v9-6-2,2>>^ E os filisteus passaram a chamar os sacerdotes e os adivinhos, dizendo: “Que faremos com a arca de Jeová? Fazei-nos saber com que a devemos enviar para o seu lugar.”
+
+[[v9-6-3]]
+
+^<<v9-6-3,3>>^ A isso disseram: “Quando enviardes a arca do Deus de Israel, não a envieis sem uma oferta, pois deveis terminantemente devolver-lhe uma oferta pela culpa. É então que sereis curados e tereis de ficar sabendo por que a sua mão não se retirava de vós.”
+
+[[v9-6-4]]
+
+^<<v9-6-4,4>>^ A isso disseram: “Qual é a oferta pela culpa que lhe devemos devolver?” Disseram então: “Segundo o número dos senhores do eixo dos filisteus: cinco hemorróidas de ouro e cinco gerbos^&#42;1^ de ouro, pois cada um de vós^&#42;2^ e vossos senhores do eixo tendes o mesmo flagelo.^&#42;3^
+
+[NOTE]
+====
+. “Gerbos.” Roedores semelhantes a camundongos, com compridas pernas traseiras próprias para pular.
+. “Cada um de vós”, T e oito mss. hebr.; LXXSy: “vós”.
+. Lit.: “tendes um só flagelo”.
+====
+
+[[v9-6-5]]
+
+^<<v9-6-5,5>>^ E tendes de fazer imagens das vossas hemorróidas e imagens dos vossos gerbos que estão arruinando o país, e tendes de dar glória ao Deus de Israel. Talvez afrouxe a sua mão de cima de vós, e do vosso deus, e da vossa terra.
+
+[[v9-6-6]]
+
+^<<v9-6-6,6>>^ Também, por que devíeis fazer o vosso coração insensível assim como o Egito e Faraó fizeram seu coração insensível? Não foi logo que Ele tratou severamente com eles que passaram a mandá-los embora, e eles foram embora?
+
+[[v9-6-7]]
+
+^<<v9-6-7,7>>^ E agora tomai e fazei uma carroça nova, e duas vacas que amamentam, sobre as quais não veio ainda jugo, e tendes de atrelar as vacas à carroça e tendes de fazer suas crias^&#42;1^ voltar para casa, deixando de segui-las.
+
+[NOTE]
+====
+. Lit.: “seus filhos”.
+====
+
+[[v9-6-8]]
+
+^<<v9-6-8,8>>^ E tendes de tomar a arca de Jeová e pô-la na carroça, e os objetos de ouro que tendes de devolver-lhe como oferta pela culpa deveis pôr num caixote ao lado dela. E tendes de mandá-la embora e ela tem de ir.
+
+[[v9-6-9]]
+
+^<<v9-6-9,9>>^ E tendes de olhar: se subir pela estrada que vai ao seu território, a Bete-Semes, foi ele quem nos fez este grande mal; mas, se não, teremos de saber que não foi a sua mão que nos tocou; o que nos aconteceu foi um acaso.”
+
+[[v9-6-10]]
+
+^<<v9-6-10,10>>^ E os homens passaram a fazer assim. Tomaram, pois, duas vacas que amamentavam e as atrelaram à carroça, e encerraram suas crias em casa.
+
+[[v9-6-11]]
+
+^<<v9-6-11,11>>^ Depois puseram a arca de Jeová na carroça, e também o caixote, e os gerbos de ouro, e as imagens das suas hemorróidas.^&#42;1^
+
+[NOTE]
+====
+. “Hemorróidas”, 18 mss. hebr., para concordar com o v. 5; M: “tumores”.
+====
+
+[[v9-6-12]]
+
+^<<v9-6-12,12>>^ E as vacas começaram a avançar diretamente para a frente^&#42;1^ na estrada de Bete-Semes. Foram nesta única estrada principal, mugindo ao irem,^&#42;2^ e não se desviaram nem para a direita nem para a esquerda. Enquanto isso, os senhores do eixo dos filisteus andavam atrás delas até o termo de Bete-Semes.
+
+[NOTE]
+====
+. Lit.: “começaram a ser diretas”.
+. “Mugindo ao irem.” No hebr., estes são dois verbos no infinitivo absoluto, indefinidos quanto ao tempo e impessoais.
+====
+
+[[v9-6-13]]
+
+^<<v9-6-13,13>>^ E o povo de Bete-Semes estava ceifando a sega do trigo na baixada. Quando levantaram os seus olhos e viram a Arca, alegraram-se ao vê-la.
+
+[[v9-6-14]]
+
+^<<v9-6-14,14>>^ E a própria carroça entrou no campo de Josué, o bete-semita, e ficou parada ali onde havia uma grande pedra. E eles foram rachar o madeiramento da carroça e ofereceram as vacas como oferta queimada a Jeová.
+
+[[v9-6-15]]
+
+^<<v9-6-15,15>>^ E os próprios levitas fizeram descer a arca de Jeová e o caixote que estava junto a ela, no qual estavam os objetos de ouro, e foram pô-la sobre a grande pedra. E os homens de Bete-Semes, da sua parte, ofereceram ofertas queimadas e continuaram a ofertar sacrifícios a Jeová naquele dia.
+
+[[v9-6-16]]
+
+^<<v9-6-16,16>>^ E os próprios cinco senhores do eixo dos filisteus viram isso e seguiram seu caminho de volta a Ecrom naquele dia.
+
+[[v9-6-17]]
+
+^<<v9-6-17,17>>^ Ora, estas são as hemorróidas de ouro que os filisteus devolveram como oferta de culpa a Jeová: por Asdode uma, por Gaza uma, por Ascalom uma, por Gate uma, por Ecrom uma.
+
+[[v9-6-18]]
+
+^<<v9-6-18,18>>^ E os gerbos de ouro eram segundo o número de todas as cidades dos filisteus pertencentes aos cinco senhores do eixo, desde a cidade fortificada até a aldeia campestre.
+E a grande pedra^&#42;1^ em que colocaram a arca de Jeová é testemunha^&#42;2^ até o dia de hoje, no campo de Josué, o bete-semita.
+
+[NOTE]
+====
+. “A grande pedra”, TLXX e três mss. hebr.; SyVg: “Abel, o Grande”, para concordar com M, que tem ’A·vél, “Abel”, em vez de ’é·ven, “pedra”.
+. “Testemunha”, ou: “está ainda”, com pontos vocálicos diferentes; M só “até”.
+====
+
+[[v9-6-19]]
+
+^<<v9-6-19,19>>^ E ele foi golpear os homens de Bete-Semes,^&#42;1^ porque tinham olhado para a arca de Jeová. Golpeou, pois, dentre o povo setenta homens — cinqüenta mil homens^&#42;2^ — e o povo começou a prantear porque Jeová havia golpeado o povo com uma grande matança.
+
+[NOTE]
+====
+. “E ele foi golpear os homens de Bete-Semes”, M(Sy)Vg; LXX: “E os filhos de Jeconias não se agradaram dos homens de Bete-Semes”, ou: “E entre os homens de Bete-Semes os filhos de Jeconias não [o] receberam com agrado.”
+. “Setenta homens — cinqüenta mil homens.” No M, a frase “cinqüenta mil homens” não está ligada a “setenta homens” pela conjunção vau, “e”, como se dá com os números em outros lugares, como em Núm 1:21-46. Isto talvez indique que a frase “cinqüenta mil homens” seja uma interpolação. Sy: “E Jeová golpeou dentre o povo cinco mil e setenta homens”; a versão árabe concorda com isso. TJ: “E ele golpeou setenta homens dentre os anciãos do povo, e cinqüenta mil dentre a congregação”; LXX: “E ele golpeou setenta homens dentre eles, e cinqüenta mil dos homens”; Josefo (Jewish Antiquities, Livro VI, capítulo 1, § 4) menciona apenas 70 homens como mortos e omite qualquer referência aos 50.000.
+====
+
+[[v9-6-20]]
+
+^<<v9-6-20,20>>^ Além disso, os homens de Bete-Semes disseram: “Quem poderá ficar de pé perante Jeová, este Deus santo, e para quem se retirará de nós?”
+
+[[v9-6-21]]
+
+^<<v9-6-21,21>>^ Por fim enviaram mensageiros aos habitantes de Quiriate-Jearim, dizendo: “Os filisteus devolveram a arca de Jeová. Descei. Fazei-a subir a vós.”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-005.adoc#v9-5-0[&#60; Capítulo Anterior] | <<v9-6-0,Topo>> | xref:009-1-samuel/009-1-samuel-007.adoc#v9-7-0[Próximo Capítulo &#62;]

@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v23-18-0]]
+=== Isaías, 18
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-18-1]]
+
+^<<v23-18-1,1>>^ Ah! terra dos insetos zumbidores com asas,^&#42;1^ que está na região dos rios da Etiópia!^&#42;2^
+
+[NOTE]
+====
+. Ou “do zumbido das asas [de insetos]”.
+. “Etiópia”, LXXVg; MSy: “Cus”.
+====
+
+[[v23-18-2]]
+
+^<<v23-18-2,2>>^ Ela é quem manda enviados por meio do mar e por meio de barcos de papiro sobre a superfície das águas, [dizendo:] “Ide, mensageiros velozes, a uma nação de elevada estatura e escanhoada,^&#42;1^ a um povo atemorizante em toda a parte, uma nação de força tênsil^&#42;2^ e de calcadura, cuja terra foi arrastada pelos rios.”
+
+[NOTE]
+====
+. Ou “uma nação esticada e lisa”, isto é, um povo alto e de rosto liso.
+. “De elasticidade”, pela leitura de duas palavras hebr. como se fossem uma só palavra de duas sílabas, como em 1QIsa; M: “de cordel de medir, de cordel de medir”.
+====
+
+[[v23-18-3]]
+
+^<<v23-18-3,3>>^ Todos vós, habitantes do solo produtivo,^&#42;1^ e vós, residentes da terra, vereis um espetáculo, como quando se levanta um sinal de aviso^&#42;2^ sobre os montes, e ouvireis um som, como quando há um toque de buzina.^&#42;3^
+
+[NOTE]
+====
+. Veja 13:11 n.: “produtivo”.
+. “Sinal de aviso.” Hebr.: nes.
+. Ou “shofar”.
+====
+
+[[v23-18-4]]
+
+^<<v23-18-4,4>>^ Pois assim me disse Jeová: “Vou ficar sossegado e olhar para o meu lugar estabelecido, como o calor ofuscante junto com a luz, como a nuvem de orvalho no calor da vindima.
+
+[[v23-18-5]]
+
+^<<v23-18-5,5>>^ Pois, antes da vindima, quando a flor chega à perfeição e o botão se torna uma uva amadurecida, alguém terá de decepar os raminhos com a podadeira e terá de remover as gavinhas, e terá de cortá-las.
+
+[[v23-18-6]]
+
+^<<v23-18-6,6>>^ Juntamente serão deixados à ave de rapina dos montes e ao animal da terra. E sobre isso a ave de rapina há de passar o verão e sobre isso todo animal da terra passará o tempo da colheita.
+
+[[v23-18-7]]
+
+^<<v23-18-7,7>>^ “Naquele tempo se trará uma dádiva a Jeová dos exércitos, [da parte de] um povo de elevada estatura e escanhoado, sim, de um povo atemorizante em toda a parte, uma nação de força tênsil^&#42;1^ e de calcadura, cuja terra foi arrastada pelos rios, ao lugar do nome de Jeová dos exércitos, o monte Sião.”
+
+[NOTE]
+====
+. Veja v. 2 n.: “tênsil”.
+====
+
+'''
+
+xref:023-isaias/023-isaias-017.adoc#v23-17-0[&#60; Capítulo Anterior] | <<v23-18-0,Topo>> | xref:023-isaias/023-isaias-019.adoc#v23-19-0[Próximo Capítulo &#62;]

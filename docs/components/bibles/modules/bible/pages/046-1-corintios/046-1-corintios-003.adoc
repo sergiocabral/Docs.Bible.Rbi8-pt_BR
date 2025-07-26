@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v46-3-0]]
+=== 1 Coríntios, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v46-3-1]]
+
+^<<v46-3-1,1>>^ E assim, irmãos, não vos pude falar como a homens espirituais, mas como a homens carnais, como a pequeninos em Cristo.
+
+[[v46-3-2]]
+
+^<<v46-3-2,2>>^ Eu vos alimentei com leite, não com algo para comer, pois não éreis ainda bastante fortes. De fato, nem mesmo agora sois bastante fortes,
+
+[[v46-3-3]]
+
+^<<v46-3-3,3>>^ pois ainda sois carnais. Porque, considerando que há entre vós ciúme e rixa, não sois carnais e não estais andando como homens?
+
+[[v46-3-4]]
+
+^<<v46-3-4,4>>^ Pois, quando um diz: “Eu pertenço a Paulo”, mas outro diz: “Eu a Apolo”, não sois simples homens?
+
+[[v46-3-5]]
+
+^<<v46-3-5,5>>^ O que, então, é Apolo? Sim, o que é Paulo? Ministros^&#42;1^ por intermédio de quem vos tornastes crentes, assim como o Senhor concedeu a cada um.
+
+[NOTE]
+====
+. Ou: “Servos.” Gr.: di·á·ko·noi; lat.: mi·ní·stri (de mí·nus, “menos”); J18,22(hebr.): mesha·rethím, “ajudantes”.
+====
+
+[[v46-3-6]]
+
+^<<v46-3-6,6>>^ Eu plantei, Apolo regou, mas Deus [o] fazia crescer;
+
+[[v46-3-7]]
+
+^<<v46-3-7,7>>^ de modo que nem o que planta é alguma coisa, nem o que rega, mas Deus que [o] faz crescer.
+
+[[v46-3-8]]
+
+^<<v46-3-8,8>>^ Ora, quem planta e quem rega é um só,^&#42;1^ mas cada um receberá a sua própria recompensa, segundo o seu próprio labor.
+
+[NOTE]
+====
+. Lit.: “uma só (coisa)”. Gr.: hen, neutro, mostrando unidade na cooperação. Veja Jo 10:30 n.
+====
+
+[[v46-3-9]]
+
+^<<v46-3-9,9>>^ Pois somos colaboradores de Deus. Vós sois campo de Deus em lavoura, edifício de Deus.
+
+[[v46-3-10]]
+
+^<<v46-3-10,10>>^ Segundo a benignidade imerecida de Deus, que me foi dada, eu, como diretor sábio de obras, lancei um alicerce, mas outro construiu sobre ele. Cada um, porém, persista em vigiar quanto a como constrói sobre ele.
+
+[[v46-3-11]]
+
+^<<v46-3-11,11>>^ Pois nenhum homem pode lançar outro alicerce senão aquele que foi lançado, que é Jesus Cristo.
+
+[[v46-3-12]]
+
+^<<v46-3-12,12>>^ Ora, se alguém construir sobre o alicerce ouro, prata, pedras preciosas, materiais de madeira, feno, restolho,
+
+[[v46-3-13]]
+
+^<<v46-3-13,13>>^ a obra de cada um se tornará manifesta, pois o dia a porá à mostra, porque será revelada por meio de fogo; e o próprio fogo mostrará que sorte de obra é a de cada um.
+
+[[v46-3-14]]
+
+^<<v46-3-14,14>>^ Se permanecer a obra de alguém, que sobre ele construiu, receberá uma recompensa;
+
+[[v46-3-15]]
+
+^<<v46-3-15,15>>^ caso se queime a obra de alguém, sofrerá perda, mas ele mesmo será salvo; contudo, neste caso, [será] como por intermédio de fogo.
+
+[[v46-3-16]]
+
+^<<v46-3-16,16>>^ Não sabeis que vós sois templo^&#42;1^ de Deus e que o espírito de Deus mora em vós?
+
+[NOTE]
+====
+. Ou “habitação (morada) divina”. Gr.: na·ós; lat.: tém·plum; J17,22(hebr.): heh·khál, “palácio; templo”.
+====
+
+[[v46-3-17]]
+
+^<<v46-3-17,17>>^ Se alguém destruir o templo de Deus, Deus o destruirá; pois o templo de Deus é santo, [templo] esse que sois vós.
+
+[[v46-3-18]]
+
+^<<v46-3-18,18>>^ Ninguém seduza a si mesmo: Se alguém entre vós pensa que é sábio neste sistema de coisas,^&#42;1^ torne-se ele tolo, para que se torne sábio.
+
+[NOTE]
+====
+. Veja 1:20 n.
+====
+
+[[v46-3-19]]
+
+^<<v46-3-19,19>>^ Pois a sabedoria deste mundo é tolice perante Deus; porque está escrito: “Ele apanha os sábios na sua própria astúcia.”
+
+[[v46-3-20]]
+
+^<<v46-3-20,20>>^ E novamente: “Jeová^&#42;1^ sabe que os raciocínios dos sábios são fúteis.”
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v46-3-21]]
+
+^<<v46-3-21,21>>^ Por isso, ninguém se jacte dos homens; porque a vós pertencem todas as coisas,
+
+[[v46-3-22]]
+
+^<<v46-3-22,22>>^ quer Paulo, quer Apolo, quer Cefas, quer o mundo, quer a vida, quer a morte, quer as coisas agora aqui, quer as coisas por vir, a vós pertencem todas as coisas;
+
+[[v46-3-23]]
+
+^<<v46-3-23,23>>^ por sua vez, vós pertenceis a Cristo; Cristo, por sua vez, pertence a Deus.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-002.adoc#v46-2-0[&#60; Capítulo Anterior] | <<v46-3-0,Topo>> | xref:046-1-corintios/046-1-corintios-004.adoc#v46-4-0[Próximo Capítulo &#62;]

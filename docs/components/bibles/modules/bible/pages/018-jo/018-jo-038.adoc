@@ -1,0 +1,300 @@
+include::./index.adoc[]
+
+[[v18-38-0]]
+=== Jó, 38
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-38-1]]
+
+^<<v18-38-1,1>>^ E Jeová passou a responder a Jó de dentro do vendaval e a dizer:
+
+[[v18-38-2]]
+
+^<<v18-38-2,2>>^ “Quem é este que está obscurecendo o conselho
+Por meio de palavras sem conhecimento?
+
+[[v18-38-3]]
+
+^<<v18-38-3,3>>^ Por favor, cinge os teus lombos como um varão vigoroso
+E deixa-me perguntar-te, e faze-me saber.
+
+[[v18-38-4]]
+
+^<<v18-38-4,4>>^ Onde vieste a estar quando fundei a terra?
+Informa-me, se deveras conheces a compreensão.
+
+[[v18-38-5]]
+
+^<<v18-38-5,5>>^ Quem lhe pôs as medidas, caso tu o saibas,
+Ou quem estendeu sobre ela o cordel de medir?
+
+[[v18-38-6]]
+
+^<<v18-38-6,6>>^ Em que se fundaram seus pedestais de encaixe
+Ou quem lançou a sua pedra angular,
+
+[[v18-38-7]]
+
+^<<v18-38-7,7>>^ Quando as estrelas da manhã juntas gritavam de júbilo
+E todos os filhos de Deus^&#42;1^ começaram a bradar em aplauso?
+
+[NOTE]
+====
+. “Filhos de Deus.” Ou “semelhantes a Deus”. Hebr.: benéh ’Elo·hím; T: “os grupos de anjos”; LXX: “meus anjos”.
+====
+
+[[v18-38-8]]
+
+^<<v18-38-8,8>>^ E [quem] bloqueou com portas^&#42;1^ o mar,
+Que começou a sair quando irrompeu da madre;
+
+[NOTE]
+====
+. Ou “portas duplas”, como em 2Cr 14:7.
+====
+
+[[v18-38-9]]
+
+^<<v18-38-9,9>>^ Quando lhe^&#42;1^ pus a nuvem por vestimenta
+E as densas trevas como suas faixas,
+
+[NOTE]
+====
+. Isto é, ao mar.
+====
+
+[[v18-38-10]]
+
+^<<v18-38-10,10>>^ E passei a fragmentar^&#42;1^ meu regulamento sobre ele
+E a pôr-lhe tranca e portas,
+
+[NOTE]
+====
+. “Fragmentar”, M; LXX: “pôr”.
+====
+
+[[v18-38-11]]
+
+^<<v18-38-11,11>>^ E prossegui, dizendo: ‘Até aqui podes chegar, e não mais adiante;
+E aqui se limitam as tuas vagas orgulhosas’?
+
+[[v18-38-12]]
+
+^<<v18-38-12,12>>^ Foi dos teus dias em diante que deste ordens à manhã?
+Fizeste tu a alva saber o seu lugar,
+
+[[v18-38-13]]
+
+^<<v18-38-13,13>>^ Para segurar as extremidades^&#42;1^ da terra,
+A fim de que os iníquos^&#42;2^ fossem sacudidos dela?
+
+[NOTE]
+====
+. Lit.: “asas”.
+. “Os iníquos.” Aqui, no M, a letra hebr. Aine )‏(ע‏ acha-se suspensa como inserção, para indicar que a palavra deveria rezar “iníquos”, em vez de “pobres”. Veja Jz 18:30 n.: “Moisés”.
+====
+
+[[v18-38-14]]
+
+^<<v18-38-14,14>>^ Ela se transforma como o barro debaixo dum selo,
+E as coisas^&#42;1^ tomam a sua posição como na vestimenta.
+
+[NOTE]
+====
+. Lit.: “eles”.
+====
+
+[[v18-38-15]]
+
+^<<v18-38-15,15>>^ E dos iníquos^&#42;1^ se retém a luz
+E se quebra o próprio braço erguido.
+
+[NOTE]
+====
+. Veja v. 13 n.: “iníquos”.
+====
+
+[[v18-38-16]]
+
+^<<v18-38-16,16>>^ Chegaste aos mananciais^&#42;1^ do mar
+Ou andaste em busca da água de profundeza?^&#42;2^
+
+[NOTE]
+====
+. Ou “terreno arenoso”.
+. Ou “águas empoladas”. Veja 28:14 n.
+====
+
+[[v18-38-17]]
+
+^<<v18-38-17,17>>^ Revelaram-se a ti os portões da morte
+Ou podes ver os portões da sombra tenebrosa?^&#42;1^
+
+[NOTE]
+====
+. Lit.: “sombra da morte”, M; LXX: “Hades”, isto é, a sepultura comum; T: “morte de Geena”.
+====
+
+[[v18-38-18]]
+
+^<<v18-38-18,18>>^ Consideraste inteligentemente os espaços amplos da terra?
+Informa se chegaste a conhecer tudo.
+
+[[v18-38-19]]
+
+^<<v18-38-19,19>>^ Onde, então, está o caminho que leva à residência da luz?
+Quanto à escuridão, onde, então, é seu lugar,
+
+[[v18-38-20]]
+
+^<<v18-38-20,20>>^ Para a levares ao seu termo
+E para compreenderes as sendas à sua casa?
+
+[[v18-38-21]]
+
+^<<v18-38-21,21>>^ Acaso [o] sabes porque nasceste naquele tempo,
+E [porque] os teus dias são muitos em número?
+
+[[v18-38-22]]
+
+^<<v18-38-22,22>>^ Acaso entraste nos depósitos da neve,
+Ou vês mesmo os depósitos da saraiva,
+
+[[v18-38-23]]
+
+^<<v18-38-23,23>>^ Que reservei para o tempo de aflição,
+Para o dia de peleja e de guerra?
+
+[[v18-38-24]]
+
+^<<v18-38-24,24>>^ Onde, então, está o caminho pelo qual se distribui a luz^&#42;1^
+[E] o vento oriental se espalha pela terra?
+
+[NOTE]
+====
+. “Geada”, LXX.
+====
+
+[[v18-38-25]]
+
+^<<v18-38-25,25>>^ Quem abriu um canal para a inundação
+E um caminho para a trovejante nuvem de temporal,
+
+[[v18-38-26]]
+
+^<<v18-38-26,26>>^ Para fazer chover sobre a terra onde não há homem,^&#42;1^
+[Sobre] o ermo em que não há homem terreno,^&#42;2^
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’ish.
+. “Homem terreno.” Hebr.: ’a·dhám. Veja Gên 1:26 n.: “homem”.
+====
+
+[[v18-38-27]]
+
+^<<v18-38-27,27>>^ Para fartar lugares tempestuosos e desolados
+E para fazer brotar o rebento da relva?
+
+[[v18-38-28]]
+
+^<<v18-38-28,28>>^ Acaso existe um pai para a chuva,
+Ou quem deu à luz as gotas do orvalho?
+
+[[v18-38-29]]
+
+^<<v18-38-29,29>>^ Do ventre de quem sai realmente o gelo,
+E quanto à geada do céu, quem é que a dá à luz?
+
+[[v18-38-30]]
+
+^<<v18-38-30,30>>^ As próprias águas ficam escondidas como que por uma pedra,
+E a própria superfície da água de profundeza se torna compacta.
+
+[[v18-38-31]]
+
+^<<v18-38-31,31>>^ Podes atar as cadeias da constelação de Quima,^&#42;1^
+Ou podes soltar as próprias cordas da constelação de Quesil?^&#42;2^
+
+[NOTE]
+====
+. Veja 9:9 n.: “constelação de Quima”.
+. Veja 9:9 n.: “constelação de Quesil”.
+====
+
+[[v18-38-32]]
+
+^<<v18-38-32,32>>^ Podes fazer sair a constelação de Mazarote^&#42;1^ no seu tempo fixado?
+E quanto à constelação de Ás^&#42;2^ ao lado dos seus filhos, acaso podes guiá-los?
+
+[NOTE]
+====
+. “A constelação de Mazarote.” Hebr.: Maz·za·róhth; gr.: Ma·zou·róth (como em 2Rs 23:5, onde a palavra foi traduzida por “constelações do zodíaco”); Sy: “constelação do Carro”; lat.: lu·cí·fe·rum, “portador de luz”.
+. Veja 9:9 n.: “constelação de Ás”.
+====
+
+[[v18-38-33]]
+
+^<<v18-38-33,33>>^ Chegaste a conhecer os estatutos dos céus,
+Ou poderias estabelecer a sua autoridade na terra?
+
+[[v18-38-34]]
+
+^<<v18-38-34,34>>^ Acaso podes elevar a tua voz mesmo até a nuvem,
+Para que te cubra a massa movimentada da própria água?
+
+[[v18-38-35]]
+
+^<<v18-38-35,35>>^ Acaso podes enviar relâmpagos para que vão
+E te digam: ‘Aqui estamos!’?
+
+[[v18-38-36]]
+
+^<<v18-38-36,36>>^ Quem pôs sabedoria nas camadas de nuvens^&#42;1^
+Ou deu compreensão ao fenômeno celeste?^&#42;2^
+
+[NOTE]
+====
+. “Nas camadas de nuvens.” Hebr.: bat·tu·hhóhth, cujo significado é incerto.
+. “Ao fenômeno celeste.” Hebr.: las·sékh·wi, cujo significado é incerto, mas parece referir-se a algum fenômeno celestial.
+====
+
+[[v18-38-37]]
+
+^<<v18-38-37,37>>^ Quem pode contar exatamente as nuvens em sabedoria,
+Ou as talhas de água do céu — quem [as] pode entornar,
+
+[[v18-38-38]]
+
+^<<v18-38-38,38>>^ Quando o pó se despeja como dentro duma massa fundida
+E os próprios torrões de terra aderem um ao outro?
+
+[[v18-38-39]]
+
+^<<v18-38-39,39>>^ Acaso podes caçar a presa para o próprio leão
+E podes satisfazer^&#42;1^ o vivo apetite dos leões novos,
+
+[NOTE]
+====
+. Lit.: “encher (saciar)”.
+====
+
+[[v18-38-40]]
+
+^<<v18-38-40,40>>^ Quando se agacham nos esconderijos
+[Ou] estão deitados na guarida para uma emboscada?
+
+[[v18-38-41]]
+
+^<<v18-38-41,41>>^ Quem prepara para o corvo o seu alimento
+Quando seus próprios filhotes clamam a Deus^&#42;1^ por ajuda,
+Vagueando por não haver nada para comer?
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+'''
+
+xref:018-jo/018-jo-037.adoc#v18-37-0[&#60; Capítulo Anterior] | <<v18-38-0,Topo>> | xref:018-jo/018-jo-039.adoc#v18-39-0[Próximo Capítulo &#62;]

@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v54-3-0]]
+=== 1 Timóteo, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v54-3-1]]
+
+^<<v54-3-1,1>>^ Esta declaração é fiel.
+Se algum homem procura alcançar o cargo de superintendente,^&#42;1^ está desejoso duma obra excelente.
+
+[NOTE]
+====
+. “Cargo de superintendente.” Gr.: e·pi·sko·pés; J17(hebr.): peqi·dhúth, “superintendência”.
+====
+
+[[v54-3-2]]
+
+^<<v54-3-2,2>>^ O superintendente,^&#42;1^ portanto, deve ser irrepreensível, marido de uma só esposa, moderado nos hábitos,^&#42;2^ ajuizado, ordeiro,^&#42;3^ hospitaleiro,^&#42;4^ qualificado para ensinar,
+
+[NOTE]
+====
+. “Superintendente.” Gr.: e·pí·sko·pon; J17(hebr.): u·feqídh, “e um superintendente”.
+. Lit.: “sóbrio”.
+. Lit.: “arrumado”.
+. Lit.: “afeiçoado a estranhos”.
+====
+
+[[v54-3-3]]
+
+^<<v54-3-3,3>>^ não brigão bêbedo,^&#42;1^ não espancador,^&#42;2^ mas razoável,^&#42;3^ não beligerante,^&#42;4^ não amante do dinheiro,
+
+[NOTE]
+====
+. Lit.: “não dado ao vinho”.
+. Lit.: “não golpeando”.
+. Lit.: “dócil”.
+. Lit.: “não brigando”.
+====
+
+[[v54-3-4]]
+
+^<<v54-3-4,4>>^ homem que presida^&#42;1^ de maneira excelente à sua própria família, tendo os filhos em sujeição com toda a seriedade;
+
+[NOTE]
+====
+. “Que presida.” Lit.: “postado diante”.
+====
+
+[[v54-3-5]]
+
+^<<v54-3-5,5>>^ (deveras, se um homem não souber presidir à sua própria família, como tomará conta da congregação de Deus?)
+
+[[v54-3-6]]
+
+^<<v54-3-6,6>>^ não homem recém-convertido,^&#42;1^ para que não venha a enfunar-se [de orgulho] e a cair no julgamento aplicado ao Diabo.
+
+[NOTE]
+====
+. “Homem recém-convertido.” Lit.: “neófito”. Gr.: ne·ó·fy·ton.
+====
+
+[[v54-3-7]]
+
+^<<v54-3-7,7>>^ Além disso, deve ter também testemunho excelente de pessoas de fora, a fim de que não caia em vitupério e num laço do Diabo.
+
+[[v54-3-8]]
+
+^<<v54-3-8,8>>^ Os servos ministeriais^&#42;1^ devem igualmente ser sérios, não de língua dobre,^&#42;2^ não dados a muito vinho, não ávidos de ganho desonesto,
+
+[NOTE]
+====
+. Ou “diáconos”. Gr.: di·a·kó·nous; lat.: di·á·co·nos.
+. Lit.: “dúplice”.
+====
+
+[[v54-3-9]]
+
+^<<v54-3-9,9>>^ mantendo o segredo sagrado da fé em consciência limpa.
+
+[[v54-3-10]]
+
+^<<v54-3-10,10>>^ Também, sejam estes primeiro examinados quanto à aptidão, [e] então sirvam como ministros, estando livres de acusação.
+
+[[v54-3-11]]
+
+^<<v54-3-11,11>>^ As mulheres, igualmente, devem ser sérias, não caluniadoras, moderadas nos hábitos, fiéis em todas as coisas.
+
+[[v54-3-12]]
+
+^<<v54-3-12,12>>^ Os servos ministeriais^&#42;1^ sejam maridos de uma só esposa, presidindo de maneira excelente aos filhos e às suas próprias famílias.
+
+[NOTE]
+====
+. Ou “diáconos”. Gr.: di·á·ko·noi; lat.: di·á·co·nes.
+====
+
+[[v54-3-13]]
+
+^<<v54-3-13,13>>^ Pois os homens que ministram de maneira excelente estão adquirindo para si uma posição excelente e muita franqueza no falar^&#42;1^ na fé, em conexão com Cristo Jesus.
+
+[NOTE]
+====
+. Ou “grande denodo”.
+====
+
+[[v54-3-14]]
+
+^<<v54-3-14,14>>^ Escrevo-te estas coisas, embora eu espere ir ter contigo em breve,
+
+[[v54-3-15]]
+
+^<<v54-3-15,15>>^ mas, caso eu demore, para que saibas como deves comportar-te na família de Deus, que é a congregação do Deus vivente, coluna e amparo da verdade.
+
+[[v54-3-16]]
+
+^<<v54-3-16,16>>^ Deveras, o segredo sagrado desta devoção piedosa^&#42;1^ é admitidamente grande: ‘Ele foi manifestado em carne, foi declarado justo em espírito, apareceu a anjos, foi pregado entre nações, foi crido no mundo, foi recebido acima em glória.’
+
+[NOTE]
+====
+. “Devoção piedosa”, אAVg; J7,8: “temor de Jeová”.
+====
+
+'''
+
+xref:054-1-timoteo/054-1-timoteo-002.adoc#v54-2-0[&#60; Capítulo Anterior] | <<v54-3-0,Topo>> | xref:054-1-timoteo/054-1-timoteo-004.adoc#v54-4-0[Próximo Capítulo &#62;]

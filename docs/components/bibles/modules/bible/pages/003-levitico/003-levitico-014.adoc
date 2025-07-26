@@ -1,0 +1,300 @@
+include::./index.adoc[]
+
+[[v3-14-0]]
+=== Levítico, 14
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-14-1]]
+
+^<<v3-14-1,1>>^ E Jeová continuou a falar a Moisés, dizendo:
+
+[[v3-14-2]]
+
+^<<v3-14-2,2>>^ “Esta se tornará a lei do leproso no dia de se efetivar a sua purificação, quando tem de ser levado ao sacerdote.
+
+[[v3-14-3]]
+
+^<<v3-14-3,3>>^ E o sacerdote tem de sair para fora do acampamento, e o sacerdote tem de ver; e se a praga da lepra tiver sido curada no leproso,
+
+[[v3-14-4]]
+
+^<<v3-14-4,4>>^ então o sacerdote tem de dar ordem; e, para se purificar, ele^&#42;1^ tem de tomar duas aves limpas, vivas, e lenha de cedro, e fibras carmíneas, e hissopo.
+
+[NOTE]
+====
+. “Ele”, MVg; SamLXXSy: “eles”.
+====
+
+[[v3-14-5]]
+
+^<<v3-14-5,5>>^ E o sacerdote tem de dar ordem, e uma ave tem de ser morta^&#42;1^ num vaso de barro por cima de água corrente.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “e ele tem de matar uma ave”, M; SamLXXSy: “e eles têm de matar uma ave”.
+. Lit.: “água viva”.
+====
+
+[[v3-14-6]]
+
+^<<v3-14-6,6>>^ Quanto à ave viva, deve tomá-la, bem como a lenha de cedro, e as fibras carmíneas, e o hissopo, e tem de mergulhá-los, bem como a ave viva, no sangue da ave que foi morta por cima da água corrente.
+
+[[v3-14-7]]
+
+^<<v3-14-7,7>>^ Então tem de espargi-lo sete vezes sobre aquele que se purifica da lepra e tem de declará-lo limpo, e tem de soltar a ave viva sobre o campo aberto.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “sobre a face do campo”.
+====
+
+[[v3-14-8]]
+
+^<<v3-14-8,8>>^ “E aquele que se purifica tem de lavar suas vestes e rapar todo o seu cabelo, e banhar-se em água, e ele tem de ser limpo, e depois pode entrar no acampamento. E tem de morar fora da sua tenda por sete dias.
+
+[[v3-14-9]]
+
+^<<v3-14-9,9>>^ E tem de acontecer, no sétimo dia, que deve rapar todo o cabelo de sua cabeça e de seu queixo, bem como as suas sobrancelhas. Sim, deve rapar todo o seu cabelo, e tem de lavar as suas vestes e banhar sua carne em água; e ele tem de ser limpo.
+
+[[v3-14-10]]
+
+^<<v3-14-10,10>>^ “E no oitavo dia tomará dois carneirinhos sadios^&#42;1^ e uma cordeira sadia, no seu primeiro ano, e três décimos de um efa de flor de farinha como oferta de cereais umedecida com azeite, e a medida de um logue^&#42;2^ de azeite;
+
+[NOTE]
+====
+. SamLXX acrescentam: “de um ano de idade”.
+. Um logue equivalia a 0,31 l.
+====
+
+[[v3-14-11]]
+
+^<<v3-14-11,11>>^ e o sacerdote que o declarar limpo tem de apresentar o homem^&#42;1^ que se purifica, bem como as coisas, perante Jeová, à entrada da tenda de reunião.
+
+[NOTE]
+====
+. Lit.: “tem de postar o homem”.
+====
+
+[[v3-14-12]]
+
+^<<v3-14-12,12>>^ E o sacerdote tem de tomar um carneirinho e oferecê-lo como oferta pela culpa, junto com a medida de um logue de azeite, e tem de movê-los para lá e para cá como oferta movida perante Jeová.
+
+[[v3-14-13]]
+
+^<<v3-14-13,13>>^ E ele tem de abater o carneirinho no lugar onde se abatem regularmente a oferta^&#42;1^ pelo pecado e a oferta queimada, num lugar santo, porque, igual à oferta pelo pecado, a oferta pela culpa pertence ao sacerdote. É algo santíssimo.
+
+[NOTE]
+====
+. Lit.: “onde ele abate regularmente a oferta”, M; SamLXX: “onde eles abatem regularmente a oferta”.
+====
+
+[[v3-14-14]]
+
+^<<v3-14-14,14>>^ “E o sacerdote tem de tomar um pouco do sangue da oferta pela culpa, e o sacerdote tem de pô-lo sobre a ponta da orelha direita daquele que se purifica e sobre o polegar da sua mão direita, e sobre o dedo grande do seu pé direito.
+
+[[v3-14-15]]
+
+^<<v3-14-15,15>>^ E o sacerdote tem de tomar um pouco do logue de azeite e despejá-lo sobre a palma da mão esquerda do sacerdote.
+
+[[v3-14-16]]
+
+^<<v3-14-16,16>>^ E o sacerdote tem de mergulhar o dedo direito no azeite que tem na palma esquerda e com o dedo tem de espargir um pouco do azeite sete vezes perante Jeová.
+
+[[v3-14-17]]
+
+^<<v3-14-17,17>>^ E do resto do azeite que tem na palma o sacerdote porá um pouco sobre a ponta da orelha direita daquele que se purifica e sobre o polegar da sua mão direita, e sobre o dedo grande do seu pé direito, por cima do sangue da oferta pela culpa.
+
+[[v3-14-18]]
+
+^<<v3-14-18,18>>^ E o que sobrar do azeite que há na palma da mão do sacerdote ele porá sobre a cabeça daquele que se purifica, e o sacerdote tem de fazer expiação por ele perante Jeová.
+
+[[v3-14-19]]
+
+^<<v3-14-19,19>>^ “E o sacerdote tem de fazer a oferta pelo pecado e fazer expiação por aquele que se purifica de sua impureza, e depois abaterá a oferta queimada.
+
+[[v3-14-20]]
+
+^<<v3-14-20,20>>^ E o sacerdote tem de oferecer sobre o altar a oferta queimada e a oferta de cereais, e o sacerdote tem de fazer expiação por ele; e ele tem de ser limpo.
+
+[[v3-14-21]]
+
+^<<v3-14-21,21>>^ “No entanto, se ele for de condição humilde e não tiver meios suficientes,^&#42;1^ então terá de tomar um carneirinho como oferta pela culpa, como oferta movida, a fim de fazer expiação por ele, e um décimo de um efa de flor de farinha umedecida com azeite, como oferta de cereais, e a medida de um logue de azeite,
+
+[NOTE]
+====
+. Lit.: “e sua mão não [o] estiver alcançando”. Vv. 22, 30-32 têm expressões similares.
+====
+
+[[v3-14-22]]
+
+^<<v3-14-22,22>>^ e duas rolas ou dois pombos novos,^&#42;1^ conforme tiver os meios, e um terá de servir de oferta pelo pecado e o outro de oferta queimada.
+
+[NOTE]
+====
+. Lit.: “filhotes de pombo”.
+====
+
+[[v3-14-23]]
+
+^<<v3-14-23,23>>^ E no oitavo dia terá de trazê-los ao sacerdote, para a efetivação da sua purificação, à entrada da tenda de reunião, perante Jeová.
+
+[[v3-14-24]]
+
+^<<v3-14-24,24>>^ “E o sacerdote tem de tomar o carneirinho da oferta pela culpa e a medida de um logue de azeite, e o sacerdote tem de movê-los para lá e para cá como oferta movida perante Jeová.
+
+[[v3-14-25]]
+
+^<<v3-14-25,25>>^ E ele tem de abater o carneirinho da oferta pela culpa, e o sacerdote tem de tomar um pouco do sangue da oferta pela culpa e pô-lo sobre a ponta da orelha direita daquele que se purifica, e sobre o polegar da sua mão direita, e sobre o dedo grande do seu pé direito.
+
+[[v3-14-26]]
+
+^<<v3-14-26,26>>^ E o sacerdote despejará um pouco do azeite sobre a palma da mão esquerda do sacerdote.
+
+[[v3-14-27]]
+
+^<<v3-14-27,27>>^ E o sacerdote, com o dedo direito, tem de espargir um pouco do azeite que tem na palma esquerda sete vezes perante Jeová.
+
+[[v3-14-28]]
+
+^<<v3-14-28,28>>^ E o sacerdote tem de pôr um pouco do azeite que tem na palma sobre a ponta da orelha direita daquele que se purifica, e sobre o polegar da sua mão direita, e sobre o dedo grande do seu pé direito, por cima do lugar do sangue da oferta pela culpa.
+
+[[v3-14-29]]
+
+^<<v3-14-29,29>>^ E o que sobrar do azeite que há na palma da mão do sacerdote ele porá sobre a cabeça daquele que se purifica, a fim de fazer expiação por ele perante Jeová.
+
+[[v3-14-30]]
+
+^<<v3-14-30,30>>^ “E ele tem de ofertar uma das rolas ou [um] dos pombos novos para os quais tenha os meios,
+
+[[v3-14-31]]
+
+^<<v3-14-31,31>>^ um deles, para o qual tenha os meios, como oferta pelo pecado, e o outro como oferta queimada, junto com a oferta de cereais; e o sacerdote tem de fazer expiação por aquele que se purifica perante Jeová.
+
+[[v3-14-32]]
+
+^<<v3-14-32,32>>^ “Esta é a lei para aquele em quem houve a praga da lepra, que não tenha os meios quando efetiva a sua purificação.”
+
+[[v3-14-33]]
+
+^<<v3-14-33,33>>^ E Jeová passou a falar a Moisés e a Arão, dizendo:
+
+[[v3-14-34]]
+
+^<<v3-14-34,34>>^ “Quando entrardes na terra de Canaã, que vos dou como propriedade, e eu deveras puser a praga da lepra numa casa da terra de vossa propriedade,
+
+[[v3-14-35]]
+
+^<<v3-14-35,35>>^ então terá de vir aquele a quem pertence a casa e terá de contá-lo ao sacerdote, dizendo: ‘Apareceu-me na casa algo como uma praga.’
+
+[[v3-14-36]]
+
+^<<v3-14-36,36>>^ E o sacerdote terá de dar ordens, e eles terão de esvaziar a casa antes de o sacerdote entrar para ver a praga, para que não declare impuro a tudo o que houver na casa; e depois entrará o sacerdote para ver a casa.
+
+[[v3-14-37]]
+
+^<<v3-14-37,37>>^ Tendo visto a praga, então, se a praga estiver nas paredes da casa, com depressões verde-amareladas ou avermelhadas, e tiverem o aspecto de serem mais fundas do que a superfície da parede,
+
+[[v3-14-38]]
+
+^<<v3-14-38,38>>^ então o sacerdote terá de sair da casa à entrada da casa e terá de pôr a casa de quarentena por sete dias.
+
+[[v3-14-39]]
+
+^<<v3-14-39,39>>^ “E o sacerdote terá de voltar no sétimo dia e terá de ver; e se a praga se tiver espalhado nas paredes da casa,
+
+[[v3-14-40]]
+
+^<<v3-14-40,40>>^ então o sacerdote terá de dar ordens, e eles terão de arrancar as pedras em que houver a praga e terão de lançá-las fora da cidade, num lugar impuro.
+
+[[v3-14-41]]
+
+^<<v3-14-41,41>>^ E fará raspar a casa^&#42;1^ por dentro, em toda a volta, e o reboco que cortarem^&#42;2^ terão de lançar fora da cidade num lugar impuro.
+
+[NOTE]
+====
+. “E eles rasparão a casa”, SamLXXSy.
+. “Cortarem”, M; TOSy: “rasparem”.
+====
+
+[[v3-14-42]]
+
+^<<v3-14-42,42>>^ E terão de tomar outras pedras e metê-las no lugar das pedras anteriores; e ele^&#42;1^ fará que se tome reboco diferente e fará rebocar a casa.
+
+[NOTE]
+====
+. Isto é, o sacerdote.
+====
+
+[[v3-14-43]]
+
+^<<v3-14-43,43>>^ “Porém, se a praga voltar e deveras irromper na casa depois de se terem arrancado as pedras e depois de se ter cortado^&#42;1^ e rebocado a casa,
+
+[NOTE]
+====
+. “Depois de se ter cortado”, M; TOLXXSy: “depois de se ter raspado”.
+====
+
+[[v3-14-44]]
+
+^<<v3-14-44,44>>^ então o sacerdote terá de entrar e ver; e se a praga se tiver espalhado na casa, há lepra maligna na casa. É impura.
+
+[[v3-14-45]]
+
+^<<v3-14-45,45>>^ E terá de fazer demolir a casa com as suas pedras e seu madeiramento, e todo o reboco da casa, e terá de fazê-lo levar para fora da cidade a um lugar impuro.
+
+[[v3-14-46]]
+
+^<<v3-14-46,46>>^ Mas quem entrar na casa em qualquer dos dias da sua quarentena ficará impuro até à noitinha;
+
+[[v3-14-47]]
+
+^<<v3-14-47,47>>^ e quem se deitar na casa deve lavar as suas vestes, e quem comer na casa deve lavar as suas vestes.
+
+[[v3-14-48]]
+
+^<<v3-14-48,48>>^ “No entanto, se é que o sacerdote vem e deveras vê, e eis que agora a praga não se espalhou na casa, depois de a casa ter sido rebocada, então o sacerdote tem de declarar a casa limpa, porque a praga foi curada.
+
+[[v3-14-49]]
+
+^<<v3-14-49,49>>^ E para purificar de pecado a casa, tem de tomar duas aves, e lenha de cedro, e fibras carmíneas, e hissopo.
+
+[[v3-14-50]]
+
+^<<v3-14-50,50>>^ E ele tem de matar uma ave num vaso de barro por cima de água corrente.
+
+[[v3-14-51]]
+
+^<<v3-14-51,51>>^ E tem de tomar a lenha de cedro, e o hissopo, e as fibras carmíneas, e a ave viva, e mergulhá-los no sangue da ave que foi morta e na água corrente, e tem de espargi-lo em direção à casa, sete vezes.
+
+[[v3-14-52]]
+
+^<<v3-14-52,52>>^ E ele tem de purificar de pecado a casa com o sangue da ave e a água corrente, e com a ave viva, e a lenha de cedro, e o hissopo, e as fibras carmíneas.
+
+[[v3-14-53]]
+
+^<<v3-14-53,53>>^ E ele tem de soltar a ave viva, fora da cidade, ao campo aberto, e tem de fazer expiação pela casa; e ela tem de ser limpa.
+
+[[v3-14-54]]
+
+^<<v3-14-54,54>>^ “Esta é a lei com respeito a qualquer praga de lepra e com respeito a qualquer queda anormal do cabelo,
+
+[[v3-14-55]]
+
+^<<v3-14-55,55>>^ e com respeito à lepra da veste e na casa,
+
+[[v3-14-56]]
+
+^<<v3-14-56,56>>^ e com respeito à erupção, e à escara, e à mancha,
+
+[[v3-14-57]]
+
+^<<v3-14-57,57>>^ a fim de se darem instruções quando algo é impuro e quando algo é puro.^&#42;1^ Esta é a lei a respeito da lepra.”
+
+[NOTE]
+====
+. Lit.: “no dia do impuro e no dia do puro”.
+====
+
+'''
+
+xref:003-levitico/003-levitico-013.adoc#v3-13-0[&#60; Capítulo Anterior] | <<v3-14-0,Topo>> | xref:003-levitico/003-levitico-015.adoc#v3-15-0[Próximo Capítulo &#62;]

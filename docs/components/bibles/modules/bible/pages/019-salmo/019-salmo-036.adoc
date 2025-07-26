@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-36-0]]
+=== Salmos, 36
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Do servo de Jeová,^&#42;1^ Davi._
+
+[[v19-36-1]]
+
+^<<v19-36-1,1>>^ A pronunciação de transgressão para o iníquo está no meio do seu^&#42;1^ coração;
+Não há pavor de Deus diante dos seus olhos.
+
+[NOTE]
+====
+. “Seu”, LXXSyVg e alguns mss. hebr.; MT: “meu”.
+====
+
+[[v19-36-2]]
+
+^<<v19-36-2,2>>^ Porque agiu de modo demasiadamente macio para consigo mesmo aos seus próprios olhos
+Para descobrir seu erro, de modo a odiá-lo.
+
+[[v19-36-3]]
+
+^<<v19-36-3,3>>^ As palavras da sua boca são coisa prejudicial e engano;
+Cessou de ter perspicácia para fazer o bem.
+
+[[v19-36-4]]
+
+^<<v19-36-4,4>>^ Continua a maquinar na sua cama o que é prejudicial.
+Posta-se num caminho que não é bom.
+Não rejeita o que é mau.
+
+[[v19-36-5]]
+
+^<<v19-36-5,5>>^ Ó Jeová,^&#42;1^ tua benevolência^&#42;2^ está nos céus;
+Tua fidelidade sobe até as nuvens.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 10.
+. Ou “amor leal”.
+====
+
+[[v19-36-6]]
+
+^<<v19-36-6,6>>^ Tua justiça é como as montanhas de Deus;^&#42;1^
+Tua decisão judicial é uma vasta água de profundeza.^&#42;2^
+Salvas o homem^&#42;3^ e o animal, ó Jeová.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+. Ou “um vasto corpo de águas empoladas”. Hebr.: tehóhm rab·báh. Veja 33:7 n.: “empoladas”; Gên 1:2 n. e Gên 7:11 n.: “profundeza”.
+. Ou “humanidade”. Hebr.: ’a·dhám.
+====
+
+[[v19-36-7]]
+
+^<<v19-36-7,7>>^ Quão preciosa é a tua benevolência, ó Deus!^&#42;1^
+E os próprios filhos dos homens se refugiam na sombra das tuas asas.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v19-36-8]]
+
+^<<v19-36-8,8>>^ Bebem fartamente da gordura da tua casa;
+E fazes que bebam da torrente dos teus deleites.
+
+[[v19-36-9]]
+
+^<<v19-36-9,9>>^ Pois contigo está a fonte^&#42;1^ da vida;
+Pela luz vinda de ti podemos ver a luz.
+
+[NOTE]
+====
+. Ou “manancial”. Hebr.: meqóhr.
+====
+
+[[v19-36-10]]
+
+^<<v19-36-10,10>>^ Continua com a tua benevolência para com os que te conhecem
+E com a tua justiça para com os retos no coração.
+
+[[v19-36-11]]
+
+^<<v19-36-11,11>>^ Oh! não venha [contra] mim o pé de altivez;
+Quanto à mão de gente iníqua, não faça de mim um errante.
+
+[[v19-36-12]]
+
+^<<v19-36-12,12>>^ Ali caíram os que praticaram o que é prejudicial;
+Foram empurrados para baixo e não se puderam levantar.
+
+'''
+
+xref:019-salmo/019-salmo-035.adoc#v19-35-0[&#60; Capítulo Anterior] | <<v19-36-0,Topo>> | xref:019-salmo/019-salmo-037.adoc#v19-37-0[Próximo Capítulo &#62;]

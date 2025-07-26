@@ -1,0 +1,56 @@
+include::./index.adoc[]
+
+[[v19-1-0]]
+=== Salmos, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_LIVRO PRIMEIRO_
+
+_(Salmos 1 - 41)_
+
+[[v19-1-1]]
+
+^<<v19-1-1,1>>^ Feliz é o homem^&#42;1^ que não tem andado no conselho dos iníquos,
+E que não se deteve no caminho dos pecadores,
+E que não se sentou no assento dos zombadores.
+
+[NOTE]
+====
+. Lit.: “Oh! a felicidade do homem.” Hebr.: ’ásh·reh ha·’ísh.
+====
+
+[[v19-1-2]]
+
+^<<v19-1-2,2>>^ Mas, seu agrado é na lei de Jeová,
+E na sua lei ele lê dia e noite em voz baixa.
+
+[[v19-1-3]]
+
+^<<v19-1-3,3>>^ E ele há de tornar-se qual árvore plantada junto a correntes de água,
+Que dá seu fruto na sua estação
+E cuja folhagem não murcha,
+E tudo o que ele fizer será bem sucedido.
+
+[[v19-1-4]]
+
+^<<v19-1-4,4>>^ Os iníquos não são assim,
+Mas são como a pragana impelida pelo vento.^&#42;1^
+
+[NOTE]
+====
+. “Vento.” Hebr.: rú·ahh; gr.: á·ne·mos; lat.: vén·tus. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v19-1-5]]
+
+^<<v19-1-5,5>>^ É por isso que os iníquos não se levantarão no julgamento,
+Nem os pecadores na assembléia dos justos.
+
+[[v19-1-6]]
+
+^<<v19-1-6,6>>^ Porque Jeová toma conhecimento do caminho dos justos,
+Mas o próprio caminho dos iníquos perecerá.
+
+'''
+
+xref:018-jo/018-jo-042.adoc#v18-42-0[&#60; Capítulo Anterior] | <<v19-1-0,Topo>> | xref:019-salmo/019-salmo-002.adoc#v19-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,261 @@
+include::./index.adoc[]
+
+[[v44-15-0]]
+=== Atos, 15
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v44-15-1]]
+
+^<<v44-15-1,1>>^ Certos homens desceram então da Judéia e começaram a ensinar os irmãos: “A menos que sejais circuncidados, segundo o costume de Moisés, não podeis ser salvos.”
+
+[[v44-15-2]]
+
+^<<v44-15-2,2>>^ Mas, quando havia ocorrido não pouca dissensão e disputa com eles da parte de Paulo e Barnabé, providenciaram que Paulo e Barnabé, e alguns outros deles, subissem até os apóstolos e anciãos^&#42;1^ em Jerusalém, com respeito a esta disputa.
+
+[NOTE]
+====
+. “Anciãos.” Gr.: pre·sby·té·rous; J17,18,22(hebr.): wehaz·zeqe·ním, “e os anciãos”. Veja Núm 11:25 n.: “anciãos”.
+====
+
+[[v44-15-3]]
+
+^<<v44-15-3,3>>^ Concordemente, depois de serem acompanhados parte do caminho pela congregação, estes homens continuaram viagem, tanto através da Fenícia como [através] de Samaria, relatando em pormenores a conversão^&#42;1^ de pessoas das nações, e eles estavam causando grande alegria a todos os irmãos.
+
+[NOTE]
+====
+. Lit.: “reviravolta”. Gr.: e·pi·stro·fén; lat.: con·ver·si·ó·nem.
+====
+
+[[v44-15-4]]
+
+^<<v44-15-4,4>>^ Chegando a Jerusalém, foram recebidos benevolamente pela congregação e pelos apóstolos e anciãos, e eles narraram as muitas coisas que Deus tinha feito por meio deles.
+
+[[v44-15-5]]
+
+^<<v44-15-5,5>>^ Contudo, alguns dos da seita dos fariseus, que haviam crido, levantaram-se dos seus assentos e disseram: “É necessário circuncidá-los e adverti-los que observem a lei de Moisés.”
+
+[[v44-15-6]]
+
+^<<v44-15-6,6>>^ E os apóstolos e os anciãos ajuntaram-se para considerar esta questão.
+
+[[v44-15-7]]
+
+^<<v44-15-7,7>>^ Ora, tendo havido muita disputa, levantou-se Pedro e disse-lhes: “Irmãos, bem sabeis que desde os primeiros dias Deus fez entre vós a escolha de que por intermédio da minha boca as pessoas das nações ouvissem a palavra das boas novas e cressem;
+
+[[v44-15-8]]
+
+^<<v44-15-8,8>>^ e Deus, que conhece o coração, deu testemunho por dar-lhes o espírito santo, assim como dera também a nós.
+
+[[v44-15-9]]
+
+^<<v44-15-9,9>>^ E ele não fez nenhuma distinção entre nós e eles, mas purificou os corações deles pela fé.
+
+[[v44-15-10]]
+
+^<<v44-15-10,10>>^ Ora, portanto, por que estais pondo Deus à prova por impor no pescoço dos discípulos um jugo que nem os nossos antepassados nem nós somos capazes de levar?
+
+[[v44-15-11]]
+
+^<<v44-15-11,11>>^ Ao contrário, confiamos em ser salvos por intermédio da benignidade imerecida do Senhor Jesus, do mesmo modo como também essas pessoas.”
+
+[[v44-15-12]]
+
+^<<v44-15-12,12>>^ Em vista disso, a multidão inteira ficou calada, e começaram a escutar Barnabé e Paulo relatando os muitos sinais e portentos que Deus fizera por intermédio deles entre as nações.
+
+[[v44-15-13]]
+
+^<<v44-15-13,13>>^ Depois de cessarem de falar, Tiago respondeu, dizendo: “Homens, irmãos, ouvi-me.
+
+[[v44-15-14]]
+
+^<<v44-15-14,14>>^ Simeão^&#42;1^ tem relatado cabalmente como Deus, pela primeira vez, voltou a sua atenção para as nações, a fim de tirar delas um povo para o seu nome.
+
+[NOTE]
+====
+. Uma forma hebr. do nome Simão (Pedro). Veja Mt 10:2 n.
+====
+
+[[v44-15-15]]
+
+^<<v44-15-15,15>>^ E com isso concordam as palavras dos Profetas, assim como está escrito:
+
+[[v44-15-16]]
+
+^<<v44-15-16,16>>^ ‘Depois destas coisas voltarei e reconstruirei a barraca^&#42;1^ de Davi, que está caída; e reconstruirei as suas ruínas e a erguerei de novo,
+
+[NOTE]
+====
+. Ou “a tenda”.
+====
+
+[[v44-15-17]]
+
+^<<v44-15-17,17>>^ a fim de que os remanescentes dos homens possam buscar seriamente a Jeová,^&#42;1^ junto com pessoas de todas as nações, pessoas chamadas por meu nome,^&#42;2^ diz Jeová,^&#42;3^ que está fazendo estas coisas,
+
+[NOTE]
+====
+. Veja Ap. 1D.
+. Ou “sobre quem tem sido invocado meu nome”.
+. Veja Ap. 1D.
+====
+
+[[v44-15-18]]
+
+^<<v44-15-18,18>>^ conhecidas desde a antiguidade.’^&#42;1^
+
+[NOTE]
+====
+. Ou “que tem tornado essas coisas (18) conhecidas desde a antiguidade”.
+====
+
+[[v44-15-19]]
+
+^<<v44-15-19,19>>^ Por isso, a minha decisão é não afligir a esses das nações, que se voltam para Deus,
+
+[[v44-15-20]]
+
+^<<v44-15-20,20>>^ mas escrever-lhes que se abstenham^&#42;1^ das coisas poluídas por ídolos, e da fornicação,^&#42;2^ e do estrangulado,^&#42;3^ e do sangue.^&#42;4^
+
+[NOTE]
+====
+. “Que se abstenham.” Gr.: a·pé·khe·sthai; lat.: ab·stí·ne·ant.
+. “Fornicação.” Gr.: por·neí·as; lat.: for·ni·ca·ti·ó·ne. Veja Ap. 5A.
+. Ou “do que é morto sem ser sangrado”.
+. “Sangue.” Gr.: haí·ma·tos; lat.: sán·gui·ne; J17,18,22(hebr.): u·min-had·dám, “e do sangue”.
+====
+
+[[v44-15-21]]
+
+^<<v44-15-21,21>>^ Pois, desde os tempos antigos,^&#42;1^ Moisés tem tido em cidade após cidade os que o pregam, porque ele está sendo lido em voz alta nas sinagogas, cada sábado.”
+
+[NOTE]
+====
+. Lit.: “das gerações originais”.
+====
+
+[[v44-15-22]]
+
+^<<v44-15-22,22>>^ Então pareceu bem aos apóstolos e aos anciãos,^&#42;1^ junto com toda a congregação, enviar a Antioquia homens escolhidos dentre eles, junto com Paulo e Barnabé, a saber, Judas, que era chamado Barsabás, e Silas, homens de liderança entre os irmãos;
+
+[NOTE]
+====
+. Veja v. 2 n.
+====
+
+[[v44-15-23]]
+
+^<<v44-15-23,23>>^ e escreveram por sua mão:
+“Os apóstolos e os anciãos, irmãos, aos irmãos em Antioquia, e Síria, e Cilícia, que são das nações: Cumprimentos!
+
+[[v44-15-24]]
+
+^<<v44-15-24,24>>^ Sendo que ouvimos [falar] que alguns dentre nós vos causaram aflição com discursos, tentando subverter as vossas almas, embora não lhes déssemos nenhumas instruções,
+
+[[v44-15-25]]
+
+^<<v44-15-25,25>>^ chegamos a um acordo unânime^&#42;1^ e pareceu-nos bem escolher homens para [os] enviar a vós, junto com Barnabé e Paulo, nossos amados,
+
+[NOTE]
+====
+. Lit.: “unanimemente”. Gr.: ho·mo·thy·ma·dón; lat.: in ú·num, “em união (unidade)”.
+====
+
+[[v44-15-26]]
+
+^<<v44-15-26,26>>^ homens que entregaram as suas almas^&#42;1^ pelo nome de nosso Senhor Jesus Cristo.
+
+[NOTE]
+====
+. Ou “vidas”. Gr.: psy·khás; lat.: á·ni·mas; J17,18,22(hebr.): naf·shám, “suas almas”.
+====
+
+[[v44-15-27]]
+
+^<<v44-15-27,27>>^ Mandamos, portanto, Judas e Silas, para que eles também possam relatar as mesmas coisas por palavra.
+
+[[v44-15-28]]
+
+^<<v44-15-28,28>>^ Pois, pareceu bem ao espírito santo e a nós mesmos não vos acrescentar nenhum fardo adicional, exceto as seguintes coisas necessárias:
+
+[[v44-15-29]]
+
+^<<v44-15-29,29>>^ de persistirdes em abster-vos de coisas sacrificadas a ídolos, e de sangue, e de coisas estranguladas,^&#42;1^ e de fornicação.^&#42;2^ Se vos guardardes cuidadosamente destas coisas, prosperareis. Boa saúde para vós!”^&#42;3^
+
+[NOTE]
+====
+. Veja v. 20 n.: “estrangulado”.
+. Veja Ap. 5A.
+. Ou: “Passai bem!” J22(hebr.): sha·lóhm la·khém, “A paz esteja convosco!”
+====
+
+[[v44-15-30]]
+
+^<<v44-15-30,30>>^ Concordemente, quando estes homens foram despachados, desceram a Antioquia, e ajuntaram a multidão, e entregaram-lhes a carta.
+
+[[v44-15-31]]
+
+^<<v44-15-31,31>>^ Depois de a lerem, alegraram-se com o encorajamento.
+
+[[v44-15-32]]
+
+^<<v44-15-32,32>>^ E Judas e Silas, visto que eles mesmos também eram profetas, encorajaram os irmãos com muitas dissertações e os fortaleceram.
+
+[[v44-15-33]]
+
+^<<v44-15-33,33>>^ Assim, depois de passarem [ali] algum tempo, os irmãos os deixaram ir em paz para os que os tinham enviado.
+
+[[v44-15-34]]
+
+^<<v44-15-34,34>>^ ^&#42;1^ ——
+
+[NOTE]
+====
+. P74אAB omitem o v. 34; CDVgc acrescentam, com variações: “Mas pareceu bem a Silas permanecer ainda ali; todavia, Judas partiu sozinho para Jerusalém.”
+====
+
+[[v44-15-35]]
+
+^<<v44-15-35,35>>^ No entanto, Paulo e Barnabé continuaram a passar um tempo em Antioquia, ensinando e declarando, também com muitos outros, as boas novas da palavra de Jeová.^&#42;1^
+
+[NOTE]
+====
+. “De Jeová”, J17,18,22,23; gr.: tou Ky·rí·ou; SyP: “de Deus”. Veja Ap. 1D.
+====
+
+[[v44-15-36]]
+
+^<<v44-15-36,36>>^ Então, depois de alguns dias, Paulo disse a Barnabé: “Acima de tudo, voltemos e visitemos os irmãos em cada uma das cidades em que publicamos a palavra de Jeová,^&#42;1^ para ver como estão.”
+
+[NOTE]
+====
+. “De Jeová”, J7,8,10,17,18,22,23; gr.: tou Ky·rí·ou; Syp: “de Deus”. Veja Ap. 1D.
+====
+
+[[v44-15-37]]
+
+^<<v44-15-37,37>>^ Barnabé, da sua parte, estava resolvido a levar consigo também João, que se chamava Marcos.
+
+[[v44-15-38]]
+
+^<<v44-15-38,38>>^ Mas Paulo não achava correto que levassem consigo a este, visto que se tinha afastado deles desde Panfília e não tinha ido com eles à obra.
+
+[[v44-15-39]]
+
+^<<v44-15-39,39>>^ Em vista disso, houve um forte acesso de ira, de modo que se separaram um do outro; e Barnabé tomou consigo Marcos e navegou para Chipre.
+
+[[v44-15-40]]
+
+^<<v44-15-40,40>>^ Paulo selecionou Silas e partiu, depois de ter sido confiado pelos irmãos à benignidade imerecida de Jeová.^&#42;1^
+
+[NOTE]
+====
+. “De Jeová”, J17,18,22; gr.: tou Ky·rí·ou; Vgc,sSyp: “de Deus”. Veja Ap. 1D.
+====
+
+[[v44-15-41]]
+
+^<<v44-15-41,41>>^ Mas ele passou pela Síria e pela Cilícia, fortalecendo as congregações.
+
+'''
+
+xref:044-atos/044-atos-014.adoc#v44-14-0[&#60; Capítulo Anterior] | <<v44-15-0,Topo>> | xref:044-atos/044-atos-016.adoc#v44-16-0[Próximo Capítulo &#62;]

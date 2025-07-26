@@ -1,0 +1,70 @@
+include::./index.adoc[]
+
+[[v19-75-0]]
+=== Salmos, 75
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. “Não arruínes.”^&#42;1^ Uma melodia. De Asafe. Um cântico._
+
+[[v19-75-1]]
+
+^<<v19-75-1,1>>^ Agradecemos-te, ó Deus; agradecemos-te,
+E teu nome está perto.
+Os homens têm de declarar as tuas obras maravilhosas.
+
+[[v19-75-2]]
+
+^<<v19-75-2,2>>^ “Pois, passei a tomar um tempo específico;
+Eu mesmo comecei a julgar com retidão.
+
+[[v19-75-3]]
+
+^<<v19-75-3,3>>^ A terra e todos os seus habitantes estando dissolvidos,
+Fui eu quem ajustei as suas colunas.” Selá.
+
+[[v19-75-4]]
+
+^<<v19-75-4,4>>^ Eu disse aos doidos: “Não sejais doidos”,
+E aos iníquos: “Não exalteis o chifre.
+
+[[v19-75-5]]
+
+^<<v19-75-5,5>>^ Não exalteis alto o vosso chifre.
+Não faleis com pescoço arrogante.
+
+[[v19-75-6]]
+
+^<<v19-75-6,6>>^ Pois, nem do leste,^&#42;1^ nem do oeste,
+Nem do sul^&#42;2^ há qualquer exaltação.
+
+[NOTE]
+====
+. Lit.: “duma saída”, isto é, a do sol.
+. Lit.: “ermo”, isto é, ao sul.
+====
+
+[[v19-75-7]]
+
+^<<v19-75-7,7>>^ Pois Deus é o juiz.
+A este ele rebaixa e aquele exalta.
+
+[[v19-75-8]]
+
+^<<v19-75-8,8>>^ Porque na mão de Jeová há um copo
+E o vinho está espumando, está cheio de mistura.
+E seguramente derramará dele a sua borra;
+Todos os iníquos da terra [a] sorverão [e a] beberão.”
+
+[[v19-75-9]]
+
+^<<v19-75-9,9>>^ Eu, porém, [o] contarei por tempo indefinido;
+Vou entoar melodias ao Deus de Jacó.
+
+[[v19-75-10]]
+
+^<<v19-75-10,10>>^ E cortarei todos os chifres dos iníquos.
+Os chifres do justo serão exaltados.
+
+'''
+
+xref:019-salmo/019-salmo-074.adoc#v19-74-0[&#60; Capítulo Anterior] | <<v19-75-0,Topo>> | xref:019-salmo/019-salmo-076.adoc#v19-76-0[Próximo Capítulo &#62;]

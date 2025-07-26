@@ -1,0 +1,187 @@
+include::./index.adoc[]
+
+[[v5-23-0]]
+=== Deuteronômio, 23
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-23-1]]
+
+^<<v5-23-1,1>>^ “Nenhum homem castrado, a quem se esmagaram os testículos ou se cortou o membro viril, pode entrar na congregação^&#42;1^ de Jeová.
+
+[NOTE]
+====
+. “Na congregação de.” Hebr.: biq·hál; gr.: ek·kle·sí·an; lat.: ec·clé·si·am.
+====
+
+[[v5-23-2]]
+
+^<<v5-23-2,2>>^ “Nenhum filho ilegítimo pode entrar na congregação de Jeová. Mesmo até a décima geração não pode entrar ninguém seu na congregação de Jeová.
+
+[[v5-23-3]]
+
+^<<v5-23-3,3>>^ “Nenhum amonita nem moabita^&#42;1^ pode entrar na congregação de Jeová. Mesmo até a décima geração não pode entrar ninguém deles na congregação de Jeová, por tempo indefinido,
+
+[NOTE]
+====
+. “Amonita nem moabita”, hebr. masc., possivelmente referindo-se apenas aos varões.
+====
+
+[[v5-23-4]]
+
+^<<v5-23-4,4>>^ por não terem vindo em teu auxílio com pão e água no caminho, quando saístes do Egito, e porque contrataram^&#42;1^ contra ti a Balaão, filho de Beor, de Petor da Mesopotâmia,^&#42;2^ para invocar o mal sobre ti.
+
+[NOTE]
+====
+. “Contrataram”, LXXVg; MSamSy: “contratou; contratou-se”.
+. “Mesopotâmia”, LXX; Vg: “Mesopotâmia da Síria”; MSamSy: “Arã-Naaraim”.
+====
+
+[[v5-23-5]]
+
+^<<v5-23-5,5>>^ E Jeová,^&#42;1^ teu Deus, não quis escutar Balaão; mas Jeová, teu Deus, transformou-te a invocação do mal em bênção, porque Jeová, teu Deus, te amava.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 1.
+====
+
+[[v5-23-6]]
+
+^<<v5-23-6,6>>^ Não lhes deves buscar^&#42;1^ a paz e a prosperidade em todos os teus dias, por tempo indefinido.
+
+[NOTE]
+====
+. Ou “não deves perguntar a respeito da”.
+====
+
+[[v5-23-7]]
+
+^<<v5-23-7,7>>^ “Não deves detestar o edomita,^&#42;1^ pois é teu irmão.
+“Não deves detestar o egípcio, pois te tornaste residente forasteiro no seu país.
+
+[NOTE]
+====
+. Ou “idumeu”.
+====
+
+[[v5-23-8]]
+
+^<<v5-23-8,8>>^ Os filhos que lhes nascerem como a terceira geração^&#42;1^ podem por si mesmos entrar na congregação de Jeová.
+
+[NOTE]
+====
+. Ou “como bisnetos”.
+====
+
+[[v5-23-9]]
+
+^<<v5-23-9,9>>^ “Caso saias para acampar-te contra os teus inimigos, então tens de guardar-te de toda coisa má.
+
+[[v5-23-10]]
+
+^<<v5-23-10,10>>^ Caso haja no meio de ti um homem que não permaneceu limpo por causa duma polução noturna, então tem de sair do acampamento. Não pode entrar no meio do acampamento.
+
+[[v5-23-11]]
+
+^<<v5-23-11,11>>^ E por volta do entardecer tem de suceder que ele se deve lavar com água e ao pôr do sol pode entrar no meio do acampamento.
+
+[[v5-23-12]]
+
+^<<v5-23-12,12>>^ E deve haver um lugar privativo^&#42;1^ à tua disposição fora do acampamento e para lá tens de ir.
+
+[NOTE]
+====
+. Ou “privada”.
+====
+
+[[v5-23-13]]
+
+^<<v5-23-13,13>>^ E nos teus apetrechos^&#42;1^ deves ter um tarugo à tua disposição, e tem de dar-se que, quando te abaixares lá fora, então tens de cavar um buraco com ele e tens de virar-te e encobrir teu excremento.
+
+[NOTE]
+====
+. Ou “nos teus implementos”, M; LXXVg: “no teu cinto”.
+====
+
+[[v5-23-14]]
+
+^<<v5-23-14,14>>^ Pois Jeová, teu Deus, está andando pelo teu acampamento para te livrar e para te entregar os teus inimigos; e teu acampamento tem de mostrar-se santo, para que ele não veja nada indecente em ti,^&#42;1^ e certamente deixe de acompanhar-te.
+
+[NOTE]
+====
+. Lit.: “para que ele não veja em ti a nudez de alguma coisa”.
+====
+
+[[v5-23-15]]
+
+^<<v5-23-15,15>>^ “Não deves entregar o escravo ao seu amo^&#42;1^ quando foge do seu amo para ti.
+
+[NOTE]
+====
+. “Seu amo.” Hebr.: ’adho·náv, pl., para denotar excelência.
+====
+
+[[v5-23-16]]
+
+^<<v5-23-16,16>>^ Ficará morando contigo, no meio de ti, no lugar que ele escolher numa das tuas cidades,^&#42;1^ onde quer que lhe agrade. Não o deves maltratar.
+
+[NOTE]
+====
+. Lit.: “teus portões”.
+====
+
+[[v5-23-17]]
+
+^<<v5-23-17,17>>^ “Nenhuma das filhas de Israel pode tornar-se prostituta de templo, nem pode algum dos filhos de Israel tornar-se homem que se prostitua no serviço dum templo.^&#42;1^
+
+[NOTE]
+====
+. Ou “catamito”, menino mantido para fins de perversão sexual.
+====
+
+[[v5-23-18]]
+
+^<<v5-23-18,18>>^ Não deves trazer a paga duma meretriz^&#42;1^ nem o preço dum cão^&#42;2^ à casa de Jeová, teu Deus, para algum voto, porque são algo detestável para Jeová, teu Deus, sim, ambas estas coisas.
+
+[NOTE]
+====
+. Ou “prostituta”. Gr.: pór·nes.
+. Provavelmente um pederasta; alguém praticando cópula anal, especialmente com um menino.
+====
+
+[[v5-23-19]]
+
+^<<v5-23-19,19>>^ “Não deves fazer teu irmão pagar juros, juros sobre dinheiro, juros sobre mantimentos, juros sobre qualquer coisa pela qual se possam cobrar juros.
+
+[[v5-23-20]]
+
+^<<v5-23-20,20>>^ Podes fazer o estrangeiro pagar juros, mas não deves fazer teu irmão pagar juros, para que Jeová, teu Deus, te abençoe em todo empreendimento teu na terra à qual vais para tomar posse dela.
+
+[[v5-23-21]]
+
+^<<v5-23-21,21>>^ “Caso faças um voto a Jeová, teu Deus, não deves tardar em pagá-lo, porque Jeová, teu Deus, sem falta o exigirá de ti, e deveras se tornaria um pecado da tua parte.
+
+[[v5-23-22]]
+
+^<<v5-23-22,22>>^ Mas, caso deixes de fazer um voto, não se tornará pecado da tua parte.
+
+[[v5-23-23]]
+
+^<<v5-23-23,23>>^ Deves cumprir o que os teus lábios proferirem e tens de fazer exatamente como votaste a Jeová, teu Deus, como oferta voluntária de que falaste com a tua boca.
+
+[[v5-23-24]]
+
+^<<v5-23-24,24>>^ “Caso entres no vinhedo do teu próximo, tens de comer apenas o bastante das uvas para fartar a tua alma,^&#42;1^ mas não as deves pôr num receptáculo teu.
+
+[NOTE]
+====
+. “Para . . . a tua alma (ti mesmo).” MSam(hebr.): kenaf·shekhá; gr.: psy·khén sou; sir.: naf·shakh.
+====
+
+[[v5-23-25]]
+
+^<<v5-23-25,25>>^ “Caso entres no meio dos cereais em pé do teu próximo, tens de arrancar com a tua mão apenas as espigas maduras, mas não deves mover a foice para lá e para cá nos cereais em pé do teu próximo.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-022.adoc#v5-22-0[&#60; Capítulo Anterior] | <<v5-23-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-024.adoc#v5-24-0[Próximo Capítulo &#62;]

@@ -1,0 +1,234 @@
+include::./index.adoc[]
+
+[[v23-37-0]]
+=== Isaías, 37
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-37-1]]
+
+^<<v23-37-1,1>>^ E sucedeu que, assim que o Rei Ezequias [as] ouviu, rasgou imediatamente as suas vestes e cobriu-se de serapilheira, e entrou na casa de Jeová.
+
+[[v23-37-2]]
+
+^<<v23-37-2,2>>^ Além disso, enviou Eliaquim, que estava sobre os da casa, e Sebna, o secretário, e os anciãos dos sacerdotes, cobertos de serapilheira, a Isaías, filho de Amoz, o profeta.
+
+[[v23-37-3]]
+
+^<<v23-37-3,3>>^ E passaram a dizer-lhe: “Assim disse Ezequias: ‘Este dia é um dia de aflição, e de repreensão, e de desaforo, porque os filhos chegaram até à boca da madre^&#42;1^ e não há poder para dar à luz.
+
+[NOTE]
+====
+. Lit.: “o lugar do irrompimento”. Veja 66:9.
+====
+
+[[v23-37-4]]
+
+^<<v23-37-4,4>>^ Talvez Jeová, teu Deus,^&#42;1^ ouça as palavras de Rabsaqué, a quem o rei da Assíria, seu senhor,^&#42;2^ enviou para escarnecer do Deus vivente,^&#42;3^ e ele realmente o chame às contas pelas palavras que Jeová, teu Deus, ouviu. E terás de elevar uma oração a favor do restante que se pode achar.’”
+
+[NOTE]
+====
+. “Teu Deus.” Hebr.: ’Elo·heí·kha.
+. “Seu senhor.” Hebr.: ’adho·náv, pl. de ’a·dhóhn, para denotar excelência.
+. “Do Deus vivente.” Hebr.: ’Elo·hím hhai; o adjetivo hhai, “vivente”, é sing., embora ’Elo·hím seja plural.
+====
+
+[[v23-37-5]]
+
+^<<v23-37-5,5>>^ Portanto, os servos do Rei Ezequias entraram até Isaías.
+
+[[v23-37-6]]
+
+^<<v23-37-6,6>>^ Isaías disse-lhes então: “Isto é o que deveis dizer ao vosso senhor: ‘Assim disse Jeová: “Não tenhas medo por causa das palavras que ouviste, com que os ajudantes do rei da Assíria me ultrajaram.
+
+[[v23-37-7]]
+
+^<<v23-37-7,7>>^ Eis que ponho nele um espírito, e ele terá de ouvir uma notícia e voltar à sua própria terra; e eu hei de fazê-lo cair pela espada na sua própria terra.”’”
+
+[[v23-37-8]]
+
+^<<v23-37-8,8>>^ Depois disso, Rabsaqué retornou e achou o rei da Assíria lutando contra Libna, pois ouvira [dizer] que tinha partido de Laquis.
+
+[[v23-37-9]]
+
+^<<v23-37-9,9>>^ Ouviu então dizer a respeito de Tiraca, rei da Etiópia:^&#42;1^ “Ele saiu para lutar contra ti.” Quando ouviu [isso], enviou imediatamente mensageiros a Ezequias, dizendo:
+
+[NOTE]
+====
+. “Etiópia”, Vg; LXX: “os etíopes”; MTSy: “Cus”.
+====
+
+[[v23-37-10]]
+
+^<<v23-37-10,10>>^ “Isto é o que deveis dizer a Ezequias, rei de Judá: ‘Não te engane teu Deus, em quem confias, dizendo: “Jerusalém não será entregue na mão do rei da Assíria.”
+
+[[v23-37-11]]
+
+^<<v23-37-11,11>>^ Eis que tu mesmo ouviste o que os reis da Assíria fizeram a todas as terras, devotando-as à destruição, e serás tu mesmo livrado?
+
+[[v23-37-12]]
+
+^<<v23-37-12,12>>^ Livraram-nas os deuses das nações que meus antepassados arruinaram, sim, Gozã e Harã, e Rezefe, e os filhos de Éden, que estavam em Tel-Assar?
+
+[[v23-37-13]]
+
+^<<v23-37-13,13>>^ Onde está o rei de Hamate, e o rei de Arpade, e o rei da cidade de Sefarvaim — de Hena e de Iva?’”
+
+[[v23-37-14]]
+
+^<<v23-37-14,14>>^ Ezequias tirou então as cartas da mão dos mensageiros e as leu, após o que Ezequias subiu à casa de Jeová e o estendeu diante de Jeová.
+
+[[v23-37-15]]
+
+^<<v23-37-15,15>>^ E Ezequias começou a orar a Jeová, dizendo:
+
+[[v23-37-16]]
+
+^<<v23-37-16,16>>^ “Ó Jeová dos exércitos, Deus de Israel, sentado sobre os querubins, só tu és o [verdadeiro] Deus de todos os reinos da terra. És tu quem fizeste os céus e a terra.
+
+[[v23-37-17]]
+
+^<<v23-37-17,17>>^ Inclina o teu ouvido, ó Jeová, e ouve. Abre os teus olhos, ó Jeová, e vê, e ouve todas as palavras de Senaqueribe, que ele enviou para escarnecer do Deus vivente.^&#42;1^
+
+[NOTE]
+====
+. Veja v. 4 n.: “Deus vivente.”
+====
+
+[[v23-37-18]]
+
+^<<v23-37-18,18>>^ É um fato, ó Jeová, que os reis da Assíria têm devastado todas as terras e sua própria terra.
+
+[[v23-37-19]]
+
+^<<v23-37-19,19>>^ E houve uma entrega dos seus deuses ao fogo, porque não eram deuses,^&#42;1^ mas trabalho das mãos de homem, madeira e pedra, de modo que os destruíram.
+
+[NOTE]
+====
+. Ou “não . . . Deus”. Hebr.: lo’ ’elo·hím.
+====
+
+[[v23-37-20]]
+
+^<<v23-37-20,20>>^ E agora, ó Jeová, nosso Deus, por favor, salva-nos da sua mão, para que todos os reinos da terra saibam que somente tu, ó Jeová, és [Deus].”^&#42;1^
+
+[NOTE]
+====
+. “Deus”, inserido em harmonia com 1QIsa e 2Rs 19:19.
+====
+
+[[v23-37-21]]
+
+^<<v23-37-21,21>>^ E Isaías, filho de Amoz, passou a mandar dizer a Ezequias: “Assim disse Jeová, Deus de Israel: ‘Visto que oraste a mim referente a Senaqueribe, rei da Assíria,
+
+[[v23-37-22]]
+
+^<<v23-37-22,22>>^ esta é a palavra que Jeová falou contra ele:
+“A virgem filha de Sião te desprezou, caçoou de ti.
+Atrás de ti, a filha de Jerusalém meneou a cabeça.
+
+[[v23-37-23]]
+
+^<<v23-37-23,23>>^ A quem escarneceste e ultrajaste?
+E contra quem elevaste a [tua] voz
+E ergues os teus olhos para o alto?
+É contra o Santo de Israel!
+
+[[v23-37-24]]
+
+^<<v23-37-24,24>>^ Por meio dos teus servos escarneceste de Jeová^&#42;1^ e dizes:
+‘Com a multidão dos meus carros de guerra, eu mesmo—
+Eu hei de subir ao alto das regiões montanhosas,
+Às partes mais remotas do Líbano;
+E deceparei os seus altos cedros, seus juníperos seletos.
+E entrarei na sua derradeira altura,^&#42;2^ a floresta do seu pomar.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+. “Altura”, M; em 2Rs 19:23: “pousada”.
+====
+
+[[v23-37-25]]
+
+^<<v23-37-25,25>>^ Eu é que hei de cavar e beber águas,
+E secarei com as solas dos meus pés todos os canais do Nilo do Egito.’^&#42;1^
+
+[NOTE]
+====
+. “Egito.” Hebr.: Ma·tsóhr, sing. Veja 36:6 n.
+====
+
+[[v23-37-26]]
+
+^<<v23-37-26,26>>^ Não ouviste? Desde os tempos remotos é o que vou fazer.
+Desde os dias de outrora o formei. Agora o vou introduzir.
+E tu servirás para fazer desoladas cidades fortificadas, como montões de ruínas.
+
+[[v23-37-27]]
+
+^<<v23-37-27,27>>^ E seus habitantes terão mãos fracas;
+Estarão simplesmente aterrorizados e envergonhados.
+Terão de tornar-se como a vegetação do campo e a tenra relva verde,
+Grama dos telhados e dos socalcos diante do vento oriental.
+
+[[v23-37-28]]
+
+^<<v23-37-28,28>>^ E conheço bem teu sentar quieto,^&#42;1^ e tua saída e tua entrada,
+E tua agitação contra mim,
+
+[NOTE]
+====
+. “Grama dos telhados, abrasada diante do vento oriental. (28) Teu levantar e teu sentar quieto”, 1QIsa.
+====
+
+[[v23-37-29]]
+
+^<<v23-37-29,29>>^ Porque a tua agitação contra mim e a tua vociferação subiram aos meus ouvidos.
+E hei de pôr meu gancho no teu nariz e meu freio entre os teus lábios,
+E deveras te conduzirei de volta pelo caminho por onde vieste.”
+
+[[v23-37-30]]
+
+^<<v23-37-30,30>>^ “‘E este será o sinal para ti: Comer-se-á este ano do que crescer de grãos caídos, e no segundo ano, grãos que brotam por si mesmos; mas no terceiro ano, semeai e colhei, e plantai vinhedos, e comei dos seus frutos.
+
+[[v23-37-31]]
+
+^<<v23-37-31,31>>^ E os que escaparem, da casa de Judá, os que restarem, certamente lançarão raízes para baixo e produzirão frutos para cima.
+
+[[v23-37-32]]
+
+^<<v23-37-32,32>>^ Pois, de Jerusalém sairá um restante, e os que escapam, do monte Sião. O próprio zelo de Jeová dos exércitos fará isso.
+
+[[v23-37-33]]
+
+^<<v23-37-33,33>>^ “‘Portanto, assim disse Jeová com respeito ao rei da Assíria: “Ele não entrará nesta cidade, nem atirará flecha nela, nem a confrontará com escudo, nem levantará um aterro de sítio contra ela.”’
+
+[[v23-37-34]]
+
+^<<v23-37-34,34>>^ “‘Pelo caminho por onde veio, ele voltará, e não entrará nesta cidade’, é a pronunciação de Jeová.
+
+[[v23-37-35]]
+
+^<<v23-37-35,35>>^ ‘E eu certamente defenderei esta cidade para a salvar por minha própria causa e por causa de Davi, meu servo.’”
+
+[[v23-37-36]]
+
+^<<v23-37-36,36>>^ E o anjo de Jeová passou a sair e a golpear cento e oitenta e cinco mil no acampamento dos assírios. Quando pessoas se levantaram de manhã cedo, ora, eis que todos eles eram cadáveres, mortos.
+
+[[v23-37-37]]
+
+^<<v23-37-37,37>>^ Portanto, Senaqueribe, rei da Assíria, partiu e foi, e retornou e passou a morar em Nínive.
+
+[[v23-37-38]]
+
+^<<v23-37-38,38>>^ E sucedeu que, curvando-se ele na casa de Nisroque, seu deus,^&#42;1^ Adrameleque e Sarezer, seus próprios filhos, golpearam-no com a espada, e eles mesmos escaparam para a terra de Ararate.^&#42;2^ E Esar-Hadom, seu filho, começou a reinar em seu lugar.
+
+[NOTE]
+====
+. “Seu deus.” Hebr.: ’elo·háv, pl. de ’elóh·ah, para denotar a excelência de “Nisroque”, deus falso.
+. “Terra de Ararate”, MVg; TSy: “terra de Kardo”; LXX: “Armênia”.
+====
+
+'''
+
+xref:023-isaias/023-isaias-036.adoc#v23-36-0[&#60; Capítulo Anterior] | <<v23-37-0,Topo>> | xref:023-isaias/023-isaias-038.adoc#v23-38-0[Próximo Capítulo &#62;]

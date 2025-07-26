@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v9-31-0]]
+=== 1 Samuel, 31
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-31-1]]
+
+^<<v9-31-1,1>>^ Ora, os filisteus estavam lutando contra Israel e os homens de Israel puseram-se em fuga diante dos filisteus, e caíam mortos no monte Gilboa.
+
+[[v9-31-2]]
+
+^<<v9-31-2,2>>^ E os filisteus seguiam de perto a Saul e a seus filhos; e os filisteus, por fim, golpearam a Jonatã, e a Abinadabe, e a Malquisua, filhos de Saul.
+
+[[v9-31-3]]
+
+^<<v9-31-3,3>>^ E a luta ficou muito intensa contra Saul, e os atiradores, os arqueiros, por fim o acharam, e ele foi seriamente ferido pelos atiradores.^&#42;1^
+
+[NOTE]
+====
+. “E ele foi seriamente ferido pelos atiradores”, para concordar com LXX. Lit.: “e ele estava em muita angústia por causa dos atiradores”.
+====
+
+[[v9-31-4]]
+
+^<<v9-31-4,4>>^ Saul disse então ao seu escudeiro: “Puxa a tua espada e traspassa-me com ela, para que não venham estes incircuncisos e certamente me traspassem, e abusem de mim.” E seu escudeiro não quis, porque estava com muito medo. Saul tomou, pois, a espada e lançou-se sobre ela.
+
+[[v9-31-5]]
+
+^<<v9-31-5,5>>^ Quando seu escudeiro viu que Saul tinha morrido, lançou-se também sobre a sua própria espada e morreu junto com ele.
+
+[[v9-31-6]]
+
+^<<v9-31-6,6>>^ Assim vieram a morrer juntos naquele dia Saul e seus três filhos, e seu escudeiro, sim, todos os seus homens.
+
+[[v9-31-7]]
+
+^<<v9-31-7,7>>^ Quando os homens de Israel que estavam na região da baixada e que estavam na região do Jordão viram que os homens de Israel tinham fugido e que Saul e seus filhos tinham morrido, então começaram a deixar as cidades e a fugir, após o que entraram os filisteus e passaram a morar nelas.
+
+[[v9-31-8]]
+
+^<<v9-31-8,8>>^ E sucedeu no dia seguinte que, quando os filisteus vieram despir os que tinham sido mortos, foram achar a Saul e a seus três filhos caídos no monte Gilboa.
+
+[[v9-31-9]]
+
+^<<v9-31-9,9>>^ E passaram a cortar-lhe a cabeça e a despi-lo da sua armadura, e enviaram [mensageiros] à terra dos filisteus em redor para notificar as casas dos seus ídolos e o povo.
+
+[[v9-31-10]]
+
+^<<v9-31-10,10>>^ Por fim, puseram a armadura dele na casa das imagens de Astorete e prenderam seu corpo morto à muralha de Bete-Sã.
+
+[[v9-31-11]]
+
+^<<v9-31-11,11>>^ E no que se referia a ele, os habitantes de Jabes-Gileade chegaram a ouvir o que os filisteus tinham feito a Saul.
+
+[[v9-31-12]]
+
+^<<v9-31-12,12>>^ Levantaram-se imediatamente todos os homens valentes, e eles foram durante a noite inteira e tiraram o corpo de Saul e os corpos de seus filhos da muralha de Bete-Sã, e chegaram^&#42;1^ a Jabes e os queimaram ali.
+
+[NOTE]
+====
+. “E chegaram”, MVg; LXXSy: “e os trouxeram”. Veja 1Cr 10:12.
+====
+
+[[v9-31-13]]
+
+^<<v9-31-13,13>>^ Depois tomaram seus ossos e os enterraram debaixo da tamargueira em Jabes, e passaram a jejuar por sete dias.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-030.adoc#v9-30-0[&#60; Capítulo Anterior] | <<v9-31-0,Topo>> | xref:010-2-samuel/010-2-samuel-001.adoc#v10-1-0[Próximo Capítulo &#62;]

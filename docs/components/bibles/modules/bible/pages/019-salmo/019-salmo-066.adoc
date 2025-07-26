@@ -1,0 +1,134 @@
+include::./index.adoc[]
+
+[[v19-66-0]]
+=== Salmos, 66
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Um cântico, uma melodia._
+
+[[v19-66-1]]
+
+^<<v19-66-1,1>>^ Bradai em triunfo a Deus, todos [vós, os da] terra.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “ó toda a terra”, com um verbo no pl. Veja 1Rs 10:24 n.: “terra”.
+====
+
+[[v19-66-2]]
+
+^<<v19-66-2,2>>^ Entoai melodias à glória do seu nome.
+Fazei glorioso o seu louvor.
+
+[[v19-66-3]]
+
+^<<v19-66-3,3>>^ Dizei a Deus: “Quão atemorizantes são os teus trabalhos!
+Por causa da abundância da tua força virão a ti servilmente os teus inimigos.
+
+[[v19-66-4]]
+
+^<<v19-66-4,4>>^ Todos [os da] terra se curvarão diante de ti,
+E a ti entoarão melodias, entoarão melodias ao teu nome.” Selá.
+
+[[v19-66-5]]
+
+^<<v19-66-5,5>>^ Vinde e vede as atividades de Deus.
+Atemorizante é a sua ação com os filhos dos homens.^&#42;1^
+
+[NOTE]
+====
+. “Homens.” Hebr.: ’a·dhám.
+====
+
+[[v19-66-6]]
+
+^<<v19-66-6,6>>^ Ele transformou o mar em terra seca;
+Atravessaram o rio a pé.
+Ali começamos a alegrar-nos nele.
+
+[[v19-66-7]]
+
+^<<v19-66-7,7>>^ Ele domina com a sua potência por tempo indefinido.
+Seus próprios olhos estão vigiando as nações.
+Quanto aos obstinados, que não se exaltem a si mesmos. Selá.
+
+[[v19-66-8]]
+
+^<<v19-66-8,8>>^ Bendizei ao nosso Deus, ó povos,
+E fazei ouvir a voz do louvor a ele.
+
+[[v19-66-9]]
+
+^<<v19-66-9,9>>^ Ele coloca a nossa alma na vida,^&#42;1^
+E não permitiu que nosso pé cambaleasse.
+
+[NOTE]
+====
+. Ou “entre os viventes”.
+====
+
+[[v19-66-10]]
+
+^<<v19-66-10,10>>^ Pois tu nos examinaste, ó Deus;
+Tu nos refinaste assim como se refina a prata.
+
+[[v19-66-11]]
+
+^<<v19-66-11,11>>^ Tu nos fizeste entrar numa rede de caça;
+Fizeste pressão sobre os nossos quadris.
+
+[[v19-66-12]]
+
+^<<v19-66-12,12>>^ Fizeste o homem mortal para cavalgar sobre a nossa cabeça;
+Viemos através de fogo e através de água,
+E tu passaste a fazer-nos sair para alívio.
+
+[[v19-66-13]]
+
+^<<v19-66-13,13>>^ Entrarei na tua casa com holocaustos;
+Pagar-te-ei os meus votos
+
+[[v19-66-14]]
+
+^<<v19-66-14,14>>^ Que meus lábios se abriram para dizer
+E minha boca falou quando estive em sério aperto.
+
+[[v19-66-15]]
+
+^<<v19-66-15,15>>^ Oferecer-te-ei holocaustos de animais cevados,
+Com a fumaça sacrificial de carneiros.
+Ofertarei um touro com cabritos. Selá.
+
+[[v19-66-16]]
+
+^<<v19-66-16,16>>^ Vinde, escutai, todos vós os que temeis a Deus, e eu vou narrar
+O que ele tem feito para a minha alma.
+
+[[v19-66-17]]
+
+^<<v19-66-17,17>>^ A ele invoquei com a minha boca
+E houve uma celebração com a minha língua.
+
+[[v19-66-18]]
+
+^<<v19-66-18,18>>^ Se contemplei algo prejudicial no meu coração,
+Jeová^&#42;1^ não [me] ouvirá.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-66-19]]
+
+^<<v19-66-19,19>>^ Verdadeiramente, Deus ouviu;
+Prestou atenção à voz da minha oração.
+
+[[v19-66-20]]
+
+^<<v19-66-20,20>>^ Bendito seja Deus, que não afastou a minha oração,
+Nem de mim a sua benevolência.
+
+'''
+
+xref:019-salmo/019-salmo-065.adoc#v19-65-0[&#60; Capítulo Anterior] | <<v19-66-0,Topo>> | xref:019-salmo/019-salmo-067.adoc#v19-67-0[Próximo Capítulo &#62;]

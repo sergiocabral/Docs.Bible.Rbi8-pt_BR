@@ -1,0 +1,164 @@
+include::./index.adoc[]
+
+[[v19-103-0]]
+=== Salmos, 103
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_De Davi._
+
+[[v19-103-1]]
+
+^<<v19-103-1,1>>^ Bendize a Jeová,^&#42;1^ ó minha alma,
+Sim, tudo dentro de mim, ao seu santo nome.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+====
+
+[[v19-103-2]]
+
+^<<v19-103-2,2>>^ Bendize a Jeová,^&#42;1^ ó minha alma,
+E não te esqueças de todos os seus atos,
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+====
+
+[[v19-103-3]]
+
+^<<v19-103-3,3>>^ Aquele que perdoa todo o teu erro,
+Que cura todas as tuas enfermidades,
+
+[[v19-103-4]]
+
+^<<v19-103-4,4>>^ Que reivindica a tua vida da própria cova,
+Que te coroa com benevolência e misericórdias,
+
+[[v19-103-5]]
+
+^<<v19-103-5,5>>^ Que farta o curso da tua vida com o que é bom;
+Tua mocidade se renova como a duma águia.
+
+[[v19-103-6]]
+
+^<<v19-103-6,6>>^ Jeová^&#42;1^ está executando atos de justiça^&#42;2^
+E decisões judiciais para todos os que estão sendo defraudados.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+. Ou “justiças”, M; LXX: “atos caridosos”.
+====
+
+[[v19-103-7]]
+
+^<<v19-103-7,7>>^ Fez saber os seus caminhos a Moisés,
+Suas ações até mesmo aos filhos de Israel.
+
+[[v19-103-8]]
+
+^<<v19-103-8,8>>^ Jeová^&#42;1^ é misericordioso e clemente,
+Vagaroso em irar-se e abundante em benevolência.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 8.
+====
+
+[[v19-103-9]]
+
+^<<v19-103-9,9>>^ Não ralhará para sempre,
+Nem ficará ressentido por tempo indefinido.
+
+[[v19-103-10]]
+
+^<<v19-103-10,10>>^ Ele nem mesmo fez a nós segundo os nossos pecados;
+Nem trouxe sobre nós o que merecemos segundo os nossos erros.
+
+[[v19-103-11]]
+
+^<<v19-103-11,11>>^ Pois assim como os céus são mais altos do que a terra,
+Sua benevolência é superior para com os que o temem.
+
+[[v19-103-12]]
+
+^<<v19-103-12,12>>^ Tão longe como o nascente é do poente,
+Tão longe pôs de nós as nossas transgressões.
+
+[[v19-103-13]]
+
+^<<v19-103-13,13>>^ Assim como o pai é misericordioso para com os seus filhos,
+Jeová tem sido misericordioso para com os que o temem.
+
+[[v19-103-14]]
+
+^<<v19-103-14,14>>^ Porque ele mesmo conhece bem a nossa formação,
+Lembra-se de que somos pó.
+
+[[v19-103-15]]
+
+^<<v19-103-15,15>>^ Quanto ao homem mortal,^&#42;1^ seus dias são como os da erva verde;
+Está florindo como a flor do campo.
+
+[NOTE]
+====
+. “Homem mortal.” Hebr.: ’enóhsh.
+====
+
+[[v19-103-16]]
+
+^<<v19-103-16,16>>^ Pois há de passar sobre ela o mero vento e ela não é mais;
+E não mais a reconhecerá o seu lugar.
+
+[[v19-103-17]]
+
+^<<v19-103-17,17>>^ Mas a benevolência^&#42;1^ de Jeová é de tempo indefinido a tempo indefinido
+Para com os que o temem,
+E sua justiça é para os filhos dos filhos,
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-103-18]]
+
+^<<v19-103-18,18>>^ Para com os que guardam o seu pacto
+E para com os que se lembram das suas ordens para as cumprir.
+
+[[v19-103-19]]
+
+^<<v19-103-19,19>>^ Jeová é que estabeleceu firmemente seu trono nos próprios céus;
+E seu próprio reinado tem mantido domínio sobre tudo.
+
+[[v19-103-20]]
+
+^<<v19-103-20,20>>^ Bendizei a Jeová, vós anjos seus, poderosos em poder, cumprindo a sua palavra,
+Por escutardes a voz da sua palavra.
+
+[[v19-103-21]]
+
+^<<v19-103-21,21>>^ Bendizei a Jeová, todos os exércitos seus,
+Vós ministros seus, fazendo a sua vontade.^&#42;1^
+
+[NOTE]
+====
+. Ou “prazer”.
+====
+
+[[v19-103-22]]
+
+^<<v19-103-22,22>>^ Bendizei a Jeová, todos os trabalhos seus,
+Em todos os lugares do seu domínio.^&#42;1^
+Bendize a Jeová, ó minha alma.
+
+[NOTE]
+====
+. Ou “sua dominação (soberania)”. Hebr.: mem·shal·tóh. Veja 1Cr 29:12 n.
+====
+
+'''
+
+xref:019-salmo/019-salmo-102.adoc#v19-102-0[&#60; Capítulo Anterior] | <<v19-103-0,Topo>> | xref:019-salmo/019-salmo-104.adoc#v19-104-0[Próximo Capítulo &#62;]

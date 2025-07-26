@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v13-5-0]]
+=== 1 Crônicas, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v13-5-1]]
+
+^<<v13-5-1,1>>^ E os filhos de Rubem, primogênito de Israel — pois era o primogênito; mas por profanar o leito [conjugal] de seu pai deu-se o seu direito de primogênito aos filhos de José, filho de Israel, de modo que não foi registrado genealogicamente para o direito de primogênito.
+
+[[v13-5-2]]
+
+^<<v13-5-2,2>>^ Porque o próprio Judá mostrou-se superior entre os seus irmãos e o líder procedia dele; mas a primogenitura era de José —
+
+[[v13-5-3]]
+
+^<<v13-5-3,3>>^ os filhos de Rubem, primogênito de Israel, foram Anoque e Palu, Esrom e Carmi.
+
+[[v13-5-4]]
+
+^<<v13-5-4,4>>^ Os filhos de Joel foram Semaías seu filho, Gogue seu filho, Simei seu filho,
+
+[[v13-5-5]]
+
+^<<v13-5-5,5>>^ Micá seu filho, Reaías seu filho, Baal seu filho,
+
+[[v13-5-6]]
+
+^<<v13-5-6,6>>^ Beerá seu filho, a quem Tilgate-Pilneser, rei da Assíria, levou ao exílio, sendo ele maioral dos rubenitas.
+
+[[v13-5-7]]
+
+^<<v13-5-7,7>>^ E seus irmãos pelas suas famílias no registro genealógico, segundo os seus descendentes, foram Jeiel, como cabeça, e Zacarias,
+
+[[v13-5-8]]
+
+^<<v13-5-8,8>>^ e Bela, filho de Azaz, filho de Sema, filho de Joel — ele morava em Aroer e até Nebo e Baal-Meom.
+
+[[v13-5-9]]
+
+^<<v13-5-9,9>>^ Mesmo ao leste ele morava até onde se entra no ermo junto ao rio Eufrates, porque o próprio gado deles se tornara numeroso na terra de Gileade.
+
+[[v13-5-10]]
+
+^<<v13-5-10,10>>^ E nos dias de Saul fizeram guerra aos agarenos, que vieram a cair pela sua mão; e assim moravam nas suas tendas em todo o país ao leste^&#42;1^ de Gileade.
+
+[NOTE]
+====
+. Lit.: “toda a face do leste”.
+====
+
+[[v13-5-11]]
+
+^<<v13-5-11,11>>^ Quanto aos filhos de Gade, defronte deles, moravam na terra de Basã até Salecá.
+
+[[v13-5-12]]
+
+^<<v13-5-12,12>>^ Joel foi o cabeça, e Safão, o segundo, e Janai e Safate em Basã.
+
+[[v13-5-13]]
+
+^<<v13-5-13,13>>^ E seus irmãos que pertenciam à casa de seus antepassados foram Micael, e Mesulão, e Seba, e Jorai, e Jacã, e Zia, e Éber, sete.
+
+[[v13-5-14]]
+
+^<<v13-5-14,14>>^ Estes foram os filhos de Abiail, filho de Huri, filho de Jaroa, filho de Gileade, filho de Micael, filho de Jesisai, filho de Jado, filho de Buz;
+
+[[v13-5-15]]
+
+^<<v13-5-15,15>>^ Aí, filho de Abdiel, filho de Guni, cabeça da casa de seus antepassados.
+
+[[v13-5-16]]
+
+^<<v13-5-16,16>>^ E continuaram a morar em Gileade, em Basã e nas suas aldeias dependentes, bem como em todos os pastios de Sarom, até o seu ponto final.
+
+[[v13-5-17]]
+
+^<<v13-5-17,17>>^ Todos eles foram registrados genealogicamente nos dias de Jotão, rei de Judá, e nos dias de Jeroboão,^&#42;1^ rei de Israel.
+
+[NOTE]
+====
+. Isto é, Jeroboão II. Veja 2Rs 14:16-29.
+====
+
+[[v13-5-18]]
+
+^<<v13-5-18,18>>^ Quanto aos filhos de Rubem e aos gaditas, e à meia tribo de Manassés, dos que eram valentes, homens carregando escudo e espada, e entesando o arco,^&#42;1^ e treinados para a guerra, havia quarenta e quatro mil setecentos e sessenta saindo para o exército.
+
+[NOTE]
+====
+. Lit.: “pisando o arco”, isto é, amiúde por se pôr o pé firmemente no meio dele.
+====
+
+[[v13-5-19]]
+
+^<<v13-5-19,19>>^ E começaram a fazer guerra aos agarenos, e a Jetur, e a Nafis, e a Nodabe.
+
+[[v13-5-20]]
+
+^<<v13-5-20,20>>^ E vieram a ser ajudados contra eles, de modo que os agarenos e todos os que estavam com eles foram entregues na sua mão, pois clamaram a Deus por socorro na guerra e ele se deixou suplicar a seu favor por confiarem nele.
+
+[[v13-5-21]]
+
+^<<v13-5-21,21>>^ E foram levar cativos seu gado, seus camelos, cinqüenta mil, e ovelhas, duzentas e cinqüenta mil, e jumentos, dois mil, e almas humanas,^&#42;1^ cem mil.
+
+[NOTE]
+====
+. Lit.: “e alma de homem (humanidade)”. Hebr.: wené·fesh ’a·dhám; lat.: et á·ni·mas hó·mi·num.
+====
+
+[[v13-5-22]]
+
+^<<v13-5-22,22>>^ Pois muitos haviam caído mortos, porque a luta era da parte do [verdadeiro] Deus. E continuaram a morar no seu lugar até o tempo do exílio.
+
+[[v13-5-23]]
+
+^<<v13-5-23,23>>^ Quanto aos filhos da meia tribo de Manassés, moravam no país desde Basã até Baal-Hermom, e Senir, e monte Hermom. Eles mesmos vieram a ser numerosos.
+
+[[v13-5-24]]
+
+^<<v13-5-24,24>>^ E estes foram os cabeças da casa de seus antepassados: Efer, e Isi, e Eliel, e Azriel, e Jeremias, e Hodavias, e Jadiel, homens que eram poderosos, valentes, homens de fama,^&#42;1^ cabeças da casa de seus antepassados.
+
+[NOTE]
+====
+. Lit.: “homens de nomes”.
+====
+
+[[v13-5-25]]
+
+^<<v13-5-25,25>>^ E começaram a agir de modo infiel para com o Deus de seus antepassados e foram ter relações imorais com os deuses dos povos do país, que Deus tinha aniquilado de diante deles.
+
+[[v13-5-26]]
+
+^<<v13-5-26,26>>^ Por conseguinte, o Deus de Israel incitou o espírito de Pul, rei da Assíria, sim, o espírito de Tilgate-Pilneser, rei da Assíria, de modo que levou ao exílio os dos rubenitas, e dos gaditas, e da meia tribo de Manassés, e os levou a Hala, e a Habor, e a Hara, e ao rio Gozã, [ficando eles lá] até o dia de hoje.^&#42;1^
+
+[NOTE]
+====
+. LXXBagsterSyVg terminam aqui o capítulo 5; MLXX continuam até o v. 41.
+====
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-004.adoc#v13-4-0[&#60; Capítulo Anterior] | <<v13-5-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-006.adoc#v13-6-0[Próximo Capítulo &#62;]

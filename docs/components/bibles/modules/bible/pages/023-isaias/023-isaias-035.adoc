@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v23-35-0]]
+=== Isaías, 35
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-35-1]]
+
+^<<v23-35-1,1>>^ O ermo e a região árida exultarão, e a planície desértica^&#42;1^ jubilará e florescerá como o açafrão.^&#42;2^
+
+[NOTE]
+====
+. Ou “o Arabá”.
+. Ou “croco; asfódelo”.
+====
+
+[[v23-35-2]]
+
+^<<v23-35-2,2>>^ Sem falta florescerá^&#42;1^ e realmente jubilará com exultação e com grito de júbilo. Terá de se lhe^&#42;2^ dar a própria glória do Líbano, o esplendor do Carmelo e de Sarom. Haverá os^&#42;3^ que verão a glória de Jeová, o esplendor de nosso Deus.^&#42;4^
+
+[NOTE]
+====
+. “Florescerá”, hebr. fem., referindo-se à “planície desértica” do v. 1.
+. “Lhe”, hebr. fem., referindo-se à “planície desértica” do v. 1; 12 mss. hebr.: “te”.
+. “Os”, MTSyVg; LXX: “meu povo”.
+. “Nosso Deus.” Hebr.: ’Elo·héh·nu.
+====
+
+[[v23-35-3]]
+
+^<<v23-35-3,3>>^ Fortalecei as mãos fracas^&#42;1^ e firmai os joelhos vacilantes.
+
+[NOTE]
+====
+. Ou “frouxas; pendentes”.
+====
+
+[[v23-35-4]]
+
+^<<v23-35-4,4>>^ Dizei aos de coração ansioso: “Sede fortes. Não tenhais medo. Eis que vosso próprio Deus chegará com a própria vingança, Deus, até mesmo com retribuição. Ele mesmo chegará e vos salvará.”
+
+[[v23-35-5]]
+
+^<<v23-35-5,5>>^ Naquele tempo abrir-se-ão os olhos dos cegos e destapar-se-ão os próprios ouvidos dos surdos.
+
+[[v23-35-6]]
+
+^<<v23-35-6,6>>^ Naquele tempo o coxo estará escalando como o veado e a língua do mudo gritará de júbilo. Pois no ermo terão arrebentado águas, e torrentes na planície desértica.
+
+[[v23-35-7]]
+
+^<<v23-35-7,7>>^ E o solo crestado pelo calor se terá tornado como um banhado de juncos, e a terra sedenta, como fontes de água. No lugar de permanência de chacais, para [eles]^&#42;1^ um lugar de repouso, haverá grama verde com canas e plantas de papiro.
+
+[NOTE]
+====
+. Lit.: “ela”, possivelmente referindo-se a uma fera.
+====
+
+[[v23-35-8]]
+
+^<<v23-35-8,8>>^ E certamente virá a haver ali uma estrada principal, sim, um caminho; e chamar-se-á Caminho de Santidade.^&#42;1^ O impuro não passará por ela.^&#42;2^ E será para aquele que anda no caminho, e nenhuns tolos vaguearão [nele].^&#42;3^
+
+[NOTE]
+====
+. Ou “e . . . Caminho Santo”. Hebr.: wedhé·rekh (fem.) haq·qó·dhesh; lat.: ví·a sánc·ta.
+. Lit.: “ele”, hebr. masc., referindo-se à “estrada” (hebr.: mas·lúl, masc.).
+. “E de modo algum passará por ali o impuro; não haverá ali nenhum caminho impuro. Mas os dispersos andarão nela e de modo algum se perderão”, LXX; Sy: “E nenhuma impureza passará por ela. E não haverá nenhum caminho além dela, e os próprios tolos não vaguearão ali”; Vgc: “Não transitará por ali o poluído, e este será para ti um caminho reto, para que os tolos não errem nele.”
+====
+
+[[v23-35-9]]
+
+^<<v23-35-9,9>>^ Ali não virá a haver leão e não subirá nele^&#42;1^ a espécie feroz de animais selváticos. Não se achará ali nenhum deles; e [ali] terão de andar os resgatados.
+
+[NOTE]
+====
+. “Nele”, hebr. fem., referindo-se ao “caminho” (hebr.: dé·rekh, fem.) do v. 8.
+====
+
+[[v23-35-10]]
+
+^<<v23-35-10,10>>^ E retornarão os próprios remidos por Jeová e certamente chegarão a Sião com clamor jubilante; e sobre a sua cabeça haverá alegria por tempo indefinido. Alcançarão exultação e alegria, e terão de fugir o pesar e o suspiro.
+
+'''
+
+xref:023-isaias/023-isaias-034.adoc#v23-34-0[&#60; Capítulo Anterior] | <<v23-35-0,Topo>> | xref:023-isaias/023-isaias-036.adoc#v23-36-0[Próximo Capítulo &#62;]

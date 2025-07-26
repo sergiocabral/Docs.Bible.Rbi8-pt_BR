@@ -1,0 +1,310 @@
+include::./index.adoc[]
+
+[[v42-23-0]]
+=== Lucas, 23
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v42-23-1]]
+
+^<<v42-23-1,1>>^ Levantando-se assim a multidão deles, levaram-no a Pilatos.
+
+[[v42-23-2]]
+
+^<<v42-23-2,2>>^ Principiaram então a acusá-lo, dizendo: “Achamos este homem subvertendo a nossa nação e proibindo o pagamento de impostos a César,^&#42;1^ e dizendo que ele mesmo é Cristo, um rei.”
+
+[NOTE]
+====
+. Ou “ao imperador”. Gr.: Kaí·sa·ri; lat.: Caé·sa·ri.
+====
+
+[[v42-23-3]]
+
+^<<v42-23-3,3>>^ Pilatos fez-lhe então uma pergunta: “És tu o rei dos judeus?” Em resposta a ele, disse: “Tu mesmo [o] dizes.”
+
+[[v42-23-4]]
+
+^<<v42-23-4,4>>^ Pilatos disse então aos principais sacerdotes e às multidões: “Não acho crime neste homem.”
+
+[[v42-23-5]]
+
+^<<v42-23-5,5>>^ Mas começaram a ficar insistentes, dizendo: “Ele atiça o povo por ensinar em toda a Judéia, principiando da Galiléia até mesmo aqui.”
+
+[[v42-23-6]]
+
+^<<v42-23-6,6>>^ Ouvindo isso, Pilatos perguntou se o homem era galileu,
+
+[[v42-23-7]]
+
+^<<v42-23-7,7>>^ e, depois de averiguar que ele vinha da jurisdição de Herodes,^&#42;1^ enviou-o a Herodes, que também estava em Jerusalém naqueles dias.
+
+[NOTE]
+====
+. Isto é, Herodes Ântipas, filho de Herodes, o Grande. Veja 3:1.
+====
+
+[[v42-23-8]]
+
+^<<v42-23-8,8>>^ Quando Herodes viu Jesus, alegrou-se grandemente, porque já por bastante tempo queria vê-lo, por ter ouvido [falar] dele, e esperava ver algum sinal realizado por ele.
+
+[[v42-23-9]]
+
+^<<v42-23-9,9>>^ Começou então a interrogá-lo com muitas palavras; mas ele não lhe dava resposta.
+
+[[v42-23-10]]
+
+^<<v42-23-10,10>>^ No entanto, os principais sacerdotes e os escribas levantavam-se e acusavam-no veementemente.
+
+[[v42-23-11]]
+
+^<<v42-23-11,11>>^ Então Herodes, junto com os soldados de sua guarda, o desacreditava e se divertia às custas dele por vesti-lo com uma roupa vistosa,^&#42;1^ e o mandou de volta a Pilatos.
+
+[NOTE]
+====
+. Ou “esplêndida”.
+====
+
+[[v42-23-12]]
+
+^<<v42-23-12,12>>^ Tanto Herodes como Pilatos tornaram-se assim naquele mesmo dia amigos mútuos; porque antes disso haviam mantido inimizade entre si.
+
+[[v42-23-13]]
+
+^<<v42-23-13,13>>^ Pilatos convocou então os principais sacerdotes, e os governantes, e o povo,
+
+[[v42-23-14]]
+
+^<<v42-23-14,14>>^ e disse-lhes: “Trouxestes-me este homem como alguém que incita o povo à revolta, e, eis que o examinei na frente de vós, mas não achei neste homem base para as acusações que lançais contra ele.
+
+[[v42-23-15]]
+
+^<<v42-23-15,15>>^ De fato, tampouco Herodes, pois no-lo enviou de volta; e, eis que ele não cometeu nada que mereça a morte.
+
+[[v42-23-16]]
+
+^<<v42-23-16,16>>^ Portanto, eu o castigarei e o livrarei.”
+
+[[v42-23-17]]
+
+^<<v42-23-17,17>>^ ^&#42;1^ ——
+
+[NOTE]
+====
+. P75AB omitem o v. 17 ; אWVgSyp: “Ora, de festividade em festividade ele precisava livrar-lhes um homem.” (DSyc,s acrescentam essas palavras após o v. 19 ; veja Mt 27:15; Mr 15:6.)
+====
+
+[[v42-23-18]]
+
+^<<v42-23-18,18>>^ Mas eles clamaram com toda a sua multidão, dizendo: “Tira a este, mas livra-nos a Barrabás!”
+
+[[v42-23-19]]
+
+^<<v42-23-19,19>>^ ([Homem este] que tinha sido lançado na prisão por certa sedição que ocorreu na cidade e por assassínio.)
+
+[[v42-23-20]]
+
+^<<v42-23-20,20>>^ Pilatos exclamou novamente para eles, porque queria livrar Jesus.
+
+[[v42-23-21]]
+
+^<<v42-23-21,21>>^ Começaram então a berrar, dizendo: “Para a estaca! Para a estaca com ele!”^&#42;1^
+
+[NOTE]
+====
+. Ou “Fixa-o numa estaca (poste)!” Veja Ap. 5C.
+====
+
+[[v42-23-22]]
+
+^<<v42-23-22,22>>^ Disse-lhes pela terceira vez: “Por que, que coisa má fez este [homem]? Não achei nele nada que mereça a morte; portanto, eu o castigarei e o livrarei.”
+
+[[v42-23-23]]
+
+^<<v42-23-23,23>>^ Em vista disso começaram a instar, com vozes altas, exigindo que fosse pregado numa estaca; e as suas vozes começaram a prevalecer.
+
+[[v42-23-24]]
+
+^<<v42-23-24,24>>^ De modo que Pilatos proferiu sentença para que se satisfizesse a exigência deles:
+
+[[v42-23-25]]
+
+^<<v42-23-25,25>>^ livrou-lhes o homem que tinha sido lançado na prisão por sedição e assassínio, e a quem exigiam, mas entregou Jesus à vontade deles.
+
+[[v42-23-26]]
+
+^<<v42-23-26,26>>^ Então, quando o levaram embora, pegaram Simão, certo nativo de Cirene, que vinha do campo, e puseram nele a estaca de tortura para a levar atrás de Jesus.
+
+[[v42-23-27]]
+
+^<<v42-23-27,27>>^ Mas, seguia-lhe uma grande multidão do povo e de mulheres que se batiam de pesar e que o lamentavam.
+
+[[v42-23-28]]
+
+^<<v42-23-28,28>>^ Jesus voltou-se para as mulheres e disse: “Filhas de Jerusalém, parai de chorar por mim. Ao contrário, chorai por vós mesmas e pelos vossos filhos;
+
+[[v42-23-29]]
+
+^<<v42-23-29,29>>^ porque, eis que virão dias em que as pessoas dirão: ‘Felizes as mulheres estéreis e as madres que não deram à luz, e os peitos que não amamentaram!’
+
+[[v42-23-30]]
+
+^<<v42-23-30,30>>^ Então principiarão a dizer aos montes: ‘Caí sobre nós!’, e às colinas: ‘Cobri-nos!’
+
+[[v42-23-31]]
+
+^<<v42-23-31,31>>^ Porque, se fazem estas coisas quando a árvore é seivosa, o que ocorrerá quando estiver ressequida?”
+
+[[v42-23-32]]
+
+^<<v42-23-32,32>>^ Mas, dois outros homens, malfeitores, também estavam sendo levados para serem executados com ele.
+
+[[v42-23-33]]
+
+^<<v42-23-33,33>>^ E quando chegaram ao lugar chamado Caveira,^&#42;1^ pregaram-no numa estaca, e assim também os malfeitores, um à sua direita e outro à sua esquerda.
+
+[NOTE]
+====
+. “Caveira.” Gr.: Kra·ní·on; lat.: Cal·vá·ri·ae; J17,18(hebr.): Gul·gol·tá’. Veja Mt 27:33.
+====
+
+[[v42-23-34]]
+
+^<<v42-23-34,34>>^ [[Mas Jesus estava dizendo: “Pai, perdoa-lhes, pois não sabem o que estão fazendo.”]]^&#42;1^ Outrossim, para distribuírem as roupas dele, lançaram sortes.
+
+[NOTE]
+====
+. אCVgSyc,p inserem estas palavras entre colchetes; P75BD°WSys omitem isso.
+====
+
+[[v42-23-35]]
+
+^<<v42-23-35,35>>^ E o povo parava, olhando. Mas os governantes escarneciam, dizendo: “A outros ele salvou; salve-se a si mesmo, se este é o Cristo de Deus, o Escolhido.”
+
+[[v42-23-36]]
+
+^<<v42-23-36,36>>^ Até mesmo os soldados se divertiam às custas dele, chegando-se perto e oferecendo-lhe vinho acre,
+
+[[v42-23-37]]
+
+^<<v42-23-37,37>>^ e dizendo: “Se tu és o rei dos judeus, salva-te.”
+
+[[v42-23-38]]
+
+^<<v42-23-38,38>>^ Havia também uma inscrição por cima dele:^&#42;1^ “Este é o rei dos judeus.”^&#42;2^
+
+[NOTE]
+====
+. Segundo P75BSyc,s; DVgSyp acrescentam: “(escrita) em letras gregas, e latinas, e hebraicas”, para concordar com Jo 19:20.
+. Lit.: “O rei dos judeus (é) este.” Gr.: Ho ba·si·leús ton I·ou·daí·on hoú·tos; lat.: hic est rex Iu·dae·ó·rum; J22(hebr.): zé·hu’ mé·lekh hai·Yehu·dhím.
+====
+
+[[v42-23-39]]
+
+^<<v42-23-39,39>>^ Mas, um dos malfeitores pendurados começou a dizer-lhe de modo ultrajante: “Não és tu o Cristo? Salva-te a ti mesmo e a nós.”
+
+[[v42-23-40]]
+
+^<<v42-23-40,40>>^ Em resposta, o outro o censurou e disse: “Não temes absolutamente a Deus, agora que estás no mesmo juízo?
+
+[[v42-23-41]]
+
+^<<v42-23-41,41>>^ E nós, deveras, com justiça, pois estamos recebendo plenamente o que merecemos pelas coisas que fizemos; mas este [homem] não fez nada fora de ordem.”
+
+[[v42-23-42]]
+
+^<<v42-23-42,42>>^ E ele prosseguiu a dizer: “Jesus, lembra-te de mim quando entrares no teu reino.”
+
+[[v42-23-43]]
+
+^<<v42-23-43,43>>^ E ele lhe disse: “Deveras, eu te digo hoje:^&#42;1^ Estarás comigo no Paraíso.”^&#42;2^
+
+[NOTE]
+====
+. “Hoje.” Embora WH coloque uma vírgula no texto grego antes da palavra “hoje”, nos mss. unciais gr. não se usavam vírgulas. Em harmonia com o contexto, omitimos a vírgula antes de “hoje”. Syc (do quinto séc. EC) verte este texto: “Amém, eu te digo hoje que comigo estarás no Jardim do Éden.” — F. C. Burkitt, The Curetonian Version of the Four Gospels, Vol. I, Cambridge, 1904.
+. “No Paraíso”, אABVgJ11,13,16; gr.: en toi pa·ra·deí·soi; J17,18,22(hebr.): beghan-‛É·dhen, “no jardim do Éden”. Veja Gên 2:8, 10, 15, 16, na LXX.
+====
+
+[[v42-23-44]]
+
+^<<v42-23-44,44>>^ Bem, era então já cerca da sexta hora, contudo, caiu escuridão sobre toda a terra, até à nona hora,^&#42;1^
+
+[NOTE]
+====
+. A “nona hora” seria por volta das 15 horas. A “sexta hora” seria por volta do meio-dia, contada desde o nascer do sol.
+====
+
+[[v42-23-45]]
+
+^<<v42-23-45,45>>^ porque a luz do sol falhou; a cortina do santuário^&#42;1^ rasgou-se então pelo meio.
+
+[NOTE]
+====
+. Ou “da habitação (morada) divina”. Gr.: tou na·oú; lat.: tém·pli; J17,18,22(hebr.): ha·heh·khál.
+====
+
+[[v42-23-46]]
+
+^<<v42-23-46,46>>^ E Jesus exclamou com voz alta e disse: “Pai, às tuas mãos confio o meu espírito.” Dizendo isso, expirou.
+
+[[v42-23-47]]
+
+^<<v42-23-47,47>>^ Vendo o que estava ocorrendo, o oficial do exército^&#42;1^ começou a glorificar a Deus, dizendo: “Realmente, este homem era justo.”
+
+[NOTE]
+====
+. Ou “centurião”; comandante de 100 soldados.
+====
+
+[[v42-23-48]]
+
+^<<v42-23-48,48>>^ E todas as multidões, ajuntadas ali para o espetáculo, ao observarem as coisas que ocorriam, começaram a voltar, batendo-se no peito.
+
+[[v42-23-49]]
+
+^<<v42-23-49,49>>^ Além disso, todos os conhecidos dele estavam parados [ali] à distância. Também mulheres, que juntas lhe tinham seguido desde a Galiléia, estavam paradas [ali] observando estas coisas.
+
+[[v42-23-50]]
+
+^<<v42-23-50,50>>^ E eis um homem de nome José, que era membro do Conselho,^&#42;1^ homem bom e justo —
+
+[NOTE]
+====
+. Ou “conselheiro; senador”. Gr.: bou·leu·tés.
+====
+
+[[v42-23-51]]
+
+^<<v42-23-51,51>>^ este [homem] não tinha votado em apoio do desígnio e da ação deles — ele era de Arimatéia, uma cidade dos da Judéia,^&#42;1^ e aguardava o reino de Deus;
+
+[NOTE]
+====
+. Ou “judeus”. Gr.: I·ou·daí·on.
+====
+
+[[v42-23-52]]
+
+^<<v42-23-52,52>>^ este [homem] foi a Pilatos e pediu o corpo de Jesus.
+
+[[v42-23-53]]
+
+^<<v42-23-53,53>>^ E ele o tirou e enrolou em linho fino, e o deitou num túmulo escavado na rocha, em que ainda ninguém tinha sido deitado.
+
+[[v42-23-54]]
+
+^<<v42-23-54,54>>^ Ora, era o dia da Preparação e aproximava-se a luz vespertina do sábado.^&#42;1^
+
+[NOTE]
+====
+. Ou “e o sábado estava chegando”.
+====
+
+[[v42-23-55]]
+
+^<<v42-23-55,55>>^ Mas as mulheres, que tinham vindo com ele desde a Galiléia, acompanhavam-no, e foram ver o túmulo memorial e como o corpo dele estava deitado;
+
+[[v42-23-56]]
+
+^<<v42-23-56,56>>^ e voltaram para preparar aromas e óleos perfumados. Mas, naturalmente, descansaram no sábado, segundo o mandamento.
+
+'''
+
+xref:042-lucas/042-lucas-022.adoc#v42-22-0[&#60; Capítulo Anterior] | <<v42-23-0,Topo>> | xref:042-lucas/042-lucas-024.adoc#v42-24-0[Próximo Capítulo &#62;]

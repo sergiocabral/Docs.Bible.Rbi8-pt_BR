@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v1-16-0]]
+=== Gênesis, 16
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-16-1]]
+
+^<<v1-16-1,1>>^ Ora, Sarai, esposa de Abrão, não lhe dera filhos; mas ela tinha uma serva egípcia, e o nome desta era Agar.
+
+[[v1-16-2]]
+
+^<<v1-16-2,2>>^ Portanto, Sarai disse a Abrão: “Por favor! Eis que Jeová me impediu de dar à luz filhos. Por favor, tem relações com a minha serva. Talvez eu obtenha filhos por meio dela.” Abrão escutou assim a voz de Sarai.
+
+[[v1-16-3]]
+
+^<<v1-16-3,3>>^ Sarai, esposa de Abrão, tomou então Agar, sua serva egípcia, ao fim de dez anos de morada de Abrão na terra de Canaã, e deu-a a Abrão, seu esposo, como esposa dele.
+
+[[v1-16-4]]
+
+^<<v1-16-4,4>>^ Concordemente, ele teve relações com Agar e ela ficou grávida. Quando ela se apercebeu de que estava grávida, então a sua senhora começou a ficar desprezada aos seus olhos.
+
+[[v1-16-5]]
+
+^<<v1-16-5,5>>^ Sarai disse então a Abrão: “Seja sobre ti a violência que se me faz. Eu mesma entreguei a minha serva ao teu colo e ela se apercebeu de que ficara grávida, e comecei a ser desprezada aos seus olhos. Julgue Jeová entre mim e ti.”^&#42;1^
+
+[NOTE]
+====
+. “E ti.” Lit.: “e entre ti”. Hebr.: u·veh·neí·kha. No M, a letra Iode foi assinalada com um ponto extraordinário pelos soferins (escribas), talvez para trazer à atenção a grafia. Veja Ap. 2A.
+====
+
+[[v1-16-6]]
+
+^<<v1-16-6,6>>^ Portanto, Abrão disse a Sarai: “Eis que a tua serva está à tua disposição. Faze com ela o que parece bem aos teus olhos.” Sarai começou então a humilhá-la,^&#42;1^ de modo que fugiu dela.
+
+[NOTE]
+====
+. Ou “afligi-la”.
+====
+
+[[v1-16-7]]
+
+^<<v1-16-7,7>>^ O anjo de Jeová^&#42;1^ encontrou-a mais tarde junto a uma fonte de águas no ermo, junto à fonte no caminho de Sur.
+
+[NOTE]
+====
+. “O anjo de Jeová.” Hebr.: mal·’ákh Yehwáh; é a primeira ocorrência desta expressão.
+====
+
+[[v1-16-8]]
+
+^<<v1-16-8,8>>^ E ele começou a dizer: “Agar, serva de Sarai, donde vieste e para onde vais?” A isso ela disse: “Ora, estou fugindo de Sarai, minha senhora.”
+
+[[v1-16-9]]
+
+^<<v1-16-9,9>>^ E o anjo de Jeová prosseguiu, dizendo-lhe: “Volta para tua senhora e humilha-te debaixo da sua mão.”
+
+[[v1-16-10]]
+
+^<<v1-16-10,10>>^ O anjo de Jeová disse-lhe então: “Multiplicarei grandemente a tua descendência, de modo que não será contada por causa da [sua] multidão.”
+
+[[v1-16-11]]
+
+^<<v1-16-11,11>>^ Outrossim, o anjo de Jeová acrescentou-lhe: “Eis que estás grávida e darás à luz um filho, e terás de chamá-lo pelo nome de Ismael;^&#42;1^ pois Jeová tem ouvido a tua tribulação.
+
+[NOTE]
+====
+. Significando “Deus Ouve”.
+====
+
+[[v1-16-12]]
+
+^<<v1-16-12,12>>^ Quanto a ele, tornar-se-á uma zebra^&#42;1^ de homem. Sua mão será contra todos e a mão de todos será contra ele; e residirá diante da face de todos os seus irmãos.”
+
+[NOTE]
+====
+. Ou “onagro”. Veja Jó 39:5.
+====
+
+[[v1-16-13]]
+
+^<<v1-16-13,13>>^ Ela começou então a chamar o nome de Jeová que lhe falava: “Tu és um Deus^&#42;1^ de vista”,^&#42;2^ pois ela disse: “Olhei aqui realmente^&#42;3^ para aquele^&#42;4^ que me vê?”
+
+[NOTE]
+====
+. Hebr.: ’El.
+. Ou “um Deus que me vê”; ou “um Deus que se deixa ver (que aparece)”.
+. Ou “também”.
+. “Olhei . . . para (lit.: após) aquele.” Quanto a esta versão, veja JTS, Vol. L, 1949, p. 179.
+====
+
+[[v1-16-14]]
+
+^<<v1-16-14,14>>^ É por isso que o poço foi chamado^&#42;1^ de Beer-Laai-Roi.^&#42;2^ Eis que está entre Cades e Berede.
+
+[NOTE]
+====
+. “É por isso que ela chamou o poço”, Sy.
+. Significando “Poço do Vivente Que me Vê”.
+====
+
+[[v1-16-15]]
+
+^<<v1-16-15,15>>^ Posteriormente, Agar deu à luz um filho a Abrão, e Abrão chamou seu filho, que Agar dera à luz, pelo nome de Ismael.
+
+[[v1-16-16]]
+
+^<<v1-16-16,16>>^ E Abrão tinha oitenta e seis anos de idade quando Agar deu à luz Ismael a Abrão.
+
+'''
+
+xref:001-genesis/001-genesis-015.adoc#v1-15-0[&#60; Capítulo Anterior] | <<v1-16-0,Topo>> | xref:001-genesis/001-genesis-017.adoc#v1-17-0[Próximo Capítulo &#62;]

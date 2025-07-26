@@ -1,0 +1,185 @@
+include::./index.adoc[]
+
+[[v18-37-0]]
+=== Jó, 37
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-37-1]]
+
+^<<v18-37-1,1>>^ “Deveras, por causa disso, meu coração começa a tremer
+E salta do seu lugar.
+
+[[v18-37-2]]
+
+^<<v18-37-2,2>>^ Escutai atentamente o ribombar da sua voz
+E o rosnar que lhe sai da boca.
+
+[[v18-37-3]]
+
+^<<v18-37-3,3>>^ Solta-o debaixo dos céus inteiros,
+E seu raio vai às extremidades^&#42;1^ da terra.
+
+[NOTE]
+====
+. Lit.: “asas”.
+====
+
+[[v18-37-4]]
+
+^<<v18-37-4,4>>^ Depois brame um som;
+Ele troveja com o som da sua superioridade,
+E não os refreia quando se ouve a sua voz.
+
+[[v18-37-5]]
+
+^<<v18-37-5,5>>^ Deus^&#42;1^ troveja com a sua voz de modo maravilhoso,
+Fazendo grandes coisas que não podemos saber.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v18-37-6]]
+
+^<<v18-37-6,6>>^ Porque ele diz à neve: ‘Cai para a terra’,
+E [à] precipitação da chuva, sim, [à] precipitação das suas fortes chuvas.
+
+[[v18-37-7]]
+
+^<<v18-37-7,7>>^ Apõe um selo à mão de todo homem terreno,
+Para que cada mortal conheça o seu trabalho.
+
+[[v18-37-8]]
+
+^<<v18-37-8,8>>^ E a fera entra na emboscada
+E mora nos seus esconderijos.
+
+[[v18-37-9]]
+
+^<<v18-37-9,9>>^ Do quarto interior vem o tufão
+E dos ventos do norte, o frio.
+
+[[v18-37-10]]
+
+^<<v18-37-10,10>>^ Pelo fôlego de Deus^&#42;1^ se dá o gelo,
+E a largura das águas fica sob aperto.^&#42;2^
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+. Ou “está congelada”.
+====
+
+[[v18-37-11]]
+
+^<<v18-37-11,11>>^ Sim, carrega de umidade a nuvem,
+Sua luz espalha a massa de nuvens,
+
+[[v18-37-12]]
+
+^<<v18-37-12,12>>^ E ela está sendo revolvida por ele [dar-lhes] diretrizes para a sua atuação
+Aonde quer que as ordene sobre a face do solo produtivo^&#42;1^ da terra.
+
+[NOTE]
+====
+. “Solo produtivo da”, M(hebr.: the·vél)T; lat.: ór·bis, “círculo”, isto é, da terra.
+====
+
+[[v18-37-13]]
+
+^<<v18-37-13,13>>^ Quer para uma vara,^&#42;1^ quer para a sua terra,
+Quer por benevolência,^&#42;2^ ele a faz produzir resultados.
+
+[NOTE]
+====
+. Simbolizando correção ou castigo.
+. Ou “amor leal”.
+====
+
+[[v18-37-14]]
+
+^<<v18-37-14,14>>^ Dá deveras ouvidos a isto, ó Jó;
+Fica parado e mostra-te atento às obras maravilhosas de Deus.
+
+[[v18-37-15]]
+
+^<<v18-37-15,15>>^ Sabes quando Deus^&#42;1^ lhes impôs uma ordenança
+E quando fez a luz da sua nuvem reluzir?
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elóh·ah.
+====
+
+[[v18-37-16]]
+
+^<<v18-37-16,16>>^ Conheces os pairos da nuvem,
+As obras maravilhosas Daquele que é perfeito em conhecimento?
+
+[[v18-37-17]]
+
+^<<v18-37-17,17>>^ Como é que as tuas vestes estão quentes
+Quando a terra mostra ter sossego^&#42;1^ do sul?
+
+[NOTE]
+====
+. Ou “quando a terra sossega”.
+====
+
+[[v18-37-18]]
+
+^<<v18-37-18,18>>^ Podes junto com ele achatar o céu nublado,
+Duro como um espelho fundido?
+
+[[v18-37-19]]
+
+^<<v18-37-19,19>>^ Deixa-nos saber o que lhe devemos dizer;
+Não podemos produzir [palavras] por causa da escuridão.
+
+[[v18-37-20]]
+
+^<<v18-37-20,20>>^ Deve-se relatar-lhe que eu falaria?
+Ou disse algum homem que isso seria transmitido?
+
+[[v18-37-21]]
+
+^<<v18-37-21,21>>^ E agora, eles realmente não vêem a luz;
+Ela está brilhando no céu nublado
+Quando o próprio vento^&#42;1^ passou e procedeu a limpá-lo.
+
+[NOTE]
+====
+. “Quando o . . . vento.” Hebr.: werú·ahh. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v18-37-22]]
+
+^<<v18-37-22,22>>^ Do norte vem resplendor dourado.^&#42;1^
+Em Deus,^&#42;2^ a dignidade é atemorizante.
+
+[NOTE]
+====
+. Lit.: “ouro”. Hebr.: za·háv.
+. “Deus.” Hebr.: ’Elóh·ah.
+====
+
+[[v18-37-23]]
+
+^<<v18-37-23,23>>^ Quanto ao Todo-poderoso, não o descobrimos;
+Ele é sublime em poder,
+E não depreciará o juízo e a abundância da justiça.
+
+[[v18-37-24]]
+
+^<<v18-37-24,24>>^ Portanto, temam-no os homens.^&#42;1^
+Ele não considera a nenhuns que sejam sábios no [seu próprio] coração.”
+
+[NOTE]
+====
+. “Homens.” Hebr.: ’ana·shím, pl. de ’ish.
+====
+
+'''
+
+xref:018-jo/018-jo-036.adoc#v18-36-0[&#60; Capítulo Anterior] | <<v18-37-0,Topo>> | xref:018-jo/018-jo-038.adoc#v18-38-0[Próximo Capítulo &#62;]

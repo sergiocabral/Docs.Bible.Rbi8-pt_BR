@@ -1,0 +1,47 @@
+include::./index.adoc[]
+
+[[v19-67-0]]
+=== Salmos, 67
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, em instrumentos de cordas. Uma melodia, um cântico._
+
+[[v19-67-1]]
+
+^<<v19-67-1,1>>^ O próprio Deus nos mostrará favor e nos abençoará;
+Fará luzir sua face sobre nós — Selá —
+
+[[v19-67-2]]
+
+^<<v19-67-2,2>>^ Para que teu caminho se torne conhecido na terra,
+Tua salvação mesmo entre todas as nações.
+
+[[v19-67-3]]
+
+^<<v19-67-3,3>>^ Elogiem-te os povos, ó Deus;
+Elogiem-te os povos, todos eles.
+
+[[v19-67-4]]
+
+^<<v19-67-4,4>>^ Alegrem-se e gritem de júbilo os grupos nacionais,
+Pois julgarás os povos com retidão;
+E quanto aos grupos nacionais na terra, tu os guiarás. Selá.
+
+[[v19-67-5]]
+
+^<<v19-67-5,5>>^ Elogiem-te os povos, ó Deus;
+Elogiem-te os povos, todos eles.
+
+[[v19-67-6]]
+
+^<<v19-67-6,6>>^ A própria terra dará certamente a sua produção;
+Deus, nosso Deus, nos abençoará.
+
+[[v19-67-7]]
+
+^<<v19-67-7,7>>^ Deus nos abençoará,
+E todos os confins da terra o temerão.
+
+'''
+
+xref:019-salmo/019-salmo-066.adoc#v19-66-0[&#60; Capítulo Anterior] | <<v19-67-0,Topo>> | xref:019-salmo/019-salmo-068.adoc#v19-68-0[Próximo Capítulo &#62;]

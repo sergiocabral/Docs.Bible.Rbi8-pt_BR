@@ -1,0 +1,176 @@
+include::./index.adoc[]
+
+[[v1-10-0]]
+=== Gênesis, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-10-1]]
+
+^<<v1-10-1,1>>^ E esta é a história dos filhos de Noé: Sem, Cã e Jafé.
+Começaram então a nascer-lhes filhos depois do dilúvio.
+
+[[v1-10-2]]
+
+^<<v1-10-2,2>>^ Os filhos de Jafé foram Gômer, e Magogue, e Madai, e Javã, e Tubal, e Meseque, e Tiras.
+
+[[v1-10-3]]
+
+^<<v1-10-3,3>>^ E os filhos de Gômer foram Asquenaz, e Rifá, e Togarma.
+
+[[v1-10-4]]
+
+^<<v1-10-4,4>>^ E os filhos de Javã foram Elisá e Társis, Quitim e Dodanim.^&#42;1^
+
+[NOTE]
+====
+. “Rodanim”, SamLXX. Veja 1Cr 1:7 n.: “Rodanim.”
+====
+
+[[v1-10-5]]
+
+^<<v1-10-5,5>>^ Destes se espalhou a população das ilhas^&#42;1^ das nações pelas suas terras, cada um segundo a sua língua, segundo as suas famílias, pelas suas nações.
+
+[NOTE]
+====
+. Lit.: “Destes, as ilhas (os litorais).”
+====
+
+[[v1-10-6]]
+
+^<<v1-10-6,6>>^ E os filhos de Cã foram Cus, e Mizraim, e Pute, e Canaã.
+
+[[v1-10-7]]
+
+^<<v1-10-7,7>>^ E os filhos de Cus foram Sebá, e Havilá, e Sabtá, e Raamá, e Sabteca.
+E os filhos de Raamá foram Sabá e Dedã.
+
+[[v1-10-8]]
+
+^<<v1-10-8,8>>^ E Cus tornou-se pai de Ninrode. Ele principiou a tornar-se poderoso^&#42;1^ na terra.
+
+[NOTE]
+====
+. “Poderoso.” Hebr.: gib·bór. Esta palavra ocorre pela primeira vez em 6:4, daí neste v., e depois duas vezes no v. 9.
+====
+
+[[v1-10-9]]
+
+^<<v1-10-9,9>>^ Apresentou-se como poderoso caçador^&#42;1^ em oposição a Jeová. É por isso que há um ditado: “Igual a Ninrode, poderoso caçador em oposição a^&#42;2^ Jeová.”
+
+[NOTE]
+====
+. Lit.: “poderoso na caça”.
+. Lit.: “diante de”, mas no sentido de desafio e oposição a, como no caso da mesma expressão em Núm 16:2; Jos 7:12, 13; 1Cr 14:8; 2Cr 14:10; Jó 23:4. Hebr.: lif·néh; gr.: e·nan·tí·on, em geral: “contra”.
+====
+
+[[v1-10-10]]
+
+^<<v1-10-10,10>>^ E o princípio do seu reino veio a ser Babel,^&#42;1^ e Ereque, e Acade, e Calné, na terra de Sinear.
+
+[NOTE]
+====
+. “Babel”, MSamSy; LXXVg: “Babilônia.”
+====
+
+[[v1-10-11]]
+
+^<<v1-10-11,11>>^ Daquela terra saiu para a Assíria e pôs-se a construir Nínive, e Reobote-Ir, e Calá,
+
+[[v1-10-12]]
+
+^<<v1-10-12,12>>^ e Resem, entre Nínive e Calá: esta é a grande cidade.
+
+[[v1-10-13]]
+
+^<<v1-10-13,13>>^ E Mizraim tornou-se pai de Ludim, e Anamim, e Leabim, e Naftuim,
+
+[[v1-10-14]]
+
+^<<v1-10-14,14>>^ e Patrusim, e Casluim (de quem procederam os filisteus), e Caftorim.
+
+[[v1-10-15]]
+
+^<<v1-10-15,15>>^ E Canaã tornou-se pai de Sídon, seu primogênito, e de Hete,
+
+[[v1-10-16]]
+
+^<<v1-10-16,16>>^ e do jebuseu, e do amorreu, e do girgaseu,
+
+[[v1-10-17]]
+
+^<<v1-10-17,17>>^ e do heveu, e do arqueu, e do sineu,
+
+[[v1-10-18]]
+
+^<<v1-10-18,18>>^ e do arvadeu, e do zemareu, e do hamateu; e depois se espalharam as famílias dos cananeus.
+
+[[v1-10-19]]
+
+^<<v1-10-19,19>>^ Assim, o termo do cananeu veio a ser desde Sídon até Gerar, perto de Gaza, até Sodoma e Gomorra, e Admá, e Zeboim, perto de Lasa.^&#42;1^
+
+[NOTE]
+====
+. “Lasa”, tradicionalmente identificada como Calírroe, na margem oriental do Mar Morto.
+====
+
+[[v1-10-20]]
+
+^<<v1-10-20,20>>^ Estes foram os filhos de Cã segundo as suas famílias, segundo as suas línguas, nas suas terras, pelas suas nações.
+
+[[v1-10-21]]
+
+^<<v1-10-21,21>>^ E a Sem, antepassado de todos os filhos de Éber, irmão de Jafé, o mais velho, também nasceu progênie.
+
+[[v1-10-22]]
+
+^<<v1-10-22,22>>^ Os filhos de Sem foram Elão, e Assur, e Arpaxade, e Lude, e Arã.
+
+[[v1-10-23]]
+
+^<<v1-10-23,23>>^ E os filhos de Arã foram Uz, e Hul, e Géter, e Más.
+
+[[v1-10-24]]
+
+^<<v1-10-24,24>>^ E Arpaxade tornou-se pai de Selá, e Selá tornou-se pai de Éber.
+
+[[v1-10-25]]
+
+^<<v1-10-25,25>>^ E a Éber nasceram dois filhos. O nome de um foi Pelegue,^&#42;1^ porque nos seus dias foi dividida a terra;^&#42;2^ e o nome de seu irmão foi Joctã.
+
+[NOTE]
+====
+. Significando “Divisão; Corrente (Curso de Água)”.
+. Ou “a população da terra”.
+====
+
+[[v1-10-26]]
+
+^<<v1-10-26,26>>^ E Joctã tornou-se pai de Almodade, e Selefe, e Hazarmavete, e Jerá,
+
+[[v1-10-27]]
+
+^<<v1-10-27,27>>^ e Hadorão, e Uzal, e Dicla,
+
+[[v1-10-28]]
+
+^<<v1-10-28,28>>^ e Obal, e Abimael, e Sabá,
+
+[[v1-10-29]]
+
+^<<v1-10-29,29>>^ e Ofir, e Havilá, e Jobabe; todos estes foram os filhos de Joctã.
+
+[[v1-10-30]]
+
+^<<v1-10-30,30>>^ E seu lugar de morada veio a estender-se desde Mesa até Sefar, a região montanhosa do Oriente.
+
+[[v1-10-31]]
+
+^<<v1-10-31,31>>^ Estes foram os filhos de Sem segundo as suas famílias, segundo as suas línguas, nas suas terras, segundo as suas nações.
+
+[[v1-10-32]]
+
+^<<v1-10-32,32>>^ Estas foram as famílias dos filhos de Noé, segundo as suas linhagens, pelas suas nações, e destas é que as nações se espalharam pela terra, depois do dilúvio.
+
+'''
+
+xref:001-genesis/001-genesis-009.adoc#v1-9-0[&#60; Capítulo Anterior] | <<v1-10-0,Topo>> | xref:001-genesis/001-genesis-011.adoc#v1-11-0[Próximo Capítulo &#62;]

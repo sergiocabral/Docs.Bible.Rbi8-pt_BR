@@ -1,0 +1,320 @@
+include::./index.adoc[]
+
+[[v9-2-0]]
+=== 1 Samuel, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-2-1]]
+
+^<<v9-2-1,1>>^ E Ana prosseguiu, orando e dizendo:
+“Meu coração se regozija com Jeová.
+Meu chifre está deveras exaltado em Jeová.^&#42;1^
+Minha boca se alargou contra os meus inimigos,
+Pois, alegro-me na salvação [vinda] de ti.
+
+[NOTE]
+====
+. “Em Jeová”, MVg; LXX e 27 mss. hebr.: “em meu Deus”.
+====
+
+[[v9-2-2]]
+
+^<<v9-2-2,2>>^ Ninguém é santo como Jeová, pois não há outro além de ti;
+E não há rocha igual ao nosso Deus.^&#42;1^
+
+[NOTE]
+====
+. “Igual ao nosso Deus.” Hebr.: kE’·lo·héh·nu; gr.: The·ós; lat.: Dé·us.
+====
+
+[[v9-2-3]]
+
+^<<v9-2-3,3>>^ Não faleis tanto com muita soberba,
+Nada saia irrestrito da vossa boca,
+Porque Jeová é Deus^&#42;1^ de conhecimento,
+E por ele^&#42;2^ são avaliados corretamente os atos.
+
+[NOTE]
+====
+. “Deus de.” Hebr.: ’El; gr.: The·ós; lat.: Dé·us.
+. “Por ele”, MmargemVg e muitos mss. hebr.
+====
+
+[[v9-2-4]]
+
+^<<v9-2-4,4>>^ Os poderosos do arco estão^&#42;1^ cheios de terror,
+Mas os que tropeçam^&#42;2^ se cingem deveras de energia vital.
+
+[NOTE]
+====
+. Lit.: “O arco de poderosos é.”
+. Ou “que estão para tropeçar”.
+====
+
+[[v9-2-5]]
+
+^<<v9-2-5,5>>^ Os saciados têm de alugar-se por pão,
+Mas os famintos realmente cessarão [de ter fome].
+Até mesmo^&#42;1^ a estéril tem dado à luz sete [filhos],
+Mas aquela que era abundante em filhos se definhou.
+
+[NOTE]
+====
+. Lit.: “cessarão. Até mesmo”. Mediante uma ligeira emenda do M: “cessarão de servir (trabalhar como escravos)”.
+====
+
+[[v9-2-6]]
+
+^<<v9-2-6,6>>^ Jeová é Quem faz morrer e Quem preserva a vida,^&#42;1^
+Quem faz descer ao Seol,^&#42;2^ e Ele faz subir.
+
+[NOTE]
+====
+. “E Quem preserva a vida.” Ou “e Revivificador”. Hebr.: u·mehhai·yéh; lat.: vi·ví·fi·cat.
+. A sepultura comum da humanidade. Gr.: haí·dou; sir.: la·shiul; lat.: in·fér·num. Veja Ap. 4B.
+====
+
+[[v9-2-7]]
+
+^<<v9-2-7,7>>^ Jeová é Quem faz empobrecer e Quem faz enriquecer,
+Quem rebaixa, também Quem exalta,
+
+[[v9-2-8]]
+
+^<<v9-2-8,8>>^ Quem levanta do pó o de condição humilde;
+Da cova de cinzas ergue o pobre,
+Para fazê-los sentar-se com os nobres; e dá-lhes por posse um trono de glória.
+Pois a Jeová pertencem os sustentáculos da terra,
+E põe sobre eles o solo produtivo.^&#42;1^
+
+[NOTE]
+====
+. “O solo produtivo”, MSy; lat.: ór·bem, “o círculo”, isto é, da terra.
+====
+
+[[v9-2-9]]
+
+^<<v9-2-9,9>>^ Resguarda os pés dos que lhe são leais;^&#42;1^
+Quanto aos iníquos, são silenciados na escuridão,
+Pois não é pelo poder que o homem^&#42;2^ se mostra superior.
+
+[NOTE]
+====
+. Ou “dos seus homens de amor leal”.
+. “Homem.” Hebr.: ’ish; gr.: a·nér; lat.: vir.
+====
+
+[[v9-2-10]]
+
+^<<v9-2-10,10>>^ Quanto a Jeová, os que contendem com ele ficarão aterrorizados;
+Trovejará contra eles^&#42;1^ nos céus.
+O próprio Jeová julgará os confins da terra,
+Para dar força ao seu rei,
+Para exaltar o chifre do seu ungido.”^&#42;2^
+
+[NOTE]
+====
+. “Eles”, SyVg; M: “ele”, isto é, cada membro da classe em contenda com ele.
+. “Seu ungido (messias).” Hebr.: meshí·hhóh; gr.: khri·stoú; sir.: dam·shi·hheh; lat.: chrí·sti.
+====
+
+[[v9-2-11]]
+
+^<<v9-2-11,11>>^ Elcana foi então para Ramá, para a sua casa;^&#42;1^ e quanto ao rapazinho, tornou-se ministro^&#42;2^ de Jeová perante Eli, o sacerdote.
+
+[NOTE]
+====
+. “Elcana . . . casa”, MVg; LXXB: “E ela o deixou ali perante Jeová e foi para Armataim.”
+. Ou “ajudante”. Hebr.: mesha·réth; gr.: lei·tour·gón, “servidor público”; lat.: mi·ní·ster.
+====
+
+[[v9-2-12]]
+
+^<<v9-2-12,12>>^ Ora, os filhos de Eli eram homens imprestáveis;^&#42;1^ não reconheciam a Jeová.
+
+[NOTE]
+====
+. Lit.: “filhos de belial (inutilidade)”.
+====
+
+[[v9-2-13]]
+
+^<<v9-2-13,13>>^ Quanto à prerrogativa legítima dos sacerdotes da parte do^&#42;1^ povo, sempre que um homem oferecia um sacrifício, vinha um ajudante do sacerdote com o garfo de três pontas na sua mão, justamente quando se cozinhava a carne,
+
+[NOTE]
+====
+. “Da parte do”, TLXXSy e alguns mss. hebr.; M: “com o”. Veja De 18:3.
+====
+
+[[v9-2-14]]
+
+^<<v9-2-14,14>>^ e metia-o na bacia, ou na caldeira de duas asas, ou no caldeirão, ou na caçarola. Tudo o que o garfo tirava, o sacerdote tomava para si.^&#42;1^ Era assim que faziam em Silo a todos os israelitas que vinham para lá.^&#42;2^
+
+[NOTE]
+====
+. “Para si”, LXXSyVg; M: “nele (com ele)”.
+. “Para lá”, MSy; LXX: “para sacrificar a Jeová”.
+====
+
+[[v9-2-15]]
+
+^<<v9-2-15,15>>^ Também, antes mesmo de poderem fazer fumegar a gordura, vinha o ajudante do sacerdote e dizia ao homem que oferecia o sacrifício: “Dá-me carne para assar, para o sacerdote, para que não receba de ti carne cozida, senão crua.”
+
+[[v9-2-16]]
+
+^<<v9-2-16,16>>^ Quando o homem lhe dizia: “Que estejam bem certos de primeiro fazerem fumegar a gordura. Depois toma para ti o que for que a tua alma almejar”, ele realmente dizia: “Não,^&#42;1^ porém deves dá-la agora; e, se não, terei de tomá-la à força!”
+
+[NOTE]
+====
+. “Não”, MmargemLXX e 20 mss. hebr.; M: “a ele”; SyVg: “a ele. Não.”
+====
+
+[[v9-2-17]]
+
+^<<v9-2-17,17>>^ E o pecado dos ajudantes^&#42;1^ veio a ser muito grande perante Jeová; pois os homens tratavam a oferta de Jeová com desrespeito.
+
+[NOTE]
+====
+. Ou “moços”.
+====
+
+[[v9-2-18]]
+
+^<<v9-2-18,18>>^ E Samuel, como rapazinho, ministrava perante Jeová, estando cingido dum éfode de linho.
+
+[[v9-2-19]]
+
+^<<v9-2-19,19>>^ Sua mãe fazia-lhe também uma pequena túnica sem mangas e lha trazia de ano em ano quando subia com seu esposo para oferecer o sacrifício anual.
+
+[[v9-2-20]]
+
+^<<v9-2-20,20>>^ E Eli abençoou a Elcana e sua esposa e disse: “Jeová te designe descendência desta esposa em lugar do que foi emprestado, que foi emprestado a Jeová.”^&#42;1^ E eles foram para o seu lugar.^&#42;2^
+
+[NOTE]
+====
+. Ou “que Jeová pediu (tomou emprestado)”, pela omissão da preposição hebr. para “a”; M tem sinais vocálicos para rezar: “que ele pediu (tomou emprestado) para Jeová”.
+. “Seu lugar”, isto é, o lugar deles, pl., Sy e 12 mss. hebr.; M: “o lugar dele”.
+====
+
+[[v9-2-21]]
+
+^<<v9-2-21,21>>^ Conseqüentemente, Jeová voltou sua atenção para Ana, de modo que ficou grávida, e ela deu à luz^&#42;1^ três filhos e duas filhas. E o rapaz Samuel continuava a crescer com Jeová.
+
+[NOTE]
+====
+. “De modo que ainda deu à luz a”, LXX.
+====
+
+[[v9-2-22]]
+
+^<<v9-2-22,22>>^ E Eli era muito velho, e ele ouvira [falar] de tudo o que seus filhos faziam a todo o Israel e como se deitavam com as mulheres que prestavam serviço^&#42;1^ à entrada da tenda de reunião.^&#42;2^
+
+[NOTE]
+====
+. “Que prestavam serviço.” Hebr.: hats·tso·ve’·óhth. Este verbo costuma ser usado para serviço militar, sugerindo um serviço organizado em grupos, para essas mulheres.
+. “E como se . . . tenda de reunião”, M; LXX omite isso.
+====
+
+[[v9-2-23]]
+
+^<<v9-2-23,23>>^ E ele costumava dizer-lhes: “Por que continuais a fazer tais coisas? Pois são más as coisas que ouço acerca de vós de todo o povo.^&#42;1^
+
+[NOTE]
+====
+. M acrescenta “sim, estas [palavras]”, mas parece tratar-se de ditografia.
+====
+
+[[v9-2-24]]
+
+^<<v9-2-24,24>>^ Não, meus filhos, porque não é boa a notícia que ouço, que o povo de Jeová está fazendo circular.
+
+[[v9-2-25]]
+
+^<<v9-2-25,25>>^ Se um homem pecar contra um homem, Deus arbitrará por ele; mas se o homem pecar contra Jeová, quem é que vai orar por ele?” Mas eles não queriam escutar a voz de seu pai, porque Jeová se agradava agora de entregá-los à morte.
+
+[[v9-2-26]]
+
+^<<v9-2-26,26>>^ Enquanto isso, o rapaz Samuel ficava cada vez mais crescido e mais benquisto,^&#42;1^ tanto do ponto de vista de Jeová como do dos homens.
+
+[NOTE]
+====
+. Ou “e melhor”.
+====
+
+[[v9-2-27]]
+
+^<<v9-2-27,27>>^ E passou a vir um homem de Deus^&#42;1^ a Eli e a dizer-lhe: “Assim disse Jeová: ‘Não me revelei deveras à casa de teu antepassado, enquanto vieram a estar no Egito como escravos^&#42;2^ da casa de Faraó?
+
+[NOTE]
+====
+. “Um homem de Deus.” Hebr.: ’ish·’Elo·hím.
+. “Como escravos”, LXX; MSyVg omitem isso.
+====
+
+[[v9-2-28]]
+
+^<<v9-2-28,28>>^ E fez-se escolha^&#42;1^ dele para mim dentre todas as tribos de Israel, a fim de que atuasse como sacerdote^&#42;2^ e subisse ao meu altar para fazer subir a fumaça sacrificial,^&#42;3^ para usar um éfode diante de mim, a fim de que eu desse à casa de teu antepassado todas as ofertas feitas por fogo dos filhos de Israel.
+
+[NOTE]
+====
+. “Fez-se escolha.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+. “Para mim . . . a fim de que atuasse como sacerdote”, LXX; MSyVg: “para mim . . . como sacerdote”.
+. Ou “para fazer incenso fumegar”.
+====
+
+[[v9-2-29]]
+
+^<<v9-2-29,29>>^ Por que dais pontapés no meu sacrifício e na minha oferta que ordenei [na minha] habitação,^&#42;1^ e tu persistes em honrar mais a teus filhos do que a mim, cevando a vós mesmos^&#42;2^ com o melhor de toda oferta de Israel, meu povo?^&#42;3^
+
+[NOTE]
+====
+. “[Na minha] habitação.” M usa aqui “habitação” na forma absoluta, sem modificadores.
+. “Vós mesmos”, M; T: “eles”.
+. “Meu povo.” Possivelmente, mediante uma emenda: “em plena vista [diante] de mim”, para concordar com LXX.
+====
+
+[[v9-2-30]]
+
+^<<v9-2-30,30>>^ “‘Por isso é assim a pronunciação de Jeová, o Deus de Israel: “De fato, eu disse: Quanto à tua casa e à casa de teu antepassado, andarão diante de mim por tempo indefinido.” Mas agora a pronunciação de Jeová é: “É inconcebível, da minha parte, porque honrarei os que me honrarem, e os que me desprezarem serão tidos em pouca conta.”
+
+[[v9-2-31]]
+
+^<<v9-2-31,31>>^ Eis que vêm dias em que hei de cortar teu braço e o braço da casa de teu antepassado, de modo que não chegará a haver homem idoso na tua casa.
+
+[[v9-2-32]]
+
+^<<v9-2-32,32>>^ E estarás realmente olhando para um adversário [na minha] habitação, no meio de todo o bem que se faz a Israel; e nunca chegará a haver um homem idoso na tua casa.
+
+[[v9-2-33]]
+
+^<<v9-2-33,33>>^ Contudo, há um homem teu que não deceparei de estar junto ao meu altar para fazer os teus^&#42;1^ olhos falhar e para fazer a tua^&#42;2^ alma consumir-se; mas o maior número da tua casa morrerão todos pela espada dos homens.^&#42;3^
+
+[NOTE]
+====
+. “Teus”, MSyVg; LXX: “seus”.
+. “Tua”, MSyVg; LXX: “sua”. LXX refere-se evidentemente a Abiatar, descendente de Eli.
+. “Morrerão . . . pela espada dos homens”, LXX; MSy: “morrerão como homens”.
+====
+
+[[v9-2-34]]
+
+^<<v9-2-34,34>>^ E este é para ti o sinal que sobrevirá aos teus dois filhos, Hofni e Finéias: Ambos morrerão num só dia.
+
+[[v9-2-35]]
+
+^<<v9-2-35,35>>^ E certamente suscitarei para mim um sacerdote fiel. Ele procederá em harmonia com o que está no meu coração e na minha alma; e hei de edificar-lhe uma casa duradoura,^&#42;1^ e ele há de andar perante o meu ungido^&#42;2^ para sempre.^&#42;3^
+
+[NOTE]
+====
+. Ou “fiel; firmemente estabelecida”.
+. “Meu ungido.” Hebr.: meshi·hhí; gr.: Khri·stoú; sir.: meshi·hhai; lat.: chrí·sto.
+. Lit.: “todos os dias”.
+====
+
+[[v9-2-36]]
+
+^<<v9-2-36,36>>^ E tem de suceder que aquele que sobrar na tua casa virá e se curvará diante dele para [obter] pagamento de dinheiro e um pão redondo, e há de dizer: “Por favor, agrega-me a um dos cargos sacerdotais, para comer um pedaço de pão.”’”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-001.adoc#v9-1-0[&#60; Capítulo Anterior] | <<v9-2-0,Topo>> | xref:009-1-samuel/009-1-samuel-003.adoc#v9-3-0[Próximo Capítulo &#62;]

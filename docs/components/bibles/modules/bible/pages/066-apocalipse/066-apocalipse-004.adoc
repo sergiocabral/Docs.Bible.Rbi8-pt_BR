@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v66-4-0]]
+=== Apocalipse, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v66-4-1]]
+
+^<<v66-4-1,1>>^ Depois destas coisas vi, e eis uma porta aberta no céu, e a primeira voz que ouvi era como a duma trombeta, falando comigo [e] dizendo: “Sobe para cá e eu te mostrarei as coisas que têm de ocorrer.”
+
+[[v66-4-2]]
+
+^<<v66-4-2,2>>^ Depois destas coisas vim a estar imediatamente no [poder do] espírito: e eis que havia um trono na sua posição no céu, e havia alguém sentado no trono.
+
+[[v66-4-3]]
+
+^<<v66-4-3,3>>^ E o sentado é, em aparência, semelhante à pedra de jaspe e a uma pedra preciosa de cor vermelha,^&#42;1^ e ao redor do trono [há] um arco-íris, em aparência semelhante à esmeralda.
+
+[NOTE]
+====
+. Ou “um sárdio [ou: pedra de Sardes]”.
+====
+
+[[v66-4-4]]
+
+^<<v66-4-4,4>>^ E ao redor do trono [há] vinte e quatro tronos, e nestes tronos [vi] sentados vinte e quatro anciãos,^&#42;1^ trajados de roupas exteriores brancas, e nas suas cabeças coroas de ouro.
+
+[NOTE]
+====
+. “Anciãos.” Gr.: pre·sby·té·rous.
+====
+
+[[v66-4-5]]
+
+^<<v66-4-5,5>>^ E do trono procedem relâmpagos, e vozes, e trovões; e [há] sete lâmpadas de fogo acesas diante do trono, e estas significam^&#42;1^ os sete espíritos de Deus.
+
+[NOTE]
+====
+. Lit.: “são”.
+====
+
+[[v66-4-6]]
+
+^<<v66-4-6,6>>^ E diante do trono há como que um mar vítreo, semelhante a cristal.
+E no meio do trono e em volta do trono [há] quatro criaturas viventes, cheias de olhos na frente e atrás.
+
+[[v66-4-7]]
+
+^<<v66-4-7,7>>^ E a primeira criatura vivente é semelhante a um leão, e a segunda criatura vivente é semelhante a um novilho, e a terceira criatura vivente tem rosto semelhante ao de homem, e a quarta criatura vivente é semelhante a uma águia voando.
+
+[[v66-4-8]]
+
+^<<v66-4-8,8>>^ E quanto às quatro criaturas viventes, cada uma delas, respectivamente, tem seis asas; ao redor e por baixo^&#42;1^ estão cheias de olhos. E elas não têm descanso, dia e noite, ao dizerem: “Santo, santo, santo^&#42;2^ é Jeová^&#42;3^ Deus, o Todo-poderoso,^&#42;4^ que era, e que é, e que vem.”
+
+[NOTE]
+====
+. Ou “dentro”.
+. “Santo, santo, santo”, AVgSyh; א° reza “santo” oito vezes. Veja Ap. 1J.
+. Veja Ap. 1D.
+. Veja 1:8 n: “Todo-poderoso.”
+====
+
+[[v66-4-9]]
+
+^<<v66-4-9,9>>^ E sempre que as criaturas viventes dão glória, e honra, e agradecimento Ao que está sentado no trono, Aquele que vive para todo o sempre,
+
+[[v66-4-10]]
+
+^<<v66-4-10,10>>^ os vinte e quatro anciãos^&#42;1^ prostram-se diante Daquele que está sentado no trono e adoram Aquele que vive para todo o sempre, e lançam as suas coroas diante do trono, dizendo:
+
+[NOTE]
+====
+. “Anciãos.” Gr.: pre·sbý·te·roi.
+====
+
+[[v66-4-11]]
+
+^<<v66-4-11,11>>^ “Digno és, Jeová,^&#42;1^ sim, nosso Deus, de receber a glória, e a honra, e o poder, porque criaste todas as coisas e porque elas existiram e foram criadas por tua vontade.”
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+'''
+
+xref:066-apocalipse/066-apocalipse-003.adoc#v66-3-0[&#60; Capítulo Anterior] | <<v66-4-0,Topo>> | xref:066-apocalipse/066-apocalipse-005.adoc#v66-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v25-5-0]]
+=== Lamentações, 5
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v25-5-1]]
+
+^<<v25-5-1,1>>^ ^&#42;1^ Lembra-te, ó Jeová, do que nos aconteceu. Olha deveras e vê o nosso vitupério.
+
+[NOTE]
+====
+. Este capítulo não está em ordem alfabética acróstica como cada um dos quatro capítulos precedentes, mas tem 22 vv. para corresponder às 22 letras do alfabeto hebr.
+====
+
+[[v25-5-2]]
+
+^<<v25-5-2,2>>^ A nossa própria possessão hereditária foi entregue a estranhos, nossas casas, a estrangeiros.
+
+[[v25-5-3]]
+
+^<<v25-5-3,3>>^ Tornamo-nos meros órfãos sem pai. Nossas mães são como viúvas.
+
+[[v25-5-4]]
+
+^<<v25-5-4,4>>^ Por dinheiro^&#42;1^ é que tivemos de beber a nossa própria água. Por um preço é que entra a nossa própria lenha.
+
+[NOTE]
+====
+. Ou “prata”.
+====
+
+[[v25-5-5]]
+
+^<<v25-5-5,5>>^ Fomos perseguidos perto dos nossos pescoços. Fatigamo-nos. Não se nos deixou descansar.
+
+[[v25-5-6]]
+
+^<<v25-5-6,6>>^ Demos a mão ao Egito; à Assíria, a fim de fartar-nos de pão.
+
+[[v25-5-7]]
+
+^<<v25-5-7,7>>^ Nossos antepassados foram os que pecaram. Não existem mais. Quanto a nós, são os erros deles que tivemos de levar.
+
+[[v25-5-8]]
+
+^<<v25-5-8,8>>^ Meros servos nos governaram. Não há quem nos arranque da sua mão.
+
+[[v25-5-9]]
+
+^<<v25-5-9,9>>^ Ao risco de nossa alma trazemos o nosso pão para dentro, por causa da espada do ermo.
+
+[[v25-5-10]]
+
+^<<v25-5-10,10>>^ Nossa própria pele ficou quente igual a um forno, por causa da agonia da fome.
+
+[[v25-5-11]]
+
+^<<v25-5-11,11>>^ Humilharam as esposas^&#42;1^ em Sião, as virgens nas cidades de Judá.
+
+[NOTE]
+====
+. Ou “mulheres”.
+====
+
+[[v25-5-12]]
+
+^<<v25-5-12,12>>^ Os próprios príncipes foram pendurados só pela sua mão. As faces nem mesmo dos homens idosos foram honradas.
+
+[[v25-5-13]]
+
+^<<v25-5-13,13>>^ Até mesmo os jovens têm levantado a própria mó manual, e meros rapazes tropeçaram debaixo da lenha.
+
+[[v25-5-14]]
+
+^<<v25-5-14,14>>^ Os próprios homens idosos cessaram [de estar] mesmo no portão, os jovens [cessaram] a sua música instrumental.
+
+[[v25-5-15]]
+
+^<<v25-5-15,15>>^ Cessou a exultação de nosso coração. Nossa dança foi transformada em mero luto.
+
+[[v25-5-16]]
+
+^<<v25-5-16,16>>^ Caiu a coroa de nossa cabeça. Ai de nós, portanto, porque pecamos!
+
+[[v25-5-17]]
+
+^<<v25-5-17,17>>^ Por isso enfermou o nosso coração. Por causa destas coisas se escureceram os nossos olhos,
+
+[[v25-5-18]]
+
+^<<v25-5-18,18>>^ Por causa do monte Sião, que está desolado; as próprias raposas têm andado por ele.
+
+[[v25-5-19]]
+
+^<<v25-5-19,19>>^ Quanto a ti, ó Jeová, estarás sentado por tempo indefinido. Teu trono é por geração após geração.
+
+[[v25-5-20]]
+
+^<<v25-5-20,20>>^ Por que é que te esqueces de nós para sempre, que nos deixas pela longura de dias?
+
+[[v25-5-21]]
+
+^<<v25-5-21,21>>^ Traze-nos de volta, ó Jeová, a ti mesmo, e nós prontamente voltaremos. Traze-nos novos dias como outrora.
+
+[[v25-5-22]]
+
+^<<v25-5-22,22>>^ Todavia, rejeitaste-nos positivamente. Indignaste-te muito conosco.
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-004.adoc#v25-4-0[&#60; Capítulo Anterior] | <<v25-5-0,Topo>> | xref:026-ezequiel/026-ezequiel-001.adoc#v26-1-0[Próximo Capítulo &#62;]

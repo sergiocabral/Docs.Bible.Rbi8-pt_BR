@@ -1,0 +1,217 @@
+include::./index.adoc[]
+
+[[v1-36-0]]
+=== Gênesis, 36
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-36-1]]
+
+^<<v1-36-1,1>>^ E esta é a história de Esaú, quer dizer, Edom.
+
+[[v1-36-2]]
+
+^<<v1-36-2,2>>^ Esaú tomou as suas esposas dentre as filhas de Canaã: Ada, filha de Elom, o hitita, e Oolibama, filha de Aná, neta^&#42;1^ de Zibeão, o heveu,
+
+[NOTE]
+====
+. Lit.: “filha”, M; SamLXXSy: “filho”. Veja v. 24.
+====
+
+[[v1-36-3]]
+
+^<<v1-36-3,3>>^ e Basemate, filha de Ismael, irmã de Nebaiote.
+
+[[v1-36-4]]
+
+^<<v1-36-4,4>>^ E Ada passou a dar à luz Elifaz a Esaú, e Basemate deu à luz Reuel,
+
+[[v1-36-5]]
+
+^<<v1-36-5,5>>^ e Oolibama deu à luz Jeús, e Jalão, e Corá.
+Estes são os filhos de Esaú, que lhe nasceram na terra de Canaã.
+
+[[v1-36-6]]
+
+^<<v1-36-6,6>>^ Esaú tomou depois as suas esposas, e os seus filhos, e as suas filhas, e todas as almas de sua casa, e sua manada, e todos os seus outros animais, e todos os seus bens, que tinha acumulado na terra de Canaã, e foi para uma terra^&#42;1^ longe de Jacó, seu irmão,
+
+[NOTE]
+====
+. “Uma terra”, M; Sy: “a terra de Seir”.
+====
+
+[[v1-36-7]]
+
+^<<v1-36-7,7>>^ porque os bens deles tinham ficado grandes demais para morarem juntos, e a terra das suas residências como forasteiros não podia sustentá-los por causa das suas manadas.
+
+[[v1-36-8]]
+
+^<<v1-36-8,8>>^ De modo que Esaú passou a morar na região montanhosa de Seir. Esaú é Edom.
+
+[[v1-36-9]]
+
+^<<v1-36-9,9>>^ E esta é a história de Esaú, pai de Edom, na região montanhosa de Seir.
+
+[[v1-36-10]]
+
+^<<v1-36-10,10>>^ Estes são os nomes dos filhos de Esaú: Elifaz, filho de Ada, esposa de Esaú; Reuel, filho de Basemate, esposa de Esaú.
+
+[[v1-36-11]]
+
+^<<v1-36-11,11>>^ E os filhos de Elifaz vieram a ser Temã, Omar, Zefô, e Gátão e Quenaz.
+
+[[v1-36-12]]
+
+^<<v1-36-12,12>>^ E Timna tornou-se concubina de Elifaz, filho de Esaú. A seu tempo, ela deu à luz Amaleque a Elifaz. Estes são os filhos de Ada, esposa de Esaú.
+
+[[v1-36-13]]
+
+^<<v1-36-13,13>>^ Estes são os filhos de Reuel: Naate e Zerá, Samá e Mizá. Estes vieram a ser os filhos^&#42;1^ de Basemate, esposa de Esaú.
+
+[NOTE]
+====
+. Ou “netos”.
+====
+
+[[v1-36-14]]
+
+^<<v1-36-14,14>>^ E estes vieram a ser os filhos de Oolibama, filha de Aná, neta de Zibeão, esposa de Esaú, sendo que a Esaú deu à luz Jeús, e Jalão, e Corá.
+
+[[v1-36-15]]
+
+^<<v1-36-15,15>>^ Estes são os xeques^&#42;1^ dos filhos de Esaú: Os filhos de Elifaz, primogênito de Esaú: Xeque Temã, Xeque Omar, Xeque Zefô, Xeque Quenaz,
+
+[NOTE]
+====
+. Ou “chefes”. LXX: “chefes; líderes, governadores”; Vg: “líderes; duques”. A palavra hebr. é ’al·lu·féh e se deriva de ’é·lef, “mil”. Portanto, ’al·lúf significa basicamente “líder de mil” e corresponde à palavra gr. quiliarca. Veja Mr 6:21 n.
+====
+
+[[v1-36-16]]
+
+^<<v1-36-16,16>>^ Xeque Corá,^&#42;1^ Xeque Gátão, Xeque Amaleque. Estes são os xeques de Elifaz, na terra de Edom. Estes são os filhos de Ada.
+
+[NOTE]
+====
+. “Xeque Corá”, MLXXSyVg; Sam omite isso. vv. 5, 14 e 18 mostram que era filho de Esaú (não de Elifaz) por Oolibama.
+====
+
+[[v1-36-17]]
+
+^<<v1-36-17,17>>^ Estes são os filhos de Reuel, filho de Esaú: Xeque Naate, Xeque Zerá, Xeque Samá, Xeque Mizá. Estes são os xeques de Reuel, na terra de Edom. Estes são os filhos de Basemate, esposa de Esaú.
+
+[[v1-36-18]]
+
+^<<v1-36-18,18>>^ Finalmente, estes são os filhos de Oolibama, esposa de Esaú: Xeque Jeús, Xeque Jalão, Xeque Corá. Estes são os xeques de Oolibama, filha de Aná, esposa de Esaú.
+
+[[v1-36-19]]
+
+^<<v1-36-19,19>>^ Estes são os filhos de Esaú, e estes são os seus xeques. Ele é Edom.
+
+[[v1-36-20]]
+
+^<<v1-36-20,20>>^ Estes são os filhos de Seir, o horeu, os habitantes do país: Lotã e Sobal, e Zibeão, e Aná,
+
+[[v1-36-21]]
+
+^<<v1-36-21,21>>^ e Disom, e Ezer, e Disã. Estes são os xeques do horeu, os filhos de Seir, na terra de Edom.
+
+[[v1-36-22]]
+
+^<<v1-36-22,22>>^ E os filhos de Lotã vieram a ser Hori e Hemão; e a irmã de Lotã era Timna.
+
+[[v1-36-23]]
+
+^<<v1-36-23,23>>^ E estes são os filhos de Sobal: Alvã e Manaate, e Ebal, Sefô e Onão.
+
+[[v1-36-24]]
+
+^<<v1-36-24,24>>^ E estes são os filhos de Zibeão: Aiá e Aná. Este é o Aná que achou as fontes termais^&#42;1^ no ermo, enquanto zelava os jumentos de Zibeão, seu pai.
+
+[NOTE]
+====
+. “As fontes termais.” Hebr.: hai·ye·mím; lat.: á·quas cá·li·das, “águas quentes”.
+====
+
+[[v1-36-25]]
+
+^<<v1-36-25,25>>^ E estes são os filhos de Aná: Disom e Oolibama, filha de Aná.
+
+[[v1-36-26]]
+
+^<<v1-36-26,26>>^ E estes são os filhos de Disom:^&#42;1^ Hendã e Esbã, e Itrã, e Querã.
+
+[NOTE]
+====
+. “Disom”, SamLXXSyVgc e 1Cr 1:41; MVg: “Disã.”
+====
+
+[[v1-36-27]]
+
+^<<v1-36-27,27>>^ Estes são os filhos de Ezer: Bilã e Zaavã, e Ácã.
+
+[[v1-36-28]]
+
+^<<v1-36-28,28>>^ Estes são os filhos de Disã: Uz e Árã.
+
+[[v1-36-29]]
+
+^<<v1-36-29,29>>^ Estes são os xeques do horeu: Xeque Lotã, Xeque Sobal, Xeque Zibeão, Xeque Aná,
+
+[[v1-36-30]]
+
+^<<v1-36-30,30>>^ Xeque Disom, Xeque Ezer, Xeque Disã. Estes são os xeques do horeu, segundo os seus xeques, na terra de Seir.
+
+[[v1-36-31]]
+
+^<<v1-36-31,31>>^ Ora, estes são os reis que reinaram na terra de Edom antes de qualquer rei reinar sobre os filhos de Israel.
+
+[[v1-36-32]]
+
+^<<v1-36-32,32>>^ E Bela, filho de Beor, passou a reinar em Edom, e o nome de sua cidade era Dinabá.
+
+[[v1-36-33]]
+
+^<<v1-36-33,33>>^ Morrendo Bela, começou a reinar em lugar dele Jobabe, filho de Zerá, de Bozra.
+
+[[v1-36-34]]
+
+^<<v1-36-34,34>>^ Morrendo Jobabe, começou a reinar em lugar dele Husão, da terra dos temanitas.
+
+[[v1-36-35]]
+
+^<<v1-36-35,35>>^ Morrendo Husão, começou a reinar em lugar dele Hadade, filho de Bedade, que derrotou os midianitas no campo de Moabe, e o nome de sua cidade era Avite.
+
+[[v1-36-36]]
+
+^<<v1-36-36,36>>^ Morrendo Hadade, começou a reinar em lugar dele Samlá, de Masreca.
+
+[[v1-36-37]]
+
+^<<v1-36-37,37>>^ Morrendo Samlá, começou a reinar em lugar dele Saul, de Reobote, junto ao Rio.
+
+[[v1-36-38]]
+
+^<<v1-36-38,38>>^ Morrendo Saul, começou a reinar em lugar dele Baal-Hanã, filho de Acbor.
+
+[[v1-36-39]]
+
+^<<v1-36-39,39>>^ Morrendo Baal-Hanã, filho de Acbor, começou a reinar em lugar dele Hadar; e o nome de sua cidade era Pau, e o nome de sua esposa era Meetabel, filha de Matrede, filha de Mezaabe.
+
+[[v1-36-40]]
+
+^<<v1-36-40,40>>^ Estes, pois, são os nomes dos xeques de Esaú, segundo as suas famílias, segundo os seus lugares, pelos seus nomes: Xeque Timna, Xeque Alva, Xeque Jetete,
+
+[[v1-36-41]]
+
+^<<v1-36-41,41>>^ Xeque Oolibama, Xeque Elá, Xeque Pinom,
+
+[[v1-36-42]]
+
+^<<v1-36-42,42>>^ Xeque Quenaz, Xeque Temã, Xeque Mibzar,
+
+[[v1-36-43]]
+
+^<<v1-36-43,43>>^ Xeque Magdiel, Xeque Irão. Estes são os xeques de Edom, segundo as suas moradas na terra de sua propriedade. Este é Esaú, pai de Edom.
+
+'''
+
+xref:001-genesis/001-genesis-035.adoc#v1-35-0[&#60; Capítulo Anterior] | <<v1-36-0,Topo>> | xref:001-genesis/001-genesis-037.adoc#v1-37-0[Próximo Capítulo &#62;]

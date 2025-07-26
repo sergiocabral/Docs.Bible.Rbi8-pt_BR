@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v56-2-0]]
+=== Tito, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v56-2-1]]
+
+^<<v56-2-1,1>>^ Tu, porém, persiste em falar as coisas próprias para o ensino salutar.
+
+[[v56-2-2]]
+
+^<<v56-2-2,2>>^ Os homens idosos sejam moderados nos hábitos, sérios, ajuizados, sãos na fé, no amor, na perseverança.
+
+[[v56-2-3]]
+
+^<<v56-2-3,3>>^ Igualmente, as mulheres idosas sejam reverentes no comportamento, não caluniadoras, nem escravizadas a muito vinho, instrutoras do que é bom,
+
+[[v56-2-4]]
+
+^<<v56-2-4,4>>^ a fim de fazerem as mulheres jovens recobrar o bom senso^&#42;1^ para amarem seus maridos, para amarem seus filhos,
+
+[NOTE]
+====
+. Lit.: “a fim de tornarem ajuizadas as [mulheres] jovens”.
+====
+
+[[v56-2-5]]
+
+^<<v56-2-5,5>>^ para serem ajuizadas, castas, operosas em casa, boas, sujeitando-se aos seus próprios maridos, para que não se fale da palavra de Deus de modo ultrajante.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “não . . . seja blasfemada”. Gr.: me . . . bla·sfe·mé·tai; lat.: non bla·sphe·mé·tur.
+====
+
+[[v56-2-6]]
+
+^<<v56-2-6,6>>^ Persiste igualmente em exortar os homens mais jovens a serem ajuizados,
+
+[[v56-2-7]]
+
+^<<v56-2-7,7>>^ mostrando-te em todas as coisas exemplo de obras excelentes; mostrando no teu ensino incorrupção, seriedade,
+
+[[v56-2-8]]
+
+^<<v56-2-8,8>>^ palavras sadias que não podem ser condenadas; para que o homem do lado oponente fique envergonhado, não tendo nada de ruim a dizer sobre nós.
+
+[[v56-2-9]]
+
+^<<v56-2-9,9>>^ Os escravos estejam sujeitos aos seus donos em todas as coisas e lhes agradem bem, não contradizendo,
+
+[[v56-2-10]]
+
+^<<v56-2-10,10>>^ não praticando furto,^&#42;1^ mas exibindo plenamente uma boa fidelidade, para que adornem o ensino de nosso Salvador, Deus, em todas as coisas.
+
+[NOTE]
+====
+. Ou “não defraudando”.
+====
+
+[[v56-2-11]]
+
+^<<v56-2-11,11>>^ Porque se manifestou a benignidade imerecida de Deus, que traz salvação a toda sorte de homens,
+
+[[v56-2-12]]
+
+^<<v56-2-12,12>>^ instruindo-nos a repudiar a impiedade e os desejos mundanos, e a viver com bom juízo, e justiça, e devoção piedosa^&#42;1^ no meio deste atual sistema de coisas,^&#42;2^
+
+[NOTE]
+====
+. “Devoção piedosa”, אAVg; J7,8: “temor de Jeová”.
+. Ou “ordem de coisas”. Gr.: ai·ó·ni; lat.: saé·cu·lo; J17,22(hebr.): ba·‛oh·lám haz·zéh, “no meio desta ordem de coisas”.
+====
+
+[[v56-2-13]]
+
+^<<v56-2-13,13>>^ ao passo que aguardamos a feliz esperança e a gloriosa manifestação do grande Deus e [do] Salvador de nós, Cristo Jesus,^&#42;1^
+
+[NOTE]
+====
+. Veja Ap. 6E para um exame deste v :13.
+====
+
+[[v56-2-14]]
+
+^<<v56-2-14,14>>^ que se entregou por nós, a fim de nos livrar de toda sorte de [coisa] que é contra a lei e purificar para si mesmo um povo peculiarmente seu, zeloso de obras excelentes.
+
+[[v56-2-15]]
+
+^<<v56-2-15,15>>^ Persiste em falar destas coisas, e em exortar e repreender com plena autoridade para mandar.^&#42;1^ Que nenhum homem jamais te despreze.
+
+[NOTE]
+====
+. “Autoridade para mandar.” Lit.: “imposição”.
+====
+
+'''
+
+xref:056-tito/056-tito-001.adoc#v56-1-0[&#60; Capítulo Anterior] | <<v56-2-0,Topo>> | xref:056-tito/056-tito-003.adoc#v56-3-0[Próximo Capítulo &#62;]

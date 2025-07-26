@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v62-2-0]]
+=== 1 João, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v62-2-1]]
+
+^<<v62-2-1,1>>^ Filhinhos meus, escrevo-vos estas coisas para que não cometais um pecado.^&#42;1^ Contudo, se alguém cometer um pecado, temos um ajudador^&#42;2^ junto ao Pai, Jesus Cristo, um justo.
+
+[NOTE]
+====
+. “Cometais um pecado.” Gr.: ha·már·te·te, verbo no aoristo do subjuntivo. Segundo A Grammar of New Testament Greek, de James H. Moulton, Vol. I, 1908, p. 109, “o aoristo tem ação ‘apontadora’, isto é, encara a ação como ponto: representa o ponto de entrada . . . ou do término . . . ou encara a ação inteira simplesmente como tendo ocorrido, sem distinguir quaisquer passos no seu progresso”.
+. Lit.: “paracleto”. Gr.: pa·rá·kle·ton.
+====
+
+[[v62-2-2]]
+
+^<<v62-2-2,2>>^ E ele é um sacrifício propiciatório^&#42;1^ pelos nossos pecados, contudo, não apenas pelos nossos, mas também pelos do mundo inteiro.
+
+[NOTE]
+====
+. Lit.: “propiciação”. Lat.: pro·pi·ti·á·ti·o. Veja He 9:5 n.
+====
+
+[[v62-2-3]]
+
+^<<v62-2-3,3>>^ E por meio disso temos o conhecimento de que chegamos a conhecê-lo, a saber, se continuarmos a observar os seus mandamentos.
+
+[[v62-2-4]]
+
+^<<v62-2-4,4>>^ Aquele que disser: “Eu o cheguei a conhecer”, e ainda assim não observar os seus mandamentos, é mentiroso, e a verdade não está neste.
+
+[[v62-2-5]]
+
+^<<v62-2-5,5>>^ Mas, todo aquele que observar a sua palavra, verdadeiramente, neste tem sido aperfeiçoado o amor de Deus. Por meio disso temos o conhecimento de que estamos em união com ele.
+
+[[v62-2-6]]
+
+^<<v62-2-6,6>>^ Aquele que diz que permanece em união com ele está também sob a obrigação de prosseguir andando assim como esse andou.
+
+[[v62-2-7]]
+
+^<<v62-2-7,7>>^ Amados, escrevo-vos, não um novo mandamento, mas um mandamento antigo, que tendes tido desde [o] princípio. Este mandamento antigo é a palavra que ouvistes.
+
+[[v62-2-8]]
+
+^<<v62-2-8,8>>^ Novamente, escrevo-vos um novo mandamento, um fato que é veraz no seu caso e no vosso, porque a escuridão está passando e a verdadeira luz já está brilhando.
+
+[[v62-2-9]]
+
+^<<v62-2-9,9>>^ Quem diz que está na luz, e ainda assim odeia seu irmão, está na escuridão até agora.
+
+[[v62-2-10]]
+
+^<<v62-2-10,10>>^ Quem ama seu irmão permanece na luz, e não há causa para tropeço no seu caso.
+
+[[v62-2-11]]
+
+^<<v62-2-11,11>>^ Mas, quem odeia seu irmão está na escuridão e está andando na escuridão, e ele não sabe para onde vai, porque a escuridão lhe cegou os olhos.
+
+[[v62-2-12]]
+
+^<<v62-2-12,12>>^ Escrevo-vos, filhinhos, porque os vossos pecados vos têm sido perdoados por causa do seu nome.
+
+[[v62-2-13]]
+
+^<<v62-2-13,13>>^ Escrevo-vos, pais, porque chegastes a conhecer aquele que é desde [o] princípio. Escrevo-vos, moços, porque vencestes o iníquo. Escrevo-vos, criancinhas, porque chegastes a conhecer o Pai.
+
+[[v62-2-14]]
+
+^<<v62-2-14,14>>^ Escrevo-vos, pais, porque chegastes a conhecer aquele que é desde [o] princípio. Escrevo-vos, moços, porque sois fortes e a palavra de Deus^&#42;1^ permanece em vós, e [porque] vencestes o iníquo.
+
+[NOTE]
+====
+. “De Deus.” B omite isso.
+====
+
+[[v62-2-15]]
+
+^<<v62-2-15,15>>^ Não estejais amando nem o mundo, nem as coisas no mundo. Se alguém amar o mundo, o amor do Pai não está nele;
+
+[[v62-2-16]]
+
+^<<v62-2-16,16>>^ porque tudo [o que há] no mundo — o desejo da carne, e o desejo dos olhos, e a ostentação^&#42;1^ dos meios de vida da pessoa — não se origina do Pai, mas origina-se do mundo.
+
+[NOTE]
+====
+. Lit.: “a presunção”.
+====
+
+[[v62-2-17]]
+
+^<<v62-2-17,17>>^ Outrossim, o mundo está passando, e assim também o seu desejo, mas aquele que faz a vontade de Deus permanece para sempre.
+
+[[v62-2-18]]
+
+^<<v62-2-18,18>>^ Criancinhas, é a última hora, e, assim como ouvistes que vem o anticristo,^&#42;1^ já está havendo agora muitos anticristos; sendo que deste fato obtemos o conhecimento de que é a última hora.
+
+[NOTE]
+====
+. “Anticristo.” Gr.: an·tí·khri·stos; lat.: an·ti·chrí·stus; J17(hebr.): tsar ham·ma·shí·ahh.
+====
+
+[[v62-2-19]]
+
+^<<v62-2-19,19>>^ Saíram do nosso meio, mas não eram dos nossos; pois, se tivessem sido dos nossos, teriam permanecido conosco. Mas, [saíram] para que se mostrasse que nem todos são dos nossos.
+
+[[v62-2-20]]
+
+^<<v62-2-20,20>>^ E vós tendes uma unção^&#42;1^ do santo; todos vós tendes conhecimento.
+
+[NOTE]
+====
+. “Unção.” Gr.: khrí·sma; lat.: unc·ti·ó·nem.
+====
+
+[[v62-2-21]]
+
+^<<v62-2-21,21>>^ Escrevo-vos, não porque não conheçais a verdade, mas porque a conheceis, e porque nenhuma mentira se origina da verdade.
+
+[[v62-2-22]]
+
+^<<v62-2-22,22>>^ Quem é o mentiroso, senão aquele que nega que Jesus é o Cristo? Este é o anticristo, aquele que nega o Pai e o Filho.
+
+[[v62-2-23]]
+
+^<<v62-2-23,23>>^ Todo aquele que nega o Filho, tampouco tem o Pai. Quem confessa o Filho, tem também o Pai.
+
+[[v62-2-24]]
+
+^<<v62-2-24,24>>^ Quanto a vós, permaneça em vós aquilo que ouvistes desde [o] princípio. Se aquilo que ouvistes desde [o] princípio permanecer em vós, subsistireis também em união com o Filho e em união com o Pai.
+
+[[v62-2-25]]
+
+^<<v62-2-25,25>>^ Outrossim, esta é a coisa prometida que ele mesmo nos prometeu: a vida eterna.
+
+[[v62-2-26]]
+
+^<<v62-2-26,26>>^ Estas coisas eu vos escrevo a respeito dos que estão tentando desencaminhar-vos.
+
+[[v62-2-27]]
+
+^<<v62-2-27,27>>^ E, quanto a vós, a unção que recebestes dele permanece em vós, e não necessitais de que alguém vos ensine; mas, como a unção da parte dele vos ensina todas as coisas, e é verdadeira e não é mentira, e assim como vos tem ensinado, permanecei em união com ele.
+
+[[v62-2-28]]
+
+^<<v62-2-28,28>>^ Assim, pois, filhinhos, permanecei em união com ele, para que, quando ele for manifestado, tenhamos franqueza no falar e não sejamos envergonhados para nos afastar dele na sua presença.^&#42;1^
+
+[NOTE]
+====
+. Veja Ap. 5B.
+====
+
+[[v62-2-29]]
+
+^<<v62-2-29,29>>^ Se sabeis que ele é justo, obtendes o conhecimento de que todo aquele que pratica a justiça nasceu dele.
+
+'''
+
+xref:062-1-joao/062-1-joao-001.adoc#v62-1-0[&#60; Capítulo Anterior] | <<v62-2-0,Topo>> | xref:062-1-joao/062-1-joao-003.adoc#v62-3-0[Próximo Capítulo &#62;]

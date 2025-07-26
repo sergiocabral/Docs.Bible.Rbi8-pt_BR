@@ -1,0 +1,43 @@
+include::./index.adoc[]
+
+[[v23-20-0]]
+=== Isaías, 20
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-20-1]]
+
+^<<v23-20-1,1>>^ No ano em que Tartã^&#42;1^ chegou a Asdode, sendo enviado por Sargão, rei da Assíria, e ele passou a guerrear contra Asdode e a capturá-la,
+
+[NOTE]
+====
+. Ou “o comandante”.
+====
+
+[[v23-20-2]]
+
+^<<v23-20-2,2>>^ naquele tempo Jeová falou pela mão de Isaías, filho de Amoz, dizendo: “Vai, e tens de soltar a serapilheira de cima dos teus quadris; e deves retirar as tuas sandálias dos teus pés.” E ele passou a fazer assim, andando nu e descalço.
+
+[[v23-20-3]]
+
+^<<v23-20-3,3>>^ E Jeová prosseguiu, dizendo: “Assim como meu servo Isaías tem andado nu e descalço por três anos como sinal e como portento contra o Egito e contra a Etiópia,^&#42;1^
+
+[NOTE]
+====
+. “Etiópia”, Vg; MSy: “Cus”.
+====
+
+[[v23-20-4]]
+
+^<<v23-20-4,4>>^ assim é que o rei da Assíria conduzirá o grupo dos cativos do Egito e os exilados da Etiópia, rapazes e anciãos, nus e descalços, e com as nádegas desnudas, a nudez do Egito.
+
+[[v23-20-5]]
+
+^<<v23-20-5,5>>^ E certamente ficarão aterrorizados e envergonhados da Etiópia, sua esperança aguardada, e do Egito, sua beleza.
+
+[[v23-20-6]]
+
+^<<v23-20-6,6>>^ E o habitante deste litoral por certo dirá naquele dia: ‘Eis como está a nossa esperança aguardada, à qual fugimos por auxílio, a fim de sermos livrados por causa do rei da Assíria! E como é que nós mesmos escaparemos?’”
+
+'''
+
+xref:023-isaias/023-isaias-019.adoc#v23-19-0[&#60; Capítulo Anterior] | <<v23-20-0,Topo>> | xref:023-isaias/023-isaias-021.adoc#v23-21-0[Próximo Capítulo &#62;]

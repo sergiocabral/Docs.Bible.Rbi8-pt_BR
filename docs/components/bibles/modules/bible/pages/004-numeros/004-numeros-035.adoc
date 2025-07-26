@@ -1,0 +1,190 @@
+include::./index.adoc[]
+
+[[v4-35-0]]
+=== Números, 35
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-35-1]]
+
+^<<v4-35-1,1>>^ E Jeová prosseguiu, falando a Moisés nas planícies desérticas de Moabe, junto ao Jordão, [na altura] de Jericó, dizendo:
+
+[[v4-35-2]]
+
+^<<v4-35-2,2>>^ “Dá aos filhos de Israel a ordem de que eles, da herança de sua propriedade, têm de dar aos levitas cidades para morar, e devem dar aos levitas os pastios das cidades em volta delas.
+
+[[v4-35-3]]
+
+^<<v4-35-3,3>>^ E as cidades têm de servir-lhes para morar, sendo que os pastios delas servirão para os seus animais domésticos, e para os seus bens, e para todos os seus animais selváticos.
+
+[[v4-35-4]]
+
+^<<v4-35-4,4>>^ E os pastios das cidades, que dareis aos levitas, estender-se-ão desde o muro da cidade para fora por mil^&#42;1^ côvados, em todo o redor.
+
+[NOTE]
+====
+. “Mil”, MSamSyVg; LXX: “dois mil”.
+====
+
+[[v4-35-5]]
+
+^<<v4-35-5,5>>^ E tendes de medir fora da cidade, do lado do leste, dois mil côvados, e do lado do sul, dois mil côvados, e do lado do oeste, dois mil côvados, e do lado do norte, dois mil côvados, com a cidade no meio. Isto lhes servirá de pastio das cidades.
+
+[[v4-35-6]]
+
+^<<v4-35-6,6>>^ “Estas são as cidades que dareis aos levitas: seis cidades de refúgio, que dareis a fim de que fuja para lá o homicida,^&#42;1^ e além delas dareis mais quarenta e duas cidades.
+
+[NOTE]
+====
+. Ou “assassino”.
+====
+
+[[v4-35-7]]
+
+^<<v4-35-7,7>>^ Todas as cidades que dareis aos levitas serão quarenta e oito cidades, junto com seus pastios.
+
+[[v4-35-8]]
+
+^<<v4-35-8,8>>^ As cidades que dareis procederão da propriedade dos filhos de Israel. Dos muitos tomareis muitas e dos poucos tomareis poucas. Cada um, proporcional à sua herança de que tomará posse, dará algumas das suas cidades aos levitas.”
+
+[[v4-35-9]]
+
+^<<v4-35-9,9>>^ E Jeová continuou a falar a Moisés, dizendo:
+
+[[v4-35-10]]
+
+^<<v4-35-10,10>>^ “Fala aos filhos de Israel, e tens de dizer-lhes: ‘Estais atravessando o Jordão para a terra de Canaã.
+
+[[v4-35-11]]
+
+^<<v4-35-11,11>>^ E tendes de escolher cidades convenientes para vós. Servirão para vós de cidades de refúgio, e para lá terá de fugir o homicida que sem querer golpear fatalmente uma alma.
+
+[[v4-35-12]]
+
+^<<v4-35-12,12>>^ E as cidades têm de servir-vos de refúgio contra o vingador do sangue,^&#42;1^ para que o homicida não morra até comparecer perante a assembléia para julgamento.
+
+[NOTE]
+====
+. Ou “o goel”, MSam; TLXXSyIt: “o vingador de sangue”.
+====
+
+[[v4-35-13]]
+
+^<<v4-35-13,13>>^ E as cidades que dareis, as seis cidades de refúgio, estarão à vossa disposição.
+
+[[v4-35-14]]
+
+^<<v4-35-14,14>>^ Dareis três cidades deste lado do Jordão e dareis três cidades na terra de Canaã. Servirão de cidades de refúgio.
+
+[[v4-35-15]]
+
+^<<v4-35-15,15>>^ Estas seis cidades servirão de refúgio para os filhos de Israel e para o residente forasteiro, e para o colono no meio deles, a fim de fugir para lá aquele que sem querer tenha golpeado fatalmente uma alma.
+
+[[v4-35-16]]
+
+^<<v4-35-16,16>>^ “‘Ora, se ele o tiver golpeado com um instrumento de ferro de modo que morreu, é assassino. O assassino, sem falta, deve ser morto.
+
+[[v4-35-17]]
+
+^<<v4-35-17,17>>^ E se ele o tiver golpeado com uma pedra pequena^&#42;1^ pela qual podia morrer, de modo que morreu, é assassino. O assassino, sem falta, deve ser morto.
+
+[NOTE]
+====
+. Lit.: “uma pedra de mão”.
+====
+
+[[v4-35-18]]
+
+^<<v4-35-18,18>>^ E se^&#42;1^ ele o tiver golpeado com um pequeno instrumento de madeira pelo qual podia morrer, de modo que morreu, é assassino. O assassino, sem falta, deve ser morto.
+
+[NOTE]
+====
+. “E se”, SamLXXSy e alguns mss. hebr.; M: “Ou.”
+====
+
+[[v4-35-19]]
+
+^<<v4-35-19,19>>^ “‘O vingador do sangue é quem entregará o assassino à morte. Ele mesmo o entregará à morte quando deparar com ele.
+
+[[v4-35-20]]
+
+^<<v4-35-20,20>>^ E se ele o tiver empurrado em ódio ou tiver lançado [algo] contra ele, estando de tocaia,^&#42;1^ para que morresse,
+
+[NOTE]
+====
+. Ou “contra ele com intenção maldosa”.
+====
+
+[[v4-35-21]]
+
+^<<v4-35-21,21>>^ ou em inimizade o tiver golpeado com a mão para que morresse, o golpeador, sem falta, deve ser morto. É assassino. O vingador do sangue entregará o assassino à morte quando deparar com ele.
+
+[[v4-35-22]]
+
+^<<v4-35-22,22>>^ “‘Mas, se foi inesperadamente, sem inimizade, que ele o empurrou ou lançou um objeto contra ele, sem estar de tocaia,^&#42;1^
+
+[NOTE]
+====
+. Ou “sem intenção maldosa”.
+====
+
+[[v4-35-23]]
+
+^<<v4-35-23,23>>^ ou qualquer pedra pela qual podia morrer, sem vê-lo, ou se fez que caísse sobre ele, de modo que morreu, não estando em inimizade com ele e não procurando prejudicá-lo,
+
+[[v4-35-24]]
+
+^<<v4-35-24,24>>^ então a assembléia tem de julgar entre o golpeador e o vingador do sangue segundo estes julgamentos.
+
+[[v4-35-25]]
+
+^<<v4-35-25,25>>^ E a assembléia tem de livrar o homicida da mão do vingador do sangue e a assembléia tem de devolvê-lo à sua cidade de refúgio à qual fugiu, e ele tem de morar nela até a morte do sumo sacerdote que foi ungido com o óleo sagrado.
+
+[[v4-35-26]]
+
+^<<v4-35-26,26>>^ “‘Mas, se o homicida sair terminantemente dos termos de sua cidade de refúgio à qual tenha fugido
+
+[[v4-35-27]]
+
+^<<v4-35-27,27>>^ e o vingador do sangue deveras o encontrar fora do termo de sua cidade de refúgio, e o vingador do sangue deveras matar o homicida, ele não terá culpa de sangue.
+
+[[v4-35-28]]
+
+^<<v4-35-28,28>>^ Pois, devia morar na sua cidade de refúgio até a morte do sumo sacerdote, e depois da morte do sumo sacerdote o homicida pode voltar à terra de sua propriedade.
+
+[[v4-35-29]]
+
+^<<v4-35-29,29>>^ E estas coisas têm de servir-vos de estatuto de julgamento nas vossas gerações, em todos os vossos lugares de morada.
+
+[[v4-35-30]]
+
+^<<v4-35-30,30>>^ “‘Todo aquele que golpear fatalmente uma alma deve ser morto como assassino, pela boca de testemunhas, e uma só testemunha não pode testificar contra uma alma para ela morrer.
+
+[[v4-35-31]]
+
+^<<v4-35-31,31>>^ E não deveis aceitar nenhum resgate pela alma dum assassino que merece morrer, pois, sem falta, deve ser morto.
+
+[[v4-35-32]]
+
+^<<v4-35-32,32>>^ E não deveis aceitar resgate por alguém que fugiu para a sua cidade de refúgio, para ele voltar a morar no país antes da morte do sumo sacerdote.^&#42;1^
+
+[NOTE]
+====
+. “Do sumo sacerdote”, SamLXXSy e um ms. hebr.; M: “do sacerdote”; lat.: pon·tí·fi·cis.
+====
+
+[[v4-35-33]]
+
+^<<v4-35-33,33>>^ “‘E não deveis poluir a terra em que estais;^&#42;1^ porque é o sangue que polui a terra, e não pode haver nenhuma expiação para a terra quanto ao sangue que se derramou sobre ela, exceto pelo sangue daquele que o derramou.
+
+[NOTE]
+====
+. “Estais”, M; SamLXXSyVg e quatro mss. hebr.: “estais morando”.
+====
+
+[[v4-35-34]]
+
+^<<v4-35-34,34>>^ E não deves aviltar a terra em que estais morando, no meio da qual resido; pois eu, Jeová, resido no meio dos filhos de Israel.’”
+
+'''
+
+xref:004-numeros/004-numeros-034.adoc#v4-34-0[&#60; Capítulo Anterior] | <<v4-35-0,Topo>> | xref:004-numeros/004-numeros-036.adoc#v4-36-0[Próximo Capítulo &#62;]

@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v6-3-0]]
+=== Josué, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-3-1]]
+
+^<<v6-3-1,1>>^ Josué levantou-se então de manhã cedo, e ele e todos os filhos de Israel puseram-se a partir de Sitim e foram chegar até o Jordão; e ali passaram a noite antes de sua travessia.
+
+[[v6-3-2]]
+
+^<<v6-3-2,2>>^ Sucedeu assim, ao fim dos três dias, que os oficiais foram passar pelo meio do acampamento
+
+[[v6-3-3]]
+
+^<<v6-3-3,3>>^ e ordenar ao povo, dizendo: “Assim que virdes a arca do pacto de Jeová, vosso Deus, e os sacerdotes, os levitas, carregando-a, então vós mesmos partireis do vosso lugar e tendes de segui-la,
+
+[[v6-3-4]]
+
+^<<v6-3-4,4>>^ — somente venha a haver entre vós e ela uma distância de cerca de dois mil côvados^&#42;1^ de medida; não vos chegueis a ela — a fim de saberdes o caminho pelo qual deveis ir, visto que nunca antes passastes por este caminho.”
+
+[NOTE]
+====
+. Cerca de 890 m. Veja At 1:12 n.
+====
+
+[[v6-3-5]]
+
+^<<v6-3-5,5>>^ Josué disse então ao povo: “Santificai-vos, pois amanhã Jeová fará coisas maravilhosas no vosso meio.”
+
+[[v6-3-6]]
+
+^<<v6-3-6,6>>^ Josué disse então aos sacerdotes: “Tomai a arca do pacto e passai na frente do povo.” Tomaram, pois, a arca do pacto e foram na frente do povo.
+
+[[v6-3-7]]
+
+^<<v6-3-7,7>>^ E Jeová passou a dizer a Josué: “Neste dia principiarei a fazer-te grande aos olhos de todo o Israel, para que saibam que, como mostrei estar com Moisés, assim mostrarei estar contigo.
+
+[[v6-3-8]]
+
+^<<v6-3-8,8>>^ E tu — tu deves ordenar aos sacerdotes que carregam a arca do pacto, dizendo: ‘Assim que tiverdes chegado à beira das águas do Jordão, deveis ficar parados no Jordão.’”
+
+[[v6-3-9]]
+
+^<<v6-3-9,9>>^ E Josué prosseguiu, dizendo aos filhos de Israel: “Aproximai-vos e escutai as palavras de Jeová, vosso Deus.”
+
+[[v6-3-10]]
+
+^<<v6-3-10,10>>^ Depois Josué disse: “Por meio disso sabereis que há um Deus vivente^&#42;1^ no vosso meio e que ele impreterivelmente desalojará de diante de vós os cananeus, e os hititas, e os heveus, e os perizeus, e os girgaseus, e os amorreus, e os jebuseus.
+
+[NOTE]
+====
+. “Um Deus vivente.” Hebr.: ’El, seguido pelo adjetivo sing. hhai, “vivente”; gr.: The·ós zon; lat.: Dó·mi·nus Dé·us ví·vens.
+====
+
+[[v6-3-11]]
+
+^<<v6-3-11,11>>^ Eis que a arca do pacto do Senhor^&#42;1^ de toda a terra está passando na vossa frente para dentro do Jordão.
+
+[NOTE]
+====
+. “Senhor de.” Hebr.: ’Adhóhn, sing.; gr.: Ky·rí·ou; lat.: Dó·mi·ni. Contraste isso com De 10:17.
+====
+
+[[v6-3-12]]
+
+^<<v6-3-12,12>>^ E agora tomai para vós doze homens das tribos de Israel, um homem para cada tribo.
+
+[[v6-3-13]]
+
+^<<v6-3-13,13>>^ E terá de acontecer que, no instante em que as solas dos pés dos sacerdotes que carregam a arca de Jeová, o Senhor de toda a terra, pousarem nas águas do Jordão, serão cortadas as águas do Jordão, as águas vindas de cima, e ficarão paradas como um só dique.”
+
+[[v6-3-14]]
+
+^<<v6-3-14,14>>^ E sucedeu que, partindo o povo das suas tendas, pouco antes de passar o Jordão, e os sacerdotes carregando a arca do pacto diante do povo,
+
+[[v6-3-15]]
+
+^<<v6-3-15,15>>^ e no instante em que os carregadores da Arca chegaram ao Jordão e os pés dos sacerdotes que carregavam a Arca foram mergulhados na beira das águas, (ora, o Jordão transborda todas as suas ribanceiras todos os dias da colheita,)
+
+[[v6-3-16]]
+
+^<<v6-3-16,16>>^ então as águas que vinham de cima começaram a ficar paradas. Elevaram-se como um só dique, muito longe dali, em Adão,^&#42;1^ cidade vizinha de Zaretã, ao passo que as que desciam para o mar do Arabá, o Mar Salgado, escorriam. Foram cortadas, e o povo atravessou defronte de Jericó.
+
+[NOTE]
+====
+. Identificada, em geral, com Tell ed-Damiyeh, na margem oriental do rio Jordão, a 29 km ao norte de Jericó. A história registra bloqueios similares do Jordão por desmoronamentos de terra, em 1267 EC e em 1927 EC.
+====
+
+[[v6-3-17]]
+
+^<<v6-3-17,17>>^ Entrementes, os sacerdotes que carregavam a arca do pacto de Jeová ficaram parados imóveis em solo seco no meio do Jordão enquanto todo o Israel passava em solo seco, até que a nação inteira tinha completado a travessia do Jordão.
+
+'''
+
+xref:006-josue/006-josue-002.adoc#v6-2-0[&#60; Capítulo Anterior] | <<v6-3-0,Topo>> | xref:006-josue/006-josue-004.adoc#v6-4-0[Próximo Capítulo &#62;]

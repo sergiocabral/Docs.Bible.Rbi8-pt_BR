@@ -1,0 +1,166 @@
+include::./index.adoc[]
+
+[[v9-30-0]]
+=== 1 Samuel, 30
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-30-1]]
+
+^<<v9-30-1,1>>^ E sucedeu, enquanto Davi e seus homens vinham a Ziclague, no terceiro dia, que os amalequitas fizeram uma incursão no sul e em Ziclague; e eles passaram a golpear Ziclague e a queimá-la com fogo,
+
+[[v9-30-2]]
+
+^<<v9-30-2,2>>^ e a levar cativas as mulheres [e tudo o] que^&#42;1^ nela havia, do menor ao maior. Não entregaram ninguém^&#42;2^ à morte, mas conduziram-nos embora e seguiram seu caminho.
+
+[NOTE]
+====
+. “As mulheres e tudo o que”, LXX; M: “as mulheres que”.
+. “Ninguém”, ou: “um homem”, MVg; LXX: “um homem ou uma mulher”.
+====
+
+[[v9-30-3]]
+
+^<<v9-30-3,3>>^ Quando Davi, com seus homens, chegou à cidade, ora, eis que estava queimada com fogo, e, no que se referia às suas esposas, e aos seus filhos, e às suas filhas, haviam sido levados cativos.
+
+[[v9-30-4]]
+
+^<<v9-30-4,4>>^ E Davi e o povo que estava com ele começou a levantar a sua voz e a chorar, até que não havia [mais] força neles para chorar.
+
+[[v9-30-5]]
+
+^<<v9-30-5,5>>^ E haviam sido levadas cativas as duas esposas de Davi, Ainoã, a jezreelita, e Abigail, esposa de Nabal, o carmelita.
+
+[[v9-30-6]]
+
+^<<v9-30-6,6>>^ E ficou muito aflitivo para Davi, porque o povo disse que deviam apedrejá-lo; pois a alma de todo o povo tinha ficado amargurada, cada um por causa de seus filhos e de suas filhas. Por isso Davi foi fortalecer-se em Jeová, seu Deus.
+
+[[v9-30-7]]
+
+^<<v9-30-7,7>>^ Portanto, Davi disse a Abiatar, o sacerdote, filho de Aimeleque: “Por favor, traze-me para cá o éfode.” E Abiatar veio trazer o éfode para perto de Davi.
+
+[[v9-30-8]]
+
+^<<v9-30-8,8>>^ E Davi começou a indagar de Jeová, dizendo: “Devo ir no encalço desta guerrilha? Alcançá-los-ei?” A isto ele lhe disse: “Vai no encalço, pois sem falta os alcançarás e sem falta proverás livramento.”
+
+[[v9-30-9]]
+
+^<<v9-30-9,9>>^ Davi pôs-se prontamente a caminho, ele e os seiscentos homens que estavam com ele, e foram até o vale da torrente de Besor, e os homens que seriam deixados para trás ficaram parados.
+
+[[v9-30-10]]
+
+^<<v9-30-10,10>>^ E Davi prosseguiu na perseguição, ele e quatrocentos homens, mas duzentos homens que estavam cansados demais para atravessar o vale da torrente de Besor ficaram parados.
+
+[[v9-30-11]]
+
+^<<v9-30-11,11>>^ E vieram achar no campo um homem, um egípcio. Levaram-no, pois, a Davi, e deram-lhe pão para comer e deram-lhe água para beber.
+
+[[v9-30-12]]
+
+^<<v9-30-12,12>>^ Além disso, deram-lhe uma fatia duma torta de figos prensados e duas tortas de passas. Então comeu e seu espírito lhe retornou; pois não tinha comido pão nem bebido água por três dias e três noites.
+
+[[v9-30-13]]
+
+^<<v9-30-13,13>>^ Davi disse-lhe então: “A quem pertences e donde és?” a que ele disse: “Sou ajudante egípcio, escravo dum homem amalequita, mas o meu amo me abandonou porque fiquei doente há três dias.
+
+[[v9-30-14]]
+
+^<<v9-30-14,14>>^ Fomos nós os que fizemos a incursão no sul dos queretitas, e no que pertence a Judá, e no sul de Calebe; e a Ziclague queimamos com fogo.”
+
+[[v9-30-15]]
+
+^<<v9-30-15,15>>^ A isso Davi lhe disse: “Levar-me-ás para baixo a esta guerrilha?” A isso ele disse: “Jura-me deveras por Deus^&#42;1^ que não me entregarás à morte e que não me entregarás na mão do meu amo, e eu te levarei para baixo a esta guerrilha.”^&#42;2^
+
+[NOTE]
+====
+. “Por Deus.” Hebr.: vE’·lo·hím; gr.: The·oú; lat.: Dé·um.
+. LXXL acrescenta: “E ele jurou-lhe.”
+====
+
+[[v9-30-16]]
+
+^<<v9-30-16,16>>^ Concordemente, ele o levou para baixo e eis que estavam esparramados sobre a superfície de toda a terra, comendo e bebendo, e banqueteando-se por causa de todo o grande despojo que haviam tomado da terra dos filisteus e da terra de Judá.
+
+[[v9-30-17]]
+
+^<<v9-30-17,17>>^ E Davi foi golpeá-los desde o crepúsculo matutino até à noitinha, para devotá-los à destruição;^&#42;1^ e nenhum homem deles escapou exceto quatrocentos homens moços que montaram em camelos e se puseram em fuga.
+
+[NOTE]
+====
+. “Para devotá-los à destruição”, mediante uma emenda; M: “do dia seguinte deles”.
+====
+
+[[v9-30-18]]
+
+^<<v9-30-18,18>>^ E Davi chegou a livrar tudo o que os amalequitas tinham tomado e Davi livrou as suas duas esposas.
+
+[[v9-30-19]]
+
+^<<v9-30-19,19>>^ E não faltava nada do que era deles, desde o menor até o maior e até os filhos e as filhas dentre o despojo, até mesmo tudo o que tinham tomado para si. Davi recuperou tudo.
+
+[[v9-30-20]]
+
+^<<v9-30-20,20>>^ De modo que Davi tomou todos os rebanhos e as manadas, que conduziram embora na frente daquele [outro] gado. Então disseram: “Este é o despojo de Davi.”
+
+[[v9-30-21]]
+
+^<<v9-30-21,21>>^ Por fim, Davi chegou aos duzentos homens que tinham estado cansados demais para acompanhar Davi^&#42;1^ e que deixaram^&#42;2^ sentados junto ao vale da torrente de Besor; e eles saíram ao encontro de Davi e ao encontro do povo que estava com ele. Quando Davi se aproximou do povo, começou a perguntar como estavam.
+
+[NOTE]
+====
+. Ou “atrás de Davi”.
+. “Deixaram”, M; LXXSyVg: “deixou”.
+====
+
+[[v9-30-22]]
+
+^<<v9-30-22,22>>^ No entanto, todo homem mau e imprestável dentre os homens que haviam ido com Davi respondeu e dizia: “Por não terem ido conosco,^&#42;1^ não lhes daremos nada do despojo que livramos, a não ser a cada um a sua esposa e seus filhos, e conduzam-nos embora e vão.”
+
+[NOTE]
+====
+. “Conosco”, LXXSyVg e seis mss. hebr.; M: “comigo”.
+====
+
+[[v9-30-23]]
+
+^<<v9-30-23,23>>^ Davi disse, porém: “Não deveis fazer assim, meus irmãos, com aquilo que Jeová nos deu, visto que ele nos resguardou e entregou na nossa mão a guerrilha que veio contra nós.
+
+[[v9-30-24]]
+
+^<<v9-30-24,24>>^ E quem vos escutará com respeito a esta declaração?^&#42;1^ Pois, qual o quinhão daquele que desceu à batalha, tal o quinhão daquele que ficou sentado com a bagagem. Todos compartilharão juntos.”
+
+[NOTE]
+====
+. “Esta declaração?”, MSyVg; LXX: “esta declaração? Porque não são inferiores a vós.”
+====
+
+[[v9-30-25]]
+
+^<<v9-30-25,25>>^ E daquele dia em diante deu-se que ele o manteve estabelecido como regulamento e como decisão judicial para Israel até o dia de hoje.
+
+[[v9-30-26]]
+
+^<<v9-30-26,26>>^ Quando Davi veio a Ziclague, passou a enviar parte do despojo aos anciãos de Judá, seus amigos, dizendo: “Eis um presente de bênção para vós do despojo dos inimigos de Jeová.”
+
+[[v9-30-27]]
+
+^<<v9-30-27,27>>^ Aos que estavam em Betel, e aos em Ramote do sul, e aos em Jatir,
+
+[[v9-30-28]]
+
+^<<v9-30-28,28>>^ e aos em Aroer, e aos em Sifmote, e aos em Estemoa,
+
+[[v9-30-29]]
+
+^<<v9-30-29,29>>^ e aos em Racal, e aos nas cidades dos jerameelitas, e aos nas cidades dos queneus,
+
+[[v9-30-30]]
+
+^<<v9-30-30,30>>^ e aos em Hormá, e aos em Borasã, e aos em Ataque,
+
+[[v9-30-31]]
+
+^<<v9-30-31,31>>^ e aos em Hébron, e a todos os lugares onde Davi havia andado, ele e seus homens.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-029.adoc#v9-29-0[&#60; Capítulo Anterior] | <<v9-30-0,Topo>> | xref:009-1-samuel/009-1-samuel-031.adoc#v9-31-0[Próximo Capítulo &#62;]

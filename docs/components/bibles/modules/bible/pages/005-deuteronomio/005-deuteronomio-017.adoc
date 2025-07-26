@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v5-17-0]]
+=== Deuteronômio, 17
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-17-1]]
+
+^<<v5-17-1,1>>^ “Não deves sacrificar para Jeová, teu Deus, um touro ou um ovídeo em que se mostre haver defeito, algo de mau; porque é algo detestável para Jeová, teu Deus.
+
+[[v5-17-2]]
+
+^<<v5-17-2,2>>^ “Caso no teu meio em uma das tuas cidades que Jeová, teu Deus, te dá seja achado um homem ou uma mulher que pratique o que é mau aos olhos de Jeová, teu Deus, de modo a infringir o seu pacto,
+
+[[v5-17-3]]
+
+^<<v5-17-3,3>>^ e ele vá e adore outros deuses, e se curve diante deles ou diante do sol, ou da lua, ou de todo o exército^&#42;1^ dos céus, coisa que não mandei,
+
+[NOTE]
+====
+. Ou “hoste”.
+====
+
+[[v5-17-4]]
+
+^<<v5-17-4,4>>^ e isso te foi contado, e tu o ouviste e pesquisaste cabalmente, e eis que a coisa ficou estabelecida como verdadeira, fez-se tal coisa detestável em Israel!
+
+[[v5-17-5]]
+
+^<<v5-17-5,5>>^ então tens de levar para fora, aos teus portões, tal homem ou tal mulher que fez essa coisa má, sim, o homem ou a mulher, e tens de matar tal pessoa a pedradas e tal pessoa tem de morrer.
+
+[[v5-17-6]]
+
+^<<v5-17-6,6>>^ Pela boca^&#42;1^ de duas ou três testemunhas deve ser morto aquele que há de morrer. Não será morto pela boca de uma só testemunha.
+
+[NOTE]
+====
+. Ou: “Pela declaração.”
+====
+
+[[v5-17-7]]
+
+^<<v5-17-7,7>>^ A mão das testemunhas deve ser a primeira a vir sobre ele para o entregar à morte, e depois a mão de todo o povo; e tens de eliminar o mal do teu meio.
+
+[[v5-17-8]]
+
+^<<v5-17-8,8>>^ “Caso alguma causa para decisão judicial te seja extraordinária demais, uma em que se derramou sangue, em que se tenha feito uma demanda judicial, ou se cometeu um ato de violência,^&#42;1^ questões de disputa, dentro dos teus portões, então tens de levantar-te e subir ao lugar que Jeová, teu Deus, escolher,
+
+[NOTE]
+====
+. Lit.: “entre sangue e sangue, entre reivindicação legal e reivindicação legal, e entre ato de violência e ato de violência”.
+====
+
+[[v5-17-9]]
+
+^<<v5-17-9,9>>^ e tens de dirigir-te aos sacerdotes, aos levitas e ao juiz que estiver em exercício nesses dias, e tens de fazer uma consulta, e eles têm de transmitir-te a palavra da decisão judicial.
+
+[[v5-17-10]]
+
+^<<v5-17-10,10>>^ Então tens de proceder de acordo com a palavra que te transmitirão do lugar que Jeová escolher; e tens de cuidar em fazer segundo tudo o que te instruírem.
+
+[[v5-17-11]]
+
+^<<v5-17-11,11>>^ Deves proceder de acordo com a lei que te indicarão e segundo a decisão judicial que te disserem. Não te deves desviar da palavra que te transmitirão, nem para a direita, nem para a esquerda.
+
+[[v5-17-12]]
+
+^<<v5-17-12,12>>^ E o homem que se comportar presunçosamente, não escutando o sacerdote que ali está de pé para ministrar a Jeová, teu Deus, ou o juiz, tal homem tem de morrer; e tens de eliminar o mal de Israel.
+
+[[v5-17-13]]
+
+^<<v5-17-13,13>>^ E todo o povo ouvirá e ficará com medo, e não mais agirão presunçosamente.
+
+[[v5-17-14]]
+
+^<<v5-17-14,14>>^ “Quando por fim entrares na terra que Jeová, teu Deus, te dá, e tiveres tomado posse dela e morado nela, e disseres: ‘Deixa-me estabelecer sobre mim um rei igual a todas as nações em volta de mim’;
+
+[[v5-17-15]]
+
+^<<v5-17-15,15>>^ deves impreterivelmente estabelecer sobre ti o rei que Jeová, teu Deus, escolher. Dentre os teus irmãos deves estabelecer sobre ti um rei. Não se te permitirá estabelecer sobre ti um estrangeiro que não seja teu irmão.
+
+[[v5-17-16]]
+
+^<<v5-17-16,16>>^ Somente não deve aumentar para si cavalos, nem fazer o povo retornar ao Egito, para aumentar [o número dos] cavalos; ao passo que Jeová vos disse: ‘Nunca mais deveis retornar por este caminho.’
+
+[[v5-17-17]]
+
+^<<v5-17-17,17>>^ Tampouco deve multiplicar para si esposas, para que seu coração não se desvie; nem deve aumentar muito para si a prata e o ouro.
+
+[[v5-17-18]]
+
+^<<v5-17-18,18>>^ E tem de suceder que, quando se tiver assentado no trono do seu reino, ele terá de escrever para si num livro uma cópia desta lei daquela que está ao cargo dos sacerdotes, os levitas.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “uma cópia desta lei de diante dos sacerdotes, os levitas”, M; LXX: “deste deu·te·ro·nó·mi·on (segunda lei) por meio dos (procedente dos) sacerdotes, os levitas”; Vg: “um deu·te·ro·nó·mi·um desta lei, tomando (aceitando) um exemplar dos sacerdotes da tribo levítica”. Veja 1:1 n.: “palavras”.
+====
+
+[[v5-17-19]]
+
+^<<v5-17-19,19>>^ “E tem de ficar com ele, e ele tem de ler nele todos os dias da sua vida, a fim de aprender a temer a Jeová, seu Deus, para guardar todas as palavras desta lei e estes regulamentos, cumprindo-os;
+
+[[v5-17-20]]
+
+^<<v5-17-20,20>>^ para que seu coração não se exalte acima dos seus irmãos e ele não se desvie do mandamento nem para a direita nem para a esquerda, a fim de que prolongue seus dias no seu reino, ele e seus filhos no meio de Israel.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-016.adoc#v5-16-0[&#60; Capítulo Anterior] | <<v5-17-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-018.adoc#v5-18-0[Próximo Capítulo &#62;]

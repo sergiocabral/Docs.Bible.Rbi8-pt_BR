@@ -1,0 +1,245 @@
+include::./index.adoc[]
+
+[[v24-2-0]]
+=== Jeremias, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-2-1]]
+
+^<<v24-2-1,1>>^ E passou a vir a haver para mim a palavra de Jeová, dizendo:
+
+[[v24-2-2]]
+
+^<<v24-2-2,2>>^ “Vai,^&#42;1^ e tens de clamar aos ouvidos de Jerusalém, dizendo: ‘Assim disse Jeová: “Eu bem me lembro, a teu^&#42;2^ respeito, da benevolência^&#42;3^ da tua mocidade, do amor durante o teu noivado, de teres andado atrás de mim no ermo, numa terra não semeada.
+
+[NOTE]
+====
+. Lit.: “Vá-se.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+. “Teu”, hebr. fem. sing., dirigido a “Jerusalém”.
+. Ou “amor leal”. Hebr.: hhé·sedh.
+====
+
+[[v24-2-3]]
+
+^<<v24-2-3,3>>^ Israel era algo santo^&#42;1^ para Jeová, a primeira safra para Ele.”’^&#42;2^ ‘Quaisquer pessoas que o devorassem se tornariam culpadas. A própria calamidade viria sobre elas’, foi a pronunciação de Jeová.”
+
+[NOTE]
+====
+. Ou “era santidade”. Hebr.: qó·dhesh.
+. Ou “as primícias dos Seus produtos”.
+====
+
+[[v24-2-4]]
+
+^<<v24-2-4,4>>^ Ouvi a palavra de Jeová, ó casa de Jacó, e todas vós, famílias da casa de Israel.
+
+[[v24-2-5]]
+
+^<<v24-2-5,5>>^ Assim disse Jeová: “Que é que os vossos pais acharam em mim de injusto, de modo que ficaram longe de mim, e continuaram a andar atrás do ídolo vão e a tornar-se eles mesmos vãos?
+
+[[v24-2-6]]
+
+^<<v24-2-6,6>>^ E eles não disseram: ‘Onde está Jeová, Aquele que nos fez subir da terra do Egito, Aquele que nos fez andar pelo ermo, por uma terra de planície desértica e de cova, por uma terra sem água e de sombra tenebrosa,^&#42;1^ por uma terra pela qual não passava homem^&#42;2^ e em que não morava homem terreno?’^&#42;3^
+
+[NOTE]
+====
+. Ou “sombra da morte”.
+. “Homem.” Hebr.: ’ish.
+. “Homem terreno.” Hebr.: ’a·dhám.
+====
+
+[[v24-2-7]]
+
+^<<v24-2-7,7>>^ “E eu vos trouxe gradualmente a uma terra de pomar, para comerdes os seus frutos e as suas coisas boas. Mas vós entrastes e aviltastes a minha terra; e de minha própria herança fizestes algo detestável.
+
+[[v24-2-8]]
+
+^<<v24-2-8,8>>^ Os próprios sacerdotes não disseram: ‘Onde está Jeová?’ E mesmo aqueles que lidavam com a lei não me conheceram; e os próprios pastores transgrediram^&#42;1^ contra mim e até mesmo os profetas profetizaram por Baal, e andaram atrás dos que não podiam trazer nenhum proveito.
+
+[NOTE]
+====
+. Ou “revoltaram-se”.
+====
+
+[[v24-2-9]]
+
+^<<v24-2-9,9>>^ “‘Por isso contenderei ainda mais convosco’, é a pronunciação de Jeová, ‘e contenderei com os filhos de vossos filhos’.
+
+[[v24-2-10]]
+
+^<<v24-2-10,10>>^ “‘Mas passai para os litorais^&#42;1^ de Quitim e vede. Sim, enviai [alguém] mesmo a Quedar e dai consideração especial, e vede se já aconteceu uma coisa destas.
+
+[NOTE]
+====
+. Ou “ilhas”.
+====
+
+[[v24-2-11]]
+
+^<<v24-2-11,11>>^ Acaso alguma nação trocou os deuses, sim, pelos que não são deuses?^&#42;1^ Mas o meu próprio povo trocou a minha^&#42;2^ glória por aquilo que não pode trazer proveito.
+
+[NOTE]
+====
+. “Não são deuses.” Hebr.: lo’ ’elo·hím.
+. “Minha”, no texto original hebr.; MLXXSyVg: “sua”. Esta é uma das Dezoito Emendas feitas pelos soferins por uma mal aplicada reverência por Jeová Deus. Veja Ap. 2B.
+====
+
+[[v24-2-12]]
+
+^<<v24-2-12,12>>^ Olhai espantados para isso, ó céus; e ficai arrepiados em grandíssimo horror’,^&#42;1^ é a pronunciação de Jeová,
+
+[NOTE]
+====
+. “Em grandíssimo horror”, mediante uma correção; M: “ficai muitíssimo devastados”.
+====
+
+[[v24-2-13]]
+
+^<<v24-2-13,13>>^ ‘porque há duas coisas más que meu povo tem feito: Abandonaram-me, a mim, a fonte de água viva, a fim de escavarem para si cisternas, cisternas rotas, que não podem conter água.’
+
+[[v24-2-14]]
+
+^<<v24-2-14,14>>^ “‘Porventura é Israel um servo^&#42;1^ ou um escravo nascido entre os da casa? Por que é que ele veio a ficar para saque?
+
+[NOTE]
+====
+. Ou: “Porventura é Israel um escravo.” Hebr.: ha·‛é·vedh Yis·ra·’él.
+====
+
+[[v24-2-15]]
+
+^<<v24-2-15,15>>^ Contra ele bramem leões novos jubados; deram vazão à sua voz. E foram fazer da terra dele um assombro. Suas próprias cidades foram incendiadas, de modo que não há habitante.
+
+[[v24-2-16]]
+
+^<<v24-2-16,16>>^ Até mesmo os próprios filhos de Nofe^&#42;1^ e de Tafnes^&#42;2^ se alimentavam de ti, no alto da cabeça.
+
+[NOTE]
+====
+. “Mênfis”, LXXVg.
+. “Tafnes”, Mmargem.
+====
+
+[[v24-2-17]]
+
+^<<v24-2-17,17>>^ Não é isto o que passaste a fazer a ti mesma por teres abandonado a Jeová, teu Deus, no tempo em que [ele] te fazia andar no caminho?
+
+[[v24-2-18]]
+
+^<<v24-2-18,18>>^ E agora, que interesse é que terias no caminho do Egito, para beberes as águas de Sior?^&#42;1^ E que interesse terias no caminho da Assíria, para beberes as águas do Rio?^&#42;2^
+
+[NOTE]
+====
+. Ou “dum braço do Nilo”.
+. Isto é, o Eufrates.
+====
+
+[[v24-2-19]]
+
+^<<v24-2-19,19>>^ Tua maldade devia corrigir-te e teus próprios atos de infidelidade deviam repreender-te. Sabe, pois, e vê que teres abandonado a Jeová, teu Deus, é algo mau e amargo, e nenhum pavor de mim [resultou] para ti’, é a pronunciação do Soberano Senhor, Jeová dos exércitos.
+
+[[v24-2-20]]
+
+^<<v24-2-20,20>>^ “‘Pois, há muito tempo quebrei o teu jugo; rompi as tuas ligaduras. Mas tu disseste: “Não vou servir”, porque sobre todo morro alto e debaixo de cada árvore frondosa jazias espraiada, prostituindo-te.
+
+[[v24-2-21]]
+
+^<<v24-2-21,21>>^ E no que se refere a mim, eu te tinha plantado como videira seleta de casta tinta, toda ela [de] semente verdadeira. Portanto, como é que te transformaste para mim em [varas] degeneradas duma videira estrangeira?’
+
+[[v24-2-22]]
+
+^<<v24-2-22,22>>^ “‘Porém, mesmo que fizesses a lavagem com álcali e tomasses para ti grandes quantidades de barrela, teu erro certamente seria uma mancha diante de mim’, é a pronunciação do Soberano Senhor Jeová.
+
+[[v24-2-23]]
+
+^<<v24-2-23,23>>^ Como podes dizer: ‘Não me aviltei. Não andei atrás dos Baalins’?^&#42;1^ Vê o teu caminho no vale. Nota o que fizeste. Uma veloz fêmea nova de camelo correndo a esmo para lá e para cá nos seus caminhos;
+
+[NOTE]
+====
+. Ou “imagens de Baal”.
+====
+
+[[v24-2-24]]
+
+^<<v24-2-24,24>>^ uma zebra acostumada ao ermo, no almejo da sua alma, fungando o vento;^&#42;1^ no seu tempo de cio, quem a pode fazer voltar atrás? Todos os que a procurarem não se cansarão. Achá-la-ão no seu mês.
+
+[NOTE]
+====
+. “Vento.” Hebr.: rú·ahh. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v24-2-25]]
+
+^<<v24-2-25,25>>^ Impede teu pé de [ficar] descalço e tua garganta de [ficar com] sede. Mas passaste a dizer: ‘É sem esperança! Não, mas enamorei-me de estranhos e vou andar atrás deles.’
+
+[[v24-2-26]]
+
+^<<v24-2-26,26>>^ “Como que [sentindo] a vergonha do ladrão quando é descoberto, assim se sentiram envergonhados os da casa de Israel, eles, seus reis, seus príncipes e seus sacerdotes, e seus profetas.
+
+[[v24-2-27]]
+
+^<<v24-2-27,27>>^ Estão dizendo a uma árvore: ‘Tu és meu pai’, e a uma pedra: ‘Tu mesma me deste à luz.’ Mas para mim viraram a nuca e não a face. E no tempo da sua calamidade dirão: ‘Levanta-te deveras e salva-nos!’
+
+[[v24-2-28]]
+
+^<<v24-2-28,28>>^ “Ora, onde estão os teus deuses^&#42;1^ que fizeste para ti? Que se levantem, se é que te podem salvar no tempo da tua calamidade. Pois os teus deuses se tornaram iguais ao número das tuas cidades, ó Judá.
+
+[NOTE]
+====
+. “Teus deuses.” Hebr.: ’elo·heí·kha, pl. de ’elóh·ah junto com eí·kha, “teus”, hebr. masc. sing., dirigido a “Judá”.
+====
+
+[[v24-2-29]]
+
+^<<v24-2-29,29>>^ “‘Por que é que continuais a contender comigo? Por que é que todos vós transgredistes contra mim?’ é a pronunciação de Jeová.
+
+[[v24-2-30]]
+
+^<<v24-2-30,30>>^ Em vão golpeei os vossos filhos. Não aceitaram a disciplina. Vossa espada devorou os vossos profetas, qual leão que causa ruína.
+
+[[v24-2-31]]
+
+^<<v24-2-31,31>>^ Ó geração, vede por vós mesmos a palavra de Jeová.
+“Porventura tornei-me para Israel um mero ermo ou uma terra de profunda escuridão? Por que é que estes, meu povo, disseram: ‘Estivemos peregrinando. Não viremos mais a ti’?
+
+[[v24-2-32]]
+
+^<<v24-2-32,32>>^ Pode a virgem esquecer-se dos seus enfeites, a noiva, das suas faixas para o busto? E, no entanto, meu próprio povo — esqueceram-se de mim por dias inumeráveis.
+
+[[v24-2-33]]
+
+^<<v24-2-33,33>>^ “Por que, ó mulher, melhoras o teu^&#42;1^ caminho para procurar amor? Por isso também ensinaste coisas más aos teus caminhos.
+
+[NOTE]
+====
+. “Teu”, hebr. fem. sing., dirigido a Jerusalém ou Sião.
+====
+
+[[v24-2-34]]
+
+^<<v24-2-34,34>>^ Também, nas tuas saias^&#42;1^ foram achadas as manchas de sangue^&#42;2^ das almas^&#42;3^ dos pobres inocentes. Não as encontrei no ato de arrombamento,^&#42;4^ mas [estão] em todas estas.
+
+[NOTE]
+====
+. “Saias”, MVg; LXXSy: “mãos”.
+. “Manchas de sangue.” LXX: “sangues”. Lit.: “sangue”, sing. no M, mas o verbo hebr. acompanhante para “foram achadas” e o pronome hebr. seguinte para “as [encontrei]” estão no pl.
+. “Das almas dos.” Hebr.: naf·shóhth; gr.: psy·khón; lat.: a·ni·má·rum. Veja Ap. 4A.
+. Ou “violação de domicílio”.
+====
+
+[[v24-2-35]]
+
+^<<v24-2-35,35>>^ “Mas tu dizes: ‘Permaneci inocente. Decerto, a sua ira recuou de mim.’
+“Eis que entro numa controvérsia contigo por dizeres: ‘Não pequei.’
+
+[[v24-2-36]]
+
+^<<v24-2-36,36>>^ Por que tratas como muito insignificante a mudança do teu caminho? Também do Egito te envergonharás, assim como te envergonhaste da Assíria.
+
+[[v24-2-37]]
+
+^<<v24-2-37,37>>^ Também por esta causa sairás com as tuas mãos sobre a cabeça, porque Jeová rejeitou os objetos da tua confiança e não terás êxito com eles.”
+
+'''
+
+xref:024-jeremias/024-jeremias-001.adoc#v24-1-0[&#60; Capítulo Anterior] | <<v24-2-0,Topo>> | xref:024-jeremias/024-jeremias-003.adoc#v24-3-0[Próximo Capítulo &#62;]

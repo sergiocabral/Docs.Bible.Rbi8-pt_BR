@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v24-46-0]]
+=== Jeremias, 46
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-46-1]]
+
+^<<v24-46-1,1>>^ Isto é o que veio a haver como palavra de Jeová para Jeremias, o profeta, a respeito das nações:
+
+[[v24-46-2]]
+
+^<<v24-46-2,2>>^ Para o Egito, referente à força militar de Faraó Neco,^&#42;1^ rei do Egito, que veio a estar junto ao rio Eufrates, em Carquemis, a quem Nabucodorosor, rei de Babilônia, derrotou no quarto ano de Jeoiaquim, filho de Josias, rei de Judá:
+
+[NOTE]
+====
+. Ou “Necau”. LXXVg: “Necao”.
+====
+
+[[v24-46-3]]
+
+^<<v24-46-3,3>>^ “Enfileirai o broquel e o escudo grande e aproximai-vos para a batalha.
+
+[[v24-46-4]]
+
+^<<v24-46-4,4>>^ Arreai os cavalos e montai, ó cavaleiros, e postai-vos com o capacete. Bruni as lanças. Vesti cotas de malha.
+
+[[v24-46-5]]
+
+^<<v24-46-5,5>>^ “‘Por que é que os vi aterrorizados? Eles retrocedem, e os próprios poderosos deles estão esmiuçados; e eles positivamente fugiram e não se viraram. Há horror ao redor’, é a pronunciação de Jeová.
+
+[[v24-46-6]]
+
+^<<v24-46-6,6>>^ ‘Não tente fugir o ligeiro e não tente escapar o poderoso. Lá no norte, junto à margem do rio Eufrates, eles tropeçaram e caíram.’
+
+[[v24-46-7]]
+
+^<<v24-46-7,7>>^ “Quem é este que sobe como o rio Nilo, como os rios cujas águas se encapelam?
+
+[[v24-46-8]]
+
+^<<v24-46-8,8>>^ O próprio Egito sobe como o rio Nilo e como rios cujas águas se encapelam. E diz: ‘Subirei. Cobrirei a terra. Destruirei prontamente a cidade e os que habitam nela.’
+
+[[v24-46-9]]
+
+^<<v24-46-9,9>>^ Subi, ó cavalos; e andai como doidos, ó carros! E saiam os poderosos, Cus^&#42;1^ e Pute, que manejam o escudo, e os ludins que manejam [e] entesam o arco.
+
+[NOTE]
+====
+. “Cus”, M; TSy: “cusitas”; LXX: “dos etíopes”; Vg: “Etiópia”.
+====
+
+[[v24-46-10]]
+
+^<<v24-46-10,10>>^ “E aquele dia pertence ao Soberano Senhor, Jeová dos exércitos, o dia de vingança para vingar-se dos seus adversários. E a espada há de devorar e fartar-se, e embebedar-se do seu sangue, porque o Soberano Senhor, Jeová dos exércitos, tem um sacrifício na terra do norte, junto ao rio Eufrates.
+
+[[v24-46-11]]
+
+^<<v24-46-11,11>>^ “Sobe a Gileade e obtém bálsamo, ó virgem filha do Egito. Foi em vão que multiplicaste os meios de cura. Não há restabelecimento para ti.
+
+[[v24-46-12]]
+
+^<<v24-46-12,12>>^ As nações ouviram [falar] da tua desonra^&#42;1^ e teu próprio clamor encheu a terra.^&#42;2^ Pois tropeçaram, poderoso contra poderoso. Ambos caíram juntos.”
+
+[NOTE]
+====
+. “Desonra”, MTSyVg; LXX: “voz”.
+. “A terra.” Hebr.: ha·’á·rets.
+====
+
+[[v24-46-13]]
+
+^<<v24-46-13,13>>^ A palavra que Jeová falou a Jeremias, o profeta, concernente à vinda de Nabucodorosor, rei de Babilônia, para golpear a terra do Egito:
+
+[[v24-46-14]]
+
+^<<v24-46-14,14>>^ “Contai-o no Egito, e publicai-o em Migdol, e publicai-o em Nofe^&#42;1^ e em Tafnes. Dizei: ‘Toma posição, faze também preparativos para ti, pois uma espada há de devorar em todo o teu redor.
+
+[NOTE]
+====
+. “Nofe”, M; T(aram.): Ma·féhs; LXXVg: “Mênfis”.
+====
+
+[[v24-46-15]]
+
+^<<v24-46-15,15>>^ Por que foram arrasados os teus possantes? Não mantiveram posição firme, porque o próprio Jeová os empurrou.
+
+[[v24-46-16]]
+
+^<<v24-46-16,16>>^ Tropeçam em grandes números. Também caem realmente. E estão dizendo, um ao outro: “Levanta-te deveras e retornemos deveras ao nosso povo e à terra de nossa parentela, por causa da espada que maltrata.”’
+
+[[v24-46-17]]
+
+^<<v24-46-17,17>>^ Ali proclamaram: ‘Faraó, o rei do Egito, é meramente um barulho. Deixou passar o tempo festivo.’
+
+[[v24-46-18]]
+
+^<<v24-46-18,18>>^ “‘Assim como vivo’, é a pronunciação do Rei, cujo nome é Jeová dos exércitos, ‘ele entrará como Tabor entre os montes e como o Carmelo junto ao mar.
+
+[[v24-46-19]]
+
+^<<v24-46-19,19>>^ Faze para ti meramente bagagem para o exílio, ó moradora, filha do Egito. Pois a própria Nofe tornar-se-á mero assombro e será realmente incendiada, de modo a ficar sem habitante.
+
+[[v24-46-20]]
+
+^<<v24-46-20,20>>^ O Egito é como uma novilha bonita. Contra ela^&#42;1^ há de vir do norte o próprio mosquito.
+
+[NOTE]
+====
+. “Contra ela”, TLXXSy e 100 mss. hebr.
+====
+
+[[v24-46-21]]
+
+^<<v24-46-21,21>>^ Além disso, seus [soldados] mercenários no meio dela são como bezerros cevados. Mas eles mesmos também cederam; fugiram juntos. Não se mantiveram firmes. Pois chegou sobre eles o próprio dia do seu desastre, o tempo de se fixar a atenção neles.’
+
+[[v24-46-22]]
+
+^<<v24-46-22,22>>^ “‘Sua voz é como a duma serpente que avança; pois homens irão com energia vital e realmente entrarão até ela com machados, como os que ajuntam^&#42;1^ lenha.
+
+[NOTE]
+====
+. Ou “cortam”.
+====
+
+[[v24-46-23]]
+
+^<<v24-46-23,23>>^ Certamente cortarão a floresta dela’, é a pronunciação de Jeová, ‘porque não se podia penetrar nela. Pois, tornaram-se mais numerosos do que o gafanhoto, e são inúmeros.
+
+[[v24-46-24]]
+
+^<<v24-46-24,24>>^ A filha do Egito certamente se sentirá envergonhada. Ela será realmente entregue na mão do povo do norte.’
+
+[[v24-46-25]]
+
+^<<v24-46-25,25>>^ “Jeová dos exércitos, o Deus de Israel, disse: ‘Eis que volto a minha atenção para Amom,^&#42;1^ de Nô,^&#42;2^ e para Faraó, e para o Egito, e para os seus deuses, e para os seus reis, sim, para Faraó e para todos os que confiam nele.’
+
+[NOTE]
+====
+. Ou “Amém”. M: ’A·móhn, uma palavra egípcia.
+. “De Nô”, M; TVg: “de Alexandria”; LXX: “seu filho”; Sy: “das águas”. Também conhecida como Tebas.
+====
+
+[[v24-46-26]]
+
+^<<v24-46-26,26>>^ “‘E vou entregá-los na mão dos que procuram a sua alma,^&#42;1^ e na mão de Nabucodorosor, rei de Babilônia, e na mão dos seus servos; e depois se residirá nela como nos dias de outrora’, é a pronunciação de Jeová.
+
+[NOTE]
+====
+. “Sua alma.” Hebr.: naf·shám; lat.: á·ni·mam. Veja Ap. 4A.
+====
+
+[[v24-46-27]]
+
+^<<v24-46-27,27>>^ “‘E quanto a ti, não tenhas medo, ó meu servo Jacó, e não fiques aterrorizado, ó Israel. Pois eis que te salvo do longínquo e a tua descendência da terra do seu cativeiro. E Jacó há de retornar e ter sossego, e estar despreocupado, e sem que alguém cause tremor.
+
+[[v24-46-28]]
+
+^<<v24-46-28,28>>^ No que se refere a ti, não tenhas medo, ó meu servo Jacó’, é a pronunciação de Jeová, ‘pois eu estou contigo. Porque farei uma exterminação entre todas as nações às quais te dispersei, mas contigo não farei nenhuma exterminação. Todavia, terei de castigar-te no devido grau e de modo algum te deixarei impune.’”
+
+'''
+
+xref:024-jeremias/024-jeremias-045.adoc#v24-45-0[&#60; Capítulo Anterior] | <<v24-46-0,Topo>> | xref:024-jeremias/024-jeremias-047.adoc#v24-47-0[Próximo Capítulo &#62;]

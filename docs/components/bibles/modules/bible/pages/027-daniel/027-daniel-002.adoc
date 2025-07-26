@@ -1,0 +1,314 @@
+include::./index.adoc[]
+
+[[v27-2-0]]
+=== Daniel, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v27-2-1]]
+
+^<<v27-2-1,1>>^ E no segundo ano do reinado de Nabucodonosor, Nabucodonosor teve sonhos; e seu espírito começou a ficar agitado e até seu sono se tornou algo além dele.
+
+[[v27-2-2]]
+
+^<<v27-2-2,2>>^ Portanto, o rei disse que se chamassem os sacerdotes-magos, e os conjuradores, e os feiticeiros, e os caldeus, para que contassem ao rei os seus sonhos. E eles passaram a entrar e a ficar de pé perante o rei.
+
+[[v27-2-3]]
+
+^<<v27-2-3,3>>^ O rei disse-lhes então: “Tive um sonho, e meu espírito está agitado para saber o sonho.”
+
+[[v27-2-4]]
+
+^<<v27-2-4,4>>^ Então falaram os caldeus ao rei na língua aramaica:^&#42;1^ “Ó rei, vive por tempos indefinidos. Dize aos teus servos qual foi o sonho e nós mostraremos a própria interpretação.”
+
+[NOTE]
+====
+. Ou “na língua araméia”. Hebr.: ’Ara·míth; gr.: Sy·ri·stí; lat.: sy·rí·a·ce. Daqui até o fim do cap. 7 o texto de Daniel é aram.
+====
+
+[[v27-2-5]]
+
+^<<v27-2-5,5>>^ Respondeu o rei e disse aos caldeus: “Estou promulgando a palavra: Se vós não me fizerdes saber o sonho e a sua interpretação, sereis desmembrados e as vossas próprias casas serão transformadas em latrinas públicas.
+
+[[v27-2-6]]
+
+^<<v27-2-6,6>>^ Mas, se me mostrardes o sonho e sua interpretação, recebereis da minha parte dádivas, e um presente, e muita dignidade. Portanto, mostrai-me o próprio sonho e sua interpretação.”
+
+[[v27-2-7]]
+
+^<<v27-2-7,7>>^ Eles responderam pela segunda vez e disseram: “Diga o rei aos seus servos qual foi o sonho e nós mostraremos a própria interpretação dele.”
+
+[[v27-2-8]]
+
+^<<v27-2-8,8>>^ Respondeu o rei e disse: “Deveras, percebo que estais querendo ganhar tempo, porque vos apercebestes de que estou promulgando a palavra.
+
+[[v27-2-9]]
+
+^<<v27-2-9,9>>^ Pois, se não me fizerdes saber o próprio sonho, está sobre vós esta única sentença. Mas concordastes em dizer-me uma palavra mentirosa e errada até que se mude o próprio tempo. Por isso, dizei-me o próprio sonho, e saberei que podeis mostrar a própria interpretação dele.”
+
+[[v27-2-10]]
+
+^<<v27-2-10,10>>^ Os caldeus responderam perante o rei e disseram: “Não há homem na terra seca que seja capaz de mostrar o assunto do rei, porque nenhum grandioso rei ou governante [jamais] pediu tal coisa de qualquer sacerdote-mago, ou conjurador, ou caldeu.
+
+[[v27-2-11]]
+
+^<<v27-2-11,11>>^ Mas a coisa que o próprio rei está pedindo é difícil, e não há ninguém mais que possa mostrá-la ao rei exceto os deuses,^&#42;1^ cuja morada não está absolutamente com a carne.”
+
+[NOTE]
+====
+. “Deuses.” Aram.: ’ela·hín.
+====
+
+[[v27-2-12]]
+
+^<<v27-2-12,12>>^ Por causa disso, o próprio rei ficou irado e muito furioso, e disse que destruíssem todos os sábios de Babilônia.^&#42;1^
+
+[NOTE]
+====
+. “Babilônia”, LXXBagsterVg; MSy: “Babel”.
+====
+
+[[v27-2-13]]
+
+^<<v27-2-13,13>>^ E saiu a própria ordem, e os sábios estavam para ser mortos;^&#42;1^ e estavam procurando Daniel e seus companheiros para que fossem mortos.
+
+[NOTE]
+====
+. Lit.: “estavam sendo mortos”.
+====
+
+[[v27-2-14]]
+
+^<<v27-2-14,14>>^ Naquele tempo, Daniel,^&#42;1^ da sua parte, dirigiu-se com conselho e com sensatez a Arioque, chefe da guarda pessoal do rei, que saíra para matar os sábios de Babilônia.
+
+[NOTE]
+====
+. “Daniel.” Aram.: Da·ni·yé’l, grafado do mesmo modo que no hebr. Veja Título n.
+====
+
+[[v27-2-15]]
+
+^<<v27-2-15,15>>^ Respondeu e disse a Arioque, o alto funcionário do rei: “Por que razão há tal ordem dura da parte do rei?” Arioque fez então saber o próprio assunto a Daniel.
+
+[[v27-2-16]]
+
+^<<v27-2-16,16>>^ De modo que o próprio Daniel entrou e solicitou ao rei que lhe desse tempo, especificamente para mostrar ao rei a própria interpretação.
+
+[[v27-2-17]]
+
+^<<v27-2-17,17>>^ Depois Daniel foi para a sua própria casa; e ele fez saber o assunto a Hananias, Misael e Azarias, seus companheiros,
+
+[[v27-2-18]]
+
+^<<v27-2-18,18>>^ [para que] solicitassem misericórdias da parte do Deus^&#42;1^ do céu concernente a este segredo,^&#42;2^ para que Daniel e seus companheiros não fossem destruídos junto com os demais sábios de Babilônia.
+
+[NOTE]
+====
+. “Deus do.” Aram.: ’Eláh; sir.: ’A·la·ha’.
+. “Segredo.” Aram.: ra·záh; gr.: my·ste·rí·ou.
+====
+
+[[v27-2-19]]
+
+^<<v27-2-19,19>>^ Foi então que se revelou a Daniel o segredo numa visão noturna. Por conseguinte, o próprio Daniel bendisse o Deus do céu.^&#42;1^
+
+[NOTE]
+====
+. “O Deus do céu.” Aram.: le·’Eláh shemai·yá’.
+====
+
+[[v27-2-20]]
+
+^<<v27-2-20,20>>^ Daniel respondeu e disse: “Seja bendito o nome de Deus^&#42;1^ de tempo indefinido a tempo indefinido, pois a sabedoria e o poder — pois a ele é que pertencem.
+
+[NOTE]
+====
+. Ou “do [verdadeiro] Deus”. Aram.: di-’Ela·há’; LXXBagster(gr.): tou The·oú; SyVg: “Jeová”.
+====
+
+[[v27-2-21]]
+
+^<<v27-2-21,21>>^ E ele muda os tempos^&#42;1^ e as épocas, removendo reis e estabelecendo reis, dando sabedoria aos sábios e conhecimento aos que têm discernimento.
+
+[NOTE]
+====
+. Ou “tempos designados”. Aram.: ‛id·da·nai·yá’, “os tempos”. Veja 4:16 n.
+====
+
+[[v27-2-22]]
+
+^<<v27-2-22,22>>^ Ele revela as coisas profundas e as coisas escondidas, sabendo o que há na escuridão; e com ele habita a luz.
+
+[[v27-2-23]]
+
+^<<v27-2-23,23>>^ A ti, ó Deus de meus antepassados, dou louvor e elogio, porque me deste sabedoria e poder. E agora me fizeste saber o que te solicitamos, porque nos fizeste saber o próprio assunto do rei.”
+
+[[v27-2-24]]
+
+^<<v27-2-24,24>>^ Por causa disso, o próprio Daniel foi ter com Arioque, a quem o rei designara para destruir os sábios de Babilônia. Entrou e disse-lhe o seguinte: “Não destruas a nenhum dos sábios de Babilônia. Leva-me perante o rei, para que eu mostre ao rei a própria interpretação.”
+
+[[v27-2-25]]
+
+^<<v27-2-25,25>>^ Foi então que Arioque levou Daniel depressa perante o rei e disse-lhe o seguinte: “Achei um varão vigoroso dos exilados^&#42;1^ de Judá, que pode fazer saber ao rei a própria interpretação.”
+
+[NOTE]
+====
+. Lit.: “filhos do exílio”.
+====
+
+[[v27-2-26]]
+
+^<<v27-2-26,26>>^ O rei respondeu e disse a Daniel, cujo nome era Beltessazar:^&#42;1^ “És tu suficientemente competente para me fazer saber o sonho que vi e a sua interpretação?”
+
+[NOTE]
+====
+. “Beltessazar.” Aram.: Bel·tesha’ts·tsár.
+====
+
+[[v27-2-27]]
+
+^<<v27-2-27,27>>^ Daniel respondeu perante o rei e disse: “O segredo que o próprio rei pede, nem os próprios sábios, nem os conjuradores, nem os sacerdotes-magos, [nem] os astrólogos podem mostrar ao rei.
+
+[[v27-2-28]]
+
+^<<v27-2-28,28>>^ No entanto, há nos céus um Deus^&#42;1^ que é Revelador de segredos, e ele fez saber ao Rei Nabucodonosor^&#42;2^ o que há de acontecer na parte final dos dias. Teu sonho e as visões da tua cabeça, na tua cama — são o seguinte:
+
+[NOTE]
+====
+. “Deus.” Aram.: ’Eláh.
+. “Nabucodonosor.” Aram.: Nevu·khadh·nets·tsár.
+====
+
+[[v27-2-29]]
+
+^<<v27-2-29,29>>^ “No que se refere a ti, ó rei, surgiram na tua cama os teus próprios pensamentos quanto ao que há de acontecer depois disso, e Aquele que é Revelador de segredos te fez saber o que há de acontecer.
+
+[[v27-2-30]]
+
+^<<v27-2-30,30>>^ E no que se refere a mim, não é por meio de qualquer sabedoria que haja em mim mais do que em quaisquer outros viventes que este segredo me foi revelado, exceto com o objetivo de que se desse a conhecer a interpretação ao próprio rei e para que soubesses os pensamentos do teu coração.
+
+[[v27-2-31]]
+
+^<<v27-2-31,31>>^ “Tu, ó rei, estavas vendo, e eis uma enorme estátua. Esta estátua, que era grande e cujo esplendor era extraordinário, erguia-se na tua frente, e sua aparência era atemorizante.
+
+[[v27-2-32]]
+
+^<<v27-2-32,32>>^ Quanto à estátua, sua cabeça era de ouro bom, seu peito e seus braços eram de prata, seu ventre e suas coxas eram de cobre,
+
+[[v27-2-33]]
+
+^<<v27-2-33,33>>^ suas pernas eram de ferro, seus pés eram parcialmente de ferro e parcialmente de argila modelada.
+
+[[v27-2-34]]
+
+^<<v27-2-34,34>>^ Estavas olhando até que se cortou^&#42;1^ uma pedra,^&#42;2^ sem mãos, e ela golpeou a estátua nos seus pés de ferro e de argila modelada, e os esmiuçou.
+
+[NOTE]
+====
+. “Cortou”, MSy; LXXVgc: “cortou dum monte”.
+. “Pedra.” Aram.: ’é·ven; gr.: lí·thos; lat.: lá·pis.
+====
+
+[[v27-2-35]]
+
+^<<v27-2-35,35>>^ Nesta ocasião, o ferro, a argila modelada, o cobre, a prata e o ouro foram juntos esmiuçados e tornaram-se como a pragana da eira do verão, e o vento^&#42;1^ os levou embora, de modo que não se achou nenhum traço deles. E no que se refere à pedra que golpeou a estátua, tornou-se um grande monte e encheu a terra inteira.
+
+[NOTE]
+====
+. “O vento.” Aram.: ru·hhá’; LXXBagster(gr.): pneú·ma·tos; lat.: vén·to. Veja Gên 1:2 n.: “ativa”.
+====
+
+[[v27-2-36]]
+
+^<<v27-2-36,36>>^ “Este é o sonho, e nós diremos a sua interpretação perante o rei.
+
+[[v27-2-37]]
+
+^<<v27-2-37,37>>^ Tu, ó rei, rei de reis, tu, a quem o Deus do céu deu o reino, a potência, e o poderio, e a dignidade,
+
+[[v27-2-38]]
+
+^<<v27-2-38,38>>^ e em cuja mão, onde quer que habitem os filhos da humanidade, entregou os animais do campo e as criaturas aladas dos céus, e a quem ele fez governante sobre todos eles, tu mesmo és a cabeça de ouro.
+
+[[v27-2-39]]
+
+^<<v27-2-39,39>>^ “E depois de ti surgirá outro reino, inferior a ti;^&#42;1^ e outro reino, um terceiro, de cobre, que dominará sobre a terra inteira.
+
+[NOTE]
+====
+. Lit.: “de ti em direção à terra”.
+====
+
+[[v27-2-40]]
+
+^<<v27-2-40,40>>^ “E no que se refere ao quarto reino, mostrar-se-á forte como o ferro. Visto que o ferro esmiúça e tritura tudo o mais, assim, qual ferro que quebranta, esmiuçará e quebrantará a todos estes.
+
+[[v27-2-41]]
+
+^<<v27-2-41,41>>^ “E quanto aos pés e aos dedos dos pés, que viste serem parcialmente de argila modelada de oleiro e parcialmente de ferro, o próprio reino se mostrará dividido, porém, mostrar-se-á haver nele algo da dureza do ferro, uma vez que viste o ferro misturado com argila úmida.
+
+[[v27-2-42]]
+
+^<<v27-2-42,42>>^ E quanto aos dedos dos pés serem parcialmente de ferro e parcialmente de argila modelada, o reino mostrar-se-á parcialmente forte e mostrar-se-á parcialmente frágil.
+
+[[v27-2-43]]
+
+^<<v27-2-43,43>>^ Quanto ao que viste o ferro misturado com argila úmida, virão a estar misturados com a descendência^&#42;1^ da humanidade; porém, não mostrarão estar apegados um ao outro, do mesmo modo como o ferro não se mistura com argila modelada.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v27-2-44]]
+
+^<<v27-2-44,44>>^ “E nos dias daqueles reis^&#42;1^ o Deus do céu estabelecerá um reino^&#42;2^ que jamais será arruinado. E o próprio reino^&#42;3^ não passará a qualquer outro povo. Esmiuçará e porá termo a todos estes reinos, e ele mesmo ficará estabelecido por tempos indefinidos;
+
+[NOTE]
+====
+. Aram.: mal·khai·yá’, “dos reis”.
+. “Um reino.” Aram.: mal·khú.
+. Ou: “E o . . . reinado.” Aram.: u·mal·khu·tháh.
+====
+
+[[v27-2-45]]
+
+^<<v27-2-45,45>>^ pois viste que se cortou do monte uma pedra, sem mãos, e [que] ela esmiuçou o ferro, o cobre, a argila modelada, a prata e o ouro. O próprio grandioso Deus^&#42;1^ tem dado a conhecer ao rei o que há de acontecer depois disso. E o sonho é certo e a sua interpretação é fidedigna.”
+
+[NOTE]
+====
+. “O . . . grandioso Deus.” Aram.: ’Eláh rav; gr.: ho The·ós ho mé·gas.
+====
+
+[[v27-2-46]]
+
+^<<v27-2-46,46>>^ Então o próprio Rei Nabucodonosor lançou-se com o rosto [por terra] e prestou homenagem a Daniel, e ele disse que se lhe oferecessem um presente e incenso.
+
+[[v27-2-47]]
+
+^<<v27-2-47,47>>^ O rei respondeu a Daniel e disse: “Verdadeiramente, vosso Deus^&#42;1^ é Deus de deuses^&#42;2^ e Senhor de reis, e Revelador de segredos, porque pudeste revelar este segredo.”
+
+[NOTE]
+====
+. “Vosso Deus.” Aram.: ’Ela·hakhóhn.
+. “Deus de deuses.” Aram.: ’Eláh ’ela·hín (pl. de ’eláh). Na parte aram. de Daniel traduz-se 14 vezes ’ela·hin por “deuses”.
+====
+
+[[v27-2-48]]
+
+^<<v27-2-48,48>>^ Conseqüentemente, o rei fez de Daniel alguém grande e deu-lhe muitas dádivas grandes, e o fez governante de todo o distrito jurisdicional de Babilônia e prefeito supremo sobre todos os sábios de Babilônia.
+
+[[v27-2-49]]
+
+^<<v27-2-49,49>>^ E Daniel, da sua parte, fez uma solicitação ao rei e este designou Sadraque,^&#42;1^ Mesaque^&#42;2^ e Abednego^&#42;3^ sobre a administração do distrito jurisdicional de Babilônia, mas Daniel estava na corte^&#42;4^ do rei.
+
+[NOTE]
+====
+. Aram.: leShadh·rákh.
+. Aram.: Meh·shákh.
+. “E Abednego.” Aram.: wa·‛Avédh Neghóh, significando “Servo de Nego”.
+. Lit.: “porta”.
+====
+
+'''
+
+xref:027-daniel/027-daniel-001.adoc#v27-1-0[&#60; Capítulo Anterior] | <<v27-2-0,Topo>> | xref:027-daniel/027-daniel-003.adoc#v27-3-0[Próximo Capítulo &#62;]

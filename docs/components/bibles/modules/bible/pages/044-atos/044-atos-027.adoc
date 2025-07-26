@@ -1,0 +1,251 @@
+include::./index.adoc[]
+
+[[v44-27-0]]
+=== Atos, 27
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v44-27-1]]
+
+^<<v44-27-1,1>>^ Ora, visto que se decidiu que navegássemos para a Itália, passaram a entregar tanto Paulo como certos outros prisioneiros a um oficial do exército,^&#42;1^ de nome Júlio, do destacamento de Augusto.
+
+[NOTE]
+====
+.  Ou “ao centurião”, comandante de 100 soldados.
+====
+
+[[v44-27-2]]
+
+^<<v44-27-2,2>>^ Subindo a bordo dum barco de Adramítio, que estava prestes a navegar para lugares ao longo da costa [do distrito] da Ásia, fizemo-nos à vela, estando conosco Aristarco, um macedônio de Tessalônica.
+
+[[v44-27-3]]
+
+^<<v44-27-3,3>>^ E no dia seguinte tocamos em Sídon, e Júlio tratou Paulo com humanitarismo^&#42;1^ e lhe permitiu que visitasse seus amigos e usufruísse o cuidado [deles].
+
+[NOTE]
+====
+. Lit.: “com afeição humana”. Gr.: fi·lan·thró·pos.
+====
+
+[[v44-27-4]]
+
+^<<v44-27-4,4>>^ E fazendo-nos ao mar, navegamos dali sob o [abrigo de] Chipre, porque os ventos eram contrários;
+
+[[v44-27-5]]
+
+^<<v44-27-5,5>>^ e navegamos através do mar aberto ao longo de Cilícia e Panfília, e aportamos em Mirra, na Lícia.
+
+[[v44-27-6]]
+
+^<<v44-27-6,6>>^ Ali, porém, o oficial do exército achou um barco^&#42;1^ de Alexandria, que ia navegar para a Itália, e ele nos fez embarcar nele.
+
+[NOTE]
+====
+. Uma embarcação de cereais.
+====
+
+[[v44-27-7]]
+
+^<<v44-27-7,7>>^ Então, depois de navegarmos vagarosamente por muitos dias e chegarmos com dificuldade a Cnido, visto que o vento não nos deixava prosseguir, navegamos sob o [abrigo de] Creta, na altura de Salmone,
+
+[[v44-27-8]]
+
+^<<v44-27-8,8>>^ e, costeando com dificuldade, chegamos a certo lugar chamado Bons Portos, perto do qual estava a cidade de Laséia.
+
+[[v44-27-9]]
+
+^<<v44-27-9,9>>^ Visto que já passara um tempo considerável e já era então perigoso navegar, porque até mesmo o jejum [do dia da expiação]^&#42;1^ já passara, Paulo fez uma recomendação,
+
+[NOTE]
+====
+. Ou “jejum [outonal]”. J22(hebr.): yohm hak·kip·pu·rím, “dia da expiação”.
+====
+
+[[v44-27-10]]
+
+^<<v44-27-10,10>>^ dizendo-lhes: “Homens, percebo que a navegação vai ser com dano e com grande perda, não só da carga e do barco, mas também de nossas almas.”^&#42;1^
+
+[NOTE]
+====
+. Ou “vidas”.
+====
+
+[[v44-27-11]]
+
+^<<v44-27-11,11>>^ No entanto, o oficial do exército dava mais ouvidos ao piloto e ao dono do navio do que às coisas ditas por Paulo.
+
+[[v44-27-12]]
+
+^<<v44-27-12,12>>^ Então, visto que o porto era inconveniente para invernar, a maioria aconselhou que se fizessem dali à vela, para ver se de algum modo podiam chegar a Fênix, um porto de Creta, que dá para o nordeste e para o sudeste,^&#42;1^ para invernar.
+
+[NOTE]
+====
+. Ou “que olha na direção do vento sudoeste e na direção do vento noroeste”.
+====
+
+[[v44-27-13]]
+
+^<<v44-27-13,13>>^ Além disso, sendo que o vento sulino soprava brandamente, pensavam que seu objetivo já estava praticamente alcançado, e levantaram âncora e costeavam o litoral de Creta.
+
+[[v44-27-14]]
+
+^<<v44-27-14,14>>^ Não muito tempo depois, porém, abateu-se sobre ela um vento tempestuoso, chamado Euro-aquilão.^&#42;1^
+
+[NOTE]
+====
+. “Euro-aquilão.” Gr.: Eu·ra·ký·lon; lat.: eu·ro·á·qui·lo; vento nordeste.
+====
+
+[[v44-27-15]]
+
+^<<v44-27-15,15>>^ Visto que o barco foi apanhado com violência e não podia manter a proa contra o vento, cedemos e fomos impelidos.
+
+[[v44-27-16]]
+
+^<<v44-27-16,16>>^ Passamos então sob [o abrigo de] certa ilha pequena chamada Cauda, contudo, quase não pudemos apossar-nos do bote [na popa].
+
+[[v44-27-17]]
+
+^<<v44-27-17,17>>^ Mas, depois de o içarem para bordo, começaram a usar de recursos para cingir o barco; e, temendo encalhar em Sirte,^&#42;1^ arriaram os aparelhos e eram assim impelidos.
+
+[NOTE]
+====
+. Dois grandes golfos rasos, cheios de bancos movediços de areia, na costa da Líbia, na África do Norte.
+====
+
+[[v44-27-18]]
+
+^<<v44-27-18,18>>^ Contudo, visto que estávamos sendo violentamente sacudidos pela tempestade, começaram no [dia] seguinte a aliviar o navio;
+
+[[v44-27-19]]
+
+^<<v44-27-19,19>>^ e no terceiro [dia] alijaram com as suas próprias mãos a armação do barco.
+
+[[v44-27-20]]
+
+^<<v44-27-20,20>>^ Não havendo então aparecido nem o sol nem estrelas por muitos dias, e não sendo pequena a tempestade que se abatia sobre nós, começou finalmente a dissipar-se toda a esperança de sermos salvos.
+
+[[v44-27-21]]
+
+^<<v44-27-21,21>>^ E, tendo havido uma longa abstinência de comida, Paulo levantou-se então no meio deles e disse: “Homens, certamente devíeis ter aceito o meu conselho e não vos ter feito ao mar, de Creta, sofrendo tal dano e perda.
+
+[[v44-27-22]]
+
+^<<v44-27-22,22>>^ Ainda assim, recomendo-vos que tenhais bom ânimo, pois nem uma única alma^&#42;1^ se perderá, mas apenas o barco.
+
+[NOTE]
+====
+. Ou “vida”.
+====
+
+[[v44-27-23]]
+
+^<<v44-27-23,23>>^ Porque esta noite se pôs ao meu lado um anjo do Deus a quem pertenço e a quem presto serviço sagrado,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “estou prestando serviço sagrado”. Gr.: la·treú·o; J17(hebr.): ’aní ‛o·védh, “sirvo (adoro)”. Veja Êx 3:12 n.
+====
+
+[[v44-27-24]]
+
+^<<v44-27-24,24>>^ dizendo: ‘Não temas, Paulo. Tens de comparecer perante César, e, eis que Deus te doou todos os que navegam contigo.’
+
+[[v44-27-25]]
+
+^<<v44-27-25,25>>^ Portanto, homens, tende bom ânimo; pois eu acredito em Deus, que será exatamente assim como me foi dito.
+
+[[v44-27-26]]
+
+^<<v44-27-26,26>>^ No entanto, temos de ser lançados numa certa ilha.”
+
+[[v44-27-27]]
+
+^<<v44-27-27,27>>^ Ora, quando veio a décima quarta noite e nós estávamos sendo jogados de um lado para outro no [mar de] Ádria,^&#42;1^ à meia-noite, os marujos começaram a suspeitar que estávamos chegando perto de alguma terra.
+
+[NOTE]
+====
+. Incluindo naquele tempo o que agora é o Mar Adriático, o Mar Jônio e a parte do Mar Mediterrâneo que fica entre a Sicília e Creta.
+====
+
+[[v44-27-28]]
+
+^<<v44-27-28,28>>^ E sondando a profundidade, acharam-na de vinte braças;^&#42;1^ passaram assim uma curta distância e fizeram de novo sondagem, e acharam-na de quinze braças.
+
+[NOTE]
+====
+. “Braças.” Gr.: or·gui·ás. A braça costuma ser considerada como tendo quatro côvados (c. 1,8 m).
+====
+
+[[v44-27-29]]
+
+^<<v44-27-29,29>>^ E por temerem que fôssemos lançados em alguma parte contra os rochedos, lançaram quatro âncoras da popa e começaram a querer que ficasse dia.
+
+[[v44-27-30]]
+
+^<<v44-27-30,30>>^ Mas, quando os marujos procuravam escapar do barco e arriaram o bote ao mar, sob o pretexto de quererem deitar âncoras da proa,
+
+[[v44-27-31]]
+
+^<<v44-27-31,31>>^ Paulo disse ao oficial do exército e aos soldados: “A menos que estes homens permaneçam no barco, não podeis ser salvos.”
+
+[[v44-27-32]]
+
+^<<v44-27-32,32>>^ Os soldados cortaram então as cordas do bote e o deixaram cair.
+
+[[v44-27-33]]
+
+^<<v44-27-33,33>>^ Então, quando estava para amanhecer, Paulo começou a encorajar a todos juntos para que tomassem algum alimento, dizendo: “Hoje é o décimo quarto dia que tendes estado de vigília e continuais sem alimento, não tendo tomado nada para vós mesmos.
+
+[[v44-27-34]]
+
+^<<v44-27-34,34>>^ Portanto, encorajo-vos a tomardes algum alimento, pois isso é no interesse da vossa segurança; porque nem um único cabelo da vossa cabeça perecerá.”
+
+[[v44-27-35]]
+
+^<<v44-27-35,35>>^ Depois de dizer isso, tomou também um pão, deu graças a Deus perante todos eles e partiu-o, e principiou a comer.
+
+[[v44-27-36]]
+
+^<<v44-27-36,36>>^ Todos ficaram assim animados e começaram também a tomar alimento.
+
+[[v44-27-37]]
+
+^<<v44-27-37,37>>^ Ora, ao todo éramos no barco duzentas e setenta e seis^&#42;1^ almas.^&#42;2^
+
+[NOTE]
+====
+. “Duzentas e setenta e seis”, אItmss.VgSyh,p; A: “duzentas e setenta e cinco”; B: “cerca de setenta e seis”. Em WH, a palavra gr. ὡς (hos, “cerca de”) é assinalada com meios-colchetes superiores, e na margem aparece a palavra gr. di·a·kó·si·ai, “duzentas”. O copista do B evidentemente cometeu um engano por combinar o Ômega final, ῳ (oi), da palavra gr. precedente, πλοίῳ (ploí·oi), com a letra seguinte, Sigma, ς (s), que representa 200, para formar a palavra gr. ὡς (hos, “cerca de”). Portanto, o número correto é 276, em vez de 76.
+. Ou “pessoas”.
+====
+
+[[v44-27-38]]
+
+^<<v44-27-38,38>>^ Quando se saciaram do alimento, passaram a aliviar o barco, lançando o trigo ao mar.
+
+[[v44-27-39]]
+
+^<<v44-27-39,39>>^ Finalmente, quando ficou dia, não puderam reconhecer a terra, mas observavam certa baía com uma praia, e estavam resolvidos, se pudessem, a arremessar o navio ali.
+
+[[v44-27-40]]
+
+^<<v44-27-40,40>>^ Cortando assim as âncoras, deixaram-nas cair no mar; soltando ao mesmo tempo as amarras dos remos do leme, e, içando o traquete ao vento, dirigiram-se para a praia.
+
+[[v44-27-41]]
+
+^<<v44-27-41,41>>^ Quando deram num banco de areia banhado em ambos os lados pelo mar, encalharam o navio, e a proa se encravou e ficou imóvel, mas a popa começou a ser violentamente despedaçada.
+
+[[v44-27-42]]
+
+^<<v44-27-42,42>>^ Em vista disso, os soldados tomaram a resolução de matar os prisioneiros, para que ninguém escapasse nadando.
+
+[[v44-27-43]]
+
+^<<v44-27-43,43>>^ Mas o oficial do exército desejava manter Paulo a salvo e os conteve no propósito deles. E ele mandou que os que soubessem nadar se lançassem ao mar primeiro e chegassem à terra,
+
+[[v44-27-44]]
+
+^<<v44-27-44,44>>^ e que o resto o fizesse, alguns em tábuas e outros em certos objetos do barco. E assim aconteceu que todos atingiram terra a salvo.
+
+'''
+
+xref:044-atos/044-atos-026.adoc#v44-26-0[&#60; Capítulo Anterior] | <<v44-27-0,Topo>> | xref:044-atos/044-atos-028.adoc#v44-28-0[Próximo Capítulo &#62;]

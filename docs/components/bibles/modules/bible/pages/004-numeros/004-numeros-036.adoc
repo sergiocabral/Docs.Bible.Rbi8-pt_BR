@@ -1,0 +1,78 @@
+include::./index.adoc[]
+
+[[v4-36-0]]
+=== Números, 36
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-36-1]]
+
+^<<v4-36-1,1>>^ E os cabeças dos pais da família dos filhos de Gileade, filho de Maquir, filho de Manassés, das famílias dos filhos de José, passaram a chegar-se e falar perante Moisés^&#42;1^ e os maiorais, os cabeças dos pais^&#42;2^ dos filhos de Israel,
+
+[NOTE]
+====
+. LXXSy acrescentam: “e perante Eleazar, o sacerdote”.
+. Ou “os pais [que eram] cabeças; os pais principais”.
+====
+
+[[v4-36-2]]
+
+^<<v4-36-2,2>>^ e dizer: “Jeová mandou ao meu senhor dar a terra por sortes em herança aos filhos de Israel; e Jeová ordenou ao meu senhor dar a herança de Zelofeade, nosso irmão, às filhas dele.
+
+[[v4-36-3]]
+
+^<<v4-36-3,3>>^ Se quaisquer^&#42;1^ dos filhos das outras tribos dos filhos de Israel as obtiverem por esposas, então a herança das mulheres terá de ser retirada da herança de nossos pais e terá de ser acrescentada à herança da tribo^&#42;2^ à qual venham a pertencer, de modo que seria retirada da parcela da nossa herança.
+
+[NOTE]
+====
+. Lit.: “um”.
+. Ou “tribos”.
+====
+
+[[v4-36-4]]
+
+^<<v4-36-4,4>>^ Ora, ocorrendo o jubileu para os filhos de Israel, então terá de se acrescentar a herança das mulheres à herança da tribo à qual venham a pertencer; de modo que a sua herança seria retirada da herança da tribo de nossos pais.”
+
+[[v4-36-5]]
+
+^<<v4-36-5,5>>^ Moisés ordenou então aos filhos de Israel, por ordem de Jeová, dizendo: “A tribo dos filhos de José está falando corretamente.
+
+[[v4-36-6]]
+
+^<<v4-36-6,6>>^ Esta é a palavra que Jeová ordenou para as filhas de Zelofeade, dizendo: ‘Podem tornar-se esposas de quem acharem bom aos seus olhos. Apenas devem tornar-se esposas na família da tribo de seus pais.
+
+[[v4-36-7]]
+
+^<<v4-36-7,7>>^ E nenhuma herança dos filhos de Israel deve circular de tribo em tribo, porque os filhos de Israel devem cada um apegar-se à herança da tribo de seus antepassados.
+
+[[v4-36-8]]
+
+^<<v4-36-8,8>>^ E toda filha que obtiver posse duma herança dentre as tribos dos filhos de Israel deve tornar-se esposa de alguém da família da tribo de seu pai, a fim de que cada um dos filhos de Israel obtenha posse da herança de seus antepassados.
+
+[[v4-36-9]]
+
+^<<v4-36-9,9>>^ E nenhuma herança deve circular de uma tribo para outra tribo, porque as tribos dos filhos de Israel devem cada uma apegar-se à sua própria herança.’”
+
+[[v4-36-10]]
+
+^<<v4-36-10,10>>^ Assim como Jeová mandara a Moisés, assim fizeram as filhas de Zelofeade.
+
+[[v4-36-11]]
+
+^<<v4-36-11,11>>^ Concordemente, Maala, Tirza, e Hogla, e Milca, e Noa, as filhas de Zelofeade, tornaram-se esposas de filhos dos irmãos de seu pai.^&#42;1^
+
+[NOTE]
+====
+. Ou “tios paternos”.
+====
+
+[[v4-36-12]]
+
+^<<v4-36-12,12>>^ Tornaram-se esposas de alguém das famílias dos filhos de Manassés, filho de José, para que a sua herança continuasse na tribo da família de seu pai.
+
+[[v4-36-13]]
+
+^<<v4-36-13,13>>^ Estes são os mandamentos e as decisões judiciais que Jeová ordenou aos filhos de Israel por meio de Moisés, nas planícies desérticas de Moabe, junto ao Jordão, [na altura] de Jericó.
+
+'''
+
+xref:004-numeros/004-numeros-035.adoc#v4-35-0[&#60; Capítulo Anterior] | <<v4-36-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-001.adoc#v5-1-0[Próximo Capítulo &#62;]

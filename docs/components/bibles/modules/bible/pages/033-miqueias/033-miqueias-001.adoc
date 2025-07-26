@@ -1,0 +1,116 @@
+include::./index.adoc[]
+
+[[v33-1-0]]
+=== Miqueias, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v33-1-1]]
+
+^<<v33-1-1,1>>^ A palavra de Jeová^&#42;1^ que veio a haver para Miquéias de Moresete,^&#42;2^ nos dias de Jotão, Acaz, Ezequias, reis de Judá, que ele visionou a respeito de Samaria e Jerusalém:
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 2.
+. Ou “o morastita”.
+====
+
+[[v33-1-2]]
+
+^<<v33-1-2,2>>^ “Ouvi, ó povos, todos vós; presta atenção, ó terra e o que te enche, e seja o Soberano Senhor Jeová testemunha contra vós, Jeová,^&#42;1^ desde o seu santo templo.^&#42;2^
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+. “Desde o seu santo templo.” Hebr.: me·heh·khál qodh·shóh; lat.: tém·plo sánc·to. Veja Mt 23:16 n.
+====
+
+[[v33-1-3]]
+
+^<<v33-1-3,3>>^ Pois, eis que Jeová^&#42;1^ está saindo do seu lugar, e ele certamente descerá e pisará os altos da terra.
+
+[NOTE]
+====
+. Veja Ap. 1C sec. 2.
+====
+
+[[v33-1-4]]
+
+^<<v33-1-4,4>>^ E debaixo dele terão de derreter-se os montes e as próprias baixadas se partirão qual cera por causa do fogo, quais águas que se precipitam por um lugar escarpado.
+
+[[v33-1-5]]
+
+^<<v33-1-5,5>>^ “Tudo isto se dá por causa da revolta de Jacó, sim, por causa dos pecados da casa de Israel. Qual é a revolta de Jacó? Não é Samaria? E quais são os altos^&#42;1^ de Judá? Não são Jerusalém?
+
+[NOTE]
+====
+. “Os altos”, MVg; LXX: “o pecado da casa”; Sy: “o pecado”.
+====
+
+[[v33-1-6]]
+
+^<<v33-1-6,6>>^ E certamente farei de Samaria um montão de ruínas do campo, lugares de plantio dum vinhedo; e eu vou precipitar suas pedras dentro do vale e exporei os seus alicerces.
+
+[[v33-1-7]]
+
+^<<v33-1-7,7>>^ E todas as suas imagens entalhadas serão esmiuçadas e todos os presentes que lhe [foram dados] em paga para ela serão queimados no fogo; e farei todos os seus ídolos um baldio desolado. Pois ela [os] reuniu das coisas dadas em paga de uma prostituta e retornarão à coisa dada como paga de uma prostituta.”
+
+[[v33-1-8]]
+
+^<<v33-1-8,8>>^ Por esta razão vou lamentar e uivar; vou andar descalço e nu. Farei um lamento igual ao dos chacais e um pranto igual ao das avestruzes.^&#42;1^
+
+[NOTE]
+====
+. “Igual ao das avestruzes.” Hebr.: kiv·nóhth ya·‛anáh. Veja Le 11:16 n.: “avestruz”.
+====
+
+[[v33-1-9]]
+
+^<<v33-1-9,9>>^ Pois o golpe^&#42;1^ que ela sofreu é incurável; pois chegou até Judá, [a] praga [chegou] até o portão de meu povo, até Jerusalém.
+
+[NOTE]
+====
+. “Golpe”, LXXSyVg; M: “golpes”.
+====
+
+[[v33-1-10]]
+
+^<<v33-1-10,10>>^ “Não [o] conteis em Gate; definitivamente não choreis.
+“Revolve-te no próprio pó na casa de Afra.
+
+[[v33-1-11]]
+
+^<<v33-1-11,11>>^ Faze a travessia em vergonhosa nudez, ó moradora de Safir. A moradora de Zaanã não saiu. O lamento de Bete-Ezel tirará de vós o seu lugar de parada.
+
+[[v33-1-12]]
+
+^<<v33-1-12,12>>^ Pois a moradora de Marote esperava o bem, mas foi o mal que desceu de Jeová ao portão de Jerusalém.
+
+[[v33-1-13]]
+
+^<<v33-1-13,13>>^ Prende o carro à parelha de corcéis, ó moradora de Laquis. Ela foi o começo do pecado para a filha de Sião, pois acharam-se em ti^&#42;1^ as revoltas de Israel.
+
+[NOTE]
+====
+. “Ti”, hebr. fem. sing.
+====
+
+[[v33-1-14]]
+
+^<<v33-1-14,14>>^ Por isso darás presentes de despedida a Moresete-Gate. As casas de Aczibe eram algo enganoso para os reis de Israel.
+
+[[v33-1-15]]
+
+^<<v33-1-15,15>>^ Ainda trarei a ti aquele que desapossa,^&#42;1^ ó moradora de Maressa. A glória de Israel chegará até Adulão.
+
+[NOTE]
+====
+. Ou “aquele que toma posse”.
+====
+
+[[v33-1-16]]
+
+^<<v33-1-16,16>>^ Faze-te calva e tosquia [teu cabelo] por causa dos teus filhos de delícia. Alarga a tua calva como [a da] águia, porque se exilaram de ti.”
+
+'''
+
+xref:032-jonas/032-jonas-004.adoc#v32-4-0[&#60; Capítulo Anterior] | <<v33-1-0,Topo>> | xref:033-miqueias/033-miqueias-002.adoc#v33-2-0[Próximo Capítulo &#62;]

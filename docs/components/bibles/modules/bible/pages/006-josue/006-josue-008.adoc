@@ -1,0 +1,189 @@
+include::./index.adoc[]
+
+[[v6-8-0]]
+=== Josué, 8
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-8-1]]
+
+^<<v6-8-1,1>>^ Jeová disse então a Josué: “Não tenhas medo nem fiques aterrorizado. Toma contigo toda a gente de guerra e levanta-te, sobe a Ai. Vê, eu te entreguei na mão o rei de Ai e seu povo, e sua cidade, e sua terra.
+
+[[v6-8-2]]
+
+^<<v6-8-2,2>>^ E tens de fazer com Ai e seu rei assim como fizeste com Jericó e seu rei. Somente que podeis saquear para vós seu despojo e seus animais domésticos. Põe uma emboscada tua contra a cidade, por detrás dela.”
+
+[[v6-8-3]]
+
+^<<v6-8-3,3>>^ Por conseguinte, Josué e toda a gente de guerra se levantou para subir a Ai, e Josué passou a escolher trinta mil homens, valentes poderosos, e a despachá-los de noite.
+
+[[v6-8-4]]
+
+^<<v6-8-4,4>>^ E foi ordenar-lhes, dizendo: “Vede, estais de emboscada contra a cidade por detrás da cidade. Não vos afasteis muito da cidade, e todos vós tendes de manter-vos de prontidão.
+
+[[v6-8-5]]
+
+^<<v6-8-5,5>>^ Quanto a mim e todo o povo que está comigo, nos chegaremos à cidade. E tem de acontecer que, caso venham para fora ao nosso encontro, como da primeira vez, então teremos de fugir diante deles.
+
+[[v6-8-6]]
+
+^<<v6-8-6,6>>^ E eles têm de vir no nosso encalço até que os tenhamos afastado da cidade, pois dirão: ‘Estão fugindo diante de nós como no princípio.’ E teremos de fugir diante deles.
+
+[[v6-8-7]]
+
+^<<v6-8-7,7>>^ Então é que vós vos levantareis da emboscada e tereis de tomar posse da cidade; e Jeová, vosso Deus, certamente a entregará na vossa mão.
+
+[[v6-8-8]]
+
+^<<v6-8-8,8>>^ E tem de suceder que, assim que tiverdes capturado a cidade, deveis pôr fogo à cidade. Deveis fazer segundo a palavra de Jeová. Vede, eu vos dei ordem.”
+
+[[v6-8-9]]
+
+^<<v6-8-9,9>>^ Depois Josué os enviou e eles marcharam até o lugar da emboscada, e ficaram entre Betel e Ai, ao oeste de Ai, enquanto Josué pousou aquela noite no meio do povo.
+
+[[v6-8-10]]
+
+^<<v6-8-10,10>>^ Josué se levantou então de manhã cedo e passou o povo em revista, e subiu a Ai, ele e os anciãos de Israel, na frente do povo.
+
+[[v6-8-11]]
+
+^<<v6-8-11,11>>^ E subiu toda a gente de guerra que estava com ele, para se aproximarem e ficarem na frente da cidade, e foram acampar-se ao norte de Ai, estando o vale entre eles e Ai.
+
+[[v6-8-12]]
+
+^<<v6-8-12,12>>^ No ínterim, ele tomou cerca de cinco mil homens e os pôs de emboscada entre Betel e Ai, ao oeste da cidade.
+
+[[v6-8-13]]
+
+^<<v6-8-13,13>>^ O povo armou, pois, o acampamento principal, que ficava ao norte da cidade, e a retaguarda extrema dele, que ficava ao oeste da cidade, e Josué passou a ir durante aquela noite até o meio da baixada.^&#42;1^
+
+[NOTE]
+====
+. Ou “do vale”.
+====
+
+[[v6-8-14]]
+
+^<<v6-8-14,14>>^ E sucedeu que, assim que o rei de Ai viu isso, então os homens da cidade se apressaram e se levantaram cedo, e saíram para se encontrar com Israel em batalha, ele e todo o seu povo, no tempo designado, diante da planície desértica. Quanto a ele, não sabia que havia uma emboscada contra ele por detrás da cidade.
+
+[[v6-8-15]]
+
+^<<v6-8-15,15>>^ Quando Josué e todo o Israel sofreram um golpe diante deles, então se puseram em fuga pelo caminho do ermo.
+
+[[v6-8-16]]
+
+^<<v6-8-16,16>>^ Em vista disso, todo o povo que havia na cidade foi convocado para ir no encalço deles, e foram no encalço de Josué e assim foram afastados da cidade.
+
+[[v6-8-17]]
+
+^<<v6-8-17,17>>^ E não restou homem em Ai e em Betel^&#42;1^ que não saísse atrás de Israel, de modo que deixaram a cidade bem aberta e foram no encalço de Israel.
+
+[NOTE]
+====
+. LXX omite “e em Betel”.
+====
+
+[[v6-8-18]]
+
+^<<v6-8-18,18>>^ Jeová disse então a Josué: “Estende o dardo^&#42;1^ que está na tua mão em direção a Ai, pois a entregarei na tua mão.” Por conseguinte, Josué estendeu o dardo que estava na sua mão em direção à cidade.
+
+[NOTE]
+====
+. Ou “azagaia”.
+====
+
+[[v6-8-19]]
+
+^<<v6-8-19,19>>^ E a emboscada se levantou depressa do seu lugar, e começaram a correr no momento em que estendeu a sua mão, e passaram a entrar na cidade e a capturá-la. Então se apressaram e puseram fogo à cidade.
+
+[[v6-8-20]]
+
+^<<v6-8-20,20>>^ E os homens de Ai começaram a voltar-se e a olhar, e eis que a fumaça da cidade subia aos céus, e não se mostraram mais capazes^&#42;1^ de fugir quer para um lado quer para outro. E o povo que fugia para o ermo virou-se contra os perseguidores.
+
+[NOTE]
+====
+. Lit.: “não se mostrou haver mais duas mãos”.
+====
+
+[[v6-8-21]]
+
+^<<v6-8-21,21>>^ E Josué e todo o Israel viram que a emboscada tinha capturado a cidade e que subia a fumaça da cidade, e assim se voltaram e foram golpear os homens de Ai.
+
+[[v6-8-22]]
+
+^<<v6-8-22,22>>^ E aqueles outros saíram da cidade ao seu encontro, de modo que ficaram no meio de Israel, estes deste lado e aqueles do outro lado, e foram golpeá-los até que não restou deles nem sobrevivente nem fugitivo.
+
+[[v6-8-23]]
+
+^<<v6-8-23,23>>^ E pegaram vivo ao rei de Ai e passaram a fazê-lo chegar perto de Josué.
+
+[[v6-8-24]]
+
+^<<v6-8-24,24>>^ E sucedeu que, enquanto Israel acabava de matar todos os habitantes de Ai no campo, no ermo em que os tinham perseguido, estes caíam, todos eles, ao fio da espada, até chegarem ao seu fim. Depois, todo o Israel voltou a Ai e a golpeou com o fio da espada.
+
+[[v6-8-25]]
+
+^<<v6-8-25,25>>^ E todos os que caíram naquele dia, desde o homem até a mulher, somaram doze mil, todo o povo^&#42;1^ de Ai.
+
+[NOTE]
+====
+. Lit.: “homens”, M; LXX: “habitantes”.
+====
+
+[[v6-8-26]]
+
+^<<v6-8-26,26>>^ E Josué não retirou a sua mão com que tinha estendido o dardo até ter devotado todos os habitantes de Ai à destruição.
+
+[[v6-8-27]]
+
+^<<v6-8-27,27>>^ Somente os animais domésticos e o despojo daquela cidade saqueou Israel para si, segundo a palavra de Jeová, que ele havia ordenado a Josué.
+
+[[v6-8-28]]
+
+^<<v6-8-28,28>>^ Josué queimou então Ai e a reduziu a um monte de ruínas que dura indefinidamente, como desolação até o dia de hoje.
+
+[[v6-8-29]]
+
+^<<v6-8-29,29>>^ E ao rei de Ai pendurou num madeiro até o anoitecer; e quando o sol estava para pôr-se, Josué deu ordem, e então tiraram seu cadáver do madeiro^&#42;1^ e o lançaram à entrada do portão da cidade, e ergueram sobre ele um grande montão de pedras, até o dia de hoje.
+
+[NOTE]
+====
+. “Do madeiro.” Lit.: “da árvore (lenho)”. Hebr.: ha·‛éts; gr.: xý·lou; lat.: crú·ce.
+====
+
+[[v6-8-30]]
+
+^<<v6-8-30,30>>^ Foi então que Josué passou a construir um altar a Jeová, o Deus de Israel, no monte Ebal,
+
+[[v6-8-31]]
+
+^<<v6-8-31,31>>^ assim como Moisés, servo de Jeová, havia ordenado aos filhos de Israel, como está escrito no livro da lei de Moisés: “Um altar de pedras inteiras, sobre o qual não se brandiu nenhum instrumento de ferro”; e sobre ele foram fazer ofertas queimadas a Jeová e foram oferecer sacrifícios de participação em comum.
+
+[[v6-8-32]]
+
+^<<v6-8-32,32>>^ Então escreveu ali sobre as pedras uma cópia^&#42;1^ da lei de Moisés, que havia escrito perante os filhos de Israel.
+
+[NOTE]
+====
+. “Uma cópia da.” Hebr.: mish·néh; gr.: deu·te- ro·nó·mi·on. Veja De 1:11 n.: “palavras”.
+====
+
+[[v6-8-33]]
+
+^<<v6-8-33,33>>^ E todo o Israel, e seus anciãos, e os oficiais, e seus juízes estavam de pé deste e daquele lado da Arca, defronte dos sacerdotes, os levitas, que carregavam a arca do pacto de Jeová, tanto o residente forasteiro como o natural, metade deles diante do monte Gerizim e a outra metade deles diante do monte Ebal, (assim como Moisés, servo de Jeová, havia ordenado,) para em primeiro lugar abençoar o povo de Israel.
+
+[[v6-8-34]]
+
+^<<v6-8-34,34>>^ E depois leu em voz alta todas as palavras da lei, a bênção e a invocação do mal, segundo tudo o que está escrito no livro da lei.
+
+[[v6-8-35]]
+
+^<<v6-8-35,35>>^ Não se mostrou haver palavra alguma de tudo o que Moisés ordenara que Josué não lesse em voz alta diante de toda a congregação^&#42;1^ de Israel, com as mulheres e os pequeninos, e os residentes forasteiros que andavam no seu meio.
+
+[NOTE]
+====
+. “A congregação de.” Hebr.: qehál; gr.: ek·kle·sí·as.
+====
+
+'''
+
+xref:006-josue/006-josue-007.adoc#v6-7-0[&#60; Capítulo Anterior] | <<v6-8-0,Topo>> | xref:006-josue/006-josue-009.adoc#v6-9-0[Próximo Capítulo &#62;]

@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v20-7-0]]
+=== Provérbios, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-7-1]]
+
+^<<v20-7-1,1>>^ Filho meu, guarda as minhas declarações, e que entesoures contigo os meus próprios mandamentos.
+
+[[v20-7-2]]
+
+^<<v20-7-2,2>>^ Guarda os meus mandamentos e continua vivendo, e a minha lei, como a menina dos teus olhos.
+
+[[v20-7-3]]
+
+^<<v20-7-3,3>>^ Ata-os aos teus dedos e escreve-os sobre a tábua do teu coração.
+
+[[v20-7-4]]
+
+^<<v20-7-4,4>>^ Dize à sabedoria: “Tu és minha irmã”; e que chames a própria compreensão de “parenta”,
+
+[[v20-7-5]]
+
+^<<v20-7-5,5>>^ para guardar-te da mulher estranha, da estrangeira que amaciou as suas próprias declarações.
+
+[[v20-7-6]]
+
+^<<v20-7-6,6>>^ Pois da janela da minha casa, pela minha gelosia, olhei para baixo,
+
+[[v20-7-7]]
+
+^<<v20-7-7,7>>^ para espreitar os inexperientes. Fiquei interessado em discernir entre os filhos um moço falto de coração,^&#42;1^
+
+[NOTE]
+====
+. Ou “falto de boa motivação”. Hebr.: hhasar-lév.
+====
+
+[[v20-7-8]]
+
+^<<v20-7-8,8>>^ passando pela rua perto da esquina dela e marchando no caminho da casa dela,
+
+[[v20-7-9]]
+
+^<<v20-7-9,9>>^ no crepúsculo, à noitinha do dia, ao se aproximar^&#42;1^ a noite e as trevas.
+
+[NOTE]
+====
+. “Aproximar”, mediante uma ligeira correção; M: “pupila (do olho)”, ou: “meio”.
+====
+
+[[v20-7-10]]
+
+^<<v20-7-10,10>>^ E eis que vinha ao seu encontro uma mulher em traje de prostituta e ardilosa^&#42;1^ de coração.
+
+[NOTE]
+====
+. Lit.: “acobertada”.
+====
+
+[[v20-7-11]]
+
+^<<v20-7-11,11>>^ Ela é turbulenta e obstinada. Seus pés não ficam residindo na sua casa.
+
+[[v20-7-12]]
+
+^<<v20-7-12,12>>^ Ora está portas afora, ora está nas praças públicas, e perto de cada esquina ela fica de emboscada.
+
+[[v20-7-13]]
+
+^<<v20-7-13,13>>^ E ela o segurou e deu-lhe um beijo. Fez a sua face atrevida e começa a dizer-lhe:
+
+[[v20-7-14]]
+
+^<<v20-7-14,14>>^ “Cabia-me oferecer sacrifícios de participação em comum. Hoje paguei os meus votos.
+
+[[v20-7-15]]
+
+^<<v20-7-15,15>>^ Por isso saí, vindo ao teu encontro, à procura da tua face, para achar-te.
+
+[[v20-7-16]]
+
+^<<v20-7-16,16>>^ Arrumei o meu divã com colchas, com coisas multicolores, linho do Egito.
+
+[[v20-7-17]]
+
+^<<v20-7-17,17>>^ Borrifei minha cama com mirra, aloés e canela.
+
+[[v20-7-18]]
+
+^<<v20-7-18,18>>^ Vem deveras, bebamos fartamente do amor até à manhã; regalemo-nos deveras mutuamente com expressões de amor.
+
+[[v20-7-19]]
+
+^<<v20-7-19,19>>^ Pois o esposo não está na sua casa; foi viajar num caminho de certa distância.
+
+[[v20-7-20]]
+
+^<<v20-7-20,20>>^ Tomou na mão uma bolsa de dinheiro.^&#42;1^ Chegará à sua casa no dia da lua cheia.”
+
+[NOTE]
+====
+. Lit.: “a prata”.
+====
+
+[[v20-7-21]]
+
+^<<v20-7-21,21>>^ Ela o desencaminhou com a abundância da sua persuasão. Seduziu-o com a maciez dos seus lábios.
+
+[[v20-7-22]]
+
+^<<v20-7-22,22>>^ De repente ele vai atrás dela,^&#42;1^ igual ao touro que chega ao abate, e como que agrilhoado^&#42;2^ para a disciplina do tolo,
+
+[NOTE]
+====
+. Ou “com ela”.
+. “Agrilhoado”, mediante uma mudança dos sinais vocálicos; M: “grilheta (calceta)”.
+====
+
+[[v20-7-23]]
+
+^<<v20-7-23,23>>^ até que uma flecha lhe fende o fígado, assim como o pássaro se apressa para a armadilha, e ele não sabia que envolvia a sua própria alma.^&#42;1^
+
+[NOTE]
+====
+. “Que envolvia a sua própria alma (vida).” Hebr.: ki-venaf·shóh hú’; gr.: psy·khés; lat.: á·ni·mae. Veja Ap. 4A.
+====
+
+[[v20-7-24]]
+
+^<<v20-7-24,24>>^ E agora, ó filhos, escutai-me e prestai atenção às declarações de minha boca.
+
+[[v20-7-25]]
+
+^<<v20-7-25,25>>^ Não se desencaminhe teu coração para os seus caminhos. Não vagueies pelas suas sendas.
+
+[[v20-7-26]]
+
+^<<v20-7-26,26>>^ Porque muitos são os que ela fez cair mortos e são numerosos todos os que ela matou.
+
+[[v20-7-27]]
+
+^<<v20-7-27,27>>^ Sua casa são os caminhos para o Seol;^&#42;1^ descem para os quartos interiores da morte.
+
+[NOTE]
+====
+. “Seol.” Hebr.: she’óhl; gr.: haí·dou; lat.: ín·fe·ri.
+====
+
+'''
+
+xref:020-proverbios/020-proverbios-006.adoc#v20-6-0[&#60; Capítulo Anterior] | <<v20-7-0,Topo>> | xref:020-proverbios/020-proverbios-008.adoc#v20-8-0[Próximo Capítulo &#62;]

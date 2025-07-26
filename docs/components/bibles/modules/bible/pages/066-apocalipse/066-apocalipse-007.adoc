@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v66-7-0]]
+=== Apocalipse, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v66-7-1]]
+
+^<<v66-7-1,1>>^ Depois disso vi quatro anjos em pé nos quatro cantos^&#42;1^ da terra, segurando firmemente os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, ou sobre o mar, ou sobre qualquer árvore.
+
+[NOTE]
+====
+. Ou “quadrantes; extremidades”.
+====
+
+[[v66-7-2]]
+
+^<<v66-7-2,2>>^ E eu vi outro anjo ascender desde o nascente do sol, tendo um selo do Deus vivente; e ele gritou com voz alta para os quatro anjos aos quais se concedera fazer dano à terra e ao mar,
+
+[[v66-7-3]]
+
+^<<v66-7-3,3>>^ dizendo: “Não façais dano^&#42;1^ nem à terra, nem ao mar, nem às árvores, até depois de termos selado os escravos de nosso Deus nas suas testas.”
+
+[NOTE]
+====
+. Lit.: “Não deveis tratar injustamente.”
+====
+
+[[v66-7-4]]
+
+^<<v66-7-4,4>>^ E ouvi o número dos selados: cento e quarenta e quatro mil, selados de toda tribo dos filhos de Israel:
+
+[[v66-7-5]]
+
+^<<v66-7-5,5>>^ Da tribo de Judá, doze mil selados;
+da tribo de Rubem, doze mil;
+da tribo de Gade,^&#42;1^ doze mil;
+
+[NOTE]
+====
+. “Gade.” א omite isso.
+====
+
+[[v66-7-6]]
+
+^<<v66-7-6,6>>^ da tribo de Aser, doze mil;
+da tribo de Naftali, doze mil;
+da tribo de Manassés, doze mil;
+
+[[v66-7-7]]
+
+^<<v66-7-7,7>>^ da tribo de Simeão,^&#42;1^ doze mil;
+da tribo de Levi, doze mil;
+da tribo de Issacar, doze mil;
+
+[NOTE]
+====
+. “Simeão.” א omite isso.
+====
+
+[[v66-7-8]]
+
+^<<v66-7-8,8>>^ da tribo de Zebulão, doze mil;
+da tribo de José, doze mil;
+da tribo de Benjamim, doze mil selados.
+
+[[v66-7-9]]
+
+^<<v66-7-9,9>>^ Depois destas coisas eu vi, e, eis uma grande multidão, que nenhum homem podia contar, de todas as nações,^&#42;1^ e tribos, e povos, e línguas, em pé diante do trono e diante do Cordeiro, trajados de compridas vestes brancas; e havia palmas nas suas mãos.
+
+[NOTE]
+====
+. Gr.: é·thnous, “grupo étnico”; lat.: gén·ti·bus, “gentios”; J17,18(hebr.): hag·goh·yím, “as nações (goim)”.
+====
+
+[[v66-7-10]]
+
+^<<v66-7-10,10>>^ E gritavam com voz alta, dizendo: “[Devemos] a salvação^&#42;1^ ao nosso Deus, que está sentado no trono, e ao Cordeiro.”
+
+[NOTE]
+====
+. “A salvação.” Gr.: He so·te·rí·a; lat.: sá·lus; J17,18,22(hebr.): ha·yeshu·‛áh.
+====
+
+[[v66-7-11]]
+
+^<<v66-7-11,11>>^ E todos os anjos estavam em pé ao redor do trono e dos anciãos,^&#42;1^ e das quatro criaturas viventes, e prostraram-se sobre os seus rostos diante do trono e adoraram a Deus,
+
+[NOTE]
+====
+. Gr.: pre·sby·té·ron.
+====
+
+[[v66-7-12]]
+
+^<<v66-7-12,12>>^ dizendo: “Amém! A bênção, e a glória, e a sabedoria, e o agradecimento, e a honra, e o poder, e a força [sejam] ao nosso Deus para todo o sempre. Amém.”^&#42;1^
+
+[NOTE]
+====
+. “Amém.” C omite isso.
+====
+
+[[v66-7-13]]
+
+^<<v66-7-13,13>>^ E, em resposta, um dos anciãos me disse: “Quem são estes que trajam compridas vestes brancas e donde vieram?”
+
+[[v66-7-14]]
+
+^<<v66-7-14,14>>^ Eu lhe disse assim imediatamente: “Meu senhor, és tu quem sabes.” E ele me disse: “Estes são os que saem da grande tribulação, e lavaram as suas vestes compridas e as embranqueceram no sangue do Cordeiro.
+
+[[v66-7-15]]
+
+^<<v66-7-15,15>>^ É por isso que estão diante do trono de Deus; e prestam-lhe serviço sagrado,^&#42;1^ dia e noite, no seu templo;^&#42;2^ e O que está sentado no trono estenderá sobre eles a sua tenda.
+
+[NOTE]
+====
+. “Prestam . . . serviço sagrado.” Gr.: la·treú·ou·sin; J22(hebr.): we‛oh·vedhím, “e servem (adoram)”. Veja Êx 3:12 n.
+. Ou “habitação (morada) divina”. Gr.: na·oí, dativo, sing.; lat.: tém·plo; J17,18,22(hebr.): beheh·kha·lóh, “no seu palácio (templo)”.
+====
+
+[[v66-7-16]]
+
+^<<v66-7-16,16>>^ Não terão mais fome, nem terão mais sede, nem se abaterá sobre eles o sol, nem calor abrasador,
+
+[[v66-7-17]]
+
+^<<v66-7-17,17>>^ porque o Cordeiro, que está no meio do trono, os pastoreará e os guiará a fontes de águas da vida. E Deus enxugará toda lágrima dos olhos deles.”
+
+'''
+
+xref:066-apocalipse/066-apocalipse-006.adoc#v66-6-0[&#60; Capítulo Anterior] | <<v66-7-0,Topo>> | xref:066-apocalipse/066-apocalipse-008.adoc#v66-8-0[Próximo Capítulo &#62;]

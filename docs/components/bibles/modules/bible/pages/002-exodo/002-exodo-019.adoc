@@ -1,0 +1,130 @@
+include::./index.adoc[]
+
+[[v2-19-0]]
+=== Êxodo, 19
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-19-1]]
+
+^<<v2-19-1,1>>^ No terceiro mês após a saída dos filhos de Israel da terra do Egito, no mesmo dia, chegaram ao ermo de Sinai.
+
+[[v2-19-2]]
+
+^<<v2-19-2,2>>^ E passaram a partir de Refidim e a chegar ao ermo de Sinai, e foram acampar-se no ermo; e Israel se acampou ali diante do monte.
+
+[[v2-19-3]]
+
+^<<v2-19-3,3>>^ E Moisés subiu até o [verdadeiro] Deus e Jeová começou a chamá-lo^&#42;1^ desde o monte, dizendo: “Isto é o que deves dizer à casa de Jacó e comunicar aos filhos de Israel:
+
+[NOTE]
+====
+. “O [verdadeiro] Deus.” Hebr.: ha·’Elo·hím. Veja Ap. 1F.
+====
+
+[[v2-19-4]]
+
+^<<v2-19-4,4>>^ ‘Vós mesmos vistes o que fiz aos egípcios, para vos carregar sobre asas de águias e vos trazer a mim.
+
+[[v2-19-5]]
+
+^<<v2-19-5,5>>^ E agora, se obedecerdes^&#42;1^ estritamente à minha voz e deveras guardardes meu pacto, então vos haveis de tornar^&#42;2^ minha propriedade especial dentre todos os [outros] povos, pois minha é toda a terra.
+
+[NOTE]
+====
+. Ou “escutardes”.
+. Ou “então tendes de tornar-vos”.
+====
+
+[[v2-19-6]]
+
+^<<v2-19-6,6>>^ E vós mesmos vos tornareis para mim um reino de sacerdotes e uma nação santa.’ Estas são as palavras que deves dizer aos filhos de Israel.”
+
+[[v2-19-7]]
+
+^<<v2-19-7,7>>^ Moisés chegou então e chamou os anciãos do povo, e apresentou-lhes todas estas palavras que Jeová lhe ordenara.
+
+[[v2-19-8]]
+
+^<<v2-19-8,8>>^ Após isso, todo o povo respondeu unanimemente e disse: “Tudo o que Jeová falou estamos dispostos a fazer.” Moisés retornou imediatamente a Jeová com as palavras do povo.
+
+[[v2-19-9]]
+
+^<<v2-19-9,9>>^ Então Jeová disse a Moisés: “Eis que chego a ti numa nuvem escura, a fim de que o povo ouça quando eu falar contigo, e para que também tenham fé em ti, por tempo indefinido.” Moisés relatou então a Jeová as palavras do povo.
+
+[[v2-19-10]]
+
+^<<v2-19-10,10>>^ E Jeová prosseguiu, dizendo a Moisés: “Vai ao povo, e tens de santificá-los hoje e amanhã, e eles terão de lavar as suas capas.
+
+[[v2-19-11]]
+
+^<<v2-19-11,11>>^ E terão de mostrar-se prontos para o terceiro dia, porque no terceiro dia Jeová descerá sobre o monte Sinai diante dos olhos de todo o povo.
+
+[[v2-19-12]]
+
+^<<v2-19-12,12>>^ E terás de pôr termos ao redor para o povo, dizendo: ‘Guardai-vos de subir ao monte, e não toqueis na extremidade dele. Todo aquele que tocar no monte será positivamente morto.
+
+[[v2-19-13]]
+
+^<<v2-19-13,13>>^ Nenhuma mão deve tocar nele, porque ele será positivamente apedrejado ou será positivamente traspassado [por flechas]. Quer animal quer homem, não viverá.’ Ao toque da buzina de carneiro^&#42;1^ poderão eles mesmos chegar ao monte.”
+
+[NOTE]
+====
+. “Da buzina de carneiro.” Hebr.: hai·yo·vél. Veja Le 25:10 n.: “jubileu”.
+====
+
+[[v2-19-14]]
+
+^<<v2-19-14,14>>^ Moisés desceu então do monte até o povo e pôs-se a santificar o povo; e empenharam-se em lavar as suas capas.
+
+[[v2-19-15]]
+
+^<<v2-19-15,15>>^ Concordemente, ele disse ao povo: “Aprontai-vos durante os três dias. Vós, homens, não vos aproximeis de mulher.”
+
+[[v2-19-16]]
+
+^<<v2-19-16,16>>^ E no terceiro dia, quando amanheceu, sucedeu que começou a haver trovões e relâmpagos, e uma pesada nuvem sobre o monte e um som muito forte de buzina, de modo que todo o povo no acampamento começou a tremer.
+
+[[v2-19-17]]
+
+^<<v2-19-17,17>>^ Moisés levou então o povo para fora do acampamento ao encontro do [verdadeiro] Deus, e foram postar-se ao sopé do monte.
+
+[[v2-19-18]]
+
+^<<v2-19-18,18>>^ E todo o monte Sinai fumegava devido ao fato de Jeová ter descido sobre ele em fogo; e sua fumaça ascendia como a fumaça dum forno de calcinação e todo o monte tremia muitíssimo.
+
+[[v2-19-19]]
+
+^<<v2-19-19,19>>^ Quando o som da buzina ficou cada vez mais alto, Moisés começou a falar e o [verdadeiro] Deus começou a responder-lhe com uma voz.
+
+[[v2-19-20]]
+
+^<<v2-19-20,20>>^ Assim, Jeová desceu sobre o monte Sinai, ao cume do monte. Jeová chamou então Moisés ao cume do monte, e Moisés pôs-se a subir.
+
+[[v2-19-21]]
+
+^<<v2-19-21,21>>^ Jeová disse então a Moisés: “Desce, adverte o povo para que não tentem abrir caminho até Jeová, para olhar, e muitos deles tenham de cair.
+
+[[v2-19-22]]
+
+^<<v2-19-22,22>>^ E santifiquem-se também os sacerdotes que regularmente se aproximam de Jeová, para que Jeová não irrompa sobre eles.”
+
+[[v2-19-23]]
+
+^<<v2-19-23,23>>^ Em vista disso, Moisés disse a Jeová: “O povo não pode subir ao monte Sinai, porque tu mesmo já nos advertiste, dizendo: ‘Põe termos ao monte e torna-o sagrado.’”^&#42;1^
+
+[NOTE]
+====
+. Ou “e santifica-o”.
+====
+
+[[v2-19-24]]
+
+^<<v2-19-24,24>>^ No entanto, Jeová lhe disse: “Vai, desce, e tens de subir, tu e Arão contigo; mas não deixes os sacerdotes e o povo abrir caminho para subirem até Jeová, para que ele não irrompa sobre eles.”
+
+[[v2-19-25]]
+
+^<<v2-19-25,25>>^ Portanto, Moisés desceu até o povo e disse-lhes [isso].
+
+'''
+
+xref:002-exodo/002-exodo-018.adoc#v2-18-0[&#60; Capítulo Anterior] | <<v2-19-0,Topo>> | xref:002-exodo/002-exodo-020.adoc#v2-20-0[Próximo Capítulo &#62;]

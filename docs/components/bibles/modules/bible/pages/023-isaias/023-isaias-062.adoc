@@ -1,0 +1,96 @@
+include::./index.adoc[]
+
+[[v23-62-0]]
+=== Isaías, 62
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-62-1]]
+
+^<<v23-62-1,1>>^ Por causa de Sião, não ficarei quieto, e por causa de Jerusalém, não sossegarei até que saia a sua justiça assim como a claridade e a sua salvação, como uma tocha ardente.
+
+[[v23-62-2]]
+
+^<<v23-62-2,2>>^ “E as nações hão de ver a tua^&#42;1^ justiça, [ó mulher,]^&#42;2^ e todos os reis a tua glória. E serás realmente chamada por um novo nome, que a própria boca de Jeová determinará.
+
+[NOTE]
+====
+. “Tua”, hebr. fem. sing.
+. “Ó mulher”, inserido porque “tua” é hebr. fem. sing. e se refere a “Jerusalém”.
+====
+
+[[v23-62-3]]
+
+^<<v23-62-3,3>>^ E terás de tornar-te uma coroa de beleza na mão de Jeová e um turbante régio na palma da mão de teu Deus.^&#42;1^
+
+[NOTE]
+====
+. “Teu Deus.” Hebr.: ’Elo·há·yikh.
+====
+
+[[v23-62-4]]
+
+^<<v23-62-4,4>>^ Não mais se dirá que és uma mulher completamente abandonada; e não mais se dirá que a tua própria terra está desolada; mas tu mesma serás chamada Meu Deleite Está Nela,^&#42;1^ e tua terra, Possuída Como Esposa.^&#42;2^ Porque Jeová se terá agradado de ti e tua própria terra será possuída como esposa.
+
+[NOTE]
+====
+. “Meu Deleite Está Nela.” Ou “Hefzibá”. Hebr.: Hhef·tsi·váh.
+. Ou “Possuída por um Marido”. Ou “Beulá”. Hebr.: Be‛u·láh.
+====
+
+[[v23-62-5]]
+
+^<<v23-62-5,5>>^ Pois assim como o jovem toma posse duma virgem como sua esposa, teus filhos tomarão posse de ti como esposa. E teu Deus exultará sobre ti com a exultação de um noivo sobre a noiva.
+
+[[v23-62-6]]
+
+^<<v23-62-6,6>>^ Sobre as tuas muralhas, ó Jerusalém, comissionei vigias. Que não fiquem quietos o dia inteiro e a noite inteira, constantemente.
+“Vós os que fazeis menção de Jeová, não haja silêncio da vossa parte
+
+[[v23-62-7]]
+
+^<<v23-62-7,7>>^ e não lhe deis silêncio até que ele fixe solidamente, sim, até que ele ponha Jerusalém por louvor na terra.”
+
+[[v23-62-8]]
+
+^<<v23-62-8,8>>^ Jeová jurou com a sua direita e com o seu braço forte: “Não mais vou dar o teu^&#42;1^ cereal por alimento aos teus inimigos, nem beberão os estrangeiros^&#42;2^ o teu vinho novo pelo qual labutaste.
+
+[NOTE]
+====
+. “Teu”, hebr. fem. sing., dirigido a Sião ou Jerusalém.
+. Lit.: “filhos dum (país) estrangeiro”.
+====
+
+[[v23-62-9]]
+
+^<<v23-62-9,9>>^ Mas os próprios que o recolhem o comerão e eles certamente louvarão a Jeová; e os próprios que o vindimam o beberão nos meus santos pátios.”
+
+[[v23-62-10]]
+
+^<<v23-62-10,10>>^ Passai, passai pelos portões. Desobstruí o caminho do povo. Aterrai, aterrai a estrada principal. Livrai-a de pedras. Erigi um sinal de aviso^&#42;1^ para os povos.
+
+[NOTE]
+====
+. “Sinal de aviso.” Hebr.: nes; lat.: sí·gnum.
+====
+
+[[v23-62-11]]
+
+^<<v23-62-11,11>>^ Eis que o próprio Jeová fará que se ouça [isso] até a parte mais longínqua^&#42;1^ da terra: “Dizei à filha de Sião: ‘Eis que está chegando a tua salvação! Eis que está com ele a recompensa que dá e está diante dele o salário que paga!’”
+
+[NOTE]
+====
+. Veja Je 25:31, 33 n.
+====
+
+[[v23-62-12]]
+
+^<<v23-62-12,12>>^ E homens certamente os chamarão de povo santo, os resgatados por Jeová; e tu mesma serás chamada de Buscada,^&#42;1^ Cidade Não Abandonada Completamente.
+
+[NOTE]
+====
+. “Buscada.” Hebr.: Dheru·sháh, hebr. fem. sing.
+====
+
+'''
+
+xref:023-isaias/023-isaias-061.adoc#v23-61-0[&#60; Capítulo Anterior] | <<v23-62-0,Topo>> | xref:023-isaias/023-isaias-063.adoc#v23-63-0[Próximo Capítulo &#62;]

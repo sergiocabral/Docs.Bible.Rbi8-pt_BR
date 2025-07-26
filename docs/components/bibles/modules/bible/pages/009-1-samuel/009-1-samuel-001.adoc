@@ -1,0 +1,204 @@
+include::./index.adoc[]
+
+[[v9-1-0]]
+=== 1 Samuel, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_ou, segundo a Versão dos Setenta grega: O PRIMEIRO DOS REIS_
+
+[[v9-1-1]]
+
+^<<v9-1-1,1>>^ Ora, aconteceu que havia certo homem de Ramataim-Zofim,^&#42;1^ da região montanhosa de Efraim, e seu nome era Elcana, filho de Jeroão, filho de Eliú,^&#42;2^ filho de Toú, filho de Zufe, efraimita.^&#42;3^
+
+[NOTE]
+====
+. “De Ramataim-Zofim.” Ou “de Ramá, zufita”. LXX: “de Armataim-Zifa”; Vg: “de Ramataim-Sofim”. Veja v. 19; 1Cr 6:26, 35.
+. “Eliú”, M; LXX: “Eliou”; MLXX em 1Cr 6:27: “Eliabe”; em 1Cr 6:34: “Eliel”.
+. Por se ter estabelecido no território de Efraim, mas Elcana era realmente levita. Veja 1Cr 6:19, 22-28.
+====
+
+[[v9-1-2]]
+
+^<<v9-1-2,2>>^ E ele tinha duas esposas, sendo o nome de uma Ana e o nome da outra Penina. E Penina veio a ter filhos, mas Ana não teve filhos.
+
+[[v9-1-3]]
+
+^<<v9-1-3,3>>^ E este homem subia da sua cidade de ano em ano^&#42;1^ para prostrar-se e para oferecer sacrifícios a Jeová dos exércitos^&#42;2^ em Silo. E era ali que os dois filhos de Eli,^&#42;3^ Hofni e Finéias, eram sacerdotes para Jeová.
+
+[NOTE]
+====
+. Lit.: “de dias em dias”. Veja Êx 13:10; Jz 11:40; Jz 21:19.
+. “A Jeová dos exércitos.” Hebr.: la·Yhwáh tseva·’óhth; esta é a primeira ocorrência desta expressão no M.
+. “Os dois filhos de Eli”, MSyVg; LXX: “Eli e seus dois filhos”.
+====
+
+[[v9-1-4]]
+
+^<<v9-1-4,4>>^ E veio a haver um dia em que Elcana passou a oferecer sacrifícios, e ele deu porções a Penina, sua esposa, e a todos os filhos e filhas dela;
+
+[[v9-1-5]]
+
+^<<v9-1-5,5>>^ mas a Ana ele deu uma porção. Não obstante,^&#42;1^ era a Ana que amava, e quanto a Jeová, havia-lhe fechado a madre.
+
+[NOTE]
+====
+. “Não obstante”, LXX; Vg: “triste, porque”.
+====
+
+[[v9-1-6]]
+
+^<<v9-1-6,6>>^ E sua rival^&#42;1^ também a vexava severamente para fazê-la sentir-se desconcertada por Jeová lhe ter fechado a madre.
+
+[NOTE]
+====
+. Ou “co-esposa”.
+====
+
+[[v9-1-7]]
+
+^<<v9-1-7,7>>^ E assim ela^&#42;1^ fazia ano após ano, todas as vezes que subia,^&#42;2^ entrando na casa de Jeová. Vexava-a desta maneira, de modo que ela chorava e não comia.
+
+[NOTE]
+====
+. “Ela”, como é evidente; Sy: “Penina”; M: “ele”.
+. “Subia”, MLXXSy; Vg: “subiam”.
+====
+
+[[v9-1-8]]
+
+^<<v9-1-8,8>>^ E Elcana, seu esposo, passou a dizer-lhe: “Ana, por que choras e por que não comes, e por que se sente mal o teu coração? Não te sou eu melhor do que dez filhos?”
+
+[[v9-1-9]]
+
+^<<v9-1-9,9>>^ Ana levantou-se então, depois de terem^&#42;1^ comido em Silo^&#42;2^ e depois de se beber,^&#42;3^ enquanto Eli, o sacerdote, estava sentado na cadeira junto à ombreira da porta do templo^&#42;4^ de Jeová.
+
+[NOTE]
+====
+. “Terem”, LXX; M: “ela ter”. O pronome fem. hebr. refere-se ao grupo do qual Ana se separou.
+. “Em Silo.” Hebr.: veShi·lóh; possivelmente, por meio duma emenda, “na sala”, isto é, na sala de refeições, ou no refeitório.
+. “E depois de se beber.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal. LXX: “e ela tomou sua posição perante Jeová”.
+. “Templo de.” Hebr.: heh·khál; gr.: na·oú; lat.: tém·pli. Esta é a primeira ocorrência desta palavra hebr. Veja 2Rs 20:18 n. e Mt 23:16 n.
+====
+
+[[v9-1-10]]
+
+^<<v9-1-10,10>>^ E ela estava amargurada de alma, e começou a orar a Jeová e a chorar muito.
+
+[[v9-1-11]]
+
+^<<v9-1-11,11>>^ E ela prosseguiu, fazendo um voto e dizendo: “Ó Jeová dos exércitos, se sem falta olhares para a tribulação da tua escrava e realmente te lembrares de mim, e não te esqueceres da tua escrava e realmente deres à tua escrava um descendente masculino, eu o entregarei a Jeová todos os dias da sua vida e não passará navalha sobre a sua cabeça.”
+
+[[v9-1-12]]
+
+^<<v9-1-12,12>>^ E sucedeu que, orando ela prolongadamente perante Jeová, Eli vigiava-lhe a boca.
+
+[[v9-1-13]]
+
+^<<v9-1-13,13>>^ Quanto a Ana, falava no seu coração; somente os seus lábios se moviam e não se ouvia a sua voz. Eli, porém, tomou-a por bêbeda.
+
+[[v9-1-14]]
+
+^<<v9-1-14,14>>^ Portanto, Eli lhe disse: “Até quando te comportarás como embriagada? Afasta de ti o teu vinho.”
+
+[[v9-1-15]]
+
+^<<v9-1-15,15>>^ A isso Ana respondeu e disse: “Não, meu senhor! Sou uma mulher de espírito aflito; e não bebi nem vinho nem bebida inebriante, mas derramo a minha alma perante Jeová.
+
+[[v9-1-16]]
+
+^<<v9-1-16,16>>^ Não tomes a tua escrava por mulher imprestável,^&#42;1^ pois é da abundância da minha preocupação e do meu vexame que tenho falado até agora.”
+
+[NOTE]
+====
+. Lit.: “por filha de belial (inutilidade)”.
+====
+
+[[v9-1-17]]
+
+^<<v9-1-17,17>>^ Eli respondeu então e disse: “Vai em paz, e que o Deus de Israel te conceda o teu pedido que lhe fizeste.”
+
+[[v9-1-18]]
+
+^<<v9-1-18,18>>^ A isso ela disse: “Ache a tua serva favor aos teus olhos.” E a mulher passou a ir-se embora e a comer, e seu semblante não estava mais preocupado.
+
+[[v9-1-19]]
+
+^<<v9-1-19,19>>^ Então se levantaram de manhã cedo e se prostraram perante Jeová, voltando depois e entrando na sua casa em Ramá. Elcana teve então relações com Ana, sua esposa, e Jeová começou a lembrar-se dela.
+
+[[v9-1-20]]
+
+^<<v9-1-20,20>>^ Sucedeu, pois, por volta de um ano,^&#42;1^ que Ana havia ficado grávida e deu à luz um filho, e ela passou a chamá-lo pelo nome de Samuel,^&#42;2^ porque, dizia ela, “foi de Jeová que o pedi”.
+
+[NOTE]
+====
+. Lit.: “dos dias”. Veja Êx 34:22, referindo-se à festividade do recolhimento.
+. Veja n. do título.
+====
+
+[[v9-1-21]]
+
+^<<v9-1-21,21>>^ No devido tempo subiu o homem Elcana com todos os da sua casa, a fim de sacrificar para Jeová o sacrifício anual^&#42;1^ e sua oferta votiva.
+
+[NOTE]
+====
+. Lit.: “o sacrifício dos dias”. Veja v. 3 n.: “ano”.
+====
+
+[[v9-1-22]]
+
+^<<v9-1-22,22>>^ Quanto a Ana, ela não subiu, pois havia dito a seu esposo: “Assim que o rapazinho for desmamado, terei de levá-lo e ele terá de comparecer perante Jeová e morar ali por tempo indefinido.”
+
+[[v9-1-23]]
+
+^<<v9-1-23,23>>^ A isso lhe disse Elcana, seu esposo: “Faze o que for bom aos teus olhos. Fica em casa até que o tenhas desmamado. Apenas cumpra Jeová a sua^&#42;1^ palavra.” A mulher ficou, pois, em casa e amamentava seu filho até o desmamar.
+
+[NOTE]
+====
+. “Sua”, MVg; Sy: “tua”.
+====
+
+[[v9-1-24]]
+
+^<<v9-1-24,24>>^ Por conseguinte, assim que o havia desmamado, levou-o consigo para cima, junto com um novilho de três anos^&#42;1^ e um efa^&#42;2^ de farinha, e uma grande talha de vinho, e passou a entrar^&#42;3^ na casa de Jeová em Silo. E o rapazinho estava com ela.^&#42;4^
+
+[NOTE]
+====
+. “Um novilho de três anos”, LXXSy; MVg: “três novilhos”.
+. Cerca de 22 l.
+. “Entrar”, LXX; MSyVg: “levá-lo para dentro”.
+. Mediante uma emenda; M: “E o rapazinho [era] rapazinho.” Hebr.: wehan·ná·‛ar ná·‛ar; LXX: “E o rapazinho estava com eles”; Vg: “o rapazinho era ainda criança”.
+====
+
+[[v9-1-25]]
+
+^<<v9-1-25,25>>^ Abateram então o novilho e levaram^&#42;1^ o rapazinho a Eli.
+
+[NOTE]
+====
+. “Levaram”, MSyVg; LXX: “Ana, a mãe do menino, levou.”
+====
+
+[[v9-1-26]]
+
+^<<v9-1-26,26>>^ Assim, ela disse: “Perdão, meu senhor! Pela vida da tua alma, meu senhor, sou a mulher que estava de pé junto a ti neste lugar para orar a Jeová.
+
+[[v9-1-27]]
+
+^<<v9-1-27,27>>^ Foi com referência a este rapazinho que orei que Jeová me concedesse o meu pedido que lhe fiz.
+
+[[v9-1-28]]
+
+^<<v9-1-28,28>>^ E eu, da minha parte, o emprestei^&#42;1^ a Jeová. Todos os dias que ele vier a existir^&#42;2^ será alguém pedido para Jeová.^&#42;3^
+E ele^&#42;4^ passou a curvar-se ali perante Jeová.
+
+[NOTE]
+====
+. Lit.: “deixei [que alguém] o pedisse”, isto é, tomasse emprestado para Jeová. O mesmo verbo é usado em 2Rs 4:3; 2Rs 6:5, no sentido de tomar emprestado.
+. “Ele vier a existir”, M; TLXXSy: “ele esteja vivo”.
+. Ou “alguém tomado emprestado para (emprestado a) Jeová”.
+. “Ele”, isto é, Elcana. Veja 2:11.
+====
+
+'''
+
+xref:008-rute/008-rute-004.adoc#v8-4-0[&#60; Capítulo Anterior] | <<v9-1-0,Topo>> | xref:009-1-samuel/009-1-samuel-002.adoc#v9-2-0[Próximo Capítulo &#62;]

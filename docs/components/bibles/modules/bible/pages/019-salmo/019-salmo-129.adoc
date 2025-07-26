@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-129-0]]
+=== Salmos, 129
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Cântico das Subidas._
+
+[[v19-129-1]]
+
+^<<v19-129-1,1>>^ “Já por bastante tempo eles me têm sido hostis, desde a minha mocidade”,
+Diga, pois, Israel:
+
+[[v19-129-2]]
+
+^<<v19-129-2,2>>^ “Já por bastante tempo eles me têm sido hostis, desde a minha mocidade;
+Contudo, não prevaleceram contra mim.
+
+[[v19-129-3]]
+
+^<<v19-129-3,3>>^ Aradores têm lavrado sobre as minhas próprias costas;
+Prolongaram os seus sulcos.”^&#42;1^
+
+[NOTE]
+====
+. Ou “suas lavouras”.
+====
+
+[[v19-129-4]]
+
+^<<v19-129-4,4>>^ Jeová é justo.
+Ele retalhou as cordas dos iníquos.
+
+[[v19-129-5]]
+
+^<<v19-129-5,5>>^ Ficarão envergonhados e tornarão atrás
+Todos os que odeiam a Sião.
+
+[[v19-129-6]]
+
+^<<v19-129-6,6>>^ Tornar-se-ão como a grama verde dos telhados,
+Que se seca antes de ser arrancada,
+
+[[v19-129-7]]
+
+^<<v19-129-7,7>>^ Com que o ceifeiro não encheu a sua própria mão,
+Nem aquele que ajunta molhos, o seu próprio regaço.
+
+[[v19-129-8]]
+
+^<<v19-129-8,8>>^ Nem disseram os que passavam:
+“A bênção de Jeová esteja sobre vós.
+Nós vos abençoamos em nome de Jeová.”
+
+'''
+
+xref:019-salmo/019-salmo-128.adoc#v19-128-0[&#60; Capítulo Anterior] | <<v19-129-0,Topo>> | xref:019-salmo/019-salmo-130.adoc#v19-130-0[Próximo Capítulo &#62;]

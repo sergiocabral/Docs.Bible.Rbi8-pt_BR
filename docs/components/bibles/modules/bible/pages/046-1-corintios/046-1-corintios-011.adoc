@@ -1,0 +1,204 @@
+include::./index.adoc[]
+
+[[v46-11-0]]
+=== 1 Coríntios, 11
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v46-11-1]]
+
+^<<v46-11-1,1>>^ Tornai-vos meus imitadores, assim como eu sou de Cristo.
+
+[[v46-11-2]]
+
+^<<v46-11-2,2>>^ Ora, eu vos elogio, porque em todas as coisas vos lembrais de mim e vos apegais às tradições assim como [as] transmiti a vós.
+
+[[v46-11-3]]
+
+^<<v46-11-3,3>>^ Mas, quero que saibais que a cabeça de todo homem é o Cristo; por sua vez, a cabeça da mulher é o homem; por sua vez, a cabeça do Cristo é Deus.
+
+[[v46-11-4]]
+
+^<<v46-11-4,4>>^ Todo homem que orar ou profetizar com algo sobre a sua cabeça envergonha sua cabeça;
+
+[[v46-11-5]]
+
+^<<v46-11-5,5>>^ mas toda mulher que orar ou profetizar com a sua cabeça descoberta^&#42;1^ envergonha sua cabeça, pois é a mesma coisa como se fosse [mulher] de cabeça rapada.^&#42;2^
+
+[NOTE]
+====
+. Ou “desvelada”.
+. Isto é, como punição por imoralidade.
+====
+
+[[v46-11-6]]
+
+^<<v46-11-6,6>>^ Porque, se a mulher não se cobrir, seja também tosquiada; mas, se é ignominioso para a mulher ser tosquiada ou rapada, que se cubra.
+
+[[v46-11-7]]
+
+^<<v46-11-7,7>>^ Pois o homem não deve ter a cabeça coberta, visto ser imagem e glória de Deus; mas a mulher é a glória do homem.
+
+[[v46-11-8]]
+
+^<<v46-11-8,8>>^ Porque o homem não procede da^&#42;1^ mulher, mas a mulher do^&#42;2^ homem;
+
+[NOTE]
+====
+. Ou “homem não pertence à”.
+. Ou “mulher pertence ao”.
+====
+
+[[v46-11-9]]
+
+^<<v46-11-9,9>>^ e, ainda mais, o homem não foi criado por causa da mulher, mas a mulher por causa do homem.
+
+[[v46-11-10]]
+
+^<<v46-11-10,10>>^ É por isso que a mulher deve ter um sinal de autoridade^&#42;1^ sobre a sua cabeça, por causa dos anjos.
+
+[NOTE]
+====
+. Ou “liberdade permitida”.
+====
+
+[[v46-11-11]]
+
+^<<v46-11-11,11>>^ Além disso, em conexão com [o] Senhor, nem é a mulher sem o homem, nem o homem sem a mulher.
+
+[[v46-11-12]]
+
+^<<v46-11-12,12>>^ Pois, assim como a mulher procede do homem, assim também o homem é por intermédio da mulher; mas todas as coisas procedem de Deus.
+
+[[v46-11-13]]
+
+^<<v46-11-13,13>>^ Julgai por vós mesmos: É próprio para uma mulher orar a Deus [de cabeça] descoberta?
+
+[[v46-11-14]]
+
+^<<v46-11-14,14>>^ Não ensina a própria natureza que, se um homem tiver cabelo comprido, é uma desonra para ele;
+
+[[v46-11-15]]
+
+^<<v46-11-15,15>>^ mas, se a mulher tiver cabelo comprido, é uma glória para ela? Porque o cabelo dela foi-lhe dado em lugar de mantilha.^&#42;1^
+
+[NOTE]
+====
+. Ou “foi-lhe dado como cobertura”.
+====
+
+[[v46-11-16]]
+
+^<<v46-11-16,16>>^ No entanto, se alguém parece estar disputando a favor de outro costume, não temos outro, nem o têm as congregações de Deus.
+
+[[v46-11-17]]
+
+^<<v46-11-17,17>>^ Mas, ao dar estas ordens, não vos elogio, porque não é para melhor, mas para pior que vos reunis.
+
+[[v46-11-18]]
+
+^<<v46-11-18,18>>^ Pois, em primeiro lugar, ouço^&#42;1^ que, ao vos reunirdes numa congregação, existem divisões^&#42;2^ entre vós; e até certo ponto acredito nisso.
+
+[NOTE]
+====
+. Ou “estou ouvindo”.
+. Ou “cismas”. Gr.: skhí·sma·ta.
+====
+
+[[v46-11-19]]
+
+^<<v46-11-19,19>>^ Porque também tem de haver seitas^&#42;1^ entre vós, para que os aprovados também se tornem manifestos entre vós.
+
+[NOTE]
+====
+. “Seitas.” Gr.: hai·ré·seis; lat.: hé·re·ses.
+====
+
+[[v46-11-20]]
+
+^<<v46-11-20,20>>^ Portanto, quando vos reunis num lugar, não é possível comer^&#42;1^ a refeição noturna do Senhor.^&#42;2^
+
+[NOTE]
+====
+. Ou “não se come a”.
+. Lit.: “ceia pertinente ao Senhor”.
+====
+
+[[v46-11-21]]
+
+^<<v46-11-21,21>>^ Pois, quando [a] comeis,^&#42;1^ cada um toma de antemão a sua própria refeição noturna, de modo que um está com fome, mas outro está inebriado.
+
+[NOTE]
+====
+. Ou “quando ele [a] come”.
+====
+
+[[v46-11-22]]
+
+^<<v46-11-22,22>>^ Não é que certamente tendes casas para comer e beber? Ou desprezais a congregação de Deus e envergonhais aos que não têm nada? O que vos hei de dizer? Hei de elogiar-vos? Nisto não vos elogio.
+
+[[v46-11-23]]
+
+^<<v46-11-23,23>>^ Pois eu recebi do Senhor^&#42;1^ o que também vos transmiti, que o Senhor Jesus, na noite em que ia ser entregue, tomou um pão,
+
+[NOTE]
+====
+. “Do Senhor”, אAB; J13,14: “Jeová”.
+====
+
+[[v46-11-24]]
+
+^<<v46-11-24,24>>^ e, depois de ter dado graças, partiu-o e disse: “Isto significa^&#42;1^ meu corpo em vosso benefício. Persisti em fazer isso em memória de mim.”
+
+[NOTE]
+====
+. Lit.: “é”. Gr.: e·stin. Veja Mt 26:26 n.
+====
+
+[[v46-11-25]]
+
+^<<v46-11-25,25>>^ Ele fez o mesmo também com respeito ao copo, depois de tomar a refeição noturna, dizendo: “Este copo significa o novo pacto em virtude do meu sangue. Persisti em fazer isso, todas as vezes que o beberdes, em memória de mim.”
+
+[[v46-11-26]]
+
+^<<v46-11-26,26>>^ Pois, todas as vezes que comerdes este pão e beberdes este copo, estais proclamando a morte do Senhor, até que ele chegue.
+
+[[v46-11-27]]
+
+^<<v46-11-27,27>>^ Conseqüentemente, quem comer o pão ou beber o copo do Senhor indignamente, será culpado com respeito ao corpo e ao sangue do Senhor.
+
+[[v46-11-28]]
+
+^<<v46-11-28,28>>^ Primeiro, aprove-se o homem depois de escrutínio, e deste modo coma do pão e beba do copo.
+
+[[v46-11-29]]
+
+^<<v46-11-29,29>>^ Pois, quem come e bebe, come e bebe julgamento contra si mesmo, se não discernir o corpo.
+
+[[v46-11-30]]
+
+^<<v46-11-30,30>>^ É por isso que muitos entre vós estão fracos e doentios, e não poucos estão dormindo [na morte].
+
+[[v46-11-31]]
+
+^<<v46-11-31,31>>^ Mas, se discerníssemos o que nós mesmos somos, não seríamos julgados.
+
+[[v46-11-32]]
+
+^<<v46-11-32,32>>^ No entanto, quando somos julgados, somos disciplinados por Jeová,^&#42;1^ para não ficarmos condenados com o mundo.
+
+[NOTE]
+====
+. Veja Ap. 1D.
+====
+
+[[v46-11-33]]
+
+^<<v46-11-33,33>>^ Conseqüentemente, meus irmãos, quando vos reunirdes para [o] comer, esperai uns pelos outros.
+
+[[v46-11-34]]
+
+^<<v46-11-34,34>>^ Se alguém tiver fome, coma em casa, para que não vos reunais para julgamento. Mas os demais assuntos porei em ordem quando for aí.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-010.adoc#v46-10-0[&#60; Capítulo Anterior] | <<v46-11-0,Topo>> | xref:046-1-corintios/046-1-corintios-012.adoc#v46-12-0[Próximo Capítulo &#62;]

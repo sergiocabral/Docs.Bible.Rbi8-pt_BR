@@ -1,0 +1,154 @@
+include::./index.adoc[]
+
+[[v2-33-0]]
+=== Êxodo, 33
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-33-1]]
+
+^<<v2-33-1,1>>^ E Jeová disse mais a Moisés: “Vai, sobe daqui, tu e o povo que fizeste subir da terra do Egito, para a terra a respeito da qual jurei^&#42;1^ a Abraão, Isaque e Jacó, dizendo: ‘À tua descendência a darei.’
+
+[NOTE]
+====
+. Ou “terra que prometi sob juramento”.
+====
+
+[[v2-33-2]]
+
+^<<v2-33-2,2>>^ E eu vou enviar um anjo adiante de ti e expulsar os cananeus, os amorreus e os hititas, e os perizeus, os heveus e os jebuseus;
+
+[[v2-33-3]]
+
+^<<v2-33-3,3>>^ para uma terra^&#42;1^ que mana leite e mel, pois não subirei no meio de ti, porque és um povo de dura cerviz, para que eu não te extermine no caminho.”
+
+[NOTE]
+====
+. “Para uma terra”, M; LXX: “e eu vos guiarei para uma terra”.
+====
+
+[[v2-33-4]]
+
+^<<v2-33-4,4>>^ Quando o povo chegou a ouvir esta palavra má, começaram a prantear; e nenhum deles pôs sobre si os seus enfeites.
+
+[[v2-33-5]]
+
+^<<v2-33-5,5>>^ E Jeová prosseguiu, dizendo a Moisés: “Dize aos filhos de Israel: ‘Sois um povo de dura cerviz. Num só instante poderia eu subir ao teu meio e certamente te exterminar. Agora, pois, tira de ti os teus enfeites, visto que quero saber o que te vou fazer.’”
+
+[[v2-33-6]]
+
+^<<v2-33-6,6>>^ E os filhos de Israel foram despojar-se dos seus enfeites desde o monte Horebe em diante.
+
+[[v2-33-7]]
+
+^<<v2-33-7,7>>^ Quanto a Moisés, passou a retirar sua^&#42;1^ tenda e a armá-la fora do acampamento, longe do acampamento; e chamou-a de tenda de reunião. E sucedia que todo aquele que consultava a Jeová saía à tenda de reunião, que se achava fora do acampamento.
+
+[NOTE]
+====
+. “Sua”, LXXSy; MVg: “a”.
+====
+
+[[v2-33-8]]
+
+^<<v2-33-8,8>>^ E acontecia que, assim que Moisés saía para a tenda, todo o povo se levantava, e postavam-se cada um à entrada da sua própria tenda e seguiam Moisés com o olhar até ele entrar na tenda.
+
+[[v2-33-9]]
+
+^<<v2-33-9,9>>^ Acontecia também que, assim que Moisés entrava na tenda, a coluna de nuvem descia e se punha à entrada da tenda, e ele falava com Moisés.
+
+[[v2-33-10]]
+
+^<<v2-33-10,10>>^ E todo o povo via a coluna de nuvem parada à entrada da tenda, e todo o povo se levantava e se curvava, cada um à entrada da sua própria tenda.
+
+[[v2-33-11]]
+
+^<<v2-33-11,11>>^ E Jeová falava a Moisés face a face, assim como um homem fala a seu próximo. Quando ele retornava ao acampamento, seu ministro, Josué, filho de Num, como ajudante,^&#42;1^ não se afastava do meio da tenda.
+
+[NOTE]
+====
+. Ou “moço”.
+====
+
+[[v2-33-12]]
+
+^<<v2-33-12,12>>^ Moisés disse então a Jeová: “Vê, tu me dizes: ‘Faze subir este povo’, mas tu mesmo não me deixaste saber a quem enviarás comigo. Ademais, tu mesmo disseste: ‘Eu deveras te conheço por nome, e, além disso, tens achado favor aos meus olhos.’
+
+[[v2-33-13]]
+
+^<<v2-33-13,13>>^ E agora, por favor, se eu tiver achado favor aos teus olhos, por favor, faze-me saber os teus caminhos, para que eu te conheça, a fim de que eu ache favor aos teus olhos. E considera^&#42;1^ que esta nação é o teu povo.”
+
+[NOTE]
+====
+. “E considera”, MSy; LXX: “E para que eu saiba.”
+====
+
+[[v2-33-14]]
+
+^<<v2-33-14,14>>^ De modo que ele disse: “Minha própria pessoa^&#42;1^ irá junto^&#42;2^ e certamente te darei descanso.”^&#42;3^
+
+[NOTE]
+====
+. Lit.: “Minha face”, M(hebr.: pa·naí)Vg.
+. “Eu mesmo irei adiante de ti”, LXX; Sy: “Anda diante de mim.”
+. Alguns lêem a sentença composta como pergunta: “Irá minha própria pessoa junto e dar-te-ei certamente descanso?”
+====
+
+[[v2-33-15]]
+
+^<<v2-33-15,15>>^ A isso ele lhe disse: “Se a tua própria pessoa^&#42;1^ não for junto, não nos faças subir daqui.
+
+[NOTE]
+====
+. Lit.: “tua face”, M; LXXVg: “tu mesmo”.
+====
+
+[[v2-33-16]]
+
+^<<v2-33-16,16>>^ E agora, por meio de que se saberá que tenho achado favor aos teus olhos, eu e o teu povo? Não é por ires conosco, de maneira que eu e o teu povo temos sido distinguidos de todo outro povo que há na superfície do solo?”
+
+[[v2-33-17]]
+
+^<<v2-33-17,17>>^ E Jeová prosseguiu, dizendo a Moisés: “Farei também esta coisa de que falaste, porque tens achado favor aos meus olhos e eu te conheço por nome.”
+
+[[v2-33-18]]
+
+^<<v2-33-18,18>>^ A isso ele disse: “Por favor, faze-me ver a tua glória.”
+
+[[v2-33-19]]
+
+^<<v2-33-19,19>>^ Mas ele disse: “Eu mesmo farei toda a minha bondade passar diante da tua face e vou declarar^&#42;1^ diante de ti o nome de Jeová; e vou favorecer ao que^&#42;2^ eu favorecer e vou ter misericórdia de quem eu tiver misericórdia.”
+
+[NOTE]
+====
+. Ou “pregar”. Lit.: “invocar”.
+. “Ao que”, LXXVg. Ou “aos que”.
+====
+
+[[v2-33-20]]
+
+^<<v2-33-20,20>>^ E acrescentou: “Não podes ver a minha face, porque homem^&#42;1^ algum pode ver-me e continuar vivo.”
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ha·’a·dhám.
+====
+
+[[v2-33-21]]
+
+^<<v2-33-21,21>>^ E Jeová disse mais: “Eis um lugar junto a mim, e tens de postar-te sobre a rocha.
+
+[[v2-33-22]]
+
+^<<v2-33-22,22>>^ E há de suceder que, quando a minha glória estiver passando, terei de colocar-te numa gruta na rocha e terei de pôr a palma da minha mão sobre ti como anteparo, até eu ter passado.
+
+[[v2-33-23]]
+
+^<<v2-33-23,23>>^ Depois terei de tirar a palma da minha mão e hás de ver-me pelas costas.^&#42;1^ Mas a minha face não se pode ver.”
+
+[NOTE]
+====
+. Ou “partes traseiras”.
+====
+
+'''
+
+xref:002-exodo/002-exodo-032.adoc#v2-32-0[&#60; Capítulo Anterior] | <<v2-33-0,Topo>> | xref:002-exodo/002-exodo-034.adoc#v2-34-0[Próximo Capítulo &#62;]

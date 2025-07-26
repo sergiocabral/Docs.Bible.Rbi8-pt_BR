@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v20-24-0]]
+=== Provérbios, 24
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-24-1]]
+
+^<<v20-24-1,1>>^ Não invejes os homens maus e não te mostres almejante de ficar com eles.
+
+[[v20-24-2]]
+
+^<<v20-24-2,2>>^ Porque seu coração está meditando a assolação e seus próprios lábios estão falando desgraça.
+
+[[v20-24-3]]
+
+^<<v20-24-3,3>>^ Os da casa serão edificados pela sabedoria, e serão firmemente estabelecidos pelo discernimento.
+
+[[v20-24-4]]
+
+^<<v20-24-4,4>>^ E pelo conhecimento se encherão os quartos interiores com todas as coisas preciosas e agradáveis de valor.
+
+[[v20-24-5]]
+
+^<<v20-24-5,5>>^ O sábio na força é varão vigoroso e o homem de conhecimento está reforçando o poder.^&#42;1^
+
+[NOTE]
+====
+. “O sábio é superior ao forte, e o homem de conhecimento, ao vigoroso em poder”, mediante ligeiras mudanças do M e em harmonia com LXX.
+====
+
+[[v20-24-6]]
+
+^<<v20-24-6,6>>^ Pois travarás a tua guerra com orientação perita, e na multidão de conselheiros há salvação.
+
+[[v20-24-7]]
+
+^<<v20-24-7,7>>^ Para o tolo, a verdadeira sabedoria é elevada demais;^&#42;1^ no portão ele não abrirá a sua boca.
+
+[NOTE]
+====
+. Ou “é como corais”.
+====
+
+[[v20-24-8]]
+
+^<<v20-24-8,8>>^ Quanto àquele que maquina fazer o mal, será chamado apenas de mestre de idéias más.
+
+[[v20-24-9]]
+
+^<<v20-24-9,9>>^ A conduta desenfreada da tolice é pecado e o zombador é algo detestável para a humanidade.
+
+[[v20-24-10]]
+
+^<<v20-24-10,10>>^ Mostraste-te desanimado no dia da aflição? Teu poder será escasso.
+
+[[v20-24-11]]
+
+^<<v20-24-11,11>>^ Livra os que estão sendo levados para a morte; e os que cambaleiam para a chacina, oh! que tu [os] refreies!
+
+[[v20-24-12]]
+
+^<<v20-24-12,12>>^ Caso digas: “Eis que não sabíamos disso”, não o discernirá aquele que avalia os corações, e [não o] saberá aquele que observa a tua alma e [não] pagará de volta ao homem terreno segundo a sua atuação?
+
+[[v20-24-13]]
+
+^<<v20-24-13,13>>^ Filho meu, come mel, pois é bom; e haja no teu palato o doce mel de favo.
+
+[[v20-24-14]]
+
+^<<v20-24-14,14>>^ Do mesmo modo, conhece deveras a sabedoria para a tua alma. Se [a] tiveres achado, então há futuro, e tua própria esperança não será decepada.
+
+[[v20-24-15]]
+
+^<<v20-24-15,15>>^ Não te ponhas de emboscada, como alguém iníquo, contra o lugar de permanência do justo; não assoles o seu lugar de repouso.
+
+[[v20-24-16]]
+
+^<<v20-24-16,16>>^ Pois o justo talvez caia até mesmo sete vezes, e ele se há de levantar; mas aos iníquos se fará tropeçar pela calamidade.
+
+[[v20-24-17]]
+
+^<<v20-24-17,17>>^ Quando teu inimigo cai, não te alegres; e quando se faz que tropece, não jubile teu coração,
+
+[[v20-24-18]]
+
+^<<v20-24-18,18>>^ para que Jeová não o veja e seja mau aos seus olhos, e ele certamente faça recuar sua ira contra ele.
+
+[[v20-24-19]]
+
+^<<v20-24-19,19>>^ Não te acalores por causa dos malfeitores. Não invejes os iníquos.
+
+[[v20-24-20]]
+
+^<<v20-24-20,20>>^ Porque se mostrará não haver futuro para quem é mau; a própria lâmpada dos iníquos será apagada.
+
+[[v20-24-21]]
+
+^<<v20-24-21,21>>^ Filho meu, teme a Jeová e ao rei.^&#42;1^ Não te metas com os que estão a favor duma mudança.
+
+[NOTE]
+====
+. “Filho meu, teme a Jeová [hebr.: Yehwáh] e ao rei.” Gr.: fo·boú ton the·ón, hui·é, kai ba·si·lé·a, “filho [meu], teme a Deus e ao rei”. Duas pessoas distintas, “Deus” e “rei”, estão ligadas em gr. por kai, “e”. Em gr., o artigo definido ocorre perante a primeira pessoa, mas não é necessário antes da segunda pessoa, de modo que foi omitido. Veja Ap. 6E.
+====
+
+[[v20-24-22]]
+
+^<<v20-24-22,22>>^ Porque o seu desastre surgirá tão repentinamente, que da extinção daqueles que estão a favor duma mudança quem se aperceberá?
+
+[[v20-24-23]]
+
+^<<v20-24-23,23>>^ Também estas [declarações] são para os sábios: Mostrar parcialidade^&#42;1^ no julgamento não é bom.
+
+[NOTE]
+====
+. Lit.: “Discriminar faces.”
+====
+
+[[v20-24-24]]
+
+^<<v20-24-24,24>>^ Quem disser ao iníquo: “Tu és justo”, a este os povos maldirão, grupos nacionais o verberarão.
+
+[[v20-24-25]]
+
+^<<v20-24-25,25>>^ Mas, para os que [o] repreendem será agradável, e sobre estes virá a bênção de bem.
+
+[[v20-24-26]]
+
+^<<v20-24-26,26>>^ Lábios beijará aquele que replicar de maneira direta.
+
+[[v20-24-27]]
+
+^<<v20-24-27,27>>^ Prepara a tua obra portas afora e apronta-a para ti no campo. Depois tens de edificar também os da tua casa.
+
+[[v20-24-28]]
+
+^<<v20-24-28,28>>^ Não te tornes sem base uma testemunha contra o teu próximo. Então terias de ser néscio com os teus lábios.
+
+[[v20-24-29]]
+
+^<<v20-24-29,29>>^ Não digas: “Assim como ele me fez, assim vou fazer a ele. Pagarei de volta a cada um segundo a sua atuação.”
+
+[[v20-24-30]]
+
+^<<v20-24-30,30>>^ Passei pelo campo do preguiçoso e pelo vinhedo do homem falto de coração.^&#42;1^
+
+[NOTE]
+====
+. Ou “do homem terreno falto de boa motivação”. Hebr.: ’a·dhám hhasar-lév.
+====
+
+[[v20-24-31]]
+
+^<<v20-24-31,31>>^ E eis que todo ele produzia ervas daninhas. Urtigas cobriam-lhe a própria superfície, e seu próprio muro de pedra tinha sido derrubado.
+
+[[v20-24-32]]
+
+^<<v20-24-32,32>>^ De modo que eu mesmo passei a observar; comecei a tomá-lo ao coração; vi, aceitei a disciplina:
+
+[[v20-24-33]]
+
+^<<v20-24-33,33>>^ Um pouco de sono, um pouco de cochilo, um pouco de cruzar as mãos para se deitar,
+
+[[v20-24-34]]
+
+^<<v20-24-34,34>>^ e certamente chegará a tua pobreza como um salteador de estrada e a tua necessidade como um homem armado.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “como um homem de escudo”. Hebr.: ke’ísh ma·ghén.
+====
+
+'''
+
+xref:020-proverbios/020-proverbios-023.adoc#v20-23-0[&#60; Capítulo Anterior] | <<v20-24-0,Topo>> | xref:020-proverbios/020-proverbios-025.adoc#v20-25-0[Próximo Capítulo &#62;]

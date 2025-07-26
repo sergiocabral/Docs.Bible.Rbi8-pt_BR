@@ -1,0 +1,86 @@
+include::./index.adoc[]
+
+[[v30-3-0]]
+=== Amós, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v30-3-1]]
+
+^<<v30-3-1,1>>^ “Ouvi esta palavra que Jeová falou a vosso respeito, ó filhos de Israel, concernente à família inteira que fiz subir da terra do Egito, dizendo:
+
+[[v30-3-2]]
+
+^<<v30-3-2,2>>^ ‘Somente a vós vos conheci dentre todas as famílias do solo. Por isso ajustarei contas convosco por todos os vossos erros.
+
+[[v30-3-3]]
+
+^<<v30-3-3,3>>^ “‘Acaso andarão dois juntos a menos que se encontraram por combinação?
+
+[[v30-3-4]]
+
+^<<v30-3-4,4>>^ Bramirá o leão na floresta quando não tem presa? Fará o leão novo jubado [ouvir] a sua voz desde o seu esconderijo se não tiver apanhado nada?
+
+[[v30-3-5]]
+
+^<<v30-3-5,5>>^ Cairá o pássaro numa armadilha na terra sem haver laço para ele? Sobe a armadilha desde o solo sem que tenha apanhado alguma coisa?
+
+[[v30-3-6]]
+
+^<<v30-3-6,6>>^ Quando se toca uma buzina na cidade, não treme então o próprio povo? Quando acontece uma calamidade na cidade, não foi então Jeová quem agiu?
+
+[[v30-3-7]]
+
+^<<v30-3-7,7>>^ Pois o Soberano Senhor Jeová não fará coisa alguma sem ter revelado seu assunto confidencial^&#42;1^ aos seus servos, os profetas.
+
+[NOTE]
+====
+. “Seu assunto confidencial.” Hebr.: soh·dhóh; lat.: se·cré·tum.
+====
+
+[[v30-3-8]]
+
+^<<v30-3-8,8>>^ Há um leão que bramiu! Quem não terá medo? O próprio Soberano Senhor Jeová falou! Quem não profetizará?’
+
+[[v30-3-9]]
+
+^<<v30-3-9,9>>^ “‘Publicai-o sobre [as] torres de habitação em Asdode e sobre [as] torres de habitação na terra do Egito, e dizei: “Sede ajuntados contra os montes de Samaria e vede as muitas desordens no meio dela e as defraudações dentro dela.
+
+[[v30-3-10]]
+
+^<<v30-3-10,10>>^ E não souberam fazer o que é direito”, é a pronunciação de Jeová, “os que armazenam violência e assolação nas suas torres de habitação”.’
+
+[[v30-3-11]]
+
+^<<v30-3-11,11>>^ “Portanto, assim disse o Soberano Senhor Jeová: ‘Há mesmo um adversário ao redor do país e ele certamente fará baixar de ti a tua^&#42;1^ força, e as tuas torres de habitação serão realmente saqueadas.’
+
+[NOTE]
+====
+. “Tua”, hebr. fem. sing., referindo-se à cidade, hebr. fem.
+====
+
+[[v30-3-12]]
+
+^<<v30-3-12,12>>^ “Assim disse Jeová: ‘Assim como o pastor arranca da boca do leão duas pernas ou um pedaço de orelha, assim serão arrancados os filhos de Israel, os sentados em Samaria num leito de luxo e num divã damasceno.’
+
+[[v30-3-13]]
+
+^<<v30-3-13,13>>^ “‘Ouvi e dai testemunho^&#42;1^ na casa de Jacó’, é a pronunciação do Soberano Senhor Jeová, o Deus dos exércitos.^&#42;2^
+
+[NOTE]
+====
+. Ou “advertência”.
+. “O Deus dos exércitos.” Hebr.: ’Elo·héh hats·tseva·’óhth; lat.: Dé·us e·xer·cí·tu·um.
+====
+
+[[v30-3-14]]
+
+^<<v30-3-14,14>>^ ‘Pois, no dia em que eu ajustar contas pelas revoltas de Israel contra ele, vou também ajustar contas com os altares de Betel; e os chifres do altar hão de ser cortados e terão de cair por terra.
+
+[[v30-3-15]]
+
+^<<v30-3-15,15>>^ E vou golpear a casa de inverno em adição à casa de verão.’
+“‘E terão de findar as casas de marfim, e muitas casas terão de chegar ao seu término’, é a pronunciação de Jeová.”
+
+'''
+
+xref:030-amos/030-amos-002.adoc#v30-2-0[&#60; Capítulo Anterior] | <<v30-3-0,Topo>> | xref:030-amos/030-amos-004.adoc#v30-4-0[Próximo Capítulo &#62;]

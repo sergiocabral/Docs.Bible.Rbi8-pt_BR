@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v19-9-0]]
+=== Salmos, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, segundo Mute-Labém.^&#42;1^ Uma melodia de Davi._
+
+_א [Álefe]^&#42;1^_
+
+[[v19-9-1]]
+
+^<<v19-9-1,1>>^ Vou elogiar-te de todo o meu coração, ó Jeová;
+Vou declarar todas as tuas obras maravilhosas.
+
+[[v19-9-2]]
+
+^<<v19-9-2,2>>^ Vou alegrar-me e regozijar-me em ti,
+Vou entoar melodias ao teu nome, ó Altíssimo.
+
+_ב [Bete]_
+
+[[v19-9-3]]
+
+^<<v19-9-3,3>>^ Quando meus inimigos recuarem,
+Tropeçarão e perecerão de diante de ti.
+
+[[v19-9-4]]
+
+^<<v19-9-4,4>>^ Pois executaste meu julgamento e minha causa;
+Sentaste-te no trono, julgando com justiça.
+
+_ג [Guímel]_
+
+[[v19-9-5]]
+
+^<<v19-9-5,5>>^ Censuraste nações, destruíste o iníquo.
+Extinguiste o nome deles por tempo indefinido, para todo o sempre.^&#42;1^
+
+[NOTE]
+====
+. Ou “sim, para sempre”.
+====
+
+[[v19-9-6]]
+
+^<<v19-9-6,6>>^ Ó tu, inimigo, [tuas] desolações chegaram ao seu fim perpétuo,
+Bem como as cidades que desarraigaste.
+A própria menção deles há de perecer.
+
+_ה [Hê]_
+
+[[v19-9-7]]
+
+^<<v19-9-7,7>>^ Quanto a Jeová, assentar-se-á por tempo indefinido,
+Estabelecendo firmemente o seu trono para o próprio julgamento.
+
+[[v19-9-8]]
+
+^<<v19-9-8,8>>^ E ele mesmo julgará em justiça o solo produtivo;^&#42;1^
+Em retidão submeterá a julgamento os grupos nacionais.
+
+[NOTE]
+====
+. “Solo produtivo.” Hebr.: te·vél; LXX: “a terra habitada”; Vg: “o círculo”, isto é, da terra.
+====
+
+_ו [Vau]_
+
+[[v19-9-9]]
+
+^<<v19-9-9,9>>^ E Jeová se tornará uma altura protetora para todo o esmagado,
+Uma altura protetora em tempos de aflição.
+
+[[v19-9-10]]
+
+^<<v19-9-10,10>>^ E os que conhecem o teu nome confiarão em ti,
+Pois certamente não abandonarás os que te buscam, ó Jeová.
+
+_ז [Zaine]_
+
+[[v19-9-11]]
+
+^<<v19-9-11,11>>^ Entoai melodias a Jeová, que mora em Sião;
+Contai entre os povos os seus atos.
+
+[[v19-9-12]]
+
+^<<v19-9-12,12>>^ Pois, ao estar buscando derramamento de sangue, certamente se lembrará daqueles mesmos;
+Decerto não se esquecerá do clamor dos atribulados.
+
+_ח [Hete]_
+
+[[v19-9-13]]
+
+^<<v19-9-13,13>>^ Mostra-me favor, ó Jeová; vê a minha tribulação por parte daqueles que me odeiam,
+Ó tu que me ergues dos portões da morte,
+
+[[v19-9-14]]
+
+^<<v19-9-14,14>>^ Para que eu declare todos os teus feitos louváveis
+Nos portões da filha de Sião,
+A fim de que eu jubile na tua salvação.
+
+_ט [Tete]_
+
+[[v19-9-15]]
+
+^<<v19-9-15,15>>^ As nações afundaram-se na cova que fizeram;
+Seu próprio pé foi apanhado na rede que encobriram.
+
+[[v19-9-16]]
+
+^<<v19-9-16,16>>^ Jeová é conhecido pelos julgamentos que executou.
+O iníquo foi enlaçado^&#42;1^ pela atividade das suas próprias mãos.
+Higaiom.^&#42;2^ Selá.
+
+[NOTE]
+====
+. “Foi enlaçado”, mediante a mudança dos sinais vocálicos; M: “ele está enlaçando”.
+. “Higaiom.” Este é um termo técnico, musical, cujo significado é incerto.
+====
+
+_י [Iode]_
+
+[[v19-9-17]]
+
+^<<v19-9-17,17>>^ Os iníquos retornarão ao Seol,^&#42;1^
+Sim, todas as nações que se esquecem de Deus.^&#42;2^
+
+[NOTE]
+====
+. “Seol”, MTSy; gr.: haí·den; lat.: in·fér·num. Veja Ap. 4B.
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v19-9-18]]
+
+^<<v19-9-18,18>>^ Porque o pobre não ficará sempre esquecido,
+Nem perecerá jamais a esperança dos mansos.
+
+_כ [Cafe]_
+
+[[v19-9-19]]
+
+^<<v19-9-19,19>>^ Levanta-te deveras, ó Jeová! Não se mostre o homem mortal superior em força.
+Sejam as nações julgadas diante da tua face.
+
+[[v19-9-20]]
+
+^<<v19-9-20,20>>^ Infunde-lhes medo,^&#42;1^ ó Jeová,
+Para que as nações saibam que são apenas homens mortais. Selá.
+
+[NOTE]
+====
+. “Impõe-lhes uma maldição”, mediante uma correção do M.
+====
+
+'''
+
+xref:019-salmo/019-salmo-008.adoc#v19-8-0[&#60; Capítulo Anterior] | <<v19-9-0,Topo>> | xref:019-salmo/019-salmo-010.adoc#v19-10-0[Próximo Capítulo &#62;]

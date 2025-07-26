@@ -1,0 +1,132 @@
+include::./index.adoc[]
+
+[[v19-7-0]]
+=== Salmos, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Endecha^&#42;1^ de Davi, cantada por ele a Jeová referente às palavras de Cus, o benjaminita.^&#42;2^_
+
+[[v19-7-1]]
+
+^<<v19-7-1,1>>^ Ó Jeová, meu Deus, em ti me refugiei.
+Salva-me de todos os que me perseguem e livra-me,
+
+[[v19-7-2]]
+
+^<<v19-7-2,2>>^ Para que ninguém dilacere a minha alma^&#42;1^ assim como faz o leão,
+Arrancando-me quando não há livrador.
+
+[NOTE]
+====
+. “Minha alma.” Hebr.: naf·shí; gr.: psy·khén; lat.: á·ni·mam. Veja Ap. 4A.
+====
+
+[[v19-7-3]]
+
+^<<v19-7-3,3>>^ Ó Jeová, meu Deus, se fiz isso,
+Se há injustiça nas minhas mãos,
+
+[[v19-7-4]]
+
+^<<v19-7-4,4>>^ Se retribuí com o mal àquele que me recompensou,
+Ou [se] espoliei aquele que, sem êxito, me foi hostil,
+
+[[v19-7-5]]
+
+^<<v19-7-5,5>>^ Seja minha alma perseguida por um inimigo,
+E alcance e pise ele a minha vida ao próprio chão,
+E faça ele a minha própria glória residir no mesmo pó. Selá.
+
+[[v19-7-6]]
+
+^<<v19-7-6,6>>^ Levanta-te deveras, ó Jeová, na tua ira;
+Ergue-te em vista dos acessos de fúria dos que me são hostis,
+E deveras desperta para mim,^&#42;1^ [visto que] deste ordem para o próprio julgamento.
+
+[NOTE]
+====
+. “Para mim”, M; LXXVg: “ó Jeová, meu Deus”.
+====
+
+[[v19-7-7]]
+
+^<<v19-7-7,7>>^ E cerque-te a própria assembléia dos grupos nacionais,^&#42;1^
+E volta-te contra ela no alto.
+
+[NOTE]
+====
+. “Grupos nacionais.” Hebr.: le’um·mím. Isto possivelmente devesse rezar ’elo·hím, fazendo a frase dizer: “a própria assembléia de deuses”. Veja 82:1.
+====
+
+[[v19-7-8]]
+
+^<<v19-7-8,8>>^ O próprio Jeová sentenciará os povos.
+Julga-me, ó Jeová, segundo a minha justiça
+E segundo a minha integridade que há em mim.
+
+[[v19-7-9]]
+
+^<<v19-7-9,9>>^ Por favor, tenha fim a maldade dos iníquos,
+E seja o justo firmado por ti;
+E Deus, como justo,^&#42;1^ prova o coração e os rins.^&#42;2^
+
+[NOTE]
+====
+. “Deus, como justo.” Hebr.: ’Elo·hím tsad·díq. O título ’Elo·hím está no pl., e o adjetivo tsad·díq está no sing.
+. Ou “e as emoções mais profundas”. Hebr.: u·khela·yóhth.
+====
+
+[[v19-7-10]]
+
+^<<v19-7-10,10>>^ O escudo para mim está sobre Deus, Salvador dos retos no coração.
+
+[[v19-7-11]]
+
+^<<v19-7-11,11>>^ Deus^&#42;1^ é justo Juiz,
+E Deus^&#42;2^ lança verberações^&#42;3^ cada dia.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím, seguido por um adjetivo no sing. Veja v. 9 n.: “justo”.
+. “E Deus.” Hebr.: we’Él.
+. Ou “Deus está denunciando”. LXX: “ele não dá vazão à ira”.
+====
+
+[[v19-7-12]]
+
+^<<v19-7-12,12>>^ Se alguém não retornar, Ele afiará a sua espada,
+Certamente retesará^&#42;1^ o seu arco e o preparará [para atirar].
+
+[NOTE]
+====
+. Lit.: “pisará”, amiúde por se pôr o pé firmemente no meio do arco.
+====
+
+[[v19-7-13]]
+
+^<<v19-7-13,13>>^ E para si, ele tem de preparar os instrumentos de morte;
+Fará flamejantes as suas flechas.
+
+[[v19-7-14]]
+
+^<<v19-7-14,14>>^ Eis que alguém está prenhe daquilo que é prejudicial,
+E ele concebeu desgraça e forçosamente dará à luz falsidade.
+
+[[v19-7-15]]
+
+^<<v19-7-15,15>>^ Escavou um poço e passou a cavá-lo;
+Mas cairá na cova [que] foi fazer.
+
+[[v19-7-16]]
+
+^<<v19-7-16,16>>^ Sua desgraça recairá sobre a sua própria cabeça,
+E sua própria violência descerá sobre o alto da sua cabeça.
+
+[[v19-7-17]]
+
+^<<v19-7-17,17>>^ Elogiarei a Jeová segundo a sua justiça,
+E vou entoar melodias ao nome de Jeová, o Altíssimo.
+
+'''
+
+xref:019-salmo/019-salmo-006.adoc#v19-6-0[&#60; Capítulo Anterior] | <<v19-7-0,Topo>> | xref:019-salmo/019-salmo-008.adoc#v19-8-0[Próximo Capítulo &#62;]

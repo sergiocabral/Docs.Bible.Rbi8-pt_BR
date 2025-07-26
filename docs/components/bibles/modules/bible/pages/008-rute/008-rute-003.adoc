@@ -1,0 +1,102 @@
+include::./index.adoc[]
+
+[[v8-3-0]]
+=== Rute, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v8-3-1]]
+
+^<<v8-3-1,1>>^ Noemi, sua sogra, disse-lhe então: “Minha filha, não devia eu procurar-te um lugar de descanso, para que te vá bem?
+
+[[v8-3-2]]
+
+^<<v8-3-2,2>>^ E agora, não é Boaz, com cujas moças ficaste, um parente nosso? Eis que hoje à noite estará joeirando cevada na eira.
+
+[[v8-3-3]]
+
+^<<v8-3-3,3>>^ E tens de lavar-te e esfregar-te com óleo, e tens de pôr sobre ti as tuas capas e descer à eira. Não te dês a conhecer ao homem até que tenha terminado de comer e de beber.
+
+[[v8-3-4]]
+
+^<<v8-3-4,4>>^ E deve dar-se que, quando ele se deitar, então tens de notar o lugar onde se deitou; e tens de vir e descobrir-lhe os pés, e tens de deitar-te; e ele, da sua parte, te declarará o que deves fazer.”
+
+[[v8-3-5]]
+
+^<<v8-3-5,5>>^ Então ela lhe disse: “Farei tudo o que me^&#42;1^ disseres.”
+
+[NOTE]
+====
+. “Me”, TSy e muitos mss. hebr. M não contém a palavra “me”, mas tem em “disseres” os sinais vocálicos de qere para ela. Veja Jz 20:13 n.
+====
+
+[[v8-3-6]]
+
+^<<v8-3-6,6>>^ E ela passou a descer à eira e a fazer segundo tudo o que a sua sogra lhe mandara.
+
+[[v8-3-7]]
+
+^<<v8-3-7,7>>^ Entrementes, Boaz comia e bebia, e seu coração se sentia bem. Então foi deitar-se na extremidade do monte de cereais. Depois ela veio ocultamente e lhe descobriu os pés, e deitou-se.
+
+[[v8-3-8]]
+
+^<<v8-3-8,8>>^ E sucedeu, à meia-noite, que o homem começou a tremer. Inclinou-se, pois, para a frente e eis que havia uma mulher deitada aos seus pés!
+
+[[v8-3-9]]
+
+^<<v8-3-9,9>>^ Então ele disse: “Quem és?” Ela disse, por sua vez: “Sou Rute, tua escrava, e tens de estender a tua aba sobre a tua escrava, visto que és resgatador.”
+
+[[v8-3-10]]
+
+^<<v8-3-10,10>>^ A isso ele disse: “Que Jeová te abençoe, minha filha. Expressaste a tua benevolência melhor no último caso do que no primeiro, não indo atrás dos jovens, quer o de condição humilde, quer o rico.
+
+[[v8-3-11]]
+
+^<<v8-3-11,11>>^ E agora, minha filha, não tenhas medo. Farei para ti tudo o que disseres, pois todos no portão^&#42;1^ do meu povo se apercebem de que és uma mulher de bem.
+
+[NOTE]
+====
+. Ou “cidade”.
+====
+
+[[v8-3-12]]
+
+^<<v8-3-12,12>>^ E agora, embora de fato eu seja resgatador, há um resgatador de parentesco mais chegado do que eu.
+
+[[v8-3-13]]
+
+^<<v8-3-13,13>>^ Pernoita aqui, e de manhã terá de acontecer que, se ele te resgatar, muito bem! Seja ele quem resgata. Mas, se ele não se agradar em resgatar-te, então eu te resgatarei, eu mesmo, tão certo como Jeová vive. Fica deitada até à manhã.”
+
+[[v8-3-14]]
+
+^<<v8-3-14,14>>^ E ela ficou deitada aos seus pés até à manhã e então se levantou, antes de se poder reconhecer um ao outro. Ele disse então: “Não se saiba que uma mulher veio à eira.”
+
+[[v8-3-15]]
+
+^<<v8-3-15,15>>^ E prosseguiu, dizendo: “Traze a manta que tens sobre ti e segura-a aberta.” Assim, ela a segurou aberta, e ele passou a medir seis medidas^&#42;1^ de cevada e a pô-la sobre ela, entrando ele^&#42;2^ depois na cidade.
+
+[NOTE]
+====
+. Segundo fontes rabínicas, trata-se de seis seás, ou de 44 l. Provavelmente era tudo o que ela podia carregar na cabeça.
+. “Ele”, M; SyVg: “ela”.
+====
+
+[[v8-3-16]]
+
+^<<v8-3-16,16>>^ E ela foi ter com a sua sogra, que lhe disse então: “Quem és, minha filha?” Por conseguinte, ela lhe contou tudo o que o homem lhe havia feito.
+
+[[v8-3-17]]
+
+^<<v8-3-17,17>>^ E prosseguiu, dizendo: “Deu-me estas seis medidas de cevada, pois me^&#42;1^ disse: ‘Não vás de mãos vazias à tua sogra.’”
+
+[NOTE]
+====
+. TLXX, muitos mss. hebr. e os sinais vocálicos de qere do M; Sy: “lhe (a ela)”. Veja v. 5 n.
+====
+
+[[v8-3-18]]
+
+^<<v8-3-18,18>>^ A isso ela disse: “Fica sentada, minha filha, até que saibas como o assunto se resolverá, pois o homem não terá sossego a menos que leve o assunto ainda hoje a término.”
+
+'''
+
+xref:008-rute/008-rute-002.adoc#v8-2-0[&#60; Capítulo Anterior] | <<v8-3-0,Topo>> | xref:008-rute/008-rute-004.adoc#v8-4-0[Próximo Capítulo &#62;]

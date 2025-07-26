@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v19-111-0]]
+=== Salmos, 111
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-111-1]]
+
+^<<v19-111-1,1>>^ ^&#42;1^ Louvai a Jah!^&#42;2^
+
+[NOTE]
+====
+. Este salmo está arranjado em ordem acróstica ou alfabética hebr.
+. Veja 104:35 n.
+====
+
+_א [Álefe]_
+
+Elogiarei a Jeová de todo o coração
+
+[NOTE]
+====
+. Este salmo está arranjado em ordem acróstica ou alfabética hebr.
+. Veja 104:35 n.
+====
+
+_ב [Bete]_
+
+No grupo íntimo dos retos e na assembléia.
+
+[NOTE]
+====
+. Este salmo está arranjado em ordem acróstica ou alfabética hebr.
+. Veja 104:35 n.
+====
+
+_ג [Guímel]_
+
+[[v19-111-2]]
+
+^<<v19-111-2,2>>^ Grandes são os trabalhos de Jeová,
+
+_ד [Dálete]_
+
+Pesquisados por parte de todos os que se agradam deles.
+
+_ה [Hê]_
+
+[[v19-111-3]]
+
+^<<v19-111-3,3>>^ Sua atuação é a própria dignidade e esplendor,
+
+_ו [Vau]_
+
+E sua justiça permanece de pé para todo o sempre.
+
+_ז [Zaine]_
+
+[[v19-111-4]]
+
+^<<v19-111-4,4>>^ Ele fez uma recordação para as suas obras maravilhosas.
+
+_ח [Hete]_
+
+Jeová é clemente e misericordioso.
+
+_ט [Tete]_
+
+[[v19-111-5]]
+
+^<<v19-111-5,5>>^ Tem dado alimento aos que o temem.
+
+_י [Iode]_
+
+Lembrar-se-á do seu pacto por tempo indefinido.
+
+_כ [Cafe]_
+
+[[v19-111-6]]
+
+^<<v19-111-6,6>>^ Contou ao seu povo o poder dos seus trabalhos,
+
+_ל [Lâmede]_
+
+Dando-lhes a herança das nações.
+
+_מ [Meme]_
+
+[[v19-111-7]]
+
+^<<v19-111-7,7>>^ Os trabalhos das suas mãos são verdade e julgamento;
+
+_נ [Nune]_
+
+Fidedignas são todas as ordens que ele dá,
+
+_ם [Sâmeque]_
+
+[[v19-111-8]]
+
+^<<v19-111-8,8>>^ Bem sustentadas para todo o sempre, por tempo indefinido,
+
+_ע [Aine]_
+
+Executadas em verdade e em retidão.
+
+_פ [Pê]_
+
+[[v19-111-9]]
+
+^<<v19-111-9,9>>^ Enviou ao seu povo a própria redenção.
+
+_צ [Tsadê]_
+
+Ordenou o seu pacto por tempo indefinido.
+
+_ק [Cofe]_
+
+Seu nome é santo e atemorizante.
+
+_ר [Rexe]_
+
+[[v19-111-10]]
+
+^<<v19-111-10,10>>^ O temor de Jeová é o princípio da sabedoria.
+
+_ש [Sim]_
+
+Todos os que as cumprem têm boa perspicácia.
+
+_ת [Tau]_
+
+Seu louvor permanece de pé para todo o sempre.
+
+'''
+
+xref:019-salmo/019-salmo-110.adoc#v19-110-0[&#60; Capítulo Anterior] | <<v19-111-0,Topo>> | xref:019-salmo/019-salmo-112.adoc#v19-112-0[Próximo Capítulo &#62;]

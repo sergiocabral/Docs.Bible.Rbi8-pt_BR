@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v4-13-0]]
+=== Números, 13
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-13-1]]
+
+^<<v4-13-1,1>>^ Jeová falou então a Moisés, dizendo:
+
+[[v4-13-2]]
+
+^<<v4-13-2,2>>^ “Envia para ti homens para que espiem a terra de Canaã, que eu dou aos filhos de Israel. Enviarás um homem para cada tribo dos seus pais, cada um sendo maioral entre eles.”
+
+[[v4-13-3]]
+
+^<<v4-13-3,3>>^ Assim, Moisés os enviou do ermo de Parã por ordem de Jeová. Todos os homens eram cabeças dos filhos de Israel.
+
+[[v4-13-4]]
+
+^<<v4-13-4,4>>^ E estes são os seus nomes: Da tribo de Rubem, Samua, filho de Zacur;
+
+[[v4-13-5]]
+
+^<<v4-13-5,5>>^ da tribo de Simeão, Safate, filho de Hori;
+
+[[v4-13-6]]
+
+^<<v4-13-6,6>>^ da tribo de Judá, Calebe, filho de Jefuné;
+
+[[v4-13-7]]
+
+^<<v4-13-7,7>>^ da tribo de Issacar, Igal, filho de José;
+
+[[v4-13-8]]
+
+^<<v4-13-8,8>>^ da tribo de Efraim, Oséias,^&#42;1^ filho de Num;
+
+[NOTE]
+====
+. Significando “Salvação; Livramento”. Hebr.: Hoh·shé·a‛; Sam: “Jeosué”.
+====
+
+[[v4-13-9]]
+
+^<<v4-13-9,9>>^ da tribo de Benjamim, Palti, filho de Rafu;
+
+[[v4-13-10]]
+
+^<<v4-13-10,10>>^ da tribo de Zebulão, Gadiel, filho de Sodi;
+
+[[v4-13-11]]
+
+^<<v4-13-11,11>>^ da tribo de José, para a tribo de Manassés, Gadi, filho de Susi;
+
+[[v4-13-12]]
+
+^<<v4-13-12,12>>^ da tribo de Dã, Amiel, filho de Gemali;
+
+[[v4-13-13]]
+
+^<<v4-13-13,13>>^ da tribo de Aser, Setur, filho de Micael;
+
+[[v4-13-14]]
+
+^<<v4-13-14,14>>^ da tribo de Naftali, Nabi, filho de Vofsi;
+
+[[v4-13-15]]
+
+^<<v4-13-15,15>>^ da tribo de Gade, Gueuel, filho de Maqui.
+
+[[v4-13-16]]
+
+^<<v4-13-16,16>>^ Estes são os nomes dos homens que Moisés enviou para que espiassem o país. E Moisés continuou a chamar Oséias, filho de Num, de Jeosué.^&#42;1^
+
+[NOTE]
+====
+. Significando “Jeová É Salvação”. Hebr.: Yehoh·shú·a‛; gr.: ’Ιησοῦν (I·e·soún, “Jesus”).
+====
+
+[[v4-13-17]]
+
+^<<v4-13-17,17>>^ Quando Moisés os enviou para espiar a terra de Canaã, passou a dizer-lhes: “Subi aqui ao Negebe,^&#42;1^ e tendes de subir à região montanhosa.
+
+[NOTE]
+====
+. Ou “ao sul”, isto é, à parte sulina da Terra da Promessa.
+====
+
+[[v4-13-18]]
+
+^<<v4-13-18,18>>^ E tendes de ver como é a terra e o povo que mora nela, se são fortes ou fracos, se são poucos ou muitos;
+
+[[v4-13-19]]
+
+^<<v4-13-19,19>>^ e como é a terra em que moram, se é boa ou má, e como são as cidades em que moram, se é em acampamentos ou em praças fortes;
+
+[[v4-13-20]]
+
+^<<v4-13-20,20>>^ e como é a terra, se é gorda ou magra, se há ou não há árvores nela. E tendes de mostrar-vos corajosos e tomar alguns dos frutos da terra.” Ora, os dias eram os dias dos primeiros frutos maduros das uvas.
+
+[[v4-13-21]]
+
+^<<v4-13-21,21>>^ Subiram então e espiaram a terra, desde o ermo de Zim até Reobe, até à entrada de Hamate.
+
+[[v4-13-22]]
+
+^<<v4-13-22,22>>^ Quando subiram ao Negebe, chegaram então a Hébron. Ora, havia ali Aimã, Sesai e Talmai, nascidos a Anaque.^&#42;1^ Incidentalmente, Hébron fora construída sete anos antes de Zoã do Egito.
+
+[NOTE]
+====
+. Ou “ao gigante”. Hebr.: ha·‛anáq, com o artigo definido, como no v. 28. “Anaque” significa “Pescoço Comprido”, portanto, de elevada estatura.
+====
+
+[[v4-13-23]]
+
+^<<v4-13-23,23>>^ Quando chegaram ao vale da torrente de Escol, passaram então a cortar dali um rebento com um só cacho de uvas. E foram carregá-lo com uma barra em dois homens, e também algumas das romãs e alguns dos figos.
+
+[[v4-13-24]]
+
+^<<v4-13-24,24>>^ Chamaram^&#42;1^ este lugar de vale da torrente de Escol,^&#42;2^ por causa do cacho que os filhos de Israel cortaram dali.
+
+[NOTE]
+====
+. “Chamaram”, SamTJLXXSy; M: “Ele chamou” ou: “Alguém chamou”.
+. Significando “Cacho [de Uvas]”.
+====
+
+[[v4-13-25]]
+
+^<<v4-13-25,25>>^ Por fim, ao término de quarenta dias, voltaram de espiar o país.
+
+[[v4-13-26]]
+
+^<<v4-13-26,26>>^ De modo que andaram e chegaram a Moisés e a Arão, e a toda a assembléia dos filhos de Israel no ermo de Parã, em Cades. E vieram trazer-lhes de volta informação, tanto para eles como para toda a assembléia, e mostrar-lhes os frutos da terra.
+
+[[v4-13-27]]
+
+^<<v4-13-27,27>>^ E foram relatar-lhe e dizer: “Entramos na terra à qual nos enviaste, e ela deveras mana leite e mel; e estes são os seus frutos.
+
+[[v4-13-28]]
+
+^<<v4-13-28,28>>^ Não obstante, o fato é que o povo que mora no país é forte e as cidades fortificadas são muito grandes; e também vimos ali os nascidos a Anaque.
+
+[[v4-13-29]]
+
+^<<v4-13-29,29>>^ Os amalequitas moram na terra do Negebe, e os hititas, e os jebuseus, e os amorreus moram na região montanhosa, e os cananeus moram junto ao mar e ao longo do Jordão.”
+
+[[v4-13-30]]
+
+^<<v4-13-30,30>>^ Calebe procurou então acalmar o povo para com Moisés e foi dizer: “Subamos logo, e forçosamente havemos de tomar posse dele, pois certamente podemos prevalecer sobre ele.”
+
+[[v4-13-31]]
+
+^<<v4-13-31,31>>^ Mas, os homens que tinham subido com ele disseram: “Não podemos subir contra o povo, porque são mais fortes do que nós.”
+
+[[v4-13-32]]
+
+^<<v4-13-32,32>>^ E persistiram em apresentar aos filhos de Israel um relato mau sobre a terra que haviam espiado, dizendo: “A terra que percorremos para espiar é uma terra que consome os seus habitantes; e todo o povo que vimos no meio dela são homens de tamanho extraordinário.
+
+[[v4-13-33]]
+
+^<<v4-13-33,33>>^ E vimos ali os nefilins, os filhos de Anaque, que são dos nefilins; de modo que ficamos aos nossos próprios olhos como gafanhotos, e assim também éramos aos olhos deles.”
+
+'''
+
+xref:004-numeros/004-numeros-012.adoc#v4-12-0[&#60; Capítulo Anterior] | <<v4-13-0,Topo>> | xref:004-numeros/004-numeros-014.adoc#v4-14-0[Próximo Capítulo &#62;]

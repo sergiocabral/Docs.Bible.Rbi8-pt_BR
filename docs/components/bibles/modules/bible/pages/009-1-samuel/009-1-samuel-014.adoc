@@ -1,0 +1,289 @@
+include::./index.adoc[]
+
+[[v9-14-0]]
+=== 1 Samuel, 14
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-14-1]]
+
+^<<v9-14-1,1>>^ E sucedeu, certo dia, que Jonatã, filho de Saul, passou a dizer ao ajudante que lhe carregava as armas: “Vem deveras e passemos para o posto avançado dos filisteus que estão lá do outro lado.” Mas não informou disso seu pai.
+
+[[v9-14-2]]
+
+^<<v9-14-2,2>>^ E Saul morava nos arrabaldes de Gibeá, debaixo da romãzeira que há em Migrom; e o povo que estava com ele era de cerca de seiscentos homens.
+
+[[v9-14-3]]
+
+^<<v9-14-3,3>>^ (E Aijá, filho de Aitube, irmão de Icabode, filho de Finéias, filho de Eli, sacerdote de Jeová em Silo, era quem carregava o éfode.) E o próprio povo não sabia que Jonatã tinha ido.
+
+[[v9-14-4]]
+
+^<<v9-14-4,4>>^ Ora, entre as passagens que Jonatã procurou para atravessar contra o posto avançado dos filisteus havia um rochedo em forma de dente^&#42;1^ deste lado e um rochedo em forma de dente daquele lado, e o nome de um era Bozez e o nome do outro era Sené.
+
+[NOTE]
+====
+. Lit.: “dente do rochedo”.
+====
+
+[[v9-14-5]]
+
+^<<v9-14-5,5>>^ Um pico era um pilar^&#42;1^ ao norte, enfrentando Micmás, e o outro estava ao sul, enfrentando Geba.
+
+[NOTE]
+====
+. “Um pilar”, M; LXX omite isso.
+====
+
+[[v9-14-6]]
+
+^<<v9-14-6,6>>^ Jonatã^&#42;1^ disse pois ao ajudante, seu escudeiro: “Vem deveras e passemos para o posto avançado destes incircuncisos. Talvez Jeová trabalhe por nós, pois, para Jeová não há empecilho para salvar com muitos ou com poucos.”
+
+[NOTE]
+====
+. Lit.: “Jeonatã”.
+====
+
+[[v9-14-7]]
+
+^<<v9-14-7,7>>^ A isso lhe disse seu escudeiro: “Faze o que estiver no teu coração. Volta-te para onde quiseres. Eis que estou contigo, em acordo com o teu coração.”
+
+[[v9-14-8]]
+
+^<<v9-14-8,8>>^ Jonatã disse então: “Eis que estamos passando para os homens, e exponhamo-nos a eles.
+
+[[v9-14-9]]
+
+^<<v9-14-9,9>>^ Se nos disserem assim: ‘Ficai ali até estabelecermos contato convosco!’ então teremos de ficar parados onde estivermos e não deveremos subir até eles.
+
+[[v9-14-10]]
+
+^<<v9-14-10,10>>^ Mas, se disserem assim: ‘Subi contra nós!’ então teremos de subir, porque Jeová certamente os entregará na nossa mão, e este será o sinal para nós.”
+
+[[v9-14-11]]
+
+^<<v9-14-11,11>>^ Com isso se expuseram os dois ao posto avançado dos filisteus. E os filisteus passaram a dizer: “Eis os hebreus saindo dos buracos em que se esconderam.”
+
+[[v9-14-12]]
+
+^<<v9-14-12,12>>^ Portanto, os homens do posto avançado responderam a Jonatã e ao seu escudeiro, e disseram: “Subi a nós e nós vos deixaremos saber uma coisa!” Jonatã disse imediatamente ao seu escudeiro: “Sobe atrás de mim, porque Jeová certamente os entregará na mão de Israel.”
+
+[[v9-14-13]]
+
+^<<v9-14-13,13>>^ E Jonatã foi subindo com as mãos e com os pés, e seu escudeiro atrás dele; e começaram a cair diante de Jonatã, e seu escudeiro os entregava à morte atrás dele.
+
+[[v9-14-14]]
+
+^<<v9-14-14,14>>^ E a primeira matança com que Jonatã e seu escudeiro os golpearam ascendeu a cerca de vinte homens dentro de aproximadamente metade da extensão dum sulco arado numa jeira de roça.^&#42;1^
+
+[NOTE]
+====
+. “Numa jeira de roça.” Lit.: “numa junta de roça”, isto é, numa jugada, a terra que uma junta de bois pode lavrar num dia.
+====
+
+[[v9-14-15]]
+
+^<<v9-14-15,15>>^ Então ocorreu um tremor no acampamento, no campo, e entre todo o povo do posto avançado; e o bando de saqueadores tremeu, sim, eles mesmos, e a terra começou a estremecer e isso se desenvolveu num tremor da parte de Deus.
+
+[[v9-14-16]]
+
+^<<v9-14-16,16>>^ E os vigias pertencentes a Saul, em Gibeá de Benjamim, chegaram a ver isso, e eis que o tumulto ondeava para lá e para cá.^&#42;1^
+
+[NOTE]
+====
+. “E eis que o acampamento estava em comoção duma extremidade à outra”, LXX.
+====
+
+[[v9-14-17]]
+
+^<<v9-14-17,17>>^ E Saul passou a dizer ao povo que estava com ele: “Fazei a conta e vede quem saiu de nós.” Quando fizeram a conta, ora, eis que Jonatã e seu escudeiro não estavam presentes.
+
+[[v9-14-18]]
+
+^<<v9-14-18,18>>^ Saul disse então a Aijá: “Traze para cá a arca do [verdadeiro] Deus!” (Pois a arca do [verdadeiro] Deus mostrava estar naquele dia com os filhos de Israel.)^&#42;1^
+
+[NOTE]
+====
+. “A Aijá: ‘Traze para cá o éfode!’ (Porque ele levava naquele dia o éfode perante Israel)”, LXX.
+====
+
+[[v9-14-19]]
+
+^<<v9-14-19,19>>^ E sucedeu que, enquanto Saul falava ao sacerdote, prosseguia o tumulto no acampamento dos filisteus, ficando cada vez maior. Saul disse então ao sacerdote: “Retira a tua mão.”
+
+[[v9-14-20]]
+
+^<<v9-14-20,20>>^ Assim foram convocados Saul e todo o povo que estava com ele. Chegaram, pois, até a batalha, e ali a espada de cada um havia ficado contra o seu próximo; o desbaratamento foi muito grande.
+
+[[v9-14-21]]
+
+^<<v9-14-21,21>>^ E os hebreus que haviam chegado a pertencer aos filisteus, como anteriormente, e que haviam subido com eles ao acampamento em redor, até mesmo estes também se mostraram com Israel que estava com Saul e Jonatã.^&#42;1^
+
+[NOTE]
+====
+. “E os escravos que antes estavam com os filisteus, subindo ao acampamento, deram volta e estavam a favor de ficar com os israelitas que estavam com Saul e Jonatã”, LXX.
+====
+
+[[v9-14-22]]
+
+^<<v9-14-22,22>>^ Também todos os homens que se achavam escondidos na região montanhosa de Efraim ouviram que os filisteus se haviam posto em fuga, e eles também foram persegui-los de perto na batalha.
+
+[[v9-14-23]]
+
+^<<v9-14-23,23>>^ E naquele dia Jeová passou a salvar Israel, e a própria batalha passou para Bete-Áven.^&#42;1^
+
+[NOTE]
+====
+. “E a batalha passou para Bete-Áven. E todo o povo com Saul era de cerca de dez mil homens. E a batalha espalhou-se a toda cidade na região montanhosa de Efraim”, LXX.
+====
+
+[[v9-14-24]]
+
+^<<v9-14-24,24>>^ E os próprios homens de Israel se viam muito apertados^&#42;1^ naquele dia, e ainda assim Saul pôs o povo sob o voto dum juramento,^&#42;2^ dizendo: “Maldito o homem que comer pão antes do anoitecer e até que eu me tenha vingado dos meus inimigos!” E nenhum do povo saboreou pão.
+
+[NOTE]
+====
+. “Se viam muito apertados”, M; alguns mss. hebr.: “chegaram-se”.
+. “E ainda assim Saul . . . juramento”, mediante uma ligeira emenda; M: “e Saul agiu voluntariosamente com o povo”; LXX: “E Saul ignorantemente cometeu um grande pecado de erro naquele dia e colocou o povo sob uma maldição (dizendo: ‘Maldito o homem que comer pão antes de anoitecer’).”
+====
+
+[[v9-14-25]]
+
+^<<v9-14-25,25>>^ E todos os do país entraram na floresta onde havia mel sobre toda a superfície do campo.
+
+[[v9-14-26]]
+
+^<<v9-14-26,26>>^ E entrando o povo na floresta, ora, eis que havia um escoamento de mel, mas ninguém punha a mão à boca, porque o povo tinha medo do juramento.
+
+[[v9-14-27]]
+
+^<<v9-14-27,27>>^ Quanto a Jonatã, não tinha escutado quando seu pai pôs o povo sob juramento, de modo que estendeu a ponta do bastão que tinha na mão e mergulhou-a no favo de mel, e retirou a mão para a boca, e seus olhos começaram a clarear.
+
+[[v9-14-28]]
+
+^<<v9-14-28,28>>^ Nisso um do povo respondeu e disse: “Teu pai pôs o povo solenemente sob juramento, dizendo: ‘Maldito o homem que hoje comer pão!’” (E o povo começou a ficar cansado.)
+
+[[v9-14-29]]
+
+^<<v9-14-29,29>>^ No entanto, Jonatã disse: “Meu pai trouxe o banimento sobre o país. Vede, por favor, como meus olhos clarearam por eu ter saboreado este pouquinho de mel.
+
+[[v9-14-30]]
+
+^<<v9-14-30,30>>^ Quanto mais se o povo tão-somente tivesse comido hoje do despojo dos seus inimigos que encontraram! Pois agora a matança dos filisteus não foi grande.”
+
+[[v9-14-31]]
+
+^<<v9-14-31,31>>^ E naquele dia continuaram a golpear os filisteus desde Micmás até Aijalom, e o povo ficou muito cansado.
+
+[[v9-14-32]]
+
+^<<v9-14-32,32>>^ E o povo começou a lançar-se avidamente sobre o despojo e a tomar ovelhas, e gado vacum, e vitelos, e os abateram no chão, e o povo foi comer junto o sangue.
+
+[[v9-14-33]]
+
+^<<v9-14-33,33>>^ Contaram-no, pois, a Saul, dizendo: “Eis que o povo está pecando contra Jeová, comendo junto o sangue.” A isso ele disse: “Agistes traiçoeiramente. Em primeiro lugar, rolai para cá a mim uma grande pedra.”
+
+[[v9-14-34]]
+
+^<<v9-14-34,34>>^ Depois, Saul disse: “Espalhai-vos entre o povo, e tendes de dizer-lhes: ‘Trazei a mim, cada um de vós, seu touro e, cada um, seu ovídeo, e tendes de fazer o abate neste lugar, bem como o comer, e não deveis pecar contra Jeová por comer junto o sangue.’” Por conseguinte, todo o povo trouxe perto, cada um, seu touro que se achava na sua mão, naquela noite, e fizeram o abate ali.
+
+[[v9-14-35]]
+
+^<<v9-14-35,35>>^ E Saul passou a construir um altar a Jeová. Com isso principiou a construir um altar a Jeová.
+
+[[v9-14-36]]
+
+^<<v9-14-36,36>>^ Mais tarde, Saul disse: “Desçamos atrás dos filisteus durante a noite e saqueemo-los até clarear a manhã, e não deixemos restar nem sequer um dentre eles.” A isso disseram: “Faze tudo o que for bom aos teus olhos.” O sacerdote disse então: “Cheguemo-nos aqui ao [verdadeiro] Deus.”
+
+[[v9-14-37]]
+
+^<<v9-14-37,37>>^ E Saul começou a indagar de Deus: “Devo descer atrás dos filisteus? Entregá-los-ás na mão de Israel?” E ele não lhe respondeu naquele dia.
+
+[[v9-14-38]]
+
+^<<v9-14-38,38>>^ Portanto, Saul disse: “Chegai para cá, todos vós homens-chave^&#42;1^ do povo, e averiguai e vede de que modo veio a haver hoje este pecado.
+
+[NOTE]
+====
+. Lit.: “as torres de ângulo”, representativas de homens vitais ou importantes, de chefes.
+====
+
+[[v9-14-39]]
+
+^<<v9-14-39,39>>^ Pois, por Jeová que vive, que é o Libertador de Israel, mesmo que seja Jonatã, meu filho, ainda assim morrerá positivamente.” Mas, não havia quem lhe respondesse dentre todo o povo.
+
+[[v9-14-40]]
+
+^<<v9-14-40,40>>^ E ele prosseguiu, dizendo a todo o Israel: “Vós mesmos ficareis de um lado, e eu e Jonatã, meu filho — nós ficaremos do outro lado.” A isso disse o povo a Saul: “Faze o que for bom aos teus olhos.”
+
+[[v9-14-41]]
+
+^<<v9-14-41,41>>^ E Saul passou a dizer a Jeová: “Ó Deus de Israel,^&#42;1^ dá Tumim!” Então foram selecionados Jonatã e Saul, e o próprio povo saiu livre.
+
+[NOTE]
+====
+. LXX acrescenta: “por que não respondeste hoje ao teu servo? Se a injustiça estiver em mim ou em Jonatã, meu filho, ó Jeová, o Deus de Israel, dá manifestações claras [Urim]. E se assim disseres: No teu povo Israel”; ItVgc fazem um acréscimo similar. Veja Êx 28:30 n.: “Tumim”.
+====
+
+[[v9-14-42]]
+
+^<<v9-14-42,42>>^ Saul disse então: “Lançai sortes para decidir entre mim e Jonatã, meu filho.” E foi selecionado Jonatã.
+
+[[v9-14-43]]
+
+^<<v9-14-43,43>>^ Saul disse então a Jonatã: “Conta-me deveras: Que fizeste?” Assim, Jonatã lhe contou e disse: “De fato, saboreei um pouco de mel na ponta do bastão que há na minha mão. Eis-me aqui! Morra eu!”
+
+[[v9-14-44]]
+
+^<<v9-14-44,44>>^ A isso Saul disse: “Assim me faça Deus e assim lhe acrescente mais, se não hás de morrer terminantemente, ó Jonatã.”
+
+[[v9-14-45]]
+
+^<<v9-14-45,45>>^ Mas o povo disse a Saul: “Morrerá Jonatã que realizou esta grande salvação em Israel? É inconcebível! Por Jeová que vive, nem mesmo um único cabelo da sua cabeça cairá por terra; pois foi com Deus que ele trabalhou hoje.” Com isso, o povo remiu a Jonatã e ele não morreu.
+
+[[v9-14-46]]
+
+^<<v9-14-46,46>>^ Portanto, Saul retirou-se de seguir os filisteus e os próprios filisteus foram para o seu lugar.
+
+[[v9-14-47]]
+
+^<<v9-14-47,47>>^ E o próprio Saul assumiu o reinado sobre Israel e foi guerrear ao redor contra todos os seus inimigos, contra Moabe e contra os filhos de Amom, e contra Edom, e contra os reis de Zobá, e contra os filisteus; e para onde quer que se virasse executava a condenação.^&#42;1^
+
+[NOTE]
+====
+. Ou “era vitorioso”, em harmonia com LXXVg; M: “tratava como iníquo (condenado)”.
+====
+
+[[v9-14-48]]
+
+^<<v9-14-48,48>>^ E ele prosseguiu agindo valentemente e passou a golpear Amaleque e a livrar Israel da mão do seu rapinante.
+
+[[v9-14-49]]
+
+^<<v9-14-49,49>>^ E os filhos de Saul vieram a ser Jonatã, e Isvi, e Malquisua, e no que se refere aos nomes das suas duas filhas, o nome da que nasceu primeiro era Merabe e o nome da mais moça, Mical.
+
+[[v9-14-50]]
+
+^<<v9-14-50,50>>^ E o nome da esposa de Saul era Ainoã, filha de Aimaás, e o nome do chefe do seu exército era Abner, filho de Ner, tio^&#42;1^ de Saul.
+
+[NOTE]
+====
+. Segundo 1Cr 8:33, Ner era avô de Saul, portanto, Abner, sendo irmão de Quis (v. 51), era tio de Saul.
+====
+
+[[v9-14-51]]
+
+^<<v9-14-51,51>>^ E Quis era o pai de Saul, e Ner, pai de Abner, era filho^&#42;1^ de Abiel.^&#42;2^
+
+[NOTE]
+====
+. “Filho”, MSyVg; LXX: “filho de Jamim, filho (de Abiel)”.
+. Ou: “E Quis, pai de Saul, e Ner, pai de Abner, eram filhos de Abiel”, mediante uma ligeira emenda. Veja 9:1; Jewish Antiquities, de Josefo, Livro VI, capítulo 6, § 6.
+====
+
+[[v9-14-52]]
+
+^<<v9-14-52,52>>^ E a guerra continuou renhida contra os filisteus todos os dias de Saul. Quando Saul via qualquer homem poderoso ou qualquer pessoa valente, ajuntava-o a si.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-013.adoc#v9-13-0[&#60; Capítulo Anterior] | <<v9-14-0,Topo>> | xref:009-1-samuel/009-1-samuel-015.adoc#v9-15-0[Próximo Capítulo &#62;]

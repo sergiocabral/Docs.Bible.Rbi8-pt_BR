@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v5-16-0]]
+=== Deuteronômio, 16
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v5-16-1]]
+
+^<<v5-16-1,1>>^ “Haja observância^&#42;1^ do mês de abibe, e tens de celebrar a páscoa para Jeová, teu Deus, porque foi no mês de abibe que Jeová, teu Deus, te fez sair de noite do Egito.
+
+[NOTE]
+====
+. “Haja observância.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v5-16-2]]
+
+^<<v5-16-2,2>>^ E tens de sacrificar a páscoa a Jeová, teu Deus, do rebanho e da manada, no lugar que Jeová escolher para ali fazer residir seu nome.
+
+[[v5-16-3]]
+
+^<<v5-16-3,3>>^ Com ela não deves comer nada levedado, por sete dias. Com ela deves comer pães não fermentados, o pão de tribulação, porque foi às pressas que saíste da terra do Egito, para que te lembres do dia da tua saída da terra do Egito todos os dias da tua vida.
+
+[[v5-16-4]]
+
+^<<v5-16-4,4>>^ E por sete dias não se deve ver contigo nenhuma massa lêveda,^&#42;1^ em todo o teu território, nem tampouco da carne que sacrificarás à noitinha, no primeiro dia, deve ficar algo toda a noite até à manhã.
+
+[NOTE]
+====
+. Ou “levedura”.
+====
+
+[[v5-16-5]]
+
+^<<v5-16-5,5>>^ Não se te permitirá sacrificar a páscoa em nenhuma das tuas cidades^&#42;1^ que Jeová, teu Deus, te dá.
+
+[NOTE]
+====
+. “Nenhuma das tuas cidades”, LXXSyVg; M: “nenhum dos teus portões”. Por uma figura de linguagem, uma sinédoque, toma-se a parte (os portões) para representar o inteiro (a cidade).
+====
+
+[[v5-16-6]]
+
+^<<v5-16-6,6>>^ Mas no lugar que Jeová, teu Deus, escolher para ali fazer residir seu nome [é que] deves sacrificar a páscoa, à noitinha, assim que se pôr o sol, no tempo designado da tua saída do Egito.
+
+[[v5-16-7]]
+
+^<<v5-16-7,7>>^ E tens de cozinhar e comer no lugar que Jeová, teu Deus, escolher, e de manhã tens de virar-te e ir para as tuas próprias tendas.
+
+[[v5-16-8]]
+
+^<<v5-16-8,8>>^ Por seis dias deves comer pães não fermentados; e no sétimo dia haverá uma assembléia solene^&#42;1^ para Jeová, teu Deus. Não deves fazer nenhuma obra.
+
+[NOTE]
+====
+. “Uma assembléia solene.” Gr.: e·xó·di·on; um dia festivo para comemorar o êxodo do Egito.
+====
+
+[[v5-16-9]]
+
+^<<v5-16-9,9>>^ “Deves contar para ti sete semanas. Principiarás a contar sete semanas desde que primeiro se mete a foice nos cereais em pé.
+
+[[v5-16-10]]
+
+^<<v5-16-10,10>>^ Então tens de celebrar a festividade das semanas para Jeová, teu Deus, segundo a oferta voluntária da tua mão, que darás, assim como Jeová, teu Deus, te abençoar.
+
+[[v5-16-11]]
+
+^<<v5-16-11,11>>^ E tens de alegrar-te perante Jeová, teu Deus, tu e teu filho, e tua filha, e teu escravo, e tua escrava, e o levita que está dentro dos teus portões,^&#42;1^ e o residente forasteiro, e o menino órfão de pai, e a viúva, que estão no teu meio, no lugar que Jeová, teu Deus, escolher para ali fazer residir seu nome.
+
+[NOTE]
+====
+. Ou “cidade”. Vg: “portões”; LXXSy: “cidades”.
+====
+
+[[v5-16-12]]
+
+^<<v5-16-12,12>>^ E tens de lembrar-te de que te tornaste escravo no Egito, e tens de observar e cumprir estes regulamentos.
+
+[[v5-16-13]]
+
+^<<v5-16-13,13>>^ “Deves celebrar para ti a festividade das barracas por sete dias, quando fizeres o recolhimento da tua eira e do teu lagar de azeite e vinho.
+
+[[v5-16-14]]
+
+^<<v5-16-14,14>>^ E tens de alegrar-te durante a tua festividade, tu e teu filho, e tua filha, e teu escravo, e tua escrava, e o levita, e o residente forasteiro, e o menino órfão de pai, e a viúva, que estão dentro dos teus portões.
+
+[[v5-16-15]]
+
+^<<v5-16-15,15>>^ Por sete dias celebrarás a festividade para Jeová, teu Deus, no lugar que Jeová escolher, porque Jeová, teu Deus, te abençoará em todos os teus produtos e em todo ato da tua mão, e tens de ficar de todo alegre.
+
+[[v5-16-16]]
+
+^<<v5-16-16,16>>^ “Três vezes no ano, todo macho teu deve comparecer perante Jeová, teu Deus, no lugar que ele escolher: na festividade dos pães não fermentados, e na festividade das semanas, e na festividade das barracas, e ninguém deve comparecer perante Jeová de mãos vazias.
+
+[[v5-16-17]]
+
+^<<v5-16-17,17>>^ A dádiva da mão de cada um deve ser proporcional à bênção de Jeová, teu Deus, que ele te tiver dado.
+
+[[v5-16-18]]
+
+^<<v5-16-18,18>>^ “Deves constituir para ti juízes e oficiais dentro de todos os teus portões que Jeová, teu Deus, te dá segundo as tuas tribos, e eles têm de julgar o povo com julgamento justo.
+
+[[v5-16-19]]
+
+^<<v5-16-19,19>>^ Não deves desvirtuar o julgamento. Não deves ser parcial nem aceitar suborno, pois o suborno cega os olhos dos sábios e deturpa as palavras dos justos.
+
+[[v5-16-20]]
+
+^<<v5-16-20,20>>^ A justiça — a justiça é que deves seguir, para que fiques vivo e deveras tomes posse da terra que Jeová, teu Deus, te dá.
+
+[[v5-16-21]]
+
+^<<v5-16-21,21>>^ “Não deves plantar para ti nenhuma sorte de árvore como poste sagrado^&#42;1^ perto do altar de Jeová, teu Deus, que farás para ti.
+
+[NOTE]
+====
+. Ou “como Axerá”.
+====
+
+[[v5-16-22]]
+
+^<<v5-16-22,22>>^ “Nem deves erigir para ti uma coluna sagrada, coisa que Jeová, teu Deus, deveras odeia.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-015.adoc#v5-15-0[&#60; Capítulo Anterior] | <<v5-16-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-017.adoc#v5-17-0[Próximo Capítulo &#62;]

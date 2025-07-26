@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v3-2-0]]
+=== Levítico, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-2-1]]
+
+^<<v3-2-1,1>>^ “‘Ora, caso alguma alma apresente como oferta uma oferta de cereais a Jeová, sua oferta deve mostrar ser de flor de farinha; e tem de despejar azeite sobre ela e pôr olíbano sobre ela.
+
+[[v3-2-2]]
+
+^<<v3-2-2,2>>^ E tem de trazê-la aos filhos de Arão, os sacerdotes, e o sacerdote tem de apanhar dela seu punhado de sua flor de farinha e de seu azeite, junto com todo o seu olíbano; e ele tem de fazê-la fumegar sobre o altar como lembrança dela, como oferta feita por fogo, de cheiro repousante para Jeová.
+
+[[v3-2-3]]
+
+^<<v3-2-3,3>>^ E o que sobrar da oferta de cereais pertencerá a Arão e a seus filhos como algo santíssimo das ofertas de Jeová, feitas por fogo.
+
+[[v3-2-4]]
+
+^<<v3-2-4,4>>^ “‘E caso apresentes como oferta uma oferta de cereais na maneira de algo cozido no forno, deve ser de flor de farinha, bolos de forma anular, não fermentados, umedecidos com azeite, ou^&#42;1^ obreias não fermentadas, untadas com azeite.
+
+[NOTE]
+====
+. Ou “e”.
+====
+
+[[v3-2-5]]
+
+^<<v3-2-5,5>>^ “‘E se a tua oferta for uma oferta de cereais de cima da assadeira, deve mostrar ser de flor de farinha umedecida com azeite, não fermentada.
+
+[[v3-2-6]]
+
+^<<v3-2-6,6>>^ Deve ser quebrada^&#42;1^ em pedaços, e tens de despejar azeite sobre ela. É uma oferta de cereais.
+
+[NOTE]
+====
+. “Deve ser quebrada.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v3-2-7]]
+
+^<<v3-2-7,7>>^ “‘E se a tua oferta for uma oferta de cereais tirada da frigideira funda,^&#42;1^ deve ser feita de flor de farinha com azeite.
+
+[NOTE]
+====
+. Panela funda para frituras, similar aos atuais panelões para sopas ou cozidos.
+====
+
+[[v3-2-8]]
+
+^<<v3-2-8,8>>^ E tens de trazer a Jeová a oferta de cereais feita destes; e ela tem de ser apresentada ao sacerdote e ele tem de levá-la perto do altar.
+
+[[v3-2-9]]
+
+^<<v3-2-9,9>>^ E o sacerdote tem de retirar um pouco da oferta de cereais como lembrança dela e tem de fazê-la fumegar sobre o altar, como oferta feita por fogo, de cheiro repousante para Jeová.
+
+[[v3-2-10]]
+
+^<<v3-2-10,10>>^ E o que sobrar da oferta pertencerá a Arão e a seus filhos como algo santíssimo das ofertas de Jeová feitas por fogo.
+
+[[v3-2-11]]
+
+^<<v3-2-11,11>>^ “‘Nenhuma oferta de cereais que apresentardes a Jeová deve ser feita levedada, porque não deveis fazer fumegar nenhuma massa lêveda e nenhum mel^&#42;1^ como oferta feita por fogo a Jeová.
+
+[NOTE]
+====
+. “Mel.” Evidentemente, não o da abelha, mas a umidade ou o xarope de figos, ou suco ou xarope de frutas.
+====
+
+[[v3-2-12]]
+
+^<<v3-2-12,12>>^ “‘Como^&#42;1^ oferta das primícias os apresentareis a Jeová, e não devem ser postos no altar como cheiro repousante.
+
+[NOTE]
+====
+. Ou: “Quanto à.”
+====
+
+[[v3-2-13]]
+
+^<<v3-2-13,13>>^ “‘E toda oferta da tua oferta de cereais temperarás com sal; e não deves deixar faltar o sal do pacto de teu Deus sobre a tua oferta de cereais. Apresentarás sal junto com toda oferta tua.
+
+[[v3-2-14]]
+
+^<<v3-2-14,14>>^ “‘E se apresentares a Jeová a oferta de cereais dos primeiros frutos maduros, deves apresentar espigas verdes, tostadas ao fogo, os grãos pilados^&#42;1^ de cereais novos, como oferta de cereais dos teus primeiros frutos maduros.
+
+[NOTE]
+====
+. Isto é, grãos pilados grossos.
+====
+
+[[v3-2-15]]
+
+^<<v3-2-15,15>>^ E tens de pôr azeite sobre ela e colocar olíbano sobre ela. É uma oferta de cereais.
+
+[[v3-2-16]]
+
+^<<v3-2-16,16>>^ E o sacerdote tem de fazer fumegar a lembrança dela, isto é, um pouco dos seus grãos pilados e do seu azeite, junto com todo o seu olíbano, como oferta feita por fogo a Jeová.
+
+'''
+
+xref:003-levitico/003-levitico-001.adoc#v3-1-0[&#60; Capítulo Anterior] | <<v3-2-0,Topo>> | xref:003-levitico/003-levitico-003.adoc#v3-3-0[Próximo Capítulo &#62;]

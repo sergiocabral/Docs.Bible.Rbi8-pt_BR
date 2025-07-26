@@ -1,0 +1,300 @@
+include::./index.adoc[]
+
+[[v19-37-0]]
+=== Salmos, 37
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_De Davi._
+
+_א [Álefe]^&#42;1^_
+
+[[v19-37-1]]
+
+^<<v19-37-1,1>>^ Não te acalores por causa dos malfeitores.
+Não invejes os que fazem injustiça.
+
+[[v19-37-2]]
+
+^<<v19-37-2,2>>^ Pois murcharão rapidamente como a erva
+E desvanecer-se-ão como a nova relva verde.
+
+_ב [Bete]_
+
+[[v19-37-3]]
+
+^<<v19-37-3,3>>^ Confia em Jeová e faze o bem;
+Reside na terra e age com fidelidade.
+
+[[v19-37-4]]
+
+^<<v19-37-4,4>>^ Deleita-te também em Jeová,
+E ele te concederá os pedidos do teu coração.
+
+_ג [Guímel]_
+
+[[v19-37-5]]
+
+^<<v19-37-5,5>>^ Rola teu caminho sobre Jeová
+E confia nele, e ele mesmo agirá.
+
+[[v19-37-6]]
+
+^<<v19-37-6,6>>^ E certamente farás sair a tua justiça como a própria luz
+E o teu juízo como o meio-dia.
+
+_ד [Dálete]_
+
+[[v19-37-7]]
+
+^<<v19-37-7,7>>^ Fica quieto diante de Jeová
+E espera ansiosamente por ele.
+Não te acalores por alguém tornar seu caminho bem sucedido,
+Por causa do homem que executa as [suas] idéias.
+
+_ה [Hê]_
+
+[[v19-37-8]]
+
+^<<v19-37-8,8>>^ Larga a ira e abandona o furor;
+Não te acalores apenas para fazer o mal.
+
+[[v19-37-9]]
+
+^<<v19-37-9,9>>^ Pois os próprios malfeitores serão decepados,
+Mas os que esperam em Jeová são os que possuirão a terra.
+
+_ו [Vau]_
+
+[[v19-37-10]]
+
+^<<v19-37-10,10>>^ E apenas mais um pouco, e o iníquo não mais existirá;
+E estarás certamente atento ao seu lugar, e ele não existirá.
+
+[[v19-37-11]]
+
+^<<v19-37-11,11>>^ Mas os próprios mansos possuirão a terra
+E deveras se deleitarão na abundância de paz.
+
+_ז [Zaine]_
+
+[[v19-37-12]]
+
+^<<v19-37-12,12>>^ O iníquo está tramando contra o justo,
+E contra ele range os dentes.
+
+[[v19-37-13]]
+
+^<<v19-37-13,13>>^ O próprio Jeová^&#42;1^ se rirá dele,
+Porque certamente vê que virá o seu dia.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+_ח [Hete]_
+
+[[v19-37-14]]
+
+^<<v19-37-14,14>>^ Os iníquos desembainharam a própria espada e entesaram seu arco
+Para fazer cair o atribulado e o pobre,
+Para abater os que são retos no [seu] caminho.
+
+[[v19-37-15]]
+
+^<<v19-37-15,15>>^ Sua própria espada penetrará no seu coração
+E seu próprio arco será quebrado.
+
+_ט [Tete]_
+
+[[v19-37-16]]
+
+^<<v19-37-16,16>>^ Melhor é o pouco do justo
+Do que a abundância dos muitos iníquos.
+
+[[v19-37-17]]
+
+^<<v19-37-17,17>>^ Porque os próprios braços dos iníquos serão quebrados,
+Mas Jeová estará sustentando os justos.
+
+_י [Iode]_
+
+[[v19-37-18]]
+
+^<<v19-37-18,18>>^ Jeová se apercebe dos dias daqueles sem defeito,
+E a própria herança deles continuará por tempo indefinido.
+
+[[v19-37-19]]
+
+^<<v19-37-19,19>>^ Não serão envergonhados no tempo da calamidade,
+E nos dias da fome serão fartados.
+
+_כ [Cafe]_
+
+[[v19-37-20]]
+
+^<<v19-37-20,20>>^ Porque os próprios iníquos perecerão
+E os inimigos de Jeová serão como a preciosidade dos pastos;
+Terão de chegar ao seu fim. Terão de chegar ao seu fim em fumaça.
+
+_ל [Lâmede]_
+
+[[v19-37-21]]
+
+^<<v19-37-21,21>>^ O iníquo toma emprestado e não paga de volta,
+Mas o justo está mostrando favor e está dando presentes.
+
+[[v19-37-22]]
+
+^<<v19-37-22,22>>^ Porque os abençoados por ele são os que possuirão a terra,
+Mas aqueles sobre quem ele invoca o mal serão decepados.
+
+_מ [Meme]_
+
+[[v19-37-23]]
+
+^<<v19-37-23,23>>^ Por Jeová foram aprontados os próprios passos do varão vigoroso,
+E Ele se agrada do seu caminho.
+
+[[v19-37-24]]
+
+^<<v19-37-24,24>>^ Embora caia, não será arremessado para baixo,
+Porque Jeová lhe sustenta a mão.
+
+_נ [Nune]_
+
+[[v19-37-25]]
+
+^<<v19-37-25,25>>^ Eu era moço, também fiquei velho,
+E, no entanto, não vi nenhum justo completamente abandonado,
+Nem a sua descendência^&#42;1^ procurando pão.
+
+[NOTE]
+====
+. Ou “semente”.
+====
+
+[[v19-37-26]]
+
+^<<v19-37-26,26>>^ O dia inteiro ele mostra favor e empresta,
+E por isso a sua descendência está para receber uma bênção.
+
+_ם [Sâmeque]_
+
+[[v19-37-27]]
+
+^<<v19-37-27,27>>^ Desvia-te do que é mau e faze o que é bom,
+E reside assim por tempo indefinido.
+
+[[v19-37-28]]
+
+^<<v19-37-28,28>>^ Porque Jeová ama a justiça
+E ele não abandonará aqueles que lhe são leais.
+
+[NOTE]
+====
+. Não se contando a preposição “por” (hebr.: ‏,ל “a”‏,‏(‏ em hebr.‏ no início da linha, esta começa com a letra acróstica Aine.
+====
+
+_ע [Aine]_
+
+Hão de ser guardados por^&#42;1^ tempo indefinido;
+Mas, quanto à descendência dos iníquos, será deveras decepada.
+
+[NOTE]
+====
+. Não se contando a preposição “por” (hebr.: ‏,ל “a”‏,‏(‏ em hebr.‏ no início da linha, esta começa com a letra acróstica Aine.
+====
+
+[[v19-37-29]]
+
+^<<v19-37-29,29>>^ Os próprios justos possuirão a terra
+E residirão sobre ela para todo o sempre.
+
+_פ [Pê]_
+
+[[v19-37-30]]
+
+^<<v19-37-30,30>>^ A boca do justo é a que profere sabedoria em voz baixa,
+E sua língua é a que fala de modo justo.
+
+[[v19-37-31]]
+
+^<<v19-37-31,31>>^ A lei de seu Deus está no seu coração;
+Seus passos não vacilarão.
+
+_צ [Tsadê]_
+
+[[v19-37-32]]
+
+^<<v19-37-32,32>>^ O iníquo está vigiando o justo
+E está procurando entregá-lo à morte.
+
+[[v19-37-33]]
+
+^<<v19-37-33,33>>^ Quanto a Jeová, não o deixará na mão daquele,
+E não o pronunciará iníquo quando for julgado.
+
+_ק [Cofe]_
+
+[[v19-37-34]]
+
+^<<v19-37-34,34>>^ Espera em Jeová e guarda seu caminho,
+E ele te exaltará para tomares posse da terra.
+Quando os iníquos forem decepados, tu [o] verás.
+
+_ר [Rexe]_
+
+[[v19-37-35]]
+
+^<<v19-37-35,35>>^ Eu vi o iníquo ser tirano
+E espalhar-se^&#42;1^ como uma [árvore] frondosa em solo nativo.
+
+[NOTE]
+====
+. Lit.: “derramando-se”.
+====
+
+[[v19-37-36]]
+
+^<<v19-37-36,36>>^ E ainda assim foi passando,^&#42;1^ e eis que não era mais;
+E eu o estive procurando, e ele não foi achado.
+
+[NOTE]
+====
+. Segundo M; LXXSyVg: “passei”.
+====
+
+_ש [Chim]_
+
+[[v19-37-37]]
+
+^<<v19-37-37,37>>^ Vigia o inculpe e mantém a vista no [homem] reto,
+Porque o futuro [deste] homem será pacífico.
+
+[[v19-37-38]]
+
+^<<v19-37-38,38>>^ Mas os próprios transgressores serão aniquilados juntos;
+O futuro de gente iníqua será deveras decepado.
+
+_ת [Tau]_
+
+[[v19-37-39]]
+
+^<<v19-37-39,39>>^ E^&#42;1^ a salvação dos justos vem de Jeová;
+Ele é o seu baluarte no tempo da aflição.
+
+[NOTE]
+====
+. Não se contando a conjunção “e” (‏,‏(ו esta linha começa com um acróstico Tau, a última letra do alfabeto hebr.
+====
+
+[[v19-37-40]]
+
+^<<v19-37-40,40>>^ E Jeová os ajudará e os porá a salvo.
+Ele os porá a salvo dos iníquos e os salvará,
+Porque se refugiaram nele.
+
+'''
+
+xref:019-salmo/019-salmo-036.adoc#v19-36-0[&#60; Capítulo Anterior] | <<v19-37-0,Topo>> | xref:019-salmo/019-salmo-038.adoc#v19-38-0[Próximo Capítulo &#62;]

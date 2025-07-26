@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v15-3-0]]
+=== Esdras, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v15-3-1]]
+
+^<<v15-3-1,1>>^ Ao chegar o sétimo mês, os filhos de Israel estavam nas [suas] cidades. E o povo começou a ajuntar-se como um só homem em Jerusalém.
+
+[[v15-3-2]]
+
+^<<v15-3-2,2>>^ E Jesua,^&#42;1^ filho de Jeozadaque,^&#42;2^ e seus irmãos, os sacerdotes, e Zorobabel, filho de Sealtiel, e seus irmãos, passaram a levantar-se e a construir o altar do Deus de Israel, para oferecer sobre ele sacrifícios queimados, segundo o que está escrito na lei de Moisés, o homem do [verdadeiro] Deus.^&#42;3^
+
+[NOTE]
+====
+. “Jesus”, LXX.
+. “Jeozadaque”, como em 1Cr 6:14, 15; Ag 1:1, 12, 14; Ag 2:2, 4; Za 6:11. Lit.: “Jozadaque”.
+. “O homem do [verdadeiro] Deus.” Hebr.: ’ish-ha·’Elo·hím. Veja Ap. 1F.
+====
+
+[[v15-3-3]]
+
+^<<v15-3-3,3>>^ Assim estabeleceram firmemente o altar no seu próprio local, porque lhes [sobreveio] horror^&#42;1^ por causa dos povos das terras,^&#42;2^ e começaram a oferecer nele sacrifícios queimados a Jeová, os sacrifícios queimados da manhã e da noitinha.
+
+[NOTE]
+====
+. Lit.: “porque [foi] com horror sobre eles”, M.
+. “Porque [foi] com inimizade contra eles da parte dos povos das terras”, mediante uma ligeira correção do M.
+====
+
+[[v15-3-4]]
+
+^<<v15-3-4,4>>^ Celebraram então a festividade das barracas, de acordo com o que está escrito, junto com os sacrifícios queimados de dia em dia no número correspondente à regra do que era devido cada dia.
+
+[[v15-3-5]]
+
+^<<v15-3-5,5>>^ E depois houve a constante oferta queimada e a para as luas novas e para todas as épocas festivas, santificadas, de Jeová, e por todo aquele que oferecia de bom grado uma oferta voluntária a Jeová.
+
+[[v15-3-6]]
+
+^<<v15-3-6,6>>^ A partir do primeiro dia do sétimo mês principiaram a oferecer sacrifícios queimados a Jeová, quando ainda não se havia lançado o alicerce do próprio templo^&#42;1^ de Jeová.
+
+[NOTE]
+====
+. “Quando . . . templo.” Hebr.: weheh·khál; lat.: tém·plum. Veja Mt 23:16 n.
+====
+
+[[v15-3-7]]
+
+^<<v15-3-7,7>>^ E passaram a dar dinheiro aos talhadores e aos artífices, e comestíveis, e bebida, e azeite aos sidônios e aos tírios, para que trouxessem madeiras de cedro do Líbano ao mar em Jope, de acordo com a permissão concedida a eles por Ciro, rei da Pérsia.
+
+[[v15-3-8]]
+
+^<<v15-3-8,8>>^ E no segundo ano da sua chegada à casa do [verdadeiro] Deus em Jerusalém, no segundo mês, Zorobabel, filho de Sealtiel, e Jesua, filho de Jeozadaque, e os restantes dos seus irmãos, os sacerdotes e os levitas, bem como todos os que do cativeiro tinham chegado a Jerusalém deram início; e então colocaram nas posições os levitas da idade de vinte anos para cima, a fim de que atuassem como supervisores da obra da casa de Jeová.
+
+[[v15-3-9]]
+
+^<<v15-3-9,9>>^ Por conseguinte, Jesua, seus filhos e seus irmãos, [e] Cadmiel e seus filhos, os filhos de Judá,^&#42;1^ puseram-se de pé como um só grupo para atuar como supervisores dos que faziam a obra na casa do [verdadeiro] Deus, [também] os filhos de Henadade, seus filhos e seus irmãos, os levitas.
+
+[NOTE]
+====
+. “Hodavias” em 2:40; em Ne 7:43: “Hodeva”.
+====
+
+[[v15-3-10]]
+
+^<<v15-3-10,10>>^ Quando os construtores lançaram o alicerce do templo de Jeová, então os sacerdotes, em vestimenta oficial, com as trombetas, e os levitas, filhos de Asafe, com os címbalos, puseram-se de pé para louvar a Jeová segundo a orientação de Davi, rei de Israel.
+
+[[v15-3-11]]
+
+^<<v15-3-11,11>>^ E começaram a responder, louvando e agradecendo a Jeová, “porque ele é bom, pois a sua benevolência^&#42;1^ para com Israel é por tempo indefinido”. Quanto a todo o povo, eles deram um alto grito em louvor a Jeová por causa do lançamento do alicerce da casa de Jeová.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v15-3-12]]
+
+^<<v15-3-12,12>>^ E muitos dos sacerdotes, e dos levitas, e dos cabeças das casas paternas, os idosos que tinham visto a casa anterior, estavam chorando com alta voz por ocasião do lançamento do alicerce desta casa diante dos seus olhos, ao passo que muitos outros elevavam a voz num grito de alegria.
+
+[[v15-3-13]]
+
+^<<v15-3-13,13>>^ Portanto, o povo não distinguia o som do grito de alegria do som do choro do povo, pois o povo dava um grande grito e o som dele se ouvia a grande distância.
+
+'''
+
+xref:015-esdras/015-esdras-002.adoc#v15-2-0[&#60; Capítulo Anterior] | <<v15-3-0,Topo>> | xref:015-esdras/015-esdras-004.adoc#v15-4-0[Próximo Capítulo &#62;]

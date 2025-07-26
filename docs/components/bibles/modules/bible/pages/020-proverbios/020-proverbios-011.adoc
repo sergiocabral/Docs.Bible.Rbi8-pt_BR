@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v20-11-0]]
+=== Provérbios, 11
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-11-1]]
+
+^<<v20-11-1,1>>^ A balança fraudulenta é algo detestável para Jeová, mas o pleno peso de pedra é um prazer para ele.
+
+[[v20-11-2]]
+
+^<<v20-11-2,2>>^ Chegou a presunção? Então chegará a desonra; mas a sabedoria está com os modestos.
+
+[[v20-11-3]]
+
+^<<v20-11-3,3>>^ A integridade dos retos é o que os guia, mas a deturpação por parte dos que agem traiçoeiramente assolará a estes.^&#42;1^
+
+[NOTE]
+====
+. “Assolará a estes”, segundo MmargemVg.
+====
+
+[[v20-11-4]]
+
+^<<v20-11-4,4>>^ Coisas valiosas de nada aproveitarão no dia da fúria, mas a justiça é que livrará da morte.
+
+[[v20-11-5]]
+
+^<<v20-11-5,5>>^ A justiça do inculpe é que endireitará o seu caminho, mas o iníquo cairá na sua própria iniqüidade.
+
+[[v20-11-6]]
+
+^<<v20-11-6,6>>^ A justiça dos retos é o que os livrará, mas os que agem traiçoeiramente serão eles mesmos apanhados pela sua^&#42;1^ avidez.^&#42;2^
+
+[NOTE]
+====
+. “Sua”, TLXXSyVg; M omite isso.
+. “Destruição”, LXX.
+====
+
+[[v20-11-7]]
+
+^<<v20-11-7,7>>^ Quando morre um homem^&#42;1^ iníquo, perece a [sua] esperança; e pereceu até mesmo a expectativa [baseada] na pujança.
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v20-11-8]]
+
+^<<v20-11-8,8>>^ O justo é quem é socorrido mesmo da aflição, e em lugar dele entra o iníquo.
+
+[[v20-11-9]]
+
+^<<v20-11-9,9>>^ Pela boca é que o apóstata arruína seu próximo, mas é pelo conhecimento que os justos são socorridos.
+
+[[v20-11-10]]
+
+^<<v20-11-10,10>>^ Por causa da bondade dos justos regozijar-se-á a vila, mas quando perecem os iníquos, há clamor jubilante.
+
+[[v20-11-11]]
+
+^<<v20-11-11,11>>^ Por causa da bênção dos retos, a vila fica enaltecida, mas por causa da boca dos iníquos ela é derrubada.
+
+[[v20-11-12]]
+
+^<<v20-11-12,12>>^ O falto de coração^&#42;1^ desprezou o seu próprio próximo, mas o homem^&#42;2^ de amplo discernimento é quem se mantém calado.
+
+[NOTE]
+====
+. Ou: “O falto de boa motivação.” Hebr.: hhasar-lév.
+. “Mas o homem de.” Hebr.: we’ísh.
+====
+
+[[v20-11-13]]
+
+^<<v20-11-13,13>>^ Quem anda em volta como caluniador está revelando palestra confidencial, mas quem é fiel no espírito^&#42;1^ encobre o assunto.
+
+[NOTE]
+====
+. “Espírito.” Hebr.: rú·ahh; gr.: pno·eí, “fôlego”; lat.: á·ni·mi.
+====
+
+[[v20-11-14]]
+
+^<<v20-11-14,14>>^ Quando não há orientação perita, o povo cai; mas há salvação na multidão de conselheiros.
+
+[[v20-11-15]]
+
+^<<v20-11-15,15>>^ Irá positivamente mal à pessoa quando presta fiança por um estranho, mas aquele que odeia o aperto de mão fica livre de cuidados.
+
+[[v20-11-16]]
+
+^<<v20-11-16,16>>^ A mulher de encanto é a que segura a glória;^&#42;1^ mas os tiranos, da sua parte, seguram as riquezas.
+
+[NOTE]
+====
+. Ou “honra”.
+====
+
+[[v20-11-17]]
+
+^<<v20-11-17,17>>^ O homem de benevolência^&#42;1^ age de modo recompensador com a sua própria alma, mas a pessoa cruel traz banimento ao seu próprio organismo.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v20-11-18]]
+
+^<<v20-11-18,18>>^ O iníquo ganha remuneração fictícia,^&#42;1^ mas quem semeia a justiça, verdadeiros rendimentos.^&#42;2^
+
+[NOTE]
+====
+. “Remuneração fictícia”, isto é, a recompensa por atividade má. Hebr.: fe‛ul·lath-shá·qer.
+. “Verdadeiros rendimentos”, isto é, a recompensa por atividade boa. Hebr.: sé·kher ’eméth.
+====
+
+[[v20-11-19]]
+
+^<<v20-11-19,19>>^ Quem é firmemente pela justiça^&#42;1^ é candidato à vida, mas quem vai no encalço do que é mau é candidato à sua própria morte.
+
+[NOTE]
+====
+. “Quem é firmemente pela justiça”, mediante uma correção do M; T: “Assim, quem fizer justiça”; LXXSy (rezando ben em vez de ken): “Um filho da justiça (filho justo).”
+====
+
+[[v20-11-20]]
+
+^<<v20-11-20,20>>^ Os pervertidos de coração são algo detestável para Jeová, mas os inculpes no [seu] caminho são um prazer para ele.
+
+[[v20-11-21]]
+
+^<<v20-11-21,21>>^ Ainda que mão [se junte] a mão, o mau não ficará impune; mas a descendência dos justos certamente escapará.
+
+[[v20-11-22]]
+
+^<<v20-11-22,22>>^ Como uma argola de ouro, para as narinas, no focinho dum porco, assim é a mulher que é bonita, mas que se desvia da sensatez.^&#42;1^
+
+[NOTE]
+====
+. Ou “do bom gosto”.
+====
+
+[[v20-11-23]]
+
+^<<v20-11-23,23>>^ O desejo dos justos é realmente bom; a esperança dos iníquos é a fúria.
+
+[[v20-11-24]]
+
+^<<v20-11-24,24>>^ Há um que espalha, e ainda assim está sendo incrementado; também aquele que se refreia do que é direito, mas isso só resulta em carência.
+
+[[v20-11-25]]
+
+^<<v20-11-25,25>>^ Far-se-á que a própria alma generosa^&#42;1^ engorde, e aquele que rega liberalmente [os outros] também será regado liberalmente.
+
+[NOTE]
+====
+. Lit.: “a alma com uma dádiva de bênção”.
+====
+
+[[v20-11-26]]
+
+^<<v20-11-26,26>>^ Quem retiver o cereal — a este a população maldirá, mas há uma bênção para a cabeça daquele que o deixa ser comprado.
+
+[[v20-11-27]]
+
+^<<v20-11-27,27>>^ Quem está à procura do bem continuará a procurar boa vontade; mas, quanto ao que busca o mal, este virá sobre ele.
+
+[[v20-11-28]]
+
+^<<v20-11-28,28>>^ Quem confia nas suas riquezas — ele mesmo cairá; mas os justos florescerão como a folhagem.
+
+[[v20-11-29]]
+
+^<<v20-11-29,29>>^ Quanto àquele que traz o banimento sobre a sua própria casa, tomará posse do vento; e o tolo será servo daquele que é sábio no coração.
+
+[[v20-11-30]]
+
+^<<v20-11-30,30>>^ O fruto do justo é árvore de vida, e quem ganha almas é sábio.
+
+[[v20-11-31]]
+
+^<<v20-11-31,31>>^ Eis o justo — na terra será compensado. Quanto mais o iníquo e o pecador!
+
+'''
+
+xref:020-proverbios/020-proverbios-010.adoc#v20-10-0[&#60; Capítulo Anterior] | <<v20-11-0,Topo>> | xref:020-proverbios/020-proverbios-012.adoc#v20-12-0[Próximo Capítulo &#62;]

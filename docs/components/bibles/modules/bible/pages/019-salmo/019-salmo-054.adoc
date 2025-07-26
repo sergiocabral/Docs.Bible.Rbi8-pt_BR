@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-54-0]]
+=== Salmos, 54
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, em instrumentos de cordas. Masquil.^&#42;1^ De Davi. Quando os zifitas chegaram e passaram a dizer a Saul: “Não se esconde Davi conosco?”_
+
+[[v19-54-1]]
+
+^<<v19-54-1,1>>^ Ó Deus, salva-me pelo teu nome,
+E que tu pleiteies a minha causa com a tua potência.
+
+[[v19-54-2]]
+
+^<<v19-54-2,2>>^ Ó Deus, ouve a minha oração;
+Dá deveras ouvidos aos dizeres da minha boca.
+
+[[v19-54-3]]
+
+^<<v19-54-3,3>>^ Pois há estranhos que se levantaram contra mim
+E tiranos que deveras procuram a minha alma.
+Não puseram Deus diante de si. Selá.
+
+[[v19-54-4]]
+
+^<<v19-54-4,4>>^ Eis que Deus é meu ajudador;
+Jeová^&#42;1^ está entre os que sustentam a minha alma.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-54-5]]
+
+^<<v19-54-5,5>>^ Ele retribuirá o mal aos meus adversários hostis;
+Silencia-os na tua veracidade.^&#42;1^
+
+[NOTE]
+====
+. Ou “pela tua verdade”.
+====
+
+[[v19-54-6]]
+
+^<<v19-54-6,6>>^ De bom grado vou oferecer sacrifício a ti.
+Elogiarei o teu nome, ó Jeová, porque é bom.
+
+[[v19-54-7]]
+
+^<<v19-54-7,7>>^ Porque ele me livrou de toda aflição,
+E meu olho olhou para os meus inimigos.
+
+'''
+
+xref:019-salmo/019-salmo-053.adoc#v19-53-0[&#60; Capítulo Anterior] | <<v19-54-0,Topo>> | xref:019-salmo/019-salmo-055.adoc#v19-55-0[Próximo Capítulo &#62;]

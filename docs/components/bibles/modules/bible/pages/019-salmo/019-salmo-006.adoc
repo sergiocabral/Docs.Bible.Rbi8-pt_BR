@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v19-6-0]]
+=== Salmos, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente, em instrumentos de cordas, na oitava inferior.^&#42;1^ Uma melodia de Davi._
+
+[[v19-6-1]]
+
+^<<v19-6-1,1>>^ Ó Jeová, não me repreendas na tua ira
+E não me corrijas no teu furor.
+
+[[v19-6-2]]
+
+^<<v19-6-2,2>>^ Mostra-me favor, ó Jeová, pois estou definhando.
+Sara-me, ó Jeová, porque os meus ossos foram perturbados.
+
+[[v19-6-3]]
+
+^<<v19-6-3,3>>^ Sim, a minha própria alma ficou muito perturbada;
+E tu, ó Jeová — até quando?
+
+[[v19-6-4]]
+
+^<<v19-6-4,4>>^ Retorna deveras, ó Jeová, socorre deveras a minha alma;
+Salva-me por causa da tua benevolência.^&#42;1^
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-6-5]]
+
+^<<v19-6-5,5>>^ Porque na morte não há menção^&#42;1^ de ti;
+No Seol,^&#42;2^ quem te elogiará?
+
+[NOTE]
+====
+. Ou “recordação”.
+. “Seol”, MSy; gr.: haí·dei; lat.: in·fér·no. Veja Ap. 4B.
+====
+
+[[v19-6-6]]
+
+^<<v19-6-6,6>>^ Fatiguei-me com o meu suspiro;
+A noite inteira faço nadar o meu leito;
+Faço transbordar o meu próprio divã com as minhas lágrimas.
+
+[[v19-6-7]]
+
+^<<v19-6-7,7>>^ Meu olho se enfraqueceu devido ao vexame,
+Envelheceu por causa de todos os que me são hostis.
+
+[[v19-6-8]]
+
+^<<v19-6-8,8>>^ Afastai-vos de mim, todos os que praticais o que é prejudicial,
+Porque Jeová certamente ouvirá o som do meu choro.
+
+[[v19-6-9]]
+
+^<<v19-6-9,9>>^ Jeová deveras ouvirá meu pedido de favor;
+Jeová mesmo aceitará a minha própria oração.
+
+[[v19-6-10]]
+
+^<<v19-6-10,10>>^ Todos os meus inimigos ficarão muito envergonhados e perturbados;
+Recuarão, ficarão instantaneamente envergonhados.
+
+'''
+
+xref:019-salmo/019-salmo-005.adoc#v19-5-0[&#60; Capítulo Anterior] | <<v19-6-0,Topo>> | xref:019-salmo/019-salmo-007.adoc#v19-7-0[Próximo Capítulo &#62;]

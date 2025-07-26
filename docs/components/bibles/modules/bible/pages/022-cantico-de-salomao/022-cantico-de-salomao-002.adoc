@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v22-2-0]]
+=== Cântico de Salomão, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v22-2-1]]
+
+^<<v22-2-1,1>>^ “Sou apenas um açafrão^&#42;1^ da planície costeira,^&#42;2^ um lírio das baixadas.”
+
+[NOTE]
+====
+. Ou “croco; asfódelo”.
+. “Da planície costeira.” Ou “Sarom”. Hebr.: hash·sha·róhn.
+====
+
+[[v22-2-2]]
+
+^<<v22-2-2,2>>^ “Como o lírio entre as plantas espinhosas, assim é minha companheira entre as filhas.”
+
+[[v22-2-3]]
+
+^<<v22-2-3,3>>^ “Como a macieira entre as árvores da floresta, assim é meu querido entre os filhos. Desejei apaixonadamente a sua sombra, e ali me sentei, e seu fruto tem sido doce para o meu paladar.
+
+[[v22-2-4]]
+
+^<<v22-2-4,4>>^ Ele me introduziu na casa de vinho e seu estandarte sobre mim era o amor.^&#42;1^
+
+[NOTE]
+====
+. “Amor.” Hebr.: ’a·haváh.
+====
+
+[[v22-2-5]]
+
+^<<v22-2-5,5>>^ Revigorai-me com bolos de passas, sustentai-me com maçãs; pois estou desfalecendo de amor.
+
+[[v22-2-6]]
+
+^<<v22-2-6,6>>^ Sua esquerda está sob a minha cabeça; e sua direita — ela me abraça.
+
+[[v22-2-7]]
+
+^<<v22-2-7,7>>^ Eu vos pus sob juramento, ó filhas de Jerusalém, pelas fêmeas das gazelas ou pelas corças do campo, que não tenteis despertar nem incitar [em mim] amor, até que [este] esteja disposto.
+
+[[v22-2-8]]
+
+^<<v22-2-8,8>>^ “O som do meu querido! Eis que este está chegando, escalando os montes, saltando sobre os morros.
+
+[[v22-2-9]]
+
+^<<v22-2-9,9>>^ Meu querido se parece a uma gazela ou à cria dos veados. Eis que este está de pé atrás da nossa parede, espreitando pelas janelas, espiando pelas rótulas.
+
+[[v22-2-10]]
+
+^<<v22-2-10,10>>^ Meu querido respondeu e me disse: ‘Levanta-te, companheira minha, minha bela, e vem.
+
+[[v22-2-11]]
+
+^<<v22-2-11,11>>^ Pois eis que passou a própria estação chuvosa,^&#42;1^ acabou o próprio aguaceiro, ele se foi.
+
+[NOTE]
+====
+. Ou “o inverno”.
+====
+
+[[v22-2-12]]
+
+^<<v22-2-12,12>>^ As próprias flores apareceram na terra, chegou o próprio tempo da poda das vides e ouviu-se a voz da própria rola em nossa terra.
+
+[[v22-2-13]]
+
+^<<v22-2-13,13>>^ Quanto à figueira, atingiu a cor madura para os seus figos temporãos; e as videiras estão em flor, têm dado a [sua] fragrância. Levanta-te, vem, ó companheira minha, minha bela, e vem.
+
+[[v22-2-14]]
+
+^<<v22-2-14,14>>^ Ó minha pomba, nos retiros do rochedo, no esconderijo do caminho escarpado, mostra-me a tua forma, deixa-me ouvir a tua voz, pois a tua voz é agradável e a tua forma é linda.’”
+
+[[v22-2-15]]
+
+^<<v22-2-15,15>>^ “Segurai para nós as raposas, as pequenas raposas que estragam os vinhedos, visto que os nossos vinhedos estão em flor.”
+
+[[v22-2-16]]
+
+^<<v22-2-16,16>>^ “Meu querido é meu e eu sou dele. Ele pastoreia entre os lírios.
+
+[[v22-2-17]]
+
+^<<v22-2-17,17>>^ Até a aragem do dia e até que tenham fugido as sombras, volta-te, ó meu querido; sê semelhante à gazela ou à cria dos veados sobre os montes de separação.^&#42;1^
+
+[NOTE]
+====
+. Ou “montes fendidos”. Lit.: “montes de Bether”. O significado de “Bether” é incerto.
+====
+
+'''
+
+xref:022-cantico-de-salomao/022-cantico-de-salomao-001.adoc#v22-1-0[&#60; Capítulo Anterior] | <<v22-2-0,Topo>> | xref:022-cantico-de-salomao/022-cantico-de-salomao-003.adoc#v22-3-0[Próximo Capítulo &#62;]

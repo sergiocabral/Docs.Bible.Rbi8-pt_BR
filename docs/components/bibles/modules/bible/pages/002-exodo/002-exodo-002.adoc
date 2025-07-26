@@ -1,0 +1,150 @@
+include::./index.adoc[]
+
+[[v2-2-0]]
+=== Êxodo, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-2-1]]
+
+^<<v2-2-1,1>>^ No ínterim, certo homem da casa de Levi foi e tomou uma filha de Levi.
+
+[[v2-2-2]]
+
+^<<v2-2-2,2>>^ E a mulher ficou grávida e deu à luz um filho. Quando ela viu quão bem-parecido ele era, manteve-o escondido por três meses lunares.
+
+[[v2-2-3]]
+
+^<<v2-2-3,3>>^ Quando não o pôde mais esconder, então tomou para ele uma arca^&#42;1^ de papiro e revestiu-a de betume e piche, e colocou nela o menino e a pôs entre os juncos à beira do rio Nilo.
+
+[NOTE]
+====
+. Ou “caixa”. Hebr.: té·vath.
+====
+
+[[v2-2-4]]
+
+^<<v2-2-4,4>>^ Além disso, a irmã dele postou-se a certa distância para descobrir o que seria feito dele.
+
+[[v2-2-5]]
+
+^<<v2-2-5,5>>^ Depois de um tempo desceu a filha de Faraó para banhar-se no rio Nilo, e suas criadas de companhia andavam ao longo do rio Nilo. E ela avistou a arca no meio dos juncos. Enviou imediatamente a sua escrava para apanhá-la.
+
+[[v2-2-6]]
+
+^<<v2-2-6,6>>^ Quando a abriu, pôde ver o menino, e eis que o rapazinho chorava. Teve por isso compaixão dele, embora dissesse: “Este é um dos meninos dos hebreus.”
+
+[[v2-2-7]]
+
+^<<v2-2-7,7>>^ A irmã dele disse então à filha de Faraó: “Devo ir e chamar especialmente para ti uma ama dentre as mulheres hebréias, a fim de que amamente o menino para ti?”
+
+[[v2-2-8]]
+
+^<<v2-2-8,8>>^ De modo que a filha de Faraó lhe disse: “Vai!” A donzela foi imediatamente e chamou a mãe do menino.
+
+[[v2-2-9]]
+
+^<<v2-2-9,9>>^ A filha de Faraó disse-lhe então: “Toma contigo este menino e amamenta-o para mim, e eu mesma te darei teu salário.” Concordemente, a mulher tomou o menino e amamentou-o.
+
+[[v2-2-10]]
+
+^<<v2-2-10,10>>^ E o menino cresceu. Trouxe-o então à filha de Faraó, de modo que se tornou filho para ela; e ela passou a chamá-lo pelo nome de Moisés^&#42;1^ e a dizer: “É porque o tirei da água.”
+
+[NOTE]
+====
+. Significando “Retirado; Salvo da Água”. Veja Jewish Antiquities, de Josefo, Livro II, capítulo 9, § 6.
+====
+
+[[v2-2-11]]
+
+^<<v2-2-11,11>>^ Sucedeu então, naqueles dias, tornando-se Moisés forte, que ele saiu, indo ter com seus irmãos para ver os fardos que levavam; e avistou certo egípcio golpeando certo hebreu dos seus irmãos.
+
+[[v2-2-12]]
+
+^<<v2-2-12,12>>^ Ele se virou então para um lado e para outro, e viu que não havia ninguém à vista. Golpeou então o egípcio e encobriu-o na areia.
+
+[[v2-2-13]]
+
+^<<v2-2-13,13>>^ No entanto, saiu no dia seguinte e eis que dois homens hebreus brigavam entre si. De modo que ele disse ao que estava no erro: “Por que haverias de golpear teu companheiro?”
+
+[[v2-2-14]]
+
+^<<v2-2-14,14>>^ A isto ele disse: “Quem te designou príncipe e juiz sobre nós? Pretendes matar-me^&#42;1^ assim como mataste o egípcio?”^&#42;2^ Moisés ficou então com medo e disse: “Decerto a coisa ficou conhecida!”
+
+[NOTE]
+====
+. Lit.: “Estás falando a fim de matar-me?” Hebr.: hal·hor·ghé·ni ’at·táh ’o·mér.
+. LXX e At 7:28 acrescentam “ontem”.
+====
+
+[[v2-2-15]]
+
+^<<v2-2-15,15>>^ Subseqüentemente, Faraó soube desta coisa, e ele procurou matar Moisés; Moisés, porém, fugiu de diante de Faraó para morar na^&#42;1^ terra de Midiã; e ele se assentou junto a um poço.
+
+[NOTE]
+====
+. “Para morar na”, M; Sy: “e partiu para”.
+====
+
+[[v2-2-16]]
+
+^<<v2-2-16,16>>^ Ora, o sacerdote de Midiã tinha sete filhas, e elas, como de costume, vieram e tiraram água, e encheram as calhas, para dar de beber ao rebanho de seu pai.
+
+[[v2-2-17]]
+
+^<<v2-2-17,17>>^ E, como de costume, vieram os pastores e enxotaram [as ovelhas]. Em vista disso, Moisés se levantou e acudiu^&#42;1^ às mulheres, e deu de beber ao seu rebanho.
+
+[NOTE]
+====
+. Ou “e salvou as mulheres”. Lit.: “e salvou-as”. Hebr.: wai·yoh·shi·‛án; esta é a primeira ocorrência deste verbo, referindo-se aqui a Moisés.
+====
+
+[[v2-2-18]]
+
+^<<v2-2-18,18>>^ Assim, quando voltaram para casa a Reuel, seu pai, ele exclamou: “Como é que hoje viestes tão depressa para casa?”
+
+[[v2-2-19]]
+
+^<<v2-2-19,19>>^ Então disseram: “Certo egípcio livrou-nos da mão dos pastores, e, além disso, ele até mesmo tirou água para nós, para dar de beber ao rebanho.”
+
+[[v2-2-20]]
+
+^<<v2-2-20,20>>^ Ele disse então às suas filhas: “Mas onde está ele? Por que deixastes o homem para trás? Chamai-o, para que coma pão.”
+
+[[v2-2-21]]
+
+^<<v2-2-21,21>>^ Depois, Moisés mostrou-se disposto a morar com o homem, e este deu a Moisés sua filha Zípora.
+
+[[v2-2-22]]
+
+^<<v2-2-22,22>>^ Posteriormente, ela deu à luz um filho e ele o chamou pelo nome de Gersom,^&#42;1^ porque, disse ele: “Vim a ser residente forasteiro numa terra estrangeira.”
+
+[NOTE]
+====
+. Significando “Residente Forasteiro Ali”.
+====
+
+[[v2-2-23]]
+
+^<<v2-2-23,23>>^ E durante esses muitos dias sucedeu que finalmente morreu o rei do Egito, mas os filhos de Israel continuaram a suspirar por causa da escravidão^&#42;1^ e a clamar em queixa, e seu clamor por ajuda, por causa da escravidão, ascendia ao [verdadeiro] Deus.
+
+[NOTE]
+====
+. Ou “servidão”.
+====
+
+[[v2-2-24]]
+
+^<<v2-2-24,24>>^ Então, Deus ouviu seu gemido e Deus lembrou-se do seu pacto com Abraão, Isaque e Jacó.
+
+[[v2-2-25]]
+
+^<<v2-2-25,25>>^ Assim, Deus olhou para os filhos de Israel e Deus reparou [neles].^&#42;1^
+
+[NOTE]
+====
+. “Deus reparou”, M; Vg: “reparou neles”; LXX: “tornou-se conhecido deles”.
+====
+
+'''
+
+xref:002-exodo/002-exodo-001.adoc#v2-1-0[&#60; Capítulo Anterior] | <<v2-2-0,Topo>> | xref:002-exodo/002-exodo-003.adoc#v2-3-0[Próximo Capítulo &#62;]

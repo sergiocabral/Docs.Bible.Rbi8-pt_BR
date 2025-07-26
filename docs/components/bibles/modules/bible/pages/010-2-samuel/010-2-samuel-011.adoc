@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v10-11-0]]
+=== 2 Samuel, 11
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v10-11-1]]
+
+^<<v10-11-1,1>>^ E sucedeu, pela volta do ano,^&#42;1^ no tempo em que os reis fazem surtidas, que Davi passou a enviar Joabe e seus servos com ele, e todo o Israel, para que arruinassem os filhos de Amom e sitiassem Rabá, enquanto Davi morava em Jerusalém.
+
+[NOTE]
+====
+. Ou “sucedeu, por volta da primavera seguinte”.
+====
+
+[[v10-11-2]]
+
+^<<v10-11-2,2>>^ E sucedeu, pela hora da noitinha, que Davi foi levantar-se da sua cama e andar pelo terraço da casa do rei; e do terraço avistou uma mulher a banhar-se,^&#42;1^ e a mulher tinha aparência muito boa.
+
+[NOTE]
+====
+. Ou “e avistou uma mulher a banhar-se num terraço”.
+====
+
+[[v10-11-3]]
+
+^<<v10-11-3,3>>^ Davi mandou então indagar a respeito da mulher e alguém disse: “Não é esta Bate-Seba, filha de Elião,^&#42;1^ esposa de Urias, o hitita?”
+
+[NOTE]
+====
+. “Amiel” em 1Cr 3:5.
+====
+
+[[v10-11-4]]
+
+^<<v10-11-4,4>>^ Depois Davi enviou mensageiros, a fim de tomá-la. De modo que ela entrou até ele e ele se deitou com ela, enquanto ela se santificava da sua impureza. Mais tarde ela voltou para a sua casa.
+
+[[v10-11-5]]
+
+^<<v10-11-5,5>>^ E a mulher ficou grávida. Portanto, mandou informar Davi e disse: “Estou grávida.”
+
+[[v10-11-6]]
+
+^<<v10-11-6,6>>^ Em vista disso, Davi enviou [recado] a Joabe, dizendo: “Envia-me Urias, o hitita.” Joabe, pois, enviou Urias a Davi.
+
+[[v10-11-7]]
+
+^<<v10-11-7,7>>^ Quando Urias chegou a ele, Davi começou a perguntar como Joabe estava passando e como o povo estava passando, e como ia a guerra.
+
+[[v10-11-8]]
+
+^<<v10-11-8,8>>^ Por fim, Davi disse a Urias: “Desce à tua casa e lava teus pés.” Por conseguinte, Urias saiu da casa do rei e o presente de cortesia do rei^&#42;1^ saía atrás dele.
+
+[NOTE]
+====
+. Ou “a porção do rei”, isto é, a porção enviada pelo anfitrião ao convidado honrado. Veja Gên 43:34.
+====
+
+[[v10-11-9]]
+
+^<<v10-11-9,9>>^ No entanto, Urias deitou-se à entrada da casa do rei com todos os outros servos do seu senhor e não desceu à sua própria casa.
+
+[[v10-11-10]]
+
+^<<v10-11-10,10>>^ Informou-se, pois, a Davi, dizendo: “Urias não desceu à sua própria casa.” Em vista disso, Davi disse a Urias: “Não chegaste duma jornada? Por que não desceste à tua própria casa?”
+
+[[v10-11-11]]
+
+^<<v10-11-11,11>>^ Urias disse então a Davi: “A Arca, e Israel, e Judá estão morando em barracas, e meu senhor Joabe e os servos do meu senhor estão acampados na superfície do campo, e eu — entraria eu na minha própria casa para comer e beber, e para me deitar com a minha esposa? Assim como tu vives e assim como a tua alma vive, não farei tal coisa!”
+
+[[v10-11-12]]
+
+^<<v10-11-12,12>>^ Davi disse então a Urias: “Mora aqui também hoje, e amanhã te mandarei embora.” Por isso, Urias ficou morando em Jerusalém naquele dia e no dia seguinte.
+
+[[v10-11-13]]
+
+^<<v10-11-13,13>>^ Além disso, Davi o chamou para que comesse e bebesse diante dele. De modo que o embriagou. Todavia, ele saiu à noitinha para se deitar na sua cama junto com os servos do seu senhor e não desceu à sua própria casa.
+
+[[v10-11-14]]
+
+^<<v10-11-14,14>>^ E sucedeu, de manhã, que Davi passou a escrever uma carta a Joabe e a enviá-la pela mão de Urias.
+
+[[v10-11-15]]
+
+^<<v10-11-15,15>>^ Escreveu, pois, na carta, dizendo: “Ponde Urias na frente das mais fortes cargas de batalha e tereis de retirar-vos de detrás dele, e ele terá de ser golpeado e morto.”
+
+[[v10-11-16]]
+
+^<<v10-11-16,16>>^ E aconteceu que, enquanto Joabe manteve a cidade sob guarda, ele manteve Urias no lugar onde sabia haver lá homens valentes.
+
+[[v10-11-17]]
+
+^<<v10-11-17,17>>^ E saindo os homens da cidade e lutando eles contra Joabe, caíram então alguns do povo, servos de Davi, e morreu também Urias, o hitita.
+
+[[v10-11-18]]
+
+^<<v10-11-18,18>>^ Joabe mandou então comunicar a Davi todos os assuntos da guerra.
+
+[[v10-11-19]]
+
+^<<v10-11-19,19>>^ E prosseguiu a dar ordens ao mensageiro, dizendo: “Assim que tiveres acabado de falar ao rei sobre todos os assuntos da guerra,
+
+[[v10-11-20]]
+
+^<<v10-11-20,20>>^ então tem de dar-se que, se se levantar o furor do rei e ele deveras te disser: ‘Por que tivestes de ir lutar tão perto da cidade? Não sabíeis que atirariam do alto da muralha?
+
+[[v10-11-21]]
+
+^<<v10-11-21,21>>^ Quem foi que golpeou a Abimeleque, filho de Jerubesete?^&#42;1^ Não foi uma mulher que jogou sobre ele uma mó superior desde o alto da muralha, de modo que morreu em Tebes? Por que tivestes de ir tão perto da muralha?’ então terás de dizer: ‘Morreu também teu servo Urias, o hitita.’”
+
+[NOTE]
+====
+. “Jerubesete”, MVg; LXX: “Jerubaal”; em Jz 6:32; Jz 7:1; Jz 9:1, 16, 24, 28: “Jerubaal”.
+====
+
+[[v10-11-22]]
+
+^<<v10-11-22,22>>^ Assim, pois, o mensageiro foi, e chegou e contou a Davi tudo aquilo pelo qual Joabe o enviara.
+
+[[v10-11-23]]
+
+^<<v10-11-23,23>>^ E o mensageiro prosseguiu, dizendo a Davi: “Os homens mostraram-se superiores a nós, de modo que saíram contra nós ao campo; mas fomos empurrá-los até a própria entrada do portão.
+
+[[v10-11-24]]
+
+^<<v10-11-24,24>>^ E os atiradores atiravam contra os teus servos desde o alto da muralha, de modo que morreram alguns dos servos do rei; e também morreu teu servo Urias, o hitita.”
+
+[[v10-11-25]]
+
+^<<v10-11-25,25>>^ Então disse Davi ao mensageiro: “Assim dirás a Joabe: ‘Não deixes que este assunto pareça mau aos teus olhos, pois a espada come tanto a um como a outro. Intensifica a tua batalha contra a cidade e derruba-a.’ E encoraja-o.”
+
+[[v10-11-26]]
+
+^<<v10-11-26,26>>^ E a esposa de Urias chegou a ouvir que Urias, seu esposo, tinha morrido, e ela começou a lamentar seu dono.^&#42;1^
+
+[NOTE]
+====
+. “Seu dono.” Hebr.: ba‛·láh. Veja Gên 20:3; De 24:1, 4.
+====
+
+[[v10-11-27]]
+
+^<<v10-11-27,27>>^ Quando passou o período de luto, Davi mandou imediatamente [buscá-la] e a acolheu na sua casa, e ela se tornou a sua esposa. No devido tempo ela lhe deu à luz um filho, mas a coisa que Davi tinha feito parecia má aos olhos de Jeová.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-010.adoc#v10-10-0[&#60; Capítulo Anterior] | <<v10-11-0,Topo>> | xref:010-2-samuel/010-2-samuel-012.adoc#v10-12-0[Próximo Capítulo &#62;]

@@ -1,0 +1,185 @@
+include::./index.adoc[]
+
+[[v17-9-0]]
+=== Ester, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v17-9-1]]
+
+^<<v17-9-1,1>>^ E no décimo segundo mês, que é o mês de adar, no décimo terceiro dia dele, quando se devia executar a palavra do rei e a sua lei, no dia que os inimigos dos judeus aguardavam para tiranizá-los, houve mesmo uma reviravolta,^&#42;1^ visto que os próprios judeus tiranizavam os que os odiavam.
+
+[NOTE]
+====
+. “Houve . . . uma reviravolta.” No hebr., esta frase é um verbo no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v17-9-2]]
+
+^<<v17-9-2,2>>^ Os judeus congregaram-se nas suas cidades em todos os distritos jurisdicionais do Rei Assuero para deitar a mão nos que procuravam seu prejuízo, e nenhum homem se manteve de pé diante deles, pois o pavor deles tinha caído sobre todos os povos.
+
+[[v17-9-3]]
+
+^<<v17-9-3,3>>^ E todos os príncipes dos distritos jurisdicionais, bem como os sátrapas, e os governadores, e os que faziam os negócios pertencentes ao rei auxiliavam os judeus, pois caíra sobre eles o pavor de Mordecai.
+
+[[v17-9-4]]
+
+^<<v17-9-4,4>>^ Porque Mordecai era grande na casa do rei e a sua fama percorreu todos os distritos jurisdicionais, visto que o homem Mordecai se tornava cada vez maior.
+
+[[v17-9-5]]
+
+^<<v17-9-5,5>>^ E os judeus foram golpear todos os seus inimigos com uma matança pela espada, e com chacina e destruição, e foram fazer aos que os odiavam segundo o seu bel-prazer.
+
+[[v17-9-6]]
+
+^<<v17-9-6,6>>^ E os judeus mataram em Susã, o castelo, e houve a destruição de quinhentos homens.
+
+[[v17-9-7]]
+
+^<<v17-9-7,7>>^ Também a Parsandata, e a Dalfom, e a Aspata,
+
+[[v17-9-8]]
+
+^<<v17-9-8,8>>^ e a Porata, e a Adalia, e a Aridata,
+
+[[v17-9-9]]
+
+^<<v17-9-9,9>>^ e a Parmasta, e a Arisai, e a Aridai, e a Vaizata,
+
+[[v17-9-10]]
+
+^<<v17-9-10,10>>^ os dez filhos de Hamã, filho de Hamedata, aquele que mostrara hostilidade para com os judeus, eles mataram; mas não deitaram mão no saque.
+
+[[v17-9-11]]
+
+^<<v17-9-11,11>>^ Naquele dia chegou perante o rei o número dos mortos em Susã, o castelo.
+
+[[v17-9-12]]
+
+^<<v17-9-12,12>>^ E o rei passou a dizer a Ester, a rainha: “Os judeus mataram em Susã, o castelo, e houve a destruição^&#42;1^ de quinhentos homens e dos dez filhos de Hamã. No restante dos distritos jurisdicionais do rei, o que é que fizeram? E qual é teu pedido? A ti seja dado. E qual é a tua solicitação adicional? Seja feito.”
+
+[NOTE]
+====
+. “Houve a destruição.” No hebr., esta frase é um verbo no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v17-9-13]]
+
+^<<v17-9-13,13>>^ Por conseguinte, Ester disse: “Se parecer bem ao rei, conceda-se também amanhã aos judeus que estão em Susã fazer segundo a lei de hoje; e pendurem-se no madeiro os dez filhos de Hamã.”
+
+[[v17-9-14]]
+
+^<<v17-9-14,14>>^ Portanto, o rei disse que se fizesse isso deste modo. Então se promulgou a lei em Susã, e os dez filhos de Hamã foram pendurados.
+
+[[v17-9-15]]
+
+^<<v17-9-15,15>>^ E os judeus que estavam em Susã passaram a congregar-se também no décimo quarto dia do mês de adar, e chegaram a matar trezentos homens em Susã; mas não deitaram mão no saque.
+
+[[v17-9-16]]
+
+^<<v17-9-16,16>>^ Quanto aos restantes dos judeus que estavam nos distritos jurisdicionais do rei, congregaram-se, e houve uma tomada de posição^&#42;1^ pelas suas almas^&#42;2^ e uma vingança da parte deles dos^&#42;3^ seus inimigos, e uma matança^&#42;4^ de setenta e cinco mil entre os que os odiavam; mas não deitaram mão no seu saque,
+
+[NOTE]
+====
+. “Houve uma tomada de posição.” No hebr., esta frase é um verbo no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+. Ou “vidas”.
+. “Uma vingança da parte deles dos”, mediante uma correção; M: “um descanso dos”.
+. “Houve . . . uma vingança da parte deles . . . uma matança.” No hebr., trata-se de verbos no infinitivo absoluto, indefinidos quanto ao tempo e impessoais.
+====
+
+[[v17-9-17]]
+
+^<<v17-9-17,17>>^ no décimo terceiro dia do mês de adar; e houve descanso no décimo quarto [dia] dele e fez-se^&#42;1^ dele um dia de banquetes e de alegria.
+
+[NOTE]
+====
+. “Fez-se.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v17-9-18]]
+
+^<<v17-9-18,18>>^ Quanto aos judeus que estavam em Susã, congregaram-se no décimo terceiro [dia] dele e no décimo quarto [dia] dele, e no décimo quinto [dia] dele houve descanso, e fez-se dele um dia de banquetes e de alegria.
+
+[[v17-9-19]]
+
+^<<v17-9-19,19>>^ É por isso que os judeus camponeses, morando nas cidades dos distritos distantes, fizeram no décimo quarto dia do mês de adar uma alegria, e um banquetear-se, e um dia bom e de enviar porções uns aos outros.
+
+[[v17-9-20]]
+
+^<<v17-9-20,20>>^ E Mordecai passou a escrever estas coisas e a enviar documentos escritos a todos os judeus que estavam em todos os distritos jurisdicionais do Rei Assuero,^&#42;1^ os próximos e os distantes,
+
+[NOTE]
+====
+. “Artaxerxes”, LXX.
+====
+
+[[v17-9-21]]
+
+^<<v17-9-21,21>>^ para impor-lhes a obrigação de celebrarem regularmente o décimo quarto dia do mês de adar e o décimo quinto dia dele, de ano em ano,
+
+[[v17-9-22]]
+
+^<<v17-9-22,22>>^ segundo os dias em que os judeus descansaram dos seus inimigos e o mês que se lhes mudou de pesar em alegria e de pranto num dia bom, para os celebrarem como dias de banquetes e de alegria, e de enviar porções uns aos outros e dádivas aos pobres.
+
+[[v17-9-23]]
+
+^<<v17-9-23,23>>^ E os judeus aceitaram o que tinham principiado a fazer e o que Mordecai lhes escreveu.
+
+[[v17-9-24]]
+
+^<<v17-9-24,24>>^ Pois o próprio Hamã, filho de Hamedata, o agagita, aquele que mostrara hostilidade para com todos os judeus, tinha maquinado contra os judeus para destruí-los, e fizera lançar Pur, isto é, a Sorte, para perturbá-los e para destruí-los.
+
+[[v17-9-25]]
+
+^<<v17-9-25,25>>^ Mas, quando Ester^&#42;1^ entrou perante o rei, ele disse com um documento escrito: “Recaia sobre a sua própria cabeça seu ardil mau que maquinou contra os judeus”; e penduraram a ele e a seus filhos no madeiro.
+
+[NOTE]
+====
+. “Ester”, SyVg; M: “ela”.
+====
+
+[[v17-9-26]]
+
+^<<v17-9-26,26>>^ É por isso que chamaram estes dias de Purim, segundo o nome de Pur. É por isso que, segundo todas as palavras desta carta, e pelo que tinham visto neste respeito e pelo que lhes sobreviera,
+
+[[v17-9-27]]
+
+^<<v17-9-27,27>>^ os judeus impuseram-se e aceitaram para si e para a sua descendência,^&#42;1^ e para todos os que se juntaram a eles, para que não passasse, a obrigação de celebrar regularmente estes dois dias, de acordo com o que estava escrito sobre estes e de acordo com o seu tempo determinado, de ano em ano.
+
+[NOTE]
+====
+. Ou “semente”.
+====
+
+[[v17-9-28]]
+
+^<<v17-9-28,28>>^ E estes dias eram para ser lembrados e celebrados em cada geração, cada família, cada distrito jurisdicional e cada cidade, e estes mesmos dias de Purim não deviam passar do meio dos judeus e a própria comemoração deles não devia chegar ao término entre a sua descendência.
+
+[[v17-9-29]]
+
+^<<v17-9-29,29>>^ E Ester, a rainha, filha de Abiail, e Mordecai, o judeu, passaram a escrever com toda a firmeza, confirmando esta segunda carta a respeito de Purim.
+
+[[v17-9-30]]
+
+^<<v17-9-30,30>>^ Ele^&#42;1^ enviou então documentos escritos a todos os judeus nos cento e vinte e sete distritos jurisdicionais, o domínio real de Assuero, [em] palavras de paz e verdade,
+
+[NOTE]
+====
+. “Ele”, M; SyVg: “eles”.
+====
+
+[[v17-9-31]]
+
+^<<v17-9-31,31>>^ confirmando estes dias de Purim nos seus tempos determinados, assim como Mordecai, o judeu, e Ester, a rainha, lhes tinham imposto, e assim como tinham imposto à sua própria alma^&#42;1^ e à sua descendência, os assuntos dos jejuns e de seu clamor por socorro.
+
+[NOTE]
+====
+. Ou “a si mesmos”.
+====
+
+[[v17-9-32]]
+
+^<<v17-9-32,32>>^ E os próprios dizeres de Ester confirmaram estes assuntos de Purim, e isso foi escrito num livro.
+
+'''
+
+xref:017-ester/017-ester-008.adoc#v17-8-0[&#60; Capítulo Anterior] | <<v17-9-0,Topo>> | xref:017-ester/017-ester-010.adoc#v17-10-0[Próximo Capítulo &#62;]

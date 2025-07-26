@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v4-17-0]]
+=== Números, 17
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-17-1]]
+
+^<<v4-17-1,1>>^ Jeová falou então a Moisés, dizendo:
+
+[[v4-17-2]]
+
+^<<v4-17-2,2>>^ “Fala aos filhos de Israel e toma deles um bastão para cada casa paterna de todos os seus maiorais, segundo a casa de seus pais, doze bastões. Escreverás o nome de cada um sobre o seu bastão.
+
+[[v4-17-3]]
+
+^<<v4-17-3,3>>^ E escreverás o nome de Arão sobre o bastão de Levi, porque há um só bastão para o cabeça da casa de seus pais.
+
+[[v4-17-4]]
+
+^<<v4-17-4,4>>^ E tens de depositá-los na tenda de reunião diante do Testemunho, onde me apresento regularmente a vós.
+
+[[v4-17-5]]
+
+^<<v4-17-5,5>>^ E o que se tem de dar é que o homem a quem eu escolher, o bastão deste florescerá, e certamente farei cessar os resmungos dos filhos de Israel contra mim, com que resmungam contra vós.”
+
+[[v4-17-6]]
+
+^<<v4-17-6,6>>^ Portanto, Moisés falou aos filhos de Israel, e todos os seus maiorais foram dar-lhe um bastão para cada maioral, um bastão para cada maioral, segundo a casa de seus pais, doze bastões; e o bastão de Arão se achava entre os seus bastões.
+
+[[v4-17-7]]
+
+^<<v4-17-7,7>>^ Moisés depositou então os bastões diante de Jeová na tenda do Testemunho.
+
+[[v4-17-8]]
+
+^<<v4-17-8,8>>^ E sucedeu, no dia seguinte, quando Moisés entrou na tenda do Testemunho, eis que havia florescido o bastão de Arão, para a casa de Levi, e produzira botões e brotara flores, e dera amêndoas maduras.
+
+[[v4-17-9]]
+
+^<<v4-17-9,9>>^ Moisés trouxe então para fora todos os bastões de diante de Jeová a todos os filhos de Israel, e eles olhavam e tomavam cada um o seu próprio bastão.
+
+[[v4-17-10]]
+
+^<<v4-17-10,10>>^ A seguir, Jeová disse a Moisés: “Põe o bastão de Arão de volta diante do Testemunho como algo a ser guardado como sinal para os filhos da rebeldia, a fim de que cessem os seus resmungos contra mim, para que não morram.”
+
+[[v4-17-11]]
+
+^<<v4-17-11,11>>^ Moisés fez imediatamente conforme Jeová lhe mandara. Fez exatamente assim.
+
+[[v4-17-12]]
+
+^<<v4-17-12,12>>^ E os filhos de Israel começaram a dizer a Moisés o seguinte: “Eis que forçosamente havemos de expirar, forçosamente havemos de perecer, forçosamente havemos de perecer todos nós.
+
+[[v4-17-13]]
+
+^<<v4-17-13,13>>^ Qualquer que se aproximar, chegando-se ao tabernáculo de Jeová, morrerá! Temos de acabar expirando assim?”
+
+'''
+
+xref:004-numeros/004-numeros-016.adoc#v4-16-0[&#60; Capítulo Anterior] | <<v4-17-0,Topo>> | xref:004-numeros/004-numeros-018.adoc#v4-18-0[Próximo Capítulo &#62;]

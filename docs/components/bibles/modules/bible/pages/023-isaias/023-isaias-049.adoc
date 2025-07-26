@@ -1,0 +1,210 @@
+include::./index.adoc[]
+
+[[v23-49-0]]
+=== Isaías, 49
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-49-1]]
+
+^<<v23-49-1,1>>^ Escutai-me, vós ilhas,^&#42;1^ e prestai atenção, vós grupos nacionais longínquos. O próprio Jeová me chamou até mesmo desde o ventre. Desde as entranhas de minha mãe ele tem feito menção do meu nome.
+
+[NOTE]
+====
+. Ou “litorais”.
+====
+
+[[v23-49-2]]
+
+^<<v23-49-2,2>>^ E passou a fazer a minha boca igual a uma espada afiada. Escondeu-me na sombra da sua mão. E aos poucos fez de mim uma flecha polida.^&#42;1^ Escondeu-me na sua própria aljava.
+
+[NOTE]
+====
+. Ou “pontiaguda”.
+====
+
+[[v23-49-3]]
+
+^<<v23-49-3,3>>^ E prosseguiu, dizendo-me: “Tu és meu servo, ó Israel, tu és aquele em quem mostrarei a minha beleza.”
+
+[[v23-49-4]]
+
+^<<v23-49-4,4>>^ Mas eu, da minha parte, disse: “Foi em vão que labutei. Gastei o meu próprio poder para irrealidade e vaidade. Verdadeiramente, meu julgamento está com Jeová, e meu salário, com o meu Deus.”^&#42;1^
+
+[NOTE]
+====
+. “Meu Deus.” Hebr.: ’Elo·haí, pl.
+====
+
+[[v23-49-5]]
+
+^<<v23-49-5,5>>^ E agora Jeová, Aquele que me formou desde o ventre como servo seu, disse que [eu] lhe trouxesse de volta Jacó, a fim de que o próprio Israel fosse ajuntado a ele.^&#42;1^ E eu serei glorificado aos olhos de Jeová, e meu próprio Deus se terá tornado a minha força.
+
+[NOTE]
+====
+. “Que o próprio Israel fosse ajuntado a ele”, 1QIsaMmargemAq; M: “e Israel, que não estava sendo ajuntado”.
+====
+
+[[v23-49-6]]
+
+^<<v23-49-6,6>>^ E ele passou a dizer: “Foi mais do que um assunto trivial que te tornaste meu servo para levantar as tribos de Jacó e trazer de volta os resguardados de Israel; eu te dei também por luz das nações, para que a minha salvação viesse a existir^&#42;1^ até a extremidade^&#42;2^ da terra.”
+
+[NOTE]
+====
+. Ou “para que tu viesses a tornar-te minha salvação”, em harmonia com LXXVg.
+. Veja Je 25:31, 33 n.
+====
+
+[[v23-49-7]]
+
+^<<v23-49-7,7>>^ Assim disse Jeová, o Resgatador de Israel, seu Santo, ao que é desprezado na alma,^&#42;1^ ao que é detestado pela nação,^&#42;2^ ao servo de governantes: “Os próprios reis verão e certamente se levantarão, [bem como] príncipes, e eles se curvarão em razão de Jeová, que é fiel, o Santo de Israel, que te escolhe.”
+
+[NOTE]
+====
+. Ou “de toda a alma; cabalmente”. Hebr.: né·fesh; gr.: psy·khén; lat.: á·ni·mam.
+. Ou “para a alma desprezar, para a nação detestar”, isto é, aquele que a alma despreza, aquele que a nação detesta.
+====
+
+[[v23-49-8]]
+
+^<<v23-49-8,8>>^ Assim disse Jeová: “Num tempo de boa vontade^&#42;1^ te respondi e num dia de salvação te ajudei; e eu te estive resguardando para te dar como pacto para o povo,^&#42;2^ para reabilitar a terra, para fazer que se reentre na posse das desoladas propriedades hereditárias,
+
+[NOTE]
+====
+. Ou: “Num tempo aceitável.”
+. Sy acrescenta: “e como luz para os povos”.
+====
+
+[[v23-49-9]]
+
+^<<v23-49-9,9>>^ para dizer aos presos:^&#42;1^ ‘Saí!’, aos que estão em escuridão: ‘Revelai-vos!’ Pastarão junto aos caminhos e seu pasto será em todas as veredas batidas.^&#42;2^
+
+[NOTE]
+====
+. Ou “amarrados”.
+. Ou “todos os morros calvos”.
+====
+
+[[v23-49-10]]
+
+^<<v23-49-10,10>>^ Não terão fome, nem terão sede, nem se abaterá sobre eles o calor abrasador ou o sol. Porque Aquele que se apiada^&#42;1^ deles os guiará e os conduzirá junto às fontes de água.
+
+[NOTE]
+====
+. Ou “tem misericórdia”.
+====
+
+[[v23-49-11]]
+
+^<<v23-49-11,11>>^ E eu vou fazer de todos os meus montes um caminho e as minhas próprias estradas principais estarão numa elevação.
+
+[[v23-49-12]]
+
+^<<v23-49-12,12>>^ Eis que virão mesmo de longe, e eis estes do norte e do oeste,^&#42;1^ e estes da terra de Sinim!”^&#42;2^
+
+[NOTE]
+====
+. Lit.: “mar”, isto é, o Mar Mediterrâneo ao oeste de Judá.
+. “Sinim”, M; sir.: Sen·yam; TVg: “ao sul”; LXX: “dos persas”.
+====
+
+[[v23-49-13]]
+
+^<<v23-49-13,13>>^ Gritai de júbilo, ó céus, e jubila, ó terra. Fiquem animados os montes com clamor jubilante. Porque Jeová tem consolado seu povo e ele mostra misericórdia^&#42;1^ para com os seus próprios atribulados.
+
+[NOTE]
+====
+. Ou “se apiada dos”.
+====
+
+[[v23-49-14]]
+
+^<<v23-49-14,14>>^ Mas Sião dizia: “Jeová me abandonou e o próprio Jeová^&#42;1^ se esqueceu de mim.”
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v23-49-15]]
+
+^<<v23-49-15,15>>^ Pode a mulher esquecer-se de seu nenê, de modo a não se apiedar do filho de seu ventre? Mesmo estas mulheres podem esquecer-se, mas eu é que não me esquecerei de ti.^&#42;1^
+
+[NOTE]
+====
+. “Ti”, hebr. fem., referindo-se a “Sião”.
+====
+
+[[v23-49-16]]
+
+^<<v23-49-16,16>>^ Eis que te gravei sobre as palmas [das minhas mãos]!^&#42;1^ Tuas muralhas estão constantemente diante de mim.
+
+[NOTE]
+====
+. “As palmas”, M; Sy: “as palmas das minhas mãos”; LXXVg: “minhas mãos”.
+====
+
+[[v23-49-17]]
+
+^<<v23-49-17,17>>^ Teus filhos se apressaram. Os próprios que te derrubam e te devastam sairão mesmo de ti.
+
+[[v23-49-18]]
+
+^<<v23-49-18,18>>^ Levanta os olhos [olhando] ao redor e vê. Todos eles foram reunidos. Chegaram a ti. “Assim como vivo”, é a pronunciação de Jeová, “vestir-te-ás de todos eles como que com enfeites e os atarás sobre ti como uma noiva.
+
+[[v23-49-19]]
+
+^<<v23-49-19,19>>^ Embora haja os teus lugares devastados, e os teus lugares desolados, e a terra das tuas ruínas, embora estejas agora apertada demais para estar morando e os que te engolem tenham estado longe,
+
+[[v23-49-20]]
+
+^<<v23-49-20,20>>^ contudo, os filhos do teu estado de privação dirão aos teus próprios ouvidos: ‘O lugar ficou apertado demais para mim. Faze lugar para mim, para que eu possa morar.’
+
+[[v23-49-21]]
+
+^<<v23-49-21,21>>^ E tu dirás certamente no teu coração: ‘Quem se tornou para mim o pai destes, visto que sou uma mulher privada de filhos e estéril, exilada e aprisionada?^&#42;1^ Quanto a estes, quem [os] criou? Eis que eu mesma fora deixada sozinha. Estes — onde é que estiveram?’”
+
+[NOTE]
+====
+. “Aprisionada”, mediante uma ligeira correção; M: “virada (posta) de lado”.
+====
+
+[[v23-49-22]]
+
+^<<v23-49-22,22>>^ Assim disse o Soberano Senhor Jeová: “Eis que levantarei minha mão até para as nações e erguerei meu sinal de aviso^&#42;1^ para os povos. E eles trarão teus filhos ao colo e carregarão tuas próprias filhas sobre o ombro.
+
+[NOTE]
+====
+. “Meu sinal de aviso.” Hebr.: nis·sí (de nes).
+====
+
+[[v23-49-23]]
+
+^<<v23-49-23,23>>^ E reis terão de tornar-se tutores para ti, e as princesas^&#42;1^ deles, amas para ti. Com os rostos^&#42;2^ para a terra, curvar-se-ão diante de ti e lamberão o pó de teus pés; e tu terás de saber que eu sou Jeová, de quem não se envergonharão aqueles que esperam em mim.”
+
+[NOTE]
+====
+. Ou “damas nobres”.
+. Lit.: “narizes”.
+====
+
+[[v23-49-24]]
+
+^<<v23-49-24,24>>^ Podem os já tomados^&#42;1^ ser tirados do próprio poderoso ou pode escapar o grupo de cativos do tirano?^&#42;2^
+
+[NOTE]
+====
+. Ou “as coisas [pessoas] tomadas”.
+. “Grupo de cativos do tirano”, mediante uma correção; M: “grupo justo de cativos”.
+====
+
+[[v23-49-25]]
+
+^<<v23-49-25,25>>^ Porém, assim disse Jeová: “Até mesmo o grupo de cativos do poderoso será tirado e os já tomados pelo próprio tirano escaparão. E eu mesmo contenderei com aquele que contender contigo e eu mesmo salvarei os teus próprios filhos.
+
+[[v23-49-26]]
+
+^<<v23-49-26,26>>^ E vou fazer que os que te maltratam comam a sua própria carne; e ficarão embriagados com o seu próprio sangue como que com vinho doce. E toda a carne terá de saber que eu, Jeová, sou teu Salvador e teu Resgatador, o Potentado de Jacó.”
+
+'''
+
+xref:023-isaias/023-isaias-048.adoc#v23-48-0[&#60; Capítulo Anterior] | <<v23-49-0,Topo>> | xref:023-isaias/023-isaias-050.adoc#v23-50-0[Próximo Capítulo &#62;]

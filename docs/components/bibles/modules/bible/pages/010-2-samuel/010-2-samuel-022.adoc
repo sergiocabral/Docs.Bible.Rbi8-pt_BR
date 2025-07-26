@@ -1,0 +1,332 @@
+include::./index.adoc[]
+
+[[v10-22-0]]
+=== 2 Samuel, 22
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v10-22-1]]
+
+^<<v10-22-1,1>>^ E Davi passou a falar a Jeová as palavras deste cântico, no dia em que Jeová o livrou da palma da mão de todos os seus inimigos e da palma de Saul;
+
+[[v10-22-2]]
+
+^<<v10-22-2,2>>^ e ele prosseguiu, dizendo:
+“Jeová é meu rochedo, e minha fortaleza, e Aquele que me põe a salvo.
+
+[[v10-22-3]]
+
+^<<v10-22-3,3>>^ Meu Deus é minha rocha. Nele me refugiarei,
+Meu escudo e meu chifre de salvação, minha altura protetora,
+E meu lugar de refúgio, meu Salvador; da violência me salvaste.
+
+[[v10-22-4]]
+
+^<<v10-22-4,4>>^ Invocarei Aquele que deve ser louvado, Jeová,
+E serei salvo dos meus inimigos.
+
+[[v10-22-5]]
+
+^<<v10-22-5,5>>^ Pois, cercaram-me ondas mortíferas de rebentação;
+Apavoraram-me enxurradas de [homens] imprestáveis.
+
+[[v10-22-6]]
+
+^<<v10-22-6,6>>^ Rodearam-me as próprias cordas do Seol;^&#42;1^
+Confrontaram-me os laços da morte.
+
+[NOTE]
+====
+. “Seol.” Hebr.: she’óhl; sir.: da·shiul; Vgc(lat.): in·fér·ni; gr.: tha·ná·tou, “morte”. Veja Ap. 4B.
+====
+
+[[v10-22-7]]
+
+^<<v10-22-7,7>>^ Na minha aflição eu invocava a Jeová
+E clamava ao meu Deus.
+Desde o seu templo ouviu então a minha voz,
+Tendo nos seus ouvidos meu clamor por ajuda.
+
+[[v10-22-8]]
+
+^<<v10-22-8,8>>^ E a terra começou a balouçar e a tremer;
+Os próprios alicerces dos céus agitavam-se
+E balouçavam porque ele se tinha irado.
+
+[[v10-22-9]]
+
+^<<v10-22-9,9>>^ Fumaça subia das suas narinas e o próprio fogo da sua boca devorava;
+Dele chamejavam os próprios carvões.
+
+[[v10-22-10]]
+
+^<<v10-22-10,10>>^ E ele passou a curvar os céus para baixo e a descer;
+E havia densas trevas debaixo dos seus pés.
+
+[[v10-22-11]]
+
+^<<v10-22-11,11>>^ E veio montado num querubim e veio voando;
+E era visível^&#42;1^ nas asas dum espírito.^&#42;2^
+
+[NOTE]
+====
+. Possivelmente: “veio arremetendo”, mediante uma ligeira correção no M, e como no Sal 18:10 e em muitos mss. hebr.
+. Ou “asas de vento”.
+====
+
+[[v10-22-12]]
+
+^<<v10-22-12,12>>^ Então pôs a escuridão em volta dele como barracas,
+Águas escuras,^&#42;1^ nuvens espessas.
+
+[NOTE]
+====
+. “Escuras”, mediante uma emenda; segundo KB3: “peneira”.
+====
+
+[[v10-22-13]]
+
+^<<v10-22-13,13>>^ Da claridade diante dele chamejavam brasas de fogo.
+
+[[v10-22-14]]
+
+^<<v10-22-14,14>>^ Jeová começou a trovejar desde o céu,
+E o próprio Altíssimo começou a emitir a sua voz.
+
+[[v10-22-15]]
+
+^<<v10-22-15,15>>^ E ele enviava flechas para os espalhar;
+Relâmpago, para os lançar em confusão.
+
+[[v10-22-16]]
+
+^<<v10-22-16,16>>^ E tornaram-se visíveis os leitos do mar,
+Ficaram descobertos os alicerces do solo produtivo,^&#42;1^
+Diante da censura de Jeová, do sopro do fôlego^&#42;2^ das suas narinas.
+
+[NOTE]
+====
+. “Solo produtivo.” Hebr.: te·vél; gr.: oi·kou·mé·nes, “terra habitada”, a mesma palavra que em Mt 24:14; lat.: ór·bis, “círculo [terrestre]”.
+. “Fôlego das.” Hebr.: rú·ahh; gr.: pneú·ma·tos.
+====
+
+[[v10-22-17]]
+
+^<<v10-22-17,17>>^ Mandando desde as alturas tomar-me,
+Puxava-me para fora de grandes águas.
+
+[[v10-22-18]]
+
+^<<v10-22-18,18>>^ Livrava-me do meu forte inimigo,
+Dos que me odiavam; porque eram mais fortes do que eu.
+
+[[v10-22-19]]
+
+^<<v10-22-19,19>>^ Confrontavam-me no dia do meu desastre,
+Mas Jeová se tornou meu esteio.
+
+[[v10-22-20]]
+
+^<<v10-22-20,20>>^ E ele passou a levar-me para fora a um lugar espaçoso;
+Socorria-me porque se agradara de mim.
+
+[[v10-22-21]]
+
+^<<v10-22-21,21>>^ Jeová me recompensa segundo a minha justiça;
+Paga-me de volta segundo a limpeza das minhas mãos.
+
+[[v10-22-22]]
+
+^<<v10-22-22,22>>^ Porque guardei os caminhos de Jeová
+E não me afastei iniquamente do meu Deus.
+
+[[v10-22-23]]
+
+^<<v10-22-23,23>>^ Pois todas as suas decisões judiciais estão diante de mim;
+E quanto aos seus estatutos, não me retirarei deles.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “dela”, hebr. fem.
+====
+
+[[v10-22-24]]
+
+^<<v10-22-24,24>>^ E mostrar-me-ei sem defeito para com ele,
+E vou guardar-me do erro da minha parte.
+
+[[v10-22-25]]
+
+^<<v10-22-25,25>>^ E que Jeová me pague de volta segundo a minha justiça,
+Segundo a minha limpeza diante dos seus olhos.
+
+[[v10-22-26]]
+
+^<<v10-22-26,26>>^ Com alguém leal agirás com lealdade;
+Com o que está sem defeito, o poderoso, procederás sem defeito;
+
+[[v10-22-27]]
+
+^<<v10-22-27,27>>^ Com aquele que se mantém limpo, tu te mostrarás limpo,
+E com o pervertido agirás como que de modo ridículo.
+
+[[v10-22-28]]
+
+^<<v10-22-28,28>>^ E salvarás o povo humilde;
+Mas os teus olhos são contra os altaneiros, [para os] rebaixares.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “mas baixarás os teus olhos contra os altaneiros”.
+====
+
+[[v10-22-29]]
+
+^<<v10-22-29,29>>^ Pois tu és a minha lâmpada, ó Jeová,
+E é Jeová quem faz resplandecer a minha escuridão.
+
+[[v10-22-30]]
+
+^<<v10-22-30,30>>^ Porque por meio de ti posso correr contra uma guerrilha,
+Por meio de meu Deus posso escalar um muro.
+
+[[v10-22-31]]
+
+^<<v10-22-31,31>>^ Quanto ao [verdadeiro] Deus, perfeito é o seu caminho;
+A declaração de Jeová é refinada.
+Escudo é ele para todos os que se refugiam nele.
+
+[[v10-22-32]]
+
+^<<v10-22-32,32>>^ Pois, quem é Deus^&#42;1^ além de Jeová,
+E quem é rocha além de nosso Deus?^&#42;2^
+
+[NOTE]
+====
+. “Quem é Deus”, M(hebr.: mi-’Él)Vg; LXX: “quem é Forte”.
+. “Nosso Deus.” Hebr.: ’Elo·héh·nu; gr.: The·oú; lat.: Dé·um.
+====
+
+[[v10-22-33]]
+
+^<<v10-22-33,33>>^ O [verdadeiro] Deus é o meu forte baluarte,^&#42;1^
+E ele fará perfeito o meu caminho,
+
+[NOTE]
+====
+. Em harmonia com o Sal 18:32, este texto poderia ser corrigido para rezar: “O [verdadeiro] Deus me cinge bem de energia vital.”
+====
+
+[[v10-22-34]]
+
+^<<v10-22-34,34>>^ Fazendo^&#42;1^ os meus pés iguais aos das corças;
+E faz-me ficar de pé em lugares altos para mim.
+
+[NOTE]
+====
+. Ou “pondo”.
+====
+
+[[v10-22-35]]
+
+^<<v10-22-35,35>>^ Adestra as minhas mãos para a guerra;
+E meus braços comprimiram um arco de cobre.
+
+[[v10-22-36]]
+
+^<<v10-22-36,36>>^ E tu me darás o teu escudo de salvação,
+E é a tua humildade que me engrandece.
+
+[[v10-22-37]]
+
+^<<v10-22-37,37>>^ Tu farás bastante lugar para os meus passos debaixo de mim;
+E os meus tornozelos certamente não vacilarão.
+
+[[v10-22-38]]
+
+^<<v10-22-38,38>>^ Vou perseguir os meus inimigos para os aniquilar,
+E não voltarei até que tenham sido exterminados.
+
+[[v10-22-39]]
+
+^<<v10-22-39,39>>^ E eu os exterminarei e os despedaçarei para que não se levantem mais;
+E cairão sob os meus pés.
+
+[[v10-22-40]]
+
+^<<v10-22-40,40>>^ E tu me cingirás de energia vital para a batalha;
+Farás tombar debaixo de mim os que se levantam contra mim.
+
+[[v10-22-41]]
+
+^<<v10-22-41,41>>^ E quanto aos meus inimigos, certamente me darás a [sua] cerviz;
+Os que me odeiam intensamente — eu também os silenciarei.
+
+[[v10-22-42]]
+
+^<<v10-22-42,42>>^ Gritam por ajuda, mas não há salvador;
+A Jeová, mas ele realmente não lhes responde.
+
+[[v10-22-43]]
+
+^<<v10-22-43,43>>^ Eu os esmiuçarei [até ficarem] iguais ao pó da terra;
+Como a lama das ruas os pulverizarei;
+Eu os achatarei.
+
+[[v10-22-44]]
+
+^<<v10-22-44,44>>^ E tu me porás a salvo da crítica do meu povo.
+Resguardar-me-ás para ser cabeça de nações;
+Um povo que não conheci — estes me servirão.
+
+[[v10-22-45]]
+
+^<<v10-22-45,45>>^ Os próprios estrangeiros virão a mim servilmente;
+Os ouvidos serão obedientes para me ouvir.
+
+[[v10-22-46]]
+
+^<<v10-22-46,46>>^ Os próprios estrangeiros^&#42;1^ se desvanecerão,
+E sairão trêmulos dos seus baluartes.
+
+[NOTE]
+====
+. Lit.: “filhos dum (país) estrangeiro”.
+====
+
+[[v10-22-47]]
+
+^<<v10-22-47,47>>^ Jeová vive; e bendita seja a minha Rocha;
+E enalteça-se ao Deus da rocha da minha salvação.
+
+[[v10-22-48]]
+
+^<<v10-22-48,48>>^ O [verdadeiro] Deus é Aquele que me dá atos de vingança,
+E Aquele que me submete os povos,
+
+[[v10-22-49]]
+
+^<<v10-22-49,49>>^ E Aquele que me tira dentre os meus inimigos.
+E tu me erguerás acima dos que se levantam contra mim;
+Livrar-me-ás do homem de atos violentos.
+
+[[v10-22-50]]
+
+^<<v10-22-50,50>>^ É por isso que te agradecerei, ó Jeová, entre as nações;
+E ao teu nome entoarei melodias:
+
+[[v10-22-51]]
+
+^<<v10-22-51,51>>^ Aquele que faz grandes atos de salvação para o seu rei
+E usa de benevolência^&#42;1^ para com o seu ungido,^&#42;2^
+Para com Davi e para com a sua descendência^&#42;3^ por tempo indefinido.”
+
+[NOTE]
+====
+. Ou “amor leal”.
+. “Para com o seu ungido.” Hebr.: lim·shi·hhóh; gr.: khri·stoí; sir.: lam·shi·hheh; lat.: chrí·sto.
+. Ou “prole; posteridade”.
+====
+
+'''
+
+xref:010-2-samuel/010-2-samuel-021.adoc#v10-21-0[&#60; Capítulo Anterior] | <<v10-22-0,Topo>> | xref:010-2-samuel/010-2-samuel-023.adoc#v10-23-0[Próximo Capítulo &#62;]

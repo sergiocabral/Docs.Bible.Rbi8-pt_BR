@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v19-44-0]]
+=== Salmos, 44
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Dos filhos de Corá. Masquil.^&#42;1^_
+
+[[v19-44-1]]
+
+^<<v19-44-1,1>>^ Ó Deus, ouvimos com os nossos ouvidos,
+Nossos próprios antepassados nos narraram
+A atividade que realizaste nos seus dias,
+Nos dias de outrora.
+
+[[v19-44-2]]
+
+^<<v19-44-2,2>>^ Tu mesmo, com a tua mão, desalojaste até mesmo nações,
+E passaste a plantá-los [em seu lugar].
+Foste quebrantar grupos nacionais e os mandavas embora.
+
+[[v19-44-3]]
+
+^<<v19-44-3,3>>^ Pois, não foi pela sua própria espada que tomaram posse do país,
+E não foi o seu próprio braço que lhes trouxe a salvação.
+Porque foi a tua direita, e o teu braço, e a luz da tua face,
+Pois tiveste prazer neles.
+
+[[v19-44-4]]
+
+^<<v19-44-4,4>>^ Tu mesmo és o meu Rei, ó Deus.
+Ordena a tua grandiosa salvação^&#42;1^ para Jacó.
+
+[NOTE]
+====
+. Veja 42:5 n.: “salvação”.
+====
+
+[[v19-44-5]]
+
+^<<v19-44-5,5>>^ Por meio de ti marraremos os próprios adversários nossos;
+Em teu nome calcaremos os que se levantarem contra nós.
+
+[[v19-44-6]]
+
+^<<v19-44-6,6>>^ Porque eu não estava confiando no meu arco,
+E não era a minha espada que me salvava.
+
+[[v19-44-7]]
+
+^<<v19-44-7,7>>^ Pois tu nos salvaste dos nossos adversários
+E envergonhaste os que nos odiavam intensamente.
+
+[[v19-44-8]]
+
+^<<v19-44-8,8>>^ Em Deus ofereceremos louvor o dia inteiro,
+E elogiaremos o teu nome por tempo indefinido. Selá.
+
+[[v19-44-9]]
+
+^<<v19-44-9,9>>^ Mas agora [nos] deitaste fora e nos estás humilhando,
+E não sais com os nossos exércitos.
+
+[[v19-44-10]]
+
+^<<v19-44-10,10>>^ Tu nos fazes recuar diante do adversário,
+E os próprios que nos odeiam intensamente rapinaram para si.
+
+[[v19-44-11]]
+
+^<<v19-44-11,11>>^ Tu nos entregas como ovelhas, como algo para comer,
+E nos espalhaste entre as nações.
+
+[[v19-44-12]]
+
+^<<v19-44-12,12>>^ Vendes o teu povo por valor algum,
+E não fizeste fortuna com o preço deles.
+
+[[v19-44-13]]
+
+^<<v19-44-13,13>>^ Tu nos pões por vitupério aos nossos vizinhos,
+Por caçoada e troça aos que estão em volta de nós.
+
+[[v19-44-14]]
+
+^<<v19-44-14,14>>^ Tu nos pões por expressão proverbial entre as nações,
+Por meneio de cabeça entre os grupos nacionais.
+
+[[v19-44-15]]
+
+^<<v19-44-15,15>>^ O dia inteiro está diante de mim a minha humilhação,
+E a vergonha da minha própria face me cobriu,
+
+[[v19-44-16]]
+
+^<<v19-44-16,16>>^ Devido à voz daquele que vitupera e fala de modo ultrajante,
+Por causa do inimigo e daquele que se vinga.
+
+[[v19-44-17]]
+
+^<<v19-44-17,17>>^ Tudo isso é o que veio sobre nós, e nós não te esquecemos,
+E não agimos com falsidade no teu pacto.
+
+[[v19-44-18]]
+
+^<<v19-44-18,18>>^ Nosso coração não tornou atrás sem fé,
+Nem se apartam os nossos passos da tua vereda.
+
+[[v19-44-19]]
+
+^<<v19-44-19,19>>^ Pois tu nos quebrantaste no lugar dos chacais,
+E nos encobres com sombra tenebrosa.
+
+[[v19-44-20]]
+
+^<<v19-44-20,20>>^ Se tivermos esquecido o nome de nosso Deus^&#42;1^
+Ou tivermos estendido as palmas das nossas mãos a um deus^&#42;2^ estranho,
+
+[NOTE]
+====
+. “Nosso Deus.” Hebr.: ’Elo·héh·nu.
+. “A um deus.” Hebr.: le’él.
+====
+
+[[v19-44-21]]
+
+^<<v19-44-21,21>>^ Não o descobrirá o próprio Deus?
+Pois ele se apercebe dos segredos do coração.
+
+[[v19-44-22]]
+
+^<<v19-44-22,22>>^ Mas por tua causa temos sido mortos o dia inteiro;
+Temos sido considerados como ovelhas para o abate.
+
+[[v19-44-23]]
+
+^<<v19-44-23,23>>^ Desperta deveras. Por que continuas dormindo, ó Jeová?^&#42;1^
+Acorda deveras. Não continues a [nos] deitar fora para sempre.
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+[[v19-44-24]]
+
+^<<v19-44-24,24>>^ Por que é que manténs escondida a tua face?
+Por que te esqueces de nossa tribulação e de nossa opressão?
+
+[[v19-44-25]]
+
+^<<v19-44-25,25>>^ Porque a nossa alma se curvou^&#42;1^ até o próprio pó;
+Nosso ventre se apegou à própria terra.
+
+[NOTE]
+====
+. “Se derreteu (desvaneceu)”, mediante outra derivação do verbo hebr.
+====
+
+[[v19-44-26]]
+
+^<<v19-44-26,26>>^ Levanta-te deveras em nosso auxílio
+E redime-nos por causa da tua benevolência.
+
+'''
+
+xref:019-salmo/019-salmo-043.adoc#v19-43-0[&#60; Capítulo Anterior] | <<v19-44-0,Topo>> | xref:019-salmo/019-salmo-045.adoc#v19-45-0[Próximo Capítulo &#62;]

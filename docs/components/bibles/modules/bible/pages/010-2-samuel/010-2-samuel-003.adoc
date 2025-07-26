@@ -1,0 +1,185 @@
+include::./index.adoc[]
+
+[[v10-3-0]]
+=== 2 Samuel, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v10-3-1]]
+
+^<<v10-3-1,1>>^ E a guerra entre a casa de Saul e a casa de Davi ficou muito prolongada; e Davi se ia fortalecendo e a casa de Saul se ia declinando cada vez mais.
+
+[[v10-3-2]]
+
+^<<v10-3-2,2>>^ Entrementes nasceram filhos a Davi em Hébron, e seu primogênito veio a ser Amnom, por Ainoã, a jezreelita.
+
+[[v10-3-3]]
+
+^<<v10-3-3,3>>^ E seu segundo foi Quileabe, por Abigail, esposa de Nabal, o carmelita, e o terceiro foi Absalão, filho de Maacá, filha de Talmai, rei de Gesur.
+
+[[v10-3-4]]
+
+^<<v10-3-4,4>>^ E o quarto foi Adonias, filho de Hagite, e o quinto foi Sefatias, filho de Abital.
+
+[[v10-3-5]]
+
+^<<v10-3-5,5>>^ E o sexto foi Itreão, por Eglá, esposa de Davi. Estes foram os que nasceram a Davi em Hébron.
+
+[[v10-3-6]]
+
+^<<v10-3-6,6>>^ E sucedeu que, enquanto havia guerra entre a casa de Saul e a casa de Davi, o próprio Abner fortalecia constantemente a sua posição na casa de Saul.
+
+[[v10-3-7]]
+
+^<<v10-3-7,7>>^ Ora, Saul havia tido uma concubina cujo nome era Rispa, filha de Aiá. Mais tarde, Is-Bosete^&#42;1^ disse a Abner: “Por que foi que tiveste relações com a concubina de meu pai?”
+
+[NOTE]
+====
+. “Is-Bosete”, LXXBagsterSyVg; M: “ele”.
+====
+
+[[v10-3-8]]
+
+^<<v10-3-8,8>>^ E Abner ficou muito irado com as palavras de Is-Bosete e passou a dizer: “Sou eu a cabeça dum cão que pertence a Judá? Eu uso hoje de benevolência para com a casa de Saul, teu pai, para com os seus irmãos e seus amigos pessoais, e não te deixei achar-te na mão de Davi; e ainda assim me chamas hoje às contas por causa dum erro referente a uma mulher.
+
+[[v10-3-9]]
+
+^<<v10-3-9,9>>^ Assim faça Deus a Abner e assim lhe acrescente mais, se não for assim como Jeová jurou a Davi que eu farei com ele,
+
+[[v10-3-10]]
+
+^<<v10-3-10,10>>^ transferindo o reino da casa de Saul e estabelecendo o trono de Davi sobre Israel e sobre Judá, desde Dã até Berseba.”
+
+[[v10-3-11]]
+
+^<<v10-3-11,11>>^ E ele não pôde dizer mais nenhuma palavra em resposta a Abner, porque tinha medo dele.
+
+[[v10-3-12]]
+
+^<<v10-3-12,12>>^ Conseqüentemente, Abner enviou mensageiros a Davi, no lugar, dizendo: “A quem pertence o país?” acrescentando: “Conclui deveras comigo o teu pacto, e eis que a minha mão estará contigo para fazer todo o Israel voltar-se para o teu lado.”
+
+[[v10-3-13]]
+
+^<<v10-3-13,13>>^ A isto ele disse: “Está bem! Eu mesmo concluirei contigo um pacto. Há somente uma coisa que te peço, dizendo: ‘Não poderás ver a minha face sem que primeiro tragas Mical, filha de Saul, quando vieres para ver a minha face.’”
+
+[[v10-3-14]]
+
+^<<v10-3-14,14>>^ Além disso, Davi enviou mensageiros a Is-Bosete, filho de Saul, dizendo: “Entrega-me deveras a minha esposa Mical, com quem me desposei por cem prepúcios dos filisteus.”
+
+[[v10-3-15]]
+
+^<<v10-3-15,15>>^ Assim, Is-Bosete mandou trazê-la de seu esposo,^&#42;1^ Paltiel,^&#42;2^ filho de Laís.
+
+[NOTE]
+====
+. “Seu esposo”, LXXSyVg; M: “um homem”.
+. “Palti” em 1Sa 25:44.
+====
+
+[[v10-3-16]]
+
+^<<v10-3-16,16>>^ Mas, seu esposo andava com ela, chorando ao andar atrás dela até Baurim. Abner disse-lhe então: “Vai, volta!” Então voltou.
+
+[[v10-3-17]]
+
+^<<v10-3-17,17>>^ Entrementes, Abner fora comunicar-se com os anciãos de Israel, dizendo: “Tanto ontem como anteriormente mostrastes buscar Davi como rei sobre vós.
+
+[[v10-3-18]]
+
+^<<v10-3-18,18>>^ E agora agi, porque o próprio Jeová disse a Davi: ‘Pela mão de Davi, meu servo, salvarei meu povo Israel da mão dos filisteus e da mão de todos os seus inimigos.’”
+
+[[v10-3-19]]
+
+^<<v10-3-19,19>>^ Então Abner falou também aos ouvidos de Benjamim, falando Abner depois também aos ouvidos de Davi, em Hébron, tudo o que era bom aos olhos de Israel e aos olhos de toda a casa de Benjamim.
+
+[[v10-3-20]]
+
+^<<v10-3-20,20>>^ Quando Abner veio a Davi, a Hébron, e com ele vinte homens, Davi passou a fazer um banquete para Abner e para os homens que estavam com ele.
+
+[[v10-3-21]]
+
+^<<v10-3-21,21>>^ Abner disse então a Davi: “Deixa-me levantar-me e ir, e reunir todo o Israel ao meu senhor, o rei, para que concluam contigo um pacto, e tu hás de tornar-te rei sobre tudo o que a tua alma almejar.” Portanto, Davi mandou Abner embora e ele se foi em paz.
+
+[[v10-3-22]]
+
+^<<v10-3-22,22>>^ E eis que vinham os servos de Davi e Joabe duma incursão, e era abundante o despojo que traziam consigo. Quanto a Abner, não estava com Davi em Hébron, pois o havia mandado embora e ia-se em paz.
+
+[[v10-3-23]]
+
+^<<v10-3-23,23>>^ E entraram Joabe e todo o exército que estava com ele, e informaram então a Joabe, dizendo: “Abner, filho de Ner, chegou ao rei e este passou a mandá-lo embora, e ele se vai em paz.”
+
+[[v10-3-24]]
+
+^<<v10-3-24,24>>^ Portanto, Joabe entrou até o rei e disse: “Que fizeste? Eis que Abner veio ter contigo. Por que é que o mandaste embora de modo que se vai bem sucedido?
+
+[[v10-3-25]]
+
+^<<v10-3-25,25>>^ Bem conheces a Abner, filho de Ner,^&#42;1^ que ele veio para te lograr e para ficar sabendo a tua saída e a tua entrada, e para ficar sabendo tudo o que fazes.”
+
+[NOTE]
+====
+. “Mandaste-o embora para que fosse em paz? (25) Ou realmente não conheces a maldade de Abner, filho de Ner?”, LXX.
+====
+
+[[v10-3-26]]
+
+^<<v10-3-26,26>>^ Com isso Joabe saiu [da presença] de Davi e enviou mensageiros atrás de Abner, e eles o fizeram então voltar da cisterna de Sirá; e o próprio Davi não sabia de nada.
+
+[[v10-3-27]]
+
+^<<v10-3-27,27>>^ Quando Abner retornou a Hébron, então Joabe o conduziu para um lado, dentro do portão, para falar com ele reservadamente. No entanto, golpeou-o no abdome, de modo que morreu, por causa do sangue de Asael, seu irmão.
+
+[[v10-3-28]]
+
+^<<v10-3-28,28>>^ Quando Davi ouviu isso depois, disse imediatamente: “Eu e o meu reino, do ponto de vista de Jeová, somos inocentes por tempo indefinido da culpa de sangue por Abner, filho de Ner.
+
+[[v10-3-29]]
+
+^<<v10-3-29,29>>^ Recaia ela sobre a cabeça de Joabe e sobre a casa inteira de seu pai, e não seja decepado da casa de Joabe homem que tenha um fluxo, ou leproso, ou homem que agarre o fuso giratório, ou alguém que caia à espada, ou alguém que careça de pão!”
+
+[[v10-3-30]]
+
+^<<v10-3-30,30>>^ Quanto a Joabe e Abisai, seu irmão, mataram Abner pelo fato de que entregara à morte Asael, irmão deles, em Gibeão, na batalha.
+
+[[v10-3-31]]
+
+^<<v10-3-31,31>>^ Davi disse então a Joabe e a todo o povo que estava com ele: “Rasgai as vossas vestes e cingi-vos de saco, e lamentai diante de Abner.” Até mesmo o Rei Davi andava atrás do féretro.
+
+[[v10-3-32]]
+
+^<<v10-3-32,32>>^ E fizeram o enterro de Abner em Hébron; e o rei começou a levantar a sua voz e a chorar junto à sepultura de Abner, e todo o povo se entregou ao choro.
+
+[[v10-3-33]]
+
+^<<v10-3-33,33>>^ E o rei prosseguiu, entoando um canto fúnebre por Abner e dizendo:
+“Teria Abner a morte dum insensato?
+
+[[v10-3-34]]
+
+^<<v10-3-34,34>>^ Tuas mãos não estavam amarradas,
+E teus pés não tinham sido postos em grilhões de cobre.
+Caíste como quem cai diante dos filhos da injustiça.”
+Nisso todo o povo chorou novamente por ele.
+
+[[v10-3-35]]
+
+^<<v10-3-35,35>>^ Mais tarde, todo povo chegou para dar a Davi pão para consolo, ainda no mesmo dia, mas Davi jurou, dizendo: “Assim me faça Deus e assim lhe acrescente mais, se eu saborear pão ou qualquer outra coisa antes de se pôr o sol!”
+
+[[v10-3-36]]
+
+^<<v10-3-36,36>>^ E o povo todo notava isso, e era bom aos seus olhos. Igual a tudo o que o rei fazia, era bom aos olhos de todo o povo.
+
+[[v10-3-37]]
+
+^<<v10-3-37,37>>^ E todo povo e todo o Israel ficaram sabendo naquele dia que não se originara do rei fazer que Abner, filho de Ner, fosse morto.
+
+[[v10-3-38]]
+
+^<<v10-3-38,38>>^ E o rei prosseguiu, dizendo aos seus servos: “Não sabeis que foi um príncipe e um grande homem que neste dia caiu em Israel?
+
+[[v10-3-39]]
+
+^<<v10-3-39,39>>^ E eu hoje sou fraco, embora ungido rei, e estes homens, os filhos de Zeruia, são severos demais para mim. Retribua Jeová ao que fez o mal, segundo a sua própria maldade.”
+
+'''
+
+xref:010-2-samuel/010-2-samuel-002.adoc#v10-2-0[&#60; Capítulo Anterior] | <<v10-3-0,Topo>> | xref:010-2-samuel/010-2-samuel-004.adoc#v10-4-0[Próximo Capítulo &#62;]

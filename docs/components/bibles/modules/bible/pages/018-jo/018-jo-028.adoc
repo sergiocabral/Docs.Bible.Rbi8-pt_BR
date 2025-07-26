@@ -1,0 +1,219 @@
+include::./index.adoc[]
+
+[[v18-28-0]]
+=== Jó, 28
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-28-1]]
+
+^<<v18-28-1,1>>^ “Deveras, há um lugar para se achar prata
+E um lugar para o ouro que se refina;
+
+[[v18-28-2]]
+
+^<<v18-28-2,2>>^ O ferro mesmo é tirado do próprio pó,
+E [da] pedra se funde o cobre.
+
+[[v18-28-3]]
+
+^<<v18-28-3,3>>^ Ele pôs fim à escuridão;
+E esquadrinha em todos os limites
+A pedra nas trevas e na sombra tenebrosa.
+
+[[v18-28-4]]
+
+^<<v18-28-4,4>>^ Abriu um poço de mina longe de onde residem [pessoas] como forasteiros,
+Lugares esquecidos, longe do pé;
+Alguns dos homens mortais^&#42;1^ desceram suspensos, ficaram balançando.
+
+[NOTE]
+====
+. “Alguns dos homens mortais.” Hebr.: me·’enóhsh.
+====
+
+[[v18-28-5]]
+
+^<<v18-28-5,5>>^ Quanto à terra, dela procede o alimento;
+Mas por baixo, ela foi revirada como que por fogo.
+
+[[v18-28-6]]
+
+^<<v18-28-6,6>>^ Suas pedras são o lugar da safira,
+E tem pó de ouro.
+
+[[v18-28-7]]
+
+^<<v18-28-7,7>>^ Uma senda — nenhuma ave de rapina a conheceu,
+Nem a avistou o olho do milhafre-preto.
+
+[[v18-28-8]]
+
+^<<v18-28-8,8>>^ Não a pisaram as feras majestosas;^&#42;1^
+Nem a percorreu o leãozinho,
+
+[NOTE]
+====
+. Lit.: “os filhos do orgulho (da dignidade)”.
+====
+
+[[v18-28-9]]
+
+^<<v18-28-9,9>>^ Ele estendeu a mão sobre a pederneira;
+Subverteu montes desde a [sua] raiz;
+
+[[v18-28-10]]
+
+^<<v18-28-10,10>>^ Dentro das rochas canalizou galerias cheias de água,
+E seu olho viu todas as coisas preciosas.
+
+[[v18-28-11]]
+
+^<<v18-28-11,11>>^ Represou os lugares donde escorreram os rios
+E traz à luz a coisa oculta.
+
+[[v18-28-12]]
+
+^<<v18-28-12,12>>^ Mas a sabedoria — onde pode ser achada,
+E onde, então, é o lugar da compreensão?
+
+[[v18-28-13]]
+
+^<<v18-28-13,13>>^ O homem mortal não veio a conhecer o seu valor,^&#42;1^
+E ela não é encontrada na terra dos viventes.
+
+[NOTE]
+====
+. “Valor”, MSyVg; LXX: “caminho”.
+====
+
+[[v18-28-14]]
+
+^<<v18-28-14,14>>^ A própria água de profundeza^&#42;1^ disse:
+‘Não está em mim!’
+Também o mar disse: ‘Não está comigo!’
+
+[NOTE]
+====
+. Ou “águas empoladas”. Hebr.: tehóhm, como em Gên 1:2; gr.: á·bys·sos; lat.: a·býs·sus.
+====
+
+[[v18-28-15]]
+
+^<<v18-28-15,15>>^ Não se pode dar por ela ouro puro
+E não se pode pesar prata como seu preço.
+
+[[v18-28-16]]
+
+^<<v18-28-16,16>>^ Não pode ser paga com ouro^&#42;1^ de Ofir,
+Com a rara pedra de ônix, nem com a safira.
+
+[NOTE]
+====
+. “Com ouro.” Hebr.: bekhé·them, um estrangeirismo egípcio.
+====
+
+[[v18-28-17]]
+
+^<<v18-28-17,17>>^ Ouro^&#42;1^ e vidro não podem ser comparados com ela,
+Nem é qualquer vaso de ouro refinado alguma troca por ela.
+
+[NOTE]
+====
+. “Ouro.” Hebr.: za·háv.
+====
+
+[[v18-28-18]]
+
+^<<v18-28-18,18>>^ Os próprios corais e o cristal de rocha nem se mencionarão,
+Mas uma bolsa cheia de sabedoria vale mais do que [uma de] pérolas.
+
+[[v18-28-19]]
+
+^<<v18-28-19,19>>^ O topázio de Cus^&#42;1^ não pode ser comparado com ela;
+Ela não pode ser paga nem mesmo com o ouro na sua pureza.
+
+[NOTE]
+====
+. “Cus”, M(hebr.: Kush)Sy; LXXVg: “Etiópia”.
+====
+
+[[v18-28-20]]
+
+^<<v18-28-20,20>>^ Mas a própria sabedoria — donde vem,
+E onde, então, é o lugar da compreensão?
+
+[[v18-28-21]]
+
+^<<v18-28-21,21>>^ Foi ocultada mesmo dos olhos de qualquer vivente
+E foi escondida das criaturas voadoras dos céus.
+
+[[v18-28-22]]
+
+^<<v18-28-22,22>>^ A destruição^&#42;1^ e a morte é que disseram:
+‘Com os nossos ouvidos ouvimos notícias dela.’
+
+[NOTE]
+====
+. “Destruição.” Hebr.: ’avad·dóhn. Veja 26:6 n.
+====
+
+[[v18-28-23]]
+
+^<<v18-28-23,23>>^ Deus^&#42;1^ é quem entendeu os seus caminhos,
+E ele mesmo sabia seu lugar,
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím.
+====
+
+[[v18-28-24]]
+
+^<<v18-28-24,24>>^ Pois ele mesmo olha até as próprias extremidades da terra;
+Vê debaixo dos céus inteiros,^&#42;1^
+
+[NOTE]
+====
+. “Debaixo dos céus inteiros”, MSy; LXXVg: “tudo debaixo dos céus”.
+====
+
+[[v18-28-25]]
+
+^<<v18-28-25,25>>^ Para fazer um peso para o vento,^&#42;1^
+Ao passo que proporcionou as próprias águas por medida;
+
+[NOTE]
+====
+. “Para o vento.” Hebr.: la·rú·ahh; gr.: a·né·mon, pl.; lat.: vén·tis, pl.
+====
+
+[[v18-28-26]]
+
+^<<v18-28-26,26>>^ Quando fez um regulamento para a chuva
+E um caminho para a trovejante nuvem de temporal,
+
+[[v18-28-27]]
+
+^<<v18-28-27,27>>^ Então ele viu [a sabedoria]^&#42;1^ e passou a falar sobre ela;
+Ele a preparou e também a esquadrinhou.
+
+[NOTE]
+====
+. Lit.: “a ela”, hebr. fem., referindo-se à sabedoria.
+====
+
+[[v18-28-28]]
+
+^<<v18-28-28,28>>^ E prosseguiu, dizendo ao homem:^&#42;1^
+‘Eis o temor de Jeová^&#42;2^ — isso é sabedoria,
+E desviar-se do mal é compreensão.’”
+
+[NOTE]
+====
+. Ou “ao homem terreno”. Hebr.: la·’a·dhám.
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+====
+
+'''
+
+xref:018-jo/018-jo-027.adoc#v18-27-0[&#60; Capítulo Anterior] | <<v18-28-0,Topo>> | xref:018-jo/018-jo-029.adoc#v18-29-0[Próximo Capítulo &#62;]

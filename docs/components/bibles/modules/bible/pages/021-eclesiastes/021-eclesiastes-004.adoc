@@ -1,0 +1,88 @@
+include::./index.adoc[]
+
+[[v21-4-0]]
+=== Eclesiastes, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v21-4-1]]
+
+^<<v21-4-1,1>>^ E eu mesmo retornei, a fim de ver todos os atos de opressão que se praticam debaixo do sol, e eis as lágrimas dos oprimidos, mas eles não tinham consolador; e do lado dos seus opressores havia poder, de modo que não tinham consolador.
+
+[[v21-4-2]]
+
+^<<v21-4-2,2>>^ E congratulei os mortos que já tinham morrido, em vez de os vivos que ainda viviam.
+
+[[v21-4-3]]
+
+^<<v21-4-3,3>>^ Portanto, melhor do que ambos [é] aquele que ainda não veio a existir, que não viu o trabalho calamitoso que se faz debaixo do sol.
+
+[[v21-4-4]]
+
+^<<v21-4-4,4>>^ E eu mesmo vi todo o trabalho árduo e toda a proficiência no trabalho, que significa rivalidade de um^&#42;1^ para com o outro; também isto é vaidade e um esforço para alcançar o vento.
+
+[NOTE]
+====
+. “Um.” Hebr.: ’ish.
+====
+
+[[v21-4-5]]
+
+^<<v21-4-5,5>>^ O estúpido cruza as mãos e come a sua própria carne.
+
+[[v21-4-6]]
+
+^<<v21-4-6,6>>^ Melhor é um punhado de descanso do que um punhado duplo de trabalho árduo e um esforço para alcançar o vento.
+
+[[v21-4-7]]
+
+^<<v21-4-7,7>>^ Eu mesmo retornei para ver a vaidade debaixo do sol:
+
+[[v21-4-8]]
+
+^<<v21-4-8,8>>^ Existe um, mas não há um segundo; tampouco tem ele filho ou irmão, mas não há fim de seu trabalho árduo. Também, os próprios olhos dele não se fartam de riquezas: “E para quem trabalho arduamente e faço a minha alma carecer de coisas boas?” Também isto é vaidade e é uma ocupação calamitosa.
+
+[[v21-4-9]]
+
+^<<v21-4-9,9>>^ Melhor dois do que um, porque eles têm boa recompensa pelo seu trabalho árduo.
+
+[[v21-4-10]]
+
+^<<v21-4-10,10>>^ Pois, se um deles cair, o outro pode levantar seu associado. Mas, como será com apenas aquele um^&#42;1^ que cai, não havendo outro para levantá-lo?
+
+[NOTE]
+====
+. Ou: “Mas ai de apenas aquele um!”
+====
+
+[[v21-4-11]]
+
+^<<v21-4-11,11>>^ Ademais, se dois se deitarem juntos, então certamente se aquecerão; mas, como pode apenas um manter-se aquecido?
+
+[[v21-4-12]]
+
+^<<v21-4-12,12>>^ E se alguém levar de vencida a um que está só, dois juntos poderiam manter-se de pé contra ele. E um cordão tríplice não pode ser prontamente rompido em dois.
+
+[[v21-4-13]]
+
+^<<v21-4-13,13>>^ Melhor é o filho necessitado, mas sábio, do que um rei velho, mas estúpido, que não veio saber o bastante para ser ainda avisado.
+
+[[v21-4-14]]
+
+^<<v21-4-14,14>>^ Pois ele saiu da própria casa dos presos para tornar-se rei, embora no reinado deste ele tenha nascido como alguém de poucos meios.
+
+[[v21-4-15]]
+
+^<<v21-4-15,15>>^ Vi todos os vivos que estão andando debaixo do sol, [como vai] ao filho que é o segundo, que se põe de pé no lugar do outro.
+
+[[v21-4-16]]
+
+^<<v21-4-16,16>>^ Não há fim de todo o povo, de todos os diante dos quais ele^&#42;1^ vem a estar; nem se alegrarão depois as pessoas com ele, porque também isto é vaidade e um esforço para alcançar o vento.
+
+[NOTE]
+====
+. Ou “eles”, isto é, os do “povo”.
+====
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-003.adoc#v21-3-0[&#60; Capítulo Anterior] | <<v21-4-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-005.adoc#v21-5-0[Próximo Capítulo &#62;]

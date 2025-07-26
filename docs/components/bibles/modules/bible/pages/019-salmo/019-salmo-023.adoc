@@ -1,0 +1,60 @@
+include::./index.adoc[]
+
+[[v19-23-0]]
+=== Salmos, 23
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Uma melodia de Davi._
+
+[[v19-23-1]]
+
+^<<v19-23-1,1>>^ Jeová é o meu Pastor.
+Nada me faltará.
+
+[[v19-23-2]]
+
+^<<v19-23-2,2>>^ Ele me faz deitar em pastagens relvosas;
+Conduz-me junto a lugares de descanso bem regados.
+
+[[v19-23-3]]
+
+^<<v19-23-3,3>>^ Refrigera a minha alma.
+Guia-me nos trilhos da justiça por causa do seu nome.
+
+[[v19-23-4]]
+
+^<<v19-23-4,4>>^ Ainda que eu ande pelo vale da sombra tenebrosa,^&#42;1^
+Não temerei mal nenhum,
+Porque tu estás comigo;
+Tua vara e teu bastão são as coisas que me consolam.
+
+[NOTE]
+====
+. Ou “vale da sombra da morte”.
+====
+
+[[v19-23-5]]
+
+^<<v19-23-5,5>>^ Aprontas diante de mim uma mesa perante os que me são hostis.
+Untaste-me a cabeça com óleo;
+Meu copo está bem cheio.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “é a própria saturação”.
+====
+
+[[v19-23-6]]
+
+^<<v19-23-6,6>>^ Decerto, a própria bondade e benevolência^&#42;1^ estarão no meu encalço todos os dias da minha vida;
+E eu vou morar^&#42;2^ na casa de Jeová pela longura dos dias.
+
+[NOTE]
+====
+. Ou “amor leal”.
+. “Vou morar”, TSyVg.
+====
+
+'''
+
+xref:019-salmo/019-salmo-022.adoc#v19-22-0[&#60; Capítulo Anterior] | <<v19-23-0,Topo>> | xref:019-salmo/019-salmo-024.adoc#v19-24-0[Próximo Capítulo &#62;]

@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v19-132-0]]
+=== Salmos, 132
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Cântico das Subidas._
+
+[[v19-132-1]]
+
+^<<v19-132-1,1>>^ Lembra-te, ó Jeová, com respeito a Davi,
+De todas as suas humilhações;
+
+[[v19-132-2]]
+
+^<<v19-132-2,2>>^ Como ele jurou a Jeová.
+Como ele votou ao Poderoso de Jacó:
+
+[[v19-132-3]]
+
+^<<v19-132-3,3>>^ “Não vou entrar na tenda da minha casa.
+Não vou subir ao divã do meu grandioso leito de repouso,
+
+[[v19-132-4]]
+
+^<<v19-132-4,4>>^ Não vou dar sono aos meus olhos,
+Nem cochilo aos meus próprios olhos radiantes,
+
+[[v19-132-5]]
+
+^<<v19-132-5,5>>^ Até eu achar um lugar para Jeová,
+Um grandioso tabernáculo^&#42;1^ para o Poderoso de Jacó.”
+
+[NOTE]
+====
+. Ou “uma grandiosa residência”. Lit.: “tabernáculos”, mas no pl. para denotar excelência.
+====
+
+[[v19-132-6]]
+
+^<<v19-132-6,6>>^ Eis que o ouvimos em Efrata,
+Achamo-lo nos campos da floresta.
+
+[[v19-132-7]]
+
+^<<v19-132-7,7>>^ Entremos no seu grandioso tabernáculo;
+Curvemo-nos junto ao seu escabelo.
+
+[[v19-132-8]]
+
+^<<v19-132-8,8>>^ Levanta-te deveras, ó Jeová, ao teu lugar de descanso,
+Tu e a Arca da tua força.
+
+[[v19-132-9]]
+
+^<<v19-132-9,9>>^ Vistam-se os teus próprios sacerdotes com justiça
+E gritem de júbilo os teus que te são leais.
+
+[[v19-132-10]]
+
+^<<v19-132-10,10>>^ Por causa de Davi, teu servo,
+Não faças recuar a face do teu ungido.^&#42;1^
+
+[NOTE]
+====
+. “Teu ungido.” Hebr.: meshi·hhé·kha; gr.: khri·stoú; sir.: meshi·hhakh; lat.: chrí·sti.
+====
+
+[[v19-132-11]]
+
+^<<v19-132-11,11>>^ Jeová jurou a Davi,
+Verdadeiramente, ele não recuará disso:^&#42;1^
+“Do fruto do teu ventre
+Porei sobre o teu trono.
+
+[NOTE]
+====
+. Ou “uma verdade da qual ele não recuará”.
+====
+
+[[v19-132-12]]
+
+^<<v19-132-12,12>>^ Se teus filhos guardarem meu pacto
+E minhas advertências que lhes ensinarei,
+Então os filhos deles, para todo o sempre,
+Sentar-se-ão sobre o teu trono.”
+
+[[v19-132-13]]
+
+^<<v19-132-13,13>>^ Pois Jeová escolheu a Sião;
+Almejou-a^&#42;1^ como morada para si mesmo:
+
+[NOTE]
+====
+. Hebr. fem. “-a”, referindo-se a “Sião”.
+====
+
+[[v19-132-14]]
+
+^<<v19-132-14,14>>^ “Este é meu lugar de descanso para todo o sempre;
+Ali morarei, pois o almejei.
+
+[[v19-132-15]]
+
+^<<v19-132-15,15>>^ Sem falta abençoarei as suas^&#42;1^ provisões.
+Seus pobres fartarei de pão.^&#42;2^
+
+[NOTE]
+====
+. Veja v. 13 n.
+. Ou “alimento”.
+====
+
+[[v19-132-16]]
+
+^<<v19-132-16,16>>^ E seus sacerdotes vestirei de salvação;
+E os que lhe são leais sem falta gritarão de júbilo.
+
+[[v19-132-17]]
+
+^<<v19-132-17,17>>^ Ali farei crescer o chifre de Davi.
+Pus em ordem uma lâmpada para o meu ungido.^&#42;1^
+
+[NOTE]
+====
+. “Para o meu ungido.” Hebr.: lim·shi·hhí; gr.: khri·stoí; sir.: lam·shi·hheh; lat.: chrí·sto.
+====
+
+[[v19-132-18]]
+
+^<<v19-132-18,18>>^ A seus inimigos eu vestirei de vergonha;
+Mas sobre ele florirá^&#42;1^ seu diadema.”
+
+[NOTE]
+====
+. Ou “brotará flores”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-131.adoc#v19-131-0[&#60; Capítulo Anterior] | <<v19-132-0,Topo>> | xref:019-salmo/019-salmo-133.adoc#v19-133-0[Próximo Capítulo &#62;]

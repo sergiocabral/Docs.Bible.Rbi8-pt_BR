@@ -1,0 +1,208 @@
+include::./index.adoc[]
+
+[[v4-15-0]]
+=== Números, 15
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-15-1]]
+
+^<<v4-15-1,1>>^ E Jeová falou mais a Moisés, dizendo:
+
+[[v4-15-2]]
+
+^<<v4-15-2,2>>^ “Fala aos filhos de Israel, e tens de dizer-lhes: ‘Quando por fim entrardes na terra das vossas moradas, que vos estou dando,
+
+[[v4-15-3]]
+
+^<<v4-15-3,3>>^ e tiverdes de fazer uma oferta feita por fogo a Jeová, uma oferta queimada ou um sacrifício para cumprir um voto especial, ou voluntariamente,^&#42;1^ ou durante as vossas festividades periódicas, a fim de fazer um cheiro repousante para Jeová, dentre a manada ou dentre o rebanho,
+
+[NOTE]
+====
+. Lit.: “de livre-arbítrio”.
+====
+
+[[v4-15-4]]
+
+^<<v4-15-4,4>>^ aquele que apresentar a sua oferta terá de apresentar também a Jeová uma oferta de cereais de flor de farinha, de um décimo de um efa,^&#42;1^ umedecida com um quarto de um him de azeite.
+
+[NOTE]
+====
+. “Um décimo de um efa”, LXXVg; MSamSy: “um décimo”. Veja Ap. 8A.
+====
+
+[[v4-15-5]]
+
+^<<v4-15-5,5>>^ E deves ofertar vinho como oferta de bebida, o quarto de um him, junto com a oferta queimada ou para o sacrifício de cada cordeiro.
+
+[[v4-15-6]]
+
+^<<v4-15-6,6>>^ Ou para um carneiro, deves fazer uma oferta de cereais de dois décimos de flor de farinha umedecida com um terço de um him de azeite.
+
+[[v4-15-7]]
+
+^<<v4-15-7,7>>^ E deves apresentar vinho como oferta de bebida, um terço de um him, como cheiro repousante para Jeová.
+
+[[v4-15-8]]
+
+^<<v4-15-8,8>>^ “‘Mas, caso ofertes um macho da manada^&#42;1^ como oferta queimada ou como sacrifício para cumprir um voto especial, ou como sacrifício de participação em comum para Jeová,
+
+[NOTE]
+====
+. Lit.: “filho da manada”.
+====
+
+[[v4-15-9]]
+
+^<<v4-15-9,9>>^ tem de se apresentar também junto com o macho da manada uma oferta de cereais de três décimos de flor de farinha, umedecida com meio him de azeite.
+
+[[v4-15-10]]
+
+^<<v4-15-10,10>>^ E deves apresentar vinho como oferta de bebida, meio him, como oferta feita por fogo, de cheiro repousante para Jeová.
+
+[[v4-15-11]]
+
+^<<v4-15-11,11>>^ Assim deve ser feito para cada touro ou para cada carneiro, ou para um ovídeo dentre os cordeiros ou dentre os caprídeos.
+
+[[v4-15-12]]
+
+^<<v4-15-12,12>>^ Qualquer que seja o número que ofertardes, é assim que deveis fazer para cada um segundo o número deles.
+
+[[v4-15-13]]
+
+^<<v4-15-13,13>>^ Todo o natural deve ofertá-los deste modo ao apresentar uma oferta feita por fogo, de cheiro repousante para Jeová.
+
+[[v4-15-14]]
+
+^<<v4-15-14,14>>^ “‘E caso resida convosco um residente forasteiro ou alguém que esteja no vosso meio por gerações vossas e ele tenha de fazer uma oferta feita por fogo, de cheiro repousante para Jeová, [então] assim como vós deveis fazer, ele deve fazer.
+
+[[v4-15-15]]
+
+^<<v4-15-15,15>>^ Vós os que sois da congregação e o residente forasteiro residindo como forasteiro tereis um só estatuto. Será um estatuto por tempo indefinido para as vossas gerações. O residente forasteiro deve mostrar ser igual a vós^&#42;1^ perante Jeová.
+
+[NOTE]
+====
+. Lit.: “Igual a vós, igual ao residente forasteiro, ele deve mostrar ser.”
+====
+
+[[v4-15-16]]
+
+^<<v4-15-16,16>>^ Deve mostrar-se haver uma só lei e uma só decisão judicial para vós e para o residente forasteiro que reside convosco.’”
+
+[[v4-15-17]]
+
+^<<v4-15-17,17>>^ E Jeová prosseguiu falando a Moisés, dizendo:
+
+[[v4-15-18]]
+
+^<<v4-15-18,18>>^ “Fala aos filhos de Israel, e tens de dizer-lhes: ‘Quando entrardes na terra à qual vos levo,
+
+[[v4-15-19]]
+
+^<<v4-15-19,19>>^ então terá de acontecer que, quando comerdes do pão da terra, deveis fazer uma contribuição a Jeová.
+
+[[v4-15-20]]
+
+^<<v4-15-20,20>>^ Deveis fazer uma contribuição das primícias da vossa massa de farinha como bolos de forma anular. Semelhante à contribuição duma eira é que deveis contribuí-la.
+
+[[v4-15-21]]
+
+^<<v4-15-21,21>>^ Algumas das primícias da vossa massa de farinha deveis dar como contribuição a Jeová nas vossas gerações.
+
+[[v4-15-22]]
+
+^<<v4-15-22,22>>^ “‘Ora, caso cometais um engano e não cumprais todos estes mandamentos que Jeová falou a Moisés,
+
+[[v4-15-23]]
+
+^<<v4-15-23,23>>^ tudo o que Jeová vos ordenou por meio de Moisés, desde o dia em que Jeová [o] ordenou e daí em diante, para as vossas gerações,
+
+[[v4-15-24]]
+
+^<<v4-15-24,24>>^ então tem de acontecer que, se foi cometido longe dos olhos da assembléia, por engano, então a assembléia inteira tem de ofertar um novilho como oferta queimada de cheiro repousante para Jeová, bem como sua oferta de cereais e sua oferta de bebida, segundo o procedimento regular, e um cabritinho como oferta pelo pecado.
+
+[[v4-15-25]]
+
+^<<v4-15-25,25>>^ E o sacerdote tem de fazer expiação por toda a assembléia dos filhos de Israel, e tem de se lhes perdoar; porque foi engano, e eles, da sua parte, trouxeram como sua oferta uma oferta feita por fogo a Jeová e sua oferta pelo pecado perante Jeová, pelo seu engano.
+
+[[v4-15-26]]
+
+^<<v4-15-26,26>>^ E tem de ser perdoado a toda a assembléia dos filhos de Israel e ao residente forasteiro que reside no seu meio, porque foi um engano da parte de todo o povo.
+
+[[v4-15-27]]
+
+^<<v4-15-27,27>>^ “‘E se alguma alma pecar por engano, então terá de apresentar uma cabra no seu primeiro ano, como oferta pelo pecado.
+
+[[v4-15-28]]
+
+^<<v4-15-28,28>>^ E o sacerdote terá de fazer expiação pela alma que cometeu um engano por pecar sem querer perante Jeová, de modo a fazer expiação por ela, e terá de se lhe perdoar.
+
+[[v4-15-29]]
+
+^<<v4-15-29,29>>^ Quanto ao natural entre os filhos de Israel e o residente forasteiro que reside no seu meio, deve mostrar-se haver uma só lei para vós quanto a se fazer algo sem querer.
+
+[[v4-15-30]]
+
+^<<v4-15-30,30>>^ “‘Mas a alma que fizer algo deliberadamente,^&#42;1^ quer seja o natural quer o residente forasteiro, falando de modo ultrajante de Jeová, neste caso essa alma terá de ser decepada dentre seu povo.
+
+[NOTE]
+====
+. Lit.: “com mão erguida”, isto é, aberta, orgulhosa ou objetivamente.
+====
+
+[[v4-15-31]]
+
+^<<v4-15-31,31>>^ Porque desprezou a palavra de Jeová e violou seu mandamento, essa alma, sem falta, deve ser decepada. Seu próprio erro está sobre tal.’”
+
+[[v4-15-32]]
+
+^<<v4-15-32,32>>^ Enquanto os filhos de Israel continuavam no ermo, acharam certa vez um homem apanhando gravetos no dia de sábado.
+
+[[v4-15-33]]
+
+^<<v4-15-33,33>>^ Então os que o acharam apanhando gravetos trouxeram-no a Moisés e a Arão, e a toda a assembléia.
+
+[[v4-15-34]]
+
+^<<v4-15-34,34>>^ Puseram-no então em detenção, porque não se esclarecera o que se havia de fazer com ele.
+
+[[v4-15-35]]
+
+^<<v4-15-35,35>>^ Então, Jeová disse a Moisés: “O homem, sem falta, deve ser morto, toda a assembléia atirando^&#42;1^ nele pedras, fora do acampamento.”
+
+[NOTE]
+====
+. “Atirando.” No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo.
+====
+
+[[v4-15-36]]
+
+^<<v4-15-36,36>>^ Concordemente, a assembléia inteira levou-o para fora do acampamento e atirou nele pedras, de modo que morreu, assim como Jeová mandara a Moisés.
+
+[[v4-15-37]]
+
+^<<v4-15-37,37>>^ E Jeová prosseguiu, dizendo a Moisés o seguinte:
+
+[[v4-15-38]]
+
+^<<v4-15-38,38>>^ “Fala aos filhos de Israel, e tens de dizer-lhes que têm de fazer para si franjas nas abas das suas vestes, nas suas gerações, e têm de pôr um cordel azul por cima das franjas da aba:
+
+[[v4-15-39]]
+
+^<<v4-15-39,39>>^ ‘E tem de servir-vos de franja, e tendes de vê-la e lembrar-vos de todos os mandamentos de Jeová e cumpri-los, e não deveis estar seguindo os vossos corações e os vossos olhos, os quais estais seguindo em relações imorais.^&#42;1^
+
+[NOTE]
+====
+. Ou “cometendo fornicação”. Hebr.: zo·ním; lat.: for·ni·cán·tes.
+====
+
+[[v4-15-40]]
+
+^<<v4-15-40,40>>^ O objetivo é que vos lembreis e certamente cumprais todos os meus mandamentos, e deveras mostreis ser santos para com o vosso Deus.
+
+[[v4-15-41]]
+
+^<<v4-15-41,41>>^ Eu sou Jeová, vosso Deus, que vos fiz sair da terra do Egito, a fim de mostrar-me vosso Deus. Eu sou Jeová, vosso Deus.’”
+
+'''
+
+xref:004-numeros/004-numeros-014.adoc#v4-14-0[&#60; Capítulo Anterior] | <<v4-15-0,Topo>> | xref:004-numeros/004-numeros-016.adoc#v4-16-0[Próximo Capítulo &#62;]

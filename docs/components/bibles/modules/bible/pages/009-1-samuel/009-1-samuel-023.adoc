@@ -1,0 +1,189 @@
+include::./index.adoc[]
+
+[[v9-23-0]]
+=== 1 Samuel, 23
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-23-1]]
+
+^<<v9-23-1,1>>^ Passado tempo, vieram informar Davi, dizendo: “Eis que os filisteus estão guerreando contra Queila e estão rapinando as eiras.”
+
+[[v9-23-2]]
+
+^<<v9-23-2,2>>^ E Davi passou a indagar de Jeová, dizendo: “Devo ir e tenho de golpear estes filisteus?” Jeová, por sua vez, disse a Davi: “Vai, e tens de golpear os filisteus e salvar Queila.”
+
+[[v9-23-3]]
+
+^<<v9-23-3,3>>^ Em vista disso, os homens de Davi disseram-lhe: “Eis que estamos com medo aqui em Judá, e quanto mais se formos a Queila contra as fileiras combatentes dos filisteus!”
+
+[[v9-23-4]]
+
+^<<v9-23-4,4>>^ Portanto, Davi indagou mais uma vez de Jeová. Jeová respondeu-lhe então e disse: “Levanta-te, desce a Queila, porque entrego os filisteus na tua mão.”
+
+[[v9-23-5]]
+
+^<<v9-23-5,5>>^ Por conseguinte, Davi foi com os seus homens a Queila e lutou contra os filisteus, e conduziu embora seu gado, mas a eles golpeou com uma grande matança; e Davi veio a ser o salvador dos habitantes de Queila.
+
+[[v9-23-6]]
+
+^<<v9-23-6,6>>^ Ora, sucedeu que, fugindo Abiatar, filho de Aimeleque, a Davi, a Queila, descia na sua mão um éfode.^&#42;1^
+
+[NOTE]
+====
+. “Descia . . . um éfode”, M; T: “ele levou para baixo o éfode”.
+====
+
+[[v9-23-7]]
+
+^<<v9-23-7,7>>^ Com o tempo se comunicou a Saul: “Davi chegou a Queila.” E Saul começou a dizer: “Deus o vendeu^&#42;1^ à minha mão, pois ele se encerrou, entrando numa cidade com portas e tranca.”
+
+[NOTE]
+====
+. “Vendeu”, TLXX; M: “alienou (rejeitou)”; Vg, e pela alteração da primeira letra desta palavra no M: “entregou”.
+====
+
+[[v9-23-8]]
+
+^<<v9-23-8,8>>^ Portanto, Saul convocou todo o povo para a guerra, para descer a Queila, a fim de sitiar Davi e seus homens.
+
+[[v9-23-9]]
+
+^<<v9-23-9,9>>^ E Davi ficou sabendo que Saul projetava o mal contra ele. Por isso disse a Abiatar, o sacerdote: “Traze deveras o éfode para cá.”
+
+[[v9-23-10]]
+
+^<<v9-23-10,10>>^ E Davi prosseguiu, dizendo: “Ó Jeová, Deus de Israel, teu servo ouviu definitivamente que Saul procura vir a Queila para pôr a cidade em ruínas por minha causa.
+
+[[v9-23-11]]
+
+^<<v9-23-11,11>>^ Entregar-me-ão os proprietários de terras^&#42;1^ de Queila na mão dele? Descerá Saul assim como teu servo tem ouvido [falar]? Ó Jeová, Deus de Israel, por favor, informa teu servo.” A isso Jeová disse: “Ele descerá.”
+
+[NOTE]
+====
+. “Os proprietários de terras de.” Hebr.: va·‛aléh; Vg: “homens”.
+====
+
+[[v9-23-12]]
+
+^<<v9-23-12,12>>^ E Davi prosseguiu, dizendo: “Entregar-me-ão os proprietários de terras de Queila, a mim e aos meus homens, na mão de Saul?” Jeová, por sua vez, disse: “Farão a entrega.”
+
+[[v9-23-13]]
+
+^<<v9-23-13,13>>^ Davi levantou-se imediatamente com os seus homens, cerca de seiscentos^&#42;1^ homens, e eles saíram de Queila e continuaram andando onde quer que andassem. E Saul foi informado de que Davi havia escapado de Queila e por isso desistiu de sair.
+
+[NOTE]
+====
+. “Seiscentos”, MSyVg; LXX: “quatrocentos”.
+====
+
+[[v9-23-14]]
+
+^<<v9-23-14,14>>^ E Davi passou a morar no ermo, em lugares de difícil acesso, e ficou morando na região montanhosa, no ermo de Zife. E Saul procurava-o sempre, e Deus^&#42;1^ não lho entregou na mão.
+
+[NOTE]
+====
+. “Deus”, MSyVg; LXX: “Jeová”.
+====
+
+[[v9-23-15]]
+
+^<<v9-23-15,15>>^ E Davi continuou em temor,^&#42;1^ porque Saul saíra à procura da sua alma enquanto Davi estava no ermo de Zife, em Horesa.^&#42;2^
+
+[NOTE]
+====
+. “Continuou em temor”, mediante sinais vocálicos diferentes do verbo hebr.; M: “chegou a ver [que]”.
+. Significando “Lugar Arborizado”.
+====
+
+[[v9-23-16]]
+
+^<<v9-23-16,16>>^ Jonatã, filho de Saul, levantou-se então e foi ter com Davi em Horesa, para fortalecer-lhe a mão com respeito a Deus.
+
+[[v9-23-17]]
+
+^<<v9-23-17,17>>^ E foi dizer-lhe: “Não fiques com medo; pois a mão de Saul, meu pai, não te achará, e tu mesmo serás rei sobre Israel, e eu mesmo me tornarei o segundo depois de ti; e Saul, meu pai, também tem conhecimento disso.”
+
+[[v9-23-18]]
+
+^<<v9-23-18,18>>^ Os dois concluíram então um pacto perante Jeová; e Davi ficou morando em Horesa, e quanto a Jonatã, foi para o seu próprio lar.
+
+[[v9-23-19]]
+
+^<<v9-23-19,19>>^ Mais tarde, os homens de Zife^&#42;1^ subiram até Saul, em Gibeá, dizendo: “Não se esconde Davi perto de nós nos lugares de difícil acesso, em Horesa, no morro de Haquilá, que se acha do lado direito do Jesimom?^&#42;2^
+
+[NOTE]
+====
+. Ou “os zifitas”.
+. Ou “do deserto”.
+====
+
+[[v9-23-20]]
+
+^<<v9-23-20,20>>^ E agora, de acordo com todo o almejo da tua alma de descer, ó rei, desce, e nós, da nossa parte, o entregaremos na mão do rei.”
+
+[[v9-23-21]]
+
+^<<v9-23-21,21>>^ A isso Saul disse: “Benditos sois vós de Jeová, pois tivestes compaixão de mim.
+
+[[v9-23-22]]
+
+^<<v9-23-22,22>>^ Ide, por favor, perseverai mais um pouco, e averiguai e vede seu lugar em que vem a estar seu pé — quem quer que o viu por lá — porque me foi dito que ele mesmo é realmente astuto.
+
+[[v9-23-23]]
+
+^<<v9-23-23,23>>^ E vede e averiguai todos os esconderijos em que se esconde; e tendes de voltar a mim com a evidência^&#42;1^ e eu irei convosco; e tem de dar-se que, se estiver no país, farei também uma busca cuidadosa dele entre todos os milhares^&#42;2^ de Judá.”
+
+[NOTE]
+====
+. Ou “com certeza; seguramente”.
+. Ou “subdivisões tribais”.
+====
+
+[[v9-23-24]]
+
+^<<v9-23-24,24>>^ Levantaram-se, pois, e foram a Zife na frente de Saul, enquanto Davi e seus homens estavam no ermo de Maom, no Arabá,^&#42;1^ ao sul^&#42;2^ do Jesimom.
+
+[NOTE]
+====
+. Aquela parte da fenda tectônica que se estende para o sul até o golfo de Acaba, no Mar Vermelho.
+. Lit.: “do lado direito”, isto é, quando se encara o leste.
+====
+
+[[v9-23-25]]
+
+^<<v9-23-25,25>>^ Mais tarde veio Saul com os seus homens para procurá-lo. Quando Davi foi informado disso, desceu imediatamente ao rochedo e continuou a morar^&#42;1^ no ermo de Maom. E ouvindo isso Saul, foi no encalço de Davi ao ermo de Maom.
+
+[NOTE]
+====
+. “Ao rochedo e continuou a morar”, MSyVg; LXX: “o rochedo que está”.
+====
+
+[[v9-23-26]]
+
+^<<v9-23-26,26>>^ Por fim, Saul chegou a este lado do monte, e Davi e seus homens estavam daquele lado do monte. De modo que Davi estava com pressa para ir-se embora por causa de Saul; enquanto isso, Saul e seus homens fechavam o cerco em torno de Davi e seus homens para os pegarem.
+
+[[v9-23-27]]
+
+^<<v9-23-27,27>>^ Veio, porém, um mensageiro a Saul, dizendo: “Apressa-te e vai, porque os filisteus fizeram uma incursão no país!”
+
+[[v9-23-28]]
+
+^<<v9-23-28,28>>^ Em vista disso, Saul recuou de ir no encalço de Davi e foi enfrentar os filisteus. É por isso que se chama aquele lugar de Rochedo das Divisões.^&#42;1^
+
+[NOTE]
+====
+. Ou “se chama aquele lugar de Sela-Hamalecote”, referindo-se a lugares lisos ou escorregadios.
+====
+
+[[v9-23-29]]
+
+^<<v9-23-29,29>>^ ^&#42;1^ Então Davi foi subindo dali e passou a morar em lugares de difícil acesso em En-Gedi.
+
+[NOTE]
+====
+. MLXXVg iniciam aqui o capítulo 24.
+====
+
+'''
+
+xref:009-1-samuel/009-1-samuel-022.adoc#v9-22-0[&#60; Capítulo Anterior] | <<v9-23-0,Topo>> | xref:009-1-samuel/009-1-samuel-024.adoc#v9-24-0[Próximo Capítulo &#62;]

@@ -1,0 +1,104 @@
+include::./index.adoc[]
+
+[[v22-8-0]]
+=== Cântico de Salomão, 8
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v22-8-1]]
+
+^<<v22-8-1,1>>^ “Quem me dera que fosses como um irmão meu, mamando aos peitos de minha mãe! Se te achasse lá fora, eu te beijaria. As pessoas nem mesmo me desprezariam.
+
+[[v22-8-2]]
+
+^<<v22-8-2,2>>^ Eu te conduziria, eu te introduziria na casa de minha mãe, que costumava ensinar-me. Eu te daria de beber vinho aromatizado, o suco fresco de romãs.
+
+[[v22-8-3]]
+
+^<<v22-8-3,3>>^ Sua esquerda estaria sob a minha cabeça; e sua direita — ela me abraçaria.
+
+[[v22-8-4]]
+
+^<<v22-8-4,4>>^ “Eu vos pus sob juramento, ó filhas de Jerusalém, que não tenteis despertar nem incitar [em mim] amor, até que [este] esteja disposto.”
+
+[[v22-8-5]]
+
+^<<v22-8-5,5>>^ “Quem é esta mulher subindo do ermo, encostando-se no seu querido?”
+“Debaixo da macieira te^&#42;1^ despertei. Ali a tua mãe estava em dores de parto contigo. Ali sentiu dores de parto aquela que te dava à luz.
+
+[NOTE]
+====
+. “Te”, hebr. masc.
+====
+
+[[v22-8-6]]
+
+^<<v22-8-6,6>>^ “Põe-me como selo sobre o teu^&#42;1^ coração, como selo sobre o teu braço; porque o amor é tão forte como a morte, a insistência em devoção exclusiva é tão inexorável como o Seol.^&#42;2^ Suas labaredas são as labaredas de fogo, a chama de Jah.^&#42;3^
+
+[NOTE]
+====
+. “Teu”, hebr. masc.
+. “Como o Seol.” Hebr.: khish·’óhl; gr.: haí·des; lat.: ín·fer·us. Veja Ap. 4B.
+. “Jah.” Este é o único lugar no Cântico de Salomão em que ocorre o nome divino, aqui em forma abreviada. Veja Gins.Int, pp. 386, 387; Sal 68:4 n.; Ap. 1A.
+====
+
+[[v22-8-7]]
+
+^<<v22-8-7,7>>^ Mesmo muitas águas não são capazes de extinguir o amor, nem podem os próprios rios levá-lo de enxurrada. Se um homem^&#42;1^ desse todas as coisas valiosas de sua casa em troca de amor, as pessoas positivamente as^&#42;2^ desprezariam.”
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’ish.
+. Ou “o”.
+====
+
+[[v22-8-8]]
+
+^<<v22-8-8,8>>^ “Temos uma pequena irmã que não tem peitos. Que faremos por nossa irmã no dia em que for pedida?”
+
+[[v22-8-9]]
+
+^<<v22-8-9,9>>^ “Se ela for uma muralha, construiremos sobre ela um parapeito de prata; mas se ela for uma porta, nós a bloquearemos com uma tábua de cedro.”
+
+[[v22-8-10]]
+
+^<<v22-8-10,10>>^ “Sou uma muralha, e meus peitos são como torres. Neste caso me tornei aos seus olhos como aquela que acha paz.
+
+[[v22-8-11]]
+
+^<<v22-8-11,11>>^ “Havia um vinhedo que Salomão veio a ter em Baal-Hamom. Ele entregou o vinhedo aos guardiães. Cada um trazia pelos seus frutos mil moedas de prata.^&#42;1^
+
+[NOTE]
+====
+. Ou “mil peças de dinheiro”.
+====
+
+[[v22-8-12]]
+
+^<<v22-8-12,12>>^ “Meu vinhedo, aquele que me pertence, está à minha disposição.^&#42;1^ As mil te pertencem, ó Salomão, e duzentas aos que guardam os seus frutos.”
+
+[NOTE]
+====
+. Lit.: “está diante de mim”.
+====
+
+[[v22-8-13]]
+
+^<<v22-8-13,13>>^ “Ó tu que moras nos jardins, os associados prestam atenção à tua^&#42;1^ voz. Deixa-me ouvi-la.”
+
+[NOTE]
+====
+. “Tu” e “tua”, ambos hebr. fem.
+====
+
+[[v22-8-14]]
+
+^<<v22-8-14,14>>^ “Corre, meu querido, e faze-te^&#42;1^ igual à gazela ou à cria dos veados sobre os montes de especiarias.”
+
+[NOTE]
+====
+. “Te”, hebr. masc. Veja 2:8, 9, 16, 17.
+====
+
+'''
+
+xref:022-cantico-de-salomao/022-cantico-de-salomao-007.adoc#v22-7-0[&#60; Capítulo Anterior] | <<v22-8-0,Topo>> | xref:023-isaias/023-isaias-001.adoc#v23-1-0[Próximo Capítulo &#62;]

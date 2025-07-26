@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v6-20-0]]
+=== Josué, 20
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-20-1]]
+
+^<<v6-20-1,1>>^ Jeová falou então a Josué, dizendo:
+
+[[v6-20-2]]
+
+^<<v6-20-2,2>>^ “Fala aos filhos de Israel, dizendo: ‘Entregai as cidades de refúgio para vós, de que vos falei por intermédio de Moisés,
+
+[[v6-20-3]]
+
+^<<v6-20-3,3>>^ a fim de que fuja para lá o homicida que sem querer golpear fatalmente uma alma, sem o saber; e elas têm de servir-vos de refúgio contra o vingador^&#42;1^ do sangue.
+
+[NOTE]
+====
+. Ou “o goel”.
+====
+
+[[v6-20-4]]
+
+^<<v6-20-4,4>>^ E ele terá de fugir para uma destas cidades e ficar de pé à entrada do portão da cidade, e terá de falar as suas palavras aos ouvidos dos anciãos daquela cidade; e terão de acolhê-lo a si na cidade e dar-lhe um lugar, e terá de morar com eles.
+
+[[v6-20-5]]
+
+^<<v6-20-5,5>>^ E caso o vingador do sangue vá no encalço dele, então não devem entregar o homicida na sua mão; pois, foi sem saber que ele golpeou fatalmente o seu próximo, e ele não o odiava anteriormente.
+
+[[v6-20-6]]
+
+^<<v6-20-6,6>>^ E terá de morar naquela cidade até comparecer perante a assembléia para julgamento, até a morte do sumo sacerdote^&#42;1^ que houver naqueles dias. É então que o homicida poderá voltar, e terá de entrar na sua cidade e na sua casa, na cidade de que fugiu.’”
+
+[NOTE]
+====
+. Lit.: “do grande sacerdote”, M; lat.: sa·cér·dos má·gnus.
+====
+
+[[v6-20-7]]
+
+^<<v6-20-7,7>>^ Por conseguinte, deram categoria sagrada a Quedes^&#42;1^ na Galiléia,^&#42;2^ na região montanhosa de Naftali, e a Siquém, na região montanhosa de Efraim, e a Quiriate-Arba, isto é, Hébron, na região montanhosa de Judá.
+
+[NOTE]
+====
+. Ou “santificaram Quedes”.
+. Ou “no circuito”. Hebr.: bag·Ga·líl; gr.: Ga·li·laí·ai; lat.: Ga·li- lé·a. “Galiléia” veio posteriormente designar a província romana ao norte de Samaria.
+====
+
+[[v6-20-8]]
+
+^<<v6-20-8,8>>^ E na região do Jordão, [na altura] de Jericó, para o leste, deram Bezer, no ermo, no planalto da tribo de Rubem, e Ramote em Gileade da tribo de Gade, e Golã em Basã da tribo de Manassés.
+
+[[v6-20-9]]
+
+^<<v6-20-9,9>>^ Estas se tornaram as cidades designadas para todos os filhos de Israel e para o residente forasteiro que residia no seu meio, a fim de que fugisse para lá qualquer que sem querer golpeasse fatalmente uma alma, para que não morresse às mãos do vingador do sangue até comparecer perante a assembléia.
+
+'''
+
+xref:006-josue/006-josue-019.adoc#v6-19-0[&#60; Capítulo Anterior] | <<v6-20-0,Topo>> | xref:006-josue/006-josue-021.adoc#v6-21-0[Próximo Capítulo &#62;]

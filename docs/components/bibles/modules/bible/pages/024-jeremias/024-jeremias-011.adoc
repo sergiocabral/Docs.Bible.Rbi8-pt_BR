@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v24-11-0]]
+=== Jeremias, 11
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v24-11-1]]
+
+^<<v24-11-1,1>>^ A palavra que veio a haver para Jeremias^&#42;1^ da parte de Jeová, dizendo:
+
+[NOTE]
+====
+. Veja 1:1 n.: “Jeremias”.
+====
+
+[[v24-11-2]]
+
+^<<v24-11-2,2>>^ “Ouvi as palavras deste pacto!
+“E tens de proferi-las aos homens^&#42;1^ de Judá e aos habitantes de Jerusalém,
+
+[NOTE]
+====
+. “Homens de.” Hebr.: ’ish, hebr. sing., mas usado em sentido coletivo.
+====
+
+[[v24-11-3]]
+
+^<<v24-11-3,3>>^ e tens de dizer-lhes: ‘Assim disse Jeová, o Deus de Israel: “Maldito o homem^&#42;1^ que não escutar as palavras deste pacto,
+
+[NOTE]
+====
+. “O homem.” Hebr.: ha·’ísh.
+====
+
+[[v24-11-4]]
+
+^<<v24-11-4,4>>^ que ordenei aos vossos antepassados no dia em que os fiz sair da terra do Egito, do forno de fundição de ferro, dizendo: ‘Obedecei à minha voz, e tereis de fazer as coisas segundo tudo o que eu vos mando; e certamente vos tornareis meu povo e eu mesmo me tornarei vosso Deus,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “a Deus”. Hebr.: lE’·lo·hím, pl.
+====
+
+[[v24-11-5]]
+
+^<<v24-11-5,5>>^ com o objetivo de executar o juramento que fiz aos vossos antepassados, de dar-lhes a terra que manava leite e mel, como no dia de hoje.’”’”
+E passei a responder e a dizer: “Amém,^&#42;1^ ó Jeová.”
+
+[NOTE]
+====
+. Ou: “Assim seja.” Hebr.: ’a·mén.
+====
+
+[[v24-11-6]]
+
+^<<v24-11-6,6>>^ E Jeová prosseguiu, dizendo-me: “Proclama todas estas palavras nas cidades de Judá e nas ruas de Jerusalém, dizendo: ‘Ouvi as palavras deste pacto e tendes de cumpri-las.
+
+[[v24-11-7]]
+
+^<<v24-11-7,7>>^ Pois admoestei solenemente os vossos antepassados no dia em que os fiz subir da terra do Egito e até o dia de hoje, levantando-me cedo e admoestando-os, dizendo: “Obedecei à minha voz.”
+
+[[v24-11-8]]
+
+^<<v24-11-8,8>>^ Mas eles não escutaram nem inclinaram seu ouvido, mas continuaram andando cada um na obstinação de seu mau coração; e por isso eu trouxe sobre eles todas as palavras deste pacto que [lhes] ordenei cumprir, mas que não cumpriram.’”
+
+[[v24-11-9]]
+
+^<<v24-11-9,9>>^ Além disso, Jeová disse-me: “Achou-se conspiração entre os homens de Judá e entre os habitantes de Jerusalém.
+
+[[v24-11-10]]
+
+^<<v24-11-10,10>>^ Eles voltaram aos erros de seus antepassados, os primeiros, que se negaram a obedecer^&#42;1^ às minhas palavras, mas que andaram, eles mesmos, atrás de outros deuses,^&#42;2^ a fim de os servir. A casa de Israel e a casa de Judá violaram o meu pacto que concluí com os seus antepassados.
+
+[NOTE]
+====
+. Ou “escutar”.
+. “Deuses.” Hebr.: ’elo·hím.
+====
+
+[[v24-11-11]]
+
+^<<v24-11-11,11>>^ Portanto, assim disse Jeová: ‘Eis que trago sobre eles uma calamidade da qual não poderão sair; e certamente clamarão a mim por socorro, mas não os escutarei.
+
+[[v24-11-12]]
+
+^<<v24-11-12,12>>^ E as cidades de Judá e os habitantes de Jerusalém terão de ir e clamar por socorro aos deuses^&#42;1^ aos quais fazem fumaça sacrificial, mas que positivamente não lhes trarão salvação no tempo da sua calamidade.
+
+[NOTE]
+====
+. “Aos deuses.” Hebr.: ha·’elo·hím.
+====
+
+[[v24-11-13]]
+
+^<<v24-11-13,13>>^ Porque os teus deuses tornaram-se tantos quantas as tuas cidades, ó Judá; e colocastes tantos altares para a coisa vergonhosa quantas são as ruas de Jerusalém, altares para fazer fumaça sacrificial a Baal.’
+
+[[v24-11-14]]
+
+^<<v24-11-14,14>>^ “E no que se refere a ti, não ores por este povo, e não eleves por eles nenhum clamor suplicante nem oração, porque não estarei escutando no tempo em que clamarem a mim referente à sua calamidade.^&#42;1^
+
+[NOTE]
+====
+. “Referente à sua calamidade”, M; TLXXSyVg e 34 mss. hebr.: “no tempo de sua calamidade”.
+====
+
+[[v24-11-15]]
+
+^<<v24-11-15,15>>^ “Que é que meu amado tem que fazer na minha casa, que muitos deles façam esta coisa, este [mau] desígnio? E acaso farão com carne sagrada que [ela] passe por ti, quando [chegar] a tua calamidade? Rejubilarás naquele tempo?
+
+[[v24-11-16]]
+
+^<<v24-11-16,16>>^ ‘Oliveira frondosa, bonita com frutos [e] no aspecto’, é o nome pelo qual te chamou Jeová. Com o ruído dum grande fragor, ele acendeu um fogo contra ela, e eles lhe quebraram a ramagem.
+
+[[v24-11-17]]
+
+^<<v24-11-17,17>>^ “E o próprio Jeová dos exércitos, teu^&#42;1^ Plantador, proferiu contra ti calamidade, por causa da maldade da casa de Israel e da casa de Judá, que eles, da sua parte, praticaram para me ofender, fazendo fumaça sacrificial a Baal.”
+
+[NOTE]
+====
+. “Teu”, hebr. fem. sing.
+====
+
+[[v24-11-18]]
+
+^<<v24-11-18,18>>^ E o próprio Jeová me informou para que eu soubesse [isso]. Naquele tempo me fizeste ver as suas ações.
+
+[[v24-11-19]]
+
+^<<v24-11-19,19>>^ E eu era como um cordeiro, um íntimo, que se leva ao abate, e não sabia que era contra mim que maquinaram ardis: “Arruinemos a árvore com o seu alimento, e decepemo-lo da terra dos viventes, para que o próprio nome dele não seja mais lembrado.”
+
+[[v24-11-20]]
+
+^<<v24-11-20,20>>^ Mas Jeová dos exércitos está julgando com justiça; ele examina os rins^&#42;1^ e o coração. Veja eu a tua vingança sobre eles, porque foi a ti que revelei meu pleito judicial.
+
+[NOTE]
+====
+. Ou “mais profundas emoções”. Hebr.: kela·yóhth.
+====
+
+[[v24-11-21]]
+
+^<<v24-11-21,21>>^ Portanto, assim disse Jeová contra os homens de Anatote, que procuram a tua alma,^&#42;1^ dizendo: “Não deves profetizar em nome de Jeová, para que não morras à nossa mão”;
+
+[NOTE]
+====
+. “Procuram a tua alma”, MSyVg; LXX: “procuram a minha alma”; T: “procuram matar-te”.
+====
+
+[[v24-11-22]]
+
+^<<v24-11-22,22>>^ portanto, assim disse Jeová dos exércitos: “Eis que volto a minha atenção para eles. Os próprios jovens morrerão à espada. Os próprios filhos e filhas deles morrerão pela fome.
+
+[[v24-11-23]]
+
+^<<v24-11-23,23>>^ E não virá a haver para eles nem mesmo um restante, porque trarei calamidade sobre os homens de Anatote, no ano de se fixar a atenção neles.”
+
+'''
+
+xref:024-jeremias/024-jeremias-010.adoc#v24-10-0[&#60; Capítulo Anterior] | <<v24-11-0,Topo>> | xref:024-jeremias/024-jeremias-012.adoc#v24-12-0[Próximo Capítulo &#62;]

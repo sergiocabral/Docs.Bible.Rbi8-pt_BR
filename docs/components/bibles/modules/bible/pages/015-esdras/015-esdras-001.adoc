@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v15-1-0]]
+=== Esdras, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v15-1-1]]
+
+^<<v15-1-1,1>>^ E no primeiro ano de Ciro,^&#42;1^ rei da Pérsia, para que se consumasse a palavra de Jeová da boca de Jeremias, Jeová despertou o espírito de Ciro, rei da Pérsia, de modo que fez passar uma proclamação através de todo o seu domínio real, e também por escrito, dizendo:
+
+[NOTE]
+====
+. “De Ciro”, M(hebr.: leKhóh·resh)LXX; sir.: leKu·resh; lat.: Cý·ri.
+====
+
+[[v15-1-2]]
+
+^<<v15-1-2,2>>^ “Assim disse Ciro, rei da Pérsia: ‘Jeová, o Deus dos céus, deu-me todos os reinos da terra, e ele mesmo me comissionou para lhe construir uma casa em Jerusalém, que está em Judá.
+
+[[v15-1-3]]
+
+^<<v15-1-3,3>>^ Quem dentre vós for de todo o seu povo, mostre seu Deus estar com ele. Portanto, suba ele a Jerusalém, que está em Judá, e reconstrua a casa de Jeová, o Deus de Israel — ele é o [verdadeiro] Deus^&#42;1^ — que havia em Jerusalém.
+
+[NOTE]
+====
+. “O [verdadeiro] Deus.” Hebr.: ha·’Elo·hím, com o artigo definido ha, “o”, precedendo ao título ’Elo·hím, para ênfase. Veja Ap. 1F.
+====
+
+[[v15-1-4]]
+
+^<<v15-1-4,4>>^ Quanto a todo aquele que restou de todos os lugares onde reside como forasteiro, auxiliem-no os homens do seu lugar com prata, e com ouro, e com bens, e com animais domésticos, junto com a oferta voluntária para a casa do [verdadeiro] Deus, que havia em Jerusalém.’”
+
+[[v15-1-5]]
+
+^<<v15-1-5,5>>^ Então se levantaram os cabeças dos pais de Judá e de Benjamim, bem como os sacerdotes e os levitas, sim, todo aquele cujo espírito o [verdadeiro] Deus tinha despertado, para subir e reconstruir a casa de Jeová, que havia em Jerusalém.
+
+[[v15-1-6]]
+
+^<<v15-1-6,6>>^ Quanto a todos em volta deles, fortaleceram-lhes as mãos com utensílios de prata, com ouro, com bens, e com animais domésticos, e com coisas seletas, além de tudo o que se oferecia voluntariamente.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “tudo o que ele (alguém) oferecia voluntariamente”.
+====
+
+[[v15-1-7]]
+
+^<<v15-1-7,7>>^ Também o próprio Rei Ciro trouxe para fora os utensílios da casa de Jeová, os quais Nabucodonosor tinha tirado de Jerusalém e então posto na casa do seu deus.^&#42;1^
+
+[NOTE]
+====
+. Ou “seus deuses”. Hebr.: ’elo·háv, pl., provavelmente para denotar excelência; lat.: dé·i, “deus”.
+====
+
+[[v15-1-8]]
+
+^<<v15-1-8,8>>^ E Ciro, rei da Pérsia, passou a trazê-los para fora sob o controle de Mitredate, o tesoureiro, e a enumerá-los para Sesbazar,^&#42;1^ o maioral^&#42;2^ de Judá.
+
+[NOTE]
+====
+. “Zorobabel” em 2:2; 3:8.
+. Ou “nase”.
+====
+
+[[v15-1-9]]
+
+^<<v15-1-9,9>>^ Ora, estes foram os seus números: trinta vasos de ouro em forma de cestos, mil vasos de prata em forma de cestos, vinte e nove vasos sobressalentes,
+
+[[v15-1-10]]
+
+^<<v15-1-10,10>>^ trinta tigelinhas de ouro, quatrocentas e dez tigelinhas secundárias de prata, outros mil utensílios.
+
+[[v15-1-11]]
+
+^<<v15-1-11,11>>^ Todos os utensílios de ouro e de prata eram cinco mil e quatrocentos. Sesbazar levou tudo para cima, com a subida do povo exilado de Babilônia^&#42;1^ a Jerusalém.
+
+[NOTE]
+====
+. “Babilônia”, LXXVg; MSy: “Babel”.
+====
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-036.adoc#v14-36-0[&#60; Capítulo Anterior] | <<v15-1-0,Topo>> | xref:015-esdras/015-esdras-002.adoc#v15-2-0[Próximo Capítulo &#62;]

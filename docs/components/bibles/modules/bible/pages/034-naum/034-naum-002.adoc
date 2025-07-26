@@ -1,0 +1,90 @@
+include::./index.adoc[]
+
+[[v34-2-0]]
+=== Naum, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v34-2-1]]
+
+^<<v34-2-1,1>>^ Subiu diante da tua^&#42;1^ face alguém que dispersa. Resguarde-se a fortificação. Vigia [o] caminho. Fortalece [os] quadris. Reforça muito o poder.
+
+[NOTE]
+====
+. “Tua”, hebr. fem. sing., referindo-se a Nínive.
+====
+
+[[v34-2-2]]
+
+^<<v34-2-2,2>>^ Porque Jeová há de recolher o orgulho de Jacó, assim como o orgulho de Israel, porque os esvaziadores os esvaziaram; e eles arruinaram seus rebentos.
+
+[[v34-2-3]]
+
+^<<v34-2-3,3>>^ O escudo dos seus poderosos está tingido de vermelho; [seus] homens de energia vital^&#42;1^ estão vestidos com pano carmesim. O carro de guerra está com o fulgor dos [apetrechos] de ferro no dia de sua preparação e fizeram-se tremer as [lanças de] junípero.^&#42;2^
+
+[NOTE]
+====
+. Ou “homens de valor”. Hebr.: ’an·sheh-hhá·yil.
+. Lit.: “juníperos”; esta é uma figura de linguagem para hastes de lanças.
+====
+
+[[v34-2-4]]
+
+^<<v34-2-4,4>>^ Os carros de guerra andam pelas ruas como doidos. Estão correndo para lá e para cá nas praças públicas. Têm a aparência de tochas. Estão correndo como os relâmpagos.
+
+[[v34-2-5]]
+
+^<<v34-2-5,5>>^ Ele se lembrará dos seus majestosos. Tropeçarão na sua caminhada. Apressar-se-ão para [chegar à] muralha dela, e a barricada terá de estar firmemente estabelecida.
+
+[[v34-2-6]]
+
+^<<v34-2-6,6>>^ E certamente serão abertos os próprios portões dos rios e o próprio palácio será realmente dissolvido.
+
+[[v34-2-7]]
+
+^<<v34-2-7,7>>^ E isso está determinado; ela foi exposta; certamente será levada embora, e suas escravas gemerão, como o som de pombos, batendo-se repetidamente sobre os seus corações.
+
+[[v34-2-8]]
+
+^<<v34-2-8,8>>^ E Nínive, desde os dias [em que veio a existir], tem sido como um reservatório de águas; mas eles estão fugindo. “Parai!^&#42;1^ Parai!” Mas não há quem se vire.
+
+[NOTE]
+====
+. Ou: “Parai, águas!”
+====
+
+[[v34-2-9]]
+
+^<<v34-2-9,9>>^ Saqueai a prata; saqueai o ouro; pois não há limite das [coisas no] arranjo. Há uma grande quantidade de toda sorte de objetos desejáveis.
+
+[[v34-2-10]]
+
+^<<v34-2-10,10>>^ Vacuidade e vazio, e [uma cidade] devastada! E o coração se derrete e [os] joelhos vacilam, e há dores agudas em todos os quadris; e quanto às faces de todos eles, ficaram coradas [de excitação].
+
+[[v34-2-11]]
+
+^<<v34-2-11,11>>^ Onde está a guarida dos leões e a caverna^&#42;1^ dos leões novos jubados, em que andava e entrava^&#42;2^ o leão,^&#42;3^ em que estava o filhote de leão, e ninguém [os] fazia tremer?
+
+[NOTE]
+====
+. “Caverna”, mediante uma correção; M: “pasto; pastagem”.
+. “E entrava”, ou: “para entrar” (la·vóh’), mediante uma ligeira correção; hebr.: la·ví’, o leão asiático.
+. “Leão.” Hebr.: ’ar·yéh, o leão africano.
+====
+
+[[v34-2-12]]
+
+^<<v34-2-12,12>>^ [O] leão dilacerava o bastante para os seus filhotes e estrangulava para as suas leoas. E ele mantinha os seus buracos cheios de presa e seus esconderijos de animais dilacerados.
+
+[[v34-2-13]]
+
+^<<v34-2-13,13>>^ “Eis que sou contra ti”, é a pronunciação de Jeová dos exércitos,^&#42;1^ “e vou queimar-lhe^&#42;2^ os carros de guerra em fumaça. E uma espada devorará os seus próprios leões novos jubados. E vou decepar da terra a tua presa e não mais se ouvirá a voz dos teus mensageiros.”
+
+[NOTE]
+====
+. “Jeová dos exércitos”, MTVg; LXX: “Jeová Todo-poderoso.”
+. “Lhe”, M; TLXXSyVgc: “te”.
+====
+
+'''
+
+xref:034-naum/034-naum-001.adoc#v34-1-0[&#60; Capítulo Anterior] | <<v34-2-0,Topo>> | xref:034-naum/034-naum-003.adoc#v34-3-0[Próximo Capítulo &#62;]

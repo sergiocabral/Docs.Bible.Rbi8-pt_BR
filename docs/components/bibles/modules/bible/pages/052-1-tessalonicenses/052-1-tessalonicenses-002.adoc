@@ -1,0 +1,142 @@
+include::./index.adoc[]
+
+[[v52-2-0]]
+=== 1 Tessalonicenses, 2
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v52-2-1]]
+
+^<<v52-2-1,1>>^ Decerto, vós mesmos sabeis, irmãos, que a nossa visita a vós não foi sem resultados,
+
+[[v52-2-2]]
+
+^<<v52-2-2,2>>^ mas que, depois de primeiro termos sofrido e termos sido tratados com insolência em Filipos (conforme sabeis), ficamos denodados,^&#42;1^ por meio de nosso Deus, para falar-vos as boas novas de Deus com bastante luta.
+
+[NOTE]
+====
+. Lit.: “ficamos francos [no falar]”.
+====
+
+[[v52-2-3]]
+
+^<<v52-2-3,3>>^ Pois a exortação que damos não surge de erro, nem de impureza, nem com fraude,
+
+[[v52-2-4]]
+
+^<<v52-2-4,4>>^ mas, assim como por Deus fomos provados aptos para sermos incumbidos das boas novas, assim falamos, agradando, não a homens, mas a Deus, que prova os nossos corações.
+
+[[v52-2-5]]
+
+^<<v52-2-5,5>>^ De fato, nunca nos apresentamos quer com palavras lisonjeiras, (conforme sabeis,) quer com fingimento^&#42;1^ para cobiça; Deus é testemunha!
+
+[NOTE]
+====
+. “Fingimento.” Lit.: “simulação”.
+====
+
+[[v52-2-6]]
+
+^<<v52-2-6,6>>^ Nem estivemos buscando glória dos homens, não, nem de vós, nem de outros, embora, como apóstolos de Cristo, pudéssemos ser um fardo dispendioso.^&#42;1^
+
+[NOTE]
+====
+. “Ser um fardo dispendioso.” Ou “exercer autoridade; insistir na nossa [própria] importância”.
+====
+
+[[v52-2-7]]
+
+^<<v52-2-7,7>>^ Ao contrário, tornamo-nos meigos^&#42;1^ entre vós, como a mãe lactante que acalenta os seus próprios filhos.
+
+[NOTE]
+====
+. “Meigos”, AVgSyh,p; אBC°D°Vgc: “criancinhas”.
+====
+
+[[v52-2-8]]
+
+^<<v52-2-8,8>>^ Tendo assim terna afeição por vós, de bom grado não só vos conferimos as boas novas de Deus, mas também as nossas próprias almas,^&#42;1^ porque viestes a ser amados por nós.
+
+[NOTE]
+====
+. Ou “vidas”.
+====
+
+[[v52-2-9]]
+
+^<<v52-2-9,9>>^ Certamente vos lembrais, irmãos, de nosso labor e labuta. Foi trabalhando noite e dia, para não impormos a nenhum de vós qualquer fardo dispendioso, que vos pregamos as boas novas de Deus.
+
+[[v52-2-10]]
+
+^<<v52-2-10,10>>^ Vós sois testemunhas, Deus também o é, de quão leais, e justos, e inculpáveis nos mostramos a vós, crentes.
+
+[[v52-2-11]]
+
+^<<v52-2-11,11>>^ Em harmonia com isso, sabeis muito bem que, assim como o pai faz com os seus filhos, nós exortávamos a cada um de vós, e vos confortávamos e vos dávamos testemunho,
+
+[[v52-2-12]]
+
+^<<v52-2-12,12>>^ com o fim de que prosseguísseis andando dum modo digno de Deus, que vos chamou ao seu reino e glória.
+
+[[v52-2-13]]
+
+^<<v52-2-13,13>>^ Deveras, é também por isso que agradecemos a Deus incessantemente, porque, quando recebestes a palavra de Deus, que ouvistes de nós, vós a aceitastes, não como a palavra de homens, mas, pelo que verazmente é, como a palavra de Deus, que^&#42;1^ também está operando em vós, crentes.
+
+[NOTE]
+====
+. Ou “quem”.
+====
+
+[[v52-2-14]]
+
+^<<v52-2-14,14>>^ Pois vós, irmãos, vos tornastes imitadores^&#42;1^ das congregações de Deus que estão na Judéia, em união com Cristo Jesus, porque também começastes a sofrer às mãos dos vossos próprios conterrâneos as mesmas coisas que eles também [estão sofrendo] às mãos dos judeus,
+
+[NOTE]
+====
+. Ou “os que retratam”.
+====
+
+[[v52-2-15]]
+
+^<<v52-2-15,15>>^ que mataram até mesmo o Senhor Jesus e os profetas, e que nos perseguiram. Outrossim, eles não estão agradando a Deus, mas são contra [os interesses de] todos os homens,
+
+[[v52-2-16]]
+
+^<<v52-2-16,16>>^ visto que tentam impedir-nos^&#42;1^ de falar a pessoas das nações para que essas se salvem, com o resultado de que sempre enchem a medida de seus pecados. Mas, por fim^&#42;2^ veio sobre eles o furor dele.^&#42;3^
+
+[NOTE]
+====
+. Ou “visto que nos estão proibindo”.
+. Ou “no fim”.
+. Sem “dele”, אAB; DVg: “de Deus”.
+====
+
+[[v52-2-17]]
+
+^<<v52-2-17,17>>^ Quanto a nós mesmos, irmãos, orfanados^&#42;1^ de vós por pouco tempo,^&#42;2^ em pessoa, não no coração, diligenciamos muito mais do que é costumeiro, com grande desejo, ver o vosso rosto.
+
+[NOTE]
+====
+. Lit.: “tendo sido orfanados”.
+. Ou “pelo período duma hora”. Lit.: “para o tempo designado duma hora”.
+====
+
+[[v52-2-18]]
+
+^<<v52-2-18,18>>^ Por esta razão queríamos ir ter convosco, sim, eu, Paulo, tanto uma vez como uma segunda vez, mas Satanás se interpôs no nosso caminho.
+
+[[v52-2-19]]
+
+^<<v52-2-19,19>>^ Pois, qual é a nossa esperança, ou alegria, ou coroa de exultação — ora, não sois de fato vós? — perante o nosso Senhor Jesus, na sua presença?^&#42;1^
+
+[NOTE]
+====
+. Veja Ap. 5B.
+====
+
+[[v52-2-20]]
+
+^<<v52-2-20,20>>^ Vós, certamente, sois a nossa glória e alegria.
+
+'''
+
+xref:052-1-tessalonicenses/052-1-tessalonicenses-001.adoc#v52-1-0[&#60; Capítulo Anterior] | <<v52-2-0,Topo>> | xref:052-1-tessalonicenses/052-1-tessalonicenses-003.adoc#v52-3-0[Próximo Capítulo &#62;]

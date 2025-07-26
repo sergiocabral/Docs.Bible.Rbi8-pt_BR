@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v19-41-0]]
+=== Salmos, 41
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. Uma melodia de Davi._
+
+[[v19-41-1]]
+
+^<<v19-41-1,1>>^ Feliz aquele que tiver consideração para com o de condição humilde;
+No dia da calamidade Jeová o porá a salvo.
+
+[[v19-41-2]]
+
+^<<v19-41-2,2>>^ O próprio Jeová o guardará e preservará vivo.
+Será chamado feliz na terra;
+E de modo algum o poderás entregar à alma^&#42;1^ dos seus inimigos.
+
+[NOTE]
+====
+. Ou “ao desejo da alma”. Hebr.: bené·fesh; lat.: á·ni·mam; LXX: “nas mãos”. Veja 35:25 n.
+====
+
+[[v19-41-3]]
+
+^<<v19-41-3,3>>^ O próprio Jeová o amparará no divã de enfermidade;
+Certamente transformarás toda a sua cama durante a sua doença.
+
+[[v19-41-4]]
+
+^<<v19-41-4,4>>^ Quanto a mim, eu disse: “Ó Jeová, mostra-me favor.
+Sara deveras a minha alma, pois pequei contra ti.”
+
+[[v19-41-5]]
+
+^<<v19-41-5,5>>^ Quanto aos meus inimigos, dizem o que é mau a meu respeito:
+“Quando é que morrerá e realmente perecerá o seu nome?”
+
+[[v19-41-6]]
+
+^<<v19-41-6,6>>^ E se alguém deveras [me] visitar, seu coração falará a inveracidade;
+Apanhará para si algo prejudicial;
+Sairá; do lado de fora falará [disso].
+
+[[v19-41-7]]
+
+^<<v19-41-7,7>>^ Todos os que me odeiam cochicham entre si unidamente contra mim;
+Estão maquinando contra mim algo de mal para mim:
+
+[[v19-41-8]]
+
+^<<v19-41-8,8>>^ “Uma coisa imprestável^&#42;1^ foi despejada sobre ele;
+Agora que se deitou, não mais se levantará.”
+
+[NOTE]
+====
+. Lit.: “Uma coisa de belial (inutilidade).”
+====
+
+[[v19-41-9]]
+
+^<<v19-41-9,9>>^ Também o homem que estava em paz comigo, em quem confiei,
+Que comia meu pão, engrandeceu [seu] calcanhar contra mim.^&#42;1^
+
+[NOTE]
+====
+. “Engrandeceu [seu] calcanhar contra mim”, MLXXVg.
+====
+
+[[v19-41-10]]
+
+^<<v19-41-10,10>>^ Tu, porém, ó Jeová, mostra-me favor e faze-me levantar-me,
+Para que eu lhes retribua.
+
+[[v19-41-11]]
+
+^<<v19-41-11,11>>^ Por meio disso sei deveras que te agradaste de mim,
+Porque meu inimigo não brada em triunfo sobre mim.
+
+[[v19-41-12]]
+
+^<<v19-41-12,12>>^ Quanto a mim, sustentaste-me por causa da minha integridade
+E pôr-me-ás diante da tua face por tempo indefinido.
+
+[[v19-41-13]]
+
+^<<v19-41-13,13>>^ Bendito seja Jeová, o Deus de Israel,
+De tempo indefinido a tempo indefinido.
+Amém e amém.^&#42;1^
+
+[NOTE]
+====
+. Este v. é uma doxologia, isto é, uma expressão de louvor a Jeová Deus, e corresponde à doxologia no fim dos outros quatro livros, a saber, Sal 72, 89, 106 e 150.
+====
+
+'''
+
+xref:019-salmo/019-salmo-040.adoc#v19-40-0[&#60; Capítulo Anterior] | <<v19-41-0,Topo>> | xref:019-salmo/019-salmo-042.adoc#v19-42-0[Próximo Capítulo &#62;]

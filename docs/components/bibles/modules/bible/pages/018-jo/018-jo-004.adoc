@@ -1,0 +1,152 @@
+include::./index.adoc[]
+
+[[v18-4-0]]
+=== Jó, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-4-1]]
+
+^<<v18-4-1,1>>^ E Elifaz, o temanita, passou a responder e a dizer:
+
+[[v18-4-2]]
+
+^<<v18-4-2,2>>^ “Se alguém experimentar uma palavra^&#42;1^ contigo, ficarás fatigado?
+Mas quem pode restringir as palavras?
+
+[NOTE]
+====
+. “Palavra.” Hebr.: dha·vár, usada 20 vezes em Jó.
+====
+
+[[v18-4-3]]
+
+^<<v18-4-3,3>>^ Eis que corrigiste a muitos,
+E costumavas fortalecer as mãos fracas.
+
+[[v18-4-4]]
+
+^<<v18-4-4,4>>^ Tuas palavras^&#42;1^ levantavam a quem tivesse tropeçado;
+E firmavas os joelhos que se dobravam.
+
+[NOTE]
+====
+. “Tuas palavras.” Hebr.: mil·leí·kha, usada 34 vezes em Jó e apenas 4 vezes em outros livros.
+====
+
+[[v18-4-5]]
+
+^<<v18-4-5,5>>^ Mas esta vez chega a ti, e ficas fatigado;
+Toca até mesmo a ti, e ficas perturbado.
+
+[[v18-4-6]]
+
+^<<v18-4-6,6>>^ Não é a tua reverência [a base da] tua confiança?
+Não está a tua esperança na integridade dos teus caminhos?
+
+[[v18-4-7]]
+
+^<<v18-4-7,7>>^ Lembra-te, por favor: Que inocente jamais pereceu?
+E onde é que os retos foram eliminados?
+
+[[v18-4-8]]
+
+^<<v18-4-8,8>>^ Segundo o que vi, os que projetam o que é prejudicial
+E os que semeiam desgraça são os que a ceifarão.
+
+[[v18-4-9]]
+
+^<<v18-4-9,9>>^ Perecem pelo sopro de Deus
+E têm seu fim pelo espírito da Sua ira.
+
+[[v18-4-10]]
+
+^<<v18-4-10,10>>^ Há o bramido dum leão^&#42;1^ e a voz dum leãozinho,
+Mas os dentes dum leão novo jubado deveras se quebram.
+
+[NOTE]
+====
+. Hebr.: ’ar·yéh. O leão africano.
+====
+
+[[v18-4-11]]
+
+^<<v18-4-11,11>>^ O leão perece por não haver presa
+E os filhotes de leão^&#42;1^ são separados um do outro.
+
+[NOTE]
+====
+. Hebr.: la·ví’. O leão asiático.
+====
+
+[[v18-4-12]]
+
+^<<v18-4-12,12>>^ Ora, falou-se-me furtivamente uma palavra,
+E meu ouvido passou a captar um sussurro dela,
+
+[[v18-4-13]]
+
+^<<v18-4-13,13>>^ Em pensamentos inquietantes das visões da noite,
+Quando o sono profundo cai sobre os homens,
+
+[[v18-4-14]]
+
+^<<v18-4-14,14>>^ Veio sobre mim um pavor e um tremor,
+E encheu a multidão dos meus ossos de pavor.
+
+[[v18-4-15]]
+
+^<<v18-4-15,15>>^ E mesmo um espírito passou sobre a minha face;
+O pêlo da minha carne começou a eriçar-se.
+
+[[v18-4-16]]
+
+^<<v18-4-16,16>>^ Começou a parar,
+Mas não reconheci seu aspecto;
+Havia uma figura diante dos meus olhos;
+Houve uma calmaria e eu ouvi então uma voz:
+
+[[v18-4-17]]
+
+^<<v18-4-17,17>>^ ‘O homem mortal^&#42;1^ — pode ele ser mais justo do que o próprio Deus?^&#42;2^
+Ou pode o varão vigoroso ser mais puro do que Aquele que o fez?’
+
+[NOTE]
+====
+. “O homem mortal.” Hebr.: ha·’enóhsh. Veja 8:3 n.
+. “Do que . . . Deus.” Hebr.: me·’Elóh·ah.
+====
+
+[[v18-4-18]]
+
+^<<v18-4-18,18>>^ Eis que ele não tem fé nos seus servos,
+E a seus mensageiros^&#42;1^ acusa de defeito.
+
+[NOTE]
+====
+. Ou “anjos”.
+====
+
+[[v18-4-19]]
+
+^<<v18-4-19,19>>^ Quanto mais com os que moram em casas de barro,
+Cujo alicerce está no pó!
+São esmigalhados^&#42;1^ mais depressa do que uma traça.
+
+[NOTE]
+====
+. Ou: “Esmigalham-se.”
+====
+
+[[v18-4-20]]
+
+^<<v18-4-20,20>>^ São esmiuçados desde a manhã até a noitinha;
+Sem que alguém o tome [a peito], perecem para sempre.
+
+[[v18-4-21]]
+
+^<<v18-4-21,21>>^ Não foi retirada sua corda de tenda do seu íntimo?
+Morrem por falta de sabedoria.
+
+'''
+
+xref:018-jo/018-jo-003.adoc#v18-3-0[&#60; Capítulo Anterior] | <<v18-4-0,Topo>> | xref:018-jo/018-jo-005.adoc#v18-5-0[Próximo Capítulo &#62;]

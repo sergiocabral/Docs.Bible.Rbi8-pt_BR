@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v14-16-0]]
+=== 2 Crônicas, 16
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v14-16-1]]
+
+^<<v14-16-1,1>>^ No trigésimo sexto ano do reinado de Asa subiu Baasa, rei de Israel, contra Judá e começou a construir Ramá, para não deixar ninguém sair nem entrar até Asa, rei de Judá.
+
+[[v14-16-2]]
+
+^<<v14-16-2,2>>^ Asa tirou então prata e ouro dos tesouros da casa de Jeová e da casa do rei, e mandou dizer a Ben-Hadade, rei da Síria, que morava em Damasco:
+
+[[v14-16-3]]
+
+^<<v14-16-3,3>>^ “Há um pacto entre mim e ti, e entre meu pai e teu pai. Eis que deveras te envio prata e ouro. Vai, rompe o teu pacto com Baasa, rei de Israel, para que se retire de mim.”
+
+[[v14-16-4]]
+
+^<<v14-16-4,4>>^ Portanto, Ben-Hadade escutou o Rei Asa e enviou os chefes das suas forças militares contra as cidades de Israel, de modo que golpearam Ijom, e Dã, e Abel-Maim, e todos os armazéns das cidades de Naftali.
+
+[[v14-16-5]]
+
+^<<v14-16-5,5>>^ E sucedeu que, assim que Baasa o ouviu, deixou imediatamente de construir Ramá e cessou a sua obra.
+
+[[v14-16-6]]
+
+^<<v14-16-6,6>>^ Quanto a Asa, o rei, tomou todo o Judá e passou a levar as pedras de Ramá e suas madeiras com que Baasa estivera construindo, e começou a construir com elas Geba e Mispá.
+
+[[v14-16-7]]
+
+^<<v14-16-7,7>>^ E naquele tempo veio Hanani, o vidente, a Asa, o rei de Judá, e disse-lhe então: “Visto que te estribaste no rei da Síria e não te estribaste em Jeová, teu Deus, por esta razão te escapou da mão a força militar do rei da Síria.
+
+[[v14-16-8]]
+
+^<<v14-16-8,8>>^ Não vieram a ser os próprios etíopes e os líbios uma força militar muito grande em multidão, em carros e em cavaleiros; e, visto que te estribaste em Jeová, não os entregou ele na tua mão?
+
+[[v14-16-9]]
+
+^<<v14-16-9,9>>^ Pois, quanto a Jeová, seus olhos percorrem toda a terra, para mostrar a sua força a favor daqueles cujo coração é pleno para com ele. Agiste nesciamente no que toca a isto, pois doravante haverá guerras contra ti.”
+
+[[v14-16-10]]
+
+^<<v14-16-10,10>>^ No entanto, Asa ofendeu-se com o vidente e o pôs na casa dos troncos, pois estava furioso com ele por causa disso. E Asa começou a esmagar alguns outros do povo naquele mesmo tempo.
+
+[[v14-16-11]]
+
+^<<v14-16-11,11>>^ E eis os assuntos de Asa, os primeiros e os últimos, eis que estão escritos no Livro dos Reis de Judá e de Israel.
+
+[[v14-16-12]]
+
+^<<v14-16-12,12>>^ E Asa, no trigésimo nono ano do seu reinado, passou a padecer dos pés até ficar muito doente; e mesmo na sua doença não buscou a Jeová, mas sim os que curavam.
+
+[[v14-16-13]]
+
+^<<v14-16-13,13>>^ Por fim, Asa deitou-se com os seus antepassados e morreu no quadragésimo primeiro ano do seu reinado.
+
+[[v14-16-14]]
+
+^<<v14-16-14,14>>^ Enterraram-no, pois, na sua grandiosa sepultura^&#42;1^ que escavara para si na Cidade de Davi; e deitaram-no na cama que fora enchida de óleo de bálsamo e de diversas espécies de ungüento, misturadas num ungüento de fabricação especial. Além disso, fizeram para ele uma queima fúnebre extraordinariamente grande.^&#42;2^
+
+[NOTE]
+====
+. “Na sua grandiosa sepultura.” Lit.: “nas suas sepulturas”. Hebr.: veqiv·ro·tháv, pl., para denotar excelência; LXX: “túmulo”; Vg: “sepulcro”.
+. Não se tratava da cremação de Asa, mas da queima de especiarias.
+====
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-015.adoc#v14-15-0[&#60; Capítulo Anterior] | <<v14-16-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-017.adoc#v14-17-0[Próximo Capítulo &#62;]

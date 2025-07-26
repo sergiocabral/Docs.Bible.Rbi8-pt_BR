@@ -1,0 +1,156 @@
+include::./index.adoc[]
+
+[[v23-42-0]]
+=== Isaías, 42
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-42-1]]
+
+^<<v23-42-1,1>>^ Eis meu servo a quem estou segurando! Meu escolhido, [a quem] a minha alma tem aprovado! Pus nele o meu espírito.^&#42;1^ Justiça para as nações é o que ele produzirá.
+
+[NOTE]
+====
+. “Meu espírito.” Hebr.: ru·hhí.
+====
+
+[[v23-42-2]]
+
+^<<v23-42-2,2>>^ Não clamará nem levantará [a sua voz], e não deixará ouvir a sua voz na rua.^&#42;1^
+
+[NOTE]
+====
+. Ou “lá fora”.
+====
+
+[[v23-42-3]]
+
+^<<v23-42-3,3>>^ Não quebrará nenhuma cana esmagada; e quanto à fraca mecha de linho, não a apagará. Produzirá justiça^&#42;1^ em veracidade.
+
+[NOTE]
+====
+. Ou “julgamento”. Hebr.: mish·pát; lat.: iu·dí·ci·um.
+====
+
+[[v23-42-4]]
+
+^<<v23-42-4,4>>^ Não se turvará nem será esmagado^&#42;1^ até estabelecer justiça na própria terra; e por sua lei estarão esperando as próprias ilhas.^&#42;2^
+
+[NOTE]
+====
+. “Será esmagado.” Hebr.: ya·rúts, em harmonia com ra·tsúts (“esmagada”) no v. 3a.
+. Ou “litorais”. “E em seu nome esperarão as nações”, LXX. Veja Mt 12:21.
+====
+
+[[v23-42-5]]
+
+^<<v23-42-5,5>>^ Assim disse o [verdadeiro] Deus, Jeová, o Criador dos céus e o Grandioso que os estendeu;^&#42;1^ Aquele que estirou a terra e seu produto, Aquele que dá respiração^&#42;2^ ao povo sobre ela e espírito aos que andam nela:
+
+[NOTE]
+====
+. “O Grandioso que . . . estendeu”, pl. no hebr., evidentemente para denotar grandiosidade ou excelência.
+. “Respiração.” Hebr.: nesha·máh, o mesmo substantivo que em Gên 2:7.
+====
+
+[[v23-42-6]]
+
+^<<v23-42-6,6>>^ “Eu mesmo, Jeová, chamei-te em justiça e passei a agarrar a tua mão. E eu te resguardarei e te darei por pacto do povo, por luz das nações,
+
+[[v23-42-7]]
+
+^<<v23-42-7,7>>^ para abrires os olhos cegos, para fazeres sair o preso do calabouço, da casa de detenção os que estão sentados na escuridão.
+
+[[v23-42-8]]
+
+^<<v23-42-8,8>>^ “Eu sou Jeová. Este é meu nome; e a minha própria glória não darei a outrem, nem o meu louvor a imagens entalhadas.
+
+[[v23-42-9]]
+
+^<<v23-42-9,9>>^ “As primeiras coisas — eis que chegaram, mas eu estou contando coisas novas. Antes de começarem a surgir, faço que [as] ouçais.”
+
+[[v23-42-10]]
+
+^<<v23-42-10,10>>^ Cantai a Jeová um novo cântico, seu louvor desde a extremidade da terra, vós os que desceis ao mar e ao que o enche, vós ilhas e os que nelas habitais.
+
+[[v23-42-11]]
+
+^<<v23-42-11,11>>^ Levantem [a sua voz] o ermo e suas cidades, os povoados habitados por Quedar. Gritem de júbilo os habitantes do rochedo. Grite-se alto do cume dos montes.
+
+[[v23-42-12]]
+
+^<<v23-42-12,12>>^ Atribua-se a Jeová a glória e conte-se nas ilhas até mesmo o seu louvor.
+
+[[v23-42-13]]
+
+^<<v23-42-13,13>>^ O próprio Jeová sairá como um poderoso. Como um guerreiro^&#42;1^ ele despertará o zelo. Bradará, sim, dará um grito de guerra; mostrar-se-á mais poderoso sobre os seus inimigos.
+
+[NOTE]
+====
+. Lit.: “homem de guerras”.
+====
+
+[[v23-42-14]]
+
+^<<v23-42-14,14>>^ “Por muito tempo fiquei quieto. Fiquei calado. Continuei a exercer autodomínio. Igual à mulher que dá à luz, vou gemer, ofegar e arfar ao mesmo tempo.
+
+[[v23-42-15]]
+
+^<<v23-42-15,15>>^ Devastarei montes e morros, e secarei toda a sua vegetação. E dos rios vou fazer ilhas e secarei os banhados de juncos.
+
+[[v23-42-16]]
+
+^<<v23-42-16,16>>^ E vou fazer os cegos andar num caminho que não conheceram; farei que pisem numa senda que não conheceram. O lugar escuro transformarei diante deles em luz, e o terreno escabroso em terra plana. Estas são as coisas que vou fazer para eles e não vou abandoná-los.”
+
+[[v23-42-17]]
+
+^<<v23-42-17,17>>^ Terá de fazer-se que retrocedam, ficarão muito envergonhados, os que põem a sua confiança na imagem entalhada, os que dizem a uma imagem fundida: “Vós sois os nossos deuses.”^&#42;1^
+
+[NOTE]
+====
+. “Nossos deuses.” Hebr.: ’elo·héh·nu.
+====
+
+[[v23-42-18]]
+
+^<<v23-42-18,18>>^ Ouvi, ó surdos; e olhai para ver, ó cegos.
+
+[[v23-42-19]]
+
+^<<v23-42-19,19>>^ Quem é cego, se não o meu servo, e quem é surdo como o meu mensageiro a quem envio? Quem é cego como o recompensado,^&#42;1^ ou cego como o servo de Jeová?
+
+[NOTE]
+====
+. Ou “alguém num pacto de paz”.
+====
+
+[[v23-42-20]]
+
+^<<v23-42-20,20>>^ O caso era de se verem muitas coisas, mas não ficaste vigiando. O caso era de se abrirem os ouvidos, mas não ficaste^&#42;1^ escutando.
+
+[NOTE]
+====
+. “Ficaste”, sing., Vg e cerca de 60 mss. hebr.; TLXXSy: “ficastes”; M: “ficou”.
+====
+
+[[v23-42-21]]
+
+^<<v23-42-21,21>>^ O próprio Jeová, por causa da sua justiça, agradou-se de magnificar a lei e de fazê-la majestosa.
+
+[[v23-42-22]]
+
+^<<v23-42-22,22>>^ Mas é um povo saqueado e rapinado, todos presos em buracos, e eles foram mantidos escondidos nas casas de detenção. Vieram a ficar para o saque, sem livrador, para a rapina, sem que alguém dissesse: “Devolve!”
+
+[[v23-42-23]]
+
+^<<v23-42-23,23>>^ Quem dentre vós dará ouvidos a isso? Quem prestará atenção e escutará para tempos posteriores?
+
+[[v23-42-24]]
+
+^<<v23-42-24,24>>^ Quem entregou Jacó como mera rapina e Israel aos saqueadores? Não foi Jeová, Aquele contra quem pecamos, e em cujos caminhos não quiseram andar e cuja lei não escutaram?
+
+[[v23-42-25]]
+
+^<<v23-42-25,25>>^ De modo que Ele continuou a derramar sobre aquele o furor, sua ira e a força da guerra. E isso o consumia em todo o redor, mas ele não fez caso; e chamejava contra ele, mas não fixava nada no coração.
+
+'''
+
+xref:023-isaias/023-isaias-041.adoc#v23-41-0[&#60; Capítulo Anterior] | <<v23-42-0,Topo>> | xref:023-isaias/023-isaias-043.adoc#v23-43-0[Próximo Capítulo &#62;]

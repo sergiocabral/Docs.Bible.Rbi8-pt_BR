@@ -1,0 +1,144 @@
+include::./index.adoc[]
+
+[[v13-25-0]]
+=== 1 Crônicas, 25
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v13-25-1]]
+
+^<<v13-25-1,1>>^ Além disso, Davi e os chefes dos grupos de serviço separaram para o serviço alguns dos filhos de Asafe, Hemã e Jedutum, os que profetizavam com harpas, com instrumentos de cordas e com címbalos. E do seu número vieram a ser os homens oficiais para o seu serviço.
+
+[[v13-25-2]]
+
+^<<v13-25-2,2>>^ Dos filhos de Asafe: Zacur, e José, e Netanias, e Asarelá, filhos de Asafe sob o controle de Asafe que profetizava sob o controle do rei.
+
+[[v13-25-3]]
+
+^<<v13-25-3,3>>^ De Jedutum: os filhos de Jedutum, Gedalias, e Zeri, e Jesaías, [e Simei,]^&#42;1^ Hasabias, e Matitias, seis, sob o controle de seu pai Jedutum que profetizava com a harpa para agradecer e louvar a Jeová.
+
+[NOTE]
+====
+. “E Simei”, LXX e um ms. hebr. Veja v. 17.
+====
+
+[[v13-25-4]]
+
+^<<v13-25-4,4>>^ De Hemã: os filhos de Hemã, Buquias, Matanias, Uziel, Sebuel^&#42;1^ e Jerimote, Hananias, Hanani, Eliata, Gidalti e Romanti-Ezer, Josbecasa, Maloti, Hotir, Maaziote.
+
+[NOTE]
+====
+. “Subael”, LXX, como no v. 20 e em 24:20.
+====
+
+[[v13-25-5]]
+
+^<<v13-25-5,5>>^ Todos estes foram filhos de Hemã, visionário do rei nas coisas do [verdadeiro] Deus, para erguer seu chifre; assim passou o [verdadeiro] Deus a dar a Hemã quatorze filhos e três filhas.
+
+[[v13-25-6]]
+
+^<<v13-25-6,6>>^ Todos estes estavam sob o controle de seu pai no cântico na casa de Jeová, com címbalos, com instrumentos de cordas e com harpas para o serviço da casa do [verdadeiro] Deus.
+Asafe, e Jedutum, e Hemã estavam sob o controle do rei.
+
+[[v13-25-7]]
+
+^<<v13-25-7,7>>^ E o número deles junto com os seus irmãos, treinados no cântico a Jeová, todos peritos, veio a ser duzentos e oitenta e oito.
+
+[[v13-25-8]]
+
+^<<v13-25-8,8>>^ De modo que lançaram sortes referentes às coisas de que se devia cuidar, sendo o pequeno igual ao grande, o perito junto com o aprendiz.
+
+[[v13-25-9]]
+
+^<<v13-25-9,9>>^ E passou a sair a sorte: a primeira pertencendo a Asafe para José, para Gedalias a segunda (ele e seus irmãos eram doze);
+
+[[v13-25-10]]
+
+^<<v13-25-10,10>>^ a terceira para Zacur, seus filhos e seus irmãos, doze;
+
+[[v13-25-11]]
+
+^<<v13-25-11,11>>^ a quarta para Izri, seus filhos e seus irmãos, doze;
+
+[[v13-25-12]]
+
+^<<v13-25-12,12>>^ a quinta para Netanias, seus filhos e seus irmãos, doze;
+
+[[v13-25-13]]
+
+^<<v13-25-13,13>>^ a sexta para Buquias, seus filhos e seus irmãos, doze;
+
+[[v13-25-14]]
+
+^<<v13-25-14,14>>^ a sétima para Jesarela, seus filhos e seus irmãos, doze;
+
+[[v13-25-15]]
+
+^<<v13-25-15,15>>^ a oitava para Jesaías, seus filhos e seus irmãos, doze;
+
+[[v13-25-16]]
+
+^<<v13-25-16,16>>^ a nona para Matanias, seus filhos e seus irmãos, doze;
+
+[[v13-25-17]]
+
+^<<v13-25-17,17>>^ a décima para Simei, seus filhos e seus irmãos, doze;
+
+[[v13-25-18]]
+
+^<<v13-25-18,18>>^ a décima primeira para Azarel, seus filhos e seus irmãos, doze;
+
+[[v13-25-19]]
+
+^<<v13-25-19,19>>^ a décima segunda para Hasabias, seus filhos e seus irmãos, doze;
+
+[[v13-25-20]]
+
+^<<v13-25-20,20>>^ para a décima terceira, Subael, seus filhos e seus irmãos, doze;
+
+[[v13-25-21]]
+
+^<<v13-25-21,21>>^ para a décima quarta, Matitias, seus filhos e seus irmãos, doze;
+
+[[v13-25-22]]
+
+^<<v13-25-22,22>>^ para a décima quinta, para Jeremote, seus filhos e seus irmãos, doze;
+
+[[v13-25-23]]
+
+^<<v13-25-23,23>>^ para a décima sexta, para Hananias, seus filhos e seus irmãos, doze;
+
+[[v13-25-24]]
+
+^<<v13-25-24,24>>^ para a décima sétima, para Josbecasa, seus filhos e seus irmãos, doze;
+
+[[v13-25-25]]
+
+^<<v13-25-25,25>>^ para a décima oitava, para Hanani, seus filhos e seus irmãos, doze;
+
+[[v13-25-26]]
+
+^<<v13-25-26,26>>^ para a décima nona, para Maloti, seus filhos e seus irmãos, doze;
+
+[[v13-25-27]]
+
+^<<v13-25-27,27>>^ para a vigésima, para Eliata, seus filhos e seus irmãos, doze;
+
+[[v13-25-28]]
+
+^<<v13-25-28,28>>^ para a vigésima primeira, para Hotir, seus filhos e seus irmãos, doze;
+
+[[v13-25-29]]
+
+^<<v13-25-29,29>>^ para a vigésima segunda, para Gidalti, seus filhos e seus irmãos, doze;
+
+[[v13-25-30]]
+
+^<<v13-25-30,30>>^ para a vigésima terceira, para Maaziote, seus filhos e seus irmãos, doze;
+
+[[v13-25-31]]
+
+^<<v13-25-31,31>>^ para a vigésima quarta, para Romanti-Ezer, seus filhos e seus irmãos, doze.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-024.adoc#v13-24-0[&#60; Capítulo Anterior] | <<v13-25-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-026.adoc#v13-26-0[Próximo Capítulo &#62;]

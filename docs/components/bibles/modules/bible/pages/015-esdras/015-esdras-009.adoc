@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v15-9-0]]
+=== Esdras, 9
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v15-9-1]]
+
+^<<v15-9-1,1>>^ E assim que se acabou com estas coisas, aproximaram-se a mim os príncipes, dizendo: “O povo de Israel, e os sacerdotes, e os levitas não se separaram dos povos das terras no que se refere às suas coisas detestáveis, a saber, dos cananeus, dos hititas, dos perizeus, dos jebuseus, dos amonitas, dos moabitas, dos egípcios e dos amorreus.
+
+[[v15-9-2]]
+
+^<<v15-9-2,2>>^ Pois aceitaram algumas das suas filhas para si e para os seus filhos; e eles, a descendência santa, ficaram misturados com os povos das terras, e a mão dos príncipes e dos delegados governantes mostrou estar na dianteira nesta infidelidade.”
+
+[[v15-9-3]]
+
+^<<v15-9-3,3>>^ Ora, assim que ouvi estas coisas, rasguei a minha veste e a minha túnica sem mangas, e comecei a arrancar alguns cabelos da minha cabeça e da minha barba, e fiquei sentado aturdido.
+
+[[v15-9-4]]
+
+^<<v15-9-4,4>>^ Ajuntaram-se também a mim todos os que tremiam por causa das palavras do Deus de Israel contra a infidelidade do povo exilado, enquanto eu estava sentado aturdido até a oferta de cereais da noitinha.
+
+[[v15-9-5]]
+
+^<<v15-9-5,5>>^ E por ocasião da oferta de cereais da noitinha pus-me de pé da minha humilhação, estando rasgadas a minha veste e a minha túnica sem mangas, e passei a dobrar os joelhos e a estender as palmas das minhas mãos a Jeová, meu Deus.
+
+[[v15-9-6]]
+
+^<<v15-9-6,6>>^ E prossegui, dizendo: “Ó meu Deus, sinto-me deveras envergonhado e embaraçado de levantar a minha face a ti, ó meu Deus, porque os nossos próprios erros se multiplicaram sobre a nossa cabeça e a nossa culpa ficou grande, sim, até os céus.
+
+[[v15-9-7]]
+
+^<<v15-9-7,7>>^ Desde os dias de nossos antepassados até o dia de hoje temos tido grande culpa; e por causa dos nossos erros, nós, nossos reis, nossos sacerdotes, fomos entregues à mão dos reis das terras com a espada, com o cativeiro e com o saque, e com vergonha na face, assim como no dia de hoje.
+
+[[v15-9-8]]
+
+^<<v15-9-8,8>>^ E agora, por um pequeno instante, veio o favor da parte de Jeová, nosso Deus, deixando restar para nós os que escapam e dando-nos um tarugo^&#42;1^ no seu lugar santo, para fazer os nossos olhos brilhar, ó nosso Deus, e para dar-nos um pouco de reanimação na nossa servidão.
+
+[NOTE]
+====
+. Provavelmente: “um restante”, em um ms. hebr. e mediante uma ligeira correção do M (de ya·thédh para yé·ther).
+====
+
+[[v15-9-9]]
+
+^<<v15-9-9,9>>^ Pois somos servos; e na nossa servidão, nosso Deus não nos abandonou, mas usou de benevolência para conosco perante os reis da Pérsia para nos reanimar, a fim de erguer a casa de nosso Deus e restaurar os seus lugares desolados, e para nos dar um muro de pedras em Judá e em Jerusalém.
+
+[[v15-9-10]]
+
+^<<v15-9-10,10>>^ “E agora, que diremos depois disso, ó nosso Deus? Pois abandonamos os teus mandamentos
+
+[[v15-9-11]]
+
+^<<v15-9-11,11>>^ que ordenaste por intermédio dos teus servos, os profetas, dizendo: ‘A terra em que entrais para tomar posse dela é uma terra impura por causa da impureza dos povos das terras, por causa das suas coisas detestáveis com que a encheram de uma ponta a outra com a sua impureza.
+
+[[v15-9-12]]
+
+^<<v15-9-12,12>>^ E agora, não deis as vossas filhas aos seus filhos, nem aceiteis as suas filhas para vossos filhos; e não deveis trabalhar para a sua paz, nem para a sua prosperidade,^&#42;1^ por tempo indefinido, para ficardes fortes e certamente comerdes do bom da terra e deveras tomardes posse [dela] para os vossos filhos, por tempo indefinido.’
+
+[NOTE]
+====
+. Lit.: “seu bem”.
+====
+
+[[v15-9-13]]
+
+^<<v15-9-13,13>>^ E depois de tudo o que veio sobre nós por nossos atos maus e nossa grande culpa — porque tu mesmo, ó nosso Deus, subestimaste o nosso erro, e deste-nos os que escaparam, tais como estes —
+
+[[v15-9-14]]
+
+^<<v15-9-14,14>>^ devemos novamente estar violando teus mandamentos e formando alianças matrimoniais com os povos destas coisas detestáveis? Não te irarás ao extremo conosco, de modo que não haverá quem remanesça e quem escape?
+
+[[v15-9-15]]
+
+^<<v15-9-15,15>>^ Ó Jeová, Deus de Israel, tu és justo, porque fomos deixados remanescer como povo escapado, como no dia de hoje. Eis que estamos diante de ti em nossa culpa, pois é impossível ficar de pé diante de ti por causa disso.”
+
+'''
+
+xref:015-esdras/015-esdras-008.adoc#v15-8-0[&#60; Capítulo Anterior] | <<v15-9-0,Topo>> | xref:015-esdras/015-esdras-010.adoc#v15-10-0[Próximo Capítulo &#62;]

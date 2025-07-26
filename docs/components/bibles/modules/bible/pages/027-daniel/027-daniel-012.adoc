@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v27-12-0]]
+=== Daniel, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v27-12-1]]
+
+^<<v27-12-1,1>>^ “E durante esse tempo pôr-se-á de pé Miguel,^&#42;1^ o grande príncipe^&#42;2^ que está de pé a favor dos filhos de teu povo. E certamente virá a haver um tempo de aflição tal como nunca se fez ocorrer, desde que veio a haver nação até esse tempo. E, durante esse tempo, teu povo escapará, todo aquele que for achado inscrito no livro.
+
+[NOTE]
+====
+. Veja 10:13 n.: “Miguel”.
+. “O grande príncipe.” Hebr.: has·sár hag·ga·dhóhl; lat.: prín·ceps má·gnus; LXX: “o grande anjo”; LXXBagster(gr.): ho ár·khon ho mé·gas, “o grande governante”.
+====
+
+[[v27-12-2]]
+
+^<<v27-12-2,2>>^ E muitos dos adormecidos no solo de pó acordarão, estes para a vida de duração indefinida e aqueles para vitupérios [e] para abominação de duração indefinida.
+
+[[v27-12-3]]
+
+^<<v27-12-3,3>>^ “E os perspicazes raiarão como o resplendor^&#42;1^ da expansão; e os que levam muitos à justiça, como as estrelas por tempo indefinido, para todo o sempre.
+
+[NOTE]
+====
+. Ou “brilho”.
+====
+
+[[v27-12-4]]
+
+^<<v27-12-4,4>>^ “E quanto a ti, ó Daniel, guarda em segredo as palavras e sela o livro até o tempo do fim.^&#42;1^ Muitos [o] percorrerão, e o [verdadeiro] conhecimento^&#42;2^ se tornará abundante.”
+
+[NOTE]
+====
+. “Fim.” Hebr.: qets; gr.: syn·te·leí·as. Veja Mt 13:39 n. e Mt 24:3 n.: “terminação”.
+. “O [verdadeiro] conhecimento.” Hebr.: had·dá·‛ath.
+====
+
+[[v27-12-5]]
+
+^<<v27-12-5,5>>^ E eu, Daniel, vi, e eis que havia dois outros parados, um na beira de cá do rio^&#42;1^ e outro na beira de lá do rio.
+
+[NOTE]
+====
+. “Do rio.” Hebr.: hai·’ór.
+====
+
+[[v27-12-6]]
+
+^<<v27-12-6,6>>^ Um [deles] disse então ao homem vestido de linho, que estava acima das águas do rio: “Quanto tempo levará até o fim das coisas maravilhosas?”
+
+[[v27-12-7]]
+
+^<<v27-12-7,7>>^ E comecei a ouvir o homem^&#42;1^ vestido de linho, que estava acima das águas do rio, quando passou a levantar a sua [mão] direita e a sua [mão] esquerda para os céus e a jurar por Aquele que vive por tempo indefinido: “Será por um tempo designado, tempos designados e uma metade.^&#42;2^ E assim que se tiver posto fim ao espatifamento do poder^&#42;3^ do povo santo, acabarão todas estas coisas.”
+
+[NOTE]
+====
+. “O homem.” Hebr.: ha·’ísh; lat.: ví·rum.
+. “Por um tempo designado, tempos designados e uma metade.” Hebr.: lemoh·‛édh moh·‛adhím wa·hhé·tsi; gr.: eis kai·rón kai kai·roús kai hé·mi·sy kai·roú; Vgc(lat.): in tém·pus, et tém·po·ra, et di·mí·di·um tém·po·ris. O erudito judaico Aben Ezra (1089-1164 EC) apresenta aqui o dual (dois tempos designados). Isto perfaz o total de três tempos designados e meio, como em 7:25, onde veja n.: “metade de um tempo”. Compare isso com 4:16 n.; Re 12:14 n.
+. Lit.: “da mão”. Hebr.: yadh; lat.: má·nus.
+====
+
+[[v27-12-8]]
+
+^<<v27-12-8,8>>^ Ora, quanto a mim, ouvi, mas não pude entender; de modo que eu disse: “Ó meu senhor,^&#42;1^ qual será a parte final destas coisas?”
+
+[NOTE]
+====
+. “Ó meu senhor.” Hebr.: ’adho·ní; gr.: ký·ri·e; lat.: dó·mi·ne mi.
+====
+
+[[v27-12-9]]
+
+^<<v27-12-9,9>>^ E ele prosseguiu, dizendo: “Vai, Daniel, porque as palavras são guardadas em segredo e seladas até o tempo do fim.
+
+[[v27-12-10]]
+
+^<<v27-12-10,10>>^ Muitos se purificarão, e se embranquecerão, e serão refinados. E os iníquos certamente agirão iniquamente, e absolutamente nenhum iníquo entenderá; mas os perspicazes entenderão.
+
+[[v27-12-11]]
+
+^<<v27-12-11,11>>^ “E desde o tempo em que se remover o [sacrifício] contínuo^&#42;1^ e se constituir a coisa repugnante que causa desolação,^&#42;2^ haverá mil duzentos e noventa dias.
+
+[NOTE]
+====
+. “O [sacrifício] contínuo.” Hebr.: hat·ta·mídh; Vg: “o sacrifício contínuo”; LXX: “o sacrifício”.
+. “Que causa desolação (assombro).” Hebr.: sho·mém. Veja 9:27 n.: “desolado”.
+====
+
+[[v27-12-12]]
+
+^<<v27-12-12,12>>^ “Feliz aquele^&#42;1^ que se mantiver na expectativa e que chegar aos mil trezentos e trinta e cinco dias!
+
+[NOTE]
+====
+. Lit.: “Oh! a felicidade do.” Hebr.: ’ash·réh; gr.: ma·ká·ri·os; lat.: be·á·tus. Veja Sal 1:1 n.; Mt 5:3; Lu 6:20.
+====
+
+[[v27-12-13]]
+
+^<<v27-12-13,13>>^ “E quanto a ti mesmo, vai para o fim;^&#42;1^ e descansarás, porém, no fim^&#42;2^ dos dias erguer-te-ás para [receber] a tua sorte.”
+
+[NOTE]
+====
+. “Para o fim”, M(hebr.: laq·qéts)SyVg; LXX omite isso.
+. “No fim dos.” Hebr.: leqéts; gr.: eis syn·té·lei·an; lat.: in fí·ne. Veja v. 4 n.: “fim”.
+====
+
+'''
+
+xref:027-daniel/027-daniel-011.adoc#v27-11-0[&#60; Capítulo Anterior] | <<v27-12-0,Topo>> | xref:028-oseias/028-oseias-001.adoc#v28-1-0[Próximo Capítulo &#62;]

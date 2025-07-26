@@ -1,0 +1,120 @@
+include::./index.adoc[]
+
+[[v18-35-0]]
+=== Jó, 35
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v18-35-1]]
+
+^<<v18-35-1,1>>^ E Eliú continuou a responder e a dizer:
+
+[[v18-35-2]]
+
+^<<v18-35-2,2>>^ “É isto o que consideraste como juízo?
+Disseste: ‘Minha justiça é maior do que a de Deus.’^&#42;1^
+
+[NOTE]
+====
+. “Maior do que a de Deus.” Hebr.: me·’Él; LXX: “Jeová”.
+====
+
+[[v18-35-3]]
+
+^<<v18-35-3,3>>^ Pois dizes: ‘Que te aproveita isso?
+Que proveito maior tenho do que por eu pecar?’
+
+[[v18-35-4]]
+
+^<<v18-35-4,4>>^ Eu mesmo replicarei a ti
+E aos teus companheiros^&#42;1^ contigo.
+
+[NOTE]
+====
+. “Companheiros”, M; LXX: “três amigos”.
+====
+
+[[v18-35-5]]
+
+^<<v18-35-5,5>>^ Olha para o céu e vê,
+E repara nas nuvens, [que] elas são deveras mais altas do que tu.
+
+[[v18-35-6]]
+
+^<<v18-35-6,6>>^ Se realmente pecares, que conseguirás contra ele?
+E [se] as tuas revoltas realmente aumentarem, que lhe fazes?
+
+[[v18-35-7]]
+
+^<<v18-35-7,7>>^ Se realmente tens razão, o que lhe dás,
+Ou o que recebe ele da tua própria mão?
+
+[[v18-35-8]]
+
+^<<v18-35-8,8>>^ Tua iniqüidade talvez seja contra um homem^&#42;1^ igual a ti,
+E tua justiça para com um filho de homem terreno.^&#42;2^
+
+[NOTE]
+====
+. “Contra um homem.” Hebr.: le’ísh.
+. “Homem terreno.” Hebr.: ’a·dhám.
+====
+
+[[v18-35-9]]
+
+^<<v18-35-9,9>>^ Por causa da multidão de opressões eles clamam por socorro;
+Clamam por ajuda por causa do braço dos grandes.
+
+[[v18-35-10]]
+
+^<<v18-35-10,10>>^ E no entanto, ninguém disse: ‘Onde está Deus,^&#42;1^ o Grandioso que me fez,^&#42;2^
+Aquele que dá melodias na noite?’
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elóh·ah.
+. “O Grandioso que . . . fez”, pl. no M, para denotar excelência e grandiosidade, embora “Deus” esteja no sing.
+====
+
+[[v18-35-11]]
+
+^<<v18-35-11,11>>^ É ele quem nos ensina mais do que aos animais^&#42;1^ da terra,
+E nos faz mais sábios do que mesmo as criaturas voadoras dos céus.
+
+[NOTE]
+====
+. Ou “aos animais domésticos”.
+====
+
+[[v18-35-12]]
+
+^<<v18-35-12,12>>^ Ali continuam a clamar, mas ele não responde,
+Por causa do orgulho dos maus.
+
+[[v18-35-13]]
+
+^<<v18-35-13,13>>^ Somente a inveracidade é que Deus^&#42;1^ não ouve,
+E o próprio Todo-poderoso não repara nela.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’El.
+====
+
+[[v18-35-14]]
+
+^<<v18-35-14,14>>^ Quanto menos, então, quando dizes que não reparas nele!
+A causa jurídica está perante ele, e por isso devias esperá-lo ansiosamente.
+
+[[v18-35-15]]
+
+^<<v18-35-15,15>>^ E agora, visto que a sua ira não exigiu uma prestação de contas,
+Ele tampouco tomou nota do extremo arrojo.
+
+[[v18-35-16]]
+
+^<<v18-35-16,16>>^ E o próprio Jó abre muito a sua boca simplesmente por nada;
+Sem conhecimento, multiplica apenas palavras.”
+
+'''
+
+xref:018-jo/018-jo-034.adoc#v18-34-0[&#60; Capítulo Anterior] | <<v18-35-0,Topo>> | xref:018-jo/018-jo-036.adoc#v18-36-0[Próximo Capítulo &#62;]

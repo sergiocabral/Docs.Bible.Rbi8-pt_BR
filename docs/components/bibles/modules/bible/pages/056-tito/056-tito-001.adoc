@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v56-1-0]]
+=== Tito, 1
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v56-1-1]]
+
+^<<v56-1-1,1>>^ Paulo, escravo de Deus e apóstolo de Jesus Cristo, segundo a fé dos escolhidos de Deus e o conhecimento exato da verdade, que concorda com a devoção piedosa,
+
+[[v56-1-2]]
+
+^<<v56-1-2,2>>^ à base duma esperança de vida eterna que Deus, que não pode mentir, prometeu antes dos tempos de longa duração,^&#42;1^
+
+[NOTE]
+====
+. Ou “prometeu há muito tempo”.
+====
+
+[[v56-1-3]]
+
+^<<v56-1-3,3>>^ ao passo que, nos seus próprios tempos devidos, tornou manifesta a sua palavra na pregação^&#42;1^ de que fui incumbido, sob o mandado de nosso Salvador, Deus;^&#42;2^
+
+[NOTE]
+====
+. Ou “manifesta . . . no anúncio público”.
+. Lit.: “do Salvador de nós, Deus”. Gr.: tou So·té·ros he·món The·oú; lat.: Sal·va·tó·ris nó·stri Dé·i; J17,22(hebr.): ha·’Elo·hím Moh·shi·‛é·nu.
+====
+
+[[v56-1-4]]
+
+^<<v56-1-4,4>>^ a Tito, filho genuíno segundo a fé partilhada em comum:
+Haja benignidade imerecida e paz da parte de Deus, [o] Pai, e de Cristo Jesus, nosso Salvador.
+
+[[v56-1-5]]
+
+^<<v56-1-5,5>>^ Por esta razão te deixei em Creta, para que corrigisses as coisas defeituosas e fizesses designações de anciãos^&#42;1^ numa cidade após outra, conforme te dei ordens,
+
+[NOTE]
+====
+. Ou “designasses anciãos”.
+====
+
+[[v56-1-6]]
+
+^<<v56-1-6,6>>^ se houver um homem livre de acusação, marido de uma só esposa, tendo filhos crentes, não acusados de devassidão nem indisciplinados.
+
+[[v56-1-7]]
+
+^<<v56-1-7,7>>^ Porque o superintendente^&#42;1^ tem de estar livre de acusação como mordomo^&#42;2^ de Deus, não obstinado, não irascível, não brigão bêbedo, não espancador, não ávido de ganho desonesto,
+
+[NOTE]
+====
+. “Superintendente.” Gr.: e·pí·sko·pon; J17(hebr.): feqídh.
+. Lit.: “administrador doméstico”. Gr.: oi·ko·nó·mon; lat.: di·spen·sa·tó·rem; J17(hebr.): keso·khén, “como mordomo”.
+====
+
+[[v56-1-8]]
+
+^<<v56-1-8,8>>^ mas hospitaleiro,^&#42;1^ amante da bondade, ajuizado, justo, leal, dominando a si mesmo,
+
+[NOTE]
+====
+. Ou “amante de estranhos”.
+====
+
+[[v56-1-9]]
+
+^<<v56-1-9,9>>^ apegando-se firmemente à palavra fiel com respeito à sua [arte de] ensino, para que possa tanto exortar pelo ensino que é salutar como repreender os que contradizem.
+
+[[v56-1-10]]
+
+^<<v56-1-10,10>>^ Pois há muitos indisciplinados,^&#42;1^ conversadores improfícuos e enganadores da mente, especialmente os homens que aderem à circuncisão.
+
+[NOTE]
+====
+. “Indisciplinados.” Lit.: “(os que) não se sujeitam a si mesmos”.
+====
+
+[[v56-1-11]]
+
+^<<v56-1-11,11>>^ É preciso fechar a boca de tais, visto que estes mesmos persistem em subverter famílias inteiras por ensinarem coisas que não deviam, por causa de ganho desonesto.
+
+[[v56-1-12]]
+
+^<<v56-1-12,12>>^ Certo deles, seu próprio profeta,^&#42;1^ disse: “Os cretenses são sempre mentirosos, feras prejudiciais, glutões desempregados.”^&#42;2^
+
+[NOTE]
+====
+. Epimênides, poeta cretense do sexto século AEC.
+. “Glutões desempregados.” Lit.: “barrigas inertes”.
+====
+
+[[v56-1-13]]
+
+^<<v56-1-13,13>>^ Este testemunho é verdadeiro. Por esta mesma causa persiste em repreendê-los com severidade, para que sejam sãos na fé,
+
+[[v56-1-14]]
+
+^<<v56-1-14,14>>^ não prestando atenção a fábulas judaicas e a mandamentos de homens que se desviam da verdade.
+
+[[v56-1-15]]
+
+^<<v56-1-15,15>>^ Todas as coisas são puras para os puros. Mas, para os aviltados e os sem fé nada é puro, porém, tanto as suas mentes como as suas consciências estão aviltadas.
+
+[[v56-1-16]]
+
+^<<v56-1-16,16>>^ Eles declaram publicamente que conhecem a Deus, mas repudiam-no pelas suas obras, porque são detestáveis, e desobedientes, e não aprovados para qualquer sorte de boa obra.
+
+'''
+
+xref:055-2-timoteo/055-2-timoteo-004.adoc#v55-4-0[&#60; Capítulo Anterior] | <<v56-1-0,Topo>> | xref:056-tito/056-tito-002.adoc#v56-2-0[Próximo Capítulo &#62;]

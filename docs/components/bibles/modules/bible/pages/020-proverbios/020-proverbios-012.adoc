@@ -1,0 +1,172 @@
+include::./index.adoc[]
+
+[[v20-12-0]]
+=== Provérbios, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-12-1]]
+
+^<<v20-12-1,1>>^ Quem ama a disciplina ama o conhecimento, mas quem odeia a repreensão é irracional.
+
+[[v20-12-2]]
+
+^<<v20-12-2,2>>^ O bom obtém a aprovação de Jeová, mas ao homem^&#42;1^ de idéias [iníquas] ele pronuncia iníquo.
+
+[NOTE]
+====
+. “Mas ao homem de.” Hebr.: we’ísh.
+====
+
+[[v20-12-3]]
+
+^<<v20-12-3,3>>^ Nenhum homem^&#42;1^ será firmemente estabelecido pela iniqüidade; mas, quanto à raiz dos justos, não será abalada.
+
+[NOTE]
+====
+. Ou “homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v20-12-4]]
+
+^<<v20-12-4,4>>^ A esposa capaz é uma coroa para o seu dono, mas aquela que age vergonhosamente é como podridão nos seus ossos.
+
+[[v20-12-5]]
+
+^<<v20-12-5,5>>^ Os pensamentos dos justos são juízo; a diretriz dos iníquos é engano.
+
+[[v20-12-6]]
+
+^<<v20-12-6,6>>^ As palavras dos iníquos são uma emboscada^&#42;1^ ao sangue, mas a boca dos retos é o que os livrará.
+
+[NOTE]
+====
+. “Uma emboscada.” No hebr., isto é um verbo no infinitivo construto.
+====
+
+[[v20-12-7]]
+
+^<<v20-12-7,7>>^ Há um subvertimento^&#42;1^ dos iníquos e eles não são mais, mas a própria casa dos justos permanecerá de pé.
+
+[NOTE]
+====
+. “Há um subvertimento.” No hebr., isto é um verbo no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v20-12-8]]
+
+^<<v20-12-8,8>>^ O homem será louvado pela sua boca de discrição, mas o de coração pervertido ficará para desprezo.
+
+[[v20-12-9]]
+
+^<<v20-12-9,9>>^ Melhor é o pouco estimado, mas que tem um servo, do que aquele que se glorifica, mas que carece de pão.
+
+[[v20-12-10]]
+
+^<<v20-12-10,10>>^ O justo importa-se com a alma do seu animal doméstico, mas as misericórdias dos iníquos são cruéis.
+
+[[v20-12-11]]
+
+^<<v20-12-11,11>>^ Quem cultiva o seu solo é o que se fartará de pão, mas aquele que se empenha por coisas sem valor é falto de coração.^&#42;1^
+
+[NOTE]
+====
+. Ou “falto de boa motivação”. Hebr.: hhasar-lév.
+====
+
+[[v20-12-12]]
+
+^<<v20-12-12,12>>^ O iníquo desejou a caça enredada de homens maus; mas, quanto à raiz dos justos, ela rende.
+
+[[v20-12-13]]
+
+^<<v20-12-13,13>>^ O mau é enlaçado pela transgressão dos lábios, mas o justo se livra da aflição.
+
+[[v20-12-14]]
+
+^<<v20-12-14,14>>^ Dos frutos da boca do homem^&#42;1^ ele se farta com o que é bom, e o próprio ato das mãos do homem^&#42;2^ retornará a ele.
+
+[NOTE]
+====
+. Lit.: “boca dum homem”. Hebr.: fi-’ísh.
+. Lit.: “mãos dum homem”. Hebr.: yedheh-’a·dhám.
+====
+
+[[v20-12-15]]
+
+^<<v20-12-15,15>>^ O caminho do tolo é direito aos seus próprios olhos, mas quem escuta conselho é sábio.
+
+[[v20-12-16]]
+
+^<<v20-12-16,16>>^ É o tolo que dá a conhecer seu vexame no [mesmo] dia, mas o argucioso encobre a desonra.
+
+[[v20-12-17]]
+
+^<<v20-12-17,17>>^ Quem exprime fidelidade conta o que é justo, a testemunha falsa, porém, engano.
+
+[[v20-12-18]]
+
+^<<v20-12-18,18>>^ Existe aquele que fala irrefletidamente como que com as estocadas duma espada, mas a língua dos sábios é uma cura.
+
+[[v20-12-19]]
+
+^<<v20-12-19,19>>^ É o lábio da verdade que será firmemente estabelecido para todo o sempre, mas a língua de falsidade só existirá por um instante.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “só existirá enquanto eu estiver inclinado a dar descanso [ou: a piscar]”.
+====
+
+[[v20-12-20]]
+
+^<<v20-12-20,20>>^ Há fraude no coração dos que projetam maldade, mas os que aconselham a paz têm alegria.
+
+[[v20-12-21]]
+
+^<<v20-12-21,21>>^ Nada prejudicial acontecerá ao justo, mas os iníquos são os que certamente ficarão cheios de calamidade.
+
+[[v20-12-22]]
+
+^<<v20-12-22,22>>^ Lábios falsos são algo detestável para Jeová, mas os que agem em fidelidade são um prazer para ele.
+
+[[v20-12-23]]
+
+^<<v20-12-23,23>>^ O homem^&#42;1^ argucioso encobre o conhecimento, mas o coração dos estúpidos é o que proclama tolice.
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’a·dhám.
+====
+
+[[v20-12-24]]
+
+^<<v20-12-24,24>>^ A mão dos diligentes é a que governará, mas a mão indolente virá a ser para trabalho forçado.
+
+[[v20-12-25]]
+
+^<<v20-12-25,25>>^ A ansiedade no coração do homem^&#42;1^ é o que o fará curvar-se, mas a boa palavra é o que o alegra.
+
+[NOTE]
+====
+. “Homem.” Hebr.: ’ish.
+====
+
+[[v20-12-26]]
+
+^<<v20-12-26,26>>^ O justo espia o seu próprio pasto, mas o próprio caminho dos iníquos os faz vaguear.
+
+[[v20-12-27]]
+
+^<<v20-12-27,27>>^ A indolência não espantará os animais de caça para a pessoa, mas o diligente é a abastança preciosa do homem.^&#42;1^
+
+[NOTE]
+====
+. “Do homem.” Hebr.: ’a·dhám.
+====
+
+[[v20-12-28]]
+
+^<<v20-12-28,28>>^ Na vereda da justiça há vida, e a jornada na sua senda não significa morte.
+
+'''
+
+xref:020-proverbios/020-proverbios-011.adoc#v20-11-0[&#60; Capítulo Anterior] | <<v20-12-0,Topo>> | xref:020-proverbios/020-proverbios-013.adoc#v20-13-0[Próximo Capítulo &#62;]

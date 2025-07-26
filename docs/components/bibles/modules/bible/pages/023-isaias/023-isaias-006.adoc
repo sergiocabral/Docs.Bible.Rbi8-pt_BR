@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v23-6-0]]
+=== Isaías, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-6-1]]
+
+^<<v23-6-1,1>>^ No ano em que morreu o Rei Uzias, eu, no entanto, cheguei a ver Jeová^&#42;1^ sentado num trono enaltecido e elevado, e as orlas da sua [veste] enchiam o templo.^&#42;2^
+
+[NOTE]
+====
+. Uma das 134 mudanças de YHWH para ’Adho·naí feitas pelos escribas. Veja Ap. 1B.
+. Ou “o palácio”. Hebr.: ha·heh·khál, como em 2Rs 20:18; lat.: tém·plum. Veja Mt 23:16 n.
+====
+
+[[v23-6-2]]
+
+^<<v23-6-2,2>>^ Acima dele^&#42;1^ havia serafins de pé. Cada um tinha seis asas. Com duas cobria sua face, e com duas cobria seus pés, e com duas voava.
+
+[NOTE]
+====
+. “Daquilo”, Vg; provavelmente o “trono”.
+====
+
+[[v23-6-3]]
+
+^<<v23-6-3,3>>^ E este clamou para aquele e disse: “Santo, santo, santo é Jeová dos exércitos. A plenitude de toda a terra é sua glória.”
+
+[[v23-6-4]]
+
+^<<v23-6-4,4>>^ E os pivôs dos limiares começaram a estremecer diante da voz daquele que clamava, e a própria casa encheu-se gradualmente de fumaça.^&#42;1^
+
+[NOTE]
+====
+. “E a casa começou a ficar cheia de fumaça”, James Washington Watts (1979). Veja Ap. 3C.
+====
+
+[[v23-6-5]]
+
+^<<v23-6-5,5>>^ E eu passei a dizer: “Ai de mim! Pois, a bem dizer, fui silenciado, porque sou homem de lábios impuros e moro no meio de um povo de lábios impuros; pois os meus olhos viram o próprio Rei, Jeová dos exércitos!”
+
+[[v23-6-6]]
+
+^<<v23-6-6,6>>^ Em vista disso voou para mim um dos serafins, e na sua mão havia uma brasa viva que ele tirara do altar com uma tenaz.
+
+[[v23-6-7]]
+
+^<<v23-6-7,7>>^ E ele passou a tocar-me a boca e a dizer: “Eis que isto tocou os teus lábios, e teu erro sumiu e o próprio pecado teu está expiado.”
+
+[[v23-6-8]]
+
+^<<v23-6-8,8>>^ E comecei a ouvir a voz de Jeová,^&#42;1^ dizendo: “A quem enviarei e quem irá por nós?” E eu passei a dizer: “Eis-me aqui! Envia-me.”
+
+[NOTE]
+====
+. Veja v. 1 n.: “Jeová”.
+====
+
+[[v23-6-9]]
+
+^<<v23-6-9,9>>^ E ele prosseguiu, dizendo: “Vai, e tens de dizer a este povo: ‘Ouvi vez após vez, mas não entendais; e vede vez após vez, mas não obtenhais conhecimento.’
+
+[[v23-6-10]]
+
+^<<v23-6-10,10>>^ Torna embotado^&#42;1^ o coração deste povo e torna insensíveis^&#42;2^ os próprios ouvidos deles, e gruda os próprios olhos deles, para que não vejam com os seus olhos e não ouçam com os seus ouvidos, e para que seu próprio coração não entenda, e para que realmente não recuem e obtenham para si a cura.”
+
+[NOTE]
+====
+. Lit.: “gordo”.
+. Lit.: “pesados”.
+====
+
+[[v23-6-11]]
+
+^<<v23-6-11,11>>^ Nisto eu disse: “Até quando, ó Jeová?”^&#42;1^ Então ele disse: “Até que as cidades realmente se desmoronem em ruínas, para ficarem sem habitante, e as casas estejam sem homem terreno, e o próprio solo fique arruinado em desolação;
+
+[NOTE]
+====
+. Veja v. 1 n.: “Jeová”.
+====
+
+[[v23-6-12]]
+
+^<<v23-6-12,12>>^ e Jeová realmente remova para longe os homens terrenos e o abandono se torne muito extensivo no meio da terra.^&#42;1^
+
+[NOTE]
+====
+. Veja Is 12:5 n.
+====
+
+[[v23-6-13]]
+
+^<<v23-6-13,13>>^ E ainda haverá nela um décimo, e terá de tornar-se novamente algo a ser queimado, qual árvore grande e qual árvore maciça de que^&#42;1^ há um toco quando se faz o corte [delas]; uma descendência^&#42;2^ santa será o toco dela.”^&#42;3^
+
+[NOTE]
+====
+. “Que”, hebr. pl., M; SyVg e cerca de 100 mss. hebr.: “que”, hebr. sing.
+. Ou “prole”.
+. Ou “será procedente do toco dela”, se houve a omissão duma letra no M.
+====
+
+'''
+
+xref:023-isaias/023-isaias-005.adoc#v23-5-0[&#60; Capítulo Anterior] | <<v23-6-0,Topo>> | xref:023-isaias/023-isaias-007.adoc#v23-7-0[Próximo Capítulo &#62;]

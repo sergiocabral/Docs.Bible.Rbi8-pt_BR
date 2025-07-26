@@ -1,0 +1,102 @@
+include::./index.adoc[]
+
+[[v19-85-0]]
+=== Salmos, 85
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Para o regente. Dos filhos de Corá. Uma melodia._
+
+[[v19-85-1]]
+
+^<<v19-85-1,1>>^ Tiveste prazer na tua terra, ó Jeová;
+Trouxeste de volta^&#42;1^ os que de Jacó foram levados cativos.
+
+[NOTE]
+====
+. Para concordar com TLXXSyVg; M: “voltaste a (com)”.
+====
+
+[[v19-85-2]]
+
+^<<v19-85-2,2>>^ Perdoaste o erro do teu povo;
+Cobriste todos os seus pecados. Selá.
+
+[[v19-85-3]]
+
+^<<v19-85-3,3>>^ Controlaste^&#42;1^ toda a tua fúria;
+Voltaste atrás do calor da tua ira.
+
+[NOTE]
+====
+. Lit.: “recolheste”.
+====
+
+[[v19-85-4]]
+
+^<<v19-85-4,4>>^ Ajunta-nos de volta,^&#42;1^ ó Deus de nossa salvação,
+E descontinua teu vexame conosco.
+
+[NOTE]
+====
+. Ou: “Volta a nós”, MT; LXXSyVg: “Traze-nos de volta.”
+====
+
+[[v19-85-5]]
+
+^<<v19-85-5,5>>^ Irar-te-ás conosco por tempo indefinido?
+Puxarás a tua ira para fora, de geração em geração?
+
+[[v19-85-6]]
+
+^<<v19-85-6,6>>^ Acaso tu mesmo não nos avivarás novamente,
+Para que o teu próprio povo se alegre em ti?
+
+[[v19-85-7]]
+
+^<<v19-85-7,7>>^ Mostra-nos a tua benevolência,^&#42;1^ ó Jeová,
+E que tu nos dês a tua salvação.
+
+[NOTE]
+====
+. Ou “amor leal”.
+====
+
+[[v19-85-8]]
+
+^<<v19-85-8,8>>^ Vou ouvir o que o [verdadeiro] Deus, Jeová, vai falar,
+Pois falará paz ao seu povo e aos que lhe são leais,
+Mas, não voltem eles à confiança em si próprios.
+
+[[v19-85-9]]
+
+^<<v19-85-9,9>>^ Seguramente, sua salvação está perto dos que o temem,
+Para que a glória resida em nossa terra.
+
+[[v19-85-10]]
+
+^<<v19-85-10,10>>^ Quanto à benevolência e à veracidade,^&#42;1^ elas se encontraram;
+Justiça e paz — elas se beijaram.
+
+[NOTE]
+====
+. Ou “à verdade”. Hebr.: we·’eméth.
+====
+
+[[v19-85-11]]
+
+^<<v19-85-11,11>>^ Veracidade é que brotará da própria terra
+E justiça é que olhará para baixo desde os próprios céus.
+
+[[v19-85-12]]
+
+^<<v19-85-12,12>>^ Também Jeová, da sua parte, dará o que é bom,
+E a nossa própria terra dará a sua produção.
+
+[[v19-85-13]]
+
+^<<v19-85-13,13>>^ Diante dele andará a própria justiça
+E ela fará das suas pegadas um caminho.
+
+'''
+
+xref:019-salmo/019-salmo-084.adoc#v19-84-0[&#60; Capítulo Anterior] | <<v19-85-0,Topo>> | xref:019-salmo/019-salmo-086.adoc#v19-86-0[Próximo Capítulo &#62;]

@@ -1,0 +1,142 @@
+include::./index.adoc[]
+
+[[v4-20-0]]
+=== Números, 20
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-20-1]]
+
+^<<v4-20-1,1>>^ E os filhos de Israel, a assembléia inteira, passaram a vir ao ermo de Zim no primeiro mês e o povo passou a morar em Cades. Foi ali que Miriã morreu e ali foi enterrada.
+
+[[v4-20-2]]
+
+^<<v4-20-2,2>>^ Ora, mostrou-se não haver água para a assembléia, e eles começaram a congregar-se contra Moisés e Arão.
+
+[[v4-20-3]]
+
+^<<v4-20-3,3>>^ E o povo foi altercar com Moisés^&#42;1^ e dizer: “Se tão-somente tivéssemos expirado quando nossos irmãos expiraram diante de Jeová!
+
+[NOTE]
+====
+. Sy e um ms. hebr. acrescentam: “e Arão”.
+====
+
+[[v4-20-4]]
+
+^<<v4-20-4,4>>^ E por que trouxestes a congregação de Jeová a este ermo, para nós e os nossos animais de carga morrermos aqui?
+
+[[v4-20-5]]
+
+^<<v4-20-5,5>>^ E por que nos conduzistes para fora do Egito, introduzindo-nos neste lugar mau? Não é lugar de semente, nem de figos, nem de videiras, nem de romãs, e não há água para se beber.”
+
+[[v4-20-6]]
+
+^<<v4-20-6,6>>^ Moisés e Arão vieram então de diante da congregação à entrada da tenda de reunião e lançaram-se com as suas faces [por terra], e começou a aparecer-lhes a glória de Jeová.
+
+[[v4-20-7]]
+
+^<<v4-20-7,7>>^ Jeová falou então a Moisés, dizendo:
+
+[[v4-20-8]]
+
+^<<v4-20-8,8>>^ “Toma o bastão e congrega a assembléia, tu e Arão, teu irmão, e tendes de falar ao rochedo diante dos seus olhos para que deveras dê^&#42;1^ a sua água; e tens de fazer-lhes sair água do rochedo^&#42;2^ e dar de beber à assembléia e aos seus animais de carga.”
+
+[NOTE]
+====
+. Lit.: “e ele tem de dar”.
+. Ou “do penhasco (rocha)”. Hebr.: has·sé·la‛; gr.: pé·tras; sir: ki’·fa’; lat.: pé·tra.
+====
+
+[[v4-20-9]]
+
+^<<v4-20-9,9>>^ Assim, Moisés tomou o bastão de diante de Jeová, conforme lhe tinha ordenado.
+
+[[v4-20-10]]
+
+^<<v4-20-10,10>>^ Depois, Moisés e Arão convocaram a congregação diante do rochedo, e ele passou a dizer-lhes: “Ouvi, agora, rebeldes! É deste rochedo que faremos sair água para vós?”
+
+[[v4-20-11]]
+
+^<<v4-20-11,11>>^ Nisso Moisés ergueu sua mão e golpeou o rochedo duas vezes com o seu bastão; e começou a sair muita água, e a assembléia e seus animais de carga começaram a beber.
+
+[[v4-20-12]]
+
+^<<v4-20-12,12>>^ Mais tarde, Jeová disse a Moisés e a Arão: “Visto que não mostrastes fé em mim para me santificar diante dos olhos dos filhos de Israel, por isso não levareis esta congregação à terra que lhes hei de dar.”
+
+[[v4-20-13]]
+
+^<<v4-20-13,13>>^ Estas são as águas de Meribá,^&#42;1^ porque os filhos de Israel altercaram com Jeová, de modo que foi santificado^&#42;2^ entre eles.
+
+[NOTE]
+====
+. Significando “Altercação; Luta; Contenda”. Hebr.: Meri·váh.
+. Ou “para que fosse santificado”.
+====
+
+[[v4-20-14]]
+
+^<<v4-20-14,14>>^ Subseqüentemente, Moisés enviou de Cades mensageiros ao rei de Edom: “Assim disse teu irmão Israel: ‘Tu mesmo bem sabes toda a dificuldade que nos sobreveio.
+
+[[v4-20-15]]
+
+^<<v4-20-15,15>>^ E nossos pais passaram a descer ao Egito e nós continuamos a morar no Egito por muitos dias; e os egípcios começaram a prejudicar a nós e a nossos pais.
+
+[[v4-20-16]]
+
+^<<v4-20-16,16>>^ Por fim clamamos a Jeová e ele ouviu a nossa voz, e enviou um anjo e nos fez sair do Egito; e eis que estamos em Cades, uma cidade na extremidade do teu território.
+
+[[v4-20-17]]
+
+^<<v4-20-17,17>>^ Por favor, deixa-nos passar pela tua terra. Não passaremos através dum campo ou dum vinhedo e não beberemos a água dum poço. Marcharemos pela estrada real. Não nos desviaremos nem para a direita nem para a esquerda até termos passado pelo teu território.’”
+
+[[v4-20-18]]
+
+^<<v4-20-18,18>>^ No entanto, Edom lhe disse: “Não deves passar por mim, para que eu não vá com a espada ao teu encontro.”
+
+[[v4-20-19]]
+
+^<<v4-20-19,19>>^ Os filhos de Israel disseram-lhe por sua vez: “Subiremos pela estrada principal; e se eu e meu gado bebermos da tua água, então certamente darei o valor dela. Não quero nada mais do que passar a pé.”
+
+[[v4-20-20]]
+
+^<<v4-20-20,20>>^ Contudo, ele disse: “Não deves passar.” Com isso, Edom saiu-lhe ao encontro com muitíssimo povo e mão forte.
+
+[[v4-20-21]]
+
+^<<v4-20-21,21>>^ Assim, Edom negou-se a conceder a Israel passagem pelo seu território. Portanto, Israel desviou-se dele.
+
+[[v4-20-22]]
+
+^<<v4-20-22,22>>^ E os filhos de Israel, a assembléia inteira, passaram a partir de Cades e a chegar ao monte Hor.
+
+[[v4-20-23]]
+
+^<<v4-20-23,23>>^ Jeová disse então o seguinte a Moisés e a Arão no monte Hor, na fronteira da terra de Edom:
+
+[[v4-20-24]]
+
+^<<v4-20-24,24>>^ “Arão será ajuntado ao seu povo, pois não entrará na terra que hei de dar aos filhos de Israel, visto que vós vos rebelastes contra a minha ordem referente às águas de Meribá.
+
+[[v4-20-25]]
+
+^<<v4-20-25,25>>^ Toma Arão e Eleazar, seu filho, e traze-os para cima ao monte Hor.
+
+[[v4-20-26]]
+
+^<<v4-20-26,26>>^ E despe Arão de suas vestes, e tens de vestir Eleazar, seu filho; e Arão será ajuntado e terá de morrer ali.”
+
+[[v4-20-27]]
+
+^<<v4-20-27,27>>^ Portanto, Moisés fez exatamente como Jeová ordenara; e foram subir ao monte Hor diante dos olhos de toda a assembléia.
+
+[[v4-20-28]]
+
+^<<v4-20-28,28>>^ Moisés despiu então Arão de suas vestes e vestiu com elas Eleazar, seu filho, morrendo depois Arão ali no cume do monte. E Moisés e Eleazar desceram do monte.
+
+[[v4-20-29]]
+
+^<<v4-20-29,29>>^ E toda a assembléia chegou a ver que Arão havia expirado, e por trinta dias toda a casa de Israel continuou a chorar a Arão.
+
+'''
+
+xref:004-numeros/004-numeros-019.adoc#v4-19-0[&#60; Capítulo Anterior] | <<v4-20-0,Topo>> | xref:004-numeros/004-numeros-021.adoc#v4-21-0[Próximo Capítulo &#62;]

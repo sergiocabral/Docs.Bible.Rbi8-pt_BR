@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v19-113-0]]
+=== Salmos, 113
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-113-1]]
+
+^<<v19-113-1,1>>^ ^&#42;1^ Louvai a Jah!^&#42;2^
+Oferecei louvor,^&#42;3^ ó servos de Jeová,
+Louvai o nome de Jeová.
+
+[NOTE]
+====
+. O Sal 113 é o primeiro dos seis Salmos de Halel. Veja 114:1 n.
+. Veja 104:35 n.
+. “Oferecei louvor.” Hebr.: ha·lelú.
+====
+
+[[v19-113-2]]
+
+^<<v19-113-2,2>>^ Venha a ser abençoado o nome de Jeová
+Desde agora e por tempo indefinido.
+
+[[v19-113-3]]
+
+^<<v19-113-3,3>>^ Desde o nascente do sol até o seu poente,
+O nome de Jeová deve ser louvado.
+
+[[v19-113-4]]
+
+^<<v19-113-4,4>>^ Jeová tem ficado muito enaltecido sobre todas as nações;
+Sua glória está acima dos céus.
+
+[[v19-113-5]]
+
+^<<v19-113-5,5>>^ Quem é semelhante a Jeová, nosso Deus,
+Aquele que faz a sua morada no alto?
+
+[[v19-113-6]]
+
+^<<v19-113-6,6>>^ Ele condescende em olhar para o céu e para a terra,
+
+[[v19-113-7]]
+
+^<<v19-113-7,7>>^ Levantando o de condição humilde do próprio pó;
+Ele ergue o pobre da própria cova de cinzas,
+
+[[v19-113-8]]
+
+^<<v19-113-8,8>>^ Para fazê-lo sentar-se com os nobres,
+Com os nobres do seu povo.
+
+[[v19-113-9]]
+
+^<<v19-113-9,9>>^ Ele faz a estéril morar numa casa
+Como mãe alegre de filhos.
+Louvai a Jah!^&#42;1^
+
+[NOTE]
+====
+. Veja 104:35 n.
+====
+
+'''
+
+xref:019-salmo/019-salmo-112.adoc#v19-112-0[&#60; Capítulo Anterior] | <<v19-113-0,Topo>> | xref:019-salmo/019-salmo-114.adoc#v19-114-0[Próximo Capítulo &#62;]

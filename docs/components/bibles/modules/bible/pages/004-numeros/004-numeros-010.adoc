@@ -1,0 +1,184 @@
+include::./index.adoc[]
+
+[[v4-10-0]]
+=== Números, 10
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v4-10-1]]
+
+^<<v4-10-1,1>>^ E Jeová passou a falar a Moisés, dizendo:
+
+[[v4-10-2]]
+
+^<<v4-10-2,2>>^ “Faze para ti duas trombetas^&#42;1^ de prata. Fá-las-ás obra batida ao martelo, e elas têm de estar ao teu serviço para se reunir a assembléia e para se levantarem os acampamentos.
+
+[NOTE]
+====
+. Ou “trombetas retas”. Hebr.: hhatsoh·tseróth; diferentes do shoh·fár, que era um chifre curvo de animal, usado como instrumento para dar sinais.
+====
+
+[[v4-10-3]]
+
+^<<v4-10-3,3>>^ E eles têm de tocar ambas, e toda a assembléia tem de manter seu encontro contigo à entrada da tenda de reunião.
+
+[[v4-10-4]]
+
+^<<v4-10-4,4>>^ E se tocarem apenas uma, então os maiorais como cabeças dos milhares de Israel terão de manter seu encontro contigo.
+
+[[v4-10-5]]
+
+^<<v4-10-5,5>>^ “E tendes de dar um toque trêmulo e os acampamentos dos acampados ao leste têm de partir.
+
+[[v4-10-6]]
+
+^<<v4-10-6,6>>^ E tendes de dar pela segunda vez um toque trêmulo, e os acampamentos dos acampados ao sul têm de partir.^&#42;1^ Devem dar um toque trêmulo cada vez que um deles parte.
+
+[NOTE]
+====
+. LXXIt e a Versão Copta acrescentam: “Quando tocardes um terceiro sinal, então os acampamentos dos acampados ao oeste partirão. Quando tocardes um quarto sinal, então os acampamentos dos acampados ao norte partirão.”
+====
+
+[[v4-10-7]]
+
+^<<v4-10-7,7>>^ “Ora, ao se convocar a congregação, deveis tocar, mas não deveis dar o toque trêmulo.
+
+[[v4-10-8]]
+
+^<<v4-10-8,8>>^ E os filhos de Arão, os sacerdotes, devem tocar as trombetas, e o uso delas tem de servir-vos de estatuto por tempo indefinido nas vossas gerações.
+
+[[v4-10-9]]
+
+^<<v4-10-9,9>>^ “E caso no vosso país entreis numa guerra contra o opressor que vos hostiliza, então tendes de dar um toque de guerra nas trombetas, e certamente sereis lembrados diante de Jeová, vosso Deus, e sereis salvos dos vossos inimigos.
+
+[[v4-10-10]]
+
+^<<v4-10-10,10>>^ “E no dia da vossa alegria e nas vossas épocas festivas, e nos começos dos vossos meses, tendes de tocar as trombetas sobre as vossas ofertas queimadas e os vossos sacrifícios de participação em comum; e o uso delas tem de servir-vos de recordação^&#42;1^ perante vosso Deus. Eu sou Jeová, vosso Deus.”
+
+[NOTE]
+====
+. Ou “de lembrete”.
+====
+
+[[v4-10-11]]
+
+^<<v4-10-11,11>>^ Sucedeu então, no segundo ano, no segundo mês, no dia vinte do mês, que a nuvem se elevou de cima do tabernáculo do Testemunho.
+
+[[v4-10-12]]
+
+^<<v4-10-12,12>>^ E os filhos de Israel começaram a partir, na maneira das suas partidas, do ermo de Sinai, e a nuvem passou a residir no ermo de Parã.
+
+[[v4-10-13]]
+
+^<<v4-10-13,13>>^ E começaram a partir pela primeira vez segundo a ordem de Jeová [dada] mediante Moisés.
+
+[[v4-10-14]]
+
+^<<v4-10-14,14>>^ Assim, a divisão [de três tribos]^&#42;1^ do acampamento dos filhos de Judá partiu primeiro nos seus exércitos, e Nasom, filho de Aminadabe, estava sobre o seu exército.
+
+[NOTE]
+====
+. “Divisão [de três tribos].” Hebr.: dé·ghel.
+====
+
+[[v4-10-15]]
+
+^<<v4-10-15,15>>^ E sobre o exército da tribo dos filhos de Issacar estava Netanel, filho de Zuar.
+
+[[v4-10-16]]
+
+^<<v4-10-16,16>>^ E sobre o exército da tribo dos filhos de Zebulão estava Eliabe, filho de Helom.
+
+[[v4-10-17]]
+
+^<<v4-10-17,17>>^ E o tabernáculo foi desarmado, e os filhos de Gérson e os filhos de Merari partiram como portadores do tabernáculo.
+
+[[v4-10-18]]
+
+^<<v4-10-18,18>>^ E partiu a divisão [de três tribos] do acampamento de Rubem nos seus exércitos, e Elizur, filho de Sedeur, estava sobre o seu exército.
+
+[[v4-10-19]]
+
+^<<v4-10-19,19>>^ E sobre o exército da tribo dos filhos de Simeão estava Selumiel, filho de Zurisadai.
+
+[[v4-10-20]]
+
+^<<v4-10-20,20>>^ E sobre o exército da tribo dos filhos de Gade estava Eliasafe, filho de Deuel.
+
+[[v4-10-21]]
+
+^<<v4-10-21,21>>^ E partiram os coatitas como portadores do santuário, visto que terão erigido o tabernáculo no tempo de sua chegada.
+
+[[v4-10-22]]
+
+^<<v4-10-22,22>>^ E partiu a divisão [de três tribos] do acampamento dos filhos de Efraim nos seus exércitos, e Elisama, filho de Amiúde, estava sobre o seu exército.
+
+[[v4-10-23]]
+
+^<<v4-10-23,23>>^ E sobre o exército da tribo dos filhos de Manassés estava Gamaliel, filho de Pedazur.
+
+[[v4-10-24]]
+
+^<<v4-10-24,24>>^ E sobre o exército da tribo dos filhos de Benjamim estava Abidã, filho de Gideoni.
+
+[[v4-10-25]]
+
+^<<v4-10-25,25>>^ E partiu a divisão [de três tribos] do acampamento dos filhos de Dã, formando a retaguarda para todos os acampamentos nos seus exércitos, e Aiezer, filho de Amisadai, estava sobre o seu exército.
+
+[[v4-10-26]]
+
+^<<v4-10-26,26>>^ E sobre o exército da tribo dos filhos de Aser estava Pagiel, filho de Ocrã.
+
+[[v4-10-27]]
+
+^<<v4-10-27,27>>^ E sobre o exército da tribo dos filhos de Naftali estava Aira, filho de Enã.
+
+[[v4-10-28]]
+
+^<<v4-10-28,28>>^ Desta maneira se deram as partidas dos filhos de Israel nos seus exércitos, sempre que partiam.
+
+[[v4-10-29]]
+
+^<<v4-10-29,29>>^ Moisés disse então a Hobabe, filho de Reuel, o midianita, sogro de Moisés:^&#42;1^ “Partimos para o lugar a respeito do qual Jeová disse: ‘A vós o darei.’ Vem deveras conosco, e certamente te faremos bem, porque Jeová falou bem a respeito de Israel.”
+
+[NOTE]
+====
+. Ou “cujo genro Moisés era”. LXX: “a ligação marital (o parente por afinidade) de Moisés”; Vg: “seu parente consangüíneo”.
+====
+
+[[v4-10-30]]
+
+^<<v4-10-30,30>>^ Mas ele lhe disse: “Não irei junto, mas irei para o meu próprio país e para a minha parentela.”
+
+[[v4-10-31]]
+
+^<<v4-10-31,31>>^ A isso ele disse: “Por favor, não nos deixes, pois, por conheceres bem onde podemos acampar-nos no ermo, tens de servir-nos de olhos.
+
+[[v4-10-32]]
+
+^<<v4-10-32,32>>^ E tem de se dar que, caso venhas conosco, tem de suceder que, com a bondade com que Jeová nos fizer bem, nós, da nossa parte, te havemos de fazer bem.”
+
+[[v4-10-33]]
+
+^<<v4-10-33,33>>^ Prosseguiram assim marchando desde o monte de Jeová numa jornada de três dias e a arca do pacto de Jeová marchava na frente deles numa jornada de três dias em busca dum lugar de descanso para eles.
+
+[[v4-10-34]]
+
+^<<v4-10-34,34>>^ E a nuvem de Jeová estava sobre eles de dia, ao saírem marchando do acampamento.
+
+[[v4-10-35]]
+
+^<<v4-10-35,35>>^ E dava-se que, quando a Arca partia, Moisés dizia: “Levanta-te deveras, ó Jeová, e sejam dispersados os teus inimigos; e fujam de diante de ti os que te odeiam intensamente.”
+
+[[v4-10-36]]
+
+^<<v4-10-36,36>>^ E quando descansava, dizia: “Volta deveras, ó Jeová,^&#42;1^ às miríades dos milhares de Israel.”^&#42;2^
+
+[NOTE]
+====
+. “Traze de volta, ó Jeová”, LXX.
+. “Às miríades e aos milhares de Israel”, Sy; Vg: “à multidão do exército de Israel”.
+====
+
+'''
+
+xref:004-numeros/004-numeros-009.adoc#v4-9-0[&#60; Capítulo Anterior] | <<v4-10-0,Topo>> | xref:004-numeros/004-numeros-011.adoc#v4-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,160 @@
+include::./index.adoc[]
+
+[[v3-18-0]]
+=== Levítico, 18
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v3-18-1]]
+
+^<<v3-18-1,1>>^ E Jeová continuou a falar a Moisés, dizendo:
+
+[[v3-18-2]]
+
+^<<v3-18-2,2>>^ “Fala aos filhos de Israel, e tens de dizer-lhes: ‘Eu sou Jeová, vosso Deus.
+
+[[v3-18-3]]
+
+^<<v3-18-3,3>>^ Não deveis fazer assim como faz a terra do Egito, em que morastes; e não deveis fazer assim como faz a terra de Canaã, na qual vos introduzo; e não deveis andar nos seus estatutos.
+
+[[v3-18-4]]
+
+^<<v3-18-4,4>>^ Deveis cumprir as minhas decisões judiciais e deveis guardar os meus estatutos, para andardes nelas. Eu sou Jeová, vosso Deus.
+
+[[v3-18-5]]
+
+^<<v3-18-5,5>>^ E tendes de guardar os meus estatutos e as minhas decisões judiciais, cumprindo as quais o homem^&#42;1^ também tem de viver por meio delas.^&#42;2^ Eu sou Jeová.
+
+[NOTE]
+====
+. Ou “o homem terreno”. Hebr.: ha·’a·dhám.
+. Ou “viver nelas”.
+====
+
+[[v3-18-6]]
+
+^<<v3-18-6,6>>^ “‘Não vos deveis chegar, nenhum de vós, a qualquer parente carnal que lhe seja chegado, para descobrir a nudez. Eu sou Jeová.
+
+[[v3-18-7]]
+
+^<<v3-18-7,7>>^ Não deves descobrir a nudez^&#42;1^ de teu pai nem a nudez de tua mãe. Ela é tua mãe. Não deves descobrir a sua nudez.
+
+[NOTE]
+====
+. Ou “órgãos genitais”.
+====
+
+[[v3-18-8]]
+
+^<<v3-18-8,8>>^ “‘Não deves descobrir a nudez da esposa de teu pai. É a nudez de teu pai.
+
+[[v3-18-9]]
+
+^<<v3-18-9,9>>^ “‘Quanto à nudez de tua irmã, filha de teu pai ou filha de tua mãe, quer nascida na mesma família, quer nascida fora dela, não deves descobrir a sua nudez.
+
+[[v3-18-10]]
+
+^<<v3-18-10,10>>^ “‘Quanto à nudez da filha de teu filho ou da filha de tua filha, não deves descobrir a sua nudez, porque elas são a tua nudez.
+
+[[v3-18-11]]
+
+^<<v3-18-11,11>>^ “‘Quanto à nudez da filha da esposa de teu pai, descendente de teu pai, sendo ela tua irmã, não deves descobrir a sua nudez.
+
+[[v3-18-12]]
+
+^<<v3-18-12,12>>^ “‘Não deves descobrir a nudez da irmã de teu pai. Ela é parenta consangüínea de teu pai.
+
+[[v3-18-13]]
+
+^<<v3-18-13,13>>^ “‘Não deves descobrir a nudez da irmã de tua mãe, porque ela é parenta consangüínea de tua mãe.
+
+[[v3-18-14]]
+
+^<<v3-18-14,14>>^ “‘Não deves descobrir a nudez do irmão de teu pai. Não te deves chegar à sua esposa. Ela é tua tia.
+
+[[v3-18-15]]
+
+^<<v3-18-15,15>>^ “‘Não deves descobrir a nudez de tua nora. Ela é a esposa de teu filho. Não deves descobrir a sua nudez.
+
+[[v3-18-16]]
+
+^<<v3-18-16,16>>^ “‘Não deves descobrir a nudez da esposa de teu irmão. É a nudez de teu irmão.
+
+[[v3-18-17]]
+
+^<<v3-18-17,17>>^ “‘Não deves descobrir a nudez duma mulher e de sua filha. Não deves tomar a filha de seu filho nem a filha de sua filha para descobrir a sua nudez. São casos de parentesco consangüíneo. É conduta desenfreada.^&#42;1^
+
+[NOTE]
+====
+. “Conduta desenfreada.” Hebr.: zim·máh; lat.: in·cé·stus. Veja Ro 13:13 n.; Gál 5:19 n.: “desenfreada”.
+====
+
+[[v3-18-18]]
+
+^<<v3-18-18,18>>^ “‘E não deves tomar uma mulher em adição à sua irmã, como rival, para descobrir a sua nudez, isto é, ao lado dela, durante a sua vida.
+
+[[v3-18-19]]
+
+^<<v3-18-19,19>>^ “‘E não te deves chegar a uma mulher durante a menstruação de sua impureza para descobrir a sua nudez.
+
+[[v3-18-20]]
+
+^<<v3-18-20,20>>^ “‘E não deves dar a tua emissão como sêmen à esposa de teu colega, tornando-te impuro por ela.
+
+[[v3-18-21]]
+
+^<<v3-18-21,21>>^ “‘E não deves permitir que alguém da tua descendência seja devotado^&#42;1^ a Moloque. Não deves profanar assim o nome de teu Deus. Eu sou Jeová.
+
+[NOTE]
+====
+. Ou “permitir a passagem [pelo fogo]”.
+====
+
+[[v3-18-22]]
+
+^<<v3-18-22,22>>^ “‘E não te deves deitar com um macho assim como te deitas com uma mulher. É algo detestável.
+
+[[v3-18-23]]
+
+^<<v3-18-23,23>>^ “‘E não deves dar a tua emissão a qualquer animal, tornando-te com isso impuro, e a mulher não deve ficar diante de um animal para ter contato com ele.^&#42;1^ É uma violação daquilo que é natural.
+
+[NOTE]
+====
+. Ou “ter contato com ela”. Sy: “para que seja montada por ele”.
+====
+
+[[v3-18-24]]
+
+^<<v3-18-24,24>>^ “‘Não vos façais impuros por qualquer destas coisas, porque por todas estas coisas se fizeram impuras as nações que ponho para fora diante de vós.
+
+[[v3-18-25]]
+
+^<<v3-18-25,25>>^ Por conseguinte, a terra é impura e eu trarei sobre ela punição pelo seu erro, e a terra vomitará os seus habitantes.
+
+[[v3-18-26]]
+
+^<<v3-18-26,26>>^ E vós mesmos tendes de guardar os meus estatutos e as minhas decisões judiciais, e não deveis fazer nenhuma de todas estas coisas detestáveis, quer o natural quer o residente forasteiro que reside no vosso meio.
+
+[[v3-18-27]]
+
+^<<v3-18-27,27>>^ Pois todas estas coisas detestáveis foram feitas pelos homens da terra, que vos precederam, de modo que a terra é impura.
+
+[[v3-18-28]]
+
+^<<v3-18-28,28>>^ Então a terra não vos vomitará porque a profanais, assim como certamente vomitará as nações^&#42;1^ que vos precederam.
+
+[NOTE]
+====
+. “Nações”, LXXSy; MVg: “nação”.
+====
+
+[[v3-18-29]]
+
+^<<v3-18-29,29>>^ Caso alguém faça qualquer de todas estas coisas detestáveis, então as almas que as fazem têm de ser decepadas dentre seu povo.
+
+[[v3-18-30]]
+
+^<<v3-18-30,30>>^ E tendes de cuidar da vossa obrigação para comigo, de não praticardes nenhum dos costumes detestáveis que se praticaram antes de vós, para que não vos façais impuros por eles. Eu sou Jeová, vosso Deus.’”
+
+'''
+
+xref:003-levitico/003-levitico-017.adoc#v3-17-0[&#60; Capítulo Anterior] | <<v3-18-0,Topo>> | xref:003-levitico/003-levitico-019.adoc#v3-19-0[Próximo Capítulo &#62;]

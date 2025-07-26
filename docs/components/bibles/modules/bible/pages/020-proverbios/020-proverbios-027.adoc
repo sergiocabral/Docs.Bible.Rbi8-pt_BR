@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v20-27-0]]
+=== Provérbios, 27
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v20-27-1]]
+
+^<<v20-27-1,1>>^ Não te jactes do dia seguinte, pois não sabes o que o dia dará à luz.
+
+[[v20-27-2]]
+
+^<<v20-27-2,2>>^ Louve-te o estranho e não a tua própria boca; faça-o o estrangeiro e não os teus próprios lábios.
+
+[[v20-27-3]]
+
+^<<v20-27-3,3>>^ O peso de uma pedra e uma carga de areia — mas o vexame por parte de um tolo é mais pesado do que ambos.
+
+[[v20-27-4]]
+
+^<<v20-27-4,4>>^ Há a crueldade do furor, também a enchente da ira, mas quem pode manter-se de pé diante do ciúme?
+
+[[v20-27-5]]
+
+^<<v20-27-5,5>>^ Melhor a repreensão revelada do que o amor escondido.
+
+[[v20-27-6]]
+
+^<<v20-27-6,6>>^ Fiéis são os ferimentos infligidos por alguém que ama,^&#42;1^ mas os beijos de quem odeia são coisas a serem suplicadas.^&#42;2^
+
+[NOTE]
+====
+. Ou “amigo”. Hebr.: ’oh·hév.
+. Ou “são excessivos”. Mediante uma correção no M: “são corruptos”.
+====
+
+[[v20-27-7]]
+
+^<<v20-27-7,7>>^ A alma saciada calcará o favo de mel, mas para a alma faminta, toda coisa amarga é doce.
+
+[[v20-27-8]]
+
+^<<v20-27-8,8>>^ Como o pássaro fugindo do seu ninho é o homem que foge do seu lugar.
+
+[[v20-27-9]]
+
+^<<v20-27-9,9>>^ Óleo e incenso são os que alegram o coração, também a doçura do companheiro que se tem, devido ao conselho da alma.
+
+[[v20-27-10]]
+
+^<<v20-27-10,10>>^ Não abandones o teu próprio companheiro ou o companheiro de teu pai, e não entres na casa de teu próprio irmão no dia do teu desastre. Melhor o vizinho que está perto do que um irmão que está longe.
+
+[[v20-27-11]]
+
+^<<v20-27-11,11>>^ Sê sábio, filho meu, e alegra meu coração, para que eu possa replicar àquele que me escarnece.
+
+[[v20-27-12]]
+
+^<<v20-27-12,12>>^ O argucioso que viu a calamidade foi esconder-se; os inexperientes que passaram adiante sofreram a penalidade.
+
+[[v20-27-13]]
+
+^<<v20-27-13,13>>^ Toma a veste da pessoa, caso a pessoa tenha prestado fiança por um estranho; e no caso duma mulher estrangeira, toma dele um penhor.
+
+[[v20-27-14]]
+
+^<<v20-27-14,14>>^ Aquele que de manhã cedo bendiz o seu próximo com voz alta, dele será isso contado como invocação do mal.
+
+[[v20-27-15]]
+
+^<<v20-27-15,15>>^ A goteira do telhado, que afugenta no dia de chuva contínua, e a esposa contenciosa são comparáveis.
+
+[[v20-27-16]]
+
+^<<v20-27-16,16>>^ Quem a abriga, abriga o vento, e o que a sua direita encontra é óleo.^&#42;1^
+
+[NOTE]
+====
+. Ou “e o óleo na sua mão direita clama (trai-se)”.
+====
+
+[[v20-27-17]]
+
+^<<v20-27-17,17>>^ O ferro se aguça com o próprio ferro. Assim um homem^&#42;1^ aguça a face de outro.^&#42;2^
+
+[NOTE]
+====
+. “Assim um homem.” Hebr.: we’ísh.
+. Este v. poderá rezar assim mediante ligeiras mudanças dos sinais vocálicos do M, para concordar com TLXXSyVg.
+====
+
+[[v20-27-18]]
+
+^<<v20-27-18,18>>^ Quem resguarda a figueira é quem comerá do seu fruto, e aquele que guarda seu amo^&#42;1^ será honrado.
+
+[NOTE]
+====
+. “Seu amo.” Hebr.: ’adho·náv, pl. de ’a·dhóhn, para denotar excelência.
+====
+
+[[v20-27-19]]
+
+^<<v20-27-19,19>>^ Assim como na água face corresponde à face, assim o coração de homem^&#42;1^ [corresponde] ao do homem.
+
+[NOTE]
+====
+. Lit.: “assim o coração do homem terreno”. Hebr.: ken lev-ha·’a·dhám.
+====
+
+[[v20-27-20]]
+
+^<<v20-27-20,20>>^ O próprio Seol e [o lugar de] destruição^&#42;1^ não se fartam; nem se saciam os olhos do homem.
+
+[NOTE]
+====
+. “E [o lugar de] destruição.” Hebr.: wa·’avad·dóh, “Abadon”. Veja Jó 26:6 n.
+====
+
+[[v20-27-21]]
+
+^<<v20-27-21,21>>^ O cadinho de refinação é para a prata e o forno de fundição é para o ouro; e a pessoa é segundo o seu louvor.
+
+[[v20-27-22]]
+
+^<<v20-27-22,22>>^ Ainda que triturasses o tolo com o pilão no almofariz, no meio de grãos pilados, não se afastaria dele a sua tolice.
+
+[[v20-27-23]]
+
+^<<v20-27-23,23>>^ Devias conhecer positivamente a aparência do teu rebanho. Fixa teu coração nas tuas greis;
+
+[[v20-27-24]]
+
+^<<v20-27-24,24>>^ porque o tesouro não ficará por tempo indefinido, nem o diadema por todas as gerações.
+
+[[v20-27-25]]
+
+^<<v20-27-25,25>>^ Desapareceu o capim verde e apareceu a relva nova, e ajuntou-se a vegetação dos montes.
+
+[[v20-27-26]]
+
+^<<v20-27-26,26>>^ Os carneirinhos são para a tua vestimenta e os cabritos são o preço do campo.
+
+[[v20-27-27]]
+
+^<<v20-27-27,27>>^ E há suficiência de leite de cabra para teu alimento, para alimento dos da tua casa, e os meios de vida para as tuas moças.
+
+'''
+
+xref:020-proverbios/020-proverbios-026.adoc#v20-26-0[&#60; Capítulo Anterior] | <<v20-27-0,Topo>> | xref:020-proverbios/020-proverbios-028.adoc#v20-28-0[Próximo Capítulo &#62;]

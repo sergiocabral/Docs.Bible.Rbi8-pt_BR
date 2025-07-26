@@ -1,0 +1,96 @@
+include::./index.adoc[]
+
+[[v30-8-0]]
+=== Amós, 8
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v30-8-1]]
+
+^<<v30-8-1,1>>^ Isto é o que o Soberano Senhor Jeová me fez ver, e eis que havia um cesto de frutas de verão.
+
+[[v30-8-2]]
+
+^<<v30-8-2,2>>^ Ele disse então: “Que estás vendo, Amós?” De modo que eu disse: “Um cesto de frutas de verão.”^&#42;1^ E Jeová prosseguiu, dizendo-me: “Chegou o fim^&#42;2^ para o meu povo Israel. Não mais os desculparei.
+
+[NOTE]
+====
+. “Frutas de verão.” Hebr.: qá·yits; apontando para o fim do ano agrícola.
+. “O fim.” Hebr.: haq·qéts; trocadilho com a palavra hebr. qá·yits, “frutas de verão”, na primeira parte do v.
+====
+
+[[v30-8-3]]
+
+^<<v30-8-3,3>>^ ‘E as canções do templo, naquele dia, serão realmente uivos’, é a pronunciação do Soberano Senhor Jeová. ‘Haverá muitos cadáveres. Em todo lugar hão de ser lançados fora — caluda!’
+
+[[v30-8-4]]
+
+^<<v30-8-4,4>>^ “Ouvi isto, vós os que abocanhais o pobre, sim, para fazer cessar os mansos^&#42;1^ da terra,
+
+[NOTE]
+====
+. “Mansos”, M; Mmargem: “aflitos”.
+====
+
+[[v30-8-5]]
+
+^<<v30-8-5,5>>^ dizendo: ‘Quando é que passará a lua nova e poderemos vender cereais? Também o sábado, e poderemos oferecer à venda grãos de cereais; a fim de fazer o efa pequeno e para fazer o siclo grande, e para falsificar a balança de engano;
+
+[[v30-8-6]]
+
+^<<v30-8-6,6>>^ a fim de comprar pessoas de condição humilde por mera prata e o pobre pelo [preço de um] par de sandálias, e para vendermos mero refugo de cereais?’
+
+[[v30-8-7]]
+
+^<<v30-8-7,7>>^ “Jeová jurou pela Superioridade^&#42;1^ de Jacó: ‘Nunca me esquecerei de todos os seus trabalhos.
+
+[NOTE]
+====
+. Ou “Orgulho”.
+====
+
+[[v30-8-8]]
+
+^<<v30-8-8,8>>^ Não será por esta razão que a terra^&#42;1^ ficará agitada e que todo habitante nela terá de prantear; e ela, toda ela, certamente subirá como o Nilo e será revolvida e baixará como o Nilo do Egito?’
+
+[NOTE]
+====
+. “A terra.” Hebr.: ha·’á·rets.
+====
+
+[[v30-8-9]]
+
+^<<v30-8-9,9>>^ “‘E naquele dia terá de acontecer’, é a pronunciação do Soberano Senhor Jeová, ‘que vou fazer o sol pôr-se ao meio-dia e vou causar escuridão para a terra num dia claro.
+
+[[v30-8-10]]
+
+^<<v30-8-10,10>>^ E eu vou transformar as vossas festividades em pranto e todas as vossas canções em endecha, e vou fazer que venha serapilheira sobre todos os quadris e calvície sobre cada cabeça; e vou fazer que a situação seja igual ao luto por um [filho] único, e o resultado final disso será como um dia amargo.’
+
+[[v30-8-11]]
+
+^<<v30-8-11,11>>^ “‘Eis que vêm dias’, é a pronunciação do Soberano Senhor Jeová, ‘e eu vou enviar uma fome à terra, uma fome, não de pão,^&#42;1^ e uma sede, não de água, mas de se ouvirem as palavras de Jeová.
+
+[NOTE]
+====
+. Ou “de alimento”. Hebr.: lal·lé·hhem.
+====
+
+[[v30-8-12]]
+
+^<<v30-8-12,12>>^ E certamente andarão cambaleantes de mar a mar, e desde o norte até o nascente. Continuarão a percorrê-la procurando a palavra de Jeová, mas não [a] acharão.
+
+[[v30-8-13]]
+
+^<<v30-8-13,13>>^ Naquele dia desmaiarão as virgens bonitas, também os jovens, por causa da sede;
+
+[[v30-8-14]]
+
+^<<v30-8-14,14>>^ os que juram pela culpa de Samaria e que realmente dizem: “Assim como vive teu deus,^&#42;1^ ó Dã!” e: “Assim como vive o caminho de Berseba!” E hão de cair, e não mais se levantarão.’”
+
+[NOTE]
+====
+. Lit.: “Vivo [está] teu deus.” Hebr.: hheh ’elo·heí·kha, estando o adjetivo “vivo” no masc. sing. no hebr.; gr.: the·ós; lat.: dé·us.
+====
+
+'''
+
+xref:030-amos/030-amos-007.adoc#v30-7-0[&#60; Capítulo Anterior] | <<v30-8-0,Topo>> | xref:030-amos/030-amos-009.adoc#v30-9-0[Próximo Capítulo &#62;]

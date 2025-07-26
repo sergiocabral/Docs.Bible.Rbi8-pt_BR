@@ -1,0 +1,60 @@
+include::./index.adoc[]
+
+[[v19-11-0]]
+=== Salmos, 11
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Ao regente. De Davi._
+
+[[v19-11-1]]
+
+^<<v19-11-1,1>>^ ^&#42;1^ Refugiei-me em Jeová.
+Como vos atreveis a dizer à minha alma:
+“Foge como o pássaro para o vosso monte!
+
+[NOTE]
+====
+. LXXVg conjugam os dois salmos precedentes, tornando este o Sal 10, alterando com isso a numeração dos salmos que seguem.
+====
+
+[[v19-11-2]]
+
+^<<v19-11-2,2>>^ Pois eis que os próprios iníquos estão entesando o arco,
+Preparam deveras a sua flecha sobre a corda do arco
+Para atirar nas trevas contra os que são retos no coração.
+
+[[v19-11-3]]
+
+^<<v19-11-3,3>>^ Quando os próprios alicerces estão derrubados,
+Que tem de fazer o justo?”
+
+[[v19-11-4]]
+
+^<<v19-11-4,4>>^ Jeová está no seu santo templo.
+Jeová — nos céus está o seu trono.
+Seus próprios olhos observam, seus próprios olhos radiantes^&#42;1^ examinam os filhos dos homens.^&#42;2^
+
+[NOTE]
+====
+. Ou “suas pálpebras”.
+. Ou “do homem terreno”. Hebr.: ’a·dhám.
+====
+
+[[v19-11-5]]
+
+^<<v19-11-5,5>>^ O próprio Jeová examina tanto o justo como o iníquo,
+E Sua alma certamente odeia a quem ama a violência.
+
+[[v19-11-6]]
+
+^<<v19-11-6,6>>^ Fará chover armadilhas, fogo e enxofre sobre os iníquos,
+Bem como um vento tórrido, como porção do seu copo.
+
+[[v19-11-7]]
+
+^<<v19-11-7,7>>^ Pois Jeová é justo; deveras ama atos justos.
+Os retos são os que observarão a sua face.
+
+'''
+
+xref:019-salmo/019-salmo-010.adoc#v19-10-0[&#60; Capítulo Anterior] | <<v19-11-0,Topo>> | xref:019-salmo/019-salmo-012.adoc#v19-12-0[Próximo Capítulo &#62;]

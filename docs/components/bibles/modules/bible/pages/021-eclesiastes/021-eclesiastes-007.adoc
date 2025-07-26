@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v21-7-0]]
+=== Eclesiastes, 7
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v21-7-1]]
+
+^<<v21-7-1,1>>^ Um nome^&#42;1^ é melhor do que bom óleo, e o dia da morte [é melhor] do que o dia em que se nasce.
+
+[NOTE]
+====
+. “Um nome.” Hebr.: shem; LXXVg: “Um bom nome.” Veja Pr 22:1 n.
+====
+
+[[v21-7-2]]
+
+^<<v21-7-2,2>>^ Melhor é ir à casa de luto, do que ir à casa de banquete, porque esse é o fim de toda a humanidade; e quem está vivo deve tomar [isso] ao coração.
+
+[[v21-7-3]]
+
+^<<v21-7-3,3>>^ Melhor o vexame do que o riso, pois pelo aborrecimento da face melhora o coração.
+
+[[v21-7-4]]
+
+^<<v21-7-4,4>>^ O coração dos sábios está na casa de luto, mas o coração dos estúpidos está na casa de alegria.
+
+[[v21-7-5]]
+
+^<<v21-7-5,5>>^ Melhor é ouvir a censura de um sábio, do que ser o homem^&#42;1^ que ouve o canto dos estúpidos.
+
+[NOTE]
+====
+. Veja 6:2 n.
+====
+
+[[v21-7-6]]
+
+^<<v21-7-6,6>>^ Pois, igual ao ruído de espinhos sob a panela é o riso do estúpido; e também isto é vaidade.
+
+[[v21-7-7]]
+
+^<<v21-7-7,7>>^ Pois a mera opressão pode fazer o sábio agir como doido, e uma dádiva pode destruir o coração.
+
+[[v21-7-8]]
+
+^<<v21-7-8,8>>^ Melhor é o fim posterior dum assunto do que o seu princípio. Melhor é aquele que é paciente^&#42;1^ do que o soberbo no espírito.
+
+[NOTE]
+====
+. Lit.: “longo em espírito”.
+====
+
+[[v21-7-9]]
+
+^<<v21-7-9,9>>^ Não te precipites no teu espírito em ficar ofendido, pois ficar ofendido é o que descansa no seio dos estúpidos.
+
+[[v21-7-10]]
+
+^<<v21-7-10,10>>^ Não digas: “Por que aconteceu que os dias anteriores mostraram ser melhores do que estes?” pois não é por sabedoria que perguntas sobre isso.
+
+[[v21-7-11]]
+
+^<<v21-7-11,11>>^ A sabedoria junto com uma herança é boa e vantajosa^&#42;1^ para os que vêem o sol.
+
+[NOTE]
+====
+. Ou: “A sabedoria [comparada] com uma possessão é melhor e mais proveitosa.”
+====
+
+[[v21-7-12]]
+
+^<<v21-7-12,12>>^ Pois a sabedoria é para proteção,^&#42;1^ [assim como] o dinheiro é para proteção; mas a vantagem do conhecimento é que a própria sabedoria preserva vivos os que a possuem.
+
+[NOTE]
+====
+. Lit.: “para uma sombra”. Hebr.: betsél.
+====
+
+[[v21-7-13]]
+
+^<<v21-7-13,13>>^ Vê o trabalho do [verdadeiro] Deus, pois quem pode endireitar o que ele entortou?
+
+[[v21-7-14]]
+
+^<<v21-7-14,14>>^ Num dia bom mostra-te em bondade, e num dia calamitoso, vê que o [verdadeiro] Deus fez até mesmo este exatamente como aquele, com o objetivo de que [os da] humanidade^&#42;1^ não descobrissem absolutamente nada depois deles.
+
+[NOTE]
+====
+. Veja 6:7 n.
+====
+
+[[v21-7-15]]
+
+^<<v21-7-15,15>>^ Tenho visto tudo durante os meus dias vãos. Há o justo perecendo na sua justiça e há o iníquo continuando longamente na sua maldade.
+
+[[v21-7-16]]
+
+^<<v21-7-16,16>>^ Não fiques justo demais, nem te mostres excessivamente sábio. Por que devias causar a ti mesmo a desolação?
+
+[[v21-7-17]]
+
+^<<v21-7-17,17>>^ Não sejas iníquo demais, nem te tornes estulto. Por que devias morrer, sendo que não é o teu tempo?
+
+[[v21-7-18]]
+
+^<<v21-7-18,18>>^ Melhor é segurares um, mas tampouco retires a tua mão do outro; pois quem teme a Deus sairá com todos eles.
+
+[[v21-7-19]]
+
+^<<v21-7-19,19>>^ A própria sabedoria é mais forte para o sábio do que dez homens em poder, que venham a estar numa cidade.
+
+[[v21-7-20]]
+
+^<<v21-7-20,20>>^ Pois não há nenhum homem justo na terra, que continue fazendo o bem e que não peque.
+
+[[v21-7-21]]
+
+^<<v21-7-21,21>>^ Também, não entregues teu coração a todas as palavras que se falam, para que não ouças teu servo invocar o mal sobre ti.
+
+[[v21-7-22]]
+
+^<<v21-7-22,22>>^ Pois o teu coração bem sabe, até muitas vezes, que tu, sim tu, tens invocado o mal sobre outros.
+
+[[v21-7-23]]
+
+^<<v21-7-23,23>>^ Tudo isto eu pus à prova com sabedoria. Eu disse: “Vou tornar-me sábio.” Mas isso estava longe de mim.
+
+[[v21-7-24]]
+
+^<<v21-7-24,24>>^ O que veio a ser está longe e extremamente profundo. Quem o pode descobrir?
+
+[[v21-7-25]]
+
+^<<v21-7-25,25>>^ Eu mesmo me voltei, sim, meu coração o fez, para saber, e para perscrutar, e para procurar a sabedoria e a razão das coisas, e para conhecer a iniqüidade da estupidez e a estultícia da doidice;
+
+[[v21-7-26]]
+
+^<<v21-7-26,26>>^ e eu descobri: Mais amarga do que a morte [achei] a mulher que ela mesma é redes de caça, e cujo coração é redes de arrasto, [e] cujas mãos são grilhões. Bom diante do [verdadeiro] Deus é quem dela escapa, mas peca aquele que é capturado por ela.
+
+[[v21-7-27]]
+
+^<<v21-7-27,27>>^ “Vê! Isto eu achei”, disse o congregante,^&#42;1^ “uma coisa [tomada] após outra, para achar o resultado,
+
+[NOTE]
+====
+. “Disse o congregante.” Tanto o verbo como o sujeito, no hebr., estão no fem. Veja Título n. e 1:1 n.
+====
+
+[[v21-7-28]]
+
+^<<v21-7-28,28>>^ que minha alma tem procurado continuamente, mas que não achei. Achei um homem em mil, mas não achei uma mulher entre todas estas.
+
+[[v21-7-29]]
+
+^<<v21-7-29,29>>^ Vê! Achei somente o seguinte: que o [verdadeiro] Deus fez a humanidade^&#42;1^ reta, mas eles mesmos têm procurado muitos planos.”
+
+[NOTE]
+====
+. “Humanidade.” Hebr.: ha·’a·dhám.
+====
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-006.adoc#v21-6-0[&#60; Capítulo Anterior] | <<v21-7-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-008.adoc#v21-8-0[Próximo Capítulo &#62;]

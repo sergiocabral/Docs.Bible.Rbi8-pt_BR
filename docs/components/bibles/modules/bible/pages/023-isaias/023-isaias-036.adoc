@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v23-36-0]]
+=== Isaías, 36
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-36-1]]
+
+^<<v23-36-1,1>>^ Aconteceu então no décimo quarto ano do Rei Ezequias^&#42;1^ que Senaqueribe, rei da Assíria, subiu contra todas as cidades fortificadas de Judá e passou a tomá-las.
+
+[NOTE]
+====
+. Significando “Jeová Fortalece”. Hebr.: Hhiz·qi·yá·hu.
+====
+
+[[v23-36-2]]
+
+^<<v23-36-2,2>>^ E o rei da Assíria, por fim, enviou Rabsaqué de Laquis a Jerusalém, ao Rei Ezequias, com uma pesada força militar, e ele passou a ficar parado junto ao aqueduto do reservatório superior que está junto à estrada principal do campo do lavadeiro.
+
+[[v23-36-3]]
+
+^<<v23-36-3,3>>^ Então saiu a ele Eliaquim, filho de Hilquias,^&#42;1^ que estava sobre os da casa, e Sebna, o secretário, e Joá, filho de Asafe, o cronista.
+
+[NOTE]
+====
+. Significando “Meu Quinhão É Jeová”. Hebr.: Hhil·qi·yá·hu.
+====
+
+[[v23-36-4]]
+
+^<<v23-36-4,4>>^ Por conseguinte, Rabsaqué disse-lhes: “Por favor, dizei a Ezequias: ‘Assim disse o grande rei, o rei da Assíria: “Que confiança é essa em que te estribaste?
+
+[[v23-36-5]]
+
+^<<v23-36-5,5>>^ Disseste^&#42;1^ (mas é a palavra de lábios): ‘Há conselho e potência para a guerra.’ Agora, em quem puseste confiança de modo que te rebelaste contra mim?
+
+[NOTE]
+====
+. “Disseste”, 1QIsa, cerca de 20 mss. hebr. e 2Rs 18:20; MT: “Eu disse.”
+====
+
+[[v23-36-6]]
+
+^<<v23-36-6,6>>^ Eis que confiaste no apoio desta cana esmagada, no Egito, que, se um homem se firmasse nela, certamente lhe penetraria na palma da mão e a furaria. Assim é Faraó, rei do Egito,^&#42;1^ para com todos os que confiam nele.
+
+[NOTE]
+====
+. “Egito.” Hebr.: Mits·rá·yim (no dual), usada para o Egito como um todo, incluindo o Alto e o Baixo Egito. Veja 37:25 n.
+====
+
+[[v23-36-7]]
+
+^<<v23-36-7,7>>^ E caso me digas: ‘É em Jeová, nosso Deus,^&#42;1^ que confiamos’, não é ele cujos altos e cujos altares Ezequias removeu, enquanto disse a Judá e a Jerusalém: ‘É diante deste altar que vos deveis curvar’?”’
+
+[NOTE]
+====
+. “Nosso Deus.” Hebr.: ’Elo·héh·nu.
+====
+
+[[v23-36-8]]
+
+^<<v23-36-8,8>>^ Agora, pois, por favor, faze uma aposta com o meu senhor, o rei da Assíria, e deixa-me dar-te dois mil cavalos, [para ver] se tu, da tua parte, podes pôr neles cavaleiros.
+
+[[v23-36-9]]
+
+^<<v23-36-9,9>>^ Como, então, poderias fazer voltar atrás a face de um único governador dos menores servos de meu senhor, enquanto tu, da tua parte, pões a tua confiança no Egito quanto a carros e a cavaleiros?
+
+[[v23-36-10]]
+
+^<<v23-36-10,10>>^ E agora, acaso é sem autorização de Jeová que subi contra esta terra para a arruinar? O próprio Jeová me disse: ‘Sobe contra esta terra, e tens de arruiná-la.’”
+
+[[v23-36-11]]
+
+^<<v23-36-11,11>>^ Então Eliaquim, e Sebna, e Joá, disseram a Rabsaqué: “Por favor, fala aos teus servos em sírio,^&#42;1^ pois estamos escutando;^&#42;2^ e não nos fales no idioma judaico,^&#42;3^ aos ouvidos do povo que está sobre a muralha.”
+
+[NOTE]
+====
+. Ou “em aramaico”. Hebr.: ’Ara·míth; gr.: Sy·ri·stí; lat.: Sý·ra lín·gua.
+. Ou “entendendo”.
+. “No idioma judaico.” Hebr.: Yehu·dhíth; gr.: I·ou·da·i·stí; lat.: Iu·dá·i·ce.
+====
+
+[[v23-36-12]]
+
+^<<v23-36-12,12>>^ Mas Rabsaqué disse: “Acaso é a teu senhor^&#42;1^ e a ti que meu senhor me mandou falar estas palavras? Não é aos homens que estão sentados sobre a muralha, para que, junto convosco, comam o seu próprio excremento e bebam a sua própria urina?”
+
+[NOTE]
+====
+. “Teu senhor.” Hebr.: ’adho·neí·kha, pl. de ’a·dhóhn, para denotar excelência.
+====
+
+[[v23-36-13]]
+
+^<<v23-36-13,13>>^ E Rabsaqué continuou de pé e a clamar em voz alta no idioma judaico, e prosseguiu, dizendo: “Ouvi as palavras do grande rei, o rei da Assíria.
+
+[[v23-36-14]]
+
+^<<v23-36-14,14>>^ Assim disse o rei: ‘Não deixeis que Ezequias vos engane, pois não vos poderá livrar.
+
+[[v23-36-15]]
+
+^<<v23-36-15,15>>^ E não vos faça Ezequias confiar em Jeová, dizendo: “Jeová, sem falta, nos livrará. Esta cidade não será entregue na mão do rei da Assíria.”
+
+[[v23-36-16]]
+
+^<<v23-36-16,16>>^ Não escuteis a Ezequias, pois assim disse o rei da Assíria: “Fazei uma capitulação a mim e saí a mim, e coma cada um da sua própria videira e cada um da sua própria figueira, e beba cada um a água da sua própria cisterna,
+
+[[v23-36-17]]
+
+^<<v23-36-17,17>>^ até que eu venha e realmente vos leve a uma terra igual à vossa própria terra, uma terra de cereais e de vinho novo, uma terra de pão e de vinhedos;
+
+[[v23-36-18]]
+
+^<<v23-36-18,18>>^ a fim de que Ezequias não vos engode, dizendo: ‘O próprio Jeová nos livrará.’ Livraram os deuses^&#42;1^ das nações cada um a sua própria terra da mão do rei da Assíria?
+
+[NOTE]
+====
+. “Os deuses das.” Hebr.: ’elo·héh.
+====
+
+[[v23-36-19]]
+
+^<<v23-36-19,19>>^ Onde estão os deuses de Hamate e de Arpade? Onde estão os deuses de Sefarvaim? Livraram eles a Samaria da minha mão?
+
+[[v23-36-20]]
+
+^<<v23-36-20,20>>^ Quais dentre todos os deuses destas terras livraram a sua terra da minha mão, de modo que Jeová livre Jerusalém da minha mão?”’”
+
+[[v23-36-21]]
+
+^<<v23-36-21,21>>^ E eles continuaram a ficar calados e não lhe responderam uma palavra, pois era o mandamento do rei, dizendo: “Não lhe deveis responder.”
+
+[[v23-36-22]]
+
+^<<v23-36-22,22>>^ Mas Eliaquim, filho de Hilquias, que estava sobre os da casa, e Sebna, o secretário, e Joá, filho de Asafe, o cronista, chegaram a Ezequias com as suas roupas rasgadas e contaram-lhe as palavras de Rabsaqué.
+
+'''
+
+xref:023-isaias/023-isaias-035.adoc#v23-35-0[&#60; Capítulo Anterior] | <<v23-36-0,Topo>> | xref:023-isaias/023-isaias-037.adoc#v23-37-0[Próximo Capítulo &#62;]

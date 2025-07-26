@@ -1,0 +1,152 @@
+include::./index.adoc[]
+
+[[v10-21-0]]
+=== 2 Samuel, 21
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v10-21-1]]
+
+^<<v10-21-1,1>>^ Então veio a haver fome nos dias de Davi, por três anos, ano após ano; e Davi passou a consultar a face de Jeová. Jeová disse então: “Há culpa de sangue^&#42;1^ sobre Saul e sobre a sua casa, porque entregou os gibeonitas à morte.”
+
+[NOTE]
+====
+. Lit.: “os sangues”. Hebr.: had·da·mím.
+====
+
+[[v10-21-2]]
+
+^<<v10-21-2,2>>^ Portanto, o rei chamou os gibeonitas e conversou com eles. (Incidentalmente, os gibeonitas não eram dos filhos de Israel, mas do resto dos amorreus; e os próprios filhos de Israel lhes tinham jurado, mas Saul procurou golpeá-los ao ficar com ciúme a favor dos filhos de Israel e de Judá.)
+
+[[v10-21-3]]
+
+^<<v10-21-3,3>>^ E Davi prosseguiu, dizendo aos gibeonitas: “Que devo fazer para vós e com que farei expiação,^&#42;1^ para que certamente abençoeis a herança de Jeová?”
+
+[NOTE]
+====
+. Ou “reparação”.
+====
+
+[[v10-21-4]]
+
+^<<v10-21-4,4>>^ Os gibeonitas disseram-lhe, pois: “Não é para nós^&#42;1^ uma questão de prata ou de ouro no que se refere a Saul e aos da sua casa, nem nos cabe entregarmos à morte um homem em Israel.” A isto ele disse: “Farei para vós o que for que disserdes.”
+
+[NOTE]
+====
+. Lit.: “mim”, M, em sentido coletivo; Mmargem: “nós”.
+====
+
+[[v10-21-5]]
+
+^<<v10-21-5,5>>^ Então disseram ao rei: “O homem que nos exterminou e que tencionou aniquilar-nos de subsistirmos em qualquer território de Israel,
+
+[[v10-21-6]]
+
+^<<v10-21-6,6>>^ dêem-se-nos sete homens dos seus filhos; e nós os teremos de expor^&#42;1^ a Jeová em Gibeá de Saul, o escolhido^&#42;2^ de Jeová.” Por conseguinte, o rei disse: “Eu mesmo os entregarei.”
+
+[NOTE]
+====
+. “Expor”, M, isto é, com os braços e as pernas quebrados; LXX: “pendurar ao sol”; Sy: “sacrificar”.
+. “O escolhido”, M; LXX: “os escolhidos”; Vg: “o outrora escolhido”. Provavelmente deva rezar: “no monte”. Veja v. 9.
+====
+
+[[v10-21-7]]
+
+^<<v10-21-7,7>>^ No entanto, o rei teve compaixão de Mefibosete, filho de Jonatã, filho de Saul, por causa do juramento de Jeová que havia entre eles, entre Davi e Jonatã, filho de Saul.
+
+[[v10-21-8]]
+
+^<<v10-21-8,8>>^ Conseqüentemente, o rei tomou os dois filhos de Rispa, filha de Aiá, que ela dera à luz a Saul, Armoni e Mefibosete, e os cinco filhos de Mical,^&#42;1^ filha de Saul, que ela dera à luz a Adriel, filho de Barzilai, o meolatita.
+
+[NOTE]
+====
+. “Merabe”, LXXL e dois mss. hebr.; Sy: “Nadabe”. Os Targuns rezam: “os cinco filhos de Merabe (que Mical, filha de Saul, criou) que ela dera à luz”. Veja 6:23.
+====
+
+[[v10-21-9]]
+
+^<<v10-21-9,9>>^ Entregou-os então na mão dos gibeonitas e estes passaram a expô-los no monte perante Jeová, de modo que os sete deles caíram juntos; e eles mesmos foram entregues à morte nos primeiros dias da sega, no início da sega da cevada.
+
+[[v10-21-10]]
+
+^<<v10-21-10,10>>^ No entanto, Rispa, filha de Aiá, tomou serapilheira e a estendeu para si sobre a rocha, desde o início da sega até que caiu água sobre eles desde os céus; e ela não permitiu que as aves dos céus pousassem sobre eles de dia, nem as feras dos campos de noite.
+
+[[v10-21-11]]
+
+^<<v10-21-11,11>>^ Por fim se relatou a Davi o que Rispa, filha de Aiá, concubina de Saul, tinha feito.
+
+[[v10-21-12]]
+
+^<<v10-21-12,12>>^ Portanto, Davi foi e tomou os ossos de Saul e os ossos de Jonatã, seu filho, dos proprietários de terras de Jabes-Gileade, que os haviam furtado da praça pública de Bete-Sã, onde os filisteus os tinham pendurado no dia em que os filisteus golpearam a Saul em Gilboa.
+
+[[v10-21-13]]
+
+^<<v10-21-13,13>>^ E de lá passou a trazer para cima os ossos de Saul e os ossos de Jonatã, seu filho; outrossim, ajuntaram os ossos dos homens que tinham ficado expostos.
+
+[[v10-21-14]]
+
+^<<v10-21-14,14>>^ Enterraram então os ossos de Saul e de Jonatã, seu filho,^&#42;1^ na terra de Benjamim, em Zela,^&#42;2^ na sepultura de Quis, seu pai, para fazerem tudo o que o rei mandara. De modo que depois disso Deus se deixou suplicar a favor da terra.
+
+[NOTE]
+====
+. LXX acrescenta: “e dos pendurados ao sol”.
+. Ou “Zelá”.
+====
+
+[[v10-21-15]]
+
+^<<v10-21-15,15>>^ E os filisteus vieram a ter novamente guerra com Israel. Por conseguinte, Davi e seus servos com ele desceram e lutaram contra os filisteus; e Davi ficou cansado.
+
+[[v10-21-16]]
+
+^<<v10-21-16,16>>^ E Isbi-Benobe, que estava entre os que nasceram dos refains,^&#42;1^ cuja lança pesava trezentos siclos^&#42;2^ de cobre e que estava cingido duma espada nova,^&#42;3^ pensava em golpear a Davi.
+
+[NOTE]
+====
+. Lit.: “de Rafa”. Hebr.: ha·Ra·fáh. O nome do pai é aqui tomado para representar toda a raça de gigantes.
+. Cerca de 3,42 kg.
+. “Duma espada nova”, Vg; gr.: ko·rý·nen, “cacete”, amiúde cravado com ferro para a luta.
+====
+
+[[v10-21-17]]
+
+^<<v10-21-17,17>>^ Imediatamente veio em sua ajuda Abisai, filho de Zeruia, e ele golpeou o filisteu e o entregou à morte. Naquele tempo, os homens de Davi juraram-lhe, dizendo: “Não deves mais sair conosco à batalha, para que não apagues a lâmpada de Israel!”
+
+[[v10-21-18]]
+
+^<<v10-21-18,18>>^ E sucedeu, depois disso, que houve mais uma vez guerra com os filisteus em Gobe.^&#42;1^ Foi então que Sibecai, o husatita, golpeou a Safe, que estava entre os que nasceram dos refains.
+
+[NOTE]
+====
+. “Gezer” em 1Cr 20:4.
+====
+
+[[v10-21-19]]
+
+^<<v10-21-19,19>>^ E houve mais uma vez guerra com os filisteus em Gobe, e Elanã, filho de Jaare-Oregim, o belemita, chegou a golpear a Golias,^&#42;1^ o geteu,^&#42;2^ cuja haste de lança era como o cilindro dos tecelões.
+
+[NOTE]
+====
+. “[O] filho de Jaare-Oregim, o belemita, chegou a golpear Golias”, M; em 1Cr 20:5: “[o] filho de Jair, chegou a golpear Lami, irmão de Golias”.
+. Ou “Golias de Gate”.
+====
+
+[[v10-21-20]]
+
+^<<v10-21-20,20>>^ E houve mais uma vez guerra em Gate, havendo lá um homem de tamanho extraordinário, com seis dedos em cada uma das suas mãos e seis dedos em cada um dos seus pés, vinte e quatro em número; e ele também nascera aos refains.
+
+[[v10-21-21]]
+
+^<<v10-21-21,21>>^ E ele escarnecia de Israel. Finalmente o golpeou Jonatã, filho de Simei,^&#42;1^ irmão de Davi.
+
+[NOTE]
+====
+. “Siméia” em 1Cr 20:7; em 1Sa 16:9: “Samá.”
+====
+
+[[v10-21-22]]
+
+^<<v10-21-22,22>>^ Estes quatro tinham nascido aos refains em Gate; e vieram a cair pela mão de Davi e pela mão dos seus servos.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-020.adoc#v10-20-0[&#60; Capítulo Anterior] | <<v10-21-0,Topo>> | xref:010-2-samuel/010-2-samuel-022.adoc#v10-22-0[Próximo Capítulo &#62;]

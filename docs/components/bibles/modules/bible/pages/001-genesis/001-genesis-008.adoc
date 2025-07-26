@@ -1,0 +1,144 @@
+include::./index.adoc[]
+
+[[v1-8-0]]
+=== Gênesis, 8
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v1-8-1]]
+
+^<<v1-8-1,1>>^ Depois disso, Deus lembrou-se de Noé e de todo animal selvático, e de todo animal doméstico que estava com ele na arca, e Deus fez passar um vento^&#42;1^ sobre a terra e as águas começaram a baixar.
+
+[NOTE]
+====
+. Hebr.: rú·ahh; anteriormente traduzido por “força ativa; viração; espírito”.
+====
+
+[[v1-8-2]]
+
+^<<v1-8-2,2>>^ E fecharam-se os mananciais da água de profundeza^&#42;1^ e as comportas^&#42;2^ dos céus, e assim se conteve o aguaceiro [vindo] dos céus.
+
+[NOTE]
+====
+. Ou “abóbada de água”. Veja 7:11 n.: “profundeza”.
+. Ou “janelas”.
+====
+
+[[v1-8-3]]
+
+^<<v1-8-3,3>>^ E as águas começaram a retirar-se de cima da terra, recuando progressivamente;^&#42;1^ e ao fim de cento e cinqüenta dias, as águas tinham diminuído.
+
+[NOTE]
+====
+. “Recuando progressivamente.” Lit.: “indo e recuando”.
+====
+
+[[v1-8-4]]
+
+^<<v1-8-4,4>>^ E no sétimo mês,^&#42;1^ no dia dezessete do mês, a arca veio a pousar nos montes de Ararate.
+
+[NOTE]
+====
+. “Sétimo mês.” Este correspondia ao mês abibe (ou: nisã), o primeiro mês do calendário sagrado, judaico, após o êxodo. Abibe correspondia à segunda metade de março e à primeira metade de abril. Veja Ap. 8B.
+====
+
+[[v1-8-5]]
+
+^<<v1-8-5,5>>^ E as águas continuaram a diminuir progressivamente^&#42;1^ até o décimo mês.^&#42;2^ No décimo mês, no primeiro do mês, apareceram os cumes dos montes.
+
+[NOTE]
+====
+. Lit.: “indo e diminuindo”.
+. “Décimo mês.” Este correspondia ao mês tamuz, o quarto mês do calendário sagrado, judaico, após o êxodo. Tamuz correspondia à segunda metade de junho e à primeira metade de julho. Veja Ap. 8B.
+====
+
+[[v1-8-6]]
+
+^<<v1-8-6,6>>^ Deu-se então que, ao fim de quarenta dias, Noé passou a abrir a janela da arca que tinha feito.
+
+[[v1-8-7]]
+
+^<<v1-8-7,7>>^ Soltou então um corvo e este continuou a voar lá fora,^&#42;1^ saindo e voltando, até que as águas se secaram sobre a terra.
+
+[NOTE]
+====
+. Lit.: “continuou saindo”.
+====
+
+[[v1-8-8]]
+
+^<<v1-8-8,8>>^ Mais tarde soltou de perto de si uma pomba, para ver se as águas tinham minguado na superfície do solo.
+
+[[v1-8-9]]
+
+^<<v1-8-9,9>>^ E a pomba não achou pouso para a planta do seu pé, e assim voltou a ele na arca, porque havia ainda águas sobre a superfície de toda a terra. Em vista disso, estendeu sua mão e tomou-a, e trouxe-a a si, para dentro da arca.
+
+[[v1-8-10]]
+
+^<<v1-8-10,10>>^ E foi esperar mais sete dias e soltou novamente a pomba fora da arca.
+
+[[v1-8-11]]
+
+^<<v1-8-11,11>>^ Mais tarde, a pomba retornou a ele por volta da hora do anoitecer, e eis que havia no seu bico uma folha de oliveira, recém-arrancada, e Noé ficou assim sabendo que as águas tinham minguado de cima da terra.
+
+[[v1-8-12]]
+
+^<<v1-8-12,12>>^ E foi esperar mais sete dias. Soltou então a pomba, mas ela não voltou mais a ele.
+
+[[v1-8-13]]
+
+^<<v1-8-13,13>>^ Então, no ano seiscentésimo primeiro, no primeiro mês,^&#42;1^ no primeiro dia do mês, deu-se que as águas se tinham escoado de cima da terra; e Noé passou a remover a cobertura da arca e a olhar, e eis que a superfície do solo ficara drenada.
+
+[NOTE]
+====
+. “Primeiro mês.” Este correspondia ao mês etanim (ou: tisri), o sétimo mês do calendário sagrado, judaico, após o êxodo. Etanim correspondia à segunda metade de setembro e à primeira metade de outubro. Veja Ap. 8B.
+====
+
+[[v1-8-14]]
+
+^<<v1-8-14,14>>^ E no segundo mês, no dia vinte e sete do mês, a terra se tinha secado.
+
+[[v1-8-15]]
+
+^<<v1-8-15,15>>^ Deus falou então a Noé, dizendo:
+
+[[v1-8-16]]
+
+^<<v1-8-16,16>>^ “Sai da arca, tu e tua esposa, e teus filhos, e as esposas de teus filhos contigo.
+
+[[v1-8-17]]
+
+^<<v1-8-17,17>>^ Leva para fora contigo toda criatura vivente que está contigo, de toda sorte de carne dentre as criaturas voadoras, e dentre os animais, e dentre todos os animais moventes que se movem sobre a terra, visto que têm de pulular na terra, e ser fecundos, e tornar-se muitos na terra.”
+
+[[v1-8-18]]
+
+^<<v1-8-18,18>>^ Em vista disso, Noé saiu, e com ele também seus filhos, e sua esposa, e as esposas de seus filhos.
+
+[[v1-8-19]]
+
+^<<v1-8-19,19>>^ Toda criatura vivente, todo animal movente e toda criatura voadora, tudo o que se movia na terra, saíram da arca segundo as suas famílias.
+
+[[v1-8-20]]
+
+^<<v1-8-20,20>>^ E Noé começou a construir um altar a Jeová e a tomar alguns de todos os animais limpos, e de todas as criaturas voadoras limpas, e a fazer ofertas queimadas sobre o altar.
+
+[[v1-8-21]]
+
+^<<v1-8-21,21>>^ E Jeová começou a sentir um cheiro repousante,^&#42;1^ e Jeová disse então no seu coração: “Nunca mais invocarei o mal sobre o solo por causa do homem, porque a inclinação do coração do homem é má desde a sua mocidade; e nunca mais golpearei toda coisa vivente assim como tenho feito.
+
+[NOTE]
+====
+. Ou “calmante; tranqüilizante”.
+====
+
+[[v1-8-22]]
+
+^<<v1-8-22,22>>^ Pois, por todos os dias que a terra continuar^&#42;1^ nunca cessarão sementeira e colheita, e frio e calor, e verão e inverno, e dia e noite.”
+
+[NOTE]
+====
+. Lit.: “todos os dias da terra”.
+====
+
+'''
+
+xref:001-genesis/001-genesis-007.adoc#v1-7-0[&#60; Capítulo Anterior] | <<v1-8-0,Topo>> | xref:001-genesis/001-genesis-009.adoc#v1-9-0[Próximo Capítulo &#62;]

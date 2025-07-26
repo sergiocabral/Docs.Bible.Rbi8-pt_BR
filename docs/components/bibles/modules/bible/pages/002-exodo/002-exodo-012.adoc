@@ -1,0 +1,322 @@
+include::./index.adoc[]
+
+[[v2-12-0]]
+=== Êxodo, 12
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v2-12-1]]
+
+^<<v2-12-1,1>>^ Jeová disse então a Moisés e a Arão na terra do Egito:
+
+[[v2-12-2]]
+
+^<<v2-12-2,2>>^ “Este mês será para vós o começo dos meses. Será para vós o primeiro dos meses do ano.
+
+[[v2-12-3]]
+
+^<<v2-12-3,3>>^ Fala à assembléia inteira de Israel, dizendo: ‘No décimo dia deste mês devem tomar para si, cada um, um ovídeo^&#42;1^ por casa ancestral, um ovídeo por casa.
+
+[NOTE]
+====
+. “Ovídeo.” Hebr.: seh; gr.: pró·ba·ton; lat.: á·gnum, “cordeiro”.
+====
+
+[[v2-12-4]]
+
+^<<v2-12-4,4>>^ Mas, se a família se mostrar pequena demais para o ovídeo, então ele e seu vizinho mais próximo terão de levá-lo para a sua casa, segundo o número de almas;^&#42;1^ deveis cada um calcular proporcionalmente ao que come, quanto ao ovídeo.
+
+[NOTE]
+====
+. Ou “pessoas”. Hebr.: nefa·shóth, pl.; gr.: psy·khón, pl.
+====
+
+[[v2-12-5]]
+
+^<<v2-12-5,5>>^ O ovídeo para vós deve mostrar-se sadio, macho de um ano. Podeis escolhê-lo dentre os carneirinhos^&#42;1^ ou dentre os cabritos.
+
+[NOTE]
+====
+. Ou “os cordeiros”.
+====
+
+[[v2-12-6]]
+
+^<<v2-12-6,6>>^ E terá de continuar a ser resguardado por vós até o dia quatorze deste mês, e toda a congregação da assembléia de Israel terá de abatê-lo entre as duas noitinhas.^&#42;1^
+
+[NOTE]
+====
+. “Entre as duas noitinhas.” Segundo alguns eruditos, bem como os judeus caraítas e os samaritanos, trata-se do período entre o pôr-do-sol e a escuridão propriamente dita. Os fariseus e os rabinistas tinham outra idéia: a primeira noitinha era quando o sol passava a declinar e a segunda noitinha era o próprio pôr-do-sol.
+====
+
+[[v2-12-7]]
+
+^<<v2-12-7,7>>^ E terão de tomar do sangue e esparrinhá-lo^&#42;1^ sobre as duas ombreiras^&#42;2^ e sobre a parte superior do portal^&#42;3^ pertencente às casas em que o comerão.
+
+[NOTE]
+====
+. Lit.: “dá-lo”.
+. “As . . . ombreiras.” Hebr.: hammezu·zóth. O moderno termo judaico “mezuzá” refere-se a um pedaço retangular de pergaminho com o texto hebr. de De 6:4-9 e De 11:13-21. O pergaminho é colocado num pequeno receptáculo e afixado numa posição inclinada na ombreira direita das moradias dos judeus ortodoxos. Veja De 6:9 n.
+. Ou “e sobre o dintel”.
+====
+
+[[v2-12-8]]
+
+^<<v2-12-8,8>>^ “‘E é nesta noite que eles terão de comer a carne. Devem comê-la assada ao fogo e com pães não fermentados,^&#42;1^ junto com ervas amargas.
+
+[NOTE]
+====
+. Ou “pão sem fermento; pão não levedado”.
+====
+
+[[v2-12-9]]
+
+^<<v2-12-9,9>>^ Não comais nada dele cru^&#42;1^ ou cozido, cozido em água, mas assado ao fogo, sua cabeça junto com as suas pernas e suas partes internas.
+
+[NOTE]
+====
+. Ou “mal passado”.
+====
+
+[[v2-12-10]]
+
+^<<v2-12-10,10>>^ E não deveis deixar nada dele sobrar até à manhã, mas o que sobrar dele até à manhã deveis queimar no fogo.
+
+[[v2-12-11]]
+
+^<<v2-12-11,11>>^ E é deste modo que o comereis: com os vossos quadris cingidos, sandálias nos vossos pés e vosso bastão na vossa mão; e tereis de comê-lo às pressas. É a páscoa^&#42;1^ de Jeová.
+
+[NOTE]
+====
+. Lit.: “passar por cima; passar por alto”. Hebr.: pé·sahh.
+====
+
+[[v2-12-12]]
+
+^<<v2-12-12,12>>^ E nesta noite terei de passar pela terra do Egito e golpear todo primogênito na terra do Egito, desde o homem até o animal; e executarei julgamentos em todos os deuses^&#42;1^ do Egito. Eu sou Jeová.
+
+[NOTE]
+====
+. “E . . . em todos os deuses do.” Hebr.: u·vekhól-’elo·héh, pl., para denotar mais do que um só deus egípcio.
+====
+
+[[v2-12-13]]
+
+^<<v2-12-13,13>>^ E o sangue terá de servir de sinal para vós nas casas em que estais; e terei de ver o sangue e terei de passar-vos por alto, e a praga não virá sobre vós como ruína, quando eu golpear a terra do Egito.
+
+[[v2-12-14]]
+
+^<<v2-12-14,14>>^ “‘E este dia terá de servir-vos de recordação e tereis de celebrá-lo como festividade a Jeová^&#42;1^ nas vossas gerações. Deveis celebrá-lo como estatuto por tempo indefinido.
+
+[NOTE]
+====
+. Ou “celebrá-lo como festividade de Jeová”.
+====
+
+[[v2-12-15]]
+
+^<<v2-12-15,15>>^ Sete dias deveis comer pães não fermentados. Sim, no primeiro dia deveis retirar das vossas casas a massa lêveda,^&#42;1^ pois, quem comer do que é levedado, desde o primeiro dia até o sétimo, essa alma terá de ser decepada de Israel.
+
+[NOTE]
+====
+. Ou “levedo; fermento”.
+====
+
+[[v2-12-16]]
+
+^<<v2-12-16,16>>^ E no primeiro dia deve haver para vós um santo congresso^&#42;1^ e no sétimo dia um santo congresso. Não se deve fazer nenhuma obra neles. Somente o que cada alma necessitar para comer, só isto pode ser feito para vós.
+
+[NOTE]
+====
+. Ou “convocação”.
+====
+
+[[v2-12-17]]
+
+^<<v2-12-17,17>>^ “‘E tereis de guardar a festividade dos pães não fermentados, porque neste mesmo dia terei de fazer os vossos exércitos sair da terra do Egito. E tereis de guardar este dia nas vossas gerações como estatuto por tempo indefinido.
+
+[[v2-12-18]]
+
+^<<v2-12-18,18>>^ No primeiro mês, no dia quatorze do mês, à noitinha, deveis comer pães não fermentados, até o dia vinte e um do mês, à noitinha.
+
+[[v2-12-19]]
+
+^<<v2-12-19,19>>^ Por sete dias não se deve achar nenhuma massa lêveda nas vossas casas, pois, quem provar o que é levedado, quer seja residente forasteiro quer natural do país, essa alma terá de ser decepada da assembléia de Israel.
+
+[[v2-12-20]]
+
+^<<v2-12-20,20>>^ Não deveis comer nada levedado. Em todas as vossas moradas deveis comer pães não fermentados.’”
+
+[[v2-12-21]]
+
+^<<v2-12-21,21>>^ Moisés chamou prontamente todos os anciãos de Israel e disse-lhes: “Retirai e tomai para vós gado miúdo^&#42;1^ segundo as vossas famílias, e abatei a vítima pascoal.
+
+[NOTE]
+====
+. Ou “tomai para vós ovelhas e cabritos”.
+====
+
+[[v2-12-22]]
+
+^<<v2-12-22,22>>^ E tendes de tomar um molho de hissopo e mergulhá-lo^&#42;1^ no sangue na bacia, e tendes de bater a parte superior do portal e as duas ombreiras com o sangue que está na bacia; e nenhum de vós deve sair para fora da entrada da sua casa até à manhã.
+
+[NOTE]
+====
+. Ou “imergi-lo; batizá-lo”. Gr.: bá·psan·tes.
+====
+
+[[v2-12-23]]
+
+^<<v2-12-23,23>>^ Então, quando Jeová passar para ferir os egípcios e deveras vir o sangue na parte superior do portal e nas duas ombreiras, Jeová certamente passará por alto a entrada e não permitirá que a ruína entre nas vossas casas para vos ferir.
+
+[[v2-12-24]]
+
+^<<v2-12-24,24>>^ “E tereis de guardar esta observância como regulamento para ti e para os teus filhos por tempo indefinido.
+
+[[v2-12-25]]
+
+^<<v2-12-25,25>>^ E terá de acontecer que, quando entrardes na terra que Jeová vos dará, assim como declarou, então tereis de cuidar deste serviço.^&#42;1^
+
+[NOTE]
+====
+. Ou “aspecto da adoração”. Hebr.: ha·‛avo·dháh; gr.: la·treí·an, “serviço sagrado”. Veja 3:12 n.
+====
+
+[[v2-12-26]]
+
+^<<v2-12-26,26>>^ E terá de acontecer que, quando os vossos filhos vos disserem: ‘Que significa para vós este serviço?’
+
+[[v2-12-27]]
+
+^<<v2-12-27,27>>^ então tereis de dizer: ‘É o sacrifício da páscoa a Jeová, que passou por alto as casas dos filhos de Israel no Egito quando feriu os egípcios, mas livrou as nossas casas.’”
+Então o povo se inclinou e se prostrou.
+
+[[v2-12-28]]
+
+^<<v2-12-28,28>>^ Subseqüentemente, os filhos de Israel foram e fizeram assim como Jeová ordenara a Moisés e a Arão. Fizeram exatamente assim.
+
+[[v2-12-29]]
+
+^<<v2-12-29,29>>^ E sucedeu, à meia-noite, que Jeová golpeou todo primogênito na terra do Egito, desde o primogênito de Faraó sentado no seu trono, até o primogênito do cativo que se achava na masmorra,^&#42;1^ e todo primogênito de animal.
+
+[NOTE]
+====
+. Ou “penitenciária”. Lit.: “casa da cisterna”. Veja Ge 40:15 n.
+====
+
+[[v2-12-30]]
+
+^<<v2-12-30,30>>^ Faraó levantou-se então durante a noite, ele e todos os seus servos, e todos os [demais] egípcios; e começou a levantar-se um grande clamor entre os egípcios, pois não havia casa em que não houvesse um morto.
+
+[[v2-12-31]]
+
+^<<v2-12-31,31>>^ Ele chamou imediatamente Moisés e Arão, à noite, e disse: “Levantai-vos, saí do meio do meu povo, tanto vós como os [demais] filhos de Israel, e ide, servi a Jeová, assim como declarastes.
+
+[[v2-12-32]]
+
+^<<v2-12-32,32>>^ Tomai tanto os vossos rebanhos como as vossas manadas, assim como declarastes, e ide. Também, além disso, tereis de abençoar-me.”
+
+[[v2-12-33]]
+
+^<<v2-12-33,33>>^ E os egípcios começaram a pressionar o povo, a fim de mandá-los depressa para fora do país, “porque”, disseram eles, “a bem dizer já estamos todos mortos!”
+
+[[v2-12-34]]
+
+^<<v2-12-34,34>>^ Por conseguinte, o povo carregou no seu ombro a sua massa antes de ela ter ficado levedada, com as suas amassadeiras embrulhadas nas suas capas.
+
+[[v2-12-35]]
+
+^<<v2-12-35,35>>^ E os filhos de Israel fizeram segundo a palavra de Moisés, indo pedir dos egípcios objetos de prata, e objetos de ouro, e capas.
+
+[[v2-12-36]]
+
+^<<v2-12-36,36>>^ E Jeová deu ao povo favor aos olhos dos egípcios, de modo que estes lhes concederam o que se pedia; e despojaram os egípcios.
+
+[[v2-12-37]]
+
+^<<v2-12-37,37>>^ E os filhos de Israel passaram a partir de Ramessés para Sucote, no número de seiscentos mil varões vigorosos a pé, além dos pequeninos.
+
+[[v2-12-38]]
+
+^<<v2-12-38,38>>^ E com eles subiu também uma vasta mistura de gente,^&#42;1^ bem como rebanhos e manadas, numerosíssima criação de animais.
+
+[NOTE]
+====
+. Ou “e muitos forasteiros (estrangeiros)”.
+====
+
+[[v2-12-39]]
+
+^<<v2-12-39,39>>^ E começaram a cozer bolos redondos, pães não fermentados, da massa que trouxeram do Egito, porque não tinha levedado, pois tinham sido expulsos do Egito e não se podiam demorar, nem tampouco tinham preparado provisões para si.
+
+[[v2-12-40]]
+
+^<<v2-12-40,40>>^ E a morada dos filhos de Israel,^&#42;1^ que haviam morado^&#42;2^ no Egito, foi de quatrocentos e trinta anos.
+
+[NOTE]
+====
+. Sam acrescenta: “e seus pais”.
+. “Que haviam morado.” No hebr., este verbo está no pl. O pronome relativo ’ashér, “que”, pode aplicar-se aos “filhos de Israel”, em vez de à “morada”. LXX: “Mas a morada dos filhos de Israel [em] que eles [LXXA acrescenta “e seus pais”] haviam morado na terra do Egito e na terra de Canaã [era] de quatrocentos e trinta anos de duração”; Sam: “na terra de Canaã e na terra do Egito”. Também Josefo escreveu em Jewish Antiquities, Livro II, capítulo 15, § 2: “Partiram do Egito no mês de xântico [mês macedônio equiparado por Josefo ao mês de nisã], . . . 430 anos depois da chegada de nosso antepassado Abraão a Canaã.” (Loeb Classical Library, de H. Thackeray, 1967, p. 305) SamLXX e Josefo mostram que os 430 anos são contados a partir do tempo de Abraão cruzar o Eufrates em caminho para Canaã, até o tempo da saída dos israelitas do Egito. Veja Gál 3:17.
+====
+
+[[v2-12-41]]
+
+^<<v2-12-41,41>>^ E sucedeu, ao fim dos quatrocentos e trinta anos, sim, sucedeu neste mesmo dia que todos os exércitos de Jeová saíram da terra do Egito.
+
+[[v2-12-42]]
+
+^<<v2-12-42,42>>^ É uma noite de observância com respeito a Jeová, por tê-los feito sair da terra do Egito. Com respeito a Jeová, esta noite é uma de observância da parte de todos os filhos de Israel nas suas gerações.
+
+[[v2-12-43]]
+
+^<<v2-12-43,43>>^ E Jeová prosseguiu, dizendo a Moisés e a Arão: “Este é o estatuto da páscoa: Nenhum estrangeiro^&#42;1^ pode comer dela.
+
+[NOTE]
+====
+. Lit.: “filho dum (país) estrangeiro”.
+====
+
+[[v2-12-44]]
+
+^<<v2-12-44,44>>^ Mas onde houver um escravo comprado por dinheiro, terás de circuncidá-lo. Só então pode participar em comer dela.
+
+[[v2-12-45]]
+
+^<<v2-12-45,45>>^ O colono,^&#42;1^ e o trabalhador contratado, não pode comer dela.
+
+[NOTE]
+====
+. Ou “estrangeiro; imigrante”.
+====
+
+[[v2-12-46]]
+
+^<<v2-12-46,46>>^ Deve ser comida numa só casa. Não deves levar nada da carne para fora da casa a algum lugar de fora. E não lhe deves quebrar nenhum osso.
+
+[[v2-12-47]]
+
+^<<v2-12-47,47>>^ Toda a assembléia de Israel deve celebrá-la.
+
+[[v2-12-48]]
+
+^<<v2-12-48,48>>^ E caso um residente forasteiro resida contigo e realmente celebre a páscoa para Jeová, seja circuncidado^&#42;1^ cada macho dele. Só então pode chegar-se para celebrá-la; e ele tem de tornar-se como o natural do país. Mas nenhum incircunciso pode comer dela.
+
+[NOTE]
+====
+. No hebr., este verbo está no infinitivo absoluto, indefinido quanto ao tempo e impessoal.
+====
+
+[[v2-12-49]]
+
+^<<v2-12-49,49>>^ Deve haver uma só lei para o natural e para o residente forasteiro que reside no vosso meio.”
+
+[[v2-12-50]]
+
+^<<v2-12-50,50>>^ Portanto, todos os filhos de Israel fizeram assim como Jeová ordenara a Moisés e a Arão. Fizeram exatamente assim.
+
+[[v2-12-51]]
+
+^<<v2-12-51,51>>^ E sucedeu, neste mesmo dia, que Jeová fez que os filhos de Israel, junto com os seus exércitos, saíssem da terra do Egito.
+
+'''
+
+xref:002-exodo/002-exodo-011.adoc#v2-11-0[&#60; Capítulo Anterior] | <<v2-12-0,Topo>> | xref:002-exodo/002-exodo-013.adoc#v2-13-0[Próximo Capítulo &#62;]

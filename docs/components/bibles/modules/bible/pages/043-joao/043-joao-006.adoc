@@ -1,0 +1,334 @@
+include::./index.adoc[]
+
+[[v43-6-0]]
+=== João, 6
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v43-6-1]]
+
+^<<v43-6-1,1>>^ Depois destas coisas, Jesus partiu, atravessando o mar da Galiléia, ou Tiberíades.
+
+[[v43-6-2]]
+
+^<<v43-6-2,2>>^ Mas, seguia-o uma grande multidão, porque observavam os sinais que ele realizava nos enfermos.
+
+[[v43-6-3]]
+
+^<<v43-6-3,3>>^ Jesus subiu assim a um monte e estava ali sentado com os seus discípulos.
+
+[[v43-6-4]]
+
+^<<v43-6-4,4>>^ Ora, estava próxima a páscoa, a festividade dos judeus.
+
+[[v43-6-5]]
+
+^<<v43-6-5,5>>^ Portanto, quando Jesus levantou os olhos e observou que uma grande multidão se chegava a ele, disse a Filipe: “Onde vamos comprar pães para estes comerem?”
+
+[[v43-6-6]]
+
+^<<v43-6-6,6>>^ No entanto, dizia isso para prová-lo, pois ele mesmo sabia o que ia fazer.
+
+[[v43-6-7]]
+
+^<<v43-6-7,7>>^ Filipe respondeu-lhe: “Pães no valor de duzentos denários^&#42;1^ não bastam para eles, para que cada um tenha um pouco.”
+
+[NOTE]
+====
+. O denário era uma moeda romana de prata que pesava 3,85 g.
+====
+
+[[v43-6-8]]
+
+^<<v43-6-8,8>>^ Um dos seus discípulos, André, irmão de Simão Pedro, disse-lhe:
+
+[[v43-6-9]]
+
+^<<v43-6-9,9>>^ “Há aqui um rapazinho que tem cinco pães de cevada e dois peixinhos. Mas, o que são estes para tantos?”
+
+[[v43-6-10]]
+
+^<<v43-6-10,10>>^ Jesus disse: “Fazei os homens recostar-se como numa refeição.” Ora, havia muita grama no lugar. Os homens recostaram-se assim, cerca de cinco mil em número.
+
+[[v43-6-11]]
+
+^<<v43-6-11,11>>^ Jesus tomou assim os pães, e, tendo dado graças, distribuiu-os aos recostados, do mesmo modo também os peixinhos, tantos quantos quiseram.
+
+[[v43-6-12]]
+
+^<<v43-6-12,12>>^ Mas, quando ficaram saciados, ele disse aos seus discípulos: “Ajuntai os pedaços que sobraram, para que nada se desperdice.”
+
+[[v43-6-13]]
+
+^<<v43-6-13,13>>^ Eles os ajuntaram, portanto, e encheram doze cestos com os pedaços dos cinco pães de cevada, que foram deixados pelos que haviam comido.
+
+[[v43-6-14]]
+
+^<<v43-6-14,14>>^ Por isso, quando os homens viram os sinais que realizava, começaram a dizer: “Este é certamente o profeta que havia de vir ao mundo.”
+
+[[v43-6-15]]
+
+^<<v43-6-15,15>>^ Jesus, portanto, sabendo que estavam para vir e apoderar-se dele para o fazerem rei, retirou-se novamente para o monte, sozinho.
+
+[[v43-6-16]]
+
+^<<v43-6-16,16>>^ Chegando a noite, seus discípulos desceram para o mar,
+
+[[v43-6-17]]
+
+^<<v43-6-17,17>>^ e, entrando num barco, partiram, atravessando o mar rumo a Cafarnaum. Pois bem, já ficara escuro e Jesus ainda não viera ter com eles.
+
+[[v43-6-18]]
+
+^<<v43-6-18,18>>^ O mar também começava a agitar-se, porque soprava um forte vento.
+
+[[v43-6-19]]
+
+^<<v43-6-19,19>>^ No entanto, tendo eles remado cerca de cinco ou seis quilômetros,^&#42;1^ observaram Jesus andando sobre o mar e chegando perto do barco; e ficaram temerosos.
+
+[NOTE]
+====
+. Lit.: “cerca de vinte e cinco ou trinta estádios”. O estádio equivalia a um oitavo de milha romana, 185 m.
+====
+
+[[v43-6-20]]
+
+^<<v43-6-20,20>>^ Mas ele lhes disse: “Sou eu; não temais!”
+
+[[v43-6-21]]
+
+^<<v43-6-21,21>>^ Portanto, estavam dispostos a acolhê-lo no barco, e o barco chegou logo à terra para onde procuravam ir.
+
+[[v43-6-22]]
+
+^<<v43-6-22,22>>^ No dia seguinte, a multidão parada do outro lado do mar viu que não havia barco, exceto um pequeno, e que Jesus não tinha entrado no barco com seus discípulos, mas que apenas os discípulos tinham partido;
+
+[[v43-6-23]]
+
+^<<v43-6-23,23>>^ chegaram, porém, barcos de Tiberíades às proximidades do lugar onde haviam comido os pães, depois de o Senhor^&#42;1^ ter dado graças.
+
+[NOTE]
+====
+. Ou “Amo”.
+====
+
+[[v43-6-24]]
+
+^<<v43-6-24,24>>^ Portanto, quando a multidão viu que nem Jesus nem os seus discípulos estavam ali, entraram nos seus pequenos barcos e foram a Cafarnaum, para procurar Jesus.
+
+[[v43-6-25]]
+
+^<<v43-6-25,25>>^ Assim, quando o acharam do outro lado do mar, disseram-lhe: “Rabi, quando chegaste para cá?”
+
+[[v43-6-26]]
+
+^<<v43-6-26,26>>^ Jesus respondeu-lhes e disse: “Digo-vos em toda a verdade: Vós me procurais, não porque vistes sinais, mas porque comestes dos pães e ficastes satisfeitos.
+
+[[v43-6-27]]
+
+^<<v43-6-27,27>>^ Trabalhai, não pelo alimento que perece, mas pelo alimento que permanece para a vida eterna, que o Filho do homem vos dará; pois neste o Pai, sim, Deus, tem posto o seu selo [de aprovação].”
+
+[[v43-6-28]]
+
+^<<v43-6-28,28>>^ Disseram-lhe, portanto: “Que devemos fazer para realizar as obras de Deus?”
+
+[[v43-6-29]]
+
+^<<v43-6-29,29>>^ Em resposta, Jesus disse-lhes: “Esta é a obra de Deus, que exerçais fé naquele a quem Este enviou.”
+
+[[v43-6-30]]
+
+^<<v43-6-30,30>>^ Disseram-lhe, portanto: “O que, então, realizas como sinal, a fim de que [o] vejamos e acreditemos em ti? Que obra estás fazendo?
+
+[[v43-6-31]]
+
+^<<v43-6-31,31>>^ Nossos antepassados comeram o maná no ermo, assim como está escrito: ‘Ele lhes deu pão do céu para comer.’”
+
+[[v43-6-32]]
+
+^<<v43-6-32,32>>^ Por isso, Jesus disse-lhes: “Digo-vos em toda a verdade: Moisés não vos deu o pão do céu, mas o meu Pai vos dá o verdadeiro pão do céu.
+
+[[v43-6-33]]
+
+^<<v43-6-33,33>>^ Porque o pão de Deus é aquele que desce do céu e dá vida ao mundo.”
+
+[[v43-6-34]]
+
+^<<v43-6-34,34>>^ Disseram-lhe, portanto: “Senhor, dá-nos sempre este pão.”
+
+[[v43-6-35]]
+
+^<<v43-6-35,35>>^ Jesus disse-lhes: “Eu sou o pão da vida. Quem vem a mim, não terá mais fome, e quem exerce fé em mim, não terá mais sede.
+
+[[v43-6-36]]
+
+^<<v43-6-36,36>>^ Mas, eu vos tenho dito: Vós até mesmo me^&#42;1^ vistes, e, contudo, não credes.
+
+[NOTE]
+====
+. “Me”, P66,75BD; אASyc,s omitem isso.
+====
+
+[[v43-6-37]]
+
+^<<v43-6-37,37>>^ Tudo o que o Pai me dá virá a mim, e aquele que vem a mim, eu de modo algum enxotarei;
+
+[[v43-6-38]]
+
+^<<v43-6-38,38>>^ porque desci do céu, não para fazer a minha vontade, mas a vontade daquele que me enviou.
+
+[[v43-6-39]]
+
+^<<v43-6-39,39>>^ Esta é a vontade daquele que me enviou, que eu não perca nada de tudo o que ele me tem dado, mas que eu o ressuscite no último dia.
+
+[[v43-6-40]]
+
+^<<v43-6-40,40>>^ Pois esta é a vontade de meu Pai, que todo aquele que observa o Filho e exerce fé nele tenha vida eterna, e eu o ressuscitarei no último dia.”
+
+[[v43-6-41]]
+
+^<<v43-6-41,41>>^ Os judeus começaram, portanto, a resmungar contra ele, porque dissera: “Eu sou o pão que desceu do céu”;
+
+[[v43-6-42]]
+
+^<<v43-6-42,42>>^ e começaram a dizer: “Não é este Jesus, filho de José, cujo pai e mãe conhecemos? Como é que ele diz agora: ‘Eu desci do céu’?”
+
+[[v43-6-43]]
+
+^<<v43-6-43,43>>^ Em resposta, Jesus disse-lhes: “Parai de resmungar entre vós.
+
+[[v43-6-44]]
+
+^<<v43-6-44,44>>^ Ninguém pode vir a mim, a menos que o Pai, que me enviou, o atraia; e eu o ressuscitarei no último dia.
+
+[[v43-6-45]]
+
+^<<v43-6-45,45>>^ Está escrito nos Profetas: ‘E todos eles serão ensinados^&#42;1^ por Jeová.’^&#42;2^ Todo aquele que do Pai ouviu e aprendeu vem a mim.
+
+[NOTE]
+====
+. Ou “serão os ensinados”.
+. Veja Ap. 1D.
+====
+
+[[v43-6-46]]
+
+^<<v43-6-46,46>>^ Não é que algum homem tenha visto o Pai, exceto aquele que é de Deus; este tem visto o Pai.
+
+[[v43-6-47]]
+
+^<<v43-6-47,47>>^ Eu vos digo em toda a verdade: Quem crê, tem vida eterna.
+
+[[v43-6-48]]
+
+^<<v43-6-48,48>>^ “Eu sou o pão da vida.
+
+[[v43-6-49]]
+
+^<<v43-6-49,49>>^ Vossos antepassados comeram o maná no ermo, e, não obstante, morreram.
+
+[[v43-6-50]]
+
+^<<v43-6-50,50>>^ Este é o pão que desce do céu, para que qualquer um possa comer dele e não morrer.
+
+[[v43-6-51]]
+
+^<<v43-6-51,51>>^ Eu sou o pão vivo que desceu do céu; se alguém comer deste pão, viverá para sempre; e, de fato, o pão que eu hei de dar é a minha carne a favor da vida do mundo.”
+
+[[v43-6-52]]
+
+^<<v43-6-52,52>>^ Portanto, os judeus começaram a contender entre si, dizendo: “Como pode este homem dar-nos sua carne para comer?”
+
+[[v43-6-53]]
+
+^<<v43-6-53,53>>^ Concordemente, Jesus disse-lhes: “Digo-vos em toda a verdade: A menos que comais a carne do Filho do homem e bebais o seu sangue, não tendes vida em vós mesmos.
+
+[[v43-6-54]]
+
+^<<v43-6-54,54>>^ Quem se alimenta de minha carne e bebe meu sangue tem vida eterna, e eu o hei de ressuscitar no último dia;
+
+[[v43-6-55]]
+
+^<<v43-6-55,55>>^ pois a minha carne é verdadeiro alimento, e o meu sangue é verdadeira bebida.
+
+[[v43-6-56]]
+
+^<<v43-6-56,56>>^ Quem se alimenta de minha carne e bebe meu sangue permanece em união comigo^&#42;1^ e eu em união com ele.
+
+[NOTE]
+====
+. “Em união comigo.” Ou “em mim”. Gr.: en e·moí.
+====
+
+[[v43-6-57]]
+
+^<<v43-6-57,57>>^ Assim como o Pai vivente me enviou e eu vivo por causa do Pai, também aquele que se alimenta de mim, sim, esse viverá por causa de mim.
+
+[[v43-6-58]]
+
+^<<v43-6-58,58>>^ Este é o pão que desceu do céu. Não é como quando os vossos antepassados comeram, e, não obstante, morreram. Quem se alimentar deste pão viverá para sempre.”
+
+[[v43-6-59]]
+
+^<<v43-6-59,59>>^ Estas coisas ele disse enquanto estava ensinando numa assembléia pública em Cafarnaum.
+
+[[v43-6-60]]
+
+^<<v43-6-60,60>>^ Portanto, muitos dos seus discípulos, ao ouvirem isso, disseram: “Esta palavra é chocante; quem pode escutar isso?”
+
+[[v43-6-61]]
+
+^<<v43-6-61,61>>^ Mas Jesus, sabendo em si mesmo que seus discípulos estavam resmungando sobre isso, disse-lhes: “Causa-vos isso tropeço?
+
+[[v43-6-62]]
+
+^<<v43-6-62,62>>^ Que [seria], portanto, se observásseis o Filho do homem ascender para onde estava antes?
+
+[[v43-6-63]]
+
+^<<v43-6-63,63>>^ É o espírito que é vivificante; a carne não é de nenhum proveito. As declarações que eu vos tenho feito são^&#42;1^ espírito e são vida.
+
+[NOTE]
+====
+. Ou “significam”. Veja Mt 12:7 n.
+====
+
+[[v43-6-64]]
+
+^<<v43-6-64,64>>^ Mas, há alguns de vós que não crêem.” Pois Jesus sabia desde [o] princípio quem eram os que não criam e quem era o que o havia de trair.
+
+[[v43-6-65]]
+
+^<<v43-6-65,65>>^ Prosseguiu assim a dizer: “É por isso que eu vos tenho dito: Ninguém pode vir a mim, a menos que isso lhe seja concedido pelo Pai.”
+
+[[v43-6-66]]
+
+^<<v43-6-66,66>>^ Devido a isso, muitos dos seus discípulos foram embora para as coisas [deixadas] atrás e não andavam mais com ele.
+
+[[v43-6-67]]
+
+^<<v43-6-67,67>>^ Portanto, Jesus disse aos doze: “Será que vós também quereis ir?”
+
+[[v43-6-68]]
+
+^<<v43-6-68,68>>^ Simão Pedro respondeu-lhe: “Senhor, para quem havemos de ir? Tu tens declarações de vida eterna;
+
+[[v43-6-69]]
+
+^<<v43-6-69,69>>^ e nós cremos e viemos a saber que tu és o Santo de Deus.”
+
+[[v43-6-70]]
+
+^<<v43-6-70,70>>^ Jesus respondeu-lhes: “Não escolhi eu a vós doze? Contudo, um de vós é um caluniador.”^&#42;1^
+
+[NOTE]
+====
+. Ou “é um diabo”. Gr.: di·á·bo·lós e·stin.
+====
+
+[[v43-6-71]]
+
+^<<v43-6-71,71>>^ Ele estava, de fato, falando de Judas, [filho] de Simão Iscariotes; porque este ia traí-lo, embora [fosse] um dos doze.
+
+'''
+
+xref:043-joao/043-joao-005.adoc#v43-5-0[&#60; Capítulo Anterior] | <<v43-6-0,Topo>> | xref:043-joao/043-joao-007.adoc#v43-7-0[Próximo Capítulo &#62;]

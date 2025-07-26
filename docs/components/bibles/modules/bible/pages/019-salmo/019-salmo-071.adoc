@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v19-71-0]]
+=== Salmos, 71
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v19-71-1]]
+
+^<<v19-71-1,1>>^ Em ti me refugiei, ó Jeová.
+Nunca seja eu envergonhado.
+
+[[v19-71-2]]
+
+^<<v19-71-2,2>>^ Que tu me livres na tua justiça e me ponhas a salvo.
+Inclina-me o teu ouvido e salva-me.
+
+[[v19-71-3]]
+
+^<<v19-71-3,3>>^ Torna-te para mim um baluarte rochoso em que se entra constantemente.
+Tens de dar ordem de salvar-me,
+Pois tu és meu rochedo e minha fortaleza.
+
+[[v19-71-4]]
+
+^<<v19-71-4,4>>^ Ó meu Deus, põe-me a salvo da mão do iníquo,
+Da palma da mão daquele que age injusta e opressivamente.
+
+[[v19-71-5]]
+
+^<<v19-71-5,5>>^ Pois tu és a minha esperança, ó Soberano Senhor Jeová, minha confiança desde a minha mocidade.
+
+[[v19-71-6]]
+
+^<<v19-71-6,6>>^ Em ti me firmei desde o ventre;
+Foste Tu que me separaste das entranhas de minha mãe.
+Em ti está constantemente meu louvor.
+
+[[v19-71-7]]
+
+^<<v19-71-7,7>>^ Para muitos tornei-me como que um milagre;
+Mas tu és meu forte refúgio.
+
+[[v19-71-8]]
+
+^<<v19-71-8,8>>^ Minha boca está cheia do teu louvor,
+Da tua beleza, o dia inteiro.
+
+[[v19-71-9]]
+
+^<<v19-71-9,9>>^ Não me lances fora no tempo da velhice;
+Não me deixes quando meu poder falhar.
+
+[[v19-71-10]]
+
+^<<v19-71-10,10>>^ Porque meus inimigos disseram a meu respeito,
+E os próprios que estão vigiando a minha alma trocaram juntamente conselhos,
+
+[[v19-71-11]]
+
+^<<v19-71-11,11>>^ Dizendo: “O próprio Deus o abandonou.
+Persegui-o e pegai-o, pois não há livrador.”
+
+[[v19-71-12]]
+
+^<<v19-71-12,12>>^ Ó Deus, não te mantenhas longe de mim.
+Ó meu Deus, apressa-te deveras em meu auxílio.
+
+[[v19-71-13]]
+
+^<<v19-71-13,13>>^ Sejam envergonhados, tenham fim os que resistem à minha alma.
+Cubram-se de vitupério e de humilhação os que procuram a minha calamidade.
+
+[[v19-71-14]]
+
+^<<v19-71-14,14>>^ Eu, porém, esperarei constantemente,
+E vou acrescentar a todo o teu louvor.
+
+[[v19-71-15]]
+
+^<<v19-71-15,15>>^ Minha própria boca narrará a tua justiça,
+Tua salvação, o dia inteiro,
+Pois não fiquei sabendo [seu] número.
+
+[[v19-71-16]]
+
+^<<v19-71-16,16>>^ Chegarei em grandiosa potência, ó Soberano Senhor Jeová;
+Mencionarei a tua justiça, somente a tua.
+
+[[v19-71-17]]
+
+^<<v19-71-17,17>>^ Ó Deus, tu me ensinaste desde a minha mocidade,
+E até agora estou contando as tuas obras maravilhosas.
+
+[[v19-71-18]]
+
+^<<v19-71-18,18>>^ E não me abandones mesmo até a velhice e as cãs, ó Deus,
+Até que eu possa informar a geração sobre o teu braço,
+Todos os que estão para vir, sobre a tua potência.
+
+[[v19-71-19]]
+
+^<<v19-71-19,19>>^ Tua justiça, ó Deus, [eleva-se] até a altura;
+Quanto às grandes coisas que fizeste,
+Ó Deus, quem é semelhante a ti?
+
+[[v19-71-20]]
+
+^<<v19-71-20,20>>^ Por me^&#42;1^ teres feito ver muitas aflições e calamidades,
+Revive-me novamente;
+E faze-me subir novamente das águas de profundeza^&#42;2^ da terra.
+
+[NOTE]
+====
+. “Me”, MmargemLXXSyVg; M: “nos”.
+. Ou “das águas empoladas”. Mediante a correção do M: “das partes (mais) baixas”, como em 63:9.
+====
+
+[[v19-71-21]]
+
+^<<v19-71-21,21>>^ Que tu aumentes a minha grandeza,
+E que tu me cerques [e] me consoles.
+
+[[v19-71-22]]
+
+^<<v19-71-22,22>>^ Também eu te elogiarei num instrumento dos de cordas
+Referente à tua veracidade, ó meu Deus.
+Vou entoar-te melodias na harpa, ó Santo de Israel.
+
+[[v19-71-23]]
+
+^<<v19-71-23,23>>^ Meus lábios gritarão de júbilo quando eu estiver inclinado a entoar-te melodias,
+Sim, minha alma que remiste.
+
+[[v19-71-24]]
+
+^<<v19-71-24,24>>^ Também a minha própria língua, o dia inteiro, proferirá em voz baixa a tua justiça,
+Pois ficaram envergonhados, pois ficaram encabulados os que procuram a minha calamidade.
+
+'''
+
+xref:019-salmo/019-salmo-070.adoc#v19-70-0[&#60; Capítulo Anterior] | <<v19-71-0,Topo>> | xref:019-salmo/019-salmo-072.adoc#v19-72-0[Próximo Capítulo &#62;]

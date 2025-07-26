@@ -1,0 +1,134 @@
+include::./index.adoc[]
+
+[[v14-31-0]]
+=== 2 Crônicas, 31
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v14-31-1]]
+
+^<<v14-31-1,1>>^ E assim que acabaram com tudo isso, todos os israelitas que [ali] se achavam saíram às cidades de Judá, e eles passaram a destroçar as colunas sagradas, e a cortar os postes sagrados,^&#42;1^ e a demolir os altos e os altares em todo o Judá e Benjamim, e em Efraim e em Manassés, até que acabaram; depois retornaram todos os filhos de Israel às suas cidades, cada um à sua própria propriedade.
+
+[NOTE]
+====
+. Ou “as Axerás”.
+====
+
+[[v14-31-2]]
+
+^<<v14-31-2,2>>^ Ezequias fixou então as turmas dos sacerdotes e dos levitas nas suas turmas, cada um de acordo com o seu serviço, para os sacerdotes e para os levitas, no que se refere à oferta queimada e aos sacrifícios de participação em comum, para ministrar e para dar graças, e para louvar nos portões dos acampamentos de Jeová.
+
+[[v14-31-3]]
+
+^<<v14-31-3,3>>^ E havia uma porção da parte do rei, dos seus próprios bens, para as ofertas queimadas, para as ofertas queimadas da manhã e da noitinha, e também para as ofertas queimadas dos sábados, e para as luas novas, e para as épocas festivas, segundo o que está escrito na lei de Jeová.
+
+[[v14-31-4]]
+
+^<<v14-31-4,4>>^ Ainda mais, ele disse ao povo, aos habitantes de Jerusalém, que dessem a porção pertencente aos sacerdotes e aos levitas, para que estes pudessem aderir estritamente à lei de Jeová.
+
+[[v14-31-5]]
+
+^<<v14-31-5,5>>^ E assim que se divulgou a palavra, os filhos de Israel aumentaram as primícias do cereal, do vinho novo e do azeite, e do mel, e de todos os produtos do campo, e trouxeram abundantemente o décimo de tudo.
+
+[[v14-31-6]]
+
+^<<v14-31-6,6>>^ E os filhos de Israel e de Judá que moravam nas cidades de Judá, sim, estes mesmos [trouxeram]^&#42;1^ o décimo do gado vacum e das ovelhas, e o décimo das coisas sagradas, as coisas santificadas a Jeová, seu Deus. Trouxeram-nas e assim deram montes sobre montes.
+
+[NOTE]
+====
+. “Trouxeram”, LXXVg; M omite isso.
+====
+
+[[v14-31-7]]
+
+^<<v14-31-7,7>>^ Principiaram com os montes no terceiro mês, depositando a camada mais baixa, e acabaram no sétimo mês.
+
+[[v14-31-8]]
+
+^<<v14-31-8,8>>^ Quando Ezequias e os príncipes chegaram e viram os montes, passaram a bendizer a Jeová e o seu povo Israel.
+
+[[v14-31-9]]
+
+^<<v14-31-9,9>>^ Com o tempo, Ezequias consultou os sacerdotes e os levitas com respeito aos montes.
+
+[[v14-31-10]]
+
+^<<v14-31-10,10>>^ Então lhe disse Azarias,^&#42;1^ o sacerdote principal da casa de Zadoque, sim, ele disse: “Desde o tempo em que principiaram a trazer a contribuição à casa de Jeová comeu-se e [a gente] fartou-se, e há sobras em abundância; porque o próprio Jeová tem abençoado seu povo, e o que sobra é esta grande abundância.”^&#42;2^
+
+[NOTE]
+====
+. “Azarias.” Hebr.: ‛Azar·yá·hu.
+. “Tem abençoado seu povo, e ainda temos esta quantidade (grande número; multidão) sobrando”, LXX. Esta passagem difícil parece rezar no M: “tem abençoado seu povo e o restante (o que sobrou), sim, esta multidão”.
+====
+
+[[v14-31-11]]
+
+^<<v14-31-11,11>>^ Portanto, Ezequias disse que se preparassem refeitórios na casa de Jeová. Conseqüentemente os prepararam.
+
+[[v14-31-12]]
+
+^<<v14-31-12,12>>^ E traziam a contribuição, e o décimo, e as coisas sagradas em fidelidade; e Conanias,^&#42;1^ o levita, estava encarregado deles como líder, e Simei, seu irmão, era o segundo.
+
+[NOTE]
+====
+. “Conanias.” Hebr.: Koh·nan·yá·hu.
+====
+
+[[v14-31-13]]
+
+^<<v14-31-13,13>>^ E Jeiel, e Azazias,^&#42;1^ e Naate, e Asael, e Jerimote, e Jozabade, e Eliel, e Ismaquias,^&#42;2^ e Maate, e Benaia^&#42;3^ eram comissários ao lado de Conanias e de Simei, seu irmão, por ordem de Ezequias, o rei, e Azarias era o que liderava na casa do [verdadeiro] Deus.
+
+[NOTE]
+====
+. “E Azazias.” Hebr.: wa·‛Azaz·yá·hu.
+. “E Ismaquias.” Hebr.: weYis·makh·yá·hu.
+. “E Benaia.” Hebr.: u·Vena·yá·hu.
+====
+
+[[v14-31-14]]
+
+^<<v14-31-14,14>>^ E Core, filho de Imná, o levita, era o porteiro ao leste, encarregado das ofertas voluntárias do [verdadeiro] Deus, para dar a contribuição de Jeová e as coisas santíssimas.
+
+[[v14-31-15]]
+
+^<<v14-31-15,15>>^ E sob o seu controle estavam Éden, e Miniamim, e Jesua,^&#42;1^ e Semaías,^&#42;2^ Amarias^&#42;3^ e Secanias,^&#42;4^ nas cidades dos sacerdotes, em cargo de confiança, para fazerem a entrega aos seus irmãos nas turmas, eqüitativamente ao grande e ao pequeno;
+
+[NOTE]
+====
+. “E Jesua.” Hebr.: weYe·shú·a‛; LXX: “Jesus”. Veja Gên 49:18 n.: “ti”.
+. “E Semaías.” Hebr.: u·Shema·‛eyá·hu.
+. “Amarias.” Hebr.: ’Amar·yá·hu.
+. “E Secanias.” Hebr.: u·Shekhan·yá·hu.
+====
+
+[[v14-31-16]]
+
+^<<v14-31-16,16>>^ à parte do seu registro genealógico dos machos de três anos de idade para cima, de todos os que entravam na casa de Jeová como questão rotineira diária, para o seu serviço segundo as suas obrigações, de acordo com as suas turmas.
+
+[[v14-31-17]]
+
+^<<v14-31-17,17>>^ Este é^&#42;1^ o registro genealógico dos sacerdotes, segundo a casa de seus pais, e também dos levitas, da idade de vinte anos para cima, segundo as suas obrigações nas suas turmas,
+
+[NOTE]
+====
+. “Este é”, LXX; M: “E [tinham]”.
+====
+
+[[v14-31-18]]
+
+^<<v14-31-18,18>>^ tanto para o registro genealógico entre todos os seus pequeninos, suas esposas, e seus filhos, e suas filhas, para toda a congregação, porque no seu cargo de confiança passaram a santificar-se para o que era santo,
+
+[[v14-31-19]]
+
+^<<v14-31-19,19>>^ como para os filhos de Arão, os sacerdotes, nos campos de pastio das suas cidades. Em todas as diversas cidades havia homens que tinham sido designados por nomes para dar porções a cada macho entre os sacerdotes e ao registro genealógico inteiro entre os levitas.
+
+[[v14-31-20]]
+
+^<<v14-31-20,20>>^ E Ezequias passou a fazer assim em todo o Judá, e ele continuou fazendo o que era bom, e direito, e fiel perante Jeová, seu Deus.
+
+[[v14-31-21]]
+
+^<<v14-31-21,21>>^ E em todo o trabalho que principiou no serviço da casa do [verdadeiro] Deus e na lei e no mandamento para buscar seu Deus agia de todo o seu coração e mostrou-se bem sucedido.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-030.adoc#v14-30-0[&#60; Capítulo Anterior] | <<v14-31-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-032.adoc#v14-32-0[Próximo Capítulo &#62;]

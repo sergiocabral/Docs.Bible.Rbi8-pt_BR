@@ -1,0 +1,32 @@
+include::./index.adoc[]
+
+[[v19-134-0]]
+=== Salmos, 134
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+_Cântico das Subidas.^&#42;1^_
+
+[[v19-134-1]]
+
+^<<v19-134-1,1>>^ Bendizei a Jeová,
+Todos vós, servos de Jeová,
+Os que estais de pé na casa de Jeová durante as noites.
+
+[[v19-134-2]]
+
+^<<v19-134-2,2>>^ Levantai as mãos em santidade
+E bendizei a Jeová.
+
+[[v19-134-3]]
+
+^<<v19-134-3,3>>^ Jeová te^&#42;1^ abençoe desde Sião,
+Ele, Quem fez o céu e a terra.
+
+[NOTE]
+====
+. “Te”, hebr. sing.
+====
+
+'''
+
+xref:019-salmo/019-salmo-133.adoc#v19-133-0[&#60; Capítulo Anterior] | <<v19-134-0,Topo>> | xref:019-salmo/019-salmo-135.adoc#v19-135-0[Próximo Capítulo &#62;]

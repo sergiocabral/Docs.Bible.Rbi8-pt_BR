@@ -1,0 +1,164 @@
+include::./index.adoc[]
+
+[[v9-4-0]]
+=== 1 Samuel, 4
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v9-4-1]]
+
+^<<v9-4-1,1>>^ E a palavra de Samuel continuava vir a ser^&#42;1^ para todo o Israel.^&#42;2^
+Israel saiu então para enfrentar os filisteus^&#42;3^ em batalha; e passaram a acampar-se junto a^&#42;4^ Ebenezer,^&#42;5^ e os próprios filisteus se acamparam em Afeque.
+
+[NOTE]
+====
+. Ou “ocorrer”.
+. Muitos mss. hebr. têm aqui um espaço em branco, possivelmente para indicar uma omissão, a qual seria preenchida por esta adição da LXX: “E aconteceu naqueles dias que os estrangeiros (filisteus) começaram a ajuntar-se contra Israel para batalha.”
+. Ou “saiu contra os filisteus”, M; LXX: “saiu para enfrentá-los”.
+. Ou “em”.
+. “Ebenezer.” Lit.: “a Ajuda de Pedra”. Hebr.: ha·’É·ven (“a Pedra”) ha·‛É·zer (“a Ajuda”); gr.: A·be·né·zer; Vg: “a Pedra de Ajuda”. Veja 7:12 n.: “Ebenezer”.
+====
+
+[[v9-4-2]]
+
+^<<v9-4-2,2>>^ E os filisteus passaram a pôr-se em formação para enfrentar a Israel, e a batalha ia mal,^&#42;1^ de modo que Israel foi derrotado diante dos filisteus, os quais golpearam cerca de quatro mil homens^&#42;2^ em cerrada fileira combatente no campo.
+
+[NOTE]
+====
+. “A batalha ia declinando”, LXX, isto é, adversamente para Israel.
+. “Os quais golpearam cerca de quatro mil homens”, M; LXXSyVg: “e (cerca de) quatro mil homens foram abatidos”.
+====
+
+[[v9-4-3]]
+
+^<<v9-4-3,3>>^ Quando o povo chegou ao acampamento, os anciãos de Israel começaram a dizer: “Por que nos derrotou Jeová hoje diante dos filisteus? Tomemos para nós de Silo a arca do pacto de Jeová, para que venha ao nosso meio e para que nos salve da palma da mão dos nossos inimigos.”
+
+[[v9-4-4]]
+
+^<<v9-4-4,4>>^ Portanto, o povo enviou [mensageiros] a Silo e trouxe de lá a arca do pacto de Jeová dos exércitos, que está sentado sobre^&#42;1^ os querubins. E estavam ali os dois filhos de Eli com a arca do pacto do [verdadeiro] Deus,^&#42;2^ a saber, Hofni e Finéias.
+
+[NOTE]
+====
+. Ou “entre”. M omite isso.
+. “Do [verdadeiro] Deus.” Hebr.: ha’Elo·hím; SyVg: “Jeová”; Vgc: “Deus”. Veja Ap. 1F.
+====
+
+[[v9-4-5]]
+
+^<<v9-4-5,5>>^ E sucedeu que, assim que a arca do pacto de Jeová entrou no acampamento, todos os israelitas irromperam numa grande gritaria, de modo que a terra estava em alvoroço.
+
+[[v9-4-6]]
+
+^<<v9-4-6,6>>^ Também os filisteus chegaram a ouvir o som da gritaria e começaram a dizer: “Que significa o som desta grande gritaria no acampamento dos hebreus?” Finalmente, ficaram sabendo que a própria arca de Jeová tinha chegado ao acampamento.
+
+[[v9-4-7]]
+
+^<<v9-4-7,7>>^ E os filisteus ficaram com medo, porque disseram: “Deus^&#42;1^ chegou ao acampamento!” Por isso disseram: “Ai de nós, pois nunca antes aconteceu tal coisa!
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím, pl., para denotar majestade, com o verbo no sing.: “chegou”; LXX: “Esses deuses”; lat.: Dé·us.
+====
+
+[[v9-4-8]]
+
+^<<v9-4-8,8>>^ Ai de nós! Quem nos salvará da mão deste Deus majestoso? Este é o Deus que golpeou^&#42;1^ o Egito com toda sorte de matança no ermo.
+
+[NOTE]
+====
+. Ou “destes deuses majestosos? Esses são os deuses que golpearam”. No M, estas palavras estão no pl., e podem denotar majestade expressa até mesmo por parte dos filisteus pagãos. Veja 5:7 n.
+====
+
+[[v9-4-9]]
+
+^<<v9-4-9,9>>^ Sede corajosos e mostrai-vos homens, ó filisteus, para que não sirvais aos hebreus assim como eles vos serviram; e tendes de mostrar-vos homens e lutar!”
+
+[[v9-4-10]]
+
+^<<v9-4-10,10>>^ Por conseguinte, os filisteus lutaram e Israel foi derrotado, e puseram-se em fuga, cada um para a sua tenda;^&#42;1^ e a matança veio a ser muito grande, de modo que de Israel caíram trinta mil homens a pé.
+
+[NOTE]
+====
+. “Tenda”, LXXSyVg; M: “tendas”.
+====
+
+[[v9-4-11]]
+
+^<<v9-4-11,11>>^ E foi capturada a própria arca de Deus,^&#42;1^ e morreram os dois filhos de Eli, Hofni e Finéias.
+
+[NOTE]
+====
+. “Deus.” Hebr.: ’Elo·hím; gr.: The·oú; lat.: Dé·i; Sy: “Jeová”.
+====
+
+[[v9-4-12]]
+
+^<<v9-4-12,12>>^ E um homem de Benjamim saiu correndo das fileiras combatentes, de maneira que chegou naquele dia a Silo com as suas vestes rasgadas e com terra sobre a sua cabeça.
+
+[[v9-4-13]]
+
+^<<v9-4-13,13>>^ Quando chegou, eis que Eli estava sentado na cadeira à beira do caminho, vigiando, porque seu coração ficara tremendo por causa da arca do [verdadeiro] Deus. E o próprio homem entrou na cidade para dar notícias e a cidade inteira começou a clamar.
+
+[[v9-4-14]]
+
+^<<v9-4-14,14>>^ E Eli chegou a ouvir o som do clamor. Ele disse, pois: “Que significa o som deste tumulto?” E o próprio homem se apressou para entrar e informar Eli.
+
+[[v9-4-15]]
+
+^<<v9-4-15,15>>^ (Ora, Eli tinha noventa e oito anos de idade e seus olhos estavam parados, de modo que não podia ver.)
+
+[[v9-4-16]]
+
+^<<v9-4-16,16>>^ E o homem passou a dizer a Eli: “Sou eu que vim da linha de batalha,^&#42;1^ e eu — foi da linha de batalha que fugi hoje.” A isso ele disse: “Que coisa aconteceu, meu filho?”
+
+[NOTE]
+====
+. “Linha de batalha”, M; Vg: “batalha”; LXX: “acampamento”.
+====
+
+[[v9-4-17]]
+
+^<<v9-4-17,17>>^ Portanto, o portador das novas respondeu e disse: “Israel fugiu diante dos filisteus e houve também uma grande derrota entre o povo; e também morreram os teus próprios dois filhos — Hofni e Finéias — e foi capturada a própria arca do [verdadeiro] Deus.”
+
+[[v9-4-18]]
+
+^<<v9-4-18,18>>^ E sucedeu que, no momento em que mencionou^&#42;1^ a arca do [verdadeiro] Deus, ele começou a cair da cadeira para trás, ao lado do portão, e fraturou o pescoço, de modo que morreu, pois era homem idoso e pesado; e ele mesmo havia julgado Israel por quarenta anos.
+
+[NOTE]
+====
+. Ou “lembrou”.
+====
+
+[[v9-4-19]]
+
+^<<v9-4-19,19>>^ E sua nora, esposa de Finéias, estava grávida, próxima a dar à luz, e ela chegou a ouvir a notícia de que a arca do [verdadeiro] Deus fora capturada e de que seu sogro e seu esposo tinham morrido. Então ela se dobrou e passou a dar à luz, porque lhe sobrevieram inesperadamente as dores.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “lhe voltaram as dores”.
+====
+
+[[v9-4-20]]
+
+^<<v9-4-20,20>>^ E na hora de ela morrer, as mulheres que estavam de pé com ela começaram a falar: “Não tenhas medo, porque deste à luz um filho.” E ela não respondeu, nem fixou nisso seu coração.
+
+[[v9-4-21]]
+
+^<<v9-4-21,21>>^ Mas chamou o rapazinho de Icabode,^&#42;1^ dizendo: “A glória exilou-se de Israel”, referindo-se à arca do [verdadeiro] Deus ser capturada e referindo-se a seu sogro e a seu esposo.
+
+[NOTE]
+====
+. Significando “Onde Está a Glória?”.
+====
+
+[[v9-4-22]]
+
+^<<v9-4-22,22>>^ Por isso ela disse: “A glória exilou-se de Israel, porque foi capturada a arca do [verdadeiro] Deus.”^&#42;1^
+
+[NOTE]
+====
+. “Do [verdadeiro] Deus.” Hebr.: ha·’Elo·hím; LXX: “Jeová”. Veja Ap. 1F.
+====
+
+'''
+
+xref:009-1-samuel/009-1-samuel-003.adoc#v9-3-0[&#60; Capítulo Anterior] | <<v9-4-0,Topo>> | xref:009-1-samuel/009-1-samuel-005.adoc#v9-5-0[Próximo Capítulo &#62;]

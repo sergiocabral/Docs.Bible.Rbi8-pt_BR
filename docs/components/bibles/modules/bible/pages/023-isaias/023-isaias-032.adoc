@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v23-32-0]]
+=== Isaías, 32
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v23-32-1]]
+
+^<<v23-32-1,1>>^ Eis que um rei reinará para a própria justiça; e quanto a príncipes,^&#42;1^ governarão como príncipes para o próprio juízo.
+
+[NOTE]
+====
+. “E quanto a príncipes.” Hebr.: u·lesa·rím.
+====
+
+[[v23-32-2]]
+
+^<<v23-32-2,2>>^ E cada um [deles] terá de mostrar ser como abrigo contra o vento^&#42;1^ e como esconderijo contra o temporal, como correntes de água numa terra árida, como a sombra dum pesado rochedo numa terra esgotada.
+
+[NOTE]
+====
+. “Vento.” Hebr.: rú·ahh; lat.: vén·to.
+====
+
+[[v23-32-3]]
+
+^<<v23-32-3,3>>^ E os olhos dos que vêem não ficarão grudados^&#42;1^ e os próprios ouvidos dos que ouvem atentarão.
+
+[NOTE]
+====
+. “Não ficarão grudados”, mediante uma ligeira correção do M, em harmonia com TSyVg; M: “não olharão”.
+====
+
+[[v23-32-4]]
+
+^<<v23-32-4,4>>^ E o próprio coração dos apressados demais considerará o conhecimento e até mesmo a língua dos gagos se apressará a falar coisas claras.
+
+[[v23-32-5]]
+
+^<<v23-32-5,5>>^ O insensato não mais será chamado de generoso; e quanto ao homem sem princípios, não se dirá que é nobre;
+
+[[v23-32-6]]
+
+^<<v23-32-6,6>>^ porque o próprio insensato falará mera insensatez e o próprio coração dele fará o que é prejudicial, para praticar a apostasia e para falar contra Jeová aquilo que é desordenado, para fazer a alma do faminto ficar vazia, e ele faz até mesmo o sedento passar sem a própria bebida.
+
+[[v23-32-7]]
+
+^<<v23-32-7,7>>^ Quanto ao homem sem princípios, seus instrumentos são maus; ele mesmo aconselhou atos de conduta desenfreada, para estragar os atribulados com declarações falsas, mesmo quando um pobre fala o que é direito.
+
+[[v23-32-8]]
+
+^<<v23-32-8,8>>^ Quanto ao generoso, é para coisas generosas que ele deu conselho; e ele mesmo se levantará a favor de coisas generosas.
+
+[[v23-32-9]]
+
+^<<v23-32-9,9>>^ “Vós, mulheres, que estais despreocupadas, levantai-vos, escutai a minha voz! Vós, filhas descuidadas,^&#42;1^ dai ouvidos à minha declaração!
+
+[NOTE]
+====
+. Ou “confiantes; insuspeitosas”.
+====
+
+[[v23-32-10]]
+
+^<<v23-32-10,10>>^ Dentro de um ano e alguns dias vós descuidadas ficareis agitadas, porque a vindima terá chegado ao fim, [mas] não entrará nenhum recolhimento [de frutos].
+
+[[v23-32-11]]
+
+^<<v23-32-11,11>>^ Tremei, vós mulheres despreocupadas! Ficai agitadas, vós descuidadas! Despi-vos e ponde-vos nuas, e cingi [serapilheira] sobre os lombos.
+
+[[v23-32-12]]
+
+^<<v23-32-12,12>>^ Batei-vos no peito em lamentação pelos campos desejáveis, pela videira frutífera.
+
+[[v23-32-13]]
+
+^<<v23-32-13,13>>^ No solo do meu povo surgem apenas espinhos, espinheiros, pois estão sobre todas as casas de exultação, sim, [sobre] a vila rejubilante.
+
+[[v23-32-14]]
+
+^<<v23-32-14,14>>^ Pois a própria torre de habitação foi abandonada, e o próprio rebuliço da cidade foi deixado; mesmo Ofel e a torre de vigia se tornaram campos baldios, por tempo indefinido a exultação de zebras, pasto de greis;
+
+[[v23-32-15]]
+
+^<<v23-32-15,15>>^ até que o espírito seja despejado sobre nós do alto e o ermo se torne um pomar, e o próprio pomar seja considerado como uma verdadeira floresta.
+
+[[v23-32-16]]
+
+^<<v23-32-16,16>>^ “E no ermo há de residir o juízo e no pomar morará a própria justiça.
+
+[[v23-32-17]]
+
+^<<v23-32-17,17>>^ E o trabalho da [verdadeira] justiça terá de tornar-se a paz; e o serviço da [verdadeira] justiça: sossego e segurança por tempo indefinido.
+
+[[v23-32-18]]
+
+^<<v23-32-18,18>>^ E meu povo terá de morar num lugar de permanência pacífico, e em domicílios de plena confiança, e em lugares de descanso sem perturbação.
+
+[[v23-32-19]]
+
+^<<v23-32-19,19>>^ E há de saraivar quando a floresta descer e a cidade ficar rebaixada a um estado rebaixado.
+
+[[v23-32-20]]
+
+^<<v23-32-20,20>>^ “Felizes sois vós os que semeais junto a todas as águas, mandando embora os pés do touro e do jumento.”
+
+'''
+
+xref:023-isaias/023-isaias-031.adoc#v23-31-0[&#60; Capítulo Anterior] | <<v23-32-0,Topo>> | xref:023-isaias/023-isaias-033.adoc#v23-33-0[Próximo Capítulo &#62;]

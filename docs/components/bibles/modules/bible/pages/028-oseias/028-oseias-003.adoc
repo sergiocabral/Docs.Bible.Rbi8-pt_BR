@@ -1,0 +1,52 @@
+include::./index.adoc[]
+
+[[v28-3-0]]
+=== Oseias, 3
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v28-3-1]]
+
+^<<v28-3-1,1>>^ E Jeová prosseguiu, dizendo-me: “Vai mais uma vez, ama uma mulher amada por um companheiro^&#42;1^ e que comete adultério,^&#42;2^ como no caso do amor de Jeová para com os filhos de Israel, ao passo que eles se viram para outros deuses^&#42;3^ e amam bolos de passas.”
+
+[NOTE]
+====
+. “Amada por um companheiro”, MVg; LXXSy: “amando coisas más”.
+. Ou “e que comete infidelidade marital sexual”. Hebr.: u·mena·’á·feth; gr.: moi·kha·lín; lat.: a·dúl·te·ram. Veja Mt 5:32 n.: “adultério”.
+. “Deuses.” Hebr.: ’elo·hím.
+====
+
+[[v28-3-2]]
+
+^<<v28-3-2,2>>^ E passei a adquiri-la para mim por quinze [moedas] de prata, e por um ômer^&#42;1^ de cevada e meio ômer^&#42;2^ de cevada.
+
+[NOTE]
+====
+. Cerca de 220 l.
+. “E meio ômer.” Hebr.: welé·thekh.
+====
+
+[[v28-3-3]]
+
+^<<v28-3-3,3>>^ Então eu lhe disse: “Morarás por muitos dias como sendo minha. Não deves cometer fornicação e não deves vir a pertencer a [outro] homem;^&#42;1^ e também eu serei para ti.”
+
+[NOTE]
+====
+. “Para outro homem”, LXX; M(hebr.: le’ísh)SyVg: “a um homem”.
+====
+
+[[v28-3-4]]
+
+^<<v28-3-4,4>>^ Isto é porque os filhos de Israel morarão por muitos dias sem rei, e sem príncipe, e sem sacrifício, e sem coluna, e sem éfode e terafins.
+
+[[v28-3-5]]
+
+^<<v28-3-5,5>>^ Depois, os filhos de Israel voltarão e certamente procurarão a Jeová, seu Deus,^&#42;1^ e a Davi, seu rei; e certamente virão trêmulos a Jeová e à sua bondade, na parte final dos dias.
+
+[NOTE]
+====
+. “Seu Deus.” Hebr.: ’Elo·heh·hém.
+====
+
+'''
+
+xref:028-oseias/028-oseias-002.adoc#v28-2-0[&#60; Capítulo Anterior] | <<v28-3-0,Topo>> | xref:028-oseias/028-oseias-004.adoc#v28-4-0[Próximo Capítulo &#62;]

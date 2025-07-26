@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v6-23-0]]
+=== Josué, 23
+// Rbi8 1986, Rbi8 - Tradução do Novo Mundo das Escrituras Sagradas com Referências
+
+[[v6-23-1]]
+
+^<<v6-23-1,1>>^ E sucedeu, muitos dias depois de Jeová ter dado a Israel descanso de todos os seus inimigos ao redor, sendo Josué já idoso e avançado em dias,
+
+[[v6-23-2]]
+
+^<<v6-23-2,2>>^ que Josué passou a convocar todo o Israel, seus anciãos e seus cabeças, e seus juízes, e seus oficiais, e a dizer-lhes: “Quanto a mim, tenho ficado velho, avançado em dias.
+
+[[v6-23-3]]
+
+^<<v6-23-3,3>>^ E quanto a vós, tendes visto tudo o que Jeová, vosso Deus, fez a todas estas nações por vossa causa, porque foi Jeová, vosso Deus, quem lutou por vós.
+
+[[v6-23-4]]
+
+^<<v6-23-4,4>>^ Vede! Eu vos designei por sortes^&#42;1^ estas nações que restam como herança para as vossas tribos, bem como todas as nações que decepei, desde o Jordão^&#42;2^ até o Grande Mar do pôr do sol.
+
+[NOTE]
+====
+. Lit.: “Fiz cair para vós.” LXX: “Lancei sobre vós”; Vg: “ele dividiu para vós por sorte”.
+. Lit.: “estas nações que restam como herança para as vossas tribos desde o Jordão, e todas as [outras] nações que decepei”.
+====
+
+[[v6-23-5]]
+
+^<<v6-23-5,5>>^ E foi Jeová, vosso Deus, quem as empurrava de diante de vós, e ele as desapossou por vossa causa, e tomastes posse da sua terra, assim como Jeová, vosso Deus, vos havia prometido.
+
+[[v6-23-6]]
+
+^<<v6-23-6,6>>^ “E tendes de ser muito corajosos para guardar e fazer tudo o que está escrito no livro da lei de Moisés, nunca vos desviando dele nem para a direita nem para a esquerda,
+
+[[v6-23-7]]
+
+^<<v6-23-7,7>>^ nunca entrando no meio destas nações, estas que restam convosco. E não deveis mencionar os nomes dos seus deuses, nem jurar por eles, nem deveis servir a eles, nem vos curvar diante deles.
+
+[[v6-23-8]]
+
+^<<v6-23-8,8>>^ Mas é a Jeová, vosso Deus, que vos deveis apegar, assim como fizestes até o dia de hoje.
+
+[[v6-23-9]]
+
+^<<v6-23-9,9>>^ E Jeová desalojará de diante de vós nações grandes e fortes. (Quanto a vós, nem um único homem se manteve de pé diante de vós até o dia de hoje.)
+
+[[v6-23-10]]
+
+^<<v6-23-10,10>>^ Um só homem vosso irá no encalço de mil, porque Jeová, vosso Deus, é quem luta por vós, assim como vos prometeu.
+
+[[v6-23-11]]
+
+^<<v6-23-11,11>>^ E tendes de guardar constantemente as vossas almas,^&#42;1^ amando a Jeová, vosso Deus.
+
+[NOTE]
+====
+. “As vossas almas (vidas; vós mesmos).” Hebr.: lenaf·sho·theh·khém, pl.; sir.: nenaf·shekhun.
+====
+
+[[v6-23-12]]
+
+^<<v6-23-12,12>>^ “Mas, se realmente recuardes e deveras vos apegardes ao que sobra destas nações, estas que restam convosco, e deveras formardes alianças matrimoniais com elas e entrardes no meio delas, e elas no meio de vós,
+
+[[v6-23-13]]
+
+^<<v6-23-13,13>>^ deveis saber positivamente que Jeová, vosso Deus, não continuará a desapossar estas nações por vossa causa; e elas terão de tornar-se para vós como armadilha, e como laço, e como açoite nos vossos lados, e como espinhos nos vossos olhos, até que tenhais perecido de cima deste solo bom que Jeová, vosso Deus, vos deu.
+
+[[v6-23-14]]
+
+^<<v6-23-14,14>>^ “Ora, eis que hoje estou indo no caminho de toda a terra, e vós bem sabeis, de todo o vosso coração e de toda a vossa alma, que não falhou nem uma única de todas as boas palavras que Jeová, vosso Deus, vos falou. Todas elas se cumpriram para convosco. Nem uma única palavra delas falhou.
+
+[[v6-23-15]]
+
+^<<v6-23-15,15>>^ E tem de suceder que, assim como vos sobreveio toda a palavra boa que Jeová, vosso Deus, vos falou, assim Jeová trará sobre vós toda a palavra má, até que vos tenha aniquilado de cima deste solo bom que Jeová, vosso Deus, vos deu,
+
+[[v6-23-16]]
+
+^<<v6-23-16,16>>^ por infringirdes o pacto de Jeová, vosso Deus, que ele vos ordenou, e por terdes ido e servido a outros deuses, e vos terdes curvado diante deles. E certamente se acenderá contra vós a ira de Jeová e certamente perecereis depressa de cima da boa terra que vos deu.”
+
+'''
+
+xref:006-josue/006-josue-022.adoc#v6-22-0[&#60; Capítulo Anterior] | <<v6-23-0,Topo>> | xref:006-josue/006-josue-024.adoc#v6-24-0[Próximo Capítulo &#62;]
